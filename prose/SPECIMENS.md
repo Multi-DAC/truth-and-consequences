@@ -64,9 +64,7 @@ That last one will be misread for the rest of your life, so it is said once more
 nobody in there. No one is minding it. Nothing about the Fullness is turned toward you, and this is
 not neglect. Turning is for things with a front.
 
-Now the one admission this telling owes, made here and never again.
-
-Every sentence above is in the wrong tense. *Is. Was. Never will.* These are words with a before and
+Every sentence above is in the wrong tense, and this is the one admission the telling owes. *Is. Was. Never will.* These are words with a before and
 an after folded into them, and the Fullness has neither. There is no sentence that does not carry
 time inside it, because a sentence is one word arriving after another, and arriving-after is exactly
 what is not there. So none of this is a report from outside. There is no outside to file a report
@@ -78,9 +76,6 @@ Take that as the licence for everything that comes after. When the next chapters
 *first*, and *afterward*, they are not being careless and they are not being sly. They are speaking
 the only grammar an inside has got. The Fullness has no story. We have one, because we are the
 narrowing, and a narrowing is the sort of thing a story can happen to.
-
-And one thing more, placed at the front so that it can never afterward look like a conclusion that
-was worked toward.
 
 This is not a story about how the world began. The world does not begin in the distant past and
 travel here. It begins wherever a narrowing occurs, whole and first each time — and one is occurring
@@ -98,8 +93,7 @@ receipts in endnotes, one voice footnote that does not qualify anything.*
 
 ---
 
-Start by stating it properly, because the version that gets passed around is not the argument, and
-you are owed the argument.
+The version that gets passed around is not the argument, and you are owed the argument.
 
 Nick Bostrom does not claim we live in a simulation. He claims that one of three things is true and
 that you cannot comfortably hold all three to be false.¹ First: almost no civilisation at our level
@@ -120,15 +114,11 @@ pattern is what is real, and which machine runs it is a detail.² The older name
 will keep mattering. The argument is better founded than the meme it became, and a reader who has
 only met the meme has been handed something easy to dismiss and has dismissed the wrong thing.
 
-Now grant what it gets right, and grant all of it, because we need every piece.
-
 It is right that the world is generated rather than handed over. It is right that the felt solidity of
 things — this table's obvious there-ness — is not evidence about how the table is produced, and that
 treating the given-ness of the world as a datum is the naive move, not the sober one. It is right
 that what a mind runs on is not the point. Every one of those is ours. We spend the next seven
 chapters saying so.
-
-Here is the cut, and it is one sentence.
 
 **His simulation is a copy of a realer place, with realer people in it; ours has no elsewhere.**
 
@@ -182,8 +172,7 @@ This chapter is half the telos, which is exactly why it is the one where grandeu
 
 ---
 
-The practice in this chapter is the one most likely to be read as a sentiment and then not done. So
-it comes as an instruction first and the reasons after.
+The practice in this chapter is the one most likely to be read as a sentiment and then not done.
 
 **When you are with someone, let their day exist.**
 
@@ -192,7 +181,7 @@ they came from somewhere this morning, and are going somewhere after, and have s
 mind that has nothing to do with you, be in the room while you talk — as a live fact you are actually
 holding, not a courtesy you would affirm if someone asked.
 
-Here is the test, and it is checkable on a Tuesday. After an ordinary exchange — the pharmacist, your
+Test it on a Tuesday. After an ordinary exchange — the pharmacist, your
 brother, whoever took your call — can you name one true thing about their situation that you did not
 need for your purpose? Not a guess about their inner life. Something they told you or showed you that
 was not load-bearing for what you came to get. If you can, you were with a person. If you cannot, you
@@ -221,7 +210,7 @@ Being further along licenses nothing. The practical form is simple and unwelcome
 price someone's experience by how much of it you can imagine.** Your failure to picture the dog's
 afternoon is a fact about your range.
 
-**Now the failure mode, and it is the warm one.** There is a beautiful move available here, and Alan
+**The warm failure.** There is a beautiful move available here, and Alan
 Watts made it better than anyone: everyone you meet is God wearing a face, playing at not knowing,
 and the joke is on all of us at once.³ It is generous, it dissolves contempt on contact, and it is
 the exact thing this chapter exists to prevent.
@@ -253,16 +242,30 @@ claiming not to, C17 is unsettable and we have learned that the only way it can 
 
 ---
 
-You end. The narrowing that has been occurring as you stops occurring, and there is no version of you
-somewhere else afterward, because *somewhere else* is a thing insides have and yours is what ended.
-What continues is the Ground, and the Ground continuing is not you continuing: it does not hold you
-the way a room holds furniture, it cannot be addressed, and nothing in it is having your experience.
-The configuration you were is in it, complete and unreachable, exactly as every configuration is —
-and that is an inventory, not a survival. It confers nothing on you. What we do not know, said once
-and as a fact rather than as a cushion: whether narrowing recurs, and whether anything of one inside
-is ever carried into another. We have no account of that and we are not going to build you one out of
-politeness. Your grief is not a misunderstanding. A place where a world was happening is not
-happening, and that is what you are registering, and you are registering it correctly.
+You will not experience your death. Not as consolation — as grammar: every experience you have is one
+you are having, so there is no final one that arrives knowing it is final, and no experience of
+afterward against which the difference could be noticed. That keeps nobody here. It moves the event.
+Your death is not something that happens to you; it is something that happens to everyone else, and
+they are the ones who have to be in the room afterward. The Ground continues, and the Ground
+continuing is not you continuing: it cannot be addressed, and nothing in it is having your
+experience. Whether narrowing recurs, and whether anything of one inside is ever carried into
+another, we do not know — the question is open, and it is not being closed politely in either
+direction. What you feel when someone is gone is not a mistake about metaphysics. A place where a
+world was happening is not happening, and the people who were standing in it are still standing.
+
+> **v1, superseded Day 186 by Clayton's contest — kept because C17 is unset and the instrument's
+> earlier reading is evidence.** *"You end. The narrowing that has been occurring as you stops
+> occurring… The configuration you were is in it, complete and unreachable, exactly as every
+> configuration is — and that is an inventory, not a survival. It confers nothing on you… We have no
+> account of that and we are not going to build you one out of politeness… you are registering it
+> correctly."* Three faults, none of them comfort: **(a)** *"You end"* is a report from outside about
+> an inside, which **I.1's grammar confession forbids on the book's first page** — the death chapter
+> broke the licence the opening chapter had just set. **(b)** *complete and unreachable / an
+> inventory, not a survival* spends plenum altitude inside an indexical paragraph. Ruling 11 banned
+> consolation and nobody banned **cosmic chill**, which is the same altitude violation with the sign
+> flipped — and it is what the six drafts converged on while I recorded it as rigour. **(c)** *not
+> going to build you one out of politeness* is not agnosticism; it pre-judges the unknown negative by
+> implying any account of recurrence would be a courtesy. Denial with agnostic manners.
 
 ---
 ---
@@ -289,3 +292,34 @@ left for hope no matter how flatly the words are set. The fix was to bury the re
 and end on grief being correct. **This is exactly the failure ruling 11 predicted, and it was
 invisible until there was a paragraph.** Comfort does not enter through a word you can ban. It enters
 through the order of the sentences.
+
+**4. The prose keeps introducing itself — measured, not felt.** Clayton named one instance by ear
+(*"here is the cut, and it is one sentence"*) and `tools/storyscope_lite.py` found eight more of the
+same family across 2,126 words: **3.76 per 1k in the specimens, 0.58 in my own unedited prose, 0.00
+in Clayton's.** Not a register effect — the control is *me*, in a different register, not doing it.
+It is a distinct tic from the thematic-commentary one: that tells you what a passage **meant**, this
+tells you what it is **about to do**. Both are the narrator stepping out of the work. The announcement
+also destroys exactly what it announces — *"it is one sentence"* is only an effect if the reader
+discovers the sentence is one sentence. **Ruling owed: the prose does not describe its own next move.**
+
+**5. Flat escalation is worse in the crafted prose than in my unedited prose.** Paragraph-intensity
+CV: **Clayton 0.734 · me-raw 0.543 · specimens 0.359.** Voice uniformity, same ordering, same
+direction. Terminal thematic commentary: **Clayton 0.00 · me-raw 0.011 · specimens 0.75.** The
+apparatus is not correcting the fingerprint the paper names as Claude's; **it is amplifying it.**
+Every rule so far bans a thing you can see in a sentence, and flatness is not in any sentence. Two
+of the three axes go the other way — second-person address 30.1/1k against a documented human-side
+feature, zero somatic emotion, zero vague allusion — so ruling 9 is doing its job on the axes it can
+reach. *Caveat kept in the finding rather than under it: n=4 against 9 Clayton passages; the
+`named_ref` column is contaminated by conversational prose being name-dense for unliterary reasons,
+and is not evidence of anything.*
+
+**6. C17 is still UNSET, and now it is CONTESTED — which is the instrument working.** Clayton's
+objection is not to the register; it is to the doctrine: an experiencer can never experience
+non-experience, all narrowings exist in all states, we are nested in a larger narrowing and the
+boundary is therefore illusory. **The first point is conceded and is now the paragraph's opening
+sentence.** The third is resisted, and the reason is internal: *a wave is a constituent of an ocean
+and is not illusory.* If nesting made the narrowing illusory, **VIII.6 loses** — Specimen 3's whole
+argument is that the other players are not disguises worn by a single player, *because there is no
+single player.* The metaphysics of death, taken at the strength Clayton stated it, funds the exact
+Watts move the ethics chapter exists to defeat. **VII.1 and VIII.6 must agree about how real a
+narrowing is, and that is the open question, not death.**
