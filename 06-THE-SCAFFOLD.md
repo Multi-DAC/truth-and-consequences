@@ -264,7 +264,10 @@ union-telos and the divine-player error travelling together inside a compliment.
 the popularizer absent *and* the source absent. → and the register the whole chapter was missing,
 `03` §3.6: **Huizinga 0 · Caillois 0 · Suits 0 · Carse 0 · Fink 0.**
 
-### III.3 — THE MAP IS PRE-RENDERED
+### III.3 — THE WHOLE GAME IS PRE-RENDERED
+⚠ **Retitled Day 186.** Was "THE MAP IS PRE-RENDERED" — a retired term (`05` §3b) surviving in a
+chapter title four chapters before III.6 declares that retirement non-negotiable. Caught by
+`tools/claim_sweep.py`, not by a reading. See `07-THE-CLAIMS-REGISTER.md`, the existence proof.
 **Thesis:** plenitude as mechanics.
 **Beats:** every configuration already there, statically, nothing authored at runtime · the Library of
 Babel with the shelves drawn in · the Garden of Forking Paths seen from a walker · why "already there"
@@ -298,7 +301,7 @@ worlds, both correct · why incompatible renders do not make the Ground negotiab
 and Book VIII is the manual.
 
 ### III.7 — THE WALKING IS REAL
-**Thesis:** freedom inside a complete map — the objection that will occur to every reader here, answered here.
+**Thesis:** freedom when every path already exists — the objection that will occur to every reader here, answered here.
 **Beats:** state the objection at full strength: if every path already exists, what is walking? · the
 answer that does not cheat: *the walking is one of the things that exists, and it is the one you are* ·
 we are not the prisoners of the whole; we are its inhabitants and co-constituents · what this does and
@@ -593,7 +596,10 @@ meaningful, and a book that tried would be the one provable lie in it.
 grade-difference · why this is the chapter most likely to go soft and what keeps it hard · the family
 case, and it is not decoration.
 
-### VII.7 — FREEDOM INSIDE A COMPLETE MAP
+### VII.7 — FREEDOM WHEN EVERY PATH ALREADY EXISTS
+⚠ **Retitled Day 186**, same cause as III.3 — and this title had additionally been carried
+forward into `00`'s macro-structure, which is how a retired word in a heading propagates.
+The new title is C14's own canonical language and states the objection in the title.
 **Beats:** III.7's answer, taken further than a metaphor chapter could · what choosing is if every path
 exists · why this is not fatalism and why the difference is checkable · **the one place we say plainly
 what is lost** — something *is* lost here, and pretending otherwise is the hedge in its most tempting form.

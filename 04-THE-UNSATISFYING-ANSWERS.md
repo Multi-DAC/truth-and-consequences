@@ -332,7 +332,7 @@ in the Ground; nothing is authored at runtime. **You navigate; you do not
 author.** Participation is real *and constrained*, and the constraint is what
 makes it worth anything.
 
-**Books.** III (the map is pre-rendered — the load-bearing distinction), VI
+**Books.** III (the whole game is pre-rendered — the load-bearing distinction), VI
 (tunnels are editable, by engineering, not by wishing), VIII (the discipline
 lives here or nowhere).
 

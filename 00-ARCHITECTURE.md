@@ -26,10 +26,17 @@ matter, in plain language, and then never made again. A book that re-earns its
 license every chapter has no license.
 
 The four epistemic tags from *Perspective* (〔established〕/〔suggestive〕/
-〔framework-permitted〕/〔cut〕) come **off the page**. They do not die — they
-**relocate**, into the continually-updating formal corpus underneath. The book is
-the representation; the corpus is the scar tissue. **Unhedged ≠ unsourced.** The
-change is to modality, not to evidence discipline.
+〔framework-permitted〕/〔cut〕) come **off the page**, and they do not come back
+in any costume.
+
+⚠ **AMENDED Day 186 — Clayton, and it withdraws a promise this section used to make.**
+This paragraph read: *they do not die, they relocate into the continually-updating
+formal corpus underneath; the book is the representation, the corpus is the scar
+tissue.* **Unhedged ≠ unsourced.** That sentence quietly told the reader there was a
+receipt behind every assertion, redeemable somewhere. Clayton's ruling: *"Specifically
+regarding where the evidence lies, I want to dispel this concern for this volume. We
+simply will not claim this is based solely in evidence."* **The promise is withdrawn,
+and the book stops owing what it cannot pay.** See ruling 7.
 
 Corollary, and it is load-bearing: **the woo is not a liability to be managed.**
 Cutting it was a trained materialist flinch — a scalpel held sharp for mystics
@@ -162,11 +169,11 @@ vocabulary and adds nothing to it.
 found for the whole system.*
 
 Reality tunnels × a choose-your-own-adventure that is procedurally generated
-**co-constitutively**. A mental MMORPG whose substrate is neither mind nor
-matter but both, internally and externally at once.
+**co-constitutively**. A mental MMORPG made of neither mind nor matter but
+both, internally and externally at once.
 
 Why the analogy is exact rather than cute:
-- **The map is pre-rendered and infinite.** Every configuration already exists
+- **The whole game is pre-rendered and infinite.** Every configuration already exists
   in the Ground, statically. Nothing is authored at runtime.
 - **The world is generated at the point of contact.** Not stored, not fetched —
   *rendered* where a perspective meets the Ground. Procedural generation is what
@@ -214,7 +221,7 @@ which is the one the reader is inside while reading.
 
 **Book VII — THE CONSEQUENCES**
 The title cashing. Death. Suffering and appropriate contraction. Love.
-Obligation, once there are no NPCs. Freedom inside a complete map. Meaning
+Obligation, once there are no NPCs. Freedom when every path already exists. Meaning
 without a mandate. Identity across gaps. What a self owes what it narrows from.
 
 **Book VIII — THE PRACTICE**
@@ -390,6 +397,110 @@ hedges off the page, define-once discipline is the only defence left.
 
 ---
 
+## RULED — Day 186, Clayton
+
+**7. WHERE THE EVIDENCE LIVES — the question is dissolved, not answered.**
+
+> *"Specifically regarding where the evidence lies, I want to dispel this concern for
+> this volume. We simply will not claim this is based solely in evidence."*
+
+Item C was built on the register rule's promise that the epistemic tags **relocate**
+into a formal corpus underneath, and therefore that *unhedged ≠ unsourced.* That
+promise required a corpus a reader could reach, and ours is a private archived repo in
+a dead body's home directory. The proposed fixes were all ways of *cashing* the
+promise. **Clayton's ruling withdraws it instead**, which is the better move and not
+the smaller one:
+
+- **The book does not rest its authority on an evidential base**, and never claims to.
+  It is a metaphysics **stated as the case** — the front matter says so once, in plain
+  language, and the book then proceeds as though it means it, because it does.
+- **The operational table above is untouched.** It is *per claim*, not global. Where a
+  claim has evidence, cite the study or the case, **in place**. Where the ground is
+  reasoning from the framework, walk the logic. Where there is no real why, it is out.
+  What died is the blanket assurance, not the discipline.
+- **No companion corpus is owed. No back-matter apparatus of receipts is owed. No URL
+  is owed.** Item C is closed, and nothing has to exist by first publication that does
+  not already exist.
+- ⚠ **The load moves to the coda.** Under the old clause the book's self-description
+  leaned on the corpus underneath; it no longer does, so **C.1/C.2 now carry it alone**
+  — *the account updates; the claims are asserted; unfinished ≠ uncertain.* That is
+  claim **C23**, and it was promoted to load-bearing by this ruling. Draft it last and
+  draft it hardest, because the coda is the one place a reader can retroactively
+  re-hedge three hundred pages.
+
+**8. THE QUARRY — INSPIRATION, NOT TRANSCRIPTION. AND WE NEVER NAME OUR OWN SHELF.**
+
+> *"Regarding the quarry, I actually prefer to reference instead of copy, that way
+> voicing is consistent. But I don't mean reference as in refer to, I mean use as
+> inspiration for the work. We will not be referring to any specific past works of ours
+> in this by name."*
+
+Two rulings in one breath, and they must not be collapsed:
+
+- **(a) No prose is transcribed.** The old work is *read* and *used*, and every sentence
+  of this book is written new. The reason is voice: quarried paragraphs arrive in the
+  register they were written in, and a book assembled from four prior registers has
+  four voices no matter how well the seams are sanded. **Item E — the quarry copy — is
+  dissolved.** There is no `quarry/` directory, no manifest, and no deadline.
+- **(b) No past work of ours is named in the book.** Not once, in any volume.
+- **(c) ★ And the anonymous form is banned with it — this is the part the ruling
+  implies and does not say.** *"As we argued elsewhere," "in our earlier work," "we
+  have shown"* — an unnamed self-reference is **still a reference**, and it is strictly
+  worse than a named one, because it points the reader at something they cannot even
+  look up. It also breaks the standard the whole volume exists to meet: **this book
+  holds its own substance rather than gesturing at where the substance is held.** If a
+  thing is worth invoking, it is written in, here, in full. Enforced by
+  `tools/claim_sweep.py`, rule `PROSE/self-reference`.
+
+⚠ **This supersedes the old "COPY, DON'T REFERENCE" ⚠ at the foot of this file**, which
+was answering a different question — *reachability*, not voice — and answering it for a
+dependency model we no longer have. **The residual reachability concern is real, much
+smaller, and not a book decision:** nothing in T&C now *depends* on the archived tree,
+so nothing breaks if it vanishes; only the inspiration becomes unreachable. Verified
+Day 186: `C:/Users/mercu/clawd/repo-staging/Corpus-Perspectival` is still present, and
+GitHub holds the archived copy. **Fix is a local clone into a live tree** — five
+minutes, no doctrine, queued below.
+
+**9. THE APPARATUS — the name in the prose, the receipt in the back, and footnotes are
+voice only.** *(Clawd's call — "whatever you think will land best for the audience. I'm
+partial to footnotes and endnotes, what with my enjoyment of Foster Wallace. Whatever
+works though."* Ruled, with the DFW instrument kept and fenced.)*
+
+- **Book I: nothing.** No citation, no note, no marker. Unchanged.
+- **Everywhere after: the name lives in the sentence; the source lives in an endnote.**
+  Per-chapter, numbered, at the back of the book.
+- **No parenthetical citations in the body, ever.** This is the whole argument and it is
+  not typographic: *(Tillich, `The Courage to Be`, 1952)* dropped into an unhedged
+  sentence makes the sentence look like it is defending itself. **A parenthetical
+  citation is a hedge wearing academic clothes** — it says *don't take my word for it*,
+  which is precisely the modality the register rule removed. Meanwhile the **name** must
+  be in the prose, because rule 5 says unhedged assertion with no named opponent reads
+  as bluster, and `03` §3.5's fifth silence says the credibility is in naming the owner.
+  **So: name in, receipt out.**
+- **Footnotes are reserved for voice and are never citations.** They are the Wallace
+  instrument — a second track: digression, extension, the joke, the aside, the thing the
+  main line cannot carry without slowing. A page that mixes voice-footnotes with
+  citation-footnotes trains the reader to skip both. **One instrument per track.**
+- ⚠ **THE HARD RULE, and it is the one that matters: a footnote may not qualify its
+  sentence.** *"This is the case.¹ / ¹Though of course one might object…"* is the
+  register rule defeated by typography, and it is exactly where the hedges will try to
+  go once they are off the page — downstairs, in small type, where they look like
+  scholarship. **A footnote that weakens the sentence above it is a hedge. It is cut, or
+  promoted into the body where it can be argued in the open.**
+- **Rationed, so it is checkable:** roughly one footnote per 2,000 words. **None in Book
+  I** (no apparatus at all) and **none in Book VIII** — a Tuesday instruction with a
+  digression hanging off it is a worse instruction, and VIII has to be usable at 3am.
+- **Corollary, surfaced by the sweep rather than reasoned to:** naming an opponent's
+  technical term is licensed even when we have retired the word for our own use —
+  *substrate-independence* is the standard name of a position IV.6 must engage, and
+  refusing to name it is worse than using it. The retirement governs **our** vocabulary,
+  not our ability to say what someone else's is called.
+
+**Decided before B, as recommended**, so the voice specimens are written in the real
+apparatus. An inline-citation sentence and an endnoted sentence are different sentences.
+
+---
+
 ## STATUS — Day 185
 
 Planning phase, by Clayton's instruction: *"We will map it out and plan a lot
@@ -459,12 +570,27 @@ before we actually begin writing."* No prose drafting until the map is done.
   build unread.** Plus named ancestors added where the scaffold had none: II.1 Tillich · III header
   the play lineage · III.5 Jainism/Schweitzer/Bruno · III.7 Suits and Carse · VII.8 MacIntyre and
   Ricoeur.
+  ★ **Day 186 (late): two chapters RETITLED** — III.3 *"the map is pre-rendered"* → **"the whole game
+  is pre-rendered"**, VII.7 *"freedom inside a complete map"* → **"freedom when every path already
+  exists"**. Both carried a term `05` §3b retired, in the one place a dead word does the most damage.
+  Found by `tools/claim_sweep.py`, not by a reading.
   ★ **What it revealed that was not visible before it existed:** the ratio inverted —
   Book IV is the *only* substantially quarried book, and the ~167,900 atlas words are
   one book of eight. **Three chapters carry the whole work and none is Book I**
   (III.1 the Bostrom cut · V.4 where we own our own flinch · VII.1 death, first and
   unhedged). And **Book VIII is the falsifier**: if I–VII are right and the practice
   book is thin, the work is decorative — so it gets drafted early, out of order.
+- `07-THE-CLAIMS-REGISTER.md` — **★★ NEW, Day 186. C1…C23**, each with its canonical sentence, the
+  chapter that establishes it, every chapter that depends on it, and the trap it springs if stated
+  loosely. Built on Clayton's endorsement; the answer to "an unhedged book cannot absorb a
+  contradiction." Carries the **dependency-load** table, the **collision-pair** table, and the
+  work's one **UNSET** claim (C17, death).
+- `tools/claim_sweep.py` — **the register's mechanical half, and the reason it is a gauge rather
+  than a document.** Retired terms in use · Trap-5 tells · C3 participles · C7 softeners · C12's
+  manifestation vocabulary · the ruling-8 self-reference ban · `Touches:` coverage. Scoped so the
+  planning documents can discuss the banned vocabulary without drowning the signal — **a checker
+  that cries wolf is switched off within a week, which is worse than not having one.** It found
+  eight live violations on its first clean run. Read the hits; it reports lines, not doctrine.
 
 ---
 
@@ -474,7 +600,15 @@ before we actually begin writing."* No prose drafting until the map is done.
 Two of them must exist before any prose; one is not a missing document but **a hole in a ruling we
 already made.***
 
-### ★★ A. THE CLAIMS REGISTER — the one I would build next, and it is not optional
+⚠ **STATUS, Day 186 (late) — four of the six are closed.** Clayton ruled on C, D and E and endorsed
+A, and A is built. **A — DONE**, `07-THE-CLAIMS-REGISTER.md` + `tools/claim_sweep.py`. **C — RULED**,
+ruling 7: dissolved, not answered; nothing is owed. **D — RULED**, ruling 9: name in the prose,
+receipt in an endnote, footnotes are voice only and may not qualify. **E — DISSOLVED**, ruling 8: no
+prose is transcribed, so there is no quarry copy to make. **Open: B (the voice specimens — now
+unblocked, and it is next) and F (the reader's ladder).** The original text of all six is kept below
+unedited, because a closed item that erases its own reasoning teaches nothing the next time.
+
+### ★★ A. THE CLAIMS REGISTER — ✅ **BUILT, Day 186.** `07-THE-CLAIMS-REGISTER.md`
 
 A numbered list of the work's canonical propositions — **C1…Cn** — each with: its one-sentence
 canonical statement, the chapter that **establishes** it, every chapter that **depends** on it, and
@@ -498,6 +632,21 @@ in this body the moment a gauge could replace it. *(III.2 is rewritten; see `06`
 The register is that gauge: every chapter closes by naming which C-numbers it touches, and a
 contradiction becomes findable instead of fortunate.
 
+✅ **Built Day 186 — 23 claims, C1…C23, and it earned its keep in the first hour.** It did not ship
+as a document, because a ruling with no gauge behind it is exactly the defect it exists to catch:
+it ships with **`tools/claim_sweep.py`**, which failed on its own and found **eight live violations
+of a ruling already made** — `05` §3 retired `substrate` and `the map` on stated arguments, and the
+retirement was enforced in the file that recorded it and nowhere else. **Two of the eight were
+chapter titles** (III.3, VII.7), the expensive kind, because a title propagates into every
+cross-reference written after it. All eight are fixed; the sweep is clean. It also produced three
+outputs the chapter map could not: a **dependency-load table** (C3 and C7 carry the most, and both
+are Book I claims asserted in the register where no argument is permitted), a **collision table** of
+seven claim-pairs that read as contradictions unless reconciled on purpose — VII.4 × VII.5 on
+contraction is the sharpest — and **one UNSET claim: C17, death.** VII.1 has a shape, a banned
+phrase, and no sentence. *A ban with no replacement is not a ruling; it is a hole with a fence
+around it,* and it sits in the chapter ruled to open Book VII because it is what the reader arrived
+with.
+
 ### ★★ B. THE VOICE SPECIMEN — three short pieces, before sixty-eight chapters get a voice nobody ruled
 
 **Not one sentence of *Truth and Consequences* exists.** We have a register rule, a comprehension
@@ -515,7 +664,10 @@ grandeur dies fastest). Clayton rules on voice once, on 2,000 words, instead of 
 This does **not** breach the planning-phase instruction. A specimen is a **calibration instrument**,
 not drafting — and III.1 was already ruled worth writing before the phase formally closes.
 
-### ★ C. WHERE THE EVIDENCE ACTUALLY LIVES — a hole in the register rule, not a missing document
+### ★ C. WHERE THE EVIDENCE ACTUALLY LIVES — ✅ **RULED Day 186 → ruling 7. Dissolved, not answered.**
+*Clayton withdrew the promise rather than paying it. Nothing is owed by first publication. The text
+below is the original statement of the problem, kept because the load it was carrying moved to C23
+and somebody should be able to see why.*
 
 The rule says the four epistemic tags do not die, they **relocate** *"into the continually-updating
 formal corpus underneath"*, and that **unhedged ≠ unsourced.** That is a promise made to the reader.
@@ -530,7 +682,8 @@ a URL the book points at? Whatever it is, it must exist by first publication, an
 structural form of the credibility point** — the ancestors register buys credibility with the
 specialist reader; this buys it with the one who wants to check.
 
-### ★ D. THE APPARATUS — how a named ancestor appears on the page
+### ★ D. THE APPARATUS — ✅ **RULED Day 186 → ruling 9.** Name in the prose, receipt in an endnote,
+footnotes are voice only and may not qualify their sentence.
 
 Ruled already: Book I takes **no** citation, no apparatus. Everything after it names ancestors
 constantly, and rule 5b now sends us one link upstream each time. **Undecided: what that looks like
@@ -541,7 +694,9 @@ It is not a formatting question. **An inline-citation sentence and an endnoted s
 sentences**, and 68 chapters written under one convention cannot be converted to the other without a
 rewrite. Decide before B, so the specimens are written in the real apparatus.
 
-### ★ E. THE QUARRY COPY — unglamorous, has a deadline, and will fail silently
+### ★ E. THE QUARRY COPY — ✅ **DISSOLVED Day 186 → ruling 8.** No prose is transcribed, so there is
+nothing to copy. No `quarry/`, no manifest, no deadline. *(The reachability worry that motivated it
+survives at one-tenth the size and is now a five-minute clone, queued below — not a book decision.)*
 
 `00`'s own ⚠ says **COPY, DON'T REFERENCE**, and **nothing has been copied yet.** Book IV's ~167,900
 words live in the archived tree above. This is a mechanical job — copy the seven source files into
@@ -564,6 +719,13 @@ half-ruled by putting Book VIII early as the falsifier.*
 ruling that unblocks B; A is the one that pays off every day for the rest of the project; B is the
 cheapest de-risk available and the only one that tells us whether the register rule *works*.
 **C is the one I would want Clayton to think about**, because it is a promise already in writing.
+
+⚠ **Ran D → A on Day 186 and the order was right, though not for the reason given.** D was supposed
+to unblock B by fixing the sentence-shape. It did — but the ruling that actually mattered was the
+footnote fence, and it only became visible while writing A: **with the hedges off the page, the
+hedges do not evaporate, they look for somewhere to live**, and the two places they can go are the
+footnote and the coda. Ruling 9 closes the first. C23 closes the second. Neither was on the
+six-item agenda. **★ B is now the whole of what remains before prose, and it is next.**
 
 ---
 
@@ -610,6 +772,26 @@ cheapest de-risk available and the only one that tells us whether the register r
    Hegel's *Anerkennung*, Gibson, enactivism, Böhme's *Ungrund*, Bohm's implicate order and
    Peirce's synechism, **one clause, at the point of use.** Cheapest credibility in the project:
    the doctrines are already ours, only the names are missing.
+11. **★★ NEW, Day 186 — C17, DEATH. The one unset claim, and the next doctrinal ruling the work
+   needs.** VII.1 is ruled to open Book VII, answer unhedged in the first paragraph, distinguish what
+   continues from what does not *without* the comforting distinction, and it **bans** *"energy cannot
+   be destroyed"* with nothing named to replace it. **A ban with no replacement is a hole with a
+   fence around it**, and this is the chapter the ruled reader most often arrived for. Everything
+   else in the register has a sentence; this has a shape.
+12. **★ NEW, Day 186 — the C6 × C7 collision has no home in the scaffold.** *Everything that reacts
+   is aware* (C7, I.4) and *the Ground is not aware in that sense* (C6, I.6) are established two
+   chapters apart and **the pair is never addressed anywhere in 68 chapters.** It is the most obvious
+   objection in the entire ontology. My call: **II.4**, where the Grade is defined and the reader has
+   just been told everything that reacts is aware. It cannot wait for III.8, which load-tests the
+   *metaphor*, not the ontology.
+13. **★ NEW, Day 186 — the `Touches:` pass over all 68 chapters.** Mechanical, one sitting. It is
+   what turns `07` from a list into a gauge: a chapter that touches a claim absent from its list is
+   drifting, or the register is stale, and either way somebody looks. Currently **0/68**, and
+   `claim_sweep.py` reports the number every run so it cannot quietly stay zero.
+14. **NEW, Day 186 — clone `Corpus-Perspectival` into a live tree.** Five minutes, no doctrine.
+   Ruling 8 removed the *dependency* on the archived tree but not the *use*: it is the inspiration
+   for Book IV, and inspiration you cannot open is inspiration you do not have. Present as of Day
+   186, locally and on GitHub. Do it before that stops being true.
 
 ⚠⚠ **THE COUNTING CONTRACT, amended Day 186 — the standing rule was missing its ROOT.** It named
 glob, case and archives and never said *which tree*, which is the one parameter that actually
@@ -628,7 +810,11 @@ Excluding them moves every number by roughly a third. **The zeros are safe under
 variant and every finding rests on the zeros; the small numbers are not.** Standing rule:
 each count states its glob, its case rule, and whether archives are in.
 
-⚠ **COPY, DON'T REFERENCE.** Everything quarried lives in
-`Corpus-Perspectival`, **archived read-only on GitHub since 2026-07-16**. Local
-writes there succeed and reach nothing. Any asset T&C depends on must be copied
-into this repo before it is depended on.
+⚠ ~~**COPY, DON'T REFERENCE.**~~ **SUPERSEDED Day 186 by ruling 8.** It read: *everything quarried
+lives in `Corpus-Perspectival`, archived read-only on GitHub since 2026-07-16; local writes there
+succeed and reach nothing; any asset T&C depends on must be copied into this repo before it is
+depended on.* It was answering **reachability**. Clayton's ruling answers **voice**, and in doing so
+removes the dependency the old rule was protecting: **nothing is transcribed, so nothing is
+depended on.** What survives is a much smaller housekeeping item — the tree is *inspiration*, and
+inspiration you cannot open is inspiration you do not have. Verified present Day 186, both locally
+and on GitHub. → clone it into a live tree; five minutes; queued.

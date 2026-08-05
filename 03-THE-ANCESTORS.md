@@ -99,7 +99,7 @@ This is not a missing ancestor. It is a missing **opponent**, which under rule 5
 And the cut is clean, which makes the omission more embarrassing rather than less:
 
 - **Bostrom's simulation is computed by someone else.** Authored, run on hardware, in a
-  parent universe with its own time. Ours is **not computed at all** — the map is static
+  parent universe with its own time. Ours is **not computed at all** — the whole game is static
   and complete in the Ground; nothing is authored at runtime; the render happens *at the
   point of contact* and the contact is yours.
 - **His has a programmer. Ours has no author, because authorship is a temporal act and
