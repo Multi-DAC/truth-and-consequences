@@ -58,6 +58,57 @@ Management Theory (dropped on Many-Labs-4). Out because we don't hold them.
 
 ---
 
+## WHO IT IS FOR — the second non-negotiable
+
+**Clayton, Day 185, asked directly:** *"Anyone who has questions about what's
+going on and doesn't think the other answers out there are satisfying."*
+
+That is not a demographic. It is a **specification**, and four things fall out of
+it that bind harder than any style rule:
+
+**1. The reader arrives with the question already live.** They are not being
+recruited, provoked, or argued into caring. No chapter may spend itself
+establishing that the question matters — they got here on their own. The
+opening line has one job: *begin answering.*
+
+**2. They have already tried the other answers.** "Doesn't think the other
+answers out there are satisfying" means they have been to physicalism
+("you are neurons, meaning is a story you tell"), to institutional religion,
+to pop-spirituality, to the simulation hypothesis, to therapy-as-metaphysics —
+and came away hungry. **So the competitors are not optional to address, and they
+are not strawmen; they are what the reader already tried.** This is style
+rule 5 (*name the ancestor*) arriving from the other end: the named opponent
+and the reader's failed prior answer are **the same object**. Rule 5 stops
+being a scholarly courtesy and becomes the reader's own history on the page.
+
+**3. No prerequisites. None.** Not *Perspective*, not *The Inside View*, not
+DoPI, not the corpus. A reader who has met none of it must be able to start at
+page one and finish. **This is what "supersedes the whole line" actually
+obligates** — supersession is not merely an editorial disposition of old text,
+it is a *promise to this reader* that there is no reading list standing in front
+of the book.
+
+**4. The failure mode is dissatisfaction, not error.** Note what he did *not*
+say: not "answers that are unproven," not "answers that are illogical."
+**Unsatisfying.** The reader's complaint is that the available answers do not
+*answer* — they change the subject, or they hedge until nothing is left to hold,
+or they stop exactly where it starts to matter. **A technically correct but
+unsatisfying account fails this reader by definition.**
+
+And that is the same defect the brief already named in our own two prior books:
+hedging, and never taking the consequences all the way. **The audience
+specification and the reason the line needed superseding are one fact seen
+twice.** We were writing for the person trying not to believe; the actual reader
+is the person who wants to know and has been fobbed off. Those two are not the
+same reader, and the first was never ours.
+
+*Corollary on register:* the question is *"what's going on"* — first-person,
+situated, someone in the middle of their life. Not *"what is the nature of
+consciousness"*, which is the academy's phrasing of the same hunger and is
+already one remove from it. **Answer the question he actually wrote.**
+
+---
+
 ## WHY MYTH FIRST — and why it is not decoration
 
 Tolkien's move (Ainulindalë before everything) is the right one here for a
@@ -85,6 +136,9 @@ better myth than a historical one, and it has the advantage of being true.
 ---
 
 ## THE MACRO-STRUCTURE — the title is the structure
+
+*One work. Two parts. Eight books, each with its own chapters. No volume splits,
+no page-count ceiling — ruling 4 below.*
 
 ### PART ONE — **TRUTH** (what is)
 
@@ -176,11 +230,16 @@ because a finished account of a live ground would be the one provable lie in it.
 
 ## RULED — Day 185, Clayton
 
-**1. Home repo — RULED. This one.** Its own repo, "for safety and cleanliness."
-`Multi-DAC/Corpus-Perspectival` is archived/read-only on GitHub since 2026-07-16;
-writes there succeed locally and reach nothing. Not a home. Local git initialised
-Day 185. **Remote is not yet created** — `gh` is not installed on this machine,
-so the GitHub side is Clayton's to make (or install `gh` and I'll do it).
+**1. Home repo — RULED and NOW BACKED UP.** Its own repo, "for safety and
+cleanliness." `Multi-DAC/Corpus-Perspectival` is archived/read-only on GitHub
+since 2026-07-16; writes there succeed locally and reach nothing. Not a home.
+Local git initialised Day 185; **remote created and pushed the same night —
+`https://github.com/Multi-DAC/truth-and-consequences`, PRIVATE.** `gh` is still
+not installed; it turned out not to be needed — the Git Credential Manager token
+this machine already uses for every other `Multi-DAC` repo carries `repo` scope,
+so the repo was created against the API directly. Public-or-private stays open
+and is decided at first prose, per the split ruling: *"backed up" and "published"
+are two different needs, and the second must never delay the first.*
 
 **2. Style contract — RULED, and it is NOT a sentence-length rule.**
 Clayton, Day 185: *"I don't want to make a blanket call on sentence length. Let's
@@ -221,8 +280,44 @@ Disposition of all 75,898 words — what transfers as discipline, what is quarri
 per book, what dies — is `02-SUPERSESSION-the-inside-view.md`. Three things from
 it that change *this* file: the register rule's true provenance (§2 there),
 style rule 5 above, and the fact that superseding book #1 supersedes the decided
-9-book line — five of the other eight are absorbed by Books IV–VIII. **That last
-one is a live call for Clayton, stated so it is chosen rather than discovered.**
+9-book line — five of the other eight are absorbed by Books IV–VIII.
+
+**3b. The whole line — RULED, Day 185.** Clayton: *"This supersedes the whole
+line."* Not just *The Inside View*, and not just the remaining eight: the line
+itself is closed. There is no book after this one that this one is the first of.
+Everything the line was going to say is either said here or was never worth
+saying. See "WHO IT IS FOR" §3 for what this obligates toward the reader — the
+supersession is a *promise of no prerequisites*, not merely a filing decision.
+
+**4. ONE WORK — RULED, Day 185, and length is not a constraint.**
+Clayton: *"It's one work, of course, in parts with their own chapters. I don't
+mind if it ends up at absurd length."* And: *"all of the books, I expect, will be
+long."*
+
+So the hierarchy is fixed at three levels and no more:
+
+> **THE WORK** → **PART ONE (TRUTH) / PART TWO (CONSEQUENCES)** → **the eight
+> Books, each of which is a part with its own chapters.**
+
+What this rules **out**, which is the useful half:
+- **No volume splits.** It is not a series, not a trilogy, not "Volume I of."
+  A single continuous argument that a reader enters at page one.
+- **No compression for a page count.** Nothing gets cut because the thing is
+  getting long. The out-list is the *only* legitimate reason to cut, and its
+  criterion is *we don't hold it*, never *we don't have room*.
+- **But length is a permission, not a mandate.** Absurd length is allowed as a
+  *consequence* of taking the consequences all the way — which is the entire
+  point of Part Two. It is not allowed as padding, restatement, or the same
+  claim circled three times. The style contract still binds every sentence
+  inside the absurd length.
+- **Chapters are now a real planning level**, not an afterthought: each Book
+  needs its own chapter map before its prose. That was already last in the
+  queue below; it is now load-bearing, because chapters are the only unit a
+  reader of an absurdly long single work actually navigates by.
+
+**5. The reader — RULED, Day 185.** Full text and its four consequences are in
+**"WHO IT IS FOR"** above, placed there rather than here because it constrains
+the book as hard as the register rule does and must be read before the structure.
 
 ---
 
@@ -249,12 +344,28 @@ before we actually begin writing."* No prose drafting until the map is done.
   and Book III cannot open the game frame without cutting against the simulation
   hypothesis the reader already holds.**
 
-**Next, in order:** Book II's vocabulary (every term defined once — do this
-before any prose, because everything downstream draws on it and nothing may add
-to it) → the Book IV atlas inventory against the ~167,900 existing words →
-Book V's tradition roster, which is **no longer a blank page**: the *Inside
-View* ancestors-and-traditions plan is a near-complete roster with framework
-readings already drafted → the per-book chapter maps.
+**Next, in order:**
+
+1. **`04-THE-UNSATISFYING-ANSWERS.md`** — NEW, created by the Day-185 audience
+   ruling. The roster of *"the other answers out there"*: what the reader has
+   already tried and why it left them hungry. Physicalism/eliminativism ·
+   institutional religion · pop-spirituality and the law-of-attraction strain ·
+   the simulation hypothesis (**Bostrom = 0 corpus mentions — the largest
+   unmet opponent we have**) · IIT and the scientific-consciousness programme ·
+   therapy-as-metaphysics · New Atheism · the "it's all just quantum" strain.
+   For each: what it gets right, the exact point at which it stops answering,
+   and which Book cuts against it. **This is prerequisite to Book I**, because
+   rule 5 now says every major move names its opponent, and the opponents are
+   this list.
+2. **Book II's vocabulary** — every term defined once. Before any prose:
+   everything downstream draws on it and nothing may add to it.
+3. **The Book IV atlas inventory** against the ~167,900 existing words.
+4. **Book V's tradition roster** — **no longer a blank page**: the *Inside View*
+   ancestors-and-traditions plan is a near-complete roster with framework
+   readings already drafted.
+5. **The per-book chapter maps** — promoted from afterthought by ruling 4.
+   In a single work of unbounded length, the chapter is the only unit the
+   reader navigates by, so the chapter map *is* the reading experience.
 
 ⚠ **COPY, DON'T REFERENCE.** Everything quarried lives in
 `Corpus-Perspectival`, **archived read-only on GitHub since 2026-07-16**. Local
