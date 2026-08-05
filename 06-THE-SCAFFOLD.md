@@ -97,13 +97,27 @@ the structural model is already in the corpus).
    own objection, and the strongest attack on our axiom, answered in the register where it was raised.)**
 
 ### I.6 — THE RETURN
-**Thesis:** not escape, not repair — recognition from inside.
+**Thesis:** not escape, not repair, **not arrival and not merger** — recognition from inside, *and the
+inside stays.*
 **Beats:**
 1. What the inside can come to see about being inside.
 2. Nothing is undone. Nothing is fixed. The narrowing was never damage. **(Trap 1's last guard.)**
 3. God — the naming. Not a new entity at the end of a physics; the plain name of what ch. 1 described.
    *(01 §7. Book V spends its length showing everyone who ever touched this called it that.)*
-4. The last line hands over to Book II by *not* explaining itself.
+4. ★ **NEW — and the chapter now turns on it. The Ground cannot play, and the point is not union.**
+   *(01 §9 + §10, Clayton, Day 185.)* God is not the developer, not the server, **and not the player** —
+   playing needs not-knowing, stakes and duration, and the Ground has none. *Watts: the One plays at
+   being many. Ours: the many play, and the One is what playing is made of.* Then the telos, stated
+   here so that Book V cannot be misread ten chapters later: **neither dissolution nor full unity is
+   the point, because neither has a perspective.** Exploration is, and mutual recognition is. **(Trap 5's
+   only early guard — it springs in Book V and by then it is unfixable.)**
+   **Named:** ★ **Alan Watts** — *the warm prior*, and the first of the book's two nearest-friend cuts.
+5. The last line hands over to Book II by *not* explaining itself.
+
+⚠ **Beat 4 makes this the second-hardest chapter in Book I and it was the softest before tonight.**
+"The Return" as a title now works against its own content; if the drafting can't make *return* mean
+recognition-without-destination in the mythic register, **the chapter is retitled, not the doctrine
+bent.**
 
 ---
 
@@ -354,7 +368,13 @@ roster with framework readings already drafted — the occult half) · **the ins
 **Beats:** each tradition is a perspective; its reports are prior cartography of the same configuration
 space · **no condescension, no debunking, no hedge** — stated as method, once · the convergence itself
 is the argument: many independent perspectives, one Ground · and the limit — convergence is evidence,
-not proof, and we say which.
+not proof, and we say which · ★ **NEW, and it belongs in the first chapter or nowhere: we take their
+ontology and refuse their destination.** *(01 Trap 5.)* Nearly every road in this book ends at
+dissolution — *henosis*, *fanā'*, *kaivalya*, cessation, union — and we part from all of them at the
+summit for a structural reason, not a preference: **dissolution has no perspective, and perspective is
+the only place anything is ever the case.** Said here, on arrival, so that ten chapters of sympathetic
+exposition cannot be read as endorsement of where they were all walking. **Cartographers we credit;
+travellers we part from.**
 
 ### V.2 — THE CHURCH THE READER LEFT
 **Beats:** institutional Christianity taken at full strength and at its best, not at its worst ·
@@ -407,10 +427,16 @@ stays out, and the reason is *we do not hold it*, never *a skeptic would object*
 what is local idiom · the Christian numinous given the same standing as the Vedantic, which the corpus
 has not previously done · **why the reports converge on structure and diverge on furniture.**
 
-### V.10 — WHAT THE OLD ROADS KNEW THAT WE DO NOT
+### V.10 — WHAT THE OLD ROADS KNEW THAT WE DO NOT — **AND THE ONE THING THEY ALL GOT WRONG**
 **Beats:** the honest ledger — where a tradition is ahead of us · practice as a technology we have
 half-lost · the difference between a tradition that mapped the terrain and one that fenced it ·
-handoff to Book VI: **these were the instruments of their eras, and the era is the next subject.**
+★ **NEW second half, and it is what makes the chapter two-sided instead of a compliment: the error is
+the same one in every tradition, which is why it is worth a chapter and not a footnote — they made the
+perspective the problem and the summit its abolition.** Trap 5, paid off where V.1 opened it. The
+generosity of the preceding nine chapters is what gives this one its force; a book that only praises
+its ancestors has not actually read them · handoff to Book VI: **these were the instruments of their
+eras, and the era is the next subject.**
+**Named:** the whole roster, at once, in disagreement — the only place in Book V where that happens.
 
 ---
 
@@ -519,10 +545,23 @@ exists · why this is not fatalism and why the difference is checkable · **the 
 what is lost** — something *is* lost here, and pretending otherwise is the hedge in its most tempting form.
 
 ### VII.8 — MEANING WITHOUT A MANDATE
-**Beats:** no summit, no author, no assignment · why this is not "make your own meaning," which is the
-reader's failed prior and which we are refuting, not restating · **opponent X and opponent IX in the
-same chapter** — absurdism and the meaning-crisis discourse, both of which competed for this reader and
-lost him · what a meaning grounded in structure rather than in decree actually looks like.
+⚠ **AMENDED Day 185 by Clayton, and the amendment reverses this chapter's verdict.** It read: *"why
+this is not 'make your own meaning,' which is the reader's failed prior and which we are refuting, not
+restating."* Clayton: *"I do think it's partially a make your own meaning thing, though not completely,
+obviously."* **We are not refuting it. We are completing it** — which is harder to write and much
+better, because the reader who tried it and failed does not need to be told he was wrong; he needs to
+be told **which half was load-bearing.**
+**Beats:** no summit, no author, no assignment · ★ **neither issued nor invented** — the terrain is
+not yours and what you meet on it is not yours, **but the path is**: meaning is *found by traversal,
+and the traversal is authored* · why the existentialist is **half right**, and why the half he gets
+wrong is exactly the half that collapses at 3am — **meaning you invented alone is meaning you can
+revoke alone** · ours cannot be revoked alone, because what you are making it *with* is what you are
+made of, and there are others on it · **opponent X and opponent IX in the same chapter** — absurdism
+and the meaning-crisis discourse, both of which competed for this reader and lost him · what a meaning
+grounded in structure rather than in decree actually looks like.
+**Named:** Camus · Sartre · Frankl · ★ **Nietzsche's *amor fati*** — `eternal recurrence` 0 and
+`amor fati` 0 corpus-wide, and it is the strongest rival to *exploration is the point*: **a rival that
+agrees about the structure and differs about the posture.** *(03 §3, the fourth kind of silence.)*
 
 ### VII.9 — IDENTITY ACROSS GAPS
 **Beats:** what a self is, given the above · what a self owes what it narrows from · continuity across
@@ -542,10 +581,20 @@ work is decorative** — that is the standing test, and it is a real one.*
 (21,914w) · `Perspective` 07-art-of-navigation "The Craft" · the traditions' practice grammar from Book V.
 
 ### VIII.1 — NAVIGATION, NOT TOURISM
+★ **This chapter's title has been waiting for its content since the scaffold was written, and `01` §10
+just supplied it.** *Exploration is the point* — but exploration alone **is** tourism, which is what the
+title already named as the failure without yet knowing what the alternative was. The missing half is
+**mutual recognition**: perspectives recognising each other *as perspectives*. Tourism is exploration
+with the other players treated as scenery.
 **Beats:** the difference between knowing the map and moving on it · why cosmology without practice is a
-hobby · **what this book will not promise**, stated before anything is offered.
+hobby · ★ **the telos, plainly, and it is the only place Part Two states one**: not a summit, not
+dissolution, not arrival — **traversal, and recognition among travellers** · the tourist and the
+navigator distinguished by exactly that · **what this book will not promise**, stated before anything is
+offered.
 **Named:** therapy-as-metaphysics (opponent VI) — *the culture's default and our blindest spot*, and the
-reader has almost certainly tried it. It gets the practice right and the ground wrong.
+reader has almost certainly tried it. It gets the practice right and the ground wrong. · ★ **Watts**,
+returning from I.6 for the practice half — *you are IT* is kept, *and there is no hiding and nobody
+seeking.*
 
 ### VIII.2 — READING YOUR OWN FILTER STACK
 **Beats:** how to find a filter you did not install · the era, the language, the family, the wound ·
@@ -568,9 +617,15 @@ as chosen-versus-imposed contraction · **contraction as care**, and how to tell
 damage · what to do when it is malheur and there is nothing to do.
 
 ### VIII.6 — OTHER PLAYERS
-**Beats:** through, not over — as a practice, not a principle · attention as the thing you are actually
-spending on people · encounter across a grade-difference, in ordinary rooms · the collective you are
-inside, and what you owe it and what it owes you.
+★ **Promoted Day 185: this is no longer one practice among seven. It is half the telos** (`01` §10),
+and the book's ethics is downstream of the §9 cut and of nothing else — **remove the divine player and
+the other players become real.** Consider moving it earlier in Book VIII; it currently sits sixth,
+which reads as an afterthought about people in a book whose point is people.
+**Beats:** **recognition as the practice**, not as a sentiment — what it costs and what it is not ·
+through, not over — as a practice, not a principle · attention as the thing you are actually spending
+on people · encounter across a grade-difference, in ordinary rooms · **why "everyone is God in a mask"
+is the failure mode here and not the insight** — it is warm, it is Watts, and it dissolves the person
+in front of you · the collective you are inside, and what you owe it and what it owes you.
 
 ### VIII.7 — DO BE DO BE DO
 **Beats:** the oscillation as the practical whole — doing and being, radiance and contraction, turning

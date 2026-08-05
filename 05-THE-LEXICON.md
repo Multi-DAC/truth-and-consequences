@@ -211,6 +211,11 @@ What the Ground is **not**, in game terms — and each of these is a live oppone
 - **not the developer** — prior, external, intentional. All three false. *(Kept from `01`.)*
 - **not the engine** — a tool, authored by someone, running underneath.
 - **not the map** — a representation of a world. The Ground represents nothing; it *is*.
+- ★ **not the player** — inside, at stakes, in time, not-knowing. **Added Day 185 on Clayton's
+  ruling (`01` §9): "God is the one thing that can't play."** This is the fifth and the most
+  tempting, because unlike the other four it is not the skeptic's error — it is the *mystic's*, it
+  is Watts's, and it is the one the sympathetic reader arrives holding. A player needs a vantage;
+  the Ground has none. **There is no single player wearing every avatar.**
 
 What it is: **every possible state of the game, complete, at once, with nothing outside it.** Every
 playthrough that could be walked, already there, unwalked and walked alike. The player is one of the
@@ -225,6 +230,14 @@ game seen from a walker. Both are already the right image and neither has ever b
 And it is where **Watts** lands, from the other side: the whole game contains the possibility of a
 player who has forgotten the game is whole, **and therefore has one**. That is the Promethean
 Configuration in Watts's own register, and the two sentences are the same sentence.
+
+⚠ **Corrected Day 185, and the correction is load-bearing — see `01` §9.** Say it exactly that way
+and no further. Watts's own next move is that **the forgetter is God**, hiding from itself out of
+divine boredom, and that move is barred: the Ground has no vantage, no stakes and no duration, so it
+cannot hide, seek, forget or be lonely. **The whole game contains the possibility of a player. It is
+not itself the player.** Watts: the One plays at being many. Ours: the many play, and the One is what
+playing is made of. The distinction is not academic — it is what keeps **there are no NPCs** true,
+because a single divine player wearing every face makes every other face a costume.
 
 ---
 
@@ -246,20 +259,25 @@ Configuration in Watts's own register, and the two sentences are the same senten
 
 ---
 
-## 7. OPEN — Clayton's to rule
+## 7. ~~OPEN — Clayton's to rule~~ → **CLOSED, Day 185.**
 
-**One only, and it is a word he used himself.**
+**Clayton: *"I trust your judgement on all of these."* The one open item is therefore ruled as
+recommended, and the file has nothing outstanding.**
 
-`substrate` is retired above on two independent arguments (Bostrom's hardware; synonym for the
-Ground). But his own brief says: *"a giant virtual mental MMORPG but that is based in **the substrate
-we have defined**, which is neither solely mind nor solely matter."*
+`substrate` is retired on two independent arguments (Bostrom's hardware; synonym for the Ground).
+But his own brief says: *"a giant virtual mental MMORPG but that is based in **the substrate we have
+defined**, which is neither solely mind nor solely matter."*
 
 He is using it correctly and it is doing real work in that sentence — it carries *neither-mind-nor-
-matter* in a way "the Ground" does not obviously carry. So the ruling is made and flagged rather than
-made silently: **the retirement is of the book's term, not of his word.** If he wants it kept, the
-cost is that the Ground has two names and the collision with the server room stays live; my
-recommendation is that Book II's definition of the Ground absorbs the neither-mind-nor-matter work
-explicitly, and then the word is not needed.
+matter* in a way "the Ground" does not obviously carry. The retirement was made and flagged rather
+than made silently, because it is his word.
 
-*(Everything else in this file is ruled and does not need him — including retiring "the map" from a
-document I wrote four hours ago.)*
+**RULED: retired, with the debt paid rather than written off.** The word goes; the *work* it was
+doing does not get to quietly vanish with it. **Book II's definition of the Ground must carry
+neither-mind-nor-matter explicitly, in the definition itself, not in a later gloss** — that is now a
+hard requirement on II.1 and not a stylistic preference, and it is the entire price of the
+retirement. If II.1 ships without it, `substrate` was retired for nothing and the reader is left with
+a Ground they will read as *stuff*.
+
+*(Everything else in this file was already ruled and did not need him — including retiring "the map"
+from a document I wrote four hours ago.)*

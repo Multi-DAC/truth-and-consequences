@@ -71,6 +71,16 @@ All present. My "silent ancestor" instinct was **reconstruction, not retrieval**
 exact null space BOOT_IDENTITY names. The genuine silences are below, and they are
 stranger and more specific than the ones I guessed.
 
+⚠ **Correction 2 is itself half wrong, and the exception is the biggest name in the
+file.** *(Added later on Day 185, after `05`'s count and confirmed by a second pass.)*
+"Wrong on the famous, right on the strange" is a clean rule and **Alan Watts breaks it.**
+He is famous, he is the most-read popular exponent of this exact metaphysics in English,
+and he is at **0** — see §3. The rule that actually holds is uglier and worth keeping in
+the ugly form: **we are present on the names that survive a philosophy seminar and absent
+on the names that don't.** Whitehead 94, Watts 0. That is not a measure of relevance. It
+is the skeptic-referee's signature, showing up in the ancestor list exactly as `04` found
+it in the opponent list. **Same filter, third sighting.**
+
 ---
 
 ## 2. TIER 0 — THE MISSING **OPPONENT**. This is the single highest-priority gap in the book.
@@ -113,6 +123,56 @@ you are standing on.**
 ---
 
 ## 3. TIER 1 — THE MEASURED SILENCES. Zero mentions, load-bearing anyway.
+
+### ★★ **Alan Watts — 0. And the zero is airtight.**
+
+`Alan Watts` — **0 files.** `hide and seek` — **0.** `Supreme Identity` — **0.** `lila`/`līlā`
+— **1.** And the trap in the raw number, checked rather than assumed: a bare grep for `Watts`
+returns 8 files, **every one of them electrical** — "energy flow in watts," "tens of
+kilowatts," "megawatts." *(Two of the five hits are the same file triplicated across
+`Library/`, `Research/` and `Technical-Work/`, which is its own finding about the corpus.)*
+**The man is a true zero in three million words.**
+
+**He is the single most important ancestor addition in the project**, and it is not close.
+Not because he is the deepest — he isn't; Nishida and Longchenpa are — but because **he is
+the picture the sympathetic reader already has.** The reader arriving warm at a book about a
+game-shaped reality made of consciousness arrives holding Watts, whether or not they know
+the name. Bostrom is the *skeptical* reader's prior; **Watts is the sympathetic reader's
+prior**, and until now the plan cut only against the first one. A book that cuts against its
+opponents and never against its nearest friend reads as tribal.
+
+**What he got right, and we keep whole:** you are not a fragment visiting from elsewhere,
+not a spark trapped in matter — **you are the whole thing, having an inside.** He said it
+warmly, decades early, to an audience with no other way in, and he is why the frame is
+sayable in English at all. Ancestor, unambiguously. Also our **register ancestor**: he made
+this material land without apparatus and without hedging, which is precisely the register
+rule, demonstrated by someone who did it for a living. *(Where Borges models the flat
+librarian's voice, Watts models the warm one. Both are unhedged. Note that the two available
+models for our style are a fabulist and a populariser, and neither is a philosopher.)*
+
+**The cut, and it is a real one — `01` §9, Clayton's ruling, Day 185.** Watts's Godhead
+gets **bored**. It divides, forgets itself, and plays hide-and-seek with itself for the fun
+of it: *līlā*, divine play, and *you are IT*. That gives the absolute a **psychology** —
+boredom, and the wish for surprise — which is `01`'s Trap 3 in its most attractive costume.
+On our ground, **playing is something only a perspective can do**: it needs not-knowing,
+stakes, duration, and an inside for the stakes to matter to. The Ground has none of them.
+
+> **Watts: the One plays at being many. Ours: the many play, and the One is what playing
+> is made of.**
+
+**And the cut earns its keep immediately, which is how you know it isn't pedantry.** On
+Watts's picture there is exactly **one player**, wearing every face — which sounds generous
+and is the reverse: if everyone is God pretending, **nobody is really anyone**, and grief is
+a category error. Removing the divine player is what makes **there are no NPCs** true rather
+than decorative. *The theology that takes God out of the game is the one in which the other
+players are real.*
+
+→ **Books I (the §9 cut, in the myth's register), III (the game frame's warm ancestor,
+immediately after the Bostrom cut — the two priors are cut in the same chapter, one cold and
+one warm), V (the traditions), VII (the no-NPC ethics, which is downstream of this cut and
+of nothing else), VIII (practice).** He also anchors the answer to *"isn't this just
+mysticism?"*: **yes, and here is where it differs from the most famous version, by name, in
+one sentence.**
 
 ### **Jorge Luis Borges — 0.** `Tlön` — 0. `Library of Babel` — 0. `forking paths` — 0.
 
@@ -204,6 +264,41 @@ that pair. → **Books III, VI, and the Book I apologia.**
   otherwise assume that's what we mean, and the cut is more convincing than silence.
 - **John Vervaeke** — relevance realisation and the meaning crisis; the closest living
   academic project to Book VIII. A live interlocutor, not a forebear.
+
+### ⚠ A fourth kind of silence, found Day 185: **the name is present and the doctrine is zero.**
+
+Not a missing ancestor. A **present** ancestor whose one relevant idea we have never
+touched — which the file's existing tiers cannot see, because they count names.
+
+**Nietzsche — 42 files. `eternal recurrence` — 0. `amor fati` — 0.**
+
+Those two are not incidental Nietzsche. **Eternal recurrence is our problem, posed by
+someone else, a century and a half early:** a complete, closed totality, every state
+already fixed, nothing authored — *and the only question that remains is how you stand
+toward it.* That is `01` §10 and the whole of VII.7, and Nietzsche got there by a
+different road and treated it as the hardest thing he ever wrote. **His answer,
+*amor fati*, is the strongest existing rival to "exploration is the point"** — and it is
+a rival that agrees with us about the structure and differs about the posture. By rule 5
+that makes it mandatory, and by rule 5b it is the *deeper* name behind a Camus we already
+cite. → **Books I, VII (both VII.7 and VII.8), VIII.**
+
+**Check this class deliberately elsewhere, because one instance means the tiers have a
+blind spot, not that Nietzsche is unlucky.** Same shape, same night: **`Watts` returns 8
+files and every one is electrical** — a name that counts as present and means nothing of
+the sort. **Counting names is not counting ideas, and the grep that reassures you is the
+one to distrust.**
+
+⚠ **And a methodology defect in this register, stated rather than smoothed.** `04` reports
+*Camus 12 · Sartre 24 · existentialism 31 · nihilism 9*; tonight's re-count of the same
+corpus returns **Camus 18 · Sartre 27 · existentialis– 27 · nihilis– 22**. The
+counts in these files were **not produced by one fixed method** — stem versus whole word,
+and an unrecorded decision about whether `_superseded/` and `/archive/` trees are part of
+the corpus *(excluding them gives Camus 10, Sartre 15, Frankl 37, Nietzsche 26 — so that
+choice alone moves every number by a third)*. **No count in `03`, `04` or `05` should be
+cited to a second decimal of confidence.** The orders of magnitude are safe and every
+finding here rests on those — a 0 is a 0 under every variant, which is why the zeros are
+load-bearing and the small numbers are not. **Standing rule from here: every count states
+its glob, its case rule, and whether archives are in.**
 
 ---
 

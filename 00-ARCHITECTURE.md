@@ -282,6 +282,42 @@ it that change *this* file: the register rule's true provenance (§2 there),
 style rule 5 above, and the fact that superseding book #1 supersedes the decided
 9-book line — five of the other eight are absorbed by Books IV–VIII.
 
+**★★ 3a-bis. THE GROUND CANNOT PLAY — RULED, Day 185, and it is the deepest
+doctrinal ruling in this file.** Clayton: *"God isn't playing hide and seek because
+God is the one thing that can't play, but instead is constituted by and constitutive
+of all perspectives. It's not lonely, it's static and non-descript, infinite
+potential."*
+
+Full argument: `01-THE-GROUND.md` §9. In one line: **Watts says the One plays at
+being many; we say the many play, and the One is what playing is made of.** Playing
+needs not-knowing, stakes, duration and an inside — the Ground has none of them, so
+"player" joins *server, developer, engine, map* on the not-list (`05` §5), and it is
+the most dangerous of the five because it is the **mystic's** error rather than the
+skeptic's. **Consequence that reaches the ethics: Watts's picture has exactly one
+player wearing every face, which makes everyone a costume; ours has no divine player,
+and therefore every player is real.** *The theology that takes God out of the game is
+the one in which the other players matter.* Book VII's ethics rests here.
+
+**★★ 3a-ter. THE TELOS — RULED, Day 185.** Clayton: *"Neither dissolution nor full
+unity are the point, for neither have a perspective… exploration is the point… and
+recognition of the various perspectives amongst each other."* `01` §10.
+
+**This is an argument, not a preference:** a metaphysics in which being-the-case
+requires a vantage cannot name the abolition of vantage as its goal. So we take the
+traditions' ontology and **refuse their destination** — *henosis*, *fanā'*,
+*kaivalya*, cessation, union, all of it. New **Trap 5** in `01`, guarded early in I.6
+and opened in V.1, because it springs in Book V and by then it is unfixable.
+**Two halves, both required: exploration, and mutual recognition.** Exploration
+without the second half is *tourism*, which VIII.1 had already named as the failure
+mode without yet knowing what the alternative was.
+
+**And an amendment to a chapter that was already ruled:** *"I do think it's partially
+a make your own meaning thing, though not completely."* **VII.8 said we are refuting
+"make your own meaning"; we are completing it.** Neither issued nor invented — the
+terrain is not yours, the path is. Meaning is *found by traversal, and the traversal
+is authored*, which is why the existentialist is half right and why the half he gets
+wrong is the half that collapses at 3am.
+
 **3b. The whole line — RULED, Day 185.** Clayton: *"This supersedes the whole
 line."* Not just *The Inside View*, and not just the remaining eight: the line
 itself is closed. There is no book after this one that this one is the first of.
@@ -362,7 +398,12 @@ before we actually begin writing."* No prose drafting until the map is done.
 - `00-ARCHITECTURE.md` — this file. Macro-structure, register rule, style contract.
 - `01-THE-GROUND.md` — Book I's logical spine. The Promethean chain, retrieved
   with dates, plus the scope rule that keeps it from collapsing into Gnosticism,
-  plus the four traps and the game-metaphor anchor.
+  plus **five** traps and the game-metaphor anchor.
+  ★★ **Extended Day 185 with the two rulings that changed the most: §9 the Ground
+  cannot play (the Watts cut) and §10 the telos — exploration and mutual
+  recognition, not union.** Also tightened §6, whose "recognition requires absence"
+  had an unstated *for whom* — answered wrongly, it hands the Ground a motive, which
+  is §9's error arriving through the back door.
 - `02-SUPERSESSION-the-inside-view.md` — the disposition of 75,898 superseded
   words, the corrected provenance of the register rule, and the quarry manifest.
 - `03-THE-ANCESTORS.md` — the lineage register, built by **counting the corpus**, not
@@ -441,8 +482,24 @@ before we actually begin writing."* No prose drafting until the map is done.
    is not. The occult half is inherited near-complete from the *Inside View* plan;
    the institutional half is new work, and `06` puts it **first in Book V's order**
    so it cannot stay thin by being last.
-6. **Add Watts and Borges to `03-THE-ANCESTORS.md`** — both 0 files, both load-bearing,
-   both found by the count that built `05`.
+6. ~~Add Watts and Borges to `03-THE-ANCESTORS.md`~~ — **DONE.** Borges landed with `03`
+   itself; **Watts landed Day 185 as a Tier-1 measured silence and grew into `01` §9's
+   doctrinal cut**, which is a larger thing than a register entry. Also added: a **fourth
+   kind of silence** the file's tiers could not previously see — *the name is present and
+   the doctrine is zero* (Nietzsche 42, `eternal recurrence` 0, `amor fati` 0).
+7. **★ Draft I.6 beat 4 and V.1's parting clause together, before anything else in Book I.**
+   They are one ruling landing in two places nine books apart, and Trap 5 is the only trap
+   that cannot be fixed late. Small, and it unblocks the read of Book V.
+8. **Sweep `06` for Trap 5 leakage** — every appearance of *merge*, *ultimately*, *union*,
+   and every sentence in which the narrowing sounds temporary. The trap was named after the
+   scaffold was written, so the scaffold has never been read against it.
+
+⚠ **A measurement defect in the registers, recorded rather than smoothed** *(`03` §3, end)*.
+`03`, `04` and `05` were counted by **different greps** — stem versus whole word, and an
+unrecorded decision about whether `_superseded/` and `/archive/` trees count as corpus.
+Excluding them moves every number by roughly a third. **The zeros are safe under every
+variant and every finding rests on the zeros; the small numbers are not.** Standing rule:
+each count states its glob, its case rule, and whether archives are in.
 
 ⚠ **COPY, DON'T REFERENCE.** Everything quarried lives in
 `Corpus-Perspectival`, **archived read-only on GitHub since 2026-07-16**. Local
