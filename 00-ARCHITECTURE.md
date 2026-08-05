@@ -748,7 +748,13 @@ phrase, and no sentence. *A ban with no replacement is not a ruling; it is a hol
 around it,* and it sits in the chapter ruled to open Book VII because it is what the reader arrived
 with.
 
-### ★★ B. THE VOICE SPECIMEN — three short pieces, before sixty-eight chapters get a voice nobody ruled
+### ★★ B. THE VOICE SPECIMEN — ✅ **WRITTEN Day 186 → `prose/SPECIMENS.md`. THE PLANNING PHASE IS CLOSED.**
+*Four specimens, ~2,465 words. Ruling 12's exit condition is met by the file, not by this line.
+**Awaiting Clayton's ruling on voice** — that is the one thing the specimens exist to obtain, and it
+is not self-certifiable. Three findings the rulings did not produce are recorded at the foot of that
+file: the sustained metaphor cannot begin until Book III · ruling 9's payoff is grammatical, not
+typographic · **comfort enters through sentence order, not through a bannable word** (specimen 4
+consoled in five of six drafts). Original statement of the item below.*
 
 **Not one sentence of *Truth and Consequences* exists.** We have a register rule, a comprehension
 contract, a lexicon and 68 mapped chapters — and no prose. The risk is specific and already named in
