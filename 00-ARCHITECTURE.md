@@ -393,28 +393,56 @@ before we actually begin writing."* No prose drafting until the map is done.
   says **the Ground**, always; a future editor must not restore the technical
   term. See "RULED 6" below.
 
+- `05-THE-LEXICON.md` — **every term ruled, once.** Clayton, Day 185: *"we could just
+  change the terms to something that won't be misunderstood… there's bound to be
+  overlap with the whole game analogy."* Generalises ruling 6 into a policy with
+  three instruments — **RENAME / CAPTURE / BAN** — and a rule that undecided is not
+  an option, because undecided means the reader decides in favour of whoever got
+  there first. Retires `substrate`, `X`, `aperture`, `bottleneck`, and **`the map`**;
+  bans pop-spirituality's owned vocabulary *as terms while keeping every bold claim*.
+  ★ **Its three findings, all from the count:** `video game` = **0 files** — the
+  sustained metaphor of the whole work has no precedent in three million words, so
+  Book III is new writing end to end. **`Alan Watts` = 0 files** — the man whose
+  life's work *was* the game frame (*līlā*), filtered out for sounding like woo, and
+  now the most important ancestor addition in the project. And the mishearing that
+  outranks *base reality*: ★★ **"perspective" heard as "opinion"** — the title word
+  of our last book, and the one that lands the reader inside the failed prior we are
+  refuting.
+
+- `06-THE-SCAFFOLD.md` — **68 chapters, 8 books, 2 parts, front matter and coda.**
+  Every chapter carries a thesis, its ordered beats, its named ancestor-or-opponent
+  (rule 5), and its source — quarried with the file, or NEW. Ruling 4 made the
+  chapter the only unit a reader of an unbounded work navigates by; this is that unit,
+  mapped end to end.
+  ★ **What it revealed that was not visible before it existed:** the ratio inverted —
+  Book IV is the *only* substantially quarried book, and the ~167,900 atlas words are
+  one book of eight. **Three chapters carry the whole work and none is Book I**
+  (III.1 the Bostrom cut · V.4 where we own our own flinch · VII.1 death, first and
+  unhedged). And **Book VIII is the falsifier**: if I–VII are right and the practice
+  book is thin, the work is decorative — so it gets drafted early, out of order.
+
 **Next, in order:**
 
-1. **Book II's vocabulary** — every term defined once. Before any prose:
-   everything downstream draws on it and nothing may add to it. **Now carrying a
-   second job** (`04` §7): every term the reader will *mishear* must be defined
-   against its collision. The Ground goes first.
-2. **Book III's opening cut against the simulation hypothesis** — promoted here by
-   `04` §3.II. The highest-priority single paragraph in the plan, because it is the
-   one place we can lose the reader **by being agreed with**: a reader holding
-   Bostrom will hear our game frame as a restatement of his and follow us happily
-   into the wrong book. The cut lands before the metaphor is elaborated, not after.
-3. **The Book IV atlas inventory** against the ~167,900 existing words.
-4. **Book V's tradition roster** — **half of it is no longer a blank page**: the
-   *Inside View* ancestors-and-traditions plan is a near-complete roster with
-   framework readings already drafted. But `04` §3.III measured the halves and they
-   are lopsided — **occult-rich (Gebser 127, Crowley 80, Dee 15) and
+1. ~~Book II's vocabulary~~ — **DONE**, `05-THE-LEXICON.md`.
+2. ~~The per-book chapter maps~~ — **DONE**, `06-THE-SCAFFOLD.md`.
+3. **III.1 written in full** — the highest-priority single paragraph in the plan, now
+   a mapped chapter with five beats. `04` §3.II: it is the one place we can lose the
+   reader **by being agreed with** — a reader holding Bostrom hears our game frame as
+   a restatement of his and follows us happily into the wrong book. The cut lands
+   before the metaphor is elaborated, not after. **Worth writing before the planning
+   phase formally closes, because everything downstream forks on it.**
+4. **The Book IV atlas inventory, entry by entry**, against the ecology's measured
+   Tiers 1–4 — which of IV's ten chapters are genuinely covered by the ~167,900
+   words and which are a heading with nothing behind it.
+5. **Book V's institutional half — V.2, V.3, V.4.** `04` §3.III measured the halves
+   and they are lopsided: **occult-rich (Gebser 127, Crowley 80, Dee 15) and
    institution-poor (Aquinas 8, Augustine 14, theism 7)**, inverted against the
-   reader's actual history, where the church is the likeliest failed prior and
-   Crowley is not. The institutional half is new work.
-5. **The per-book chapter maps** — promoted from afterthought by ruling 4.
-   In a single work of unbounded length, the chapter is the only unit the
-   reader navigates by, so the chapter map *is* the reading experience.
+   reader's actual history, where the church is the likeliest failed prior and Crowley
+   is not. The occult half is inherited near-complete from the *Inside View* plan;
+   the institutional half is new work, and `06` puts it **first in Book V's order**
+   so it cannot stay thin by being last.
+6. **Add Watts and Borges to `03-THE-ANCESTORS.md`** — both 0 files, both load-bearing,
+   both found by the count that built `05`.
 
 ⚠ **COPY, DON'T REFERENCE.** Everything quarried lives in
 `Corpus-Perspectival`, **archived read-only on GitHub since 2026-07-16**. Local

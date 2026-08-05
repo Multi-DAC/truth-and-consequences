@@ -126,17 +126,25 @@ theology, or it is decoration everywhere after.
 
 | Metaphysics | Game |
 |---|---|
-| Plenitude — all configurations exist statically | The map is **pre-rendered and complete**. Nothing is authored at runtime. |
+| Plenitude — all configurations exist statically | **The whole game** — every possible state, complete, at once. Nothing is authored at runtime. *(Corrected Day 185, `05-THE-LEXICON.md` §3b: this row read "the map is pre-rendered and complete." **Map** imports representation-of, which the Ground is not, and it collides head-on with Korzybski in Book VI, where "map" must mean the model and not the world.)* |
 | The Promethean Configuration | The game **contains the possibility of a player**, and therefore has one. |
 | Narrowing | **Rendering.** The world is drawn at the point of contact — not stored, not fetched. |
 | Neither mind nor matter; both, in and out | The render is **co-constitutive**. The seed isn't solely yours; the world isn't solely given. |
 | Reactivity is awareness | **There are no NPCs.** Every entity is a player at its own grade. |
 | Reality tunnels | **A persistent render filter** — installed by era, language, ritual, trauma, choice. Editable. |
 | Free navigation inside a complete map | **The walking is real.** That every path already exists takes nothing from the one being walked. |
-| God | The **substrate** — not a character in the game, not the designer above it. What the game is made of and made in. |
+| God | **The whole game itself** — not a character in it, not the designer above it, not the server it runs on. What the game is made of and made in. |
 
 The last row is the one to get right, and it is the reason the metaphor survives
 Book V instead of embarrassing it. **God is not the developer.** A developer is
 outside, prior, and intentional — all three false. The Ground is what the whole
 thing is *made of*, all the way down and all the way through, including the
 player.
+
+⚠ **Corrected Day 185.** This row read "the **substrate**." That word is retired —
+it is the simulation hypothesis's name for the *hardware*, and it was also a bare
+synonym for the Ground, so it broke define-once twice over. Ruling and the four
+things the Ground is not — server, developer, engine, map — are
+`05-THE-LEXICON.md` §5. *(It is also the word Clayton himself used in the Day-185
+brief; the retirement is of the book's term, not of his, and it is flagged for him
+there rather than made silently.)*
