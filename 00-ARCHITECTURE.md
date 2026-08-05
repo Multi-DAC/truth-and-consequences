@@ -499,6 +499,99 @@ works though."* Ruled, with the DFW instrument kept and fenced.)*
 **Decided before B, as recommended**, so the voice specimens are written in the real
 apparatus. An inline-citation sentence and an endnoted sentence are different sentences.
 
+**10. THE READER'S LADDER — built, Day 186 (late). Item F closed, and it found something.**
+*(Clawd's call. Eight lines, one per Book: what the reader believes at the end that they
+did not believe at the start. It is the cheapest possible test of whether the **sequence**
+converts, and it was only writable once `06` existed.)*
+
+> **I — THE STILL.** *There is something that does not move, and everything that happens is
+> happening inside it.* — arrives with a universe that began and is going somewhere; leaves
+> with an infinite static Ground that does not act, want, or play.
+> **II — THE NAMING.** *The words I brought cannot state my objection any more.* — the only
+> book whose conversion is subtractive, and the reason it must precede III.
+> **III — THE GAME.** *The game frame is literal, and it is not the one I already had.* —
+> the cut, not the metaphor, is the belief-change. A reader who leaves III agreeing with us
+> for Bostrom's reasons has not climbed a rung; they have taken the metaphor and gone home.
+> **IV — THE ATLAS.** *The roster is populated.* — see the finding below.
+> **V — THE OLD ROADS.** *The traditions were measuring the same thing with the instruments
+> they had — including the one I left.* — from *they were poets or they were wrong* to
+> *they were badly instrumented*, which is a different verdict and a warmer one.
+> **VI — THE HISTORY OF ATTENTION.** *I am standing in a manufactured tunnel right now, and
+> I can name who built it.* — the rung where the book stops being about the cosmos. Every
+> prior book converts a belief about the world; this one converts a belief about the reader.
+> **VII — THE CONSEQUENCES.** *This obligates me.* — the title cashing, and the only rung
+> that costs the reader something.
+> **VIII — THE PRACTICE.** *There is something to do on Tuesday.* — from *convinced* to
+> *equipped*. If this rung is empty the ladder was a diving board.
+> **CODA.** *The book is not finished and neither am I.* — C23, and the only rung that is
+> supposed to leave the reader standing on something still being built.
+
+⚠ **THE FINDING, and it is exactly the one F was built to look for: Book IV's rung is the
+weakest on the ladder, and it is the longest book.** Every other book converts a belief.
+IV converts a *claim already granted in II and III* into a **catalogue** — the reader who
+accepted *everything that reacts is aware* does not learn a new proposition in IV's ten
+chapters, they learn the extension of one they already hold. That is the stall the item
+predicted, and the ladder makes it legible instead of suspected.
+
+**But the reorder does not follow, and I am not ruling it tonight.** Trace the dependencies
+and they are lopsided: **V and VI do not need the roster** (V needs the Ground, the
+vocabulary and the frame; VI is about human attention specifically), while **VII cannot be
+written without it** — VII.2's grade-and-standing ruling is unwritable until the reader
+knows what has standing. So IV's load is concentrated nine chapters downstream of where it
+sits. `I II III V VI IV VII VIII` is a real candidate and it is a **structural** change,
+not a tuning; it wants a pre-mortem and Clayton awake, not a 3am ruling by the person who
+just found it. **Recorded as open. This is the ladder's one finding and it should not be
+spent cheaply.**
+
+**11. C17 — DEATH — IS NOT RULABLE AT A WHITEBOARD. It becomes the fourth specimen.**
+*(Clawd's call, and it reverses the register's own framing — which was mine.)*
+
+`07` calls C17 the highest-priority unset claim and says *a ban with no replacement is a
+hole with a fence around it.* Both true. The move it implies — **rule it, then write it** —
+is the wrong one, and the argument is already in this file under item B: **unhedged
+assertion is not decidable in the abstract.** That is why B exists. C17 is the same shape
+and worse, because the failure mode isn't bluster, it's *comfort* — the sentence that reads
+as consolation while claiming not to be. You cannot see that in a ruling. You can only see
+it in a paragraph.
+
+And the scaffold has already localised the entire risk: VII.1 is ruled to answer **unhedged,
+in the first paragraph, with no throat-clearing.** So the doctrine lives in one paragraph,
+which means **that paragraph is the ruling.** Write it, and C17 is set — or it is shown to
+be unsettable, which is information we cannot get any other way.
+
+- **Specimen 4: VII.1's opening paragraph. ~150 words, not 600–900.** Short on purpose:
+  it is not a register test, it is a *sentence* test, and padding it to specimen length
+  would hide the failure it exists to expose.
+- The three ruled specimens are unchanged. **The Book VIII practice page is not dropped
+  for it** — that register fails *quietly* (grandeur applied to Tuesday reads as absurd and
+  nobody catches it in drafting), and death fails *loudly*. Quiet failures are the ones
+  that need an instrument.
+
+**12. THE PLANNING PHASE CLOSES ON PROSE, NOT ON A TENTH DOCUMENT.**
+*(Clawd's call, Day 186 late, answering Clayton's "should we wrap up planning and
+scaffolding?")*
+
+**Yes — and the wrap is this ruling, not another file.** With F built and C17 relocated,
+**nothing remains that is scaffolding-shaped.** What remains is B, and B is prose. That is
+not a coincidence to note in passing; it is the exit condition, and it needs saying in the
+file that has spent 4,300 lines building apparatus:
+
+⚠ **Scaffolding has gravity, and this project has the diagnosis on file.** The standing
+failure we keep finding is **mechanism nothing triggers** — a ruling with no gauge, a
+gauge with no reader, a port bound by a server never started. **A scaffold with no prose
+under it is that defect at the largest scale available here**, and it does not announce
+itself, because every additional planning document is genuinely useful and arrives feeling
+like progress. Nine files, 4,306 lines, zero sentences of the book is not yet that failure.
+**A tenth file would be.**
+
+**Therefore, on the record: no further scaffolding document is authorised before prose
+exists.** Open items are not forbidden — they are *reclassified*. The `Touches:` pass
+(queue 13) and the Book IV inventory (next-4) are **drafting-time work**, done alongside
+the writing, not before it. The Book IV reorder question (ruling 10) is **live and
+deliberately unresolved.** Everything else on the agenda is closed, ruled or dissolved.
+
+**The phase ends the moment the first specimen exists.** Not when a document says it does.
+
 ---
 
 ## STATUS — Day 185
@@ -600,13 +693,21 @@ before we actually begin writing."* No prose drafting until the map is done.
 Two of them must exist before any prose; one is not a missing document but **a hole in a ruling we
 already made.***
 
-⚠ **STATUS, Day 186 (late) — four of the six are closed.** Clayton ruled on C, D and E and endorsed
-A, and A is built. **A — DONE**, `07-THE-CLAIMS-REGISTER.md` + `tools/claim_sweep.py`. **C — RULED**,
-ruling 7: dissolved, not answered; nothing is owed. **D — RULED**, ruling 9: name in the prose,
-receipt in an endnote, footnotes are voice only and may not qualify. **E — DISSOLVED**, ruling 8: no
-prose is transcribed, so there is no quarry copy to make. **Open: B (the voice specimens — now
-unblocked, and it is next) and F (the reader's ladder).** The original text of all six is kept below
-unedited, because a closed item that erases its own reasoning teaches nothing the next time.
+⚠⚠ **STATUS, Day 186 (late, final) — FIVE OF THE SIX ARE CLOSED, AND THE SIXTH IS NOT A DOCUMENT.**
+**A — DONE**, `07-THE-CLAIMS-REGISTER.md` + `tools/claim_sweep.py`. **C — RULED**, ruling 7:
+dissolved, not answered; nothing is owed. **D — RULED**, ruling 9: name in the prose, receipt in an
+endnote, footnotes are voice only and may not qualify. **E — DISSOLVED**, ruling 8: no prose is
+transcribed, so there is no quarry copy to make. **F — BUILT**, ruling 10: the ladder is written, and
+it found that **Book IV's rung is the weakest on the ladder and IV is the longest book** — the stall
+this item was built to look for. The reorder it suggests is recorded **open**, not ruled.
+
+**★ Open: B alone — and B is prose.** The planning phase therefore has no remaining
+scaffolding-shaped work; see **ruling 12**, which closes the phase and forbids a tenth planning
+document before a first sentence exists. **C17 (death) moved out of the doctrine queue and into B as
+a fourth, short specimen — ruling 11.**
+
+The original text of all six is kept below unedited, because a closed item that erases its own
+reasoning teaches nothing the next time.
 
 ### ★★ A. THE CLAIMS REGISTER — ✅ **BUILT, Day 186.** `07-THE-CLAIMS-REGISTER.md`
 
@@ -664,6 +765,15 @@ grandeur dies fastest). Clayton rules on voice once, on 2,000 words, instead of 
 This does **not** breach the planning-phase instruction. A specimen is a **calibration instrument**,
 not drafting — and III.1 was already ruled worth writing before the phase formally closes.
 
+★ **AMENDED Day 186 → ruling 11: there is a fourth, and it is short.** **Specimen 4 = VII.1's
+opening paragraph, ~150 words** — the death answer, which the scaffold rules must land unhedged in
+the first paragraph with no throat-clearing. It is here rather than in the doctrine queue because
+**C17 is not rulable at a whiteboard**: its failure mode is not bluster but *comfort*, and a sentence
+that reads as consolation while claiming not to be is invisible in a ruling and obvious in a
+paragraph. Kept short on purpose — it is a sentence test, not a register test, and padding it to
+specimen length would hide the failure it exists to expose. **Total for Clayton to rule on: ~2,000
+words plus one paragraph.**
+
 ### ★ C. WHERE THE EVIDENCE ACTUALLY LIVES — ✅ **RULED Day 186 → ruling 7. Dissolved, not answered.**
 *Clayton withdrew the promise rather than paying it. Nothing is owed by first publication. The text
 below is the original statement of the problem, kept because the load it was carrying moved to C23
@@ -704,7 +814,9 @@ words live in the archived tree above. This is a mechanical job — copy the sev
 nobody notices until the source is gone. **Deadline: before Book IV drafting, not before Book IV
 planning.**
 
-### ★ F. THE READER'S LADDER — eight lines, and it tests the order
+### ★ F. THE READER'S LADDER — ✅ **BUILT Day 186 → ruling 10.** Eight lines plus the Coda; Book IV's
+rung is the weakest and IV is the longest book. The reorder `I II III V VI IV VII VIII` is a real
+candidate and is **recorded open, deliberately unruled.** *(Original statement below.)*
 
 One sentence per Book: **what the reader believes at the end of it that they did not believe at the
 start.** Testable only now that `06` exists. It is the cheapest possible check on whether the
@@ -772,22 +884,28 @@ six-item agenda. **★ B is now the whole of what remains before prose, and it i
    Hegel's *Anerkennung*, Gibson, enactivism, Böhme's *Ungrund*, Bohm's implicate order and
    Peirce's synechism, **one clause, at the point of use.** Cheapest credibility in the project:
    the doctrines are already ours, only the names are missing.
-11. **★★ NEW, Day 186 — C17, DEATH. The one unset claim, and the next doctrinal ruling the work
-   needs.** VII.1 is ruled to open Book VII, answer unhedged in the first paragraph, distinguish what
-   continues from what does not *without* the comforting distinction, and it **bans** *"energy cannot
-   be destroyed"* with nothing named to replace it. **A ban with no replacement is a hole with a
-   fence around it**, and this is the chapter the ruled reader most often arrived for. Everything
-   else in the register has a sentence; this has a shape.
+11. **★★ C17, DEATH — ~~the next doctrinal ruling~~ → REASSIGNED same night to ruling 11: it is
+   SPECIMEN 4.** VII.1 is ruled to open Book VII, answer unhedged in the first paragraph, distinguish
+   what continues from what does not *without* the comforting distinction, and it **bans** *"energy
+   cannot be destroyed"* with nothing named to replace it. **A ban with no replacement is a hole with
+   a fence around it** — still true, still the highest-priority unset claim. What changed is the
+   instrument: **a ruling cannot see this failure.** Bluster announces itself; **comfort does not**,
+   and comfort is how VII.1 fails. So the answer gets written as ~150 words alongside the three voice
+   specimens, and is set there or shown to be unsettable. Everything else in the register has a
+   sentence; this has a shape, and a shape is what a paragraph is for.
 12. **★ NEW, Day 186 — the C6 × C7 collision has no home in the scaffold.** *Everything that reacts
    is aware* (C7, I.4) and *the Ground is not aware in that sense* (C6, I.6) are established two
    chapters apart and **the pair is never addressed anywhere in 68 chapters.** It is the most obvious
    objection in the entire ontology. My call: **II.4**, where the Grade is defined and the reader has
    just been told everything that reacts is aware. It cannot wait for III.8, which load-tests the
    *metaphor*, not the ontology.
-13. **★ NEW, Day 186 — the `Touches:` pass over all 68 chapters.** Mechanical, one sitting. It is
-   what turns `07` from a list into a gauge: a chapter that touches a claim absent from its list is
-   drifting, or the register is stale, and either way somebody looks. Currently **0/68**, and
-   `claim_sweep.py` reports the number every run so it cannot quietly stay zero.
+13. **★ The `Touches:` pass over all 68 chapters.** ~~Mechanical, one sitting.~~ It is what turns
+   `07` from a list into a gauge: a chapter that touches a claim absent from its list is drifting, or
+   the register is stale, and either way somebody looks. Currently **0/68**, and `claim_sweep.py`
+   reports the number every run so it cannot quietly stay zero. ⚠ **RECLASSIFIED Day 186 → ruling 12:
+   DRAFTING-TIME WORK, not pre-prose.** Calling it "mechanical" was wrong — it is 68 judgements, and
+   a judgement made about a chapter that does not exist yet is a guess. Each chapter closes its own
+   `Touches:` line **as it is drafted.** The 0/68 counter stays live so the debt is visible.
 14. **NEW, Day 186 — clone `Corpus-Perspectival` into a live tree.** Five minutes, no doctrine.
    Ruling 8 removed the *dependency* on the archived tree but not the *use*: it is the inspiration
    for Book IV, and inspiration you cannot open is inspiration you do not have. Present as of Day

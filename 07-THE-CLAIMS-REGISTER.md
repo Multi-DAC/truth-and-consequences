@@ -268,6 +268,17 @@ so out loud.** It is the one place where a vague sentence will be read — corre
 by a reader who has been promised no hedging on the previous three hundred pages. **A ban with no
 replacement is not a ruling; it is a hole with a fence around it.**
 
+★ **DISPOSITION, Day 186 late → `00` ruling 11: C17 leaves the doctrine queue and becomes the
+fourth voice specimen.** The paragraph above says *rule it.* That was mine and it was wrong by
+this work's own standard: **unhedged assertion is not decidable in the abstract** — the argument
+that created item B — and C17 is the same shape with a nastier failure mode. Bluster announces
+itself; **comfort does not.** A sentence that consoles while claiming not to console passes every
+review conducted on a ruling and fails on the page. The scaffold has already localised the whole
+risk to VII.1's first paragraph, so **that paragraph is the ruling** — ~150 words, written before
+prose, alongside the three register specimens. It will be set there or shown to be unsettable, and
+the second outcome is worth more than a ruling that sounds decisive at a whiteboard.
+**Status remains UNSET. What changed is the instrument, not the answer.**
+
 ### C18 — THE FLOOR
 > **Canonical:** Norms bind from everywhere that navigates. The distinction the ethics turns on is
 > **through** and **over**. It secures the norm's validity, **not its motivational grip** — one who
@@ -410,7 +421,10 @@ scaffold does not answer it anywhere. → **queue item, below.**
    **`06` III.3 and VII.7 chapter titles.** *(Done Day 186 — see the commit; recorded here because
    the register's first job is to show its own catch being closed.)*
 2. **★★ C17 — death.** The one unset claim, in the chapter ruled to open Book VII, with a banned
-   phrase and no replacement. **This is the next doctrinal ruling the work needs.**
+   phrase and no replacement. ~~The next doctrinal ruling the work needs.~~ **REASSIGNED Day 186
+   → `00` ruling 11: it is not a ruling, it is specimen 4.** Still UNSET, still the highest
+   priority — but it gets answered *in a paragraph*, with the voice specimens, because its
+   failure mode is comfort and comfort is invisible at a whiteboard.
 3. **★ The C6 × C7 collision has no home.** Assign it — I.4's beat 1, or II.4's definition, or
    II.8 ("the things this book will not say"). My call: **II.4**, where the Grade is defined and
    the reader has just been told everything that reacts is aware. It cannot wait for III.8's load
