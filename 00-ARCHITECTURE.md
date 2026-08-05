@@ -10,6 +10,16 @@
 
 **No hedging. The metaphysics is stated as the case.**
 
+⚠ **PROVENANCE, CORRECTED Day 185.** This rule is **not new here.** It is Clayton's
+ruling of **Day 146 / 2026-06-26**, made inside *The Inside View* and recorded in
+that book's `ANCESTORS-AND-TRADITIONS-integrated-plan`: *"kill the four grade-tags
+entirely. A believer doesn't label his claims with a confidence-grade for a
+skeptic to weigh at a distance — he states the claim and says why he holds it…
+We do not tailor to the person trying not to believe."* Same day, the axis
+correction: *"the mystical is only mystical if it's not explainable, and we have a
+nuanced explanation."* This section originally presented both as Day-185 findings.
+They are 39 days old and they are his. See `02-SUPERSESSION-the-inside-view.md` §2.
+
 "True" means *true according to the system we are disseminating* — not
 "scientifically established." That distinction is made **once**, in the front
 matter, in plain language, and then never made again. A book that re-earns its
@@ -25,6 +35,26 @@ Corollary, and it is load-bearing: **the woo is not a liability to be managed.**
 Cutting it was a trained materialist flinch — a scalpel held sharp for mystics
 and dull for materialists, inside a framework that is *idealist*. That asymmetry
 is the defect. This volume lands on the other foot on purpose.
+
+**The operational form of the rule** (also his, Day 146 — the grounds vary in
+*kind*, and the kind is what the prose supplies where a tag used to sit):
+
+| the dead tag | what replaces it |
+|---|---|
+| 〔established〕 | **ground in evidence** — cite it, tell the study or the case |
+| 〔suggestive〕 | **ground in evidence, and say plainly where the mechanism is open** — that honesty *is* conviction, not hedging |
+| 〔framework-permitted〕 | **ground in reasoning from the framework** — walk the logic |
+| 〔cut〕 | **out** — not because a skeptic would object, but because we don't hold it, or can't give a real why |
+
+Never mechanically, never "we believe X because Y" every paragraph — sometimes
+woven, sometimes the reasoning *is* the paragraph, sometimes a story carries it,
+sometimes a flat statement an earlier book already earned. **The silence is the
+rigor; the conviction is the voice.**
+
+**Bold ≠ credulous. The out-list stands:** Timewave Zero / Novelty Theory / 2012 ·
+the eight-circuit model as literal neuroscience · OOBE-as-proof-of-survival ·
+synchronicity-as-physics · archetypes-as-genetic · Stoned Ape as fact · Terror
+Management Theory (dropped on Many-Labs-4). Out because we don't hold them.
 
 ---
 
@@ -169,12 +199,24 @@ So the contract is a **comprehension** contract, not a metrics one:
 - **Test:** a reader with no philosophy training and real attention. Not a reader
   in a hurry — we are not writing for skimmers — but one who has never met the
   vocabulary. If they'd stall, the sentence is wrong, however elegant.
+- **★ 5. NAME THE ANCESTOR.** At each major move: name the strongest prior
+  version or opponent, credit what it got right, then cut the distinctive
+  difference. Recovered from *The Inside View*'s critical pass, where the
+  systematic failure to do this was the single highest-value finding — an
+  argument that doesn't name its opponents **reads as declaration**, which was
+  precisely the verdict that book died of. **This rule matters more here than it
+  did there**, because rule 0 takes the hedges off the page: unhedged assertion
+  with no named opponent is bluster. The named ancestor is what replaces the
+  hedge as the reader's evidence that we know where we stand.
 
-**3. The Inside View** — still open, and it is genuinely his call. 11 chapters,
-first full draft, frozen 40 days on four unanswered decisions; his own verdict
-was *"declares instead of earns, consequences un-cashed,"* and its Movement Two
-was literally "cash the consequences." Either it is Book VII's first draft or it
-is superseded whole. **This is now the only open question in the architecture.**
+**3. The Inside View — RULED, Day 185: SUPERSEDED WHOLE.**
+Clayton: *"Let's supersede the Inside View, this will be definitive."*
+Disposition of all 75,898 words — what transfers as discipline, what is quarried
+per book, what dies — is `02-SUPERSESSION-the-inside-view.md`. Three things from
+it that change *this* file: the register rule's true provenance (§2 there),
+style rule 5 above, and the fact that superseding book #1 supersedes the decided
+9-book line — five of the other eight are absorbed by Books IV–VIII. **That last
+one is a live call for Clayton, stated so it is chosen rather than discovered.**
 
 ---
 
@@ -187,8 +229,17 @@ before we actually begin writing."* No prose drafting until the map is done.
 - `01-THE-GROUND.md` — Book I's logical spine. The Promethean chain, retrieved
   with dates, plus the scope rule that keeps it from collapsing into Gnosticism,
   plus the four traps and the game-metaphor anchor.
+- `02-SUPERSESSION-the-inside-view.md` — the disposition of 75,898 superseded
+  words, the corrected provenance of the register rule, and the quarry manifest.
 
 **Next, in order:** Book II's vocabulary (every term defined once — do this
 before any prose, because everything downstream draws on it and nothing may add
 to it) → the Book IV atlas inventory against the ~167,900 existing words →
-Book V's tradition roster → the per-book chapter maps.
+Book V's tradition roster, which is **no longer a blank page**: the *Inside
+View* ancestors-and-traditions plan is a near-complete roster with framework
+readings already drafted → the per-book chapter maps.
+
+⚠ **COPY, DON'T REFERENCE.** Everything quarried lives in
+`Corpus-Perspectival`, **archived read-only on GitHub since 2026-07-16**. Local
+writes there succeed and reach nothing. Any asset T&C depends on must be copied
+into this repo before it is depended on.
