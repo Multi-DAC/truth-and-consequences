@@ -319,6 +319,39 @@ What this rules **out**, which is the useful half:
 **"WHO IT IS FOR"** above, placed there rather than here because it constrains
 the book as hard as the register rule does and must be read before the structure.
 
+**6. QUARRY TRANSLATION — "Base Reality" → "the Ground." Standing, and it is an
+argument, not a preference.** *(Clawd's call, Day 185, on the count in
+`04-THE-UNSATISFYING-ANSWERS.md` §2.)*
+
+DoPI's foundational axiom is *"Ultimate existence is Base Reality: a singular,
+undifferentiated, fundamental Consciousness"* — **129 mentions across 32 files**,
+capitalised, load-bearing, and it comes through in every passage we quarry.
+
+**"Base reality" is also the simulation hypothesis's term for the world outside
+the simulation, where the real people are.** A reader carrying Bostrom — and the
+ruled reader very likely is — reads our opening axiom and understands *the server
+room.* That is not a near-miss. It is the precise inversion of the claim: the
+Ground is not elsewhere and is not more real than here; it is what *here* is made
+of.
+
+Book II's dramatis personae above already says **The Ground.** The rename was
+made on euphony and turns out to have a hard argumentative payoff, so it is now
+ruled rather than incidental:
+
+- **T&C says "the Ground," always.** No exceptions, including inside quoted
+  quarry — quarried DoPI prose is translated, not preserved.
+- **A future editor must not "restore the technical term."** The old name hands
+  the book to Bostrom in a single word, silently, before any argument is made.
+- **Book II's definition of the Ground carries the cut in its own body.** Naming
+  the collision at the point of definition is *part of* defining once — not a
+  redefinition, and not a licence to relitigate it later.
+
+Generalised, because this is not the only one: **every term the reader will
+mishear gets defined against its collision, once, in Book II.** The watch-list is
+`04` §6.5 — *base reality · simulation · render · vibration · manifest · quantum ·
+observer.* Each is already owned by an opponent in the reader's ear, and with the
+hedges off the page, define-once discipline is the only defence left.
+
 ---
 
 ## STATUS — Day 185
@@ -344,25 +377,41 @@ before we actually begin writing."* No prose drafting until the map is done.
   and Book III cannot open the game frame without cutting against the simulation
   hypothesis the reader already holds.**
 
+- `04-THE-UNSATISFYING-ANSWERS.md` — the **opponent register**, built by counting
+  (1,369 files / 3,059,116 words). The roster of *"the other answers out there"*,
+  each with what it gets right, the exact point it stops answering, and which Book
+  cuts. **Ten entries, two added on the evidence** (the meaning-crisis discourse;
+  absurdism as a *failed prior* rather than an ancestor).
+  ★ **Its central finding: the corpus argues in a seminar and the reader lives on
+  a street.** 400+ mentions of the philosophers' opponents; Bostrom 0, "simulation
+  hypothesis" 0, "New Atheism" 0, Vervaeke 0, Metzinger 0, Churchland 0, Chopra 0.
+  Same cause as the register rule and the woo-filter — the skeptic-referee set the
+  roster too. **Eight of ten entries are new work.**
+  ★★ **And a term collision that changes Book II: `Base Reality` is DoPI's
+  foundational axiom (129 mentions / 32 files) *and* the simulation hypothesis's
+  word for the server room.** This file's standing quarry-translation rule: T&C
+  says **the Ground**, always; a future editor must not restore the technical
+  term. See "RULED 6" below.
+
 **Next, in order:**
 
-1. **`04-THE-UNSATISFYING-ANSWERS.md`** — NEW, created by the Day-185 audience
-   ruling. The roster of *"the other answers out there"*: what the reader has
-   already tried and why it left them hungry. Physicalism/eliminativism ·
-   institutional religion · pop-spirituality and the law-of-attraction strain ·
-   the simulation hypothesis (**Bostrom = 0 corpus mentions — the largest
-   unmet opponent we have**) · IIT and the scientific-consciousness programme ·
-   therapy-as-metaphysics · New Atheism · the "it's all just quantum" strain.
-   For each: what it gets right, the exact point at which it stops answering,
-   and which Book cuts against it. **This is prerequisite to Book I**, because
-   rule 5 now says every major move names its opponent, and the opponents are
-   this list.
-2. **Book II's vocabulary** — every term defined once. Before any prose:
-   everything downstream draws on it and nothing may add to it.
+1. **Book II's vocabulary** — every term defined once. Before any prose:
+   everything downstream draws on it and nothing may add to it. **Now carrying a
+   second job** (`04` §7): every term the reader will *mishear* must be defined
+   against its collision. The Ground goes first.
+2. **Book III's opening cut against the simulation hypothesis** — promoted here by
+   `04` §3.II. The highest-priority single paragraph in the plan, because it is the
+   one place we can lose the reader **by being agreed with**: a reader holding
+   Bostrom will hear our game frame as a restatement of his and follow us happily
+   into the wrong book. The cut lands before the metaphor is elaborated, not after.
 3. **The Book IV atlas inventory** against the ~167,900 existing words.
-4. **Book V's tradition roster** — **no longer a blank page**: the *Inside View*
-   ancestors-and-traditions plan is a near-complete roster with framework
-   readings already drafted.
+4. **Book V's tradition roster** — **half of it is no longer a blank page**: the
+   *Inside View* ancestors-and-traditions plan is a near-complete roster with
+   framework readings already drafted. But `04` §3.III measured the halves and they
+   are lopsided — **occult-rich (Gebser 127, Crowley 80, Dee 15) and
+   institution-poor (Aquinas 8, Augustine 14, theism 7)**, inverted against the
+   reader's actual history, where the church is the likeliest failed prior and
+   Crowley is not. The institutional half is new work.
 5. **The per-book chapter maps** — promoted from afterthought by ruling 4.
    In a single work of unbounded length, the chapter is the only unit the
    reader navigates by, so the chapter map *is* the reading experience.
