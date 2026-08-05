@@ -208,6 +208,12 @@ So the contract is a **comprehension** contract, not a metrics one:
   did there**, because rule 0 takes the hedges off the page: unhedged assertion
   with no named opponent is bluster. The named ancestor is what replaces the
   hedge as the reader's evidence that we know where we stand.
+  **★ 5b. CHECK ONE LINK UPSTREAM.** Added Day 185 after the ancestor count found a
+  repeating defect: we name the transmitter, not the source (RAW ← Korzybski, 1
+  mention; Huxley ← Blake and Bergson, by Huxley's own attribution; "set and setting"
+  ← Bertalanffy, not Leary). Not for scholarliness — **the deeper name is usually the
+  better sentence**, and a lineage that stops at the popularizer is what a reader who
+  knows the field uses to dismiss the book. Register: `03-THE-ANCESTORS.md`.
 
 **3. The Inside View — RULED, Day 185: SUPERSEDED WHOLE.**
 Clayton: *"Let's supersede the Inside View, this will be definitive."*
@@ -231,6 +237,17 @@ before we actually begin writing."* No prose drafting until the map is done.
   plus the four traps and the game-metaphor anchor.
 - `02-SUPERSESSION-the-inside-view.md` — the disposition of 75,898 superseded
   words, the corrected provenance of the register rule, and the quarry manifest.
+- `03-THE-ANCESTORS.md` — the lineage register, built by **counting the corpus**, not
+  recalling it. Clayton, Day 185: *"ancestors everywhere… there are those that are
+  still silently present in the ideas."* Holds: the Day-146 roster carried whole; the
+  measured silences (Borges 0, Indra's Net 0, Nishida 0, Barfield 0); the thin ones
+  (Peirce 1, Korzybski 1, Bohm 4); the popularizer defect; and **the out-list
+  re-sorted** into *we-don't-hold-it* (stays out) vs *we-avoided-it-to-keep-a-skeptic*
+  (comes in — Cosmic Trigger, Crowley/Dee operative, Monroe's contact, synchronicity,
+  death unhedged).
+  ★ **Its top finding is an opponent, not an ancestor: `Bostrom` = 0 mentions corpus-wide,
+  and Book III cannot open the game frame without cutting against the simulation
+  hypothesis the reader already holds.**
 
 **Next, in order:** Book II's vocabulary (every term defined once — do this
 before any prose, because everything downstream draws on it and nothing may add
