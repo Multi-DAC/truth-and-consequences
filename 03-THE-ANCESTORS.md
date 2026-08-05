@@ -300,6 +300,137 @@ finding here rests on those — a 0 is a 0 under every variant, which is why the
 load-bearing and the small numbers are not. **Standing rule from here: every count states
 its glob, its case rule, and whether archives are in.**
 
+⚠⚠ **AMENDED Day 186 — the standing rule was missing its most important parameter: the ROOT.**
+It names glob, case and archives, and never says *which tree*. That is the one parameter that
+actually changed. `04` reports **1,369 files / 3,059,116 words**; tonight's walk of the corpus
+returns **2,548 live `.md` / 2,699 including `archive/` + `_superseded/`** — the two are not
+reconcilable, so at least one of them is over a tree nobody wrote down. **The corpus root, recorded
+here so it can never silently move again:**
+
+> `C:/Users/mercu/clawd/repo-staging/Corpus-Perspectival` — 2,548 live `.md`, plus 151 in
+> `archive/` and `_superseded/` (2,699 total). Distribution: Technical-Work 943 · Foundations-of-
+> Identity 760 · Library 516 · Research 383 · Unreleased-Work 93 · root 4.
+
+**And note where that path is.** The quarry for this entire book lives inside
+`C:/Users/mercu/clawd/` — **the dead daemon tree**, the same unowned dependency the body's own
+handoff has open. `00`'s ⚠ COPY-DON'T-REFERENCE is not a filing preference; it is the only thing
+standing between Book IV and a tree with no live owner.
+
+⚠ **A second methodology defect, and this one nearly published a false finding.** Two `python -c`
+one-liners run tonight reported *"archive-ish dirs holding md: 0"* — i.e. that the archive trees do
+not exist. **They do; there are 151 files in them.** The regex was corrupted by shell quoting on the
+way in, and the corrupted version **failed silently and returned a clean, plausible zero.** The
+identical code in a committed script file was correct. **Standing rule from here: corpus counts are
+produced by a script in `tools/`, committed, never by a shell one-liner.** A one-liner that
+mis-escapes does not error — it agrees with you.
+
+---
+
+## 3.5 — ⚠ **A FIFTH KIND OF SILENCE, and it is the one Clayton named: DOCTRINE USED, OWNER UNNAMED.**
+
+Clayton, Day 186: *"There may be many hidden ancestral doctrines we do not identify, and we should.
+It will lend us credibility."*
+
+The fourth silence (§3, above) is *name present, doctrine zero*. **This is its mirror, and it is the
+credibility-relevant one:** the doctrine is in active use, in our own vocabulary, doing work — and
+the person who built it is not in the corpus. **A specialist reader does not need us to be wrong to
+dismiss us; they need us to use their field's term without knowing whose it is.** That is the exact
+signature of someone who absorbed a vocabulary secondhand, and it is the cheapest possible thing to
+fix — one clause per instance.
+
+*Counted at the root above, `**/*.md`, case-insensitive, live-tree count first, archives-included
+second. Every row's hits were read, not trusted.*
+
+| our term, in active use | files | the owner | his count | the cut, or the gift |
+|---|---|---|---|---|
+| **"ground of being"** — the name of our central term | 6 / 12 | **Paul Tillich** | **1 / 1** | **CAPTURE.** His ground is not a being among beings and cannot be an object; ours adds that it cannot be *addressed*. → II.1 |
+| **"mutual recognition"** — half of the ruled telos | 13 / 21 | **Hegel's *Anerkennung*** | **1 / 1** | Hegel is 38/50 and the recognition doctrine is unnamed. `master-slave` 0 · Fichte 0 · Honneth 0 · alterity 0. → I.6, V.1, VII.6 |
+| **affordance(s)** | 8 / 12 | **J. J. Gibson** | **0 / 0** | And the usage is *loose* — the word arrived without the doctrine. Perception is of what the world offers **this** organism. → II.3, III.4 |
+| **enactive** | 4 / 8 | **enactivism**, the school | **0 / 0** | Varela 9, Maturana 3, autopoiesis 5, structural coupling 6 — the parts are all here and the name that binds them is absent. → III.4 |
+| **prehension** 28 · **Umwelt** 34 | — | Whitehead 59 · Uexküll 18 | — | ✅ **Not defective.** Shown as the control: this is what a properly-named borrowing looks like. |
+
+**And three new instances of the FOURTH silence, which means it was never a Nietzsche accident:**
+
+- **Jakob Böhme — 8. `Ungrund` — 0.** The groundless ground prior to all distinction. That is
+  Book I's opening image and we have the man's name without his one relevant word.
+- **David Bohm — 10. `implicate order` — 0.** We cite the physicist and not the metaphysics.
+- **C. S. Peirce — 3. `synechism` — 0. `tychism` — 0.** Continuity-as-fundamental and
+  chance-as-real, which is the Coherence Principle's nearest 19th-century relative.
+- *(Adjacent, and worth naming as its own habit:* **Hartshorne appears 11 times and in every sampled
+  instance as the second half of the phrase "Whitehead/Hartshorne," inside a list.** Cited, never
+  engaged. **A name in a list is a fifth silence wearing a footnote.**)
+
+**Also verified as present and usable, against expectation:** Ubuntu — 114 raw files, **60 after
+removing WSL/install contamination** (heuristic filter, stated as one), and the surviving hits are
+philosophical and on-point — *"Levinas's face of the Other, Buddhist right mindfulness, Ubuntu's
+mutual recognition, Kimmerer's 'attention creates relationship'"*. Levinas 39 · intersubjectivity 59 ·
+Nagel 95 · Kimmerer 32 · apophatic 56 · Eckhart 31 · Merleau-Ponty 37 · Husserl 43 · Whitehead 59 ·
+panpsychism 52 · Friston 49 · Tononi 34. **The recognition half of the telos is not a hole — it is a
+well-stocked room with no sign on the door.**
+
+---
+
+## 3.6 — ⚠⚠ **THE PLAY LINEAGE. Eighteen names at zero, for the frame that organises the entire work.**
+
+This is the largest single absence found in the project, and it was invisible until Book III existed.
+`05` already found `video game` = 0 and read it as *"Book III is new writing end to end."* That was
+the smaller half of the finding. **The philosophy of play — a real field, with founding texts, a
+taxonomy, and an analytic definition — is not in three million words at all.**
+
+**Verified zero** *(each checked against false positives, because the last two nights have twice
+turned a number into an artefact)*:
+
+| name / term | raw hits | verdict |
+|---|---|---|
+| **Johan Huizinga** / *Homo Ludens* (1938) | 0 / 0 | true zero |
+| **Roger Caillois** (1958) | 0 | true zero |
+| **Bernard Suits** / *The Grasshopper* (1978) | 0 / 2 | **true zero** — the 2 are a grasshopper *analogy* in an argument |
+| **`lusory`** | 12 | **true zero** — all twelve are "i**llusory**" |
+| **James Carse** / *Finite and Infinite Games* (1986) | 0 / 0 | true zero |
+| **"infinite game"** | 0 | true zero |
+| **Eugen Fink** | 0 | true zero |
+| **"magic circle"** | 6 | **true zero in the play sense** — all six are the *Western esoteric* circle. Two traditions own these two words and we hold only one |
+| ***līlā*** | 0 | true zero. `lila` returns **1** — the *Lunar Laser Interferometer* |
+| **Alan Watts** | 0 | (Day 185; `Watts` 8, all electrical) |
+| ludic · deep play · Sutton-Smith · Bogost · game design · MMORPG | 0 each | true zeros |
+
+**Present, and immediately usable:** Csikszentmihalyi 23 · "flow state" 35 · `NPC` **1** — and that
+one hit is already the sentence: *"props in the movie of your errands, NPCs. They aren't. Each one is
+a full lit window with a day behind it."* **Quarry it. It is III.5's thesis, already written once.**
+
+### Why each of the five matters, and where it lands
+
+- ★★ **JAMES CARSE — the telos, with a name on it.** *"A finite game is played for the purpose of
+  winning; an infinite game for the purpose of continuing the play."* Ruling 3a-ter says exploration
+  and mutual recognition are the point and union is not. **Carse said the structural half in 1986**,
+  and it is the single strongest defence against the reader's suspicion that "no summit" is a
+  consolation prize. → **III.7, VII.7, VII.8, VIII.1** *(and it sharpens VIII.1's tourism cut: the
+  tourist is a finite player inside an infinite game).*
+- ★★ **BERNARD SUITS — constraint as constitutive, from analytic philosophy.** Game-playing is *"the
+  voluntary attempt to overcome unnecessary obstacles"*; the **lusory attitude** is accepting the
+  obstacle **because the activity cannot exist without it**. That is the narrowing, defined rigorously,
+  in a book about games, by someone no reader can file under woo. → **III.7, II.2**
+- ★★ **JOHAN HUIZINGA — play is prior to culture, not produced by it.** *Homo Ludens* argues that
+  law, war, poetry and philosophy all *arise inside* play. Our claim is structurally identical one
+  level down: **playing is not something the world contains; it is what the narrowing is.** He is
+  also the citation that makes the whole frame legible as scholarship rather than as a gamer's
+  metaphor — which is precisely Clayton's credibility point. → **III header, III.2, VI**
+- ★ **ROGER CAILLOIS — the taxonomy.** *agôn / alea / mimicry / ilinx*, on a *paidia↔ludus* axis. A
+  ready-made classification of **modes of engagement**, which Book III currently lacks and Book VIII
+  needs. → **III.6, VIII.2**
+- ★ **EUGEN FINK — *Spiel als Weltsymbol*.** The phenomenological tradition's book-length treatment
+  of play as the mode in which world-openness appears. ⚠ **Verify at drafting:** I hold that Fink
+  also argues *against* the cosmic-player picture, which would make him a direct ancestor of ruling
+  3a-bis — **I have not read this against a source and it is recorded as unverified.** → **III.2**
+- ★ ***LĪLĀ* — the source Watts transmitted, and rule 5b's defect at BOTH links.** The popularizer
+  is absent *and* the doctrine is absent. It is stated at full strength in III.2 and then cut on the
+  same ground Watts is: **līlā needs a Player who forgets, and forgetting is an event.** → **III.2, V**
+
+⚠ **What this changes about Book III's status.** `06` had it as *"the most heavily new-written book
+in Part One"* — true, and now for a second reason. It is not merely unquarried; **it is the one book
+whose whole scholarly neighbourhood we have never visited.** That is a research task with a name and
+a reading list, and it is small: five books.
+
 ---
 
 ## 4. TIER 2 — PRESENT BUT THIN. Mentioned once, never made to carry weight.

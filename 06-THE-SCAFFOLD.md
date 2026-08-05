@@ -136,8 +136,18 @@ rather than a dictionary, and it is the only reason a reader will read a glossar
 **Beats:** the definition · **the cut against base reality**: not elsewhere, not more real than here,
 it is what *here* is made of · God as its plain name, carried forward from I.6 without embarrassment ·
 the neither-mind-nor-matter work absorbed here explicitly (`05` §7) · **game-register: the whole game**
-— not the server, not the developer, not the engine, not the map.
+— not the server, not the developer, not the engine, not the map, **not the player.**
 **Named:** Bostrom (0 files corpus-wide — the largest unmet opponent in the work).
+**Named — added Day 186, and it is a CAPTURE, not a collision to dodge:** ★ **Paul Tillich — 1 file**,
+while *"ground of being"* appears in **6** — we adopted the man's phrase as the name of our central
+term and never said his name. Tillich's ground of being is *not a being among beings, cannot be an
+object, and is what everything that is participates in* — that is ours, in a 1951 systematic theology,
+in a voice the reader's church-shaped ear already trusts. **Where he is cut:** his ground is still
+addressed, still the correlate of ultimate concern; ours is not addressable, because addressing needs
+an inside. **Naming him converts the work's most awkward borrowed phrase into its friendliest
+credential** — and an unnamed borrowing from a famous theologian is precisely what a hostile reader
+uses. ★ One link upstream, rule 5b: **Schelling** (13) and **Böhme's *Ungrund*** — see II.1's
+sibling note in `01`, and `03` §3.5 for why *Ungrund* is a fourth-silence zero.
 
 ### II.2 — THE NARROWING AND THE RENDER
 **Beats:** narrowing defined as the act · **render captured**: *a simulation is a copy of something
@@ -200,6 +210,17 @@ needs to see us decline its vocabulary *on purpose*, or they will assume we simp
 *The operative frame, and the most heavily new-written book in Part One. `video game` = 0 files: none
 of this is quarried. Eight chapters.*
 
+⚠⚠ **THE PLAY LINEAGE IS A TOTAL ABSENCE — measured Day 186, and it is this book's biggest exposure.**
+Huizinga 0 · *Homo Ludens* 0 · Caillois 0 · Bernard Suits 0 · *lusory* 0-real (12 raw hits, all
+"il**lusory**") · James Carse 0 · *Finite and Infinite Games* 0 · "infinite game" 0 · Eugen Fink 0 ·
+"magic circle" 0 in the **play** sense (6 raw hits, all Western-esoteric — the same two words owned by
+two traditions, and we hold only the occult one) · *līlā* 0 · Watts 0 · ludic 0 · "deep play" 0 ·
+Sutton-Smith 0 · game design 0 · Bogost 0 · MMORPG 0. **Eighteen names at zero, for the frame that
+organises the entire work.** Every one verified against false positives. Present and usable: Csikszent-
+mihalyi 23, "flow state" 35, and exactly **one** real prior NPC sentence in three million words —
+*"props in the movie of your errands, NPCs. They aren't. Each one is a full lit window with a day
+behind it"* → quarry it for III.5. Full register and disposition: `03` §3.6.
+
 ⚠ **The single highest-priority paragraph in the whole plan is III.1's cut** — because this is the one
 place we lose the reader **by being agreed with**. A reader holding Bostrom hears our game frame as a
 restatement of his and follows us happily into the wrong book.
@@ -218,12 +239,30 @@ restatement of his and follows us happily into the wrong book.
 5. Name the third position we are also not: the designer-God. Outside, prior, intentional — all three false.
 
 ### III.2 — THE GAME THAT IS PLAYING YOU
-**Thesis:** the player is a character the whole game contains.
-**Beats:** nobody is holding a controller · the player is one of the states of the whole game ·
-*līlā* — the divine game, God playing hide-and-seek and forgetting on purpose so the game can be good ·
-the Promethean Configuration and Watts's sentence shown to be **the same sentence in two registers**.
-**Named:** ★ **Alan Watts — 0 files corpus-wide.** The most important ancestor addition in the project,
-and one link upstream to Vedanta's *līlā* and Zen, which Watts himself credited.
+**Thesis:** the player is a character the whole game contains — **and there is no other player.**
+
+⚠ **REWRITTEN Day 186. The previous version of this chapter contradicted ruling 3a-bis and had
+survived the doctrine build unread.** It stated *līlā* approvingly as "God playing hide-and-seek and
+forgetting on purpose," and asserted that the Promethean Configuration and Watts's sentence are
+"the same sentence in two registers." **They are not the same sentence.** Watts: the One plays at
+being many. Ours: the many play, and the One is what playing is made of. The old beat 4 was the
+union-telos and the divine-player error travelling together inside a compliment. *(Found by reading
+`00` against `06`, not by a gauge. See the claims-register proposal in `00`.)*
+
+**Beats:**
+1. Nobody is holding a controller. The player is one of the states the whole game contains.
+2. *līlā* — **stated at full strength, credited, and then cut.** Vedanta's divine play is the oldest
+   and best version of the frame and it is genuinely upstream of everything Book III does.
+3. **The cut:** *līlā* needs a Player who forgets. Forgetting is an event, events need duration, and
+   the Ground has none. **What is left when you remove the divine player is not less play — it is
+   more, because now the players are real.** (Trap 5's guard, second placement.)
+4. So the Promethean Configuration is not Watts restated; it is **what Watts's picture becomes when
+   the one player is removed and the many are not costumes.**
+
+**Named:** ★ **Alan Watts — 0 files corpus-wide**, and one link upstream ★ **`līlā` — also 0**
+(`lila` returns 1 file: the *Lunar Laser Interferometer*). Rule 5b's defect at both links at once —
+the popularizer absent *and* the source absent. → and the register the whole chapter was missing,
+`03` §3.6: **Huizinga 0 · Caillois 0 · Suits 0 · Carse 0 · Fink 0.**
 
 ### III.3 — THE MAP IS PRE-RENDERED
 **Thesis:** plenitude as mechanics.
@@ -244,6 +283,13 @@ chosen.
 **Beats:** every entity a player at its own grade · the MMO split ruling, made openly — right about the
 population, wrong about the infrastructure, because an MMO has a server and we do not · what it costs
 to believe this on a Tuesday · **an explicit promissory note to Book VII**, which is where it is cashed.
+**Named — added Day 186, because this chapter carried the work's ethics with no named ancestor at all:**
+★ **Jainism** (3 files, `jiva` 0) — *every* jiva is a full subject, and **ahimsa follows as a
+consequence, not a sentiment**: the oldest fully worked-out ethics of universal aliveness, and the one
+tradition that took our exact premise all the way into daily conduct. ★ **Albert Schweitzer — 0**,
+"reverence for life" 0: the same move in a 20th-century European voice a Western reader cannot file
+as exotic. ★ **Giordano Bruno — 0** (already flagged in `03`): infinite, centreless, ensouled — and
+burned for it. **Quarry the one existing NPC sentence** (see the Book III header).
 
 ### III.6 — THE FILTER STACK
 **Thesis:** a reality tunnel, in mechanics.
@@ -257,6 +303,14 @@ and Book VIII is the manual.
 answer that does not cheat: *the walking is one of the things that exists, and it is the one you are* ·
 we are not the prisoners of the whole; we are its inhabitants and co-constituents · what this does and
 does not buy — an honest statement of what is left of freedom, made now rather than deferred to VII.
+**Named — added Day 186:** ★ **Bernard Suits — 0**, *The Grasshopper* (1978). Game-playing is *"the
+voluntary attempt to overcome unnecessary obstacles"*, and the **lusory attitude** is accepting the
+constraint **because the activity cannot exist without it**. That is the narrowing, defined by an
+analytic philosopher, in a book about games — **constraint as constitutive rather than privative**,
+which is the exact objection this chapter exists to answer, arriving from a source no reader can
+file under woo. ★ **James Carse — 0**, *Finite and Infinite Games* (1986): the finite game is played
+to win, **the infinite game to continue the play.** That is ruling 3a-ter's telos with a name and a
+forty-year-old citation on it → and it is why this chapter's answer is not a consolation prize.
 
 ### III.8 — WHAT THE METAPHOR CANNOT DO
 **Thesis:** the load test, run in public.
@@ -562,6 +616,14 @@ grounded in structure rather than in decree actually looks like.
 **Named:** Camus · Sartre · Frankl · ★ **Nietzsche's *amor fati*** — `eternal recurrence` 0 and
 `amor fati` 0 corpus-wide, and it is the strongest rival to *exploration is the point*: **a rival that
 agrees about the structure and differs about the posture.** *(03 §3, the fourth kind of silence.)*
+★ **Alasdair MacIntyre — 0**, `narrative unity` 0, and he is the one this chapter cannot do without:
+*After Virtue*'s claim is that a life is intelligible as an **enacted narrative**, so meaning is
+neither decreed from outside nor invented ex nihilo — **it is what the traversal turns out to have
+been.** That is "found by traversal, and the traversal is authored," argued in 1981 by someone the
+academy takes seriously. **And he is the strongest available answer to the 3am objection**, because
+his whole book is an account of why invented-alone meaning does not hold. ★ One link upstream, and
+also 0: **Ricoeur** (1) — narrative identity, the *ipse*/*idem* distinction, which is VII.3's problem
+(identity across gaps) and VII.8's answer sharing one apparatus.
 
 ### VII.9 — IDENTITY ACROSS GAPS
 **Beats:** what a self is, given the above · what a self owes what it narrows from · continuity across

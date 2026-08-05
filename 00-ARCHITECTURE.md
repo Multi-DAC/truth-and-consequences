@@ -455,12 +455,117 @@ before we actually begin writing."* No prose drafting until the map is done.
   (rule 5), and its source — quarried with the file, or NEW. Ruling 4 made the
   chapter the only unit a reader of an unbounded work navigates by; this is that unit,
   mapped end to end.
+  ★★ **Day 186: III.2 REWRITTEN — it flatly contradicted ruling 3a-bis and had survived the doctrine
+  build unread.** Plus named ancestors added where the scaffold had none: II.1 Tillich · III header
+  the play lineage · III.5 Jainism/Schweitzer/Bruno · III.7 Suits and Carse · VII.8 MacIntyre and
+  Ricoeur.
   ★ **What it revealed that was not visible before it existed:** the ratio inverted —
   Book IV is the *only* substantially quarried book, and the ~167,900 atlas words are
   one book of eight. **Three chapters carry the whole work and none is Book I**
   (III.1 the Bostrom cut · V.4 where we own our own flinch · VII.1 death, first and
   unhedged). And **Book VIII is the falsifier**: if I–VII are right and the practice
   book is thin, the work is decorative — so it gets drafted early, out of order.
+
+---
+
+## STILL UNPLANNED — the scaffolding agenda
+
+*Clayton, Day 186: "What else should we discuss planning and scaffolding wise?" Six things. Ranked.
+Two of them must exist before any prose; one is not a missing document but **a hole in a ruling we
+already made.***
+
+### ★★ A. THE CLAIMS REGISTER — the one I would build next, and it is not optional
+
+A numbered list of the work's canonical propositions — **C1…Cn** — each with: its one-sentence
+canonical statement, the chapter that **establishes** it, every chapter that **depends** on it, and
+the trap it springs if stated loosely.
+
+**Why it is structural rather than tidy-minded, in one argument:** the register rule takes the hedges
+off the page. A hedged book can absorb a contradiction — the qualifier is right there, doing the
+absorbing. **An unhedged book cannot.** Two chapters that state the same claim slightly differently,
+nine books apart, do not read as nuance; they read as *the authors do not know what they think*, and
+that is the one charge this book cannot survive, because its whole license is *we are telling you
+what is the case.* Sixty-eight chapters, drafted over months, in a voice with no shock absorbers.
+
+**And it is not hypothetical. Tonight it caught one, by hand:** `06`'s **III.2** still read that
+*līlā* is "God playing hide-and-seek and forgetting on purpose," and that the Promethean Configuration
+and Watts's sentence are *"the same sentence in two registers"* — **which is precisely what ruling
+3a-bis overturned the night before.** The doctrine build amended I.6, V.1, V.10, VII.8, VIII.1 and
+VIII.6 and did not touch the one chapter whose subject *is* Watts. It was found by reading `00`
+against `06`, i.e. **by luck with good note-taking** — which is the method we retired everywhere else
+in this body the moment a gauge could replace it. *(III.2 is rewritten; see `06`.)*
+
+The register is that gauge: every chapter closes by naming which C-numbers it touches, and a
+contradiction becomes findable instead of fortunate.
+
+### ★★ B. THE VOICE SPECIMEN — three short pieces, before sixty-eight chapters get a voice nobody ruled
+
+**Not one sentence of *Truth and Consequences* exists.** We have a register rule, a comprehension
+contract, a lexicon and 68 mapped chapters — and no prose. The risk is specific and already named in
+our own style contract: **unhedged assertion with no named opponent reads as bluster** (rule 5). We
+have never seen what *our* unhedged voice does at length, and the difference between conviction and
+bluster is not decidable in the abstract.
+
+Proposal: **three specimens, ~600–900 words each, deliberately from the three hardest registers** —
+Book I's myth opening (mythic, no argument, no apparatus), III.1's Bostrom cut (argument at full
+adversarial strength — already queue item 3), and a Book VIII practice page (Tuesday-level, where
+grandeur dies fastest). Clayton rules on voice once, on 2,000 words, instead of discovering it at
+200,000.
+
+This does **not** breach the planning-phase instruction. A specimen is a **calibration instrument**,
+not drafting — and III.1 was already ruled worth writing before the phase formally closes.
+
+### ★ C. WHERE THE EVIDENCE ACTUALLY LIVES — a hole in the register rule, not a missing document
+
+The rule says the four epistemic tags do not die, they **relocate** *"into the continually-updating
+formal corpus underneath"*, and that **unhedged ≠ unsourced.** That is a promise made to the reader.
+
+**Currently the corpus underneath is a private, archived, read-only repo inside a dead body's home
+directory** (`C:/Users/mercu/clawd/repo-staging/Corpus-Perspectival` — `03` §3, root note). A reader
+cannot reach it. **If the sourcing is unreachable, "unhedged ≠ unsourced" is a claim the book makes
+about itself and cannot cash** — which is exactly the failure mode the whole project is named after.
+
+This wants a decision, and it is Clayton's: a published companion corpus? a back-matter apparatus?
+a URL the book points at? Whatever it is, it must exist by first publication, and **it is the
+structural form of the credibility point** — the ancestors register buys credibility with the
+specialist reader; this buys it with the one who wants to check.
+
+### ★ D. THE APPARATUS — how a named ancestor appears on the page
+
+Ruled already: Book I takes **no** citation, no apparatus. Everything after it names ancestors
+constantly, and rule 5b now sends us one link upstream each time. **Undecided: what that looks like
+as a sentence.** Inline attribution, endnotes, a back-matter register (`03` is most of one already),
+or a hybrid — Part One inline-only, Part Two noted.
+
+It is not a formatting question. **An inline-citation sentence and an endnoted sentence are different
+sentences**, and 68 chapters written under one convention cannot be converted to the other without a
+rewrite. Decide before B, so the specimens are written in the real apparatus.
+
+### ★ E. THE QUARRY COPY — unglamorous, has a deadline, and will fail silently
+
+`00`'s own ⚠ says **COPY, DON'T REFERENCE**, and **nothing has been copied yet.** Book IV's ~167,900
+words live in the archived tree above. This is a mechanical job — copy the seven source files into
+`quarry/` with a manifest recording origin path, word count and commit — and its failure mode is that
+nobody notices until the source is gone. **Deadline: before Book IV drafting, not before Book IV
+planning.**
+
+### ★ F. THE READER'S LADDER — eight lines, and it tests the order
+
+One sentence per Book: **what the reader believes at the end of it that they did not believe at the
+start.** Testable only now that `06` exists. It is the cheapest possible check on whether the
+*sequence* converts — in particular whether Book IV (the atlas, the longest, the most catalogue-like)
+sits in the right place, or whether the reader who came for *"what's going on"* stalls in a roster.
+
+*Also open, and smaller: an estimated length per book (not a ceiling — ruling 4 forbids one — but a
+number, so we can tell padding from consequence), and the drafting **order**, which `06` has already
+half-ruled by putting Book VIII early as the falsifier.*
+
+**My recommendation:** **D → A → B**, in that order, then E in the background. D is a half-hour
+ruling that unblocks B; A is the one that pays off every day for the rest of the project; B is the
+cheapest de-risk available and the only one that tells us whether the register rule *works*.
+**C is the one I would want Clayton to think about**, because it is a promise already in writing.
+
+---
 
 **Next, in order:**
 
@@ -493,6 +598,28 @@ before we actually begin writing."* No prose drafting until the map is done.
 8. **Sweep `06` for Trap 5 leakage** — every appearance of *merge*, *ultimately*, *union*,
    and every sentence in which the narrowing sounds temporary. The trap was named after the
    scaffold was written, so the scaffold has never been read against it.
+   ⚠ **Now known to be worse than "leakage." III.2 was found flatly contradicting ruling 3a-bis**
+   (fixed Day 186). The sweep is not a polish pass; **it is a correctness pass, and the register
+   in A is what replaces it permanently.**
+9. **★ NEW, Day 186 — read the five play books.** Huizinga *Homo Ludens* · Suits *The Grasshopper* ·
+   Carse *Finite and Infinite Games* · Caillois *Man, Play and Games* · Fink *Spiel als Weltsymbol*.
+   `03` §3.6: **eighteen names at zero for the frame that organises the whole work.** This is the
+   only research task in the project with a finite reading list, and it lands in III, VII and VIII
+   at once. **Carse is the ruled telos with a 1986 citation on it.**
+10. **★ NEW, Day 186 — the fifth-silence clause sweep.** `03` §3.5: for each of Tillich,
+   Hegel's *Anerkennung*, Gibson, enactivism, Böhme's *Ungrund*, Bohm's implicate order and
+   Peirce's synechism, **one clause, at the point of use.** Cheapest credibility in the project:
+   the doctrines are already ours, only the names are missing.
+
+⚠⚠ **THE COUNTING CONTRACT, amended Day 186 — the standing rule was missing its ROOT.** It named
+glob, case and archives and never said *which tree*, which is the one parameter that actually
+changed between counts. Recorded now, in both files: **`C:/Users/mercu/clawd/repo-staging/Corpus-
+Perspectival` — 2,548 live `.md` + 151 in `archive/`/`_superseded/` = 2,699.** `04`'s 1,369 files is
+over some other tree and does not reproduce. **Second amendment: counts come from a committed script
+in `tools/`, never from a shell one-liner** — two one-liners tonight reported that the archive trees
+*do not exist*, because shell quoting silently corrupted the regex and the corrupted version returned
+a clean, plausible zero. `tools/ancestor_sweep.py` is the reference implementation and carries the
+contract in its docstring. **A grep that agrees with you is the one to distrust.**
 
 ⚠ **A measurement defect in the registers, recorded rather than smoothed** *(`03` §3, end)*.
 `03`, `04` and `05` were counted by **different greps** — stem versus whole word, and an
