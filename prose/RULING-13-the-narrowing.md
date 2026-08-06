@@ -1,4 +1,19 @@
-# RULING 13 (OPEN) — the term "the Narrowing"
+# RULING 13 (RULED) — the term "the Narrowing"
+
+> **RULED by Clayton, Day 186 ~19:00: THE FOCUSING.** *"I like the focusing, actually. It
+> implies specification of something diffuse, which is apt in this case."*
+>
+> His arm is not the slate's arm and is better than it. The slate defended the term
+> (*a lens destroys no light* — a guard against Trap 1). Clayton's reading is **positive**:
+> focusing is **specification of the diffuse**. The Fullness is diffuse; the Perspective is a
+> specification of it — not a subtraction from it. That says what the act *does* instead of
+> denying what it isn't, which is the same upgrade §3 was invented to buy. **Use Clayton's
+> sentence in the §3 paragraph.**
+>
+> §3 (name the ominous word once, refuse it) is ADOPTED with the rename, not instead of it.
+> Rename job: 62 sites / 11 files, per §5 — NOT a sed job. Retire *narrowing* into
+> `tools/claim_sweep.py` in the same commit, because Day 186's lesson is that a lexicon ruling
+> with no gauge behind it survives its own retirement (*map* did, for a full day).
 
 *Day 186, 2026-08-05 ~15:40. Raised by Clayton: "I wonder if we might use a term other than the
 narrowing, it sounds a little ominous, even though it's accurate. Perhaps there's a friendlier
