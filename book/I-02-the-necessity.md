@@ -6,6 +6,11 @@ A possibility that is merely possible has to be kept somewhere. In a mind that h
 In a future that has not arrived. In a stock of unspent things that could be drawn on if the occasion
 came. Every one of those is a room, and a room has an outside, and there is no outside.
 
+The same will be true of everything you reach for up there. Nothing is being kept from you; there
+is nobody up there to keep it, and no elsewhere to keep it in. The thing wanted is not among the
+things there are. That is not a hard saying once, and it does not get easier by being said again —
+but it will be said again, because it is the answer every time.
+
 So in the Fullness there is nothing between what could be and what is. The two are one thing there.
 They come apart only in here, where there is a tomorrow — where there is a difference between the
 bread on the table and the bread you might buy. Take the tomorrow away and watch the difference go

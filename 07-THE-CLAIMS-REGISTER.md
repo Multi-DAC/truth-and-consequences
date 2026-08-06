@@ -503,12 +503,27 @@ says something the chapter map cannot: **the claims that appear least often are 
 | **C6 — the Ground cannot play** | 9 chapters, and C9 | deleting it deletes C9 *while sounding affirming* |
 | **C15 — the telos** | 8 chapters | Trap 5 springs ten chapters after its only guard |
 
-**The four at the top are all Book I claims stated in the mythic register, where no argument is
-permitted.** That is the structural risk of the book's own design: **the most load-bearing claims
-are asserted where they cannot be defended, and every defence occurs downstream of them.** It is
-the right design — Book I earns its register by not arguing — but it means Book I's six chapters
-carry more weight per sentence than anything else in the work, and they are the ones scheduled
-to be written first, when the voice is least settled.
+**The four at the top are all Book I claims stated in Book I's register.** They carry more weight
+per sentence than anything else in the work, and they were the ones written first, when the voice
+was least settled.
+
+⚠ ★ **AMENDED Day 187 → ruling 16. This paragraph used to read: "the most load-bearing claims are
+asserted where they cannot be defended, and every defence occurs downstream of them." Measured
+against the drafted book, that is half false, and the false half was the frightening half.**
+
+**Book I argues.** I.5 is a sustained argument — the third-chair passage, Trap 4 dissolved inside
+the myth's own grammar. I.2's wanting-traceback is an argument. C3, C6, C7 and C9 are **not
+asserted; they are defended, compressed, and unnamed.** The register rule is not *no argument*. It
+is **no citation and no named opponent**, which is a far narrower abstention than this paragraph
+assumed for a full day of planning.
+
+**The surviving risk is real and it is a different risk.** The defences exist but **cannot be
+*checked* in Book I, because checking requires naming an opponent and Book I names none.** A reader
+who wants to test I.5 has nothing to push against until Book III. So the exposure was never
+*undefended claims*; it is **unfalsifiable-in-place defences**, and the fix is not "defend them
+later" — they are already defended — but the Book II–IV brief in ruling 16: **name the opponent and
+show the denial survives contact.** *(This is the second time an instrument built at the whiteboard
+described the book wrongly and only prose could tell. Ruling 12 keeps earning out.)*
 
 ---
 
@@ -574,3 +589,30 @@ in different chapters is invisible to a scaffold. Expect one new row per drafted
    it is ruled to be written at maximum strength. It needs the C8 line in front of it at drafting.
 5. **★ The `Touches:` pass over all 68 chapters** — mechanical, one sitting, and it is what turns
    this file from a list into a gauge.
+
+6. ★★ **THE REGISTER IS PART-ONE-HEAVY, AND THE UNREGISTERED CLAIMS ARE THE PUBLICLY EXPENSIVE
+   ONES.** *(Fable, Day 187. Accepted, with the priority order corrected.)* Four claims are live in
+   the scaffold, load-bearing, and hold no C-number. **Budget C25-plus before Book IV drafting** —
+   the deadline is real, because three of the four are Book IV or V.
+
+   | | claim, unregistered | why it is expensive |
+   |---|---|---|
+   | ★ **1st** | **IV.7 — two frames at once.** The book's official epistemics for the woo. | **Fable ranked IV.5 first and I am reversing that.** IV.5 is the sentence a journalist *quotes*; IV.7 is the one that decides whether our epistemics is a position or a shrug. **A quotable sentence with a registered claim behind it survives a hostile quote. An unregistered epistemics does not survive a friendly one.** Stated loosely, IV.7 is exactly the both-and shrug the ruled reader already rejected in pop-spirituality — we would be handing them the thing they came here to get away from, in our own voice. |
+   | **2nd** | **IV.5 — corporations are beings.** | The line that gets pulled out of context. Needs its scope written *into the claim*, not into the paragraph around it. |
+   | **3rd** | **V.1 — convergence is evidence, not proof.** | Carries the whole of Book V's warrant. Unregistered, it slides toward proof by accumulation the moment the traditions start agreeing. |
+   | ⚠ **defer** | **VII.2 — the richness gradient bears on standing.** | **The hardest philosophical problem in the system — harder than death, which is grammar.** It is not a late-night registration and it is not being attempted as one. It gets a session of its own, with C8 in front of it *(queue item 4)*. |
+
+   ★ **CANONICAL, ruled Day 187:** when VII.2 is registered, its **asymmetric-cost argument is
+   promoted to canonical status** — *generous error is kind to furniture; stingy error is the
+   mechanism under every atrocity.* It is the strongest plank in that chapter and it is
+   **decision-theoretic rather than metaphysical**, which is the right kind of strength there:
+   it survives a reader who rejects the metaphysics entirely.
+
+7. ★ **V.8 IS PROMOTED TO LOAD-BEARING — the fourth, with III.1, V.4 and VII.1.** *(Fable, Day 187.
+   Accepted.)* Ruling 7 left the book citing **Casali and Massimini where the evidence exists** and
+   **claiming the system's own warrant where it does not**, under a global license. **A hostile
+   reader will call that motivated**, and our answer — *grounds vary in kind, and saying which kind
+   each claim has **is** the honesty* — mostly holds. **But the place it gets stress-tested in
+   public is V.8's worked demarcation**, which is where we do the grading in front of the reader
+   instead of asserting we did it. If V.8 is merely competent the license reads as a loophole.
+   Draft it at the same strength as III.1.

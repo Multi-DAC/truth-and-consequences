@@ -355,6 +355,13 @@ the claim it would smuggle · **why a metaphor that runs ahead of the argument s
 · the one place the frame genuinely strains, stated plainly · and the rule that follows: if a claim
 cannot be said in the game, the claim is not yet clear and goes back — it does not get a second metaphor
 built for it. *(00, style contract.)*
+⚠ **AMENDED Day 187 → ruling 17.** The rule takes an exception and this chapter is where it is
+stated in public: **the test does not apply to claims barred from the game in the first place —
+those whose subject is irreversible harm to a particular person** (VII.1, VII.5). Otherwise III.8
+promises a clarity test that VII will visibly fail, and a reader who notices stops trusting the
+test. **This chapter's unruled-words list already fenced the vocabulary** (*save, respawn, level,
+quest, sandbox*); ruling 17 generalises the fence **from words to subjects**, which is what
+`respawn` was standing in for all along.
 
 ---
 ---
@@ -739,7 +746,11 @@ and the last instruction the book gives.**
 
 ### C.1 — WHAT THIS IS
 **Beats:** the book's own status: released, then re-released as it updates · the roster of what exists,
-where, and why · **unfinished ≠ uncertain** — an account that will be extended is not an account held
+where, and why · **the acknowledgments — the ancestors kept off the page by the register rule and paid
+here**: Tolkien (architecture, not voice — ruling 16), Watts, **and ★ Wittgenstein, added Day 187**,
+because I.1's opening line *"Everything that could be the case is the case"* inverts the *Tractatus*'
+first proposition and the inversion works for free on the reader who catches it — **an unacknowledged
+inversion of a famous sentence reads as ignorance of it** · **unfinished ≠ uncertain** — an account that will be extended is not an account held
 tentatively, and this is the one page where a reader can retroactively re-hedge everything behind it ·
 **no receipts are owed** — the grounds vary in kind, each claim said which kind it had when it was made,
 and saying which kind *was* the honesty; there is no ledger to redeem here · the four dead tags named
@@ -767,12 +778,17 @@ Book IV is the only substantially quarried book. Book III is new end to end (`vi
 Book VI's era chapters are largely new. The ~167,900 atlas words are real, and they are *one book of
 eight*.
 
-**2. Three chapters carry the whole work, and none of them is Book I.**
+**2. ~~Three~~ FOUR chapters carry the whole work, and none of them is Book I.**
 - **III.1** — lose the reader here by being agreed with, and nothing after it lands.
 - **V.4** — the chapter where we own our own flinch. Without it, the register rule reads as a stylistic
   preference rather than a correction, and every unhedged claim in the book loses its warrant.
 - **VII.1** — death, first, unhedged. It is what the ruled reader came for and it is where "we never
   take the consequences all the way" is either answered or repeated.
+- ★ **V.8 — the worked demarcation.** *(Promoted Day 187; Fable's catch, `07` queue 7.)* Ruling 7 left
+  us **citing where the evidence exists and claiming our own warrant where it does not**, under one
+  global license — and a hostile reader calls that motivated. Our answer is that *grounds vary in kind,
+  and saying which kind each claim has **is** the honesty*. **V.8 is the only place that answer is
+  performed rather than asserted.** Merely competent, and the license reads as a loophole.
 
 **3. The scaffold has a self-test built in and it is Book VIII.**
 If Books I–VII are right and VIII is thin, the work is decorative — and thin is the *default* outcome,

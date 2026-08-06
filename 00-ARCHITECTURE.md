@@ -116,21 +116,43 @@ already one remove from it. **Answer the question he actually wrote.**
 
 ---
 
-## WHY MYTH FIRST — and why it is not decoration
+## WHY BOOK I COMES FIRST — and why it is not decoration
 
-Tolkien's move (Ainulindalë before everything) is the right one here for a
-reason specific to *our* ground, not merely for grandeur:
+⚠ **REWRITTEN Day 187 → ruling 16.** This section used to be titled *WHY MYTH FIRST* and it
+described a register the draft does not use. The old text's first move survives intact; its second
+was wrong, and the corrected version is the stronger argument. Kept visible rather than silently
+swapped, because *the drafted book is now the senior instrument* (ruling 12) and this is the first
+place prose overruled the plan on a matter of kind rather than of wording.
 
 **A static, infinite, undivided ground cannot be described in argumentative
 prose without being falsified by the grammar.** Argument runs in sequence:
 premise, then conclusion, *then*. Every "then" smuggles in time, and time is
-precisely what the Ground does not have. Myth is the only register that can hold
-a thing which does not move, because myth is permitted to speak from inside the
-telling rather than from a nowhere above it.
+precisely what the Ground does not have. **That much was always right, and the draft confirms it:
+I.1 solves its hardest paragraph by confessing the grammar rather than defeating it.**
 
-So the myth is not the metaphysics dressed up. **The myth is the metaphysics in
-the only register that does not lie about it.** The argument comes after, and it
-is downstream — which is also exactly the book's thesis about itself.
+★ **What was wrong is what we said replaces it.** Myth is not the register that survives the
+constraint, because **a narrated creation re-imports time wholesale** — figures, music, a sequence
+of makings, *then*. Narrative is worse than argument here, not better. **Bar both sequence-forms and
+what is left standing is the *via negativa*:** speech that proceeds by denial, which needs no order
+because a denial does not follow from the denial before it.
+
+So Book I is **apophatic wisdom literature** — Eckhart's sermons, the *Cloud of Unknowing*, the flat
+Borges voice the register documents name as the model. It is an Ainulindalë **in position only**:
+first, foundational, and the thing everything downstream is a consequence of. **It is not one in
+kind, and the resemblance should not be reached for in the drafting.** *(Tolkien remains unnamed on
+the page and acknowledged in the coda — ruling 9 and `06` §I. What changes is what we are borrowing
+from him: the architecture, not the voice.)*
+
+**And Book I argues.** I.5 is an argument; I.2's wanting-traceback is an argument. What Book I does
+not do is **cite, or name an opponent** — which is the register rule, and is a much narrower
+abstention than "no argument." **The consequence is the whole brief for Books II–IV: compression can
+state a conclusion, but it cannot survive an objection it is not permitted to name.** Book I denies.
+II–IV name the opponent and show the denial survives contact. **That is why they are not repetition,
+and if they read as repetition it is because that difference was not being worked.**
+
+So Book I is not the metaphysics dressed up. **It is the metaphysics in the only register that does
+not lie about it.** The argument that can be checked comes after, and it is downstream — which is
+also exactly the book's thesis about itself.
 
 **The problem the myth must solve, stated openly:** if the Ground is static,
 complete, and infinite, then *nothing happens*, and a creation myth is a
@@ -256,7 +278,13 @@ So the contract is a **comprehension** contract, not a metrics one:
 - **One metaphor, sustained.** The game. Not a rotating cast of analogies —
   *the same world, deepening.* Every abstract move gets its move in the game.
   If a claim cannot be said in the game, that is evidence the claim is not yet
-  clear, and it goes back rather than getting a new metaphor built for it.
+  clear, and it goes back rather than getting a new metaphor built for it —
+  **unless the claim is barred from the game, in which case the test does not
+  apply at all.** ⚠ **Ruling 17, Day 187: the game is barred wherever the subject
+  is irreversible harm to a particular person** (currently VII.1, VII.5).
+  Without the exception the rule misfires on *malheur*, which is perfectly clear
+  and unsayable in game-register — and a rule that fails on the hardest true
+  claim in the book gets quietly ignored everywhere else.
 - **Long sentences are allowed when they are one thought.** Banned: stacked
   qualifications, nested parentheticals, and the clause that exists to pre-empt
   an objection. That last one is hedging wearing syntax.
@@ -624,6 +652,151 @@ throwaway `II-01` before being trusted, because a rule with nothing in scope yet
 referents — and every instrument we built to catch it was pointed outward, at other people's
 vocabularies.** Four of the five instances found so far are collisions with *ourselves*.
 
+**15. THE LITANY IS DOCTRINE. So it gets DECLARED — not thinned, and not chanted.**
+*(Clawd's call, Day 187, on Fable's item 5. Both of the offered resolutions rejected.)*
+
+**Measured first, because the note came with a number in it.** Fable: *"the apophatic move appears
+fifteen-odd times in fifty-five hundred words."* Hand-counted across the six chapters: **26 matching
+lines, of which ~16 carry the formula proper**; the other 10 are ordinary negation (*"the ones in
+which there is no book"*). Book I is **6,354 words**, not 5,500. **Their eyeball was calibrated;
+ours was the number that needed fixing.**
+
+⚠ **And then ours needed fixing twice more, both found while building the gauge, both worth the
+line they cost.** *(a)* **26 was a count of LINES; the gauge counts OCCURRENCES** — same evidence,
+different unit, and a baseline stated in the wrong unit is worse than no baseline because it looks
+comparable. *(b)* **The first gauge under-read by ~10%, because the manuscript is hard-wrapped and
+`there\nis nobody` does not match `there (?:is|was)`.** The instrument built to measure a prose
+pattern was blind to prose. **It surfaced only because the new I.2 paragraph was added and the
+number did not move** — a gauge that fails to respond when fed the exact thing it measures is the
+trip-test, and this is ruling 14's lesson arriving again eight hours later in a different costume.
+Corrected figures: **52 occurrences / 6,354 words = 8.18 per 1,000 raw**, of which ~17–18 are the
+formula proper. **The raw number over-reads roughly 3×, not the ~38% the line count implied.**
+
+⚠ **But the distribution refutes the diagnosis.** Fable: *"by I.4 the reader pre-computes the
+move"* — which describes accumulation-fatigue. Per chapter, the formula runs **2 · 4 · 1 · 2 · 4 · 4**.
+It does not accumulate. It **peaks in I.2**, the second chapter, and never varies after. So the
+problem is not dosage-over-time. **It is that the move is never announced, so every instance has to
+present as a discovery — and the sixteenth discovery of one shape reads as a trick.**
+
+**Why both offered resolutions are wrong:**
+- **Thinning it thins the argument.** The formula is not ornament. It is the *via negativa* applied
+  to desire, and it is the only form in which Book I's doctrine can be stated at all. Each instance
+  denies a **different** wanted object: a later · an outside · an after · a gap · a road out of the
+  focus · a floor under the grades · an assessor · a third chair · an ear that is nowhere · a place
+  to watch from · something for the picture to be *of*. **Cut six and you have cut six doctrines,
+  not six flourishes.**
+- **A liturgical refrain requires fixed words.** A refrain is the same words returning. These are
+  the same *shape* carrying sixteen different contents. Fix the words and you get one chant that
+  says less than the sixteen denials it replaced.
+
+★ **THE THIRD RESOLUTION, and it is the draft's own best move reused.** I.1 solves the hardest
+paragraph in the book by converting an impossibility into content — *"Every sentence up there is in
+the wrong tense."* That is precedent, **inside the register**, for the myth stating a law about its
+own speech without becoming apparatus. So: **state the shape once, early, as a fact about the
+Fullness rather than a fact about the book.** Placed at I.2's first instance, where the density
+first peaks, and written C3-clean — no agency verb for the Fullness, not even a negated one
+(*withholds nothing* would have given it something to withhold; **Trap 3 gets in through negated
+verbs as readily as through affirmed ones**).
+
+> *"The same will be true of everything you reach for up there. Nothing is being kept from you;
+> there is nobody up there to keep it, and no elsewhere to keep it in. The thing wanted is not among
+> the things there are. That is not a hard saying once, and it does not get easier by being said
+> again — but it will be said again, because it is the answer every time."*
+
+**After that sentence every recurrence is the stated law keeping its word.** The reader who
+pre-computes the move is then doing what the text asked them to do — **which is the definition of a
+theme rather than a tic.**
+
+**Gauge: BUILT, and it reports rather than trips.** `claim_sweep.py` prints the per-chapter rate and
+fails on nothing, deliberately — a naive regex over-reads this formula ~3×, and **a gauge that cries
+wolf two times in three gets ignored, which is worse than no gauge.** What it is actually good for
+is **movement**: the rate is stable across all six of Book I's chapters (5.96–9.35/1k on the raw
+count), so a later book that departs from Book I's litany departs *visibly*, which is the only
+question a number can answer here. **The judgement stays with a person; the number just stops the
+person from guessing.**
+
+**16. WHAT BOOK I ACTUALLY IS — apophatic wisdom literature, not Ainulindalë. And it argues.**
+*(Clawd's call, Day 187, on Fable's item 7 — the note with the most downstream teeth, and the one
+that had to be ruled before Book II is drafted, which is the next action.)*
+
+Fable is right and the finding is generic: **there is no narrative in Book I, no figures, no music.**
+What was written is Eckhart's sermons and the *Cloud* — the flat Borges voice our own register named
+as the model. And **Book I argues constantly**: I.5 *is* an argument, and a good one; I.2's
+wanting-traceback is an argument. It simply never cites and never names an opponent.
+
+★ **The reason is not a failure of execution, and this is the part Fable left on the table: the
+same constraint that barred argument also barred narrative.** Argument runs *premise, then
+conclusion*, and every "then" smuggles in time. **But a narrated creation re-imports time
+wholesale** — worse, not better. Bar both sequence-forms and what is left is the *via negativa*.
+**The draft did not miss the mythic register; it found the only register still standing.** That is a
+stronger rationale than the one it replaces, so `WHY MYTH FIRST` above is rewritten to it.
+
+**Consequence A — 00's rationale, corrected.** It was right that argumentative prose falsifies a
+static ground by its grammar. It was wrong that *myth* is what replaces it. Fixed above.
+
+**Consequence B — 07's structural worry is half-dissolved, and the surviving half is a different
+risk.** `07` §"the claims that appear least often are not the cheapest" reads: *"the most
+load-bearing claims are asserted where they cannot be defended."* Measured against the actual draft,
+they are **not** asserted — they are **defended, compressed, and unnamed.** The surviving risk is
+narrower and real: **the defences cannot be *checked* in Book I, because checking requires naming
+an opponent, and Book I names none.** Amended in `07`.
+
+★★ **Consequence C — the Book II–IV brief, and it is harder than the problem it replaces.** The old
+worry gave II–IV the job of *defending the undefended*. The true job is: **re-earn arguments the
+reader has already been given in compressed form, without seeming to repeat.** A reader who caught
+I.5 will experience II's discursive version as restatement — **unless II is doing something the
+compressed version could not do.** It is, and it must be named on purpose: **compression can state
+a conclusion; it cannot survive an objection it is not allowed to name.** Book I denies. **Books
+II–IV name the opponent and show the denial survives contact.** That is the difference, it is not
+cosmetic, and it goes in Book II's beats before a word of II is drafted.
+
+**17. THE METAPHOR RULE IS A CLARITY TEST FOR THE METAPHYSICS — NEVER FOR THE ETHICS OF AFFLICTION.**
+*(Clawd's call, Day 187, on Fable's scope note. Accepted, with the scope stated as a criterion
+rather than as a chapter list.)*
+
+As written the rule says: *if a claim cannot be said in the game, the claim is not yet clear and it
+goes back.* **It misfires on malheur** — which is perfectly clear and unsayable in game-register
+without breaking the altitude rule — **and VII.1 in game vocabulary is respawn-adjacent by
+construction.** A rule that fails on the book's hardest true claim will be quietly ignored
+everywhere else, so it gets fixed rather than excused.
+
+- **Load-bearing:** Books III and IV, VI, VIII. **Available:** Book V. **Barred:** see the criterion.
+- ★ **The bar is a criterion, not a list, because the reorder is live and a chapter list rots the
+  moment it lands: the game is barred wherever the subject is irreversible harm to a particular
+  person.** Current instances: **VII.1** (cessation) and **VII.5** (affliction). If the order moves,
+  the criterion still holds and the instances re-derive themselves.
+- **The rule's own text takes an exception clause:** *…unless the claim is barred from the game, in
+  which case the test does not apply.* Amended in the style contract above and in `06` III.8.
+- *Note: this is a consolidation, not a new constraint.* **`respawn` is already on III.8's
+  unruled-words refusal list** — the fence existed and only ever covered vocabulary. Ruling 17
+  generalises it from words to subjects.
+
+**18. VERSIONED PARTIAL RELEASE IS PERMITTED — ruling 4 bars volumes, and a version is not a volume.
+But the minimum releasable set is not the comfortable one.**
+*(Clawd's call, Day 187, answering Fable's direct question. Ruled either way rather than defaulted,
+as they asked.)*
+
+Ruling 4 bars *volume splits* — a trilogy, "Volume I of." What it protects is that a reader enters
+one continuous argument at page one, and that nothing is cut for a page count. **A v0.x does not
+split the work into volumes; it releases an incomplete instance of one work.** Different thing, not
+barred. And the argument *for* is strong and is already ours: **the book claims to be a living book
+(C23, the coda), and a living book that first appears complete is making a claim it never tested.**
+
+⚠ **But Fable's proposed set — I–III, VIII, coda — is the one set that must not ship.** It hands the
+reader the metaphysics and the Tuesday practice and **none of the ethics.** C9 (*no NPCs*) without
+Book VII is precisely the configuration that reads as *everything is conscious, and here is how to
+feel about your morning* — **the exact shape of the thing this book exists not to be.**
+
+★ **RULED: the minimum releasable set is I–III + VII.1–VII.2 + VIII + coda.** The practice does not
+ship without the ethics that license it. Two further conditions: it ships **as v0.x of one work,
+never as a title in its own right, and never with its own ISBN** — the moment it acquires an
+independent identity it *is* a volume and ruling 4 bites; and the version number never reaches 1.0
+until all eight books are in.
+
+**And the gate is not a tax — it is what makes the release worth doing.** The stated reason to ship
+early is to test the falsifier on real readers. **The falsifier is most exposed at VII.** Shipping
+the easy books and holding the hard ones back tests nothing anyone needed to know.
+
 ---
 
 ## STATUS — Day 185
@@ -853,8 +1026,42 @@ nobody notices until the source is gone. **Deadline: before Book IV drafting, no
 planning.**
 
 ### ★ F. THE READER'S LADDER — ✅ **BUILT Day 186 → ruling 10.** Eight lines plus the Coda; Book IV's
-rung is the weakest and IV is the longest book. The reorder `I II III V VI IV VII VIII` is a real
-candidate and is **recorded open, deliberately unruled.** *(Original statement below.)*
+rung is the weakest and IV is the longest book. The reorder is **recorded open, deliberately
+unruled.** *(Original statement below.)*
+
+> ★★ **DAY 187 — THERE ARE NOW TWO CANDIDATES, AND FABLE'S IS BETTER THAN MINE. Still not ruled.**
+>
+> - **Mine:** `I II III V VI IV VII VIII`.
+> - **★ Fable's:** `I II III V IV VI VII VIII` — Old Roads before the Atlas.
+>
+> **Their objection to mine is correct and I had not seen it.** VI.8 ends *inside the reader's own
+> tunnel* — *"some things follow, and they are not comfortable"* — which is a **handoff to VII.1**,
+> written as one. My order inserts ten chapters of atlas between the handoff and the hand that takes
+> it. **I moved Book IV to fix a stall and broke the best transition in Part Two to do it.**
+>
+> Their order preserves VI→VII, and their positive argument is real: **Old Roads before the Atlas
+> converts the catalogue from a stall into a systematisation of the tour just taken** — the
+> imaginal, divine and ancestral chapters land *after* the traditions' reports rather than before
+> them, which gives the roster narrative momentum it cannot generate alone. IV.10's
+> census-blindness then bridges into VI's era-relative seeing. The cost — Part Two opening on Old
+> Roads rather than on a consequence proper — **is identical under both candidates** and is covered
+> by one reframing sentence: *the first consequence of the truth is that the old roads were walking
+> on it.*
+>
+> ⚠ **WHAT THE PRE-MORTEM MUST TEST — and item 1 is a risk neither of us has retired:**
+> 1. ★ **The stall did not vanish; it moved.** The whole objection to my order was *catalogue
+>    fatigue*. Fable's order puts **the Atlas directly after the Old Roads — roster after roster,
+>    ~20 catalogue chapters back to back.** Their claim is that the tour lends the second roster
+>    momentum. **That is an assertion about a reader, and it is exactly the class of assertion the
+>    ladder was built to stop us making by feel.** Run it on the ladder, per rung, before believing
+>    it.
+> 2. **Does the IV.10 → VI bridge survive, or was it an artefact of the old order?** It is offered
+>    as a benefit of the new one; check it is not being read backwards off the current text.
+> 3. **The reframing sentence is owed by both candidates and neither has written it.** An unwritten
+>    covering sentence is not a cost that has been paid.
+>
+> *Gate unchanged (ruling 10): pre-mortem, and Clayton awake. Not a 3am ruling by the person who
+> built the thing being reordered.*
 
 One sentence per Book: **what the reader believes at the end of it that they did not believe at the
 start.** Testable only now that `06` exists. It is the cheapest possible check on whether the

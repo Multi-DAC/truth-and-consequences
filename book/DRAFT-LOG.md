@@ -682,3 +682,51 @@ flaw to fix once: a standing reason to hand finished prose to someone who did no
 instrument, every book, before the next one starts.
 
 **Expect one new collision row per drafted book, not zero.** Recorded at `07`.
+
+---
+
+## DAY 187 — FABLE'S READ, PART 3: the litany, the genre, and the beat I.1 did not follow
+
+### ★ I.1 DEVIATED FROM ITS RULED BEAT, THE DEVIATION WAS RIGHT, AND IT WAS NOT RECORDED
+
+`06` says I.1 opens on **Clayton's completeness-entails-separation sentence.** The draft opens on
+**plenitude** and reaches the entailment in paragraph three. Fable caught it and ruled it correct;
+so do I, on two grounds. **C1 before C2 is the right logical order** — you cannot hear that
+completeness *entails* separation until completeness has been made real enough to entail anything.
+And *"Everything that could be the case is the case"* is the stronger opening line by some distance.
+
+**Recorded here as CHOSEN, which is the whole point of this entry.** An unrecorded deviation from a
+scaffold is indistinguishable from a drafter who did not read the scaffold — and the next person to
+compare the two files, including me in four months, would have "fixed" it. *(Consequence: the
+Tractatus inversion is now acknowledged in the coda — `06` C.1. An unacknowledged inversion of a
+famous sentence reads as ignorance of it.)*
+
+### THE LITANY — declared, not thinned *(ruling 15)*
+
+Measured before ruling: **~16 lines carrying the formula in 6,354 words**, per chapter `2 · 4 · 1 ·
+2 · 4 · 4`. **The rate does not accumulate — it peaks in I.2 and stays flat**, so "the reader
+pre-computes it by I.4" is the right symptom with the wrong cause.
+
+⚠ *Two corrections to my own arithmetic, both caught by building the gauge instead of trusting the
+grep: 26 was a count of **lines**, not occurrences (52 of those, wrap-corrected), and the first
+gauge **under-read by ~10% because the manuscript is hard-wrapped** and* `there\nis nobody` *does
+not match* `there (?:is|was)`. *Found because the new I.2 paragraph went in and the number did not
+move. The shape of the finding survives both; the numbers in `00` are the fixed ones.* The cause is that the move was
+never announced. One paragraph added at I.2's first instance, in the grammar-confession's own
+manner, **C3-clean**: no agency verb for the Fullness, *not even a negated one* — `withholds
+nothing` would have handed it something to withhold, and **Trap 3 gets in through negated verbs as
+readily as affirmed ones.** Sixteen tricks become one law and fifteen applications of it.
+
+### WHAT THIS BOOK IS *(ruling 16)*
+
+Not Ainulindalë — **apophatic wisdom literature**, and **it argues** (I.5 is an argument; I.2's
+wanting-traceback is an argument). It abstains from *citation and named opponents*, which is far
+narrower than "no argument," and `07`'s structural worry had been written against the wider reading
+for a full day. ★ **The reason is not sloppy execution: the constraint that barred argument also
+barred narrative** — a narrated creation re-imports time wholesale. Bar both sequence-forms and the
+*via negativa* is what is left standing. **The draft found the only available register.**
+
+**And the brief this hands Book II, which is the next thing written:** compression can state a
+conclusion; **it cannot survive an objection it is not permitted to name.** Book I denies. Books
+II–IV name the opponent and show the denial survives contact. **If II reads as repetition, that
+difference was not being worked.**

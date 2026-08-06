@@ -421,8 +421,72 @@ def main() -> int:
         if missing:
             print(f"    missing: {', '.join(missing)}")
 
+    report_formula_density(prose_root)
+
     print("\n  Reminder: this tool reports LINES, not doctrine. A subtle breach walks past it.")
     return 1 if all_uses else 0
+
+
+# --- RULING 15: the apophatic formula, REPORTED and never tripped ----------------
+#
+# The move is "X wants Y, and there is no Y" — the via negativa applied to desire, and
+# it is Book I's doctrine rather than its ornament, so a gauge that FAILS on it would be
+# a gauge that fails on the argument. It reports.
+#
+# ⚠ It reports RAW, and the overcount is stated rather than hidden — in the SAME UNIT it
+# prints, which took two corrections to get right on the day it was written:
+#   * The hand count that produced ruling 15 was 26 — but that was 26 matching LINES,
+#     and this prints OCCURRENCES. Same evidence, different unit; a baseline in the wrong
+#     unit is worse than none, because it looks comparable.
+#   * Wrap-corrected occurrences on the same text: 52. Of these ~17-18 are the true
+#     formula (the ~16 hand-marked lines, two of which carry it twice), so the raw number
+#     over-reads by roughly 3x, not the ~38% the line count suggested.
+# A regex that could tell a doctrinal denial from a plain one would have to parse the
+# want preceding it. We did not build that. **A tripping gauge that cries wolf two times
+# in three gets ignored, which is worse than no gauge** — so this one has no threshold,
+# no exit code and no opinion. It hands over a number and a baseline; a person does the
+# rest. What it IS good for is MOVEMENT: the rate is stable across Book I's six chapters,
+# so a later book that departs from it departs visibly.
+FORMULA_RE = re.compile(r"\bthere (?:is|was) (?:no|nothing|nobody|nowhere|none)\b", re.I)
+
+# Book I as drafted and ruled acceptable on Day 187. The point of a baseline is that a
+# later book can be compared to something instead of to a feeling.
+BASELINE = ("Book I as ruled acceptable, Day 187 (pre-ruling-15 text): 52 occurrences / "
+            "6,354 words = 8.18/1k raw, of which ~17-18 are the formula proper (~2.8/1k)")
+
+
+def report_formula_density(prose_root):
+    if not prose_root.exists():
+        return
+    # ⚠ Match the CHAPTER pattern, not "starts with a capital" — DRAFT-LOG.md starts
+    # with a capital too, and ruling 14's first scope draft swept exactly that file, a
+    # register, and counted its quotations as prose. Same trap, eight hours later.
+    chapters = sorted(p for p in prose_root.glob("*.md")
+                      if re.match(r"^[IVX]+-\d+-", p.name))
+    if not chapters:
+        return
+    print("\n  APOPHATIC FORMULA density (ruling 15 — REPORTED, never tripped):")
+    tot_hits = tot_words = 0
+    for p in chapters:
+        text = p.read_text(encoding="utf-8", errors="replace")
+        words = len(text.split())
+        # ⚠ COLLAPSE WHITESPACE FIRST. The manuscript is hard-wrapped at ~100 chars, so
+        # roughly one formula in six straddles a line break — "there\nis nobody" does not
+        # match "there (?:is|was)". Caught on the day this was written, and only because
+        # a new instance was added to I.2 and THE NUMBER DID NOT MOVE. A gauge that does
+        # not respond when you feed it the thing it measures is the whole trip-test, and
+        # it is the same lesson ruling 14 paid for: a rule with nothing in scope passes
+        # forever and proves nothing.
+        hits = len(FORMULA_RE.findall(re.sub(r"\s+", " ", text)))
+        tot_hits += hits
+        tot_words += words
+        rate = (hits / words * 1000) if words else 0.0
+        print(f"    {p.name:<28} {hits:>3} raw · {words:>5}w · {rate:5.2f}/1k")
+    rate = (tot_hits / tot_words * 1000) if tot_words else 0.0
+    print(f"    {'ALL DRAFTED':<28} {tot_hits:>3} raw · {tot_words:>5}w · {rate:5.2f}/1k")
+    print(f"    baseline — {BASELINE}")
+    print("    raw over-reads ~3x (ordinary negation); no threshold is set and none "
+          "should be inferred. Watch MOVEMENT, not level.")
 
 
 if __name__ == "__main__":
