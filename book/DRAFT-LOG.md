@@ -1315,3 +1315,141 @@ one string is the week's standing lesson in miniature, one size down. Enumerated
 **beat_sweep**: 276 beats, **0 collisions on II.5**, 4 exempt. Whole-scaffold: 3 collisions, 2
 echoes, 4 exempt, 2 method — the three open ones are I.6 ~ III.2 (Watts, still no axis), V.7 ~
 VIII.3, C.2 ~ VII.5. **order_sweep**: 0 false handoffs.
+
+---
+
+## II.6 — COHERENCE · drafted Day 187 · 2,880 words
+
+**Six of Book II's eight, and the longest chapter yet** — it carries two failure surfaces, two
+ancestors and an upstream link, and it is the chapter where the corpus was richest and the pull to
+import was strongest. Named: **Spinoza**, credited on both of the chapter's ideas and cut once.
+Upstream, per idea: **Descartes**, *Principles* II. Rulings 28, 29, 30.
+
+### The gate said CLEAN, and the chapter's two real defects were in the plan rather than the prose
+
+`beat_sweep --chapter II.6` returned one METHOD flag and nothing else. What found the rest was the
+handoff's own instruction: *II.6 is in the 28-chapter "names its ancestor INLINE in the beats" list —
+**check who**.*
+
+**Who was `Perspective`.** Our own prior volume, appearing in the chapter's `**Source:**` line. On
+that basis the gauge had excused II.6 from rule 5, in the words *"hygiene, not a rule-5 gap."*
+
+Asked the same question of the other twenty-seven. **Sixteen of the twenty-eight were acquitted the
+same way** — by a field label (`Source`, `Tier`, `Thesis`), by a path (`atlas_entries_*.md`), or by
+one of our own house terms (the Ground, the Return, the Coherence Principle, the Null-Space Theorem).
+The line printed every run said **13 in the rule-5 gap, 28 excused.** It is **28 in the gap and 13
+excused** — exactly inverted, in the check for the rule `02` calls load-bearing for this volume
+specifically: *unhedged assertion with no named opponent is bluster.*
+
+### ★★ AN EXCULPATORY BUCKET NEEDS A STRICTER GATE THAN AN ACCUSING ONE
+
+The week's standing lesson has been *a declared blind spot is not a checked one*, then its smallest
+form, *a licence declared in a rule's prose is not a licence implemented*. This is the next one, and
+it is about which **direction** a gauge is permitted to be sloppy in.
+
+The `!!` bucket errs toward **alarm**. A false cry gets read, checked and dismissed; the cost is a
+minute. The `--` bucket errs toward **silence**. A false exoneration is never checked by anybody,
+because nothing ever asks to be. It is the same asymmetry the PURPOSE gauge was deliberately built
+with — *the gauge fails toward the feared reading* — arrived at from the other end, by finding one
+that failed toward the comfortable one.
+
+So an exculpatory bucket must do two things, and this one now does both: gate harder than the
+accusing bucket, and **show its work** — print the name each chapter was acquitted on, so the
+acquittal becomes a claim somebody can disagree with. Before this it never said.
+`tools/beat_sweep.py`: `OURS` + `_outside_names()`, deliberately over-inclusive, because a term
+wrongly listed as ours can only push a chapter into the loud bucket, where it gets read.
+
+### RULING 28 — the beat line defined the book's core term with a noun I.3 denies exists
+
+The beats read *"the felt alignment of a **stream** with its own trajectory."* So did `05`'s Coherence
+row. Both quarried verbatim from the source, where `stream` is a defined term.
+
+**It is not one here.** `stream` occurs in the entire drafted book **once** — I.3, inside its own
+negation: ***"There is no stream."***
+
+Drafting the beat as written would have defined the central term of Book II out of a noun Book I
+abolishes, and ruling 8 forbids even explaining where the word came from. Corrected in both carriers.
+The chapter says **a perspective**, and **level** where a level is meant.
+
+★ **The general form is the import hazard at its purest: a source's vocabulary travels inside its
+sentences.** The beats were quarried before `05` existed and were never re-read against it — every
+undrafted beat line in the scaffold is a quarried sentence carrying quarried nouns. And note where
+this one hid: in the lexicon row whose entire job is screening imports. Axis 1 could not see it,
+because *nobody else owns the word*. **The collision was with ourselves — axis 3, added the same day,
+and never yet run back over the table it was added to.**
+
+### RULING 29 — two sections of the source have no destination in 68 chapters
+
+Measured, not guessed. **`beauty` = 0 occurrences across `00`–`07`.** The structural-integrity-versus-
+outward-coupling **two axes** = 0. The source spends real length on both: beauty as coherence *felt*,
+with the sublime, *hózhó*, Stravinsky on constraint and Hossenfelder's warning that elegance misleads;
+and the claim that cohering *in yourself* and cohering *with the world* are independent achievements.
+
+**They were not cut. They were dropped, silently, between the source and the plan** — and nothing was
+ever going to notice, because of a hole in the whole instrument set. `beat_sweep` reads the scaffold
+against itself; `claim_sweep` and `order_sweep` read the prose against the scaffold. **Nothing reads
+the source against the scaffold.** That gauge does not exist. II.6 smuggles neither in — beauty is a
+chapter's worth of material and the two axes bear on Book VII's ethics. A sitting, before Book VII is
+scaffolded.
+
+### RULING 30 — the cut is at persistence, and both ancestors fail in the same place
+
+**Spinoza credited at full strength, on both ideas.** He made the identity claim in his own
+vocabulary — thought and extension as one substance under two attributes, the inside and the outside
+of one condition — and put the striving *as* the essence rather than alongside it. And he owns the
+scale problem's best image, in the letter to **Henry Oldenburg, November 1665**: the little worm in
+the blood, seeing lymph and chyle, taking each particle for a whole and not a part, living in the
+blood as we live in our part of the universe. Verified against the text before it went on the page,
+per ruling 27.
+
+**The cut is at what the striving is for.** *Ethics* IV P20 makes virtue the strength of the striving
+to preserve one's being — and **by that measure the tumour is the most virtuous cell in the body.**
+Persistence is exactly the quantity that comes apart across levels. What the chapter needs is not the
+strength of the strivings but their agreement, and those coincide only in the healthy case.
+
+Underneath it, the divergence that is not a failure of his care: **in Spinoza's nature the whole
+always wins.** The worm's ignorance is an inadequacy of position, correctable by a wider view, and at
+the widest view everything agrees necessarily, because the whole is God and God contains no genuine
+quarrel. Disagreement between levels is therefore never a fact — only somebody's inadequate idea. So
+**the chapter's second failure surface is unstateable in his system.**
+
+★ **And the Hermetic *as above, so below* fails in the same place, and is named on the page for doing
+so**, per II.3's rule against letting a repetition read as coincidence. `03` has it at 2 files — *"the
+Coherence Principle's slogan, 1,500 years early"* — essentially uncredited across three million words.
+It says the levels **resemble** one another; resemblance is stronger than agreement and cheaper,
+because it makes divergence impossible rather than pathological. Neither the formula nor the
+philosopher can say what is wrong with a tumour. **Anything that guarantees the levels agree in
+advance cannot lose, and what cannot be lost was never a claim.**
+
+**Upstream, per idea (ruling 27).** The striving is Descartes' — *Principles of Philosophy* II, *each
+thing, so far as it is in its power, remains always in the same state* — carried into the *Ethics*
+word for word by a man who had written his own exposition of the *Principles*. **The persistence
+sense of going-well arrives from physics.** It is the law of inertia in ethical clothing, which is why
+the intuition is so hard to put down, and why it is the wrong shape for this: **inertia has no levels
+in it.**
+
+### The exemption that pays down a queue item instead of buying silence
+
+`claim_sweep` fired **C15/trap5** on *"Union is not the erasure of the parts."* The rule's own message
+says Trap 5 *"springs in Book V, ten chapters after its only guard."* I.6's guard is a **refusal**,
+and a refusal ten chapters back is what a reader in Book V will not have. II.6's **separation**
+condition supplies a **reason**: union is not the erasure of the parts, because where the parts are
+erased there is one level left, and one level cannot cohere with anything. Trap 5 is now foreclosed by
+the definition of the book's own core term rather than by a warning the reader has to carry. Exempted
+with that note; `00` queue item 8 is **part-paid**, still open for the Book V approach.
+
+The second hit was **PROSE/hedge** on *"in a sense"* — used literally, meaning *in one meaning of the
+word*. Reworded rather than exempted: ruling 13's lesson is that a word's connotation prosecutes
+before the argument starts, and a hedge-shaped phrase is a hedge to the ear that meets it.
+
+### Gauges
+
+**claim_sweep exit 0** · 29 files · **45** exemptions (one added, the Trap-5 guard above).
+**beat_sweep**: 276 beats, **0 collisions on II.6**, 4 exempt; whole-scaffold unchanged at 3
+collisions (I.6 ~ III.2 still with no axis, V.7 ~ VIII.3, C.2 ~ VII.5) — verified against the
+pre-change tree, so the exit-1 is inherited and not new. **order_sweep**: 0 false handoffs.
+
+**Apophatic density 0.69/1k — the lowest of any chapter drafted**, against Book I's 8.18 raw. Not a
+target and not steered for; recorded because ruling 15 says watch movement, and the movement across
+Book II is monotonic. The chapter is built out of positive conditions and two concrete failures, and
+that, rather than vigilance about the reflex, is what stopped the not-this-not-that reflex.

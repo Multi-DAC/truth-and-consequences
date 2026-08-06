@@ -336,12 +336,63 @@ promising to reach the first kind is promising the removal of your own position.
 anyone wrong about anything? Answered forward to **Book III**, with II.3's shape already visible —
 error needs other positions, not a territory.
 
-### II.6 — COHERENCE
-**Beats:** the two senses — structural consistency across scales, and the felt alignment of a stream
-with its own trajectory · **the claim that these are one thing, stated as the case** · the four
-conditions · where it fails, named at the definition rather than defended later: the deceptive channel,
+### II.6 — COHERENCE ✅ DRAFTED (Day 187, 2,880 words)
+**Beats:** the two senses — structural agreement of a thing's **levels**, and the felt rightness of
+going the way one goes · **the claim that these are one thing, stated as the case** · the four
+conditions · where it fails, named at the definition rather than defended later: the lying channel,
 and the part that coheres against its whole.
+**Named:** ★ **Spinoza — 35 files**, credited at full strength on BOTH of the chapter's ideas and
+cut once. One link upstream per idea, ruling 27: **Descartes**, *Principles* II, for the striving.
 **Source:** `Perspective` 03-coherence + back-matter arguments-in-brief.
+
+⚠ **RULING 28 — THE BEAT LINE DEFINED THE BOOK'S CORE TERM WITH A NOUN I.3 DENIES EXISTS.** This
+entry read *"the felt alignment of a **stream** with its own trajectory"*, and so does `05`'s
+Coherence row — both inherited verbatim from the source volume, where *stream* is a defined term.
+**It is not one here.** `stream` appears in the whole drafted book exactly once, in **I.3, inside its
+own negation: *"There is no stream."*** Drafting the beat as written would have defined the central
+term of Book II out of a noun the book's third chapter abolishes — and ruling 8 forbids even
+explaining where the word came from. The book's word for the thing that navigates is **a
+perspective**; where a level is meant, the chapter says **level**. Both carriers corrected.
+★ The general form, and it is the import hazard in its purest state: **a source's vocabulary travels
+inside its sentences.** The beats were quarried before `05` existed and were never re-read against
+it. Every remaining undrafted beat line is a quarried sentence carrying quarried nouns.
+
+⚠ **RULING 29 — TWO SECTIONS OF THE SOURCE HAVE NO DESTINATION IN 68 CHAPTERS.** Measured, not
+guessed: **`beauty` = 0 occurrences across `00`–`07`**, and the structural-integrity-vs-outward-
+coupling **two axes** = 0. `Perspective` 03-coherence spends real length on both — beauty as
+coherence *felt* (the sublime, *hózhó*, Stravinsky's constraint, Hossenfelder's warning that elegance
+misleads), and the claim that cohering *in yourself* and cohering *with the world* are independent
+achievements. Neither is in this scaffold anywhere. **They were not cut; they were dropped, silently,
+between the source and the plan, and nothing was ever going to notice** — the gauges read the
+scaffold against itself and the drafted prose against the scaffold. Nothing reads the SOURCE against
+the scaffold. II.6 does not smuggle them in: beauty is a whole chapter's worth and the two axes bear
+on Book VII's ethics. **A sitting, before Book VII is scaffolded — and the sweep it needs does not
+exist yet.**
+
+⚠ **RULING 30 — THE CUT IS AT PERSISTENCE, AND BOTH ANCESTORS FAIL IN THE SAME PLACE.**
+**Credit:** Spinoza made this chapter's identity claim in his own vocabulary — thought and extension
+as one substance under two attributes, the inside and the outside of one condition, argued rather
+than asserted — and he put the striving *as* the essence rather than alongside it (*Ethics* III P7).
+He also owns the scale problem's best image: **Letter to Oldenburg, November 1665** — the little worm
+in the blood, seeing lymph and chyle, taking each particle for a whole and not a part, living in the
+blood as we live in our part of the universe. ✅ *Verified against the text, per ruling 27.*
+**The cut is at what the striving is FOR.** *Ethics* IV P20 makes virtue the strength of the striving
+to preserve one's being — and **by that measure the tumour is the most virtuous cell in the body.**
+Persistence is precisely the quantity that comes apart across levels. What is wanted is not the
+strength of the strivings but their *agreement*, and those coincide only in the healthy case.
+**Underneath it: in Spinoza's nature the whole always wins.** Disagreement between levels is never a
+fact, only somebody's inadequate idea — so the chapter's second failure surface is *unstateable* in
+his system. ★ **And the Hermetic *as above, so below* (`03`: 2 files, "the Coherence Principle's
+slogan, 1,500 years early", uncredited) fails in the same place and is named on the page for doing
+so** — resemblance is stronger than agreement and cheaper, because it makes divergence impossible
+rather than pathological. **Anything that guarantees the levels agree in advance cannot lose, and
+what cannot be lost was never a claim.** Naming the repetition rather than letting it read as
+coincidence is II.3's rule, applied.
+**Upstream, per idea (ruling 27):** the striving is **Descartes'** — *Principles of Philosophy* II,
+*each thing, so far as it is in its power, remains always in the same state*, carried into the
+*Ethics* word for word by a man who had written his own exposition of the *Principles*. **The
+persistence sense of going-well arrives from physics — inertia in ethical clothing**, which is why
+the intuition is so hard to put down and why it is the wrong shape: *inertia has no levels in it.*
 
 ### II.7 — THE COLLAPSE
 **Beats:** measurement defined **generally first** · the subatomic case named as an instance, not the

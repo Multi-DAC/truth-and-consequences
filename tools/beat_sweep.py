@@ -226,6 +226,37 @@ def _names_in(chunks):
     return out
 
 
+# TOKENS THAT ARE OURS. A capitalised word in a chapter body is not evidence of an ancestor
+# when it is one of the scaffold's own field labels, one of the lexicon's house terms, or the
+# book pointing at its own source material. Rule 5 asks whether an OUTSIDE party is on the
+# page; self-citation is the opposite of that, and `00` ruling 8 bans it from the prose
+# outright. Deliberately over-inclusive: a term wrongly listed here can only push a chapter
+# INTO the loud bucket, where it gets read. The failure this list exists to prevent is silent.
+OURS = set("""Source Sources Tier Thesis Beats Named Register Why Quarry Touches Note Boundary
+Axis Beat Chapter Book Part Front Coda Ruling Rulings Status Named Measurement Hole Cut
+Ground Fullness Focusing Narrowing Perspective Perspectives Grade Grades Tunnel Tunnels
+Collapse Return Coherence Principle Render Renders Seed Player Still Game Null Space Theorem
+Promethean Configuration Library Research Unreleased Work Corpus Atlas Meridian Drift
+Nearly Said Consider Promoted Retitled Otherwise Outside Ours Grant Name Base Cartographers
+State New Old Same Next Last One Two Three Four Five Six Seven Eight Nine Ten
+respawn save level quest sandbox""".split())
+
+
+def _outside_names(body):
+    """The names in a body that belong to somebody ELSE. Feeds the rule-5 exoneration only —
+    the reuse check keeps using `named()`, whose **Named:** field already supplies the context
+    this filter has to supply by hand. Multi-word tokens are split, because the two-word arm of
+    the name pattern produces things like 'State Bostrom' where the ancestor is one of the two."""
+    out = set()
+    for tok in _names_in([body]):
+        if "/" in tok or "." in tok or "_" in tok:   # a path is the book citing itself
+            continue
+        keep = [w for w in tok.split() if w not in OURS]
+        if keep:
+            out.add(" ".join(keep))
+    return out
+
+
 def named_report(chs):
     roster = {}
     for cid, _, body in chs:
@@ -246,11 +277,28 @@ def named_report(chs):
     # the number a lie in the direction of alarm.
     bare = [c for c in bare if not c.startswith("I.")]
     body_of = {cid: body for cid, _, body in chs}
-    inline = [c for c in bare if _names_in([body_of[c]])]
+    # ★★ THE EXCULPATORY BUCKET NEEDS A STRICTER GATE THAN THE ALARMING ONE.
+    # Found Day 187, drafting II.6, by asking the `--` line WHO it had found. It had found
+    # `Perspective` — our own prior volume, in the chapter's **Source:** line — and on that
+    # basis excused II.6 from rule 5 with the words "hygiene, not a rule-5 gap". Sixteen of
+    # the twenty-eight were excused the same way: by a field label (Source, Tier, Thesis), by
+    # a path (`atlas_entries_*.md`), or by one of OUR OWN house terms (the Ground, the Return,
+    # the Coherence Principle, the Null-Space Theorem). The book citing itself was being read
+    # as the book naming an ancestor, which is the precise inverse of what rule 5 is for.
+    # The general shape, and it is why this is filed as a lesson rather than a typo: the `!!`
+    # bucket errs toward ALARM and is therefore safe to build loosely — a false cry gets
+    # checked and dismissed. The `--` bucket errs toward SILENCE. A false exoneration is never
+    # checked by anyone, because nothing asks to be. So an exculpatory bucket must (a) gate
+    # harder than the accusing one and (b) SHOW ITS WORK — print the name it acquitted on, so
+    # the acquittal can be disagreed with. It could not, before this.
+    inline_names = {c: _outside_names(body_of[c]) for c in bare}
+    inline = [c for c in bare if inline_names[c]]
     unnamed = [c for c in bare if c not in inline]
     if inline:
         print(f"  -- {len(inline)} chapter(s) name their ancestor INLINE in the beats, not in the")
-        print(f"     field — hygiene, not a rule-5 gap: {', '.join(inline)}")
+        print(f"     field — hygiene, not a rule-5 gap. The name each was acquitted on:")
+        for c in inline:
+            print(f"        {c:8} {', '.join(sorted(inline_names[c]))}")
         print()
     if unnamed:
         print(f"  !! {len(unnamed)} chapter(s) have NO named ancestor or opponent anywhere —")

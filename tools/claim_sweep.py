@@ -319,6 +319,17 @@ EXEMPTIONS = [
     ("book/II-05-the-tunnel.md", "TERM/map", "the map is good insofar as",
      "Same sentence, second line — the wrap falls mid-clause. Own entry, per the standing rule that "
      "an exemption is a named line and never a paragraph."),
+    # --- Day 187, II.6. An exemption that PAYS DOWN an open queue item instead of buying silence.
+    ("book/II-06-coherence.md", "C15/trap5", "Union is not the erasure of the parts",
+     "★ A SECOND TRAP-5 GUARD, AND A BETTER ONE — arriving as a CONSEQUENCE rather than a caution. "
+     "This rule's own message says Trap 5 'springs in Book V, ten chapters after its only guard' "
+     "(`00` queue item 8): I.6's guard is a REFUSAL, and a refusal ten chapters back is exactly what "
+     "a reader in Book V will not remember. II.6's separation condition supplies a REASON — union is "
+     "not the erasure of the parts, because where the parts are erased there is one level left and "
+     "one level cannot cohere with anything. Trap 5 is now foreclosed by the definition of the "
+     "book's own core term rather than by a warning the reader has to carry. The rule fired on the "
+     "vocabulary because the guard cannot be built without it, which is the same shape as I.6:70's "
+     "exemption. → `00` queue item 8 is PART-PAID; it stays open for the Book V approach."),
 ]
 
 
