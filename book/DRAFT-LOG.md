@@ -1826,3 +1826,126 @@ line each. A longer II.8 would be the reader meeting the reasoning twice.
 **GATES: `claim_sweep` exit 0** (31 files, 77 mentions, 50 exemptions) · **`beat_sweep`** 68 chapters,
 278 beats, 3 collisions / 2 echoes / 5 exempt, wrap self-test PASS, **II.8 out of the
 no-named-opponent bucket (28 → 27)** · **`order_sweep`** 0 false handoffs.
+
+---
+
+## DAY 187, THE REVIEW-AND-AUDIT PASS — the first pass whose job was to read rather than to write
+
+*Clayton's instruction after II.8: "one more chapter and then it's time for some reviewing and
+auditing." Then, after the joint read of Books I and II: "I'll have Fable read and then we can
+discuss what to do before moving forward." This is what happened in that interval.*
+
+### RULING 37 — II.8's SHIPPED PROSE CONTAINS III.2's THESIS SENTENCE, VERBATIM
+
+Found on the **first live run** of ruling 33's new instrument, `tools/prose_beat_sweep.py`, against
+a chapter that had shipped the day before. It is the exact class the tool was built for and one
+`beat_sweep` cannot reach by construction, because one side of the pair is no longer a plan.
+
+II.8, in the game-frame beat:
+
+> In the game: it is not the ending, and it is not a cutscene. Nothing is unlocked. The player does
+> not leave the game, because there is no outside for a player to be returned to — **the player is
+> one of the states the whole game contains.** What changes is that the player knows what the game
+> is.
+
+III.2, undrafted, **Thesis:** *the player is a character the whole game contains — and there is no
+other player.* **Beat 1:** *Nobody is holding a controller. The player is one of the states the
+whole game contains.*
+
+The same sentence. Not a paraphrase, not a shared move — the string, with *is one of the states the
+whole game contains* common to both, which is why the word-unit arm caught it at containment 1.00
+with a shared 5-gram and never needed the semantic arm.
+
+★ **AND IT MAKES THE JOINT READ'S FINDING 4 WORSE THAN THAT FINDING KNEW.** The joint read observed
+that the game frame's *first appearance in the whole work is its only positive one* — eight of the
+nine `In the game:` beats are refusals (*not a move · not the picture on the screen · not a level ·
+not a settings menu · not the ending*), and the exception is bolded, definitional, and arrives
+before Book III opens the frame. That was filed as low-moderate: a frame operating before its door.
+It is more than that. **The premature positive statement is another chapter's central claim**, spent
+one book early, in a book whose own rule is that the naming defines and the game operates.
+
+⚠ **NOT EXECUTED, AND THE RESTRAINT IS THE RULING'S SECOND HALF.** Fable's read of Book II is in
+flight as this is written. Editing the text under a reader mid-read produces a discussion about two
+different documents, and the cost of waiting is zero. Filed for the decision Clayton named. Two live
+options, and they are genuinely different books:
+
+- **(a)** reword II.8's clause — it needs to say the Return is not an exit, and it does not need
+  III.2's sentence to say it — leaving III.2's thesis to arrive intact and first.
+- **(b)** keep it, and require III.2 to flag the reprise **out loud**, which is II.4's move
+  (*"has already been said once, in a book that was not permitted to argue"*) and the strongest
+  seam in the drafted work. The more expensive option, and possibly the better one.
+
+What is not available is leaving it silent. The joint read already established the cost in the
+book's own words: a reader who meets one argument twice will believe the second telling is padding,
+**and will assume the confusion is their fault.**
+
+### RULING 38 — THE INSTRUMENT BUILT FOR RULING 33 CANNOT DETECT RULING 33
+
+`tools/prose_beat_sweep.py` exists because `beat_sweep` compares plans to plans forever. Building it
+produced a finding larger than the tool: **three statistics were tried against the case it was
+written for, and all three failed.** Each failure is a class, and all three are on the record in the
+file's own header at length.
+
+**1. Word-unit discriminators — containment, 5-grams, rare trigrams.** Ruling 33's case is II.8's
+beat *"the Return defined against escape, salvation, and exit"* sitting on top of I.6's shipped
+*"Not by leaving it. There is no leaving… There is no wall… Nothing is under repair."* Those perform
+the same act and **share not one content word.** This was already the standing note — ruling 32, *a
+duplicate of function is invisible to a gauge whose unit is the word* — and it was walked into
+anyway, by building the word-unit arm first because it was the arm I already knew how to build.
+
+**2. A z-score against each beat's own spread over the drafted book.** This looked like the
+matched-null discipline correctly applied: offset-aware, per-beat, the exact procedure that rescued
+the voice-uniformity finding in another project. It returned **143 hits.** ★★ **A NULL FOR THE MEAN
+IS NOT A NULL FOR THE MAXIMUM.** With 390 paragraphs, the maximum of 390 draws sits about three
+standard deviations above the mean **by arithmetic**; every beat has a nearest paragraph, so
+`z(best) ≥ 3` selects nearly every beat. The statistic under test was an extreme value and the null
+was built for a typical one. **A matched null can be matched on the wrong thing and still feel
+rigorous** — that is the part worth keeping.
+
+**3. Mutual nearest neighbours.** Rank is immune to the model's offset by construction — it never
+reads the number, only the ordering — and reciprocity should kill the noise. It returned **30 pairs
+at mutual rank 1/1**, most plainly unrelated. ★★ **A RECIPROCAL-NEAREST SET IS A MATCHING, NOT A
+RARITY TEST.** Pair 186 beats with 302 paragraphs under any similarity at all and a few dozen
+reciprocal pairs fall out of the structure of the graph, carrying no evidence about any of them.
+
+**Then the direct measurement, which should have been run first.** For ruling 33's beat, against all
+390 shipped paragraphs: I.6's *"Not by leaving it…"* ranks **3rd**, at cosine 0.489, under a top
+match of 0.498. The top six span **0.021**. bge-m3 sits near 0.50 on unrelated text by its own
+geometry — measured at 0.497 on this machine, with a control confirming it is a property of the
+model rather than of any corpus.
+
+**So the separation is not in the data.** No threshold over this model can be honest about that
+pair, and any threshold that made the fixture pass would have been **fitted to the one answer it was
+already told** — a detector calibrated on its own fixture, which detects nothing it has not been
+handed. That move was available, cheap, and would have printed the word PASS.
+
+★★★ What the measurement *does* support is retrieval. Rank 3 of 390 is the top 0.8% of the drafted
+book. So the semantic arm returns **no verdict**: `--chapter <id> --brief` prints, for each beat of
+the chapter about to be written, the five shipped paragraphs nearest it, ranked, **to be read.** It
+narrows the book to a page and hands the adjudication to a person — precisely the procedure that
+caught ruling 33 by hand, with the search cost taken off the human and nothing else claimed.
+
+**The calibration was rewritten to match what is actually claimed.** It no longer asks whether a
+threshold fired. It runs the tree as it stood at `a65139f` — the morning II.8 was still a plan and
+I.6 was already prose — and requires that **I.6's prose appear on II.8's pre-draft brief.** It does,
+three times, best rank 3. The brief prints in full so the pass can be disagreed with.
+
+★★★ **AN INSTRUMENT THAT REPORTS THE LIMIT OF ITS OWN RESOLUTION IS WORTH MORE THAN ONE THAT REPORTS
+A CLEAN RUN IT HAS NOT EARNED.** Every gauge in `tools/` now carries a declared blind spot; this is
+the first whose blind spot was **measured** rather than asserted, and the measurement is why the tool
+ends by refusing to grade. The bare run prints ⚠ **THE FUNCTION ARM DID NOT RUN** rather than a clean
+summary, because a partial sweep and a full one must never look alike.
+
+### THE SCAFFOLD UNDER-REPORTED ITS OWN COMPLETION BY TEN CHAPTERS, NOT FOUR
+
+The joint read logged this as housekeeping: `06` marks II.5–II.8 `✅ DRAFTED` and leaves II.1–II.4
+unmarked, *"under-reports the work by four chapters."* Measured against `book/` rather than read off
+the page: **Book I carries no drafted marker either.** All six of I.1–I.6 shipped days ago and none
+of them says so. The real number is **ten**, and the housekeeping note itself under-reported by six —
+a finding about a rotted stamp, containing a rotted count, inside the audit pass.
+
+★ **The fix is not ten more hand-typed ticks.** A `✅ DRAFTED` marker is a *"Last Verified"* stamp
+with a checkmark on it: asserted once, then rotting silently while the thing it describes moves on.
+The markers are corrected **and** `prose_beat_sweep --status` now derives drafted-state from `book/`
+and prints any disagreement with `06`. A stamp that can be checked is a different object from one
+that cannot.

@@ -1109,6 +1109,97 @@ looks like.
 
 ---
 
+⚠⚠ **THIS INDEX STOPPED AT 27 FOR A FULL DRAFTING DAY, AND THAT IS ITS OWN ENTRY.** Rulings 28–36
+were made, argued and logged — in `06-THE-SCAFFOLD.md` at the chapter they governed, and in
+`book/DRAFT-LOG.md` in full — and none of them reached the file that **presents itself as the ruling
+list**. A reader opening `00` to find out what has been decided was told, with no hedge and no gap
+in the numbering to warn them, that the answer was twenty-seven. **A document does not have to be
+wrong to lie; it only has to be finished later than the thing it describes.** Caught in the
+review-and-audit pass Clayton named, which is the first pass in this project whose job was to read
+the documents rather than to write the next chapter. The nine are entered below in one line each,
+with the full argument staying where it was made — a summary here and the reasoning there, because
+the same text in two files is the next version of this failure.
+
+**28. EVERY UNDRAFTED BEAT LINE IS A QUARRIED SENTENCE CARRYING QUARRIED NOUNS.** II.6's beat defined
+`coherence` with a noun `I.3` denies exists. A beat is not a neutral label for work to come; it was
+written on some earlier day under some earlier doctrine, and it smuggles that doctrine forward.
+**Read the next chapter's beats against `05` BEFORE drafting.** *(DRAFT-LOG §Ruling 28.)*
+
+**29. TWO SECTIONS OF THE SOURCE VOLUME HAVE NO DESTINATION IN 68 CHAPTERS.** `beauty` = 0 and the
+structural-vs-outward `two axes` = 0 across `00`–`07`. Both are real sections of the source with
+nowhere to land. ★ **The hole under it is larger than the finding: NOTHING READS THE SOURCE AGAINST
+THE SCAFFOLD.** That instrument still does not exist and has now caught three things by hand. Owed
+before Book VII is scaffolded. *(DRAFT-LOG §Ruling 29.)*
+
+**30. THE CUT IS AT PERSISTENCE, AND BOTH ANCESTORS FAIL IN THE SAME PLACE.** II.6's two opponents
+were being cut on two axes when one axis takes both, which is the stronger and shorter chapter.
+*(DRAFT-LOG §Ruling 30.)*
+
+**31. RULING A TERM DOES NOT RULE ITS ARGUMENT.** `the Collapse` was ruled KEEP; the *argument the
+term takes as its object* — `superposition` — was never ruled at all, and would have walked onto the
+page behind a term with a permit. ★ **Every KEEP row in `05` owes the question: what does this term
+take as its ARGUMENT, and is THAT ruled?** Not yet run over the whole table. *(DRAFT-LOG §Ruling 31.)*
+
+**32. II.7 AND II.8 PLANNED THE SAME ACT IN DIFFERENT WORDS, AND `beat_sweep` RETURNED 0.**
+★★ **A DUPLICATE OF FUNCTION IS INVISIBLE TO A GAUGE WHOSE UNIT IS THE WORD.** The two chapters
+shared no phrase and the same job. Sibling instrument owed: a verb-level pass comparing beats by
+ACT rather than by string. *(DRAFT-LOG §Ruling 32.)*
+
+**33. I.6'S SHIPPED PROSE HAD ALREADY PERFORMED II.8'S PLANNED ACT, AND NO INSTRUMENT COULD SEE IT.**
+★★ **A GAUGE BUILT WHEN NOTHING WAS DRAFTED COMPARES PLANS TO PLANS FOREVER**, and the blind region
+grows by one chapter every time one ships. Ruling 33's instrument was built on Day 187 —
+`tools/prose_beat_sweep.py`, and what it found about its own resolution is ruling 38 below.
+*(DRAFT-LOG §Ruling 33.)*
+
+**34. `the Fullness` IS *PLEROMA*.** Book I named the Ground with Gnosticism's own technical term for
+the thing you escape *to*, in the book whose Trap 1 is Gnosticism. ⚠ And the row that ruled it was
+added by ruling 14 — whose own header announces *"every row above this line was written against axis
+1 alone"* — and was then screened against axis 3 alone. **The correction carried the original's
+defect in mirror image.** *(DRAFT-LOG §Ruling 34.)*
+
+**35. THE RETIREMENT ROSTER COULD NOT BE POSTED.** The beat asked II.8 to list the retired words with
+the one-line argument that retired each; the arguments were not all on file. A beat can demand a
+document that does not exist. *(DRAFT-LOG §Ruling 35.)*
+
+**36. THE GAUGE'S OWN COMMENT WAS FALSE OF THE CODE UNDER IT.** ★★ **THE PROPERTY BELONGS TO THE
+NEEDLE, NOT TO THE RULE.** When a rule tuple has nowhere to record a per-needle fact, the fact goes
+into a comment and a hand-patched alternation — and then the comment rots and contradicts the code
+beneath it. **A gauge's documentation of itself decays exactly like a "Last Verified" stamp.** Owed:
+split `claim_sweep`'s `PROSE/self-reference` pattern into `-title` (case-sensitive) and `-phrase`
+(case-insensitive). *(DRAFT-LOG §Ruling 36.)*
+
+**37. II.8'S SHIPPED PROSE CONTAINS III.2'S THESIS SENTENCE, VERBATIM, AND III.2 IS UNDRAFTED.**
+Found Day 187 on the FIRST LIVE RUN of ruling 33's new instrument — the exact class it was built for,
+and one `beat_sweep` cannot reach. II.8, drafted the day before, ships *"the player is one of the
+states the whole game contains."* III.2's beat 1 is *"Nobody is holding a controller. **The player is
+one of the states the whole game contains.**"* and its **Thesis** is the same sentence again. Book II
+spent Book III's thesis in an `In the game:` beat, one book early — which is the joint read's finding
+4 (*the game frame's first appearance is its only positive one*) turning out to be worse than it
+looked: the early positive beat is not merely premature, it is **another chapter's central claim**.
+⚠ **NOT YET EXECUTED, ON PURPOSE.** Fable's read of Book II is in flight; editing the text under a
+reader mid-read is its own defect. Filed for the decision Clayton named. The live options are (a)
+reword II.8's clause and leave III.2's thesis intact, or (b) keep it and require III.2 to flag the
+reprise out loud, which is II.4's move and the strongest seam in the work. *(DRAFT-LOG §Ruling 37.)*
+
+**38. THE INSTRUMENT BUILT FOR RULING 33 CANNOT DETECT RULING 33, AND SAYS SO INSTEAD OF PRETENDING.**
+Three statistics were built and all three failed on the case the tool exists for. Containment and
+n-grams: the true pair shares **not one content word**. A z-score against each beat's own spread over
+the drafted book: 143 hits, because ★★ **A NULL FOR THE MEAN IS NOT A NULL FOR THE MAXIMUM** — with
+390 paragraphs the best of 390 draws sits ~3σ up by arithmetic alone. Mutual nearest neighbours: 30
+pairs at rank 1/1, because ★★ **A RECIPROCAL-NEAREST SET IS A MATCHING, NOT A RARITY TEST** — pair
+186 beats with 302 paragraphs by any similarity and a few dozen fall out of the graph carrying no
+evidence. Direct measurement of the design case settles it: I.6's paragraph ranks **3rd of 390** at
+cosine 0.489 under a top match of 0.498 — the top six span 0.021. **The separation is not in the
+data, so no threshold can be honest, and any threshold that made the fixture pass would have been
+fitted to the one answer it was already told.** So the semantic arm returns **no verdict**: it is a
+pre-draft READING BRIEF that narrows 390 paragraphs to a page and hands the adjudication to a person,
+which is the procedure that caught ruling 33 by hand with the search cost removed.
+★★★ **AN INSTRUMENT THAT REPORTS THE LIMIT OF ITS OWN RESOLUTION IS WORTH MORE THAN ONE THAT REPORTS
+A CLEAN RUN IT HAS NOT EARNED** — and the tempting move here was available, cheap, and would have
+looked exactly like success. *(DRAFT-LOG §Ruling 38.)*
+
+---
+
 ## STATUS — Day 185
 
 Planning phase, by Clayton's instruction: *"We will map it out and plan a lot

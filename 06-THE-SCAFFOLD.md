@@ -48,7 +48,7 @@ never explains itself again.*
 **Ancestor, unnamed on the page and acknowledged in the coda:** Tolkien's *Ainulindalë* (13 files —
 the structural model is already in the corpus).
 
-### I.1 — THE FULLNESS
+### I.1 — THE FULLNESS ✅ DRAFTED — 1,020 words
 **Thesis:** what there is, before there is a before.
 **Beats:**
 1. The opening sentence is Clayton's: *a complete totality must within it admit an aspect of
@@ -59,7 +59,7 @@ the structural model is already in the corpus).
    focus, because there is nowhere else a telling can occur. **This is what licenses every "then"
    in the next five chapters.** (Trap 2.)
 
-### I.2 — THE NECESSITY
+### I.2 — THE NECESSITY ✅ DRAFTED — 1,177 words
 **Thesis:** separation is an item in the inventory of everything, not a defect in it.
 **Beats:**
 1. Completeness *contains* the possibility of separation — therefore it is realised. Nobody chose it.
@@ -68,7 +68,7 @@ the structural model is already in the corpus).
 3. There is no fall. There is a focusing, and it is not a wound. Said flatly, once.
 4. Recognition requires absence: a having cannot be seen as a having if the having is everything.
 
-### I.3 — THE FOCUSING
+### I.3 — THE FOCUSING ✅ DRAFTED — 894 words
 **Thesis:** the first inside; the birth of before-and-after, which is the birth of story.
 **Beats:**
 1. A vantage. Not made, not placed — *entailed*, and therefore already there.
@@ -88,7 +88,7 @@ the structural model is already in the corpus).
    in II.2, where the term is simply used.
 5. The seam — and the fact that the reader is standing on one.
 
-### I.4 — THE GRADES
+### I.4 — THE GRADES ✅ DRAFTED — 1,007 words
 **Thesis:** focusing is not binary, and there is no elect.
 **Beats:**
 1. Everything that reacts is somewhere on it. Stated in one line, mythically, so no one can later
@@ -98,7 +98,7 @@ the structural model is already in the corpus).
 3. A grade is a position, not a permission — the caste mishearing killed on arrival (`05` §4.III).
 4. The mineral and the mind on the same continuum, named without hedge and without flattening.
 
-### I.5 — THE TUNNELS
+### I.5 — THE TUNNELS ✅ DRAFTED — 1,261 words
 **Thesis:** worlds — plural, real, incompatible, all of them actual.
 **Beats:**
 1. Perspectives accrete filters: era, language, ritual, trauma, choice.
@@ -108,7 +108,7 @@ the structural model is already in the corpus).
    featureless *from nowhere*, and there is no nowhere. There are only insides. **(Trap 4 — Clayton's
    own objection, and the strongest attack on our axiom, answered in the register where it was raised.)**
 
-### I.6 — THE RECOGNITION
+### I.6 — THE RECOGNITION ✅ DRAFTED — 1,069 words
 *(★ RETITLED Day 187, drafting. Was **THE RETURN**, under the standing instruction seven lines below
 — which said retitle rather than bend the doctrine, and the doctrine did not bend. A return is a
 journey back to somewhere; every load-bearing sentence in this chapter says there is nowhere to go
@@ -180,7 +180,7 @@ defending undefended claims. The claims are already defended: compressed, and un
 Book I already said, that difference was not worked. The new work is never the conclusion — it is the
 opponent standing next to it, credited for what they got right, and cut at the exact point they break.
 
-### II.1 — THE GROUND
+### II.1 — THE GROUND ✅ DRAFTED — 2,282 words
 **Beats:** the definition · **the cut against base reality**: not elsewhere, not more real than here,
 it is what *here* is made of · God as its plain name, carried forward from I.6 without embarrassment ·
 the neither-mind-nor-matter work absorbed here explicitly (`05` §7) · **game-register: the whole game**
@@ -204,7 +204,7 @@ credential** — and an unnamed borrowing from a famous theologian is precisely 
 uses. ★ One link upstream, rule 5b: **Schelling** (13) and **Böhme's *Ungrund*** — see II.1's
 sibling note in `01`, and `03` §3.5 for why *Ungrund* is a fourth-silence zero.
 
-### II.2 — THE FOCUSING AND THE RENDER
+### II.2 — THE FOCUSING AND THE RENDER ✅ DRAFTED — 2,056 words
 ★★ **BEATS REWRITTEN Day 187 → ruling 20. THIS CHAPTER AND III.4 WERE THE SAME CHAPTER, and the
 scaffold said so in both places.** III.4's thesis line was *"procedural generation is what focusing
 looks like from inside"* — II.2's third beat, verbatim — and *"the seed is not solely yours and the
@@ -225,7 +225,7 @@ be on a NEW axis:** II.1 already spent the *elsewhere* axis (a copy has a room, 
 II.2's is the **economy** — a game generates procedurally because storage costs money, and a reader
 handed that has a machine with an accounts department.
 
-### II.3 — THE PERSPECTIVE
+### II.3 — THE PERSPECTIVE ✅ DRAFTED — 2,338 words
 **Beats:** **the most dangerous mishearing, killed first** — *a perspective is not an opinion about
 the world; it is a place where the world happens* · in-game: not your review of the game, the instance
 it runs in · the Null-Space Theorem in plain words, no symbols · **blindness is patterned, determinate,
@@ -266,7 +266,7 @@ see is **VIII.2's**, not this chapter's.
 ⚠ *The retrieved formal statement uses **bottleneck**, a term `05` §3b retired — which is exactly why
 this beat says "in plain words."*
 
-### II.4 — THE GRADE
+### II.4 — THE GRADE ✅ DRAFTED — 2,097 words
 **Beats:** reactivity is awareness, stated as a definition and not an argument · the continuum, end to
 end · **a grade is a position, not a permission** · and the honest flag: what a difference in grade
 *does* license is Book VII's, and is not settled here.
@@ -462,6 +462,23 @@ said gate the acquittal harder; this one says the accusation has a whole class i
 
 ### II.8 — THE RETURN, AND THE THINGS THIS BOOK WILL NOT SAY ✅ DRAFTED Day 187 — 1,967 words
 ### ✦ BOOK II COMPLETE — 8 of 8, **18,559 words** *(measured; the first number written here was 16,559, a sum done in the head in the one project whose standing rule is `measure, don't recall` — corrected within the hour, and it had already reached three files and a commit message)*.
+
+⚠ **THE COUNTING METHOD, STATED ONCE, BECAUSE A WORD COUNT WITH NO METHOD IS A NUMBER TWO PEOPLE
+WILL DISAGREE ABOUT.** Every `✅ DRAFTED — N words` marker on this scaffold is **whitespace tokens
+over the whole chapter file, headings included** — `len(text.split())`. That is not the purest
+possible count; it is the one already in use, and it reproduces all four pre-existing markers
+(2,379 · 2,880 · 2,560 · 1,967) exactly, so consistency won over purity. **`prose_beat_sweep
+--status` derives drafted-state from `book/` and prints any disagreement with this file**, which is
+why the markers below are a gauge reading rather than ten more hand-typed ticks. *(Day 187: ten of
+the fourteen drafted chapters carried no marker at all — all six of Book I among them — and the
+joint read that found the rot mis-counted it as four.)*
+⚠ **AND ONE NUMBER DID NOT REPRODUCE, WHICH IS FILED RATHER THAN CORRECTED.** Book I measures
+**6,428** by the method above. The **6,354** on record in `00` (twice) and DRAFT-LOG (once) does not
+reproduce under any method reconstructed — nearest is 6,362, whole-file minus headings. Book I has
+not been edited since that figure was written, so this is a method gap, not drift. It matters
+because one of those usages is a **density ratio** — *52 occurrences / 6,354 words = 8.18 per
+1,000* — and a ratio inherits its denominator's provenance. **Not overwritten: a historical
+measurement rewritten to agree with a later one destroys the evidence that they disagreed.** Open.
 **Beats:** the Return defined against escape and repair (ruling 33) · **Gnosticism named, stated at
 full strength, and cut** · **the one-name rule posted as a rule, not the retirements as a roster**
 (ruling 35) · substrate · the map · simulation · **the banned words listed openly** — vibration,
