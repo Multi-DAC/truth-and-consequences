@@ -122,6 +122,24 @@ allf = load(list(walk_all()))
 print(f"CORPUS: {len(live)} .md files (archives EXCLUDED) / {len(allf)} (archives INCLUDED)")
 print(f"ROOT  : {ROOT}\n")
 
+# AD-HOC COUNT, same contract. Added Day 187 while scaffolding II.3, because the alternative
+# was a shell one-liner and this file's own docstring records what those do: mis-escape,
+# fail silently, and agree with you. A count taken any other way is not comparable to the
+# counts already in `03` and `04`, and every number in this book is supposed to be.
+#     python tools/ancestor_sweep.py --terms "Protagoras,perspectivism,Ortega y Gasset"
+if "--terms" in sys.argv:
+    raw = sys.argv[sys.argv.index("--terms") + 1]
+    ad_hoc = [t.strip() for t in raw.split(",") if t.strip()]
+    print(f"\n=== AD HOC ({len(ad_hoc)} terms) ===")
+    rows = [(sum(t.lower() in d for d in live), sum(t.lower() in d for d in allf), t)
+            for t in ad_hoc]
+    for a, b, t in sorted(rows):
+        flag = "  <<< ZERO" if b == 0 else ("  << thin" if b <= 3 else "")
+        print(f"  {a:5d} excl / {b:5d} incl   {t}{flag}")
+    print("\n  REMINDER: a grep for a NAME is not a grep for an IDEA. A zero is evidence of")
+    print("  an unnamed ancestor; a nonzero is NOT evidence the doctrine is engaged.")
+    sys.exit(0)
+
 for group, terms in TERMS.items():
     print(f"\n=== {group} ===")
     rows = []

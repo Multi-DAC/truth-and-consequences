@@ -80,6 +80,12 @@ EXEMPT = {
                       "era scale. The shared vocabulary is the handoff working.",
     ("II.5", "III.6"): "designed, ruling 20's boundary: II.5 defines the reality tunnel, "
                        "III.6 runs it as the filter stack.",
+    ("II.3", "III.1"): "ruling 24, ADJUDICATED: the DEFINITION is II.3's and the FORK is III.1's. "
+                       "II.3 states what a perspective is and stops; Bostrom is not named in it. "
+                       "III.1 owns 'every consequence in Part Two forks here'.",
+    ("II.3", "VII.4"): "ruling 24, ADJUDICATED: II.3 states the Null-Space Theorem universally and "
+                       "exceptionlessly BECAUSE VII.4 turns it on the contractive terminal doctrine "
+                       "— 'no grade buys an exemption' is written for VII.4 six books early.",
     ("II.2", "III.4"): "ruling 20, ADJUDICATED: II.2 drafted as the definitional half and keeps "
                        "the seed formula; III.4 keeps the from-inside identity thesis and is ON "
                        "NOTICE for absorption into III.3 when Book III is drafted.",
@@ -153,6 +159,12 @@ def _names_in(chunks):
     for raw in chunks:
         chunk = re.sub(r"\*\(.*?\)\*", " ", raw)
         chunk = re.sub(r"\([^)]*\)", " ", chunk)
+        # NEGATED NAMINGS. Found Day 187 by the gauge printing "Bostrom cut in 2: II.1, II.3"
+        # off II.3's own boundary note, which says *"II.3 does not name Bostrom."* A negation
+        # read as an assertion — and a false line that prints every run is the boot-banner
+        # failure again. Narrow: a name inside a does-not-name clause is not a naming.
+        chunk = re.sub(r"(?:does not name|is not named|never named|not named in|unnamed)"
+                       r"[^.·]{0,60}", " ", chunk, flags=re.IGNORECASE)
         for tok in re.findall(r"[A-Z][a-zà-ÿ]{3,}(?:\s+[A-Z][a-zà-ÿ]{3,})?|`[^`]+`", chunk):
             t = tok.strip("` ")
             # drop sentence-initial prose capitals that are not names

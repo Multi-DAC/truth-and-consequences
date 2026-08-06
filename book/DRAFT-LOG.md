@@ -934,3 +934,124 @@ exactly the excuse a gauge exists to refuse, so it is written down as owed rathe
 the distinguishing read has not been done.**
 
 **Sweep: exit 0, no USE-class hits, 25 files, 36 exemptions in force.**
+
+---
+
+## II.3 — THE PERSPECTIVE · drafted Day 187 · 2,327 words
+
+**The gate came first and it was not a formality.** The handoff forbade opening this chapter until
+ruling 20's beat-level duplicate check existed, because II.2 had collided with III.4 and the
+collision was caught by a person with two sections of `06` open at once. `tools/beat_sweep.py` is
+that check — ruling 22 — and the thing worth keeping from building it is that **its first two
+discriminators would have passed II.3.**
+
+II.3's headline sentence is *"a place where the world happens."* III.1 beat 4 says *"the place a
+world happens."* Same move, nine words apart. Jaccard: **0.14.** Shared 5-gram: none, because only
+three content words survive normalisation. **The instrument's own preprocessing was hiding the
+needle** — the hard-wrap defect one level up, in a tool written the same week the hard-wrap defect
+was fixed. The third discriminator, a content-word trigram appearing in exactly two chapters, is what
+found it, and the tool is calibrated against `--fixture e51e6dd` so that a clean run means something.
+
+### THE GATE'S TWO ANSWERS, both now EXEMPT pairs with their ruling attached
+
+**II.3 ~ III.1 — the definition is here, the fork is there.** This chapter states what a perspective
+is and stops. **Bostrom is not named in it at all**, and the his-frame/our-frame contrast — *every
+consequence in Part Two forks here* — is III.1's whole job. That is the II.2/III.4 error caught one
+chapter before it happened rather than one book after.
+
+**II.3 ~ VII.4 — the theorem had to be written for a chapter six books away.** VII.4 turns the
+Null-Space Theorem on the contractive terminal doctrine (*I am the totality; nothing is not mine*)
+and needs it **universal and exceptionless** or it has no argument. So the statement on the page is:
+*no grade buys an exemption. No amount of intelligence, no discipline, no scale, no holiness.*
+
+### THE OPPONENT LINE WAS A MIS-CITATION — ruling 23
+
+`06` said **Named:** *"it's all just perspective"* — **opponent X.** Opponent X in `04` §4 is **"make
+your own meaning" — absurdism as a failed prior.** `05` §4.I says the mishearing *lands the reader
+in* opponent X. **The mishearing is the road; opponent X is the destination**, and `06` had
+compressed one into the other — leaving the chapter with a slogan and nobody standing on it, in the
+one book whose entire method is that the opponent is the word's current owner.
+
+Replaced by measurement. **Protagoras 0 · Ortega y Gasset 0 · Nagel 95, `view from nowhere` 75.**
+
+### THE FOUR CUTS
+
+1. **Protagoras** — *man is the measure*, the mishearing in its original and strongest form, and
+   right twenty-four centuries early about the part that matters most: **there is no report from
+   nobody.** Cut at ***measure***: a measure judges, which makes each person the arbiter of what is
+   the case, and an arbiter is somebody with an opinion who is entitled to it. Plato's
+   self-refutation objection is taken head-on rather than dodged, because the reader who knows it is
+   waiting to spring it: **we do not claim every opinion is true. We claim opinions are not what
+   perspectives are.** What arrives at a place is not a judgement and cannot be right or wrong; the
+   opinions you form about it are checkable and most of them are wrong. *"Nothing in this chapter
+   protects a single one of them."*
+2. **Edme Mariotte, 1668** — this chapter's Uexküll, and for the same reason: **a measurement, not a
+   metaphor.** He found the blind spot **in the anatomy first** — the optic nerve does not enter at
+   the centre of the fundus, so there must be a patch of retina with nothing on it — and only then
+   built the demonstration that makes it show. Three properties, and together they are the whole
+   answer to relativism: **determinate** (six degrees, toward the nose), **mappable from outside**
+   (he knew where it was before he ever caught it happening), and **from inside not an absence at
+   all** (no hole, no ragged edge — the world arrives seamless). ⚠ **Checked, and the check earned
+   its keep: there is no demonstration to Charles II.** It was about to go on the page from recall.
+3. **Ortega y Gasset**, 1923 — the nearest ally, who named the doctrine and had this chapter's
+   thesis a century early: a perspective is **not a deformation of reality but a component of it**,
+   said into the teeth of a century that thought objectivity meant subtracting the one who looks.
+   Cut at the **sum**: his absolute truth is the articulation of all perspectives, carefully held as
+   incomplete by definition. **A sum of perspectives is not a perspective.** Put two places together
+   and you get an abstraction that is nobody's and is had from nowhere.
+   ★ **The repetition is named on the page instead of being allowed to pass as coincidence.** II.2
+   took the *Umgebung* off a biologist; II.3 takes the sum off a philosopher. **Both are a room
+   outside all the rooms** — and the point of saying so is that *nobody adopts that room on purpose*.
+   It arrives as bookkeeping, because the totals have to go somewhere, and it is load-bearing before
+   anyone has decided to believe it.
+4. **Nagel**, *The View from Nowhere*, 1986 — the most careful modern version, 95 files in the
+   corpus, **never once cut**. Credited at full strength: he is not naive, the book's honesty is its
+   subject, and he never claims the direction terminates. Cut at one word — ***direction***.
+   Stepping back is not movement toward a view from nowhere, it is movement to another place, with
+   its own null space. **Physics is not less perspectival than birdwatching**; it is a differently
+   shaped place whose reach was bought with its blindness rather than in spite of it. The gain is a
+   **trade**, not an approach to a limit. *"You converge on no view, and there is nothing it is like
+   to be nowhere."*
+
+★ **Nietzsche was considered and declined** — recorded because a declined name is a decision. *There
+are no facts, only interpretations* is the slogan's most-quoted source, but he was spent one chapter
+earlier on the doer-behind-the-deed, and **the reader who says "it's all just perspective" has almost
+never read him.** Rescuing him from the misquotation is a fifth move in a chapter that has four.
+
+### THE THEOREM, IN PLAIN WORDS
+
+The retrieved formal statement runs: *for any perspectival act there exists a non-empty class of
+configuration-space distinctions structurally inaccessible from that act's bottleneck geometry,
+eliminated not by refinement but only by complementary modalities.* **It uses `bottleneck`, which
+`05` §3b retired** — which is precisely why the beat says *in plain words, no symbols*. On the page
+it is: every perspective has a shape; because it has a shape there are distinctions it cannot
+register; no refinement from inside ever reaches them, and **the only thing that does is a
+differently shaped perspective — one that is blind somewhere else.**
+
+**And the last beat is the one that changes how the rest of the book reads.** A null space is not
+damage to be minimised. *A perspective is a **this** rather than an **anything** precisely because
+some things arrive at it and others cannot; the arriving and the not-arriving are one specification,
+not two.* Remove the blindness and you have not improved a perspective, you have removed one — what
+is left, registering everything from nowhere in particular, is the Ground, which is complete and has
+no vantage. **That is not an achievement to work toward. It is what there was before there was
+anywhere to be.**
+
+### WHAT THE GAUGES SAID
+
+**Sweep: exit 0, no USE-class hits.** Order sweep: 0 false handoffs. Beat sweep: 0 collisions, 2
+adjudicated exempt pairs. Calibration: II.2 ~ III.4 reproduces at rank 1.
+
+★ **LITANY DENSITY: 2.14/1k — the lowest of any chapter drafted, against II.2's 6.81 and Book I's
+6.71–10.29.** This is the movement ruling 15 asked to be watched, in the welcome direction, and it
+is **evidence on II.2's open question rather than a victory lap.** The hypothesis logged for II.2 was
+that its spike came from *definition by subtraction* — no scene file, no camera, no budget, no
+*Umgebung* — which the raw counter cannot tell apart from apophasis about the Ground. II.3 defines by
+**positive cut against a named owner** far more than by subtraction, and the rate fell by two thirds.
+That is consistent with the hypothesis and does not establish it. **The distinguishing read is still
+owed and is still not done.**
+
+⚠ **A gauge printed a false line and it was fixed rather than tolerated.** The named-opponent check
+reported *"Bostrom cut in 2: II.1, II.3"* — read straight off this chapter's own boundary note, which
+says **"II.3 does not name Bostrom."** A negation counted as an assertion. Narrow negation filter
+added, because **a false line that prints on every run is how a gauge stops being read** — the same
+lesson as the 56-of-68 miscount two hours earlier, and as the boot-banner WARN that nobody reads.

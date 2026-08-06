@@ -231,8 +231,40 @@ the world; it is a place where the world happens* · in-game: not your review of
 it runs in · the Null-Space Theorem in plain words, no symbols · **blindness is patterned, determinate,
 and mappable from outside** — which is exactly why this is not relativism · what you cannot see is
 constitutive of who you are.
-**Named:** *"it's all just perspective"* — opponent X, and the reader's likeliest current position.
+
+★★ **NAMED LINE REPLACED Day 187 → ruling 23. The old one was a mis-citation and it left the chapter
+with no owner.** It read *"it's all just perspective" — opponent X*. **Opponent X (`04` §4) is "MAKE
+YOUR OWN MEANING" — absurdism as a failed prior.** `05` §4.I says the mishearing *lands the reader in*
+opponent X: the mishearing is the **road**, opponent X is the **destination**, and this line
+compressed one into the other. What was left was a slogan with nobody standing on it, in the one book
+whose method is that the opponent is the word's **current owner**.
+**Named:** ★ **Protagoras — 0 files corpus-wide.** *Man is the measure* — the mishearing in its
+original and strongest form, and right about the part that matters most (there is no report from
+nobody) twenty-four centuries early. **Cut at the word *measure*:** a measure judges, which makes
+each person the arbiter of what is the case. Take Plato's self-refutation objection head-on — **ours
+does not have that shape, because we do not claim every opinion is true; we claim opinions are not
+what perspectives are.** · ★ **Ortega y Gasset — 0**, 1923, *El tema de nuestro tiempo*: gave
+perspectivism its name and had this chapter's thesis a century early — a perspective is not a
+deformation of reality but a **component** of it. **Cut at the sum**: his absolute truth is the
+articulation of all perspectives, and a sum of perspectives is not a perspective. ⚠ *That is the same
+error II.2 took off Uexküll (the Umgebung) — **name the repetition on the page** rather than let it
+pass as coincidence: both are a room outside all the rooms, and nobody adopts it on purpose.* · ★
+**Thomas Nagel — 95 files, `view from nowhere` 75**, the most careful modern version and never cut.
+**Cut at one word — *direction*.** See ruling 24: he is named again at VII.1 on death, and the axes
+are declared in advance.
+**The measurement, not a metaphor** *(the II.2/Uexküll slot)*: **Edme Mariotte, 1668**, *Nouvelle
+découverte touchant la veüe* — he found the blind spot **in the anatomy first** (the optic nerve does
+not enter at the centre of the fundus) and then built the demonstration to make it show. Determinate,
+mappable from outside, and from inside not an absence at all. ⚠ *Checked Day 187: there is no Charles
+II demonstration — it was about to go on the page from recall.*
+⚠ **BOUNDARY, ruling 24, both directions:** the definition is II.3's and **the fork is III.1's** —
+II.3 does not name Bostrom and does not run the his-frame/our-frame contrast. And the Null-Space
+Theorem must be stated **universally and exceptionlessly**, because VII.4 turns it on the contractive
+terminal doctrine and loses its argument without that. The practice of finding a blindness you cannot
+see is **VIII.2's**, not this chapter's.
 **Source:** `Perspective` 09-back-matter, arguments-in-brief (the theorem is already in plain prose).
+⚠ *The retrieved formal statement uses **bottleneck**, a term `05` §3b retired — which is exactly why
+this beat says "in plain words."*
 
 ### II.4 — THE GRADE
 **Beats:** reactivity is awareness, stated as a definition and not an argument · the continuum, end to

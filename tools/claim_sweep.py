@@ -221,6 +221,12 @@ EXEMPTIONS = [
     ("00-ARCHITECTURE.md", "TERM/narrowing", "13. THE NARROWING",
      "Same: the heading of ruling 13's index entry. Added when the case hole above was closed "
      "and this line started firing for the first time — which is the fix working."),
+    ("book/DRAFT-LOG.md", "TERM/bottleneck", "bottleneck geometry",
+     "★ Day 187, II.3. The log quoting the Null-Space Theorem's RETRIEVED FORMAL STATEMENT, which "
+     "uses the retired term — in the sentence whose entire point is that it does, and that this is "
+     "why II.3's beat says 'in plain words'. Tidying the quotation into current vocabulary would "
+     "destroy the evidence for the ruling it is evidence for. Own line, per the standing "
+     "instruction on the DRAFT-LOG entry above; not a widening of it."),
     # --- Day 187: three fresh lines, per the standing instruction on the entry above.
     # Not a widening of it. All three are the log QUOTING the prose whose guard it records.
     ("book/DRAFT-LOG.md", "C15/trap5", "Dissolving, merging, the drop going back to the sea",

@@ -897,6 +897,78 @@ change the constant and the manuscript in one commit. **Current order: 0 false h
 whole forward-dependency class in item 3, are invisible to it. **Item 3 needs a reader. The gauge
 retires the class of defect that was found by luck twice, not the one that has never been checked.**
 
+**22. RULING 20'S DETECTOR IS BUILT — `tools/beat_sweep.py` — AND IT IS CALIBRATED, NOT MERELY
+CLEAN.** Day 187, before II.3. The II.2/III.4 collision was caught by a person who happened to have
+two sections of `06` open at once. That is luck with good note-taking, and it is the third time this
+book has been saved by it.
+
+The build rule that matters: **a detector for a defect already fixed everywhere it occurred has never
+detected anything.** So `--fixture e51e6dd` runs it against the pre-ruling-20 scaffold from git and
+**requires** II.2 ~ III.4 to reproduce; it comes back rank 1 of 8, on both its tells. That is the
+only reason a clean run means anything.
+
+★ **It took three discriminators, and the first two would have passed II.3.** Jaccard caught the
+verbatim thesis at 1.00; a shared 5-gram caught the quoted sentence. Neither could reach the case
+that mattered on the day it was built — **II.3's *"a place where the world happens"* against III.1's
+*"the place a world happens."*** Same move, nine words apart, 0.14 on the Jaccard, and only three
+content words survive normalisation, so the 5-gram floor is above it. The third discriminator is a
+**content-word trigram appearing in exactly two chapters**: in beats this compressed, that is not a
+coincidence. **The instrument's own preprocessing was hiding the needle — the same defect class as
+the hard wrap, one level up.**
+
+**Six live collisions on the current scaffold, so it is not replaying history.** New: **C.2 and VII.5
+both end on *"the one provable lie in it"*, verbatim** — a quotable sentence spent twice, which reads
+as a tic the second time. I.4's *"a grade is a position, not a permission"* is cashed in VII.2. I.6
+and III.2 both make the Watts cut.
+
+**Second gauge in the same file — NAMED-OPPONENT REUSE, and it found a gap nobody had counted: 13
+chapters carry no named ancestor or opponent anywhere.** VI.4, VI.5, VI.6, VI.8, VII.1, VII.2, VII.3,
+VII.5, VII.6, VII.9, VIII.2, VIII.3, VIII.5. **Seven of Book VII's nine** — the book the whole work
+exists to make possible. Rule 5 says a named ancestor or opponent is non-optional. → queue.
+
+⚠ **Its first version reported 56 of 68 chapters bare and that number was a lie.** It conflated *has
+no Named field* with *has nothing capitalised in its Named field* — II.3's opponent was the lowercase
+phrase *"it's all just perspective"*, II.4's is `IIT`. **A gauge that cries 56 is a gauge nobody reads
+twice**, which is the boot-banner lesson arriving in a new file. Split three ways: no field at all,
+names inline in the beats (hygiene), lowercase opponent (the check declaring its own blind spot).
+Book I is excluded by its own header rule, which **forbids** a named opponent on the page — counting
+those would have made the number wrong in the direction of alarm.
+
+**23. II.3'S NAMED OPPONENT WAS A MIS-CITATION, AND THE CHAPTER HAD NO NAMED OWNER AT ALL.** `06`
+read: **Named:** *"it's all just perspective"* — **opponent X.** Opponent X in `04` §4 is **"MAKE YOUR
+OWN MEANING" — absurdism as a failed prior.** What `05` §4.I actually says is that the perspective/
+opinion mishearing *lands the reader in* opponent X. **The mishearing is the road; opponent X is the
+destination. `06` compressed the road into the destination's name**, and the compression cost the
+chapter its opponent: what was left was a slogan with nobody standing on it, in the one book whose
+whole method is that the opponent is the word's current owner.
+
+Fixed by measurement, and the counts are the finding. **Protagoras — 0 files corpus-wide.** The owner
+of the mishearing in its original and strongest form, *man is the measure*, unnamed in three million
+words. **Ortega y Gasset — 0**, who gave perspectivism its name in 1923 and had this chapter's thesis
+a century early: a perspective is not a deformation of reality but a **component** of it. **Nagel —
+95 files, *view from nowhere* 75** — richly present and never cut.
+
+★ **Nietzsche was considered for this chapter and declined, on the record.** *There are no facts,
+only interpretations* is the most-quoted source of the slogan. Against: he was spent one chapter
+earlier on the doer-behind-the-deed, the reuse gauge flags him, and — the real reason — **the reader
+who says "it's all just perspective" has almost never read him.** Rescuing Nietzsche from the
+misquotation is a third move in a chapter that already has three.
+
+**24. NAGEL IS NAMED TWICE, AND THE SECOND AXIS IS DECLARED IN ADVANCE** rather than discovered at
+drafting, per the II.2/Bostrom rule. **II.3 cuts *The View from Nowhere* (1986) on one word:
+objectivity as a *direction of travel*.** VII.1 has him on death, against Epicurus (`02` names the
+pairing). Different book, different argument, and neither is a restatement — but the reuse gauge will
+print the pair from now on, and it is answered here so that the print is a confirmation rather than a
+question.
+
+★ **The gate ruling 20 demanded, run and passed, with its two answers recorded as EXEMPT pairs in the
+tool.** II.3 ~ III.1: **the definition is II.3's, the fork is III.1's.** II.3 states what a
+perspective is and stops; the contrast with a rendered thing in somebody else's world — *"every
+consequence in Part Two forks here"* — belongs to III.1 and Bostrom is not named in II.3 at all.
+II.3 ~ VII.4: II.3 states the Null-Space Theorem, VII.4 turns it on the contractive terminal
+doctrine, so the statement had to be **universal and exceptionless on the page** or VII.4 loses its
+argument six books later. It is: *no grade buys an exemption.*
+
 ---
 
 ## STATUS — Day 185
