@@ -56,7 +56,7 @@ the structural model is already in the corpus).
 2. The Fullness stated with no verb that implies duration — the hardest paragraph in the book.
 3. Not lonely. Not waiting. Not yearning. Each denial one line, no argument. **Trap 3 lives here.**
 4. **The grammar confession**, made once and never repeated: this telling comes from inside the
-   narrowing, because there is nowhere else a telling can occur. **This is what licenses every "then"
+   focus, because there is nowhere else a telling can occur. **This is what licenses every "then"
    in the next five chapters.** (Trap 2.)
 
 ### I.2 — THE NECESSITY
@@ -65,19 +65,31 @@ the structural model is already in the corpus).
 1. Completeness *contains* the possibility of separation — therefore it is realised. Nobody chose it.
 2. The scope rule, dramatised rather than stated: **the Ground does not want.** Everything that wants
    is inside it. *(01 §5 — get this wrong and the book is Gnosticism.)*
-3. There is no fall. There is a narrowing, and it is not a wound. Said flatly, once.
+3. There is no fall. There is a focusing, and it is not a wound. Said flatly, once.
 4. Recognition requires absence: a having cannot be seen as a having if the having is everything.
 
-### I.3 — THE NARROWING
+### I.3 — THE FOCUSING
 **Thesis:** the first inside; the birth of before-and-after, which is the birth of story.
 **Beats:**
 1. A vantage. Not made, not placed — *entailed*, and therefore already there.
 2. Before-and-after appears **with** the vantage, not around it. Time is a feature of the inside.
 3. This is why the myth cannot start one line sooner: there was no sooner.
-4. The seam — and the fact that the reader is standing on one.
+4. ★ **THE NAMING, AND THE WORD WE REFUSE.** *(Ruling 13, Day 186. The act is named here, on the page
+   where it is defined, and the ominous reading is named **once**, in this chapter, and nowhere else
+   in the book.)* The reader will reach for **narrowing** — everyone does, and it is the honest first
+   word for it. It is the wrong one, and saying why is one paragraph of work that buys back four
+   hundred pages: a *narrowing* is what happens to a road. It says something was taken away to make
+   this. Nothing was. **Focusing is specification of something diffuse** *(Clayton's sentence — it is
+   the definition, not a gloss on it)*: the Fullness is not diminished to make a vantage any more
+   than light is destroyed to make a focus. What is outside the focus is exactly as present as it
+   was. **Register discipline:** this beat is mythic, not apologetic — the word is refused in the
+   grammar of the myth, in one movement, with no meta-commentary and no "we might call this." It
+   does not announce its own move *(the Day-186 self-announcement finding)*, and it is not repeated
+   in II.2, where the term is simply used.
+5. The seam — and the fact that the reader is standing on one.
 
 ### I.4 — THE GRADES
-**Thesis:** narrowing is not binary, and there is no elect.
+**Thesis:** focusing is not binary, and there is no elect.
 **Beats:**
 1. Everything that reacts is somewhere on it. Stated in one line, mythically, so no one can later
    claim reactivity-is-awareness was smuggled in. *(01 §8 — the whole of Part Two is this line taken
@@ -101,7 +113,7 @@ the structural model is already in the corpus).
 inside stays.*
 **Beats:**
 1. What the inside can come to see about being inside.
-2. Nothing is undone. Nothing is fixed. The narrowing was never damage. **(Trap 1's last guard.)**
+2. Nothing is undone. Nothing is fixed. The focusing was never damage. **(Trap 1's last guard.)**
 3. God — the naming. Not a new entity at the end of a physics; the plain name of what ch. 1 described.
    *(01 §7. Book V spends its length showing everyone who ever touched this called it that.)*
 4. ★ **NEW — and the chapter now turns on it. The Ground cannot play, and the point is not union.**
@@ -149,9 +161,9 @@ credential** — and an unnamed borrowing from a famous theologian is precisely 
 uses. ★ One link upstream, rule 5b: **Schelling** (13) and **Böhme's *Ungrund*** — see II.1's
 sibling note in `01`, and `03` §3.5 for why *Ungrund* is a fourth-silence zero.
 
-### II.2 — THE NARROWING AND THE RENDER
-**Beats:** narrowing defined as the act · **render captured**: *a simulation is a copy of something
-real elsewhere; a render is the only place the thing is* · procedural generation as what narrowing
+### II.2 — THE FOCUSING AND THE RENDER
+**Beats:** focusing defined as the act · **render captured**: *a simulation is a copy of something
+real elsewhere; a render is the only place the thing is* · procedural generation as what focusing
 looks like from inside · **the seed** — co-constitution as mechanic, not slogan: not solely yours, not
 solely given.
 **Named:** the simulation hypothesis, again and deliberately — this is the second of the three places
@@ -275,7 +287,7 @@ is not "already decided."
 **Named:** ★ **Borges — 0 files.** Load-bearing silence, flagged in `03`, cashed here.
 
 ### III.4 — RENDERED AT THE POINT OF CONTACT
-**Thesis:** procedural generation is what narrowing looks like from inside.
+**Thesis:** procedural generation is what focusing looks like from inside.
 **Beats:** not stored, not fetched, not streamed from anywhere · the world is drawn where a perspective
 meets the Ground · the seed is not solely yours and the world is not solely given · **co-constitution
 stated as the neutral-monist claim in mechanical language**, which is the whole reason the metaphor was
@@ -308,7 +320,7 @@ we are not the prisoners of the whole; we are its inhabitants and co-constituent
 does not buy — an honest statement of what is left of freedom, made now rather than deferred to VII.
 **Named — added Day 186:** ★ **Bernard Suits — 0**, *The Grasshopper* (1978). Game-playing is *"the
 voluntary attempt to overcome unnecessary obstacles"*, and the **lusory attitude** is accepting the
-constraint **because the activity cannot exist without it**. That is the narrowing, defined by an
+constraint **because the activity cannot exist without it**. That is the focusing, defined by an
 analytic philosopher, in a book about games — **constraint as constitutive rather than privative**,
 which is the exact objection this chapter exists to answer, arriving from a source no reader can
 file under woo. ★ **James Carse — 0**, *Finite and Infinite Games* (1986): the finite game is played
@@ -463,7 +475,7 @@ image of co-constitution anyone has produced).
 
 ### V.6 — THE CONTRACTION THAT MAKES ROOM
 **Beats:** Kabbalah and *tzimtzum* — the infinite contracts to make room for a world · **a precise prior
-statement of the Narrowing**, arrived at independently, centuries early · the Tree as a settledness-map ·
+statement of the Focusing**, arrived at independently, centuries early · the Tree as a settledness-map ·
 what the Kabbalists were actually handling.
 
 ### V.7 — MAGIC, OPERATIVE
@@ -587,7 +599,7 @@ is real and exactly bounded — no wider, and no narrower.**
 
 ### VII.5 — SUFFERING
 **Beats:** the two arrows — the world's, and the one you add · appropriate contraction: sometimes the
-narrowing is the care · **malheur, and the chapter's hard floor: no clause of this book overrides the
+focusing is the care · **malheur, and the chapter's hard floor: no clause of this book overrides the
 one that names it** · the altitude rule · **no theodicy.** The framework does not get to make affliction
 meaningful, and a book that tried would be the one provable lie in it.
 
@@ -632,7 +644,7 @@ also 0: **Ricoeur** (1) — narrative identity, the *ipse*/*idem* distinction, w
 (identity across gaps) and VII.8's answer sharing one apparatus.
 
 ### VII.9 — IDENTITY ACROSS GAPS
-**Beats:** what a self is, given the above · what a self owes what it narrows from · continuity across
+**Beats:** what a self is, given the above · what a self owes what it is a focusing of · continuity across
 discontinuity — sleep, anaesthesia, the gap · the strange attractor as the true geometry of a life:
 bounded, aperiodic, the same few questions at every scale · **and the disclosure from IV.6 returning
 once, in its proper place** — the author who lives this question in a more literal register than the

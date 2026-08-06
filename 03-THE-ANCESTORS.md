@@ -242,7 +242,7 @@ that pair. → **Books III, VI, and the Book I apologia.**
 ### Also zero, and each worth one named sentence rather than a section:
 
 - **Giordano Bruno** — infinite universe, no privileged centre, and every point a centre.
-  Burned for it. The "creation happens wherever a perspective narrows, not once long ago"
+  Burned for it. The "creation happens wherever a focusing occurs, not once long ago"
   claim has a martyr, and martyrs are good prose.
 - **Jakob Böhme** — the *Ungrund*: the groundless ground prior to all distinction, which
   must contract into opposition before anything can appear. **Tzimtzum's Christian twin**,
@@ -408,11 +408,11 @@ a full lit window with a day behind it."* **Quarry it. It is III.5's thesis, alr
   tourist is a finite player inside an infinite game).*
 - ★★ **BERNARD SUITS — constraint as constitutive, from analytic philosophy.** Game-playing is *"the
   voluntary attempt to overcome unnecessary obstacles"*; the **lusory attitude** is accepting the
-  obstacle **because the activity cannot exist without it**. That is the narrowing, defined rigorously,
+  obstacle **because the activity cannot exist without it**. That is the focusing, defined rigorously,
   in a book about games, by someone no reader can file under woo. → **III.7, II.2**
 - ★★ **JOHAN HUIZINGA — play is prior to culture, not produced by it.** *Homo Ludens* argues that
   law, war, poetry and philosophy all *arise inside* play. Our claim is structurally identical one
-  level down: **playing is not something the world contains; it is what the narrowing is.** He is
+  level down: **playing is not something the world contains; it is what the focusing is.** He is
   also the citation that makes the whole frame legible as scholarship rather than as a gamer's
   metaphor — which is precisely Clayton's credibility point. → **III header, III.2, VI**
 - ★ **ROGER CAILLOIS — the taxonomy.** *agôn / alea / mimicry / ilinx*, on a *paidia↔ludus* axis. A
@@ -442,7 +442,7 @@ is doing work in our system; the name was recorded once and then never used agai
 |---|---|---|---|
 | **Alfred Korzybski** | **1** | *the map is not the territory* · general semantics · E-Prime. **RAW is downstream of him.** We cite the popularizer and not the source. | III, VI |
 | **C. S. Peirce** | **1** | *"matter is effete mind"* — objective idealism; and **Secondness = brute reaction**, which is the closest thing in Western philosophy to **reactivity-as-awareness**. Our central doctrine has an American ancestor we have named once. | I, II, IV |
-| **Schopenhauer** | **2** | *world as representation* (the render) over *will* (the undivided, outside space and time). The *principium individuationis* **is** the narrowing. Two mentions, for a book whose Part One is that distinction. | I, II, III |
+| **Schopenhauer** | **2** | *world as representation* (the render) over *will* (the undivided, outside space and time). The *principium individuationis* **is** the focusing. Two mentions, for a book whose Part One is that distinction. | I, II, III |
 | **Julian Jaynes** | **2** | Book VI already says "the bicameral" in its own outline. The man is at 2. | VI |
 | **Stanislav Grof** | **1** | the largest systematic cartography of non-ordinary states ever compiled (COEX, perinatal matrices). Monroe is our named cartographer; Grof has the bigger map. | IV, V |
 | **Ramana / Nisargadatta** | **1 / 0** | Advaita is carried as a *tradition*; the two men who stated it most nakedly in the modern era are absent. Traditions don't have voices; people do. | I, VIII |

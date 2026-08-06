@@ -136,7 +136,7 @@ is downstream — which is also exactly the book's thesis about itself.
 complete, and infinite, then *nothing happens*, and a creation myth is a
 category error — stories need time. The resolution is the book's central move:
 **creation is not the Ground's; it is the perspective's.** The world does not
-begin once, long ago. It begins at every narrowing, whole and first each time,
+begin once, long ago. It begins at every focusing, whole and first each time,
 including this one, now. A creation myth that is *currently occurring* is a
 better myth than a historical one, and it has the advantage of being true.
 
@@ -154,13 +154,13 @@ no page-count ceiling — ruling 4 below.*
 apparatus. Ainulindalë analogue.*
 The Fullness that does not move. Awareness as what it *is*, not what it does.
 Reactivity as the whole doctrine, stated in one line so no one can say it was
-hidden. The narrowing. The birth of before-and-after. The seam you are standing
+hidden. The focusing. The birth of before-and-after. The seam you are standing
 on.
 
 **Book II — THE NAMING**
 *Valaquenta analogue: the dramatis personae, each named plainly and defined
 once.*
-The Ground · The Narrowing · The Perspective · The Grade · The Tunnel · The
+The Ground · The Focusing · The Perspective · The Grade · The Tunnel · The
 Coherence · The Collapse · The Return. Every later chapter draws from this
 vocabulary and adds nothing to it.
 
@@ -177,7 +177,7 @@ Why the analogy is exact rather than cute:
   in the Ground, statically. Nothing is authored at runtime.
 - **The world is generated at the point of contact.** Not stored, not fetched —
   *rendered* where a perspective meets the Ground. Procedural generation is what
-  narrowing looks like from inside.
+  focusing looks like from inside.
 - **Co-constitutive, not consumed.** The seed is not solely yours and the world
   is not solely given. Both, at once. This is the neutral-monist claim restated
   as mechanics.
@@ -222,7 +222,7 @@ which is the one the reader is inside while reading.
 **Book VII — THE CONSEQUENCES**
 The title cashing. Death. Suffering and appropriate contraction. Love.
 Obligation, once there are no NPCs. Freedom when every path already exists. Meaning
-without a mandate. Identity across gaps. What a self owes what it narrows from.
+without a mandate. Identity across gaps. What a self owes what it is a focusing of.
 
 **Book VIII — THE PRACTICE**
 What to do on a Tuesday. Navigation, not cosmology tourism. If Books I–VII are
@@ -876,7 +876,7 @@ six-item agenda. **★ B is now the whole of what remains before prose, and it i
    They are one ruling landing in two places nine books apart, and Trap 5 is the only trap
    that cannot be fixed late. Small, and it unblocks the read of Book V.
 8. **Sweep `06` for Trap 5 leakage** — every appearance of *merge*, *ultimately*, *union*,
-   and every sentence in which the narrowing sounds temporary. The trap was named after the
+   and every sentence in which the focusing sounds temporary. The trap was named after the
    scaffold was written, so the scaffold has never been read against it.
    ⚠ **Now known to be worse than "leakage." III.2 was found flatly contradicting ruling 3a-bis**
    (fixed Day 186). The sweep is not a polish pass; **it is a correctness pass, and the register

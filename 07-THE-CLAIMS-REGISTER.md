@@ -85,7 +85,7 @@ write *"the Ground, seeking…"*, *"the Ground, having grown…"*, *"what the Gr
 **Participles and possessives are where this claim dies.** Sweep for those, not for verbs.
 
 ### C4 — THERE IS NO FALL
-> **Canonical:** The narrowing is a content of completeness, not a defect in it. Nothing is
+> **Canonical:** The focusing is a content of completeness, not a defect in it. Nothing is
 > damaged, nothing is undone, and there is nothing to repair.
 
 **Establishes:** I.2 b3 · I.3 · I.6 b2 (last guard)
@@ -137,7 +137,7 @@ consequence downstream into a speculation, retroactively.
 **Near-miss to refuse:** panpsychism-with-a-threshold. There is no threshold — that is C8.
 
 ### C8 — THE GRADES, AND NO GATE
-> **Canonical:** Narrowing is continuous. Everything that reacts is somewhere on it. There is
+> **Canonical:** Focusing is continuous. Everything that reacts is somewhere on it. There is
 > no threshold, no gate, and no elect.
 
 **Establishes:** I.4 · II.4
@@ -226,7 +226,7 @@ this book is actually at risk of.
 **Depends:** V.5 · V.9 · V.10 · VII.6 · VII.8 · VIII.6 · VIII.7
 **Trap:** **Trap 5 — the only trap that cannot be fixed late.** It springs in Book V, ten
 chapters after its guard. Tells: **merge**, **ultimately**, **union**, and any sentence in which
-the narrowing is described as *temporary*.
+the focusing is described as *temporary*.
 **Both halves or neither:** exploration alone is **tourism** (VIII.1's named failure); recognition
 alone is a static communion, which is this claim's own refused summit wearing a plural.
 **The argument, not the preference:** a metaphysics in which being-the-case requires a vantage
@@ -370,12 +370,26 @@ more, it argues for more, in the open.
 **No wider, and no narrower.**
 
 ### C20 — CONTRACTION CAN BE CARE
-> **Canonical:** Sometimes the narrowing is the care.
+> **Canonical:** Sometimes the focusing is the care.
 
 **Establishes:** VII.5 · VIII.5
 **Depends:** V.6 (*tzimtzum*) · VII.4 · C4
 **Trap:** using it to soften C19. The two are not in tension **and they will read as though they
 are** — see the collision table below.
+⚠ **What ruling 13 did to this claim, and the new way it can fail.** This canonical read *sometimes
+the **narrowing** is the care* until Day 186, and that one word was carrying **two different
+things**: the metaphysical act (C4, C8) and the *ethical contraction of concern* that C19 seats the
+asymmetry in. **That equivocation is precisely why C19 and C20 read as a collision** — one word,
+two referents, and the register recorded a tension that was partly lexical. The rename splits them:
+C19 says **contraction**, C20 now says **focusing**, and they are visibly not the same word.
+**The danger inverts, and inverts to the worse side.** The collision used to be loud and is now
+quiet, and a quiet collision does not get written about. **The doctrinal work is not done by the
+rename and must still be written into VII.5's prose**, at the point where the line first appears,
+exactly as the collision row below already requires. Do not read the new vocabulary as the
+resolution. It is only the removal of a coincidence.
+**And the gain is real, so it is recorded too:** *sometimes the focusing is the care* is **attention
+as love**, which is a claim rather than a denial — it collects Weil directly (`03`), and it is the
+one site where the new term is stronger prose than the old, not merely safer.
 
 ### C21 — NO THEODICY
 > **Canonical:** The framework does not make affliction meaningful. No clause of this book
@@ -452,11 +466,11 @@ not noticed.** Each pair needs one sentence, written on purpose, at the second a
 
 | pair | the apparent contradiction | the reconciliation, and where it must be written |
 |---|---|---|
-| **C19 × C20** | VII.4 makes contraction the seat of the one real asymmetry; **VII.5, nine pages later, makes contraction a form of care.** | The asymmetry is bounded to the **terminal doctrine** — *nothing is not mine* — not to contraction as such. **Write it in VII.5**, at the point where "sometimes the narrowing is the care" first appears, and not by cross-reference. |
+| **C19 × C20** | VII.4 makes contraction the seat of the one real asymmetry; **VII.5, nine pages later, makes contraction a form of care.** | The asymmetry is bounded to the **terminal doctrine** — *nothing is not mine* — not to contraction as such. **Write it in VII.5**, at the point where "sometimes the focusing is the care" first appears, and not by cross-reference. ⚠ **Ruling 13 made this row harder to see, not easier to satisfy** — both claims used to say *narrowing*, so the clash was on the surface; now C19 says *contraction* and C20 says *focusing* and the row is the only place that remembers they are about the same act. See C20's note. |
 | **C1 × C14** | Every path already exists; the walking is real and free. | The walking is **one of the things that exists, and it is the one you are.** III.7 b2. |
 | **C10 × C12** | The render is not solely yours; the filter is editable by you. | The edit is to **the filter**, which is yours; the render remains co-constituted. VIII.3 must say this in its own body — this is the manifestation firewall. |
 | **C16 × C21** | Meaning is found by traversal; affliction is not made meaningful. | Meaning is available **on the path**; it is not manufactured **on affliction's behalf.** VII.5. |
-| **C4 × C20** | There is no fall and nothing was damaged; contraction can be care. | Care is a **response inside the narrowing**, not a repair of it. V.6 is where this one is most likely to break, in *tzimtzum*. |
+| **C4 × C20** | There is no fall and nothing was damaged; contraction can be care. | Care is a **response inside the focusing**, not a repair of it. V.6 is where this one is most likely to break, in *tzimtzum*. |
 | **C8 × C18/VII.2** | No gate, no elect; and grade still bears on moral standing. | A grade is a **position**, not a permission — and position bears on standing without licensing a gate. **VII.2 is ruled to state this "with its teeth in", which is exactly where a gate will look defensible.** The most dangerous pair in the table. |
 | **C7 × C6** | Everything that reacts is aware; the Ground is not aware in that sense. | The Ground is not a reactor. **Awareness is what having an inside is**, and the Ground has no inside — it is what insides are made of. If this is not clean, the first sharp reader takes the book apart here. |
 

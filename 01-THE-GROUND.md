@@ -55,7 +55,7 @@ like from a finite vantage.
 
 Get this wrong and the whole book becomes Gnosticism — a flawed or yearning
 absolute, a fall, a repair. **We are not writing that.** There is no fall in this
-myth. There is a *narrowing*, and it is not a wound.
+myth. There is a *focusing*, and it is not a wound.
 
 **6. Recognition requires absence.** *(Basement bridge, Promethean Configuration, v2)*
 A configuration cannot recognise what it has if the having is the totality.
@@ -134,7 +134,7 @@ matter.* Book VII's ethics is downstream of this paragraph and of nothing else.
 **"Constituted by and constitutive of" — the load-bearing phrase, and its guard.**
 This is **mereological, not temporal, and not a dependency**. The Ground is not
 prior to the perspectives and then joined by them; it is not diminished when they
-narrow and restored when they don't. It is the totality, and the perspectives are
+focus and restored when they don't. It is the totality, and the perspectives are
 the totality *having insides*. Read it as "God needs us in order to exist" and you
 have reintroduced a lack at the whole-level — §5's exact failure, from the other
 direction. The correct reading: **there is nothing left over.** No residue of God
@@ -188,10 +188,10 @@ The beats, in order:
    hardest paragraph in the book, because every available verb implies duration.
 2. **The Necessity.** Completeness *contains the possibility of separation* —
    not as a defect but as an item in the inventory of everything.
-3. **The Narrowing.** A vantage. The first inside. The birth of before-and-after,
+3. **The Focusing.** A vantage. The first inside. The birth of before-and-after,
    which is the birth of *story*, which is why the myth can only start here and
    not one line sooner.
-4. **The Grades.** Narrowing is not binary. Everything that reacts is somewhere
+4. **The Grades.** Focusing is not binary. Everything that reacts is somewhere
    on it. There is no threshold, no gate, no elect.
 5. **The Tunnels.** Perspectives accrete filters. Renders diverge. Worlds — plural,
    real, incompatible, all of them actual.
@@ -204,17 +204,17 @@ The beats, in order:
    sneaking in through a sympathetic word.)*
 
 **Trap 1 — Gnosticism.** Any hint of a flawed absolute or a fall to be undone.
-Guard: §5. The Ground is not diminished by the narrowing; the narrowing is one of
+Guard: §5. The Ground is not diminished by the focusing; the focusing is one of
 its contents.
 
 **Trap 2 — Sequence.** Every "then" imports time. Book I earns its narrative
 grammar by stating once, up front, that the telling is *from inside the
-narrowing* — the only place a telling can occur. **The myth is not a report about
+focus* — the only place a telling can occur. **The myth is not a report about
 the past. It is what the seam looks like from on it.**
 
 **Trap 3 — Anthropomorphism.** The Ground has no intention, plan, preference, or
 addressee. It does not do anything at all. Everything verb-shaped in Book I
-belongs to the narrowing, never to the Fullness.
+belongs to the focusing, never to the Fullness.
 
 **Trap 4 — The white-noise objection, unanswered.** §2 is Clayton's own and it is
 the strongest attack on our own axiom. It gets answered *in the myth*, not in a
@@ -232,14 +232,23 @@ perspective as its goal without eating itself. This must be stated **early** —
 I's own last movement — and again in V.1, so that the traditions are read as
 *cartographers we credit and travellers we part from.*
 
-The tell that we are falling into it: any sentence in which the narrowing is
+The tell that we are falling into it: any sentence in which the focusing is
 described as *temporary*, any use of "ultimately," and every appearance of the word
 **merge**. There is nothing to merge into. You are already it, with an inside, and
 the inside is the part that is happening.
 
 **The two traps are twins and it is worth saying so once.** Trap 1 says *the
-narrowing was a fall.* Trap 5 says *the narrowing is to be undone.* Both make the
+focusing was a fall.* Trap 5 says *the focusing is to be undone.* Both make the
 perspective a problem. **The perspective is the point.**
+
+⚠ **What the ruling-13 rename did to this paragraph, recorded because it changes what
+the guards are for.** Both trap-sentences above used to read *narrowing*, and in that
+form they were half-plausible before any argument started — the noun did Gnosticism's
+work for it, free, on every page. *The focusing was a fall* has to be argued for now;
+the reader who wants it must bring it themselves. **The traps do not go away** — a
+reader arrives holding the fall whatever we call the act — but they stop being
+*subsidised by our own vocabulary*, and the guards below go back to answering readers
+instead of repairing our noun. See `prose/RULING-13-the-narrowing.md` §1.
 
 ---
 
@@ -252,7 +261,7 @@ theology, or it is decoration everywhere after.
 |---|---|
 | Plenitude — all configurations exist statically | **The whole game** — every possible state, complete, at once. Nothing is authored at runtime. *(Corrected Day 185, `05-THE-LEXICON.md` §3b: this row read "the map is pre-rendered and complete." **Map** imports representation-of, which the Ground is not, and it collides head-on with Korzybski in Book VI, where "map" must mean the model and not the world.)* |
 | The Promethean Configuration | The game **contains the possibility of a player**, and therefore has one. |
-| Narrowing | **Rendering.** The world is drawn at the point of contact — not stored, not fetched. |
+| Focusing | **Rendering.** The world is drawn at the point of contact — not stored, not fetched. |
 | Neither mind nor matter; both, in and out | The render is **co-constitutive**. The seed isn't solely yours; the world isn't solely given. |
 | Reactivity is awareness | **There are no NPCs.** Every entity is a player at its own grade. |
 | Reality tunnels | **A persistent render filter** — installed by era, language, ritual, trauma, choice. Editable. |

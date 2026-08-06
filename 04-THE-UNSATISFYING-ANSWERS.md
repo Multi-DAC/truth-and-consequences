@@ -130,7 +130,7 @@ near-miss; it is the precise inversion. In DoPI, Base Reality is not elsewhere
 and it is not more real than here — it is what *here* is made of.
 
 **And the architecture already fixed this without knowing it.** Book II's
-dramatis personae reads *The Ground · The Narrowing · The Perspective …* —
+dramatis personae reads *The Ground · The Focusing · The Perspective …* —
 `00-ARCHITECTURE.md` renamed the term on what I assume were euphonic grounds.
 The rename has a hard argumentative payoff nobody has yet written down.
 
@@ -213,7 +213,7 @@ unamended; only the direction changes. **This is the cheapest large concession
 in the book and it should be made early and warmly**, because the reader expects
 a fight about the neuroscience and there isn't one.
 
-**Books.** I (the narrowing *is* this claim), IV (dependence without production,
+**Books.** I (the focusing *is* this claim), IV (dependence without production,
 across the roster), VII.
 
 **Corpus state.** The argument is present and sharp — `ch1-the-position` §1.3
@@ -251,7 +251,7 @@ most dangerous competitor and the nearest ally we have.
    sim) *and* no relief (the suffering is still felt, by you, in full).
 
 **What we say.** **The render is real, and there is no upstairs.** The Ground is
-not elsewhere — it is what the render is made of, and you are it, narrowed. The
+not elsewhere — it is what the render is made of, and you are it, focused. The
 world is generated *at the point of contact* between a perspective and the
 Ground, and the seed is not solely yours and the world is not solely given.
 Book III's line **"co-constitutive, not consumed"** is the whole cut, and it is

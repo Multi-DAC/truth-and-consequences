@@ -70,7 +70,7 @@ does not smuggle time in, because a sentence is one word arriving after another,
 arriving-after is exactly the thing that is not there.
 
 So none of this is a report from outside. There is no outside to file one from. It is spoken
-from inside a narrowing — a place where there is a next word, where one thing follows another,
+from inside a focus — a place where there is a next word, where one thing follows another,
 where a story is even a possible object.
 
 Take that as the licence for the rest. When the next chapters say *then,* and *first,* and
@@ -79,7 +79,7 @@ inside has got.
 
 The Fullness has no story.
 
-We do. We are the narrowing.
+We do. We are the focusing.
 
 ---
 

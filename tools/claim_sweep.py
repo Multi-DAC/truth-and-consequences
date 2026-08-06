@@ -97,6 +97,17 @@ RULES = [
      r"state-space map|settledness-map|knowing the map",
      "05 §3b — imports representation-OF, and collides with Korzybski in Book VI. "
      "Breaches C5. LICENSED: Korzybski's model-sense, and our own planning-process sense."),
+    ("TERM/narrowing", "all", r"\bnarrowings?\b|\bnarrowed\b|\bthe Narrowing\b",
+     r"\bnarrower\b|\bnarrowly\b|kept narrow|no narrower",
+     "05 §3a — RETIRED by ruling 13 (Day 186). The term is **the Focusing**: focusing is "
+     "specification of something diffuse, and a lens destroys no light. *Narrowing* is the one "
+     "term that failed the CONNOTATION screen rather than the collision screen — it prosecutes for "
+     "Trap 1 (*it was a fall*) and Trap 5 (*it is to be undone*) before the argument starts, which "
+     "is the reading the book exists to refuse. LICENSED: the comparative *narrower* and adverbial "
+     "*narrowly* in their plain-English senses — C19's `no wider, and no narrower` is doctrine and "
+     "must survive. NOT licensed by this rule, and correctly so: quoted contest material in "
+     "`prose/SPECIMENS.md`, which is suppressed as a MENTION by the blockquote and ⚠ markers and "
+     "must NEVER be exempted by widening the pattern above."),
     ("TERM/aperture", "all", r"\bapertures?\b", None,
      "05 §3 — demoted; the term is the Perspective."),
     ("TERM/bottleneck", "all", r"\bbottlenecks?\b", None,
@@ -163,10 +174,65 @@ RULES = [
      "00's out-list — out because we do not hold them, not because a skeptic would object."),
 ]
 
+# ---------------------------------------------------------------------------
+# DELIBERATE EXEMPTIONS — named lines, not a widened pattern.
+#
+# A retired term sometimes has to stay on a page: a quotation is evidence, and a
+# quotation tidied into the current vocabulary stops being a record of what was said.
+# The tempting fix is to widen a rule's `licensed` regex until the hits go away. That
+# is invisible, it grows, and it is how a gauge quietly stops measuring — the failure
+# this file's docstring already names once.
+#
+# So: exemptions are ENUMERATED, each with a reason, and **printed at every run whether
+# or not anything else fires.** A suppression nobody can see is a suppression nobody
+# audits. If this list is long, that is a finding about the manuscript, not about the tool.
+#
+#   (path suffix, rule_id, substring that must be on the line — None means whole file, why)
+# ---------------------------------------------------------------------------
+EXEMPTIONS = [
+    ("prose/RULING-13-the-narrowing.md", "TERM/narrowing", None,
+     "The ruling document FOR the retirement — the file whose entire subject is the word. "
+     "Whole-file, and it is the only whole-file exemption in this list."),
+    ("prose/SPECIMENS.md", "TERM/narrowing", "all narrowings exist in all states",
+     "Clayton's own C17 objection, in his wording. Ruling 13, Day 186."),
+    ("prose/SPECIMENS.md", "TERM/narrowing", "If nesting made the narrowing illusory",
+     "Quoted contest material — the resisted half of the C17 exchange, kept as evidence."),
+    ("prose/SPECIMENS.md", "TERM/narrowing", "narrowing is, and that is the open question",
+     "Same exchange, the sentence that named the VII.1 × VIII.6 question."),
+]
+
+
+def exemption_for(path: pathlib.Path, rule_id: str, line: str):
+    rel = path.as_posix()
+    for suffix, rid, needle, why in EXEMPTIONS:
+        if rid == rule_id and rel.endswith(suffix) and (needle is None or needle in line):
+            return why
+    return None
+
+
 SCAFFOLD_NAME = "06-THE-SCAFFOLD.md"
 
 CHAPTER_RE = re.compile(r"^### ((?:[IVX]+|C)\.\d+) — (.+?)\s*$", re.MULTILINE)
 TOUCHES_RE = re.compile(r"^\*\*Touches:\*\*", re.MULTILINE)
+
+
+def in_code_span(line: str, pos: int) -> bool:
+    """True if `pos` falls inside a backtick code span. Odd number of backticks before it."""
+    return line.count("`", 0, pos) % 2 == 1
+
+
+def emphasis_wrapped(line: str, start: int, end: int) -> bool:
+    """True if the match is wrapped *tightly* in markdown emphasis: *x*, **x**, _x_.
+
+    Deliberately tight. A whole italicised sentence containing the term is still a USE —
+    the claim being made is 'this word is being pointed at', and pointing at one word does
+    not license a paragraph of it.
+    """
+    before, after = line[:start], line[end:]
+    for mark in ("**", "*", "_"):
+        if before.endswith(mark) and after.startswith(mark):
+            return True
+    return False
 
 
 def in_scope(scope: str, path: pathlib.Path, is_prose: bool) -> bool:
@@ -180,12 +246,12 @@ def in_scope(scope: str, path: pathlib.Path, is_prose: bool) -> bool:
 
 
 def sweep_file(path: pathlib.Path, is_prose: bool):
-    uses, mentions = [], []
+    uses, mentions, exempt = [], [], []
     try:
         lines = path.read_text(encoding="utf-8").splitlines()
     except UnicodeDecodeError:
         print(f"  !! {path.name}: not utf-8, skipped")
-        return [], []
+        return [], [], []
     for rule_id, scope, pattern, licensed, why in RULES:
         if not in_scope(scope, path, is_prose):
             continue
@@ -197,17 +263,27 @@ def sweep_file(path: pathlib.Path, is_prose: bool):
                 continue
             if lic and lic.search(line):
                 continue
-            # A term wrapped in backticks is being NAMED, not used. Checked against the
-            # match itself rather than the line, so one code span does not excuse a whole
-            # paragraph — a broad exemption is how a gauge quietly stops measuring.
-            if line[max(0, m.start() - 1):m.start()] == "`" and line[m.end():m.end() + 1] == "`":
+            reason = exemption_for(path, rule_id, line)
+            if reason:
+                exempt.append((rule_id, path, n, line.strip()[:150], reason))
+                continue
+            # A term wrapped in a code span or in emphasis is being NAMED, not used.
+            # Checked against the MATCH, never against the line, so one code span does not
+            # excuse a whole paragraph — a broad exemption is how a gauge quietly stops
+            # measuring. Widened Day 186 from "backticks immediately adjacent" to (a) any
+            # enclosing code span, because `prose/RULING-13-the-narrowing.md` is a filename
+            # and the old test only saw the characters touching the word, and (b) direct
+            # `*x*` / `**x**` emphasis, because naming a retired word to refuse it is what
+            # ruling 13's own §3 paragraph is FOR. Emphasis must wrap the term itself and
+            # nothing else — an italicised sentence that merely contains it still counts.
+            if in_code_span(line, m.start()) or emphasis_wrapped(line, m.start(), m.end()):
                 mentions.append((rule_id, path, n, line.strip()[:150], why))
                 continue
             hit = (rule_id, path, n, line.strip()[:150], why)
             is_mention = bool(MENTION_MARKERS.search(line)) or (
                 not is_prose and bool(PLANNING_MENTION.match(line)))
             (mentions if is_mention else uses).append(hit)
-    return uses, mentions
+    return uses, mentions, exempt
 
 
 def check_touches(scaffold: pathlib.Path):
@@ -233,12 +309,13 @@ def main() -> int:
     prose_root = (REPO / args.prose).resolve()
     files = sorted(p for p in REPO.rglob("*.md") if ".git" not in p.parts)
 
-    all_uses, all_mentions = [], []
+    all_uses, all_mentions, all_exempt = [], [], []
     for f in files:
         is_prose = prose_root in f.parents
-        u, m = sweep_file(f, is_prose)
+        u, m, e = sweep_file(f, is_prose)
         all_uses += u
         all_mentions += m
+        all_exempt += e
 
     print(f"CLAIM SWEEP — {len(files)} files · prose root: "
           f"{prose_root.relative_to(REPO) if prose_root.exists() else '(none yet)'}\n")
@@ -254,6 +331,13 @@ def main() -> int:
 
     print(f"  {len(all_mentions)} mention(s) suppressed "
           f"(lines talking ABOUT the term — rerun with --show-mentions to audit).")
+
+    # Always printed, never folded into the mention count: a suppression nobody can see
+    # is a suppression nobody audits, and these are the ones we chose on purpose.
+    print(f"\n  {len(all_exempt)} DELIBERATE exemption(s) in force "
+          f"({len(EXEMPTIONS)} rule(s) in the list):")
+    for rule_id, path, n, line, why in all_exempt:
+        print(f"    [{rule_id}] {path.relative_to(REPO)}:{n} — {why[:96]}")
     if args.show_mentions:
         for rule_id, path, n, line, _ in all_mentions:
             print(f"    [{rule_id}] {path.relative_to(REPO)}:{n}  {line[:100]}")

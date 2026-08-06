@@ -19,7 +19,19 @@
 narrowing, it sounds a little ominous, even though it's accurate. Perhaps there's a friendlier
 way to put it."*
 
-*Status: SLATE PREPARED, AWAITING CLAYTON. Nothing renamed.*
+**Status: ✅ EXECUTED, Day 186 ~21:30. 62 sites, 11 files, all read individually.** The §3 paragraph
+is written into `06` I.3 beat 4. The retired term is enforced by `tools/claim_sweep.py`
+(`TERM/narrowing`), verified by negative control: an inserted violation fails the sweep with exit 1,
+and removing it returns exit 0. **17 occurrences of the string survive on purpose** — the comparative
+*narrower* (C19's `no wider, and no narrower`, which is doctrine), the notes naming the retired word,
+and the quoted C17 contest material in `SPECIMENS.md`. All are classified by the gauge, none are
+invisible: the sweep prints its deliberate exemptions on **every** run whether or not anything fires.
+
+**This file keeps its name** — `RULING-13-the-narrowing.md`, with the retired word in it, on purpose.
+It is the *record of the retirement*, and the archive of a decision should say what was decided
+about. The precedent that titles are the worst place a retired term survives is about **chapter
+titles**, which propagate into every later cross-reference; nothing draws vocabulary from this
+filename. Decided, not overlooked.
 
 ---
 
@@ -97,18 +109,48 @@ whose *connotation does the argument's work instead of fighting it* — the ligh
 focus is not destroyed, which is Trap 1's entire content, said by the noun before the sentence
 starts.
 
-## 5. Blast radius, measured
+## 5. Blast radius, measured — ✅ EXECUTED
 
-**62 occurrences across 11 files** (`00`:6 · `01`:10 · `02`:1 · `03`:4 · `04`:3 · `05`:1 ·
-`06`:14 · `07`:7 · `prose/SPECIMENS.md`:8 · `1-B`:2 · `1-C`:2). Two are **chapter-beat names**
-(`01` §beats 3–4) and one is the **dramatis personae line**, which appears in `00` and `04` and
-must move together.
+**62 occurrences across 11 files** (`00`:6 · `01`:12 · `02`:1 · `03`:4 · `04`:3 · `05`:1 ·
+`06`:14 · `07`:7 · `prose/SPECIMENS.md`:10 · `1-B`:2 · `1-C`:2 — **sums to 62**). Two are
+**chapter-beat names** (`01` §beats 3–4) and one is the **dramatis personae line**, which appears
+in `00` and `04` and moved together.
 
-Not a sed job: several sites use *narrowing* in its plain-English sense inside quoted ancestor
-material (`03`), and `07`'s C19×C20 tension turns on the constriction sense specifically. When a
-word is chosen, `tools/claim_sweep.py` gets the retired term the same way it got *map* — because
-Day 186's own lesson is that **a ruling in a lexicon has no gauge behind it**, and *map* survived
-retirement for a full day in two live chapter titles.
+⚠ **This table was wrong when it was written, and the fault is worth more than the fix.** It read
+`01`:10 and `SPECIMENS`:8, and summed to **58** against its own stated total of **62** — a document
+disagreeing with itself, in the file that records the lesson about documents disagreeing with
+themselves. The diagnosis is not arithmetic. **Two rows were counted in *lines* while the total and
+the other nine rows were counted in *occurrences*.** `01` has 10 matching lines and 12 occurrences
+(two lines carry the word twice — §Trap 1's guard, and the twins paragraph); `SPECIMENS` has 8 and
+10. Both numbers were *correct measurements of different things*, printed in one column with no unit
+named. **A table whose cells do not declare their unit will silently mix two, and the mix is
+invisible precisely because every individual number is true.** Middle rung of Day 186's ordering:
+EXISTS > **PARTS AGREE** > VALUES RIGHT. The parts did not agree; the total was right the whole time.
+
+**Post-rename state, measured 2026-08-05 ~21:30**, unit stated: **17 occurrences** of the string
+`narrow` survive across the eleven files, in three named classes — the licensed comparative, the
+notes that name the retired word to refuse it, and the quoted C17 contest material. `focus` appears
+**65 times**. Both counts are *occurrences*, not lines.
+
+Not a sed job, and the reading confirmed it. Three sites were **judgment calls that a substitution
+would have got wrong**, and each is recorded where it landed rather than here:
+
+1. **C19's `no wider, and no narrower`** (`06` VII.4, `07` C19) — plain-English comparative, and it
+   is *doctrine*: the asymmetry is exactly bounded. Untouched, and licensed in the gauge by name.
+2. **C20, `sometimes the narrowing is the care`** (`07`) — the single word was doing **two jobs**,
+   the metaphysical act and the *ethical contraction of concern*, and that equivocation is why C19
+   and C20 read as a collision at all. The rename splits them, which **makes the collision quiet
+   rather than resolved.** Recorded as a new failure mode in C20's own note; the doctrinal work is
+   still owed in VII.5's prose.
+3. **`what a self owes what it narrows from`** (`00`, `06` VII.9) — became **`what it is a focusing
+   of`**, and the new phrasing is doctrinally better than the old: *narrows from* implies departure
+   from a place one is no longer at, which is Trap 1 hiding in a preposition.
+
+`tools/claim_sweep.py` now carries the retired term the same way it carries *map* — because Day
+186's own lesson is that **a ruling in a lexicon has no gauge behind it**, and *map* survived
+retirement for a full day in two live chapter titles. **Verified by negative control**, not by
+reading the code: an inserted `The narrowing is what happens…` fails the sweep at exit 1; removing
+it returns exit 0.
 
 ## 6. Also closed by this exchange
 

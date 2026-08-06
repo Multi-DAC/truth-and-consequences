@@ -68,17 +68,17 @@ Every sentence above is in the wrong tense, and this is the one admission the te
 an after folded into them, and the Fullness has neither. There is no sentence that does not carry
 time inside it, because a sentence is one word arriving after another, and arriving-after is exactly
 what is not there. So none of this is a report from outside. There is no outside to file a report
-from. It is spoken from within a narrowing — from a place where there is a next word, where one thing
+from. It is spoken from inside a focus — from a place where there is a next word, where one thing
 follows another, where a story is a possible object at all. That is the only kind of place from which
 anything has ever been said.
 
 Take that as the licence for everything that comes after. When the next chapters say *then*, and
 *first*, and *afterward*, they are not being careless and they are not being sly. They are speaking
 the only grammar an inside has got. The Fullness has no story. We have one, because we are the
-narrowing, and a narrowing is the sort of thing a story can happen to.
+focusing, and a focusing is the sort of thing a story can happen to.
 
 This is not a story about how the world began. The world does not begin in the distant past and
-travel here. It begins wherever a narrowing occurs, whole and first each time — and one is occurring
+travel here. It begins wherever a focusing occurs, whole and first each time — and one is occurring
 now, and it is you, and what you have been calling the world is what the Fullness looks like from
 where you are standing.
 
@@ -353,6 +353,10 @@ survives only as the reason the distinction had to be drawn.
 diagnosed here as *replacing a person with something enormous*; under the definition, the precise
 fault is that the mask move swaps a **fully real** thing for a **more representative** one, and
 representativeness is exactly the property nothing has. It is not too generous. It is a trade for
-something that does not exist. *(Ruling 13 note: the terms above still read* narrowing *because they
-are quoted contest material and one of them is Clayton's own wording. The rename does not touch
-quoted ancestor text — this is one of the ~dozen judgment sites the sweep must not `sed` over.)*
+something that does not exist. *(**Ruling 13, EXECUTED Day 186** — the term is **the Focusing** and the rename has landed across the
+tree. The paragraphs above are the **deliberate exceptions**, and they stay `narrowing` for a reason
+that outranks consistency: they are **quoted contest material**, one of them is **Clayton's own
+wording**, and the superseded v1 death paragraph below is **evidence** — a quotation that has been
+tidied into the current vocabulary is no longer a record of what was said. `tools/claim_sweep.py`
+carries a licensed exemption for exactly this, not a blanket one; if the exemption ever grows to
+cover live prose, the gauge has stopped measuring.)*
