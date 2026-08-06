@@ -1658,7 +1658,14 @@ run turns into an unreviewed one.)*
 ---
 
 ## II.8 — THE RETURN, AND THE THINGS THIS BOOK WILL NOT SAY · drafted Day 187 · 1,967 words
-## ✦ BOOK II IS DRAFTED. 8 of 8, 16,559 words.
+## ✦ BOOK II IS DRAFTED. 8 of 8, **18,559 words.**
+
+⚠ *This line read **16,559** in the commit that shipped the chapter, and in `06`, and in the commit
+message. It was an eight-term sum done in the head and never run — on the day whose whole subject is
+instruments, in the project whose standing rule is measure-don't-recall, in the paragraph announcing
+that a book is finished. **A round-feeling total is the least likely number to get checked**, which
+is the same property that makes an exculpatory bucket dangerous: nothing about it invites a second
+look. Corrected within the hour, from `len(open(f).read().split())` rather than from arithmetic.*
 
 **The gate ran before a word was written and came back CLEAN** — `beat_sweep --chapter II.8`: 68
 chapters, 277 beats, **0 collisions, 0 echoes.** It was wrong, and this time the reason is

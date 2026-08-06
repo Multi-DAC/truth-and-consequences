@@ -461,7 +461,7 @@ said gate the acquittal harder; this one says the accusation has a whole class i
 **A verb-level pass over the beats is owed** — 0 exists today.
 
 ### II.8 — THE RETURN, AND THE THINGS THIS BOOK WILL NOT SAY ✅ DRAFTED Day 187 — 1,967 words
-### ✦ BOOK II COMPLETE — 8 of 8, 16,559 words.
+### ✦ BOOK II COMPLETE — 8 of 8, **18,559 words** *(measured; the first number written here was 16,559, a sum done in the head in the one project whose standing rule is `measure, don't recall` — corrected within the hour, and it had already reached three files and a commit message)*.
 **Beats:** the Return defined against escape and repair (ruling 33) · **Gnosticism named, stated at
 full strength, and cut** · **the one-name rule posted as a rule, not the retirements as a roster**
 (ruling 35) · substrate · the map · simulation · **the banned words listed openly** — vibration,
