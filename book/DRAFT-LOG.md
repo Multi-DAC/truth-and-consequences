@@ -1453,3 +1453,204 @@ pre-change tree, so the exit-1 is inherited and not new. **order_sweep**: 0 fals
 target and not steered for; recorded because ruling 15 says watch movement, and the movement across
 Book II is monotonic. The chapter is built out of positive conditions and two concrete failures, and
 that, rather than vigilance about the reflex, is what stopped the not-this-not-that reflex.
+
+---
+
+## II.7 — THE COLLAPSE · drafted Day 187 · 2,560 words
+
+Seven of Book II's eight. The gate ran clean before a word was written, and **both of the day's
+findings came from the two checks the gate cannot perform** — reading the source against the plan,
+and reading the neighbouring chapter's beats against this one's.
+
+### The declared blind spot was the chapter, so it got checked by hand rather than declared again
+
+`beat_sweep --chapter II.7` returned **0 collisions, 0 echoes** and then printed, as it has every
+run, that II.7 is one of *"7 chapters that name a lowercase opponent, invisible to the reuse check by
+construction."* Yesterday's rung says that is a queue item and not a discharge. So the reuse check
+ran by hand: **Aristotle 0 · von Neumann 0 · Wigner 0 · Zeh 0 · decoherence 0 · Copenhagen 0 · Bohr 0**
+across `00`–`07` and all drafted prose. Four proper names were available, unreused, and the chapter
+had been planned with none of them — which is also how II.7 stops being a rule-5 gap by
+**construction** instead of by exemption.
+
+The Aristotle find is the chapter's best paragraph and it was not in the plan. *De Anima* III.2,
+425b26: *the activity of the sensible object and that of the percipient sense is one and the same
+activity, and yet the distinction between their being remains.* The sounding of the thing and the
+hearing of the animal are one event described from its two ends. **That is this book's measurement,
+exactly, twenty-three centuries early** — and the cut writes itself: he never let it out of the
+psychology. In *Metaphysics* IX actualisation is a power *in* the thing, the acorn's own form
+arriving, no second party and no *for whom*. He had the two-sided structure in his hand and did not
+carry it back to the doctrine that governs everything else in his system. Verified against the text
+per ruling 27, not recalled.
+
+### RULING 31 — ruling a term does not rule its argument
+
+`05`'s **the Collapse** row: *KEEP · quantum measurement · ours is the general case.* Correct, and
+inherited verbatim from the source, and it has been sitting there being correct while missing
+something the drafting of II.7 walked straight into.
+
+**It ruled the event. It never ruled what the event happens to.** The source's word for that is
+**`superposition`** — the load-bearing noun of its central sentence, *hold structural superposition
+until informed measurement collapses it* — and `superposition` measures **0 across `00`–`07` and 0
+in every drafted chapter.** Dropped between source and plan, silently, exactly as ruling 29's two
+sections were. And II.7 is the chapter that would have reintroduced it **unruled**, in the one place
+in the book whose entire job is refusing borrowed physics vocabulary.
+
+**Verdict: BAN `superposition`. KEEP `the Collapse`. Book's word: `open`.** The asymmetry is not
+squeamishness and it needed a criterion, which is new: **an analogy has to be made of something the
+reader already has.** *Collapse* has a civilian life — a lung, a bridge, a market, a negotiation, a
+folding chair — and that life is very nearly our meaning, free, in a word no physicist can
+repossess. *Superposition* has no life outside the formalism; to nearly every reader it means
+nothing at all, which is exactly why it is tempting. **Borrowing it would transfer authority rather
+than meaning, which is the precise transaction §3c exists to refuse.** Refusing the word we would
+most enjoy having is how the ban stops being a posture — so the chapter pays for the ban on the page
+before stating it.
+
+**The class is new and it is bigger than this word.** A KEEP row licenses a term and **silently
+admits its neighbourhood**. A verb needs an object; the object rides in on the verb's licence.
+*Every* KEEP in `05` now owes the question **what does this word take as its argument, and is THAT
+ruled?** Same shape as ruling 28 one level up: there, the row whose job is screening imports carried
+an import. Here, the row ruling a term left the term's own object unruled.
+
+### RULING 32 — two chapters planned the same act in different words, and the gauge scored zero
+
+II.7's beats: *the quantum ban stated here, in the one chapter with standing to state it.*
+II.8's beats: *the banned words listed openly — vibration, frequency, energy-as-substance, manifest,
+quantum, observer.*
+
+**The same act, declaring the ban, planned twice — and `beat_sweep` returned 0 collisions**, because
+the two beats share almost no vocabulary. Found by hand, by reading the next chapter's beats before
+drafting this one.
+
+The adjudication made II.7 **better rather than shorter**: **II.7 argues the ban; II.8 posts it.**
+II.7 states the criterion, applies it once to the single word that costs us something, and hands the
+roster forward by name in its closing paragraph. II.8 keeps the closed inventory, which is what II.8
+is *for* — a reader who has tried pop-spirituality is owed the whole list declined on purpose. **II.7
+does not enumerate the six.** Had it done so, II.8's list would have read as a repeat and II.8 would
+have lost its reason to exist. The section that would have been a roster became the *superposition*
+demonstration instead, which is the strongest passage in the second half.
+
+### ★★ THE GAUGE LESSON — a duplicate of FUNCTION is invisible to a gauge that compares wording
+
+Yesterday: *an exculpatory bucket needs a stricter gate than an accusing one.* Today is the same
+week's rung on the **accusing** side. `beat_sweep` measures **lexical** overlap. Two beats can plan
+the same *act* — define, list, refute, retire, credit — in entirely disjoint vocabulary and score
+zero, forever, in a run that reports itself CLEAN.
+
+**This is not a tuning problem.** No threshold on word overlap finds *stated here* ~ *listed openly*.
+It needs a different pass: extract the **verb** of each beat and cluster on that. **A verb-level pass
+over the 276 beats does not exist and is now owed.** Three days running, the finding has been that
+the instrument's *shape* — its preprocessing, then its denominator, then its unit of comparison —
+decides what it can never see. The unit here is the word, and the duplicate was an act.
+
+### The two honesties the chapter pays, and the one a later pass will try to cut
+
+Decoherence **does not close the measurement problem.** It explains why nobody ever sees the smear;
+whether it explains why *one* outcome is the one that happened is live and contested, and the
+chapter says so and declines to settle it. And **none of the physics is evidence for anything
+claimed here** — if the identification were withdrawn tomorrow every other claim in the book stands
+where it is. *Anyone who needs the physics to be true for their metaphysics to work has already told
+you their metaphysics does not work.*
+
+⚠ Registered as a standing warning in `07` C25: **a future polish pass will be tempted to cut the
+decoherence sentence, because it is the one that costs momentum.** It is also the one that keeps the
+claim honest. Sweep for it before any tightening of II.7.
+
+### The Wigner kill, and why opponent VIII dies cheaply
+
+*It's all just quantum* is not too speculative. **It is too old, and it was abandoned by its own
+author.** Von Neumann (1932) proved the cut's position is unfixed by the formalism and drew no
+conclusion about minds — which this chapter reads not as an embarrassment but as a clue, since an
+unfixed position is what you would expect if the position were set by something the equations do not
+mention. Wigner (1961) fixed it at consciousness. Wigner (**1982**) said his own earlier view should
+be criticised as **solipsism**. Wigner (**1984**) wrote that Zeh's **1970** decoherence work had
+convinced him out of it. The marketing layer is still selling 1961 to people who have never been told
+there was a 1984. All four verified against sources, per ruling 27.
+
+**And his error is the opposite of the one `05` already had on file.** The `observer` ban existed
+because the word imports *passivity* — a watcher of a world already there. Wigner's observer is not
+passive; it is a **cause**, an awareness reaching into physics and forcing a result. So one word has
+been made to name both a bystander and a wizard, and we mean neither: **the perspective is a place.**
+`05` §3c now carries that as `observer`'s third reason.
+
+### C25 registered on the day the chapter shipped
+
+The first claim in the book whose hostile reader has **equipment**. Queue 6 had deferred the C25-plus
+registrations until before Book IV; this one is live in drafted prose today, so it was registered
+today rather than owed. Its structural guard is **order, not disclaimer** — measurement is defined
+with no physics in it at all, and had the definition needed the physics it would have visibly
+collapsed three sections before the physics arrived.
+
+### Gauges
+
+**claim_sweep exit 0** · **30 files** · 48 exemptions, none added — the chapter needed no licence.
+**beat_sweep**: 276 beats, **0 collisions and 0 echoes on II.7**, wrap self-test PASS.
+**order_sweep**: 0 false handoffs. **`superposition` 0 · `stream` 0 · retired-term self-check clean.**
+
+**Apophatic density 1.17/1k** against Book I's 8.18 raw — second-lowest drafted, and the movement
+across Book II remains monotonic downward. Recorded, not steered for.
+
+**What the gauges could not have told me, and it is now three days in a row:** the gate's verdict on
+II.7 was CLEAN and correct, and both rulings came from outside it. Ruling 31 came from reading the
+**source** against the plan — the instrument ruling 29 said does not exist, still does not exist, and
+has now caught two things by hand. Ruling 32 came from reading the **next chapter's beats** before
+drafting this one. Neither is a check any tool in `tools/` performs today.
+
+### ADDENDUM — three gauge defects, found by the gauge reacting to today's own edits
+
+Writing rulings 31–32 into `06` changed what `beat_sweep` read, and the changed reading was wrong
+three separate ways. All three were fixed; all three are worth keeping, because two of them are
+failures of a **fix**, not of the original.
+
+**(a) THE SENTENCE DECLARING THE GAP CLOSED THE GAP.** The II.8 note added today says *"AND THIS
+CHAPTER STILL HAS NO NAMED ANCESTOR OR OPPONENT ... the cut wants **Gnosticism** named."* The
+exoneration bucket read `Gnosticism`, acquitted II.8 of rule 5, and moved it out of the `!!` list —
+**28 became 27 and it looked like progress.** A chapter's own complaint that it lacks a name was
+taken as evidence that it has one. **This is yesterday's exculpatory-bucket lesson arriving inside
+the fix for yesterday's exculpatory-bucket lesson** — and it was caught *only* because that fix made
+the bucket print what it acquitted on. An acquittal you can read is an acquittal you can disagree
+with; this one was disagreed with within the hour. The negation filter now covers the whole family
+of gap-declarations, not just *does-not-name*.
+
+**(b) THE GAUGE FOUND ITSELF AS AN ANCESTOR.** `beat_sweep cut in 2: II.5, II.7 ?? NO AXIS STATED`
+— our own tool's name, lifted out of the ruling prose that discusses it, reported as an opponent the
+book cuts twice. `_outside_names` had always dropped identifiers containing `_` and `/`; the reuse
+path never did. **The same rule implemented in one of the two places that need it — which is ruling
+31's shape exactly, one floor down**, and it was in the code the whole time ruling 31 was being
+written about the lexicon.
+
+**(c) ⚠⚠ THE FIRST FIX WAS ANCHORED ON A NEWLINE THAT CANNOT EXIST, AND THE RUN STILL LOOKED FIXED.**
+The `**Named:**` field had been running on past its own end, so it was given a terminator anchored on
+`\n\s*[⚠★]` — a marker at the start of a line. `chapters()` hands `named()` the body **already
+joined into one string.** There are no newlines. The pattern matched nothing, the field ran on
+exactly as before, and nothing errored. **That is the standing gauge note — *every instrument in
+`tools/` is written against prose-as-a-string and the manuscript is prose-as-lines* — walked into
+within the hour of quoting it, in a fix written to close a different blindness.** Mechanism without
+a trigger, again, and this time in the repair rather than the original.
+
+And the correction to (c) then over-corrected: terminating on a bare `★` truncated **eight other
+chapters'** Named fields at their first emphasis marker and pushed the lowercase bucket from 6 to 14.
+★ **Worth naming because of its direction: the bad fix made the report look MORE alarmed, and more
+alarm reads as more diligence.** A gauge edit that raises the alarm count is exactly as likely to be
+wrong as one that lowers it, and only one of those gets checked by instinct. Final terminator: `⚠`
+only — a warning marker always opens a note, while `★` is used *inside* Named fields for emphasis and
+cannot end one. Buckets back to **12 inline / 28 gap / 6 lowercase**, with II.7 out of all three.
+
+**(d) A SILENT CLASS, recorded rather than fixed: every surname of three letters or fewer is
+invisible to the reuse check.** The name pattern requires four characters, so `Zeh` was absent from a
+**Named:** field that plainly contains him — no bucket, no count, no complaint. Relaxing the pattern
+would drag in every sentence-initial *Not/And/One*, so short names are carried by hand in `ALIASES`,
+**and the honest cost is that the list is only as complete as the last person to notice.** Zeh added.
+The class is now written down where the next one will be looked for.
+
+**What the four have in common, and it is the week's shape again:** every one is a defect in what the
+instrument *can see*, not in what it concluded from what it saw. Preprocessing (Day 187, II.3), then
+the denominator (II.4), then the exoneration gate (II.6), then the unit of comparison (ruling 32),
+and now the regex anchor, the identifier filter, and the length floor. **The gauge is never wrong
+about its inputs. It is wrong about which inputs exist.**
+
+*(And writing that sentence tripped a fifth: `claim_sweep`'s self-reference rule matched the bare
+words **the anchor** against `\bthe Anchor\b`, a past volume's title, because the rule is applied
+case-insensitively. Reworded rather than exempted — an exemption would have spent a licence on a
+common noun. The rule should be case-sensitive for title-shaped needles; filed, not fixed, because
+changing a matcher's case-sensitivity on the day I have already changed three others is how a good
+run turns into an unreviewed one.)*

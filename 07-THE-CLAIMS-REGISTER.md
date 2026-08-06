@@ -490,6 +490,53 @@ not build the instrument.
 
 ---
 
+### C25 — MEASUREMENT IS ONE STRUCTURE, AND THE SUBATOMIC CASE IS AN INSTANCE
+
+> **Canonical:** A **measurement** is a contact that closes an open matter *for* a perspective.
+> Three conditions, all necessary: it is **contact** (something not already inside the asking part
+> reaches it) · it **could have come out otherwise** · it **lands** (it changes what is now the case
+> for the one who took it). A matter is **open** when more than one way it could go is still live.
+> **The claim proper:** the settling of the open is **one structure wherever it happens**, at every
+> grade, and the subatomic case is its **most studied instance and not its source.**
+> ★ **Offered as a claim and not as a proof, and the direction of dependence is stated on the page:**
+> **nothing in this book rests on the physics.** If the identification were withdrawn tomorrow,
+> every other claim stands where it is.
+
+**Establishes:** II.6 (the criterion only, as one of four conditions) · **II.7 (defined, argued,
+and the physics handled)**
+**Depends:** C10 (co-constitution) · C13 · C23 · II.3 · II.4 · II.6 · VIII.4
+**Grade:** ★ **PUBLICLY EXPENSIVE — the most expensive in the book so far, and the first one whose
+hostile reader has equipment.** A physicist who reads one careless sentence here stops reading, and
+is right to. **Registered on the day the chapter shipped rather than deferred to queue 6**, because
+unlike the other C25-plus candidates this one is already live in drafted prose.
+
+**Trap — and it is the one the whole chapter is engineered against: needing the physics.** The
+instant this reads as *quantum mechanics shows that consciousness…*, the book has joined opponent
+IV's marketing layer and every other claim in it is re-read as decoration. **The structural guard is
+ORDER, not disclaimer:** measurement is defined with no physics in it at all, and if the definition
+needed the physics it would visibly collapse before the physics arrives.
+
+**Near-miss to refuse — von Neumann–Wigner, and it is a near-miss and not a caricature.** Wigner's
+observer *causes* the collapse; ours **is the place one happens at.** His needs mind to be
+extraordinary; ours needs it to be utterly ordinary. **They are one word apart and opposite.**
+✅ **The kill is documentary, per ruling 27:** von Neumann (1932) showed the cut's position is unfixed
+by the formalism and drew **no** conclusion about minds; Wigner (1961) added consciousness; Wigner
+(1982) called his own earlier view something that *should be criticised as solipsism*; Wigner (1984)
+wrote that Zeh's 1970 decoherence work convinced him out of it. **The position was abandoned by its
+own author forty years ago and the paperbacks still sell it.**
+
+⚠ **THE HONESTY THAT MUST NOT BE QUIETLY DROPPED IN A LATER PASS: decoherence does not close the
+measurement problem.** It explains why the smear is never seen; whether it explains why *one*
+outcome is the one that happened is live and contested. **We do not settle it and we must never be
+read as leaning on it.** A future editor tightening this paragraph for flow will be tempted to cut
+exactly this sentence, because it is the one that costs momentum. It is also the one that keeps the
+claim honest. **Sweep for it before any polish pass on II.7.**
+
+⚠ **Governed pairing:** every sentence in which *collapse* and any physics term appear together.
+Sweep for the **pairing**, not for the word — same instruction as C24, same reason.
+
+---
+
 ## THE DEPENDENCY LOAD — where a loose sentence costs the most
 
 Counted from the *Depends* lines above. This is the register's first analytic output and it

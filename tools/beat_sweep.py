@@ -133,6 +133,15 @@ ALIASES = {
     "RAW": "Robert Anton Wilson",
     "Robert Anton": "Robert Anton Wilson",
     "Wilson": "Robert Anton Wilson",
+    # ⚠ A CLASS, not an entry. The name pattern is `[A-Z][a-zà-ÿ]{3,}` — FOUR characters
+    # minimum — so EVERY SURNAME OF THREE LETTERS OR FEWER IS INVISIBLE TO THE REUSE CHECK,
+    # silently, with no bucket and no count. Found Day 187 at II.7, when `Zeh` did not appear
+    # in a **Named:** field that plainly contains him. Relaxing the pattern to {2,} would drag
+    # in every sentence-initial Not/And/One, so the short names are carried here by hand — and
+    # the honest cost of that is that the list is only as complete as the last person to
+    # notice. Any future ancestor with a short surname must be added here or it does not exist
+    # to this gauge.
+    "Zeh": "Zeh",
 }
 
 
@@ -192,8 +201,27 @@ def named(body):
     Bostrom is cut three times by design and the scaffold demands a new axis each time; a
     name that turns up twice with no such note is an unplanned repeat, and the reader meets
     the same argument twice with no idea which one was the real one."""
+    # ⚠ THE TERMINATOR LIST IS THE WHOLE GAUGE. Day 187, at II.7: a **Named:** field followed
+    # by ruling prose ran on until the next Beats/Source/Thesis/Why/Register — and since a
+    # chapter's rulings come AFTER its fields, it slurped every ⚠ note in the chapter and
+    # reported the tool's own name as an ancestor. A field ends where the next MARKER begins,
+    # and ⚠ / ★ / **RULING are markers. An unterminated field is not a big field; it is a
+    # field that has stopped being one.
+    # ⚠⚠ AND THE FIRST VERSION OF THIS FIX WAS ANCHORED ON `\n\s*[⚠★]` — A NEWLINE THAT CANNOT
+    # EXIST HERE, because `chapters()` hands this function the body ALREADY JOINED. It matched
+    # nothing, the field ran on exactly as before, and the run still looked fixed. That is the
+    # standing gauge note — *every instrument here is written against prose-as-a-string and the
+    # manuscript is prose-as-lines* — walked into inside the hour it was quoted. The markers are
+    # real; they are just not at line starts by the time anything reads them. Anchor on the
+    # MARKER, never on the line.
     chunks = [m.group(1) for m in re.finditer(
-        r"\*\*Named[^:]*:?\*\*(.*?)(?=\*\*(?:Beats|Source|Thesis|Why|Register)|$)",
+        # ⚠ AND THE SECOND VERSION OVER-CORRECTED: terminating on a bare `★` cut 8 OTHER
+        # chapters' Named fields off at their first emphasis marker and dumped them into the
+        # lowercase bucket (6 → 14) — a gauge "fix" that made the reading worse in a direction
+        # that reads as MORE alarm, so it would have looked like diligence. `⚠` only ever
+        # opens a note; `★` is used inside Named fields for emphasis and cannot terminate.
+        r"\*\*Named[^:]*:?\*\*(.*?)(?=\*\*(?:Beats|Source|Thesis|Why|Register|RULING|Boundary"
+        r"|Gauge|Touches|Axis|Note)|⚠|$)",
         body, re.IGNORECASE)]
     return _names_in(chunks)
 
@@ -209,8 +237,26 @@ def _names_in(chunks):
         # failure again. Narrow: a name inside a does-not-name clause is not a naming.
         chunk = re.sub(r"(?:does not name|is not named|never named|not named in|unnamed)"
                        r"[^.·]{0,60}", " ", chunk, flags=re.IGNORECASE)
+        # ★ WIDENED Day 187, at II.7, by the gauge acquitting II.8 on the word `Gnosticism`
+        # taken out of the sentence *"AND THIS CHAPTER STILL HAS NO NAMED ANCESTOR OR
+        # OPPONENT ... wants Gnosticism named."* THE SENTENCE DECLARING THE GAP IS WHAT CLOSED
+        # IT. That is yesterday's exculpatory-bucket lesson arriving inside the fix for
+        # yesterday's exculpatory-bucket lesson, and it was caught only because that fix made
+        # the bucket SHOW ITS WORK — an acquittal you can read is an acquittal you can
+        # disagree with. Widened to the whole family of gap-declarations: a chapter's own
+        # complaint that it lacks a name is not evidence that it has one.
+        chunk = re.sub(r"(?:has no named|have no named|no named ancestor|no named opponent|"
+                       r"still has no|wants\b|owes\b|would want|rule 5 says)"
+                       r"[^.·]{0,80}", " ", chunk, flags=re.IGNORECASE)
         for tok in re.findall(r"[A-Z][a-zà-ÿ]{3,}(?:\s+[A-Z][a-zà-ÿ]{3,})?|`[^`]+`", chunk):
             t = tok.strip("` ")
+            # ★ Day 187, at II.7: `beat_sweep` was reported as an ANCESTOR CUT IN TWO
+            # CHAPTERS (II.5, II.7) — the gauge finding itself in the ruling prose that
+            # discusses it. An identifier is never a person. `_outside_names` had this filter
+            # and the reuse path did not, which is the same defect as ruling 31 one floor
+            # down: a rule stated in one place and implemented in one of the two that need it.
+            if "_" in t or "/" in t or t.endswith(".py"):
+                continue
             # drop sentence-initial prose capitals that are not names
             if t.split()[0] in {"The", "Named", "Every", "Read", "Where", "This", "Book",
                                 "Beats", "Quarry", "Rule", "Full", "Day", "Present", "Same",

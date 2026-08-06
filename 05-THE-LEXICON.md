@@ -146,7 +146,8 @@ word we are colliding with ourselves. **Screening a term now means answering all
 | **the Grade** | **CAPTURE** | rank, caste, hierarchy of worth, an elect | A grade is a position on a continuum, **not a gate**. See §4. |
 | **the Tunnel** | **KEEP, CREDIT** | none — the reader has usually never met it | Robert Anton Wilson's, named. One link upstream: Korzybski (2 files). |
 | **Coherence** | **KEEP** | "coherent" as a synonym for "makes sense" — the word demoted to a property of *accounts*; ours is a property of *things* | The structural agreement of a thing's **levels** with one another *and* the felt rightness of going the way one goes — **the claim is that these are one thing, met from its two sides.** ⚠ **Ruling 28, Day 187 — this cell said "the felt alignment of a **stream** with its own trajectory" and the word was imported.** `stream` is a defined term in the source volume and is **not one here**: it occurs once in the whole drafted book, in **I.3, inside its own negation — *"There is no stream."*** The core term of Book II was defined out of a noun Book I abolishes, in the row whose entire job is screening imports, and axis 1 could not see it because *nobody else owns the word* — **the collision was with ourselves, which is axis 3, added the same day and not yet run over this table.** Book's word: **a perspective**; for a level, **level**. → `06` II.6. |
-| **the Collapse** | **KEEP** | quantum measurement | Ours is the general case; the subatomic one is an instance, not the source. *(Inherited verbatim from `Perspective` and correct as it stands.)* |
+| **the Collapse** | **KEEP** | quantum measurement | Ours is the general case; the subatomic one is an instance, not the source. *(Inherited verbatim from `Perspective` and correct as it stands.)* ⚠ **Ruling 31, Day 187 — this row was correct and incomplete, and the incompleteness is a new class.** It ruled the *event* and never ruled **what the event happens to**. See the row below. |
+| **superposition** | ★ **BAN — ruled Day 187, at II.7** | quantum formalism, and *nobody else* | **Measured before drafting: `superposition` = 0 across `00`–`07` and 0 in all drafted prose — while it is the load-bearing noun of the source's central sentence** (*"hold structural superposition until informed measurement collapses it"*). It was dropped between source and plan, silently, exactly as ruling 29's two sections were, and II.7 would have reintroduced it unruled in the one chapter that most wants it. **The asymmetry with `the Collapse` is principled, not squeamish, and the criterion is new: AN ANALOGY HAS TO BE MADE OF SOMETHING THE READER ALREADY HAS.** *Collapse* has a civilian life — a lung, a bridge, a market, a negotiation — and that life is almost exactly our meaning, free. *Superposition* has no life outside the formalism; to nearly every reader it means nothing, so borrowing it transfers **authority** rather than **meaning**, which is the precise transaction §3c exists to refuse. **Book's word: `open`.** *A matter is open when more than one way it could go is still live.* → `06` II.7. |
 | **the Return** | **KEEP** | escape, salvation, enlightenment-as-exit | Not escape and not repair. Recognition from inside. **Trap 1 lives here** — get this wrong and it is Gnosticism. |
 | **God** | **KEEP, UNHEDGED** | the personal deity with intentions and an addressee | The name of what the plenum is. No plan, no preference, no addressee — Trap 3. Book V spends its length showing everyone who touched this called it that. |
 
@@ -186,6 +187,24 @@ reader we were specified to keep.
 that was already there. Our claim is co-constitution. It is not a near-miss; it is the opposite
 claim wearing our clothes. Where a watcher is meant, say **the perspective**. Where a participant is
 meant, say **the player**.
+
+★ **And a third, found at II.7 (Day 187): the same word has been made to carry the opposite error.**
+Wigner's observer is not a passive watcher but a *cause* — an awareness reaching into physics and
+forcing a result. So `observer` has been used for both a bystander and a wizard, and this book means
+neither: **the perspective is a place, not a power and not a spectator.** A word that can name both
+of two opposite mistakes is not a near-miss twice; it is a word that has stopped constraining
+anything.
+
+★★ **THE SECOND BAN CRITERION — ruled Day 187 at II.7, and it is a DIFFERENT TEST from the one
+above.** §3c as written bans by **ownership**: these are the marketing layer's words. That test
+acquits `superposition`, which the marketing layer does not own — physics proper does — and
+`superposition` still has to go. The test that catches it: **a word with no civilian life cannot
+function as an analogy, because an analogy is made of something the reader already has.** An
+unfamiliar-and-impressive word does not explain a claim; it lends the claim somebody else's
+authority. *Collapse* passes (lungs, bridges, markets, negotiations). *Superposition* fails
+absolutely. **Both criteria are live and neither subsumes the other** — `vibration` has a civilian
+life and is banned by ownership; `superposition` is unowned by the woo and banned by unglossability.
+Screening a term under §3c now means running **both**.
 
 ---
 

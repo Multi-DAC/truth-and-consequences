@@ -394,19 +394,85 @@ coincidence is II.3's rule, applied.
 persistence sense of going-well arrives from physics — inertia in ethical clothing**, which is why
 the intuition is so hard to put down and why it is the wrong shape: *inertia has no levels in it.*
 
-### II.7 — THE COLLAPSE
+### II.7 — THE COLLAPSE ✅ DRAFTED Day 187 — 2,560 words
 **Beats:** measurement defined **generally first** · the subatomic case named as an instance, not the
-source · the moment the possible becomes actual *for* a perspective · **the quantum ban stated here,
-in the one chapter with standing to state it** (`05` §3c).
-**Named:** opponent VIII, "it's all just quantum" — killed by us, in our own vocabulary, before anyone
-can accuse us of needing it.
+source · the moment the possible becomes actual *for* a perspective · **the ban ARGUED here** —
+the criterion and its one costly application, not the roster (ruling 32).
+**Named:** opponent VIII, "it's all just quantum" · **Aristotle** · **von Neumann** · **Wigner** ·
+**Zeh**.
+**Note — ★ the four proper names were added Day 187 BEFORE drafting, because this chapter sat in the
+"names a LOWERCASE opponent, invisible to the reuse check by construction" bucket and a declared
+blind spot is not a checked one.** Verified 0 reuse: all four = 0 occurrences anywhere in `00`–`07`
+and in all drafted prose before today. von Neumann 1932 is **credited**, not cut — the cut's position
+is unfixed by the formalism and he drew no conclusion about minds; Wigner 1961 is the opponent
+proper; Zeh 1970 is decoherence, and is on our side of the argument.
+★ **THE ARISTOTLE CUT, and it is the chapter's best paragraph:** *De Anima* III.2, 425b26 — *the
+activity of the sensible object and that of the percipient sense is one and the same activity, and
+yet the distinction between their being remains*. **That is our measurement, exactly, twenty-three
+centuries early.** ✅ *Verified against the text, per ruling 27.* **The cut is that he never let it
+out of the room:** in *Metaphysics* IX actualisation is a power **in the thing** — the acorn's own
+form arriving, no second party, no *for whom*, actual whether or not anything ever met it. He held
+the two-sided structure while writing the psychology and did not carry it back to the metaphysics
+that governs everything else.
+★ **THE WIGNER KILL, and it is why opponent VIII dies cheaply:** *it's all just quantum* is not too
+speculative — **it is too old, and it was abandoned by its own author.** Wigner, *Remarks on the
+Mind-Body Question* (1961), fixed von Neumann's unfixed cut at consciousness. In a **1982** lecture
+he said his earlier view *should be criticised as solipsism*; in **1984** he wrote that Zeh's **1970**
+decoherence work had convinced him out of it. ✅ *Verified against sources, per ruling 27.* The
+marketing layer is still selling 1961 to people never told there was a 1984. **His error is not
+passivity but its opposite — he made the perspective a CAUSE where ours is a PLACE** → `05` §3c,
+`observer`'s third reason.
+⚠ **TWO HONESTIES PAID ON THE PAGE, both cheap and both load-bearing:** decoherence does **not**
+close the measurement problem (it explains why nobody sees the smear; whether it explains the single
+outcome is live and we do not settle it), and **none of the physics is evidence for our claim** —
+if it were withdrawn tomorrow nothing here moves, because nothing was ever resting on it. → `07` C25.
+⚠ **BOUNDARY HELD:** the WHEN-to-settle machinery (optimal stopping, marginal value) is **VIII.4's**.
+II.7 raises the question in one paragraph and hands it forward without machinery.
+
+⚠⚠ **RULING 31 — RULING A TERM DOES NOT RULE ITS ARGUMENT.** `the Collapse` was ruled **KEEP** and
+the row was correct. It ruled the *event* and never ruled **what the event happens to** — and the
+source's own word for that, **`superposition`, measured 0 across `00`–`07` and 0 in all drafted
+prose**, while sitting inside the source's central sentence as its load-bearing noun. It was dropped
+between source and plan exactly as ruling 29's two sections were, and II.7 is the chapter that would
+have reintroduced it **unruled**, in the one chapter whose whole job is refusing borrowed physics
+vocabulary. **Verdict: BAN `superposition`, KEEP `the Collapse`, book's word `open`** — full row and
+the new criterion (*an analogy has to be made of something the reader already has*) in `05` §3a/§3c.
+★ **The class, and it is new:** a KEEP row licenses a word and **silently admits its neighbourhood**.
+A verb needs an object; the object rides in on the verb's licence. **Every KEEP in the table now owes
+the question: what does this word take as its argument, and is THAT ruled?** Same shape as ruling 28
+one level up — there the row screening imports carried an import; here the row ruling a term left the
+term's own object unruled.
+
+⚠⚠ **RULING 32 — II.7 AND II.8 PLANNED THE SAME ACT IN DIFFERENT WORDS, AND `beat_sweep` RETURNED 0
+COLLISIONS.** II.7's beats said *the quantum ban stated here*; II.8's say *the banned words listed
+openly*. **The same act — declaring the ban — planned twice, and the gauge saw nothing, because it
+compares beats as STRINGS and these two share almost no vocabulary.** Found by hand, by reading the
+neighbouring chapter's beats before drafting.
+**The adjudication, and it made II.7 better rather than shorter: II.7 ARGUES the ban; II.8 POSTS it.**
+II.7 states the criterion, applies it once to the single word that **costs us something**
+(`superposition`), and explicitly hands the roster forward. II.8 keeps the closed inventory, which is
+what II.8 is *for* — a reader who has tried pop-spirituality is owed the whole list declined on
+purpose. **II.7 does not enumerate the six.** Had it done so, II.8's list would have read as a repeat
+and II.8 would have lost its reason to exist.
+★★ **THE GAUGE LESSON, and it is the accusing side of Day 187's earlier one:** `beat_sweep` measures
+**lexical** overlap, so **a duplicate of FUNCTION is invisible to it.** Two beats can plan the same
+*act* — define, list, refute, retire — in disjoint vocabulary and score zero. The exoneration lesson
+said gate the acquittal harder; this one says the accusation has a whole class it cannot see at all.
+**A verb-level pass over the beats is owed** — 0 exists today.
 
 ### II.8 — THE RETURN, AND THE THINGS THIS BOOK WILL NOT SAY
 **Beats:** the Return defined against escape, salvation, and exit · **the retired words listed openly**
 — substrate, aperture, bottleneck, X, the map — each with the one-line argument that retired it ·
 **the banned words listed openly** — vibration, frequency, energy-as-substance, manifest, quantum,
-observer — with the reason: *what is banned is a vague word, never a bold claim* · one closing line
-that the rest of the work draws on this vocabulary and adds nothing to it.
+observer, **superposition** (ruling 31) — with the reason: *what is banned is a vague word, never a
+bold claim* · one closing line that the rest of the work draws on this vocabulary and adds nothing to it.
+⚠ **RULING 32 — THIS CHAPTER POSTS THE ROSTER; II.7 ARGUED THE CRITERION.** The argument is spent.
+II.8 may **not** re-derive why the ban exists; it lists, one line each, and II.7's closing paragraph
+already hands the list forward by name. **Both criteria (ownership · unglossability) get exactly one
+line here**, because a reader meeting the reasoning twice will believe the second telling is padding.
+⚠ **AND THIS CHAPTER STILL HAS NO NAMED ANCESTOR OR OPPONENT** — it is one of the 28. Rule 5 says
+non-optional. The Return-against-exit cut wants **Gnosticism named**, which Trap 1 already implies and
+the beats do not say.
 **Why the retirements are on the page and not in an appendix:** a reader who has tried pop-spirituality
 needs to see us decline its vocabulary *on purpose*, or they will assume we simply have not got there yet.
 
