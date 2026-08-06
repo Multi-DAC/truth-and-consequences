@@ -289,7 +289,10 @@ hypothesis and it is written here as one.
 
 ### Doctrine, and the two places it could have failed quietly
 
-**C7 is stated in four words on its own line and never qualified anywhere in the chapter.** The
+**C7 is stated in three words on its own line and never qualified anywhere in the chapter.**
+*(Corrected Day 187 — Clayton caught it. It read "four words" beside the three-word sentence it was
+counting. The chapter was right; the log about the chapter was not, which is the direction this
+failure always runs.)* The
 register rule and the softener rule agree here for once: *Reactivity is awareness.* The three
 denials under it — not a sign, not a stage, not what it becomes once enough collects — are the
 near-miss C7 names, **panpsychism-with-a-threshold**, killed in the paragraph that could have
