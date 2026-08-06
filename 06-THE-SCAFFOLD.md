@@ -108,7 +108,14 @@ the structural model is already in the corpus).
    featureless *from nowhere*, and there is no nowhere. There are only insides. **(Trap 4 — Clayton's
    own objection, and the strongest attack on our axiom, answered in the register where it was raised.)**
 
-### I.6 — THE RETURN
+### I.6 — THE RECOGNITION
+*(★ RETITLED Day 187, drafting. Was **THE RETURN**, under the standing instruction seven lines below
+— which said retitle rather than bend the doctrine, and the doctrine did not bend. A return is a
+journey back to somewhere; every load-bearing sentence in this chapter says there is nowhere to go
+and nothing to go back to, so the title was arguing with its own contents on the contents page.
+**The replacement was already in the book:** I.2 beat 4 establishes that recognition requires
+absence, which makes I.6 the recognition that absence made possible — the word arrives earned rather
+than imported. It also frees THE RETURN for **II.8**, which had been sharing it.)*
 **Thesis:** not escape, not repair, **not arrival and not merger** — recognition from inside, *and the
 inside stays.*
 **Beats:**
@@ -124,6 +131,13 @@ inside stays.*
    the point, because neither has a perspective.** Exploration is, and mutual recognition is. **(Trap 5's
    only early guard — it springs in Book V and by then it is unfixable.)**
    **Named:** ★ **Alan Watts** — *the warm prior*, and the first of the book's two nearest-friend cuts.
+   ⚠ *(Read as accounting, NOT as a stage direction — resolved Day 187 at drafting, because the line
+   as written collides with this book's own header rule: "no citation, no apparatus, **no named
+   opponent on the page**," which is why Tolkien is unnamed here and acknowledged in the coda. **The
+   cut is made in I.6 and the name is spent in Book V**, where the scaffold already credits him by
+   name at V.9 and the apparatus is allowed. So I.6 states the warm picture in the reader's own terms
+   and refuses it, with nobody's name attached — the same procedure I.3 used on the retired word.
+   Every other "**Named:**" line in Book I is to be read the same way.)*
 5. The last line hands over to Book II by *not* explaining itself.
 
 ⚠ **Beat 4 makes this the second-hardest chapter in Book I and it was the softest before tonight.**

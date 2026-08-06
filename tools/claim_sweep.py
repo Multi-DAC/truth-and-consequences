@@ -192,7 +192,13 @@ RULES = [
 EXEMPTIONS = [
     ("prose/RULING-13-the-narrowing.md", "TERM/narrowing", None,
      "The ruling document FOR the retirement — the file whose entire subject is the word. "
-     "Whole-file, and it is the only whole-file exemption in this list."),
+     "Whole-file. One of two whole-file entries; see DRAFT-LOG below."),
+    ("book/DRAFT-LOG.md", "PROSE/manifestation", None,
+     "SCOPE, not licence. DRAFT-LOG.md is the log ABOUT the manuscript, not manuscript prose, and "
+     "its whole function is to record which trap was guarded where — a log that cannot name a trap "
+     "cannot record that the trap was guarded. Whole-file for this rule ONLY: any other rule firing "
+     "in DRAFT-LOG.md is a fresh decision and gets its own line here, not a widening of this one. "
+     "Added Day 187 when the I.5 entry named the manifestation slide in the act of pre-empting it."),
     ("prose/SPECIMENS.md", "TERM/narrowing", "all narrowings exist in all states",
      "Clayton's own C17 objection, in his wording. Ruling 13, Day 186."),
     ("prose/SPECIMENS.md", "TERM/narrowing", "If nesting made the narrowing illusory",
@@ -206,6 +212,22 @@ EXEMPTIONS = [
      "to the single line that names it; the refusal below it never repeats the noun, by design, so "
      "this exemption cannot silently widen to cover a second use. If a second line in book/ ever "
      "needs this rule, that is a breach, not a missing entry."),
+
+    # --- I.6, the chapter where two cuts are MADE. A cut has to name what it cuts. ---
+    ("book/I-06-the-recognition.md", "C6/godplayer", "not one player wearing every face",
+     "★ THE CUT ITSELF. C6's own rule text already says the God-player is legitimate where the cut "
+     "is being made (I.6 b4, VIII.6); this is the line that makes it. Scoped to the refusal."),
+    ("book/I-06-the-recognition.md", "C6/godplayer", "hide-and-seek with a single participant",
+     "The warm picture stated in the reader's own terms so it can be refused in the next breath — "
+     "the I.3 procedure for a retired word, applied to a retired cosmology. The cost paragraph "
+     "beneath it (a mask is not anybody; the grief would be a misunderstanding about costume) is "
+     "what this line exists to set up, and it is the only statement of the picture in the book "
+     "outside Book V, where it is named and credited."),
+    ("book/I-06-the-recognition.md", "C15/trap5", "in the drop going back to the sea",
+     "★ TRAP 5's ONLY EARLY GUARD, and it cannot be made without naming the destination it refuses. "
+     "01 §10 requires the refusal to be structural and stated in Book I's own last movement, ten "
+     "chapters before the trap springs in Book V. The sentence after this one is the refusal: a "
+     "destination with no perspective is the one condition in which nothing whatever is the case."),
 ]
 
 

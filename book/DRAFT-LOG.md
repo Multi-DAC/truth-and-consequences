@@ -453,3 +453,156 @@ At 1,247 words this is the longest chapter in Book I, against a scaffold that sa
 each short.* Forty-four words came out with the two register cuts. **It is still the longest, and
 that is on the record rather than fixed** — the objection needs its full statement, and a Trap-4
 answer shorter than the trap reads as a dodge.
+
+---
+
+## I.6 — THE RECOGNITION · Day 187, 2026-08-05 · 1,046 words · ✅ landed — **BOOK I IS DRAFTED**
+
+Scaffold beats 1–5. Beat 4 carries **C6** (the Ground cannot play) and **C15** (the telos), and it is
+**Trap 5's only early guard** — the one trap that springs ten chapters later, in Book V, where it
+cannot be fixed.
+
+| metric (per 1k words unless noted) | I.6 | I.5 | I.4 | I.3 | I.2 | I.1 | |
+|---|---:|---:|---:|---:|---:|---:|---|
+| **paragraph-intensity CV** @25w | 0.398 | 0.716 | 0.710 | 0.534 | 0.280 | 0.329 | ⚠ **and deliberately not chased — below** |
+| **paragraph-intensity CV** @1w | 0.515 | 0.755 | 0.863 | 0.597 | 0.489 | 0.524 | |
+| announcement | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 | ✅ six for six, after one cut |
+| terminal commentary (frac.) | 0.000 | 0.000 | 0.000 | 0.000 | 0.000 | 0.062 | ✅ after two cuts |
+| meta-textual | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 | 3.00 | ✅ |
+| emotion label | 0.96 | 0.00 | 0.00 | 0.00 | 1.85 | 8.01 | ⚠ one hit, adjudicated |
+| vague allusion · somatic | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 | ✅ |
+| named reference | **0.00** | 0.00 | 0.00 | 1.13 | 0.00 | 1.00 | ✅ **after a real one was found** |
+| 2nd person | **14.34** | 8.02 | 16.16 | 15.80 | 23.11 | 20.02 | ★ **the I.5 test, and it passed** |
+| voice uniformity | 0.6597 | 0.5748 | 0.6601 | 0.6640 | 0.6412 | 0.5669 | 🔻 back to trend; I.5 was the outlier |
+
+`claim_sweep --prose book`: **exit 0** — after four hits were read and four exemptions written. See
+below; three of them are the chapter doing its job.
+
+### The title was changed, because the scaffold said to change it rather than bend the doctrine
+
+The instruction has been sitting under I.6 since Day 186: *if the drafting can't make* return *mean
+recognition-without-destination in the mythic register, the chapter is retitled, not the doctrine
+bent.* **It could not, and the honest reason is that the title was arguing with the chapter on the
+contents page.** A return is a journey back to somewhere. Every load-bearing sentence in this chapter
+says there is nowhere to go, nothing to go back to, and nobody who left.
+
+**THE RECOGNITION**, and the word was already in the book rather than imported for the occasion:
+**I.2 beat 4 establishes that recognition requires absence** — *a having cannot be seen as a having
+if the having is everything.* That makes I.6 the recognition which the absence made possible, four
+chapters later, with the term already paid for. It also hands **THE RETURN** back to **II.8**, which
+had been sharing it and now has it outright. `06` is updated at the chapter head with the ruling.
+
+### The scaffold said "Named: Alan Watts" and the book says no names in Book I
+
+**A quiet collision, found by drafting into it, resolved on the register rule and written into `06`
+so it is not re-litigated.** Book I's own header bans citation, apparatus, and **named opponents on
+the page** — which is why Tolkien, the structural ancestor, is unnamed here and credited in the coda.
+So the `Named:` lines in Book I are **accounting** — whose position is being cut where — and not
+stage directions.
+
+**The cut is made in I.6; the name is spent in Book V**, where `06` already credits him at V.9 and
+apparatus is permitted. The chapter therefore states the warm picture *in the reader's own terms* —
+one player wearing every face, the evening as hide-and-seek, *you were* it *all along* — and refuses
+it with nobody's name attached. **The same procedure I.3 used on the retired word:** name the thing
+the reader arrived holding, once, in the grammar of the myth, then take it away.
+
+### The one register tell in the chapter was a capital letter
+
+`named_ref` came in at 0.95 and the hit was not a name — it was **IT**, set in capitals, in *you were
+IT all along.* That is a wink at a reader who already knows whose sentence it is, and Book I is the
+one book that cannot wink. Set as *it*, which is what a child in a game of tag is anyway. **The
+proxy caught a citation with no proper noun in it**, which is more than it was built to do, and
+`named_ref` went to 0.00 — the first chapter in the book clean on that column with nothing to
+adjudicate.
+
+Two further cuts, both the same family as I.5's: **"because that is the only place knowing has ever
+happened"** (terminal commentary, restating shape) became an em-dash aside; **"That is its content"**
+became *"What got recognised was being here."* And one false positive rewritten rather than exempted
+— *"the being-here is what got recognised"* trips `\bhere is what\b` **across a hyphen**, which is a
+gauge artefact and not prose, and the replacement is the better line regardless. That is now the
+second time this run the rule held: **rewrite where it is not a loss, exempt only where it is.**
+
+`emotion_label` 0.96 is the single word **grief**, in *"if they died the grief would be a
+misunderstanding about costume."* Adjudicated **kept**, on I.1's precedent: the detector fires on the
+narrator labelling a feeling, and this is the feeling under discussion — it is the *cost* of the
+picture being refused, and naming it is the entire force of the paragraph.
+
+### The escalation number is low, and it is being left alone on purpose
+
+**0.398, which is I.2 territory. I know exactly how to raise it and I am not going to.**
+
+Three hours ago I raised I.5 from 0.326 to 0.716 by rewriting two paragraphs, and the leave-one-out
+immediately reported that the new number described one of them. **The lesson is not "write a peak."
+The lesson is that this statistic is one paragraph wide, which means a chapter can be made to score
+by an edit that improves nothing.** I.6's peaks would have to go somewhere, and the only candidates
+are the God paragraph and the destination paragraph — the two places in this chapter where a raised
+voice would read as the book insisting, which is precisely the failure mode a mythic register exists
+to avoid.
+
+So: **I.6 is flat, it is flat where flatness is correct, and the number is on the record unimproved.**
+`fragility()` says FRAGILE at drop 0.196 with jack-min 0.184, so even this modest figure is carried
+by one paragraph. **The axis stays open where it has been open since I.1: re-measure at III.1**,
+which is argument at full adversarial strength and has nowhere to hide behind register.
+
+### The second-person test from the I.5 entry, run and reported
+
+I.5 came in at 8.02 against a book running 15.80–23.11, and the available explanation — *I.5 is the
+first chapter that looks at somebody other than the reader* — was written into the log **as an
+excuse, with its own test named**: if I.6 also came in under 10, the explanation was dead.
+
+**I.6 came in at 14.34.** The explanation survives. It is not confirmed — one pass is not a
+demonstration, and this log has already watched the single-topic excuse die on exactly this kind of
+evidence — but the failure mode it was proposed against did not occur. **I.5 is a local dip with a
+stated cause, not a drift in address.** Re-test at II.5, which is the tunnel chapter again and will
+have the same third parties in it.
+
+### Doctrine, and the two places this chapter could have failed silently
+
+**C5 — the naming — refuses four pictures before it arrives at the fifth.** Not a maker (there was no
+before to make anything in), not a watcher (watching wants a place to watch from), not something
+underneath bearing the weight (underneath is a direction and directions are made inside), not a
+picture *of* (there is nothing else for it to be of). **Each refusal is structural, and each is a
+consequence of I.1 rather than a new assertion** — the pattern I.4 established with the ladder. The
+register's five nouns — server, developer, engine, map, player — appear nowhere; Book I has not been
+handed that vocabulary, and every one of them is translated into a plain refusal instead.
+
+**And then the fifth is the hinge:** *"And it is not a player."* C5's list ends where C6 begins,
+which means the chapter's hardest beat arrives as the last item of a list the reader has already been
+nodding through.
+
+**C6 is refused by the requirements of playing, not by argument.** Not-knowing, stakes, a while in
+which it is not yet over — *"Each of those is a feature of an inside. The Fullness has no inside. It
+has all of them, which is not the same thing as having one."* Then the inversion, in the myth's own
+words: *"The many play, and the still thing is what playing is made of — not the one who wins, not
+the one who is hiding, not a participant at all."*
+
+★ **And then the ethical cost, which is the sentence Book VII is downstream of.** The warm picture is
+not refused for being wrong; it is refused for what it does to the other chair. *"If they are a mask,
+they are not anybody... and if they died the grief would be a misunderstanding about costume."*
+Landing: **"Take the god out of the other chair and what sits down in it is a person."** That is `01`
+§9's *"the theology that removes the divine player is the one that makes the other players matter"*
+in the mythic register, with the abstraction taken out and a table put under it.
+
+**C15 — Trap 5's only early guard — is structural and refuses the destination without disparaging
+it.** Dissolving, merging, the drop going back to the sea: *"those name a destination, and the
+destination they name is the one condition in which nothing whatever is the case. Being any way at
+all is being some way from somewhere."* And then the half that is easy to drop: the telos has **two**
+halves. *The going* — one width of the world after another, *"none of them a rung, none of them
+closer to anything"* — and *the meeting* — the other insides known **as insides**, *"not as the
+scenery of yours,"* which pre-loads the no-NPC rule without naming it.
+
+**Beat 5 hands to Book II by not explaining itself.** The last movement drops the recognition onto a
+person who *"afterward got up and carried the plates to the sink"* — the inside stays, and the proof
+of it is domestic — and then closes on the words having been *"borrowed from smaller things. They
+will not hold."* No announcement, no bridge sentence, no promise of what comes next.
+
+### Book I, six chapters, drafted
+
+**6,250 words** — 999 · 1,082 · 886 · 990 · 1,247 · 1,046, all six counted by
+`storyscope_lite.profile`, which is the counter every per-chapter figure in this log uses. *(A naive
+whitespace split says 6,297; the difference is markdown emphasis and it is stated here rather than
+left to be rediscovered as a discrepancy.)* `claim_sweep` exit 0 across all six. `announcement` 0.00 in every chapter,
+`terminal_commentary` 0.000 in five of six, `meta_textual` 0.00 in five of six, `vague_allusion` and
+`somatic` 0.00 in all six. **The open axis is the one that has been open since the first chapter and
+was not closed by any of the five that followed: escalation is flat, and the one time it moved it
+moved because of a single paragraph.** III.1 is where that gets settled or admitted.
