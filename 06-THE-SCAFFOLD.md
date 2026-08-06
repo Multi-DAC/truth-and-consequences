@@ -730,17 +730,74 @@ union-telos and the divine-player error travelling together inside a compliment.
 the popularizer absent *and* the source absent. → and the register the whole chapter was missing,
 `03` §3.6: **Huizinga 0 · Caillois 0 · Suits 0 · Carse 0 · Fink 0.**
 
-### III.3 — THE WHOLE GAME IS PRE-RENDERED
-⚠ **Retitled Day 186.** Was "THE MAP IS PRE-RENDERED" — a retired term (`05` §3b) surviving in a
-chapter title four chapters before III.6 declares that retirement non-negotiable. Caught by
-`tools/claim_sweep.py`, not by a reading. See `07-THE-CLAIMS-REGISTER.md`, the existence proof.
+### III.3 — THE WHOLE GAME IS ALREADY THERE
+✅ **DRAFTED Day 187 · 2,734 words · `book/III-03-the-whole-game-is-already-there.md`.** All four
+beats land. **Primary text only, twelve quoted passages from two stories (four set as block
+quotations) plus one reported, each cross-checked against a second independent digitisation before
+it was written in** — the table is in `DRAFT-LOG`. *The Library of Babel* in
+J. E. I.'s translation from two digitisations that agree line for line; *The Garden of Forking Paths*
+in Yates, checked against the Temple & Todd translation, which is a stronger test than a second copy
+because it verifies the *claim* and not the orthography.
+⚠⚠ **RETITLED TWICE, AND THE SECOND TIME IS RULING 65.** Day 186 replaced *THE MAP IS PRE-RENDERED* →
+*THE WHOLE GAME IS PRE-RENDERED*: the gauge flagged `the map`, the flagged word was fixed, and the
+other three words were never looked at. **`pre-rendered` is the worse error of the two.** *Pre-* is
+priority, priority is a position in time, and III.1 spends its length emptying that position — so
+the title asserted, in a prefix, the thing the book's own opening chapter removes. And in the
+metaphor's native vocabulary *pre-rendered* is the **antonym** of III.4's thesis: baked in advance by
+a studio, stored, played back. `00`'s macro-structure carried both bullets adjacent — *the whole game
+is pre-rendered* immediately above *the world is generated at the point of contact* — for two days.
+The term is retired; `tools/claim_sweep.py` now watches it with no licensed use.
+★ **THE CHAPTER'S BEST FINDING, and it is in the smallest print in the story: C1 is Borges's
+footnote 3, verbatim.** *"I repeat: it suffices that a book be possible for it to exist. Only the
+impossible is excluded."* Eighteen words, 1941, in an aside about ladders — and III.2 arrived at the
+same sentence from the other end (*what can be, in a totality with nothing outside it, is*).
+★★ **AND THE CUT AGAINST BORGES WAS NOT IN `03` AT ALL — ruling 68.** Two sentences after *The
+Library exists ab aeterno*, the librarian hands the shelving to a god and the librarians to
+*malevolent demiurgi*. **It has no origin, and it was made**, in one paragraph. That is III.1's
+diagnosed reflex performed by the friendliest available witness, and it is the chapter's cut. The
+second cut is the **architecture** — hexagons, air shafts, an inaccessible circumference — which
+Borges himself gives away in the last footnote (Alvarez de Toledo: a single volume would suffice).
 **Thesis:** plenitude as mechanics.
-**Beats:** every configuration already there, statically, nothing authored at runtime · the Library of
-Babel with the shelves drawn in · the Garden of Forking Paths seen from a walker · why "already there"
-is not "already decided."
-**Named:** ★ **Borges — 0 files.** Load-bearing silence, flagged in `03`, cashed here.
+**Beats:**
+1. **Disarm *already* in the first three paragraphs.** C1's stated trap is the past tense "in a word
+   nobody notices," and the title is that word. *Already* here means **not waiting on anything** —
+   no claim whatever about when the states got there, and a denial that getting there happens.
+2. Every configuration already there, statically; **no build, no ship date, and no runtime.** A game
+   has two ways to have content — baked or generated — and **both are ways of paying.** This is
+   neither, and not because a cheaper third method was found: nothing is being paid for.
+3. **The Library of Babel with the shelves drawn in**, at full strength, then both cuts (above).
+4. **The Garden of Forking Paths seen from a walker** — all outcomes occur, none pruned, and the
+   totality is put in a man's mouth in a garden minutes before he is shot in the back.
+5. **Why "already there" is not "already decided."** They are opposite claims: to be decided is to
+   have been *selected*, and selection is subtraction with nobody outside the whole to subtract with.
+   Second half from Borges's own list — the Library holds the true story of your death *and* every
+   counterfeit of it, indistinguishably. **Completeness is not a schedule.**
+⚠ **THE BOUNDARY, DECLARED AND HELD: the freedom argument is III.7's and this chapter only
+distinguishes.** *Already there ≠ already decided* is a distinction between two claims; *what walking
+is when every branch exists* is the answer, and it is not given here. One sentence hands it forward.
+⚠ **AND THE VERTIGO IS BOOK VII's.** *The certitude that everything has been written negates us or
+turns us into phantoms* is named as the strongest thing said against us and deliberately not
+answered — `03` is right that Borges states the cost better than any opponent does.
+**Named:** ★ **Borges — 0 files.** Load-bearing silence, flagged in `03`, cashed here. Also present
+by name in his own text and left there: **Basilides** (in the quoted list) and the **demiurgi** of
+the axiom paragraph, which is III.1's figure surfacing in the ancestor's own vocabulary.
 
 ### III.4 — RENDERED AT THE POINT OF CONTACT
+✅ **THE RULING-20 TEST HAS ITS FIRST EVIDENCE AND THE CHAPTER SURVIVES — ruling 69, Day 187,
+recorded BEFORE it is drafted rather than discovered inside it (ruling 24's procedure).** III.3 is
+now written and did **not** eat this one, deliberately: III.3 answers *why the states are*, and this
+chapter answers *what it is where one of them is you.* The seam is real and it is the pair's whole
+value — a totality with no author, no building and no schedule, and then a reader in a room with a
+wall at arm's length. III.3's closing paragraph states that gap and refuses to close it.
+⚠ **WHAT III.3 DID NOT SPEND, AND THIS CHAPTER MUST:** the *from-inside identity* (procedural
+generation is what focusing looks like from within), the **not stored / not fetched / not streamed**
+denial — III.3 denies that the STATES are stored, which is a different denial in the same words, and
+it made its version through Borges's architecture on purpose so that this vocabulary stayed unspent —
+and **co-constitution in mechanical language**, which III.3 does not touch at all.
+⚠ **AND ONE INHERITED DEBT: the two-ways-of-paying frame is now on the page.** III.3 names *baked or
+generated* and refuses both as accounts of why the states exist. This chapter uses the second word
+affirmatively, and must say in one sentence why that is not a reversal: **a render is not a
+production.** If it cannot, ruling 20 revives.
 ⚠⚠ **ON NOTICE, Day 187 → ruling 20.** This chapter and II.2 were scaffolded as the same chapter.
 II.2 has now been drafted as the **definitional** half and **keeps the seed's two-sided formula**
 (*not solely yours, not solely given*) — Book II defines each term once, and that is the definition.

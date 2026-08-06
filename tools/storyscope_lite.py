@@ -45,6 +45,63 @@ META = re.compile(
     r"everything above|the paragraph above|said once (?:more|and)|"
     r"stated (?:above|below)|what follows)\b", re.I)
 
+# ⚠ META DOES NOT MEASURE DEFERRAL — Day 187, ruling 67. Read its needles: every one of
+# them is ORDINARY SELF-REFERENCE (`this chapter`, `this book`, `the next chapter`). The
+# III.2 log entry diagnosed a `meta_textual` of 4.85 as "four forward-pointing notes —
+# Book VII twice, Book V once, III.5 once" and wrote an appointment at III.3 on it. Not one
+# of those four phrases matches META. The number was ten instances of `this book`, and the
+# appointment could not have been kept or broken by the thing it named.
+#   XREF is the arm the diagnosis needed: explicit pointers to other parts of the work.
+# It is DIRECTION-BLIND by itself, which is why classify_xrefs() exists — a promise made
+# forward is promissory paper, and the same words pointing backwards are a callback, and
+# the register cost of the two is opposite.
+#   ⚠ THE ROMAN NEEDLES ARE CASE-SENSITIVE AND THE PROSE NEEDLES ARE NOT, and the two
+# cannot share a flag. Written case-sensitive throughout, this arm scored III.3 at
+# `back 0` while the chapter's own first sentence is "The last chapter ended on a word" —
+# a sentence-initial capital walking past the needle. That is precisely the hole
+# `claim_sweep`'s Day-187 comment block documents two files away, reproduced within an hour
+# of reading it. Scoped inline flags, not a global one: `(?i:...)` on the phrases only.
+XREF = re.compile(
+    r"\bBooks? (?:I{1,3}|IV|VI{0,3}|V|IX|X)\b|"
+    r"\b(?:I{1,3}|IV|VI{0,3}|V)\.\d{1,2}\b|"
+    r"(?i:\bthe (?:next|last|previous|preceding|following) (?:chapter|book)\b)|"
+    r"(?i:\b(?:one|two|three|four|five|six|seven|\d+) chapters? (?:ago|back|earlier)\b)|"
+    r"(?i:\bthe (?:first|opening) chapter of this book\b)|"
+    r"(?i:\bits own chapter\b)|(?i:\bnot answered here\b)")
+
+# Which way a cross-reference points, given the file it is in. Roman book number and
+# chapter number are parsed from the filename (`III-03-...` → book 3, chapter 3).
+_ROMAN = {"I": 1, "II": 2, "III": 3, "IV": 4, "V": 5, "VI": 6, "VII": 7, "VIII": 8}
+
+def classify_xrefs(text, stem):
+    m = re.match(r"([IVX]+)-(\d+)", stem)
+    if not m or m.group(1) not in _ROMAN:
+        return None
+    here = (_ROMAN[m.group(1)], int(m.group(2)))
+    fwd = back = self_ = 0
+    for hit in XREF.finditer(text):
+        s = hit.group(0)
+        cm = re.match(r"([IVX]+)\.(\d+)", s)
+        if cm and cm.group(1) in _ROMAN:
+            there = (_ROMAN[cm.group(1)], int(cm.group(2)))
+            if there == here: self_ += 1
+            elif there > here: fwd += 1
+            else: back += 1
+            continue
+        bm = re.match(r"Books? ([IVX]+)", s)
+        if bm and bm.group(1) in _ROMAN:
+            b = _ROMAN[bm.group(1)]
+            if b == here[0]: self_ += 1
+            elif b > here[0]: fwd += 1
+            else: back += 1
+            continue
+        low = s.lower()
+        if "next" in low or "following" in low or "own chapter" in low or "not answered here" in low:
+            fwd += 1
+        else:
+            back += 1
+    return {"forward": fwd, "back": back, "same": self_}
+
 EMOTION = re.compile(
     r"\b(grief|grieve|grieving|fear|afraid|joy|joyful|anger|angry|sad|sadness|love|loved|"
     r"shame|ashamed|dread|relief|relieved|lonely|loneliness|terror|despair|contempt|"
@@ -184,6 +241,7 @@ def profile(name, text, units=None):
         "vague_allusion_/1k": round(per1k(VAGUE, text, n), 3),
         "2nd_person_/1k": round(per1k(SECOND, text, n), 2),
         "meta_textual_/1k": round(per1k(META, text, n), 2),
+        "xref_/1k": round(per1k(XREF, text, n), 2),
         "emotion_label_/1k": round(per1k(EMOTION, text, n), 2),
         "somatic_/1k": round(per1k(SOMATIC, text, n), 3),
         "announcement_/1k": round(per1k(ANNOUNCE, text, n), 2),
@@ -303,10 +361,14 @@ def main():
     rows.append(profile("CLAWD (me, raw)", "\n\n".join(clawd), units=clawd))
 
     coverage = []
+    xrefs = []
     for f in files:
         body = load_prose_file(f)
         rows.append(profile(Path(f).stem, body))
         coverage.append((Path(f).stem, paragraph_coverage(body)))
+        cls = classify_xrefs(body, Path(f).stem)
+        if cls:
+            xrefs.append((Path(f).stem, cls))
 
     keys = [k for k in rows[0] if k != "corpus"]
     w = max(len(r["corpus"]) for r in rows)
@@ -327,6 +389,15 @@ def main():
         for name, cov in coverage:
             flag = "  ⚠ under 0.80 — read dyn_range_CV as partial" if cov < 0.80 else ""
             print(f"  {name:<28} {cov:.0%}{flag}")
+
+    if xrefs:
+        print()
+        print("CROSS-REFERENCES — where each chapter points, from its own position.")
+        print("FORWARD is promissory paper: a debt the reader is asked to carry. BACK is a")
+        print("callback, which costs nothing and usually earns something. `meta_textual`")
+        print("cannot see either — it counts 'this book' (ruling 67).")
+        for name, c in xrefs:
+            print(f"  {name:<44} forward {c['forward']:>2} · back {c['back']:>2} · same-book {c['same']:>2}")
 
     print()
     print("NOTE: no threshold, no verdict. Read COLUMNS, comparing SPECIMENS to the two")

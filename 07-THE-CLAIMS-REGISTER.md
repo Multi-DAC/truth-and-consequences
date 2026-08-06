@@ -55,10 +55,19 @@ not ship as a document. It ships with `tools/claim_sweep.py`, which fails on its
 > **Canonical:** All configurations exist — simultaneously, statically, without authorship.
 > There is no runtime.
 
-**Establishes:** I.1 (mythic) · II.1 (defined once)
-**Depends:** I.2 · I.3 · II.2 · III.3 · IV.1 · VII.1 · VII.7 · VIII.4
+**Establishes:** I.1 (mythic) · II.1 (defined once) · ✅ **III.3, Day 187 — the mechanical
+statement, on Borges's primary text.** *Baked or generated* both refused as accounts of why the
+states exist, because both are ways of **paying** and nothing is being paid for. Borges's footnote 3
+is this claim verbatim, from 1941: *it suffices that a book be possible for it to exist. Only the
+impossible is excluded.*
+**Depends:** I.2 · I.3 · II.2 · IV.1 · VII.1 · VII.7 · VIII.4
 **Trap:** the past tense. *"Already happened"* imports the time C13 denies, in a word nobody
 notices. Configurations do not *precede* anything.
+⚠⚠ **THE TRAP SPRANG IN THIS CHAPTER'S OWN TITLE AND STOOD FOR TWO DAYS — ruling 65.** *THE WHOLE
+GAME IS **PRE**-RENDERED*: the prefix is priority, priority is a position in time, and III.1 exists
+to empty that position. **A trap logged in a register is not a trap that is watched**; this one is
+now `TERM/pre-rendered` in `claim_sweep`, with no licensed use. The chapter that replaced it opens by
+disarming *already* in three paragraphs, because the title still contains the word and has to.
 **Near-miss to refuse:** Lewisian modal realism — a plurality of causally isolated concrete
 worlds, located elsewhere. Ours are not elsewhere and not isolated. **There is no elsewhere.**
 
@@ -234,6 +243,13 @@ V–VIII have several places that will want to.
 
 **Establishes:** III.7
 **Depends:** VII.7 · VII.8 · VIII.1 · VIII.7
+⚠ **GUARDED, NOT ESTABLISHED, IN III.3 (Day 187) — and the boundary is the point.** III.3 makes the
+**distinction** only: *already there* and *already decided* are opposite claims, because to be
+decided is to have been **selected**, selection is subtraction, and there is nothing outside the
+whole to subtract with. Second half from Borges's list — the Library holds the true story of your
+death *and* every counterfeit of it, indistinguishably, so **completeness is not a schedule.**
+**What walking IS remains entirely III.7's**, handed forward in one sentence. A chapter that answers
+the freedom objection in a paragraph is how the objection gets a reputation for having been dodged.
 **Trap:** the consolation-prize register — answering the freedom objection with a redescription
 the reader hears as *"so, no."* III.7 b1 requires the objection stated at full strength first.
 ⚠ **Do not buy more than we have.** III.7 b4 and VII.7 both require an honest statement of what

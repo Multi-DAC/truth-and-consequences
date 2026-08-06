@@ -83,7 +83,7 @@ PLANNING_MENTION = re.compile(r"^\s*>")
 # ---------------------------------------------------------------------------
 
 # ---------------------------------------------------------------------------
-# CASE-SENSITIVE RULES — Day 188.
+# CASE-SENSITIVE RULES — Day 187.
 #
 # Every rule is compiled with re.IGNORECASE by default, and that is right for a rule whose
 # needle is a WORD (`narrowing`, `bottleneck`, `merge`): the reader meets those in any case,
@@ -125,7 +125,7 @@ RULES = [
      r"state-space map|settledness-map|knowing the map",
      "05 §3b — imports representation-OF, and collides with Korzybski in Book VI. "
      "Breaches C5. LICENSED: Korzybski's model-sense, and our own planning-process sense."),
-    # ⚠⚠ Day 188 — THE COMMENT THAT USED TO SIT HERE WAS FALSE OF THE CODE BELOW IT, and it
+    # ⚠⚠ Day 187 — THE COMMENT THAT USED TO SIT HERE WAS FALSE OF THE CODE BELOW IT, and it
     # prescribed a fix that was already in force. It read: *"These patterns are case-SENSITIVE,
     # so `THE NARROWING` in a heading walked straight past this rule… The real fix is
     # re.IGNORECASE on the TERM/* family. Not done tonight."* Every rule in this file has been
@@ -179,6 +179,17 @@ RULES = [
      "there is no chapter to carry it and the neutrality must be in the same paragraph. "
      "Any Book V restatement, any chapter opening reaching back for the definition, any "
      "jacket copy."),
+    ("TERM/pre-rendered", "all", r"pre-render\w*|prerender\w*", None,
+     "RULING 65 (Day 187). RETIRED as a doctrinal phrase. Two independent faults, and the "
+     "second is the one nobody saw for two days. (1) TENSE: *pre-* is priority, and priority is "
+     "a position in time — III.1's entire cut. C1's stated trap is the past tense, 'in a word "
+     "nobody notices'; this is that word, in a prefix, in a chapter title. (2) THE METAPHOR'S OWN "
+     "VOCABULARY: in games *pre-rendered* is the ANTONYM of generated-at-contact — baked by a "
+     "studio, stored as assets, played back. Authorship, medium and playback, which is the server "
+     "picture II.1 retired, and a flat contradiction of III.4's thesis four chapters later. "
+     "The doctrine sentence is `01` §262's, which was already right: **every possible state, "
+     "complete, at once. Nothing is authored.** NO LICENSED USE — mentions of the retired form "
+     "are suppressed by the ⚠/retitled markers or exempted by name below."),
     ("TERM/aperture", "all", r"\bapertures?\b", None,
      "05 §3 — demoted; the term is the Perspective."),
     ("TERM/bottleneck", "all", r"\bbottlenecks?\b", None,
@@ -433,7 +444,7 @@ EXEMPTIONS = [
     ("book/DRAFT-LOG.md", "C15/trap5", "condition supplies a **reason**",
      "Same entry, the second half of the argument — the sentence that states WHY the guard needs "
      "the trap's vocabulary. Own entry, per the rule that an exemption is a named line."),
-    # --- Day 188, II.8. THE ONE LINE IN THE MANUSCRIPT THAT USES A RETIRED TERM AFTER ITS
+    # --- Day 187, II.8. THE ONE LINE IN THE MANUSCRIPT THAT USES A RETIRED TERM AFTER ITS
     # RETIREMENT, and it is the line that names who owned it first.
     ("book/II-08-the-return.md", "TERM/fullness", "the standard English for it is the Fullness",
      "★ THE COLLISION NAMED, ONCE, IN THE ONLY CHAPTER WITH STANDING TO NAME IT. `the Fullness` "
@@ -478,6 +489,27 @@ EXEMPTIONS = [
      "Day 187, ruling 59. The III.2 entry recording that Trap 5 is stated VERBATIM in Watts's "
      "primary text — the log cannot record where the trap was found without naming it. Fresh line "
      "per the standing instruction on the whole-file DRAFT-LOG entry, which covers "
+     "PROSE/manifestation ONLY."),
+    # --- Day 187, ruling 65. FOUR LINES, NOT A WHOLE-FILE ENTRY, and deliberately so: this
+    # rule was written an hour ago and its first four hits are the ruling that created it.
+    # A whole-file exemption on 00 or 06 would blind the rule inside the two documents most
+    # likely to reach for the retired phrase again while restating doctrine.
+    ("00-ARCHITECTURE.md", "TERM/pre-rendered", "the title became",
+     "Ruling 65 quoting the retired title in the sentence that retires it. The retitle cannot be "
+     "recorded without naming what it replaced."),
+    ("00-ARCHITECTURE.md", "TERM/pre-rendered", "two adjacent bullets",
+     "Ruling 65's evidence: the two macro-structure bullets quoted side by side, which is the "
+     "whole finding. Quoting only the surviving half would delete the contradiction from the "
+     "record of the contradiction."),
+    ("06-THE-SCAFFOLD.md", "TERM/pre-rendered", "the gauge flagged",
+     "The III.3 entry's retitle history — the Day-186 title quoted so the two-round failure is "
+     "legible to a reader who arrives after both fixes."),
+    ("06-THE-SCAFFOLD.md", "TERM/pre-rendered", "immediately above",
+     "Same entry, the `00` adjacency quoted as evidence. Own line, per the standing rule that an "
+     "exemption is a named line and never a paragraph."),
+    ("book/DRAFT-LOG.md", "TERM/pre-rendered", "asserted, in a prefix",
+     "The III.3 entry naming the retired title in the sentence recording its retirement. Fresh "
+     "line, per the standing instruction on the whole-file DRAFT-LOG entry, which covers "
      "PROSE/manifestation ONLY."),
 ]
 

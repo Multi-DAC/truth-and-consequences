@@ -195,8 +195,10 @@ Reality tunnels × a choose-your-own-adventure that is procedurally generated
 both, internally and externally at once.
 
 Why the analogy is exact rather than cute:
-- **The whole game is pre-rendered and infinite.** Every configuration already exists
-  in the Ground, statically. Nothing is authored at runtime.
+- **The whole game is already there, and it is complete.** Every configuration exists
+  in the Ground, statically. Nothing is authored, and there is no runtime for authoring
+  to happen in. *(Ruling 65 — this line read "**pre-rendered** and infinite" until Day 187,
+  directly above the bullet below it, which says the opposite in the same vocabulary.)*
 - **The world is generated at the point of contact.** Not stored, not fetched —
   *rendered* where a perspective meets the Ground. Procedural generation is what
   focusing looks like from inside.
@@ -2278,3 +2280,98 @@ be the cause. *(`dyn_range_CV` re-measured at n=16: r = −0.586, confirming rul
 **So `voice_uniformity` needs no length correction. It needs a quotation correction, and now has
 one.** The axis is open no longer in the sense of *uncharacterised*; it is open in the sense of
 *flat, honestly measured, and moved once.*
+
+**65. ★★ THE CHAPTER TITLE ASSERTED, IN A PREFIX, THE THING BOOK III's OPENING CHAPTER REMOVES —
+AND THE DAY-186 RETITLE HAD ALREADY TOUCHED IT AND LOOKED AT ONE WORD.** III.3 was *THE MAP IS
+PRE-RENDERED*; `claim_sweep` flagged `the map`; the title became *THE WHOLE GAME IS PRE-RENDERED*
+and shipped. **The word the gauge did not know to look at is the worse of the two.**
+⚠ **Fault one, doctrinal.** *Pre-* is priority. Priority is a position in time. III.1 spends 1,900
+words establishing that there is no such position and nothing standing in it — and C1's own stated
+trap is *the past tense, "in a word nobody notices."* This was that word, in a chapter title, for
+two days, in the book that ruled the trap.
+⚠ **Fault two, and it is the one a reader would have caught first.** In the metaphor's native
+vocabulary *pre-rendered* is the **antonym** of *generated at the point of contact*: content baked in
+advance by a studio, stored as fixed assets, played back at runtime. Authorship, a medium, and a
+playback — the server picture II.1 retired, wearing the frame's own jargon. **`00`'s macro-structure
+carried the contradiction as two adjacent bullets** — *the whole game is pre-rendered* directly above
+*the world is generated at the point of contact* — and nobody read the pair, because each line is
+correct about its own chapter and the defect exists only between them.
+✅ **Retitled: III.3 — THE WHOLE GAME IS ALREADY THERE**, which is `05` §5's own phrase (*already
+there, unwalked and walked alike*) and is the sentence the drafted chapter opens by disarming. The
+doctrinal formula reverts to `01` §262's, which was right the whole time: **every possible state,
+complete, at once. Nothing is authored.** Three live doctrinal uses repaired (`00` ×1, `04` ×2).
+✅ **A gauge, not a stamp: `TERM/pre-rendered` added to `claim_sweep`, with no licensed use.** The
+Day-186 retirement of `the map` was recorded in three files and enforced in none until a rule
+existed; this one gets its rule in the same hour it is ruled.
+🔻 **The class, which is worth more than the instance: A GAUGE CERTIFIES WHAT IT MEASURES AND NOTHING
+ELSE ON THE SAME LINE.** A flagged word inside a title makes the whole title look inspected. Both
+Day-186 retitles were made *by* the sweep — and a sweep hit is an invitation to read the sentence,
+not a report that the rest of it is clean.
+
+**66. THREE COMMENTS IN `claim_sweep.py` WERE STAMPED WITH TOMORROW.** *Day 188* at lines 86, 128 and
+436, all committed 2026-08-06, alongside work that every other document in the repo dates **Day
+187** — and two of them sit inside the comment block whose subject is a comment that rotted.
+Corrected. Trivial as a defect and not trivial as evidence: the audit trail is the only record of
+*when a finding landed*, and a hand-written day-stamp is exactly the carrier this project keeps
+ruling against.
+
+**67. `meta_textual` DOES NOT MEASURE DEFERRAL, AND THE APPOINTMENT WRITTEN ON IT COULD NOT HAVE BEEN
+KEPT.** The III.2 log entry read a `meta_textual` of 4.85 as *"four forward-pointing notes — Book VII
+twice, Book V once, III.5 once … the chapter is carrying more promissory paper than any Book III
+chapter should"*, and booked a test: *"watch it at III.3; if it does not fall, the book is deferring
+rather than arguing."* **Not one of those four phrases matches the pattern.** `META` looks for `this
+chapter`, `this book`, `the next chapter`, `we will` — ordinary essayistic self-reference. The 4.85
+was **ten instances of "this book"**, and the diagnosis attached to it was produced by reading and
+then attributed to the number.
+⚠ **III.3 comes in at 4.86, and by the appointment's terms the book is deferring. It is not.**
+Measured with an arm that can see the thing: III.3 makes **5 forward hits / 3 distinct debts** (III.7,
+Book VII, III.4) against III.2's **6 / 4**, and III.3 makes **5 backward references** to III.2's 2.
+The promissory load fell and the callback density more than doubled — the opposite of the reading the
+old number would have licensed.
+✅ **Arm built: `xref_/1k`, plus a per-chapter FORWARD / BACK / SAME-BOOK block in
+`storyscope_lite.py`**, parsing the chapter's own position out of its filename so that direction is
+computed rather than assumed. **Limitation printed rather than hidden:** it counts *hits*, not
+distinct debts — one deferral phrased in two clauses scores two.
+🔻 **And the arm shipped with the exact hole the sibling tool documents.** Written case-sensitive, it
+scored III.3 `back 0` while the chapter's own first sentence is *"The last chapter ended on a word"*
+— a sentence-initial capital walking past the needle, which is `claim_sweep`'s Day-187 comment block
+reproduced within an hour of my reading it. Fixed with scoped inline flags (`(?i:…)`) on the prose
+needles only, because the Roman-numeral needles must stay case-sensitive. **Two tools, one file tree,
+the same defect: the property belongs to the NEEDLE, and neither tool has anywhere to record which
+kind a needle is.**
+
+**68. `03`'s BORGES ENTRY NAMES THE COST AND MISSES THE CUT — AND THE CUT IS TWO SENTENCES FROM HIS
+BEST ONE.** The entry has Borges as *"not a friendly ancestor … the strongest statement of the
+cost,"* with the debt owed forward to Book VII. True, and incomplete: it left III.3 with an ancestor
+to admire and nothing to cut, which in this book is a defect and not a courtesy.
+★ **What the primary text has.** The librarian's first axiom: *The Library exists ab aeterno* — no
+origin, nothing before it — and then, two sentences on, *the universe, with its elegant endowment of
+shelves … can only be the work of a god*, with **malevolent demiurgi** left holding the librarians.
+**It has no origin, and it was made**, in one paragraph, from the ancestor who got completeness
+right. That is III.1's diagnosed reflex — *given an inside, the mind reaches for someone outside who
+put you there, and builds him out of whatever the century has to hand* — performed by the most
+sympathetic possible witness. It costs III.3 no re-argument to use, because the argument is spent and
+this is an instance of it.
+★ **Second cut, also out of his text: the architecture.** Hexagons, air shafts, a sphere *whose
+circumference is inaccessible* — and an unreachable edge is still an edge. Borges hands the furniture
+over himself in the story's last footnote (Alvarez de Toledo: a single volume of infinitely thin
+leaves would suffice). **The shelves were never load-bearing.**
+★★ **And the keep, which is the chapter's best find: footnote 3 is C1 verbatim.** *"I repeat: it
+suffices that a book be possible for it to exist. Only the impossible is excluded."* 1941.
+⚠ **A SHAPE TO WATCH, RECORDED BEFORE IT BECOMES A TIC — twice now the primary source's overlooked
+passage has been the best one.** Śaṅkara's second analogy in III.2; Borges's footnote 3 here. Twice
+is a method. A third would be a rite, and III.1's own note about repeated shapes applies.
+
+**69. RULING 20's ABSORPTION TEST HAS ITS FIRST EVIDENCE AND III.4 SURVIVES — DECLARED BEFORE IT IS
+DRAFTED.** The test was: *if what is left in III.4 is the thesis sentence plus a restatement of II.2,
+it is absorbed into III.3 and Book III runs seven chapters.* III.3 is written and the test answers in
+the right direction. III.3 takes **why the states are**; III.4 takes **what it is where one of them
+is you**; and III.3's closing paragraph states that gap without closing it.
+✅ **Held out of III.3 deliberately, and recorded in `06` so that the next drafter can check rather
+than trust:** the from-inside identity, the *not stored / not fetched / not streamed* denial — III.3
+makes its version of that denial through Borges's **architecture** precisely so the vocabulary stays
+unspent — and co-constitution, which III.3 does not touch at all.
+⚠ **One debt was created rather than avoided.** III.3 names the two ways a game can have content
+(*baked or generated*) and refuses **both** as accounts of why the states exist. III.4 uses the second
+word affirmatively, so it owes one sentence distinguishing them: **a render is not a production.** If
+that sentence cannot be written, ruling 20 revives on better evidence than it had.

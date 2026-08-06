@@ -223,6 +223,27 @@ model: Borges asserts fantastic metaphysics *flatly, in a dry librarian's voice*
 flatness is exactly what makes it land. **That is our style contract, demonstrated by a
 master.**
 
+✅ **CASHED Day 187 in III.3 — and this entry was wrong by omission, which ruling 68
+records.** Everything above is true and it left the chapter an ancestor to admire with
+nothing to cut. **The cut was in the primary text the whole time, two sentences from his
+best line.** The librarian's first axiom runs: *The Library exists ab aeterno* — no
+origin, nothing standing before it — and then, in the same paragraph, *the universe, with
+its elegant endowment of shelves … can only be the work of a god*, with **malevolent
+demiurgi** left holding the librarians. *It has no origin, and it was made.* That is
+III.1's diagnosed reflex performed by the friendliest available witness, and it is why
+Borges is an ancestor rather than an ally.
+- **Second cut: the architecture.** Hexagons have walls; an *inaccessible circumference*
+  is still a circumference. Borges gives the furniture away himself in the last footnote
+  (Alvarez de Toledo: a single volume of infinitely thin leaves would do). The
+  completeness is ours; the building is not.
+- ★★ **And the keep, which this entry also missed: C1 is his footnote 3, verbatim** — *"it
+  suffices that a book be possible for it to exist. Only the impossible is excluded."*
+  The entry had *"Borges got to the hard part first"* pointing at the vertigo. He got to
+  the **easy** part first too, and stated it better than the doctrine did.
+- **The vertigo stays Book VII's**, exactly as this entry says, and III.3 names it without
+  answering it: *the certitude that everything has been written negates us or turns us
+  into phantoms.*
+
 ### **Indra's Net / Huayan Buddhism — 0.**
 
 An infinite net; a jewel at every knot; each jewel reflects every other jewel, *including

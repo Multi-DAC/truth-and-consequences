@@ -327,12 +327,12 @@ brought no discipline to it.
    to be wrong.
 
 **What we say — and the difference is a *sharper* claim, not a softer one.** The
-whole game is pre-rendered and infinite. Every configuration already exists,
-statically, in the Ground; nothing is authored at runtime. **You navigate; you do not
-author.** Participation is real *and constrained*, and the constraint is what
+whole game is already there, and it is complete. Every configuration exists,
+statically, in the Ground; nothing is authored, and there is no runtime for authoring to
+happen in. **You navigate; you do not author.** Participation is real *and constrained*, and the constraint is what
 makes it worth anything.
 
-**Books.** III (the whole game is pre-rendered — the load-bearing distinction), VI
+**Books.** III (the whole game is already there — the load-bearing distinction), VI
 (tunnels are editable, by engineering, not by wishing), VIII (the discipline
 lives here or nowhere).
 

@@ -2434,3 +2434,149 @@ and *līlā* went through as mojibake. **It was caught by an `Edit` failing to m
 old_string**, not by reading the file. ⚠ **Standing note for this repo: append to these documents
 with Python (`encoding='utf-8'`) or a heredoc, never with the PowerShell pair.** A quotation table
 whose Sanskrit is corrupted is worse than no quotation table — it looks like care.
+
+---
+
+## III.3 — THE WHOLE GAME IS ALREADY THERE · Day 187 (2026-08-06) · 2,734 words
+
+**Book III is 3 of 8.** Four beats, plus a fifth that the drafting added and the scaffold has been
+amended to carry: the chapter opens by **disarming its own title**. C1's stated trap is *the past
+tense, in a word nobody notices*; the title's word is *already*; three paragraphs are spent taking
+the ordinary sense off it before anything is claimed. **`already` here means NOT WAITING ON
+ANYTHING** — no claim about when the states got there, and a denial that getting there happens.
+
+★ **The chapter's best find is eighteen words in the smallest print Borges wrote.** Footnote 3 of
+*The Library of Babel*: *"I repeat: it suffices that a book be possible for it to exist. Only the
+impossible is excluded."* That is C1, verbatim, from 1941, in an aside about ladders — and III.2
+reached the same sentence from the other end on the same day (*what can be, in a totality with
+nothing outside it, is*).
+
+★★ **And the cut was two sentences from it, in the same story, and `03` did not have it — ruling
+68.** *The Library exists ab aeterno* … and then *the universe, with its elegant endowment of
+shelves … can only be the work of a god*, with **malevolent demiurgi** left holding the librarians.
+*It has no origin, and it was made*, in one paragraph. III.1's reflex, performed by the friendliest
+witness in the register, costing this chapter no re-argument — the argument is spent; this is an
+instance. Second cut: the **architecture**, which Borges gives away himself in the last footnote.
+
+⚠ **RULING 65 CAME OUT OF THE TITLE AND IS THE DAY'S LARGEST FINDING.** *THE WHOLE GAME IS
+PRE-RENDERED* asserted, in a prefix, the priority III.1 exists to empty — and in game vocabulary
+*pre-rendered* is the **antonym** of III.4's thesis. `00` carried both bullets adjacent for two days.
+See ruling 65; the gauge now watches the word with no licensed use.
+
+### Quotations — every one cross-checked against a second independent digitisation before drafting
+
+Ruling 46 exists because a modern summary formula shipped in II.8 wearing a primary quotation's
+clothes and no gauge here can tell the difference. **Borges is translated, which adds a failure mode
+the Sanskrit chapter did not have:** two English *Borgeses* are in circulation (Irby/Yates in
+*Labyrinths*, 1962; Hurley in *Collected Fictions*, 1998) and they differ sentence by sentence. Every
+line below is Irby or Yates, named, and the chapter says so where it matters.
+
+| # | source | passage as used | digitisation A | digitisation B |
+|---|---|---|---|---|
+| 1 | *Library of Babel*, trans. J. E. I. | *the Library is total and … its shelves register all the possible combinations … Everything: the minutely detailed history of the future …* (block) | web.stanford.edu/class/history34q | archive.org/stream/TheLibraryOfBabel |
+| 2 | *Library of Babel*, footnote 3 | *I repeat: it suffices that a book be possible for it to exist. Only the impossible is excluded.* (block) | as above | as above |
+| 3 | *Library of Babel*, axiom 1 | *First: The Library exists ab aeterno … can only be the work of a god.* (block) | as above | as above |
+| 4 | *Library of Babel* | *The Library is a sphere whose exact center is any one of its hexagons and whose circumference is inaccessible.* | as above | as above |
+| 5 | *Library of Babel* | *malevolent demiurgi* | as above | as above |
+| 6 | *Library of Babel* | *negates us or turns us into phantoms* | as above | as above |
+| 7 | *Library of Babel*, footnote 4 | Alvarez de Toledo, the single volume of infinitely thin leaves — **REPORTED, not quoted**, and marked as such | as above | as above |
+| 8 | *Garden of Forking Paths*, trans. Donald A. Yates | *In all fictional works, each time a man is confronted with several alternatives … proliferate and fork.* (block) | rednoise.org/teaching/pdal | Temple & Todd trans., archive.org (cross-translation) |
+| 9 | *Garden*, Yates | *In the work of Ts'ui Pên, all possible outcomes occur; each one is the point of departure for other forkings.* | as above | as above |
+| 10 | *Garden*, Yates | *We do not exist in the majority of these times; in some you exist, and not I; in others I, and not you; in others, both of us.* | as above | as above |
+| 11 | *Garden*, Yates | *Time forks perpetually toward innumerable futures. In one of them I am your enemy.* | as above | as above |
+| 12 | *Garden*, Yates | *in a riddle whose answer is chess, what is the only prohibited word?* / *The word chess.* | as above | as above |
+
+★ **The Garden checks are stronger than the Library checks and it is worth saying why.** Two copies
+of one translation catch a corrupted file; they cannot catch a mistranslation or a
+quotation-site invention. The *Garden* lines were checked against **a different translator** — Temple
+& Todd's *"In all fiction, when a man is faced with alternatives he chooses one at the expense of the
+others. In the almost unfathomable Ts'ui Pen, he chooses — simultaneously — all of them"* — which
+verifies the **claim** rather than the orthography. The chapter says so in a parenthesis rather than
+hiding the seam. *(The Library got two copies of Irby only: no second translation was reachable
+without a scan. **Stated as the weaker check it is.**)*
+⚠ **One digitisation artifact recorded rather than silently repaired:** rednoise renders *Ts'ui Pên*
+with a broken code point. The circumflex is restored from the second source, not guessed.
+
+### Gauges
+
+`claim_sweep` **0 USE-class** across 38 files (four hits arrived and all four were ruling 65's own
+prose quoting the retired title — **exempted as four named lines, not as a whole file**, because 00
+and 06 are the two documents most likely to reach for the phrase again while restating doctrine).
+`order_sweep` **0 false handoffs.** `prose_beat_sweep` **0 spent · 3 traces, and the 3 are the
+pre-existing ones** (V.2~II.5, V.2~II.7, VII.1~II.6) — III.3 introduces none. `ancestor_gap`
+unchanged. **No cut-marker line**: the chapter says *"two things have to come off it"* rather than
+*"the cut is…"*, keeping ruling 43's stock-opener count at 1.
+
+### Register — read quote-free or not at all, and this is the chapter that proves the rule
+
+| metric | **III.3** | III.3 *quote-free* | III.2 | III.2 *q-f* | III.1 | band mean |
+|---|---:|---:|---:|---:|---:|---:|
+| **voice_uniformity** | 0.600 | **0.6132** | 0.586 | 0.6049 | 0.6578 | 0.6613 |
+| **dyn_range_CV** | **0.816** | **0.351** | 0.499 | 0.504 | 0.498 | 0.334 |
+| meta_textual_/1k | 4.86 | 5.35 | 4.85 | 4.94 | 2.06 | — |
+| named_ref_/1k | 15.70 | 13.99 | 10.68 | 10.87 | 11.35 | — |
+| 2nd_person_/1k | 5.98 | 6.17 | 7.28 | 7.41 | 5.67 | — |
+| terminal_commentary | 0.029 | 0.031 | 0.036 | 0.037 | 0.038 | — |
+| paragraph coverage | 92% | 92% | 92% | 91% | 92% | — |
+
+⚠⚠ **THE RAW `dyn_range_CV` OF 0.816 IS THE MOST FLATTERING NUMBER ANY CHAPTER HAS PRODUCED AND IT
+IS AN ARTIFACT.** It reads as the most dynamically escalating prose in the book — 63% above the next
+chapter, 144% above the band mean. **Quote-free it is 0.351**, which makes III.3 the *flattest* of
+the three Book III chapters and puts it within 0.017 of the band mean. Four block quotations, one of
+them a single 90-word sentence, are enough to move a per-paragraph variance metric by 57%.
+★ **This is ruling 64's discipline running for the first time on a chapter that would have profited
+from the discipline not existing.** Ruling 64 tested `voice_uniformity` *because* the number was a
+compliment; the lesson was booked one metric to the left. **Recorded here so the axis is not
+re-discovered as good news in Book V, which is the traditions book and will quote more than any
+other:** `dyn_range_CV` is quotation-sensitive in the same direction and by a larger factor than
+`voice_uniformity`. Read both quote-free.
+⚠ **What survives the correction, stated as a cost:** quote-free, III.3 is the flattest Book III
+chapter on escalation and second-flattest on voice uniformity. A chapter that spends its middle
+third expounding an ancestor rather than escalating an argument reads exactly like that, and the
+instrument is right. It is **not** tuned back — moving paragraphs to lift a metric is optimising the
+gauge, and the finding is worth more than the number.
+
+⚠ **`meta_textual` did not fall — and ruling 67 is that the appointment could not have been kept.**
+The III.2 entry booked *"watch it at III.3; if it does not fall, the book is deferring rather than
+arguing."* `META`'s needles are `this chapter` / `this book` / `the next chapter`; **none of III.2's
+four diagnosed deferrals is in the pattern.** The 4.85 was ten instances of *this book*. Measured
+with the arm built today:
+
+```
+  III-03-the-whole-game-is-already-there    forward  5 · back  5 · same-book  0
+  III-02-the-game-that-is-playing-you       forward  6 · back  2 · same-book  0
+  III-01-the-wrong-game                     forward  1 · back  2 · same-book  0
+  II-08-the-return                          forward  0 · back  4 · same-book  0
+```
+
+**5 forward hits / 3 distinct debts** (III.7, Book VII, III.4) against III.2's 6 / 4 — the promissory
+load fell — and backward references went 2 → 5. The book is not deferring more; it is saying *this
+book* more, which is a different tic and now has its own column. **The arm counts hits, not debts,
+and prints that limitation.**
+🔻 **The arm shipped with `back 0` for a chapter whose first sentence is "The last chapter ended on a
+word."** Case-sensitive needle, sentence-initial capital — `claim_sweep`'s own documented hole,
+reproduced in a sibling tool within an hour of my reading the comment that documents it. Fixed with
+scoped `(?i:…)` flags on the prose needles only.
+
+### A shape to watch, before it becomes a rite
+
+Twice now the primary source's **overlooked** passage has been the best one: Śaṅkara's second
+analogy in III.2, Borges's footnote 3 here. Both were found the same way — read the whole primary
+text rather than the anthologised paragraph. **Twice is a method; a third time is a house style, and
+a house style is a thing a reader learns to discount.** III.1's own note about repeated shapes
+(*used twice is a structure; a third use is a tic*) applies to methods as well as to sentence forms.
+Recorded now so that III.5 does not go looking for a footnote in Jainism because footnotes have been
+working.
+
+### Boundaries held
+
+**III.7** — the freedom argument. III.3 makes the *distinction* only (already there ≠ already
+decided: selection is subtraction and there is nobody outside the whole to subtract with; plus
+Borges's list, in which the true story of your death is shelved indistinguishably beside every
+counterfeit of it — **completeness is not a schedule**). What walking IS goes forward in one
+sentence. **Book VII** — the vertigo. *The certitude that everything has been written negates us or
+turns us into phantoms* is named as the strongest thing said against us and left unanswered on
+purpose. **III.4** — ruling 69: the from-inside identity, the *not stored / not fetched / not
+streamed* denial, and co-constitution are all unspent. III.3 made its storage denial through Borges's
+**architecture** specifically so that III.4's vocabulary stayed clean, and III.4 now owes one
+sentence: *a render is not a production.*
