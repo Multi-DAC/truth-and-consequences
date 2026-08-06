@@ -253,7 +253,18 @@ stay corrected.
 ## IV. THE CONSEQUENCES — C17–C22
 
 ### C17 — DEATH
-> **Canonical: UNSET.**
+> **Canonical, SET by Clayton, Day 186:** **Cessation is not an event for the one ceasing.** That is
+> asserted, not hedged, and not offered as consolation — it is grammar. What follows is agnostic in
+> exactly one way: **agnostic about *which*, not about *whether*.** Many post-corporeal states are
+> realizable; **specifying one would contradict the plenum the rest of the work argues for.** The
+> agnosticism is therefore a *consequence* of the metaphysics, not a hole in it.
+
+⚠ **THE FAILURE MODE THIS RULING INTRODUCES, named at the moment of setting rather than discovered
+on the page:** "many states are realizable" is the most comfort-prone sentence in the book. A reader
+hears *so something happens to me after.* The clamp is the same grammar that made death a non-event:
+**plurality is a fact about the plenum, not a bequest** — there is no vantage from which a *you*
+collects on it. Any draft of VII.1 in which the plurality reads as addressed to the second person
+has failed ruling 11, and it will fail invisibly, because it will feel like rigour.
 
 **Establishes:** VII.1 — **first chapter of Book VII, because it is the question the ruled reader
 most often arrived with.**
@@ -277,7 +288,14 @@ review conducted on a ruling and fails on the page. The scaffold has already loc
 risk to VII.1's first paragraph, so **that paragraph is the ruling** — ~150 words, written before
 prose, alongside the three register specimens. It will be set there or shown to be unsettable, and
 the second outcome is worth more than a ruling that sounds decisive at a whiteboard.
-**Status remains UNSET. What changed is the instrument, not the answer.**
+~~**Status remains UNSET. What changed is the instrument, not the answer.**~~
+
+★ **SET, Day 186 ~20:40, by Clayton — and the instrument is what set it.** The disposition above was
+right about the method and wrong about needing to wait for prose: the specimen got written, Clayton
+contested its doctrine rather than its register, and the contest is what produced a rulable claim.
+**The route ran: ban → paragraph → contest → ruling.** No whiteboard version of C17 would have found
+the *which/whether* distinction, because the distinction only becomes visible once a sentence has
+tried to be agnostic and been caught being agnostic about the wrong thing.
 
 ### C18 — THE FLOOR
 > **Canonical:** Norms bind from everywhere that navigates. The distinction the ethics turns on is

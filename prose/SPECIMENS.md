@@ -235,10 +235,18 @@ is the reason it works.
 
 ## SPECIMEN 4 — BOOK VII, CHAPTER 1: **DEATH** — opening paragraph
 
-*~165 words. Not a register test — a sentence test. Ruled to land unhedged in the first paragraph
-with no throat-clearing. "Energy cannot be destroyed" is banned; this is what replaces it. The
-failure mode being instrumented is not bluster but **comfort**. If this paragraph consoles while
-claiming not to, C17 is unsettable and we have learned that the only way it can be learned.*
+*~190 words — grew from ~165 when C17 was set. Not a register test — a sentence test. Ruled to land
+unhedged in the first paragraph with no throat-clearing. "Energy cannot be destroyed" is banned; this
+is what replaces it. The failure mode being instrumented is not bluster but **comfort**.*
+
+*★ **v3, Day 186 ~20:40 — C17 SET by Clayton and the agnosticism moved.** v2 was agnostic about
+**whether** anything follows ("whether focusing recurs… we do not know"). Clayton ruled that wrong in
+the doctrine, not the register: **assert that cessation is not an event for the one ceasing; stay
+agnostic only about the specific state, because many are realizable and naming one would kill the
+point of an infinite plenum.** Agnosticism about* whether *is a smaller claim than the metaphysics
+supports — it reads as caution and is actually a hedge on a question the plenum already answers. The
+new risk is the mirror of the old one: plurality that sounds like a promise. The clamp is in the last
+clause —* not addressed to you *— and it is doing more work than any other six words here.*
 
 ---
 
@@ -248,9 +256,11 @@ afterward against which the difference could be noticed. That keeps nobody here.
 Your death is not something that happens to you; it is something that happens to everyone else, and
 they are the ones who have to be in the room afterward. The Ground continues, and the Ground
 continuing is not you continuing: it cannot be addressed, and nothing in it is having your
-experience. Whether narrowing recurs, and whether anything of one inside is ever carried into
-another, we do not know — the question is open, and it is not being closed politely in either
-direction. What you feel when someone is gone is not a mistake about metaphysics. A place where a
+experience. What comes after is not one thing waiting to be named. Many states are realizable; a
+plenum with a single sequel in it would not be a plenum, and naming yours is the one move its
+structure forbids. The not-knowing is about which, not about whether — and what is realizable is
+realizable the way the Ground continues: plural, actual, and not addressed to you. What you feel
+when someone is gone is not a mistake about metaphysics. A place where a
 world was happening is not happening, and the people who were standing in it are still standing.
 
 > **v1, superseded Day 186 by Clayton's contest — kept because C17 is unset and the instrument's
@@ -313,7 +323,7 @@ reach. *Caveat kept in the finding rather than under it: n=4 against 9 Clayton p
 `named_ref` column is contaminated by conversational prose being name-dense for unliterary reasons,
 and is not evidence of anything.*
 
-**6. C17 is still UNSET, and now it is CONTESTED — which is the instrument working.** Clayton's
+**6. C17 is SET (Day 186 ~20:40) — and the contest below is how it got set, so it stays.** Clayton's
 objection is not to the register; it is to the doctrine: an experiencer can never experience
 non-experience, all narrowings exist in all states, we are nested in a larger narrowing and the
 boundary is therefore illusory. **The first point is conceded and is now the paragraph's opening
@@ -323,3 +333,18 @@ argument is that the other players are not disguises worn by a single player, *b
 single player.* The metaphysics of death, taken at the strength Clayton stated it, funds the exact
 Watts move the ethics chapter exists to defeat. **VII.1 and VIII.6 must agree about how real a
 narrowing is, and that is the open question, not death.**
+
+★ **RESOLVED same night, and by a definition rather than an argument — Clayton was not using
+*illusory* in the sense I was defending against.** His: *"not falseness or fauxness but lack of full
+representativeness, and in that way everything is illusory because nothing can be fully
+representative… there is nothing unreal, nothing unrealized, so each perspective is exactly as real
+as it is in any given moment."* So the doctrine both chapters now share is one line: **fully real,
+never fully representative.** My wave-and-ocean resistance was aimed at a claim nobody made, and it
+survives only as the reason the distinction had to be drawn.
+**VIII.6 does not merely survive this — it gets a better argument out of it.** The Watts move was
+diagnosed here as *replacing a person with something enormous*; under the definition, the precise
+fault is that the mask move swaps a **fully real** thing for a **more representative** one, and
+representativeness is exactly the property nothing has. It is not too generous. It is a trade for
+something that does not exist. *(Ruling 13 note: the terms above still read* narrowing *because they
+are quoted contest material and one of them is Clayton's own wording. The rename does not touch
+quoted ancestor text — this is one of the ~dozen judgment sites the sweep must not `sed` over.)*
