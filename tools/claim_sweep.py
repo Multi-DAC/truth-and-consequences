@@ -307,6 +307,18 @@ EXEMPTIONS = [
      "unrelated to the phrase: MENTION_MARKERS carries `\\bquoted\\b` and the sentence happens to "
      "say 'quoted out of context'. Any manuscript sentence containing the word `quoted` is "
      "currently invisible to every prose rule. Recorded, not widened, and not reworded."),
+    # --- Day 187, II.5. Two lines, one reason, and the reason is the rule's own licence.
+    ("book/II-05-the-tunnel.md", "TERM/map", "the map has one, the territory",
+     "★ KORZYBSKI'S MODEL-SENSE — the use this rule's own message already calls LICENSED, in the "
+     "chapter whose assignment is to put the dictum beyond negotiation. The licensed regex covers "
+     "the quotation itself (`map is not the territory`) and NOT the unpacking of its second clause, "
+     "which is where II.5's entire argument lives. **The licence was declared in the rule text and "
+     "implemented for one phrasing** — a smaller cousin of the week's standing lesson that a "
+     "declared blind spot is not a checked one. Enumerated rather than widened: `\\bthe map\\b` is "
+     "the whole rule, and any widening that admits this line admits the Ground-sense too."),
+    ("book/II-05-the-tunnel.md", "TERM/map", "the map is good insofar as",
+     "Same sentence, second line — the wrap falls mid-clause. Own entry, per the standing rule that "
+     "an exemption is a named line and never a paragraph."),
 ]
 
 

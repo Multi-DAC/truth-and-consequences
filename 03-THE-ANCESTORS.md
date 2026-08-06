@@ -440,7 +440,9 @@ is doing work in our system; the name was recorded once and then never used agai
 
 | ancestor | count | what of ours is actually theirs | lands |
 |---|---|---|---|
-| **Alfred Korzybski** | **1** | *the map is not the territory* · general semantics · E-Prime. **RAW is downstream of him.** We cite the popularizer and not the source. | III, VI |
+| **Alfred Korzybski** | **1** | *the map is not the territory* (AAAS New Orleans, **28 Dec 1931**; *Science and Sanity*, 1933) · general semantics. **RAW is downstream of him for the dictum, and for nothing else on this row.** ⚠ *E-Prime was struck Day 187 — Bourland, 1965, a student, not him. Reality tunnel was never his.* See §5, ruling 27. | III, VI |
+| **D. David Bourland, Jr.** | **0** | **E-Prime**, 1965 — *A Linguistic Note: Writing in E-Prime*. Not an ancestor we need on the page; on this table because his idea spent thirty years filed under his teacher's name in our own notes. | VI (if at all) |
+| **Timothy Leary** | *(see §5)* | The phrase **reality tunnel**, which Wilson credited to him and built into a usable idea. ⚠ **Attribution grade: uncited everywhere it is asserted.** Earliest reachable attestation *Neurologic*, 1973. Also *set and setting* — see §5, where he was wrongly booked as an instance of the popularizer defect and cleared. | II, VI |
 | **C. S. Peirce** | **1** | *"matter is effete mind"* — objective idealism; and **Secondness = brute reaction**, which is the closest thing in Western philosophy to **reactivity-as-awareness**. Our central doctrine has an American ancestor we have named once. | I, II, IV |
 | **Schopenhauer** | **2** | *world as representation* (the render) over *will* (the undivided, outside space and time). The *principium individuationis* **is** the focusing. Two mentions, for a book whose Part One is that distinction. | I, II, III |
 | **Julian Jaynes** | **2** | Book VI already says "the bicameral" in its own outline. The man is at 2. | VI |
@@ -461,8 +463,23 @@ is doing work in our system; the name was recorded once and then never used agai
 A specific, repeating failure the count exposes: **we name the transmitter and not the
 source.**
 
-- **RAW** (everywhere) ← **Korzybski (1)**. Reality tunnel, map/territory, E-Prime: RAW
-  transmitted; Korzybski built.
+- ⚠ **RAW** (everywhere) ← **Korzybski (1)**. **This arrow was wrong on two of its three ideas, and
+  it is the arrow in the section that exists to catch exactly this. Corrected Day 187, ruling 27,
+  while drafting II.5.** It read: *"Reality tunnel, map/territory, E-Prime: RAW transmitted;
+  Korzybski built."* Per idea:
+  - **map/territory — correct.** Korzybski, *A Non-Aristotelian System and its Necessity for Rigour
+    in Mathematics and Physics*, read at the New Orleans AAAS meeting **28 Dec 1931**, reprinted in
+    *Science and Sanity*, 1933.
+  - **E-Prime — not Korzybski.** **D. David Bourland, Jr., 1965**, *A Linguistic Note: Writing in
+    E-Prime*. Bourland studied under him and offered it as an addition to general semantics;
+    Korzybski had been dead fifteen years. **A student is not a source.**
+  - **reality tunnel — not Korzybski at all**, who never used the phrase. Commonly attributed to
+    **Timothy Leary**, and Wilson credited him; earliest attestation reachable is Leary's
+    *Neurologic*, 1973. ⚠ **Every source asserting the coinage cites nothing.** **Write:** *Wilson
+    took the phrase from Leary and built it into something a reader could use* — supported whatever
+    the coinage date proves to be. Do not write "Leary coined it" as a bare fact.
+  - **The class:** three ideas, one person, one arrow. **A person is not a lineage.** The rule below
+    was being applied per ANCESTOR; it is per IDEA.
 - **Huxley** (named ancestor, has his own sample chapter) ← **Blake (10)** for the doors
   of perception, and ← **Bergson/Broad (22)** for the reducing valve. Huxley said so
   himself. We took the phrase and left the attribution he made.
@@ -476,9 +493,17 @@ source.**
   material he was reading and renaming.
 
 **The rule this yields, and it belongs in the style contract:** when we name an ancestor,
-we check one link upstream. Not to be scholarly — because **the deeper name is usually the
-better sentence**, and because a lineage that stops at the popularizer is exactly what a
-reader who knows the field will use to dismiss the book.
+we check one link upstream — **per IDEA, not per ancestor** *(amended Day 187, ruling 27, after this
+section drew one arrow for three ideas and got two of them wrong)*. Not to be scholarly — because
+**the deeper name is usually the better sentence**, and because a lineage that stops at the
+popularizer is exactly what a reader who knows the field will use to dismiss the book.
+
+⚠ **And the second half of the rule, which the same correction produced: check the upstream link
+against a source that has one.** Two of this section's five entries have now been wrong, and both
+errors came from tertiary sources restating each other — *set and setting* (a false positive, from a
+tertiary source making our own error in the opposite direction) and *reality tunnel* (a coinage
+claim that every source asserts and none cites). **An attribution repeated in ten places with no
+citation in any of them is one claim, not ten.**
 
 ---
 

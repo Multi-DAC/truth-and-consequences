@@ -1,0 +1,204 @@
+# BOOK II — THE NAMING
+
+## II.5 — THE TUNNEL
+
+Two chapters ago the seed was defined and half of it was left unnamed. What you bring is a body of
+one kind rather than another, with these organs and not others, a language, a history — and a stack
+of installed filters that was promised its own chapter. This is the chapter, and the promise was not
+a matter of tidiness. The two halves of the seed do not behave the same way, and everything this
+book will later say about change depends on which half is being talked about.
+
+**A reality tunnel is a persistent render filter.**
+
+Three words, all borrowed. One was settled in II.2 and needs nothing further: a render is what is
+the case at a position. The other two arrive carrying things that have to come off.
+
+---
+
+**Filter.** The word drags a picture, and the picture has two parts.
+
+*A filter is downstream of something unfiltered.* Coffee exists before the paper does. Light exists
+before the lens. In every ordinary case there is a fuller thing first and a reduced thing after, and
+the filter is the operation between them — which makes the reduced thing a version of the full one,
+and puts the full one somewhere.
+
+There is no unfiltered render. Not one that is hidden, or lost, or available only to something
+better equipped. The filter is not an operation performed on a render after it arrives; it is in the
+seed, which is upstream of the arriving, part of what the procedure is run on. Nothing is being
+subtracted from a fuller version, because there is no fuller version and nowhere for it to be full
+at.
+
+*And a filter is removable.* Take it off and the unfiltered thing gets through at last. This is the
+more expensive half, because it is what the word promises a reader who wants out. Remove enough
+filters and you would be seeing straight.
+
+Take one off and you do not get the unfiltered. You get another render, from another position, with
+whatever that position brings. There is no bare vantage underneath the accumulated one, waiting, and
+no procedure that runs on no seed. A vantage with nothing brought to it is not a clear view; by the
+definitions already on the table it is not a vantage.
+
+In the game: a tunnel is not a settings menu. There is no ultra preset, no default profile that the
+modifications were laid on top of, and nobody anywhere playing the unmodified client.
+
+---
+
+**Persistent.** This is the word that does the work, and it is easiest to see by way of a list that
+gets recited whenever any of this is described.
+
+Era, language, ritual, trauma, choice.
+
+That list is not an inventory. It is the extension of a criterion nobody states, and a list without
+its criterion is a mood rather than a definition — five things that feel like they belong together,
+which is exactly the kind of agreement that survives for a century without being checked. So: what
+do they share? Not subject matter. One of them is a civilisation and one of them is an afternoon.
+Not scale, not source, not whether anyone chose it.
+
+**Each of them is a repetition that outlived its occasion.**
+
+Take the member that looks like the counterexample, because a criterion that cannot take its hardest
+case is a slogan. Trauma is not obviously a repetition. It is often a single event, sometimes a
+short one, and its whole horror is that it happened once and could not be taken back.
+
+But what puts it on the list is not the event. The event is over; being over is the least
+controversial fact about it. What puts it on the list is that it did not *finish*, and a thing that
+did not finish is not located in the past. It is met again, at full strength, on no schedule, and it
+is the meeting that repeats rather than the occasion. That is why it installs, and it is also why
+the other four are on the same list despite having nothing else in common with it: an era is a
+repetition nobody attended to, a language is one that began before memory, a ritual is one performed
+on purpose, and a choice is one that was begun deliberately and then left running until it stopped
+being a choice at all.
+
+The criterion earns its place immediately, because it forbids something.
+
+**A wish is not a repetition.** Nothing installs by being preferred once, or strongly, or sincerely.
+This matters more than any other line in the chapter, because *filters are editable* is the sentence
+in this book most likely to be quoted by somebody it was not written for, and the version they will
+want is the one where the world attends to what you would like. It does not, and the refusal is not
+a caveat bolted onto the claim. It is in the claim. What is installed by repetition is workable by
+repetition, and that is the whole of what editability means here.
+
+---
+
+The measurement is recent, it was made on infants, and it is the cleanest case there is of a filter
+being installed while somebody watched.
+
+**Janet Werker and Richard Tees, 1984.** They took two contrasts that English does not use: the
+Hindi retroflex and dental *t*, which are two consonants in Hindi and one in English, and a
+glottalized contrast from Nthlakampx, an Interior Salish language. Then they tested infants from
+English-speaking homes.
+
+At six to eight months the infants heard both contrasts. Not faintly, not with training — they
+discriminated them the way they discriminated the sounds of their own language, because at six
+months there is no such thing as the sounds of their own language. By eleven to twelve months they
+did not. Infants of the same age learning Hindi, and infants learning Nthlakampx, still heard theirs.
+Four-year-olds performed like adults, which is to say they heard one sound where a Hindi speaker
+hears two. Not a difficult distinction. Not a subtle one. One sound.
+
+Nothing was removed from those children. Nobody damaged anything, nothing was lost that a better
+upbringing would have kept, and no deficit was incurred. A year of one language ran, and afterwards
+a distinction that had been arriving stopped arriving. The world they are in has one consonant
+there, and it has it as flatly and unarguably as this room has one ceiling.
+
+That is a null space with a date on it, and the date is what makes it a different animal from the
+one II.3 established. Mariotte's hole was in the anatomy before anything happened to him; it is the
+shape of having eyes at all, and it would be there in any life he had lived. This one was installed.
+It could have been otherwise, and in Delhi it was.
+
+**So null spaces come in two kinds, and only one of them is anybody's business.** There is the
+blindness that is the shape of being anywhere in particular, which is not damage and cannot be
+reduced, because reducing it is reducing the position. And there is the blindness that was laid down
+by something that happened, on a schedule, and could have been laid down differently. From inside,
+these are indistinguishable — both arrive as a seamless world with nothing missing from it, which is
+what makes the whole subject difficult and what makes the practices in Book VIII slow. But they are
+not the same fact, and any practice that promises to reach the first kind is promising you the
+removal of your own position, which is not a benefit and would have no one left to enjoy it.
+
+---
+
+The term belongs to somebody, and so does the sentence under it.
+
+**Robert Anton Wilson, *Prometheus Rising*, 1983.** He took the phrase from Timothy Leary and built
+it into something a reader could use, which is the harder half of the job and the reason the term
+exists outside a seminar at all. His statement of it is direct: each of us is trapped in the
+reality-tunnel our brain has manufactured; we do not sense it as a model our brain has made, we
+sense it automatically and mechanically as being out there, apart from us, and we call it objective.
+
+Credit at full strength, because he got the parts that are hardest to get. He saw that this is not
+opinion — not a set of beliefs held at a distance and revisable by argument, but the thing arguments
+happen inside. He saw that it is invisible from within, which is the property that makes it worth
+naming. And he saw that different people are not disagreeing about one world.
+
+**The cut is at his sentence rather than at him**, and it is two nouns wide. *A model our brain has
+manufactured*, and *out there, apart from us*. Between those two phrases sits the exact picture the
+previous chapters were spent removing: a world standing complete somewhere, and an organ producing
+pictures of it. That is the scene file with a nervous system in front of it, and it is Uexküll's
+*Umgebung* again in different clothes. Under that picture the tunnel is a distortion, the ideal is
+the undistorted, and the whole apparatus points at a clean look nobody will ever get. *Trapped*
+comes from the same place. Trapped requires an outside to be trapped away from.
+
+So the term is kept and the tunnel is given no outside. It is not bored through anything. There is
+no rock around it, no daylight at the far end, no surface it broke through from. It does not lead
+anywhere, because leading somewhere is what a tunnel does and this one is not that kind of noun. A
+reality tunnel is what a world is when it is had from a position that has a history.
+
+What Wilson did with the term as a *practice* — holding a tunnel deliberately and loosely, which he
+performed on himself and reported honestly — is his best work and it is Book VI's. It is not
+restated here, and this chapter does not do model agnosticism.
+
+---
+
+Upstream of him is the sentence this chapter exists to put beyond negotiation, and it is quoted
+almost exclusively in half.
+
+**Alfred Korzybski, 1931**, in a paper read at the New Orleans meeting of the American Association
+for the Advancement of Science and reprinted two years later in *Science and Sanity*:
+
+> A map is not the territory it represents, but, if correct, it has a similar structure to the
+> territory, which accounts for its usefulness.
+
+Eleven words of that are famous. The rest is a metaphysics, and it is the load-bearing part.
+
+*If correct.* Correctness here is a relation between two structures — the map has one, the territory
+has one, and the map is good insofar as they resemble each other. That is not a decoration on the
+warning; it is what makes the warning mean anything. Without the second clause the first is a
+counsel of despair, and Korzybski was not despairing. He was building a discipline for making better
+maps, and better requires a standard, and the standard is the territory's own shape.
+
+For models this is right, and we keep it undamaged. A subway map, a theory, a forecast, a diagram of
+a molecule — each is a representation of something that has a structure of its own, each can be
+checked against it, and each can be wrong. Book VI runs the dictum in exactly that sense and needs
+every word of it.
+
+Apply it to the Ground and it breaks, and it breaks at the clause nobody quotes. The Ground is at no
+position. Structure is difference, and difference is a feature of being somewhere in particular
+rather than a property the whole has. There is nothing there to have a similar structure *to*. So a
+render is not a correct map of the Ground — and, at a cost this book should pay out loud, it is not
+an incorrect one either. A render is not a candidate for accuracy against the Ground at all.
+Accuracy is a relation between two things that have shapes, and only one of these does.
+
+Which is why `05`'s retirement of *the map* as a name for the Ground is not housekeeping and is not
+open for reconsideration when a later chapter wants a familiar image. Call the Ground the territory
+and you have imported the second clause with it. The second clause then delivers, free and
+unargued: a best render, a most correct tunnel, a rank ordering of worlds with somebody's at the
+top. Nobody would defend that position in an argument. Nobody would have to. The word would have
+done it, silently, before the argument started — and a word that argues on its own is precisely what
+this book retires, whatever it is otherwise worth.
+
+---
+
+That leaves a hole, and it is better to name it than to let a reader find it four chapters later and
+conclude it was hidden.
+
+If a render cannot be wrong about the Ground, how is anyone ever wrong about anything? The question
+is real, the answer is Book III's, and the shape of the answer is already visible in the previous
+chapter: what a perspective is blind to is a determinate fact about it, establishable from outside
+it, by somebody standing somewhere else. Error does not need a territory. It needs other positions,
+and there are nothing but other positions.
+
+What this chapter settles is smaller and is the thing the rest is built on. A tunnel is not a veil
+and not a mistake. It is a render with a history in it, laid down by repetitions that outlasted
+their occasions, invisible from inside for the same reason that anything upstream of what arrives is
+invisible from inside. It is editable, because repetition has not stopped being available and
+nothing that was installed that way is finished being installed.
+
+How it is edited is Book VIII's, and it is not a technique for getting out.

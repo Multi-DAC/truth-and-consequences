@@ -293,12 +293,48 @@ yet stated.* **VII.2 STATES THE PREMISE AND CROSSES** — and the grade then bea
 not a contradiction of the rule but its content. The caste error is not that it reaches a conclusion
 about worth; it is that it crosses with no premise stated, so there is no step anyone can refuse.
 
-### II.5 — THE TUNNEL
+### II.5 — THE TUNNEL ✅ DRAFTED (Day 187, 2,379 words)
 **Beats:** a reality tunnel is a **persistent render filter** · installed by era, language, ritual,
 trauma, choice · editable, and the edit is Book VIII's · **the map is not the territory** — and this
 is the chapter that makes `05`'s retirement of "map" as a name for the Ground non-negotiable.
 **Named:** Robert Anton Wilson (6 files — thinner in our corpus than anyone would guess), **and one
 link upstream to Korzybski** (2 files), per rule 5b.
+
+⚠ **AXIS NOTE, ruling 26 — THE LITANY. `I.5 ~ II.5` was 0.56, the highest live number on the
+scaffold, and the whole of it is the five-gram above.** **I.5 ACCRETES the five** — one per
+paragraph, unnamed, never listed; a reader who has read I.5 has met all five and could not recite
+them. **II.5 SAYS THE LIST ONCE, IN INTERROGATIVE POSITION**, and answers it: the five are not an
+inventory but the extension of an unstated criterion, and *a list without its criterion is a mood
+rather than a definition.* The criterion — **each is a repetition that outlived its occasion** — is
+what gives *persistent* its content, is tested on the hard member (trauma, which looks like a single
+event, and is on the list because it did not **finish**), and cashes immediately as C12's guard:
+**A WISH IS NOT A REPETITION.** II.5 re-narrates none of the five. Pair EXEMPT in `beat_sweep`.
+
+⚠ **ATTRIBUTION, ruling 27 — the ancestry as drafted is not the ancestry `03` §5 had.** The chapter
+names **Wilson, *Prometheus Rising*, 1983**, and says he *took the phrase from Timothy Leary and
+built it into something a reader could use.* **Korzybski is upstream of the DICTUM and of nothing
+else here** — he never used "reality tunnel", and E-Prime is Bourland's (1965). The cut is at
+Wilson's sentence, two nouns wide — *a model our brain has manufactured* / *out there, apart from us*
+— which is II.2's scene file with a nervous system in front of it, and *trapped* comes from the same
+picture, since trapped requires an outside. **The term is kept and the tunnel is given no outside.**
+Korzybski is cut at the clause nobody quotes: *if correct, it has a similar structure to the
+territory.* Correctness is a relation between two structures; the Ground has none to resemble; so a
+render is not an incorrect map of the Ground either — **it is not a candidate for accuracy against it
+at all.** That is why the retirement is non-negotiable: *the territory* imports the second clause,
+and the second clause delivers a best render and a rank ordering of worlds for free and unargued.
+
+**The measurement, not a metaphor:** **Werker & Tees, 1984.** Hindi retroflex/dental *t* and a
+glottalized contrast from Nthlakampx; English-learning infants discriminate both at 6–8 months and
+not at 11–12; Hindi- and Nthlakampx-learning infants of that age still do; four-year-olds hear one
+sound. ★ **This yields the distinction the chapter is really for, and it is II.5's own: NULL SPACES
+COME IN TWO KINDS.** II.3's blind spot is the shape of being anywhere and cannot be reduced without
+reducing the position. This one **has a date**, was installed on a schedule, and could have been laid
+down otherwise. Both are invisible from inside, which is why Book VIII is slow — and **any practice
+promising to reach the first kind is promising the removal of your own position.**
+
+**Hole named on the page rather than hidden:** if a render cannot be wrong about the Ground, how is
+anyone wrong about anything? Answered forward to **Book III**, with II.3's shape already visible —
+error needs other positions, not a territory.
 
 ### II.6 — COHERENCE
 **Beats:** the two senses — structural consistency across scales, and the felt alignment of a stream

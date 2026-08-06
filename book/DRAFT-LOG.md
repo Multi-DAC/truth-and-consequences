@@ -1180,3 +1180,138 @@ collisions, 2 echoes, 3 exempt, calibration reproduces II.2 ~ III.4 at **rank 1 
 `date − 2026-01-31` — **today is Day 187 and 2026-08-05 was Day 186.** The log is running one ahead
 for those entries. Left standing, because the drafting order is what those entries are evidence of;
 recorded here so the next reader does not reconcile it by guessing.
+
+---
+
+## II.5 — THE TUNNEL · drafted Day 187 · 2,379 words
+
+**Five of Book II's eight.** Named: **Robert Anton Wilson**, *Prometheus Rising*, 1983, and
+**Korzybski** upstream for the dictum only. Measurement: **Werker & Tees, 1984.**
+
+### The gate did its job in the ordinary way, for once, and the finding was in the answer
+
+`beat_sweep --chapter II.5` reported the collision it was built to report: **`I.5 ~ II.5` at 0.56,
+the highest live number on the scaffold**, and the whole of it one five-gram — *era, language,
+ritual, trauma, choice* — verbatim in both chapters. No tool defect this time. The interesting part
+is that the pair was **not** a defect either, and finding that out required deciding what the litany
+is *for* in each place.
+
+**I.5 accretes the five and never says the list.** One per paragraph, unnamed. A reader who has read
+I.5 has met all five and could not recite them, which is Book I's register working exactly as ruled.
+
+**So II.5 could not say the list as content.** What it does instead is the ruling: it says the list
+**once, in interrogative position**, and treats it as the thing to be explained. *That list is not an
+inventory. It is the extension of a criterion nobody states, and a list without its criterion is a
+mood rather than a definition* — five things that feel like they belong together, which is exactly
+the kind of agreement that survives a century without being checked.
+
+The criterion: **each of them is a repetition that outlived its occasion.** Tested on the member that
+looks like the counterexample, because a criterion that cannot take its hardest case is a slogan —
+**trauma**, often a single short event. It is on the list not because of the event, which is over,
+but because it did not **finish**, and what repeats is the meeting rather than the occasion.
+
+★ **And the criterion pays for itself in the next paragraph, which is why it is worth a ruling.** It
+gives *persistent* its content in the definition, and it forbids the thing C12 most needs forbidden:
+**a wish is not a repetition.** Nothing installs by being preferred once, or strongly, or sincerely.
+*Filters are editable* is the sentence in this book most likely to be quoted by somebody it was not
+written for, and this is the only form of the guard that survives the quotation, **because the quote
+carries it.** A caveat sitting beside a claim gets left behind; a criterion inside it does not.
+
+### The chapter's own contribution: null spaces come in two kinds
+
+This was not in the beats and it is the paragraph the chapter exists for.
+
+**Werker & Tees, 1984** — Hindi retroflex/dental *t*, two consonants in Hindi and one in English, and
+a glottalized contrast from **Nthlakampx**, an Interior Salish language. English-learning infants
+discriminate both at **6–8 months** and not at **11–12**. Infants learning Hindi or Nthlakampx at the
+same age still hear theirs. Four-year-olds perform like adults: one sound where a Hindi speaker
+hears two.
+
+Nothing was removed from those children. A year of one language ran, and afterwards a distinction
+that had been arriving stopped arriving. **That is a null space with a date on it**, which makes it a
+different animal from II.3's. Mariotte's hole was in the anatomy before anything happened to him — it
+is the shape of having eyes, and would be there in any life he had lived. **This one was installed,
+and in Delhi it was installed differently.**
+
+Both are invisible from inside, which is what makes the subject hard and Book VIII slow. But only
+the second kind is anybody's business, **and any practice promising to reach the first is promising
+the removal of your own position, which is not a benefit and would have nobody left to enjoy it.**
+
+⚠ Deliberately *not* written: the field's own term for the 1984 finding is a word `05` retired. The
+observation is cute and would have been a self-referential paragraph in a chapter with no room for
+one. Recorded here instead.
+
+### The cut on Wilson is at his sentence, not at him — and it is two nouns wide
+
+Credit at full strength: he saw that a tunnel is not opinion but the thing arguments happen *inside*;
+that it is invisible from within, which is the property worth naming; and that different people are
+not disagreeing about one world. His statement — *each of us is trapped in the reality-tunnel our
+brain has manufactured … we sense it as being out there, apart from us, and we call it objective.*
+
+**The cut:** *a model our brain has manufactured* and *out there, apart from us*. Between those two
+phrases sits the picture II.2 spent a chapter removing — a world standing complete somewhere and an
+organ making pictures of it. That is the scene file with a nervous system in front of it, and the
+*Umgebung* in different clothes. Under it the tunnel is a distortion and the ideal is the
+undistorted. **`Trapped` comes from the same place: trapped requires an outside to be trapped away
+from.** So the term is kept and **the tunnel is given no outside** — not bored through anything, no
+rock around it, no daylight at the far end.
+
+Per ruling 25, the *practice* — holding a tunnel deliberately and loosely — is VI.7's and is named as
+his best work. II.5 does not do model agnosticism.
+
+### Korzybski is cut at the clause nobody quotes, and it is the whole reason `05`'s retirement holds
+
+> A map is not the territory it represents, **but, if correct, it has a similar structure to the
+> territory, which accounts for its usefulness.**
+
+*(AAAS, New Orleans, 28 Dec 1931; reprinted in* Science and Sanity*, 1933.)*
+
+Eleven words of that are famous and the rest is a metaphysics. **`If correct`** makes correctness a
+relation between two structures, and it is not a decoration on the warning — without it the warning
+is a counsel of despair, and Korzybski was building a discipline for making *better* maps, which
+requires a standard, and the standard is the territory's shape. **For models this is right and we
+keep it undamaged; Book VI needs every word of it.**
+
+Applied to the Ground it breaks at that clause. The Ground is at no position; structure is
+difference; difference is a feature of being somewhere. There is nothing there to have a similar
+structure *to*. So a render is not a correct map of the Ground — **and, at a cost paid out loud, not
+an incorrect one either. It is not a candidate for accuracy against the Ground at all.**
+
+Which is why the retirement is not housekeeping: call the Ground *the territory* and you have
+imported the second clause, and the second clause then delivers **free and unargued** a best render,
+a most correct tunnel, and a rank ordering of worlds with somebody's at the top. Nobody would defend
+that in an argument. Nobody would have to. **A word that argues on its own is what this book retires,
+whatever it is otherwise worth.**
+
+### The hole is named on the page rather than left to be found
+
+If a render cannot be wrong about the Ground, how is anyone ever wrong about anything? Book III's,
+and the shape is already visible in II.3: **error does not need a territory. It needs other
+positions, and there are nothing but other positions.** Stated in one paragraph and handed forward —
+better than letting a reader find it four chapters later and conclude it was hidden.
+
+### The attribution failure, which is ruling 27 and belongs to `03` rather than to the prose
+
+`03` §5 — the section whose entire job is *check one link upstream* — carried one arrow, **RAW ←
+Korzybski**, for three ideas, and **two of the three were wrong.** `map/territory` is his.
+**E-Prime is Bourland's, 1965** — a student, and Korzybski had been dead fifteen years. **`Reality
+tunnel` was never his at all**; it is commonly attributed to Leary, and ⚠ **every source asserting
+that cites nothing.** So the prose says what the record supports — *Wilson took the phrase from
+Timothy Leary and built it into something a reader could use* — and does not say "Leary coined it."
+
+★ **The class is worth more than the three corrections: a person is not a lineage.** The rule was
+being applied per **ancestor**, and ideas do not travel by ancestor. Amended to per **idea**. Second
+correction to §5 in one day.
+
+### Gauges
+
+**claim_sweep exit 0** · 28 files · **44** deliberate exemptions (two added, both II.5, both
+Korzybski's model-sense). ⚠ **Worth its own line: the `TERM/map` rule's own message already says
+`LICENSED: Korzybski's model-sense` — and the licensed regex implements that for exactly one
+phrasing, `map is not the territory`, i.e. for the quotation and not for the unpacking of it, which
+is where this chapter's argument lives.** A licence declared in a rule's prose and implemented for
+one string is the week's standing lesson in miniature, one size down. Enumerated, not widened.
+
+**beat_sweep**: 276 beats, **0 collisions on II.5**, 4 exempt. Whole-scaffold: 3 collisions, 2
+echoes, 4 exempt, 2 method — the three open ones are I.6 ~ III.2 (Watts, still no axis), V.7 ~
+VIII.3, C.2 ~ VII.5. **order_sweep**: 0 false handoffs.

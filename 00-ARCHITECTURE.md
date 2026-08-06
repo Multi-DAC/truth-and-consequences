@@ -1049,6 +1049,64 @@ high-rate chapters are about the Ground. The rival explanation is not merely uns
 **refuted**, and the counter can be read from here on as a subtraction-density meter. Handoff item 8
 closes.
 
+**26. THE LITANY IS THE EXPLANANDUM IN II.5 AND THE CONTENT IN I.5.** Day 187, before drafting.
+`I.5 ~ II.5` at **jaccard 0.56 was the highest live number on the scaffold**, and the whole of it was
+one five-gram — *era, language, ritual, trauma, choice* — sitting verbatim in both chapters. Ruling
+22's fourth unadjudicated collision, and the only one where both chapters were right to want it.
+
+**I.5 accretes the five and never says the list.** One per paragraph, unnamed, in Book I's register:
+words that arrive already cut, certainties nobody said out loud, the thousandth repetition, an hour
+that did not finish, the turning that became the direction faced. A reader who has read I.5 has met
+all five and could not recite them, which is the register working.
+
+**II.5 says the list once, as a question, and answers it.** The list is not an inventory; it is the
+extension of a criterion nobody states, and *a list without its criterion is a mood rather than a
+definition* — five things that feel like they belong together, which is exactly the kind of agreement
+that survives a century unexamined. The criterion: **each of them is a repetition that outlived its
+occasion.** It is tested on the member that looks like the counterexample — trauma, which is often a
+single short event — and survives, because what puts trauma on the list is not the event but that it
+did not *finish*, and it is the meeting that repeats rather than the occasion.
+
+★ **The criterion pays for itself immediately, and that is why it is a ruling and not a tidy-up.** It
+is what makes *persistent* mean something in the definition, and it forbids the one thing C12 most
+needs forbidden: **a wish is not a repetition.** Nothing installs by being preferred once, or
+strongly, or sincerely. The manifestation guard stops being a caveat attached to the claim and
+becomes part of the claim — which is the only form of that guard that survives being quoted out of
+context, because the quote now carries it.
+
+Consequence for drafting: **II.5 re-narrates none of the five.** It uses `language` for the
+measurement and `choice` nowhere, and the litany appears exactly once, in interrogative position.
+Pair EXEMPT in `beat_sweep` with this ruling. Scaffold live number after: **0 collisions.**
+
+**27. THE POPULARIZER-DEFECT SECTION GOT TWO OF ITS OWN THREE LINKS WRONG, IN ONE ARROW.** `03` §5
+exists to enforce *check one link upstream*. Its RAW entry reads: **"RAW (everywhere) ← Korzybski
+(1). Reality tunnel, map/territory, E-Prime: RAW transmitted; Korzybski built."** Checked while
+drafting the chapter whose assignment is the term, rather than recalled:
+
+- **`map/territory` — correct.** Korzybski, in *A Non-Aristotelian System and its Necessity for
+  Rigour in Mathematics and Physics*, read at the New Orleans meeting of the AAAS, **28 December
+  1931**, reprinted in *Science and Sanity*, 1933.
+- **`E-Prime` — not Korzybski.** **D. David Bourland, Jr., 1965**, *A Linguistic Note: Writing in
+  E-Prime*. Bourland studied under Korzybski and offered it as an addition to general semantics —
+  but Korzybski died in 1950, fifteen years before the proposal existed. The link is a *student*,
+  not a source.
+- **`reality tunnel` — not Korzybski at all.** He never used the phrase. It is commonly attributed
+  to **Timothy Leary** and Wilson credited him; the earliest attestation I could reach is Leary's
+  *Neurologic*, 1973. ⚠ **Every source making the coinage claim cites nothing**, and one asserts
+  1967 with no support. **Recorded at that grade and written at that grade** — the prose says Wilson
+  *took the phrase from Leary and built it into something a reader could use*, which the record
+  supports whatever the coinage date turns out to be.
+
+★ **The class, and it is worth more than the three corrections.** §5's rule is *check one link
+upstream*, and the unit it was applied to is **the ancestor**. Three ideas were bundled behind one
+person and one arrow was drawn for all of them. **A person is not a lineage.** Ideas travel
+separately, and an ancestry table whose row is a name cannot represent that — which is why the error
+was invisible to a section explicitly built to catch this exact failure. **Rule amended: the upstream
+check is per IDEA, not per ancestor.** Second correction to §5 in one day; the first was the
+`set and setting` false positive, corrected this morning. §5 is now 2-for-2 on being wrong about its
+own instances, which is not an argument against the section — it is what a section that gets audited
+looks like.
+
 ---
 
 ## STATUS — Day 185

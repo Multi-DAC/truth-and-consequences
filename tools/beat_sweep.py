@@ -80,6 +80,17 @@ EXEMPT = {
                       "era scale. The shared vocabulary is the handoff working.",
     ("II.5", "III.6"): "designed, ruling 20's boundary: II.5 defines the reality tunnel, "
                        "III.6 runs it as the filter stack.",
+    ("I.5", "II.5"): "ruling 26, ADJUDICATED — the highest live number on the scaffold (0.56), and "
+                     "the shared 5-gram is the whole of it: 'era, language, ritual, trauma, choice'. "
+                     "I.5 ACCRETES the five, one per paragraph, unnamed, as things that happen to a "
+                     "vantage — and never says the list. II.5 says the list ONCE, as a QUESTION it "
+                     "then answers: the five are not an inventory, they are the extension of an "
+                     "unstated criterion, and the criterion is that each is a repetition that "
+                     "outlived its occasion. II.5 re-narrates none of them; it tests the criterion "
+                     "on the hard member (trauma, which looks like a single event) and cashes it "
+                     "immediately as the C12 guard — A WISH IS NOT A REPETITION. The litany is the "
+                     "explanandum in II.5 and the content in I.5, and neither chapter can do the "
+                     "other's job.",
     ("II.3", "III.1"): "ruling 24, ADJUDICATED: the DEFINITION is II.3's and the FORK is III.1's. "
                        "II.3 states what a perspective is and stops; Bostrom is not named in it. "
                        "III.1 owns 'every consequence in Part Two forks here'.",
