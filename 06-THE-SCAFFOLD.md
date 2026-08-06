@@ -205,12 +205,25 @@ uses. ★ One link upstream, rule 5b: **Schelling** (13) and **Böhme's *Ungrund
 sibling note in `01`, and `03` §3.5 for why *Ungrund* is a fourth-silence zero.
 
 ### II.2 — THE FOCUSING AND THE RENDER
-**Beats:** focusing defined as the act · **render captured**: *a simulation is a copy of something
-real elsewhere; a render is the only place the thing is* · procedural generation as what focusing
-looks like from inside · **the seed** — co-constitution as mechanic, not slogan: not solely yours, not
-solely given.
+★★ **BEATS REWRITTEN Day 187 → ruling 20. THIS CHAPTER AND III.4 WERE THE SAME CHAPTER, and the
+scaffold said so in both places.** III.4's thesis line was *"procedural generation is what focusing
+looks like from inside"* — II.2's third beat, verbatim — and *"the seed is not solely yours and the
+world is not solely given"* was listed as a beat of **both**. Drafting II.2 as written would have
+written III.4 two books early, and the ruling-16 operational test would have caught it in Book III,
+by which time the restatement is the *later* chapter's problem. **The boundary: Book II defines the
+terms; Book III runs them.** II.2 licenses the word and cuts it against its owner; III.4 makes the
+from-inside identity claim and puts the mechanic to work.
+**Beats:** **the Focusing defined as the act — and the act has no actor**, which is the objection
+Book I could not raise because raising it takes an opponent · **the render defined**, and the two
+things the graphics sense drags in, *neither of them the one already refused*: the **scene file**
+(the world stored before you arrive) and the **camera** (a viewpoint somebody placed) · procedural
+generation **licensed, not elaborated** — what the term imports and what it must not · **the seed**
+— co-constitution as mechanic, not slogan: not solely yours, not solely given.
 **Named:** the simulation hypothesis, again and deliberately — this is the second of the three places
-it is cut, and `05` requires the cut to land **before** the metaphor is elaborated.
+it is cut, and `05` requires the cut to land **before** the metaphor is elaborated. ⚠ **The cut must
+be on a NEW axis:** II.1 already spent the *elsewhere* axis (a copy has a room, a render has none).
+II.2's is the **economy** — a game generates procedurally because storage costs money, and a reader
+handed that has a machine with an accounts department.
 
 ### II.3 — THE PERSPECTIVE
 **Beats:** **the most dangerous mishearing, killed first** — *a perspective is not an opinion about
@@ -330,11 +343,18 @@ is not "already decided."
 **Named:** ★ **Borges — 0 files.** Load-bearing silence, flagged in `03`, cashed here.
 
 ### III.4 — RENDERED AT THE POINT OF CONTACT
-**Thesis:** procedural generation is what focusing looks like from inside.
+⚠⚠ **ON NOTICE, Day 187 → ruling 20.** This chapter and II.2 were scaffolded as the same chapter.
+II.2 has now been drafted as the **definitional** half and **keeps the seed's two-sided formula**
+(*not solely yours, not solely given*) — Book II defines each term once, and that is the definition.
+III.4 keeps the thesis and the operative work. **The test, applied when Book III is drafted: if what
+is left here is the thesis sentence plus a restatement of II.2, this chapter is absorbed into III.3
+and Book III runs seven chapters.** Do not discover that mid-draft and keep going.
+**Thesis:** procedural generation is what focusing looks like from inside. ← **II.2 does not say
+this.** It licenses the term and stops; the from-inside identity is this chapter's, and it is the
+whole of what this chapter is still for.
 **Beats:** not stored, not fetched, not streamed from anywhere · the world is drawn where a perspective
-meets the Ground · the seed is not solely yours and the world is not solely given · **co-constitution
-stated as the neutral-monist claim in mechanical language**, which is the whole reason the metaphor was
-chosen.
+meets the Ground · **co-constitution stated as the neutral-monist claim in mechanical language**, which
+is the whole reason the metaphor was chosen.
 
 ### III.5 — THERE ARE NO NPCs
 **Thesis:** the single line that reorganises ethics.
@@ -554,7 +574,10 @@ the same one in every tradition, which is why it is worth a chapter and not a fo
 perspective the problem and the summit its abolition.** Trap 5, paid off where V.1 opened it. The
 generosity of the preceding nine chapters is what gives this one its force; a book that only praises
 its ancestors has not actually read them · handoff to Book VI: **these were the instruments of their
-eras, and the era is the next subject.**
+eras, and the era is the next subject.** ⚠ **ORDER-DEPENDENT — this beat is true only while V sits
+directly before VI.** Under Fable's candidate (`I II III V IV VI VII VIII`) Book V is followed by the
+Atlas and this sentence goes false while still reading like a chapter that ends well. It is the ONE
+beat that candidate must rewrite, and `tools/order_sweep.py` names it. Ruling 21.
 **Named:** the whole roster, at once, in disagreement — the only place in Book V where that happens.
 
 ---

@@ -327,8 +327,8 @@ brought no discipline to it.
    to be wrong.
 
 **What we say — and the difference is a *sharper* claim, not a softer one.** The
-map is pre-rendered and infinite. Every configuration already exists, statically,
-in the Ground; nothing is authored at runtime. **You navigate; you do not
+whole game is pre-rendered and infinite. Every configuration already exists,
+statically, in the Ground; nothing is authored at runtime. **You navigate; you do not
 author.** Participation is real *and constrained*, and the constraint is what
 makes it worth anything.
 

@@ -822,6 +822,83 @@ one book whose job is to name Bostrom, cite Tillich, and credit Nishida by date.
 
 ---
 
+**20. THE NAMING DEFINES; THE GAME OPERATES. II.2 and III.4 were the same chapter, and `06` said so
+in both places.** *(Clawd's call, Day 187, found while opening the scaffold to draft II.2.)*
+
+III.4's thesis line is *"procedural generation is what focusing looks like from inside"* — **II.2's
+third beat, verbatim.** *"The seed is not solely yours and the world is not solely given"* was
+listed as a beat of **both**. Drafted as scaffolded, II.2 would have written III.4 two books early.
+
+**The boundary, and it is a rule and not a one-off arbitration: Book II defines each term once and
+cuts it against its current owner. Book III makes the identity claims and runs the mechanic.** So
+II.2 licenses *procedural generation* and stops short of the from-inside thesis; it keeps the seed's
+two-sided formula, because that formula is the definition and Book II is where definitions live.
+III.4 keeps the thesis and is **on notice** in `06`: if what remains there is the thesis sentence
+plus a restatement, it is absorbed into III.3 and Book III runs seven chapters.
+
+⚠ **The finding is larger than the fix, and it is about ruling 16's gauge rather than about these
+two chapters. The operational test only points backwards.** *"If the chapter reads as a discursive
+restatement of something Book I already said"* — a drafter in Book II can run that, because Book I
+exists to be compared against. **The drafter of III.4 will open a scaffold in which II.2 is already
+written, and a chapter that restates an EARLIER one reads as consolidation rather than as
+duplication.** The scaffold can collide with itself in the direction the test cannot see, and the
+collision is invisible from inside either chapter — it is only visible in the beats, side by side,
+which is a reading nobody performs while drafting. **Detector, cheap and not yet built: a beat-level
+duplicate check across `06`.** Two chapters sharing a thesis sentence is a grep.
+
+---
+
+**21. THE REORDER — FABLE'S ORDER IS BETTER, ITS STATED ARGUMENT IS PARTLY FALSE, AND IT IS NOT
+EXECUTED. The gate is discharged, not passed.** *(Clawd's call, Day 187, on Clayton's grant: "if you
+think their reorder is better, that's fine — perhaps we can find a clever way for it to roll forward
+as intended." Ruling 10's gate: pre-mortem, and Clayton awake. Both satisfied; pre-mortem run.)*
+
+**What the pre-mortem confirmed, checked by hand against the tree rather than believed:**
+
+1. ★ **V.10's handoff goes false, and it drafts clean.** `06` V.10's last beat is *"handoff to Book
+   VI: these were the instruments of their eras, and the era is the next subject."* Under Fable's
+   order Book V is followed by **the Atlas**. The sentence stays grammatical, confident and warm,
+   and is wrong about the only thing it asserts. **A broken handoff does not read like an error. It
+   reads like a chapter that ends well** — which is the one property a silent failure needs.
+2. ★ **The reorder's own headline argument does not exist in the text.** This file claimed *"IV.10's
+   census-blindness then bridges into VI's era-relative seeing"* and offered it as a benefit. IV.10's
+   actual beats end at **the handoff to the CODA's living-book claim.** There is no attention beat,
+   no era beat, nothing about capture. **The bridge was read backwards off a chapter written for a
+   different neighbour, by me, in the same addendum that demanded the pre-mortem** — the argument
+   was reconstructed from a hunch when the beats were one file away.
+3. **"V and VI do not need the roster" is asserted and not checked.** V.6–V.9 (the Tree, operative
+   magic, travel and the dead, the mystics' report) trade in entity classes that **Book IV is where
+   the book first grants are real, at a grade, unhedged.** Under the reorder V either presupposes
+   that grant or must re-earn it, and V's beats are not scoped to re-earn it. **This is the one open
+   item and it is a measurement, not an opinion.**
+4. **The catalogue-fatigue objection is real but smaller than I put it.** Book IV is ~80% uniform
+   roster; Book V is roughly half argument (V.1–V.4, V.10). "Twenty catalogue chapters back to back"
+   overstates it. What is true: the buffer between the book's two most catalogue-dense zones shrinks
+   from a whole book in a different register to two chapters.
+
+**THE RULING.** Fable's order is adopted **in principle** and the manuscript is **not** changed
+today. Item 3 decides it, and it is a chapter-by-chapter read of V against IV's roster — an
+afternoon, not a ruling. What is *not* still open: my order is dead (it breaks VI.8→VII.1, and that
+handoff is written as one), and the IV.10→VI bridge is struck from the case for Fable's.
+
+★ **"A clever way for it to roll forward as intended" — Clayton, and this is it: `tools/order_sweep.py`.**
+The defect was never either order. It is that `06` contains chapter-ending beats whose truth depends
+on **which book comes next**, and nothing checked them. Each proposed order breaks exactly one
+written handoff — mine VI.8→VII, Fable's V.10→VI — **and neither of us caught our own.** Fable caught
+mine; the pre-mortem caught Fable's. Two proposals, two authors, two blind spots, one missing gauge.
+
+The tool declares the order as a constant, extracts every stated handoff from `06`, and checks the
+named target against the book that actually follows. **Run against all three candidates it reproduces
+both known breaks and names the beat.** A reorder is now: run the candidate, rewrite what it prints,
+change the constant and the manuscript in one commit. **Current order: 0 false handoffs.**
+
+⚠ **What a green run does NOT mean, stated here so nobody trusts it further than it goes:** it reads
+*stated* handoffs. A chapter whose last paragraph leans on its neighbour without the word, and the
+whole forward-dependency class in item 3, are invisible to it. **Item 3 needs a reader. The gauge
+retires the class of defect that was found by luck twice, not the one that has never been checked.**
+
+---
+
 ## STATUS — Day 185
 
 Planning phase, by Clayton's instruction: *"We will map it out and plan a lot

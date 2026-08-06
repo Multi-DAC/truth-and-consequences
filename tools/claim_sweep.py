@@ -281,6 +281,19 @@ EXEMPTIONS = [
      "01 §10 requires the refusal to be structural and stated in Book I's own last movement, ten "
      "chapters before the trap springs in Book V. The sentence after this one is the refusal: a "
      "destination with no perspective is the one condition in which nothing whatever is the case."),
+    # NB: needles for CROSS-WRAP hits are matched against the joined window, so this one may
+    # span a line break in the file. Needles for line-pass hits still must fit inside one.
+    ("book/II-02-the-focusing-and-the-render.md", "PROSE/manifestation", "create your own reality",
+     "★ THE OPPONENT'S OWN PHRASE, and ruling 16 requires it on the page — a chapter that cuts a "
+     "position without quoting it is arguing with a strawman. The seed beat cuts BOTH ways and this "
+     "is the first half; the sentence naming it is followed immediately by the credit and then by "
+     "the break (`create` is the word that fails: authorship is the player wearing your face). "
+     "**Two findings, and the exemption is the smaller one.** (a) This is the hit that exposed the "
+     "cross-wrap hole — `create your own` / `reality` straddles a wrap, so the rule reported the "
+     "chapter CLEAN. (b) Once seen, it turned out to be suppressed a SECOND time and for a reason "
+     "unrelated to the phrase: MENTION_MARKERS carries `\\bquoted\\b` and the sentence happens to "
+     "say 'quoted out of context'. Any manuscript sentence containing the word `quoted` is "
+     "currently invisible to every prose rule. Recorded, not widened, and not reworded."),
 ]
 
 
@@ -337,6 +350,44 @@ def in_scope(scope: str, path: pathlib.Path, is_prose: bool) -> bool:
     raise ValueError(f"unknown scope {scope!r}")
 
 
+def paragraphs(lines):
+    """Group the file into blocks of consecutive non-blank lines.
+
+    Returns [(joined_text, [(char_offset, line_no, raw_line), ...]), ...] so a match found
+    in `joined_text` can be resolved back to the line it starts on.
+    """
+    out, block = [], []
+    for n, line in enumerate(lines, 1):
+        if line.strip():
+            block.append((n, line))
+        elif block:
+            out.append(block)
+            block = []
+    if block:
+        out.append(block)
+    built = []
+    for block in out:
+        parts, spans, off = [], [], 0
+        for n, line in block:
+            s = line.strip()
+            spans.append((off, n, line))
+            off += len(s) + 1          # +1 for the joining space
+            parts.append(s)
+        built.append((" ".join(parts), spans))
+    return built
+
+
+def line_of(spans, pos):
+    """(line_no, raw_line) for the joined-text offset `pos`."""
+    found = spans[0]
+    for span in spans:
+        if span[0] <= pos:
+            found = span
+        else:
+            break
+    return found[1], found[2]
+
+
 def sweep_file(path: pathlib.Path, is_prose: bool):
     uses, mentions, exempt = [], [], []
     try:
@@ -344,6 +395,7 @@ def sweep_file(path: pathlib.Path, is_prose: bool):
     except UnicodeDecodeError:
         print(f"  !! {path.name}: not utf-8, skipped")
         return [], [], []
+    paras = paragraphs(lines)
     for rule_id, scope, pattern, licensed, why in RULES:
         if not in_scope(scope, path, is_prose):
             continue
@@ -375,6 +427,40 @@ def sweep_file(path: pathlib.Path, is_prose: bool):
             is_mention = bool(MENTION_MARKERS.search(line)) or (
                 not is_prose and bool(PLANNING_MENTION.match(line)))
             (mentions if is_mention else uses).append(hit)
+
+        # --- CROSS-WRAP PASS (Day 187) -------------------------------------------------
+        # Every rule above is applied LINE BY LINE and the manuscript is hard-wrapped, so a
+        # needle spanning a wrap matches nothing and the file is reported clean. Found four
+        # times in three days. The first three were exemptions that failed to fire — noisy,
+        # harmless. The fourth was a real breach: `create your own\nreality`, the single most
+        # quotable phrase in the banned list, sitting in II.2 while this tool printed "no
+        # USE-class hits". A false negative on the manuscript is the failure direction that
+        # matters, and it does not announce itself, because a clean sweep looks identical to
+        # a clean chapter.
+        #
+        # ADDITIVE ON PURPOSE. It reports ONLY matches that cross a join point; anything the
+        # line pass can see is skipped here, so this cannot change any existing verdict.
+        # Mention-classification deliberately reads the START LINE and not the joined window
+        # — a wider context suppresses more, and quiet over-suppression is how a gauge stops
+        # measuring while still printing output.
+        for joined, spans in paras:
+            for m in rx.finditer(joined):
+                ln_start, raw = line_of(spans, m.start())
+                ln_end, _ = line_of(spans, max(m.start(), m.end() - 1))
+                if ln_start == ln_end:
+                    continue                      # the line pass already saw this one
+                window = joined[max(0, m.start() - 90):m.end() + 90].strip()
+                if lic and lic.search(window):
+                    continue
+                reason = exemption_for(path, rule_id, window)
+                if reason:
+                    exempt.append((rule_id, path, ln_start,
+                                   "(cross-wrap) " + window[:150], reason))
+                    continue
+                hit = (rule_id, path, ln_start, "(cross-wrap) " + window[:150], why)
+                is_mention = bool(MENTION_MARKERS.search(raw)) or (
+                    not is_prose and bool(PLANNING_MENTION.match(raw)))
+                (mentions if is_mention else uses).append(hit)
     return uses, mentions, exempt
 
 

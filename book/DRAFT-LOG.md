@@ -840,3 +840,97 @@ so the test was run for real: a scratch `II-99` carrying both retired names **tr
 was deleted. The retirement is gauged, not merely recorded.
 
 **Sweep: exit 0, no USE-class hits, 24 files.**
+
+---
+
+## II.2 — THE FOCUSING AND THE RENDER · drafted Day 187 · 2,056 words
+
+**In the predicted band.** II.1's entry called Book II at 1,800–2,400 and said a chapter arriving at
+Book I's ~1,060 is the signal to check whether it named anybody. This one names five: Nietzsche, the
+graphics trade, *Elite*'s authors, the position that says you create your own reality, and Uexküll —
+with Kant one link upstream on rule 5b.
+
+### THE FINDING CAME BEFORE THE FIRST SENTENCE — ruling 20
+
+**II.2 and III.4 were the same chapter.** `06:333` gave III.4 the thesis *"procedural generation is
+what focusing looks like from inside"*, which was II.2's third beat verbatim, and the seed formula
+was listed in both. Drafting as scaffolded would have written III.4 two books early. Boundary ruled
+before a word: **Book II defines, Book III operates.** Full text in `00`, ruling 20. The part worth
+carrying is not the arbitration — it is that **ruling 16's operational test only points backwards**,
+and this collision was forward. A drafter in Book III finds II.2 already written and reads the
+duplication as consolidation.
+
+### THE FIVE CUTS
+
+1. **Nietzsche**, *Genealogy* I.13, 1887 — the load-bearing one, and it answers a **grammatical**
+   objection: *an act takes somebody doing it.* Credit at full strength: the lightning and the flash,
+   the subject set behind the deed by language needing one, free and automatic. Cut: he wanted the
+   doer gone everywhere and the inside dissolved with it. **"There is nobody focusing. There is
+   somebody in focus."** — I.3 asserted the entailment and could not raise the objection, because
+   raising it takes an opponent. This is ruling 16's brief doing exactly what it was written to do.
+2. **The graphics sense of *render*** — the word is KEPT (`05` §3b) so what it drags in has to come
+   off, and ★ **neither of the two is the one II.1 already refused.** The **scene file**: a render is
+   computed *from* a stored model that exists first. The **camera**: placed by somebody, movable, the
+   entire reason there is an industry. *"Anybody looking for whose hand is on the camera has
+   reinstated the developer under a new job title."*
+3. **Bostrom, second cut, on a NEW axis.** II.1 spent the *elsewhere* axis (a copy has a room). II.2
+   takes the **economy**: a game generates procedurally *because storage is expensive*, and a reader
+   handed that has a machine with an accounts department. The circulating version is the evidential
+   one — find where the world cuts a corner and you have found the machine. **"Nothing is being
+   saved… a machine's limits are compromises, and a compromise takes somebody who would rather have
+   done otherwise and could not."** ⚠ The physics form of that argument is **not** touched: II.7 owns
+   the ban, and the refusal here is of the *inference*, not of any evidence.
+4. **"You create your own reality"**, credited at its strongest before it is cut — what you are
+   determines what is the case for you, and that is not a figure of speech. The break is the word
+   *create*: authorship makes it the player wearing your face. Paired with its mirror, the world as
+   a finished thing you get reports about, which needs the scene file back, *"wearing a lab coat."*
+5. **Jakob von Uexküll**, *Foray*, 1934 — the tick's three signals, and the eighteen-year fast at
+   Rostock. Credit: he **measured** it, receptor by receptor, thirty years before there was a machine
+   that made the idea easy. Cut: he **kept a room for the biologist to stand in** — the *Umgebung*
+   behind the *Umwelten*, one privileged position from which all the worlds can be seen. There is
+   none. *"a tick's branch with better funding."* Rule 5b upstream: **Kant**, whom Uexküll named
+   himself, and the *Umgebung* is the thing-in-itself with fur on it.
+
+★ **Kant and Uexküll are both additions to `06`'s Named list** — recorded here as chosen, per the
+I.1 lesson. `Kant` and `noumenon` appear **0 times in all nine planning files**, while the
+co-constitution cluster in `tools/ancestor_sweep.py` lists *transcendental idealism* and *noumenon*
+as doctrines we hold. **The hidden-ancestor sweep had the doctrine and never the man.**
+
+### WHAT THE GAUGES SAID — and one of them was lying
+
+**★ THE SWEEP REPORTED THIS CHAPTER CLEAN AND IT WAS NOT.** `create your own reality` — the single
+most quotable phrase in the banned list, PROSE/manifestation's whole reason for existing — sat at
+line 123 and the tool printed *"no USE-class hits."* **`create your own` ends line 123; `reality`
+begins line 124.** Every rule is applied line by line and the manuscript is hard-wrapped.
+
+**Fourth instance in three days, and the first that matters.** The other three were exemptions that
+failed to fire and a case-sensitivity hole — noisy, harmless, self-announcing. **This one is a false
+negative on the manuscript, and a false negative does not announce itself: a clean sweep looks
+exactly like a clean chapter.** Every prose rule has been vulnerable for every chapter swept.
+
+**Fixed structurally, not by rewording.** `claim_sweep.py` gains a **cross-wrap pass**: paragraphs
+joined, offsets mapped back to line numbers, and it reports **only** matches that cross a join point,
+so it cannot change any verdict the line pass already reaches. Additive by construction.
+
+⚠ **And it immediately found one nobody was looking for.** `04-THE-UNSATISFYING-ANSWERS.md:329` —
+**"The map is pre-rendered and infinite"**, a retired term stating doctrine, wrapped between *The*
+and *map*. Day 186 found four live uses of that retirement, fixed them, and put the gauge in place.
+**A fifth survived, in the file that argues the position, because the gauge could not see across a
+line break.** Fixed to the ruled replacement (*the whole game*, `05` §3b).
+
+⚠ **Then the same line was suppressed a SECOND time, for an unrelated reason.** MENTION_MARKERS
+carries `\bquoted\b`; the sentence says *"quoted out of context."* **Any manuscript sentence
+containing the word `quoted` is currently invisible to every prose rule.** Recorded as a named
+exemption with the finding attached — not widened, not reworded. Same shape as II.1's C3/motive
+entry: the exemption is the cheap half, the classifier's blindness is the finding.
+
+**Litany density: 6.81/1k, against II.1's 3.94 and Book I's 6.71–10.29.** The rate went back UP at
+the second chapter of Book II, which is the opposite of the movement II.1 produced. **Stated plainly
+because ruling 15 says watch movement, and this is movement in the unwelcome direction.** The
+hypothesis — and it is a hypothesis, not a verdict — is that II.2 defines by **subtraction** (no
+scene file, no camera, no budget, no *Umgebung*), so its negations are cuts against named owners
+rather than apophasis about the Ground, and the raw counter cannot tell those apart. **That is
+exactly the excuse a gauge exists to refuse, so it is written down as owed rather than settled:
+the distinguishing read has not been done.**
+
+**Sweep: exit 0, no USE-class hits, 25 files, 36 exemptions in force.**
