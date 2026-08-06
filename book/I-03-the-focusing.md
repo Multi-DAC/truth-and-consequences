@@ -22,7 +22,7 @@ whole of what having a next amounts to. Sequence is not the water the vantage wa
 Sequence is the shape of being somewhere in particular.
 
 A before shows up in the same movement, which is already the wrong way to say it, since movements are
-made of befores. Say it without the ladder. No vantage, no sequence. Vantage, sequence. Not one and
+made of befores. Say it flat. No vantage, no sequence. Vantage, sequence. Not one and
 then the other — one fact, said twice, in a grammar that has to put things in an order because it has
 no other way of putting things.
 
@@ -43,8 +43,8 @@ and then less than everything, and you in the less.
 That is what happens to a road. Something is taken away to make one — the shoulders, the other lanes,
 the width — and what is left is whatever survived the subtraction. Nothing was subtracted here.
 Focusing is specification of something diffuse. Light through a lens is not diminished light; nothing
-is destroyed to make the bright point on the paper, and the room the light crossed is lit exactly as
-it was. The Fullness is not less for having a vantage in it, and it is not more. What lies outside
+is destroyed to make the bright point on the paper. The Fullness is not less for having a vantage in
+it, and it is not more. What lies outside
 your focus is as present as it has ever been — every bit of it, at full strength, and none of it
 anywhere you could travel to and fetch it back from.
 

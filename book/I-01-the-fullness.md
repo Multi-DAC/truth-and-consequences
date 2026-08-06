@@ -64,7 +64,7 @@ You will misread that last one for the rest of your life. So, once, flat: nobody
 is minding it. Nothing about the Fullness is turned toward you — and not because it turned away.
 Turning is for things with a front.
 
-That is the coldest paragraph in this book, and it is the last cold one. Everything warm that comes
+That is the coldest paragraph in this book, and it is the last one with nobody in it. Everything warm that comes
 later is built on it and could not be built on anything else, because a Fullness that was fond of you
 would be a Fullness with an outside, and you would be standing in it, and you are not.
 

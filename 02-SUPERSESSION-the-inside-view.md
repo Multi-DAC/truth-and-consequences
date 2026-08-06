@@ -102,7 +102,7 @@ With the execution note that matters: *never* a mechanical "we believe X because
 
 ⚠ **VERIFIED ATTRIBUTION CORRECTIONS — carry these forward, they are exactly the kind of fact that gets re-derived wrong:**
 - McKenna: **"the felt presence of *immediate* experience"** — *immediate*, not "direct."
-- **"Set and setting" is NOT Leary's coinage** (predates him, ~Bertalanffy 1958). Write *"the principle Leary made famous."*
+- ⚠ **"Set and setting" — THIS ENTRY WAS ITSELF WRONG, and sat under the word *VERIFIED* for months. Corrected Day 187.** It read: *"NOT Leary's coinage (predates him, ~Bertalanffy 1958). Write 'the principle Leary made famous.'"* **Measured:** the *phrase* appears in a 1958 **WHO** committee document — *Ataractic and Hallucinogenic Drugs in Psychiatry: Report of a Study Group*, WHO Technical Report Series 152 — which is the sole source behind every "Bertalanffy 1958" citation on the open web, and **a study-group report names no individual author.** Attributing it to Bertalanffy personally is an interpolation nobody has evidenced. Meanwhile **Hartogsohn 2017** — the actual historian of the concept, *Constructing drug effects: A history of set and setting* — credits **Leary** with the *invention of the concept*, tracing precursors to the 19th-c Club des Hashischins and 1950s psychotomimetic research, and **Zinberg 1984** with the formalisation. **Write:** *the phrase surfaces in a 1958 WHO report; the idea as it now functions is Leary's, c. 1961.* Do not write "not Leary's."
 - **"Reality tunnel"** — credit **Leary**, popularised by **Wilson**; first print *Illuminatus!* (1975). Do not assert the "reality island → tunnel" lineage.
 - Bentov died on **American Airlines Flight 191** (1979), not Air Florida.
 

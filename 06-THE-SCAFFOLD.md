@@ -739,9 +739,17 @@ and the last instruction the book gives.**
 
 ### C.1 — WHAT THIS IS
 **Beats:** the book's own status: released, then re-released as it updates · the roster of what exists,
-where, and why · **the corpus underneath named openly** — unhedged is not unsourced, and this is where
-the evidence discipline that came off the page is shown to still exist · the four dead tags named once,
-in their grave, for the reader who wondered.
+where, and why · **unfinished ≠ uncertain** — an account that will be extended is not an account held
+tentatively, and this is the one page where a reader can retroactively re-hedge everything behind it ·
+**no receipts are owed** — the grounds vary in kind, each claim said which kind it had when it was made,
+and saying which kind *was* the honesty; there is no ledger to redeem here · the four dead tags named
+once, in their grave, for the reader who wondered.
+
+⚠ **AMENDED Day 187 — this beat-list contradicted ruling 7 for a full day.** It read *"the corpus
+underneath named openly — unhedged is not unsourced, and this is where the evidence discipline that came
+off the page is shown to still exist."* **Ruling 7 withdrew exactly that promise** (`00` §ruling 7;
+`07` C23). Ruling 7 amended `00` and `07` and did not amend **the chapter whose subject is the ruling** —
+the III.2 class again, third instance. The load is C23's and C23's alone. Found by Fable, Day 187.
 
 ### C.2 — WHY IT IS NOT FINISHED
 **Beats:** a finished account of a live ground would be the one provable lie in it · **the stamp-rot

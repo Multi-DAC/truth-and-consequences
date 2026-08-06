@@ -621,7 +621,9 @@ the files rather than agreeing on report.**
 
 *Aware* was carrying two referents across three chapters: I.1's substance sense (*"It is
 aware… what the Fullness is made of"*) and I.4's inside sense (C7, *reactivity is awareness*).
-**The narrowing defect's exact shape, in the book's most important word.**
+**The polysemy defect's exact shape, in the book's most important word.** *(Renamed Day 187: ruling 14
+made this a named axis. It was previously called after the term ruling 13 retired — but that term was one
+instance, and naming a class after its first instance is how a class gets mistaken for a closed case.)*
 
 The prose is better than the summary of it — I.1 disambiguates in the same breath (*"Not aware
 **of**"*, and the ocean/water/swimming figure), and I.4 carries the same figure forward. **But

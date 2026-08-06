@@ -466,8 +466,12 @@ source.**
 - **Huxley** (named ancestor, has his own sample chapter) ← **Blake (10)** for the doors
   of perception, and ← **Bergson/Broad (22)** for the reducing valve. Huxley said so
   himself. We took the phrase and left the attribution he made.
-- **Leary** ← **"set and setting" is not his** (Bertalanffy, ~1958). Already caught and
-  baked into the Inside View corrections. **Same defect, one instance already found.**
+- ⚠ **Leary** ← **"set and setting"** — **this was our showpiece instance of the defect and it was a
+  false positive. Corrected Day 187; see `02`.** The phrase is in a 1958 **WHO study-group report**
+  (Tech. Report Series 152), which has no named author; **Hartogsohn 2017 credits Leary with inventing
+  the concept.** The upstream link we "checked" was a tertiary source making our own error in the
+  opposite direction. **Write:** *the phrase surfaces in a 1958 WHO report; the idea as it now functions
+  is Leary's.* **The defect is still real — this is simply not an instance of it.**
 - **Jung (well present)** ← **Neoplatonism (Plotinus 16) and the alchemists**, whose
   material he was reading and renaming.
 

@@ -108,6 +108,15 @@ RULES = [
      "must survive. NOT licensed by this rule, and correctly so: quoted contest material in "
      "`prose/SPECIMENS.md`, which is suppressed as a MENTION by the blockquote and ⚠ markers and "
      "must NEVER be exempted by widening the pattern above."),
+    ("TERM/fullness", "book-after-one", r"\bthe Fullness\b|\bthe still\b", None,
+     "05 §3a — RULING 14 (Day 187). *The Fullness* and *the still* are Book I's mythic names for "
+     "the Ground, and they are RETIRED at the I/II boundary. I.6's closing move — 'they will not "
+     "hold' — makes the supersession deliberate, and a deliberate supersession leaks the moment a "
+     "later book reaches back for the old name for variety. Axis 3, POLYSEMY: not a collision "
+     "(nobody else owns it) and not a gradient (the word is not ominous) — our own two names for "
+     "one referent, which is the defect the lexicon's collision-only column could never see. "
+     "SCOPE: drafted chapters after Book I. The registers may discuss the terms freely; the "
+     "prose may not use them. The term is **the Ground**."),
     ("TERM/aperture", "all", r"\bapertures?\b", None,
      "05 §3 — demoted; the term is the Perspective."),
     ("TERM/bottleneck", "all", r"\bbottlenecks?\b", None,
@@ -199,6 +208,16 @@ EXEMPTIONS = [
      "cannot record that the trap was guarded. Whole-file for this rule ONLY: any other rule firing "
      "in DRAFT-LOG.md is a fresh decision and gets its own line here, not a widening of this one. "
      "Added Day 187 when the I.5 entry named the manifestation slide in the act of pre-empting it."),
+    # --- Day 187: three fresh lines, per the standing instruction on the entry above.
+    # Not a widening of it. All three are the log QUOTING the prose whose guard it records.
+    ("book/DRAFT-LOG.md", "C15/trap5", "Dissolving, merging, the drop going back to the sea",
+     "The I.6 entry quoting the Trap 5 vocabulary in the sentence that records its refusal. "
+     "The quoted words are the trap; the surrounding line is the guard."),
+    ("book/DRAFT-LOG.md", "C6/godplayer", "one player wearing every face",
+     "The I.6 entry naming the Watts reading in the act of recording that I.6 refuses it."),
+    ("book/DRAFT-LOG.md", "C6/godplayer", "the theology that removes the divine player",
+     "Quoting 01 §9 — the sentence that states our position AGAINST the god-player. "
+     "The rule is firing on our own refutation."),
     ("prose/SPECIMENS.md", "TERM/narrowing", "all narrowings exist in all states",
      "Clayton's own C17 objection, in his wording. Ruling 13, Day 186."),
     ("prose/SPECIMENS.md", "TERM/narrowing", "If nesting made the narrowing illusory",
@@ -242,6 +261,10 @@ def exemption_for(path: pathlib.Path, rule_id: str, line: str):
 SCAFFOLD_NAME = "06-THE-SCAFFOLD.md"
 
 CHAPTER_RE = re.compile(r"^### ((?:[IVX]+|C)\.\d+) — (.+?)\s*$", re.MULTILINE)
+
+# Ruling 14 — filenames of drafted chapters in Books II-VIII. Book I is absent on
+# purpose; so is every register that happens to live under book/.
+CHAPTER_AFTER_I = re.compile(r"^(II|III|IV|V|VI|VII|VIII)-\d")
 TOUCHES_RE = re.compile(r"^\*\*Touches:\*\*", re.MULTILINE)
 
 
@@ -271,6 +294,12 @@ def in_scope(scope: str, path: pathlib.Path, is_prose: bool) -> bool:
         return is_prose
     if scope == "scaffold":
         return is_prose or path.name == SCAFFOLD_NAME
+    if scope == "book-after-one":
+        # Ruling 14: Book I's mythic names are retired at the I/II boundary.
+        # DRAFTED CHAPTERS OF BOOKS II-VIII ONLY. Enumerated rather than expressed as
+        # "in book/ and not Book I", because that phrasing also swept book/DRAFT-LOG.md,
+        # a register that must stay free to quote Book I's prose. Whitelist, not blacklist.
+        return bool(CHAPTER_AFTER_I.match(path.name))
     raise ValueError(f"unknown scope {scope!r}")
 
 

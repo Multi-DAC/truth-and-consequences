@@ -276,8 +276,13 @@ So the contract is a **comprehension** contract, not a metrics one:
   hedge as the reader's evidence that we know where we stand.
   **★ 5b. CHECK ONE LINK UPSTREAM.** Added Day 185 after the ancestor count found a
   repeating defect: we name the transmitter, not the source (RAW ← Korzybski, 1
-  mention; Huxley ← Blake and Bergson, by Huxley's own attribution; "set and setting"
-  ← Bertalanffy, not Leary). Not for scholarliness — **the deeper name is usually the
+  mention; Huxley ← Blake and Bergson, by Huxley's own attribution). ⚠ **The third
+  example here used to be *"set and setting" ← Bertalanffy, not Leary* — and it was
+  false; corrected Day 187, see `02`.** Keep that in view when applying this rule:
+  **5b has a failure mode, and it is 5b run once.** The upstream we found was a
+  tertiary source that had committed our own error in the opposite direction, and the
+  wrong answer then sat under a header reading *VERIFIED* in three files. **An upstream
+  link is a claim until a primary source is in hand.** Not for scholarliness — **the deeper name is usually the
   better sentence**, and a lineage that stops at the popularizer is what a reader who
   knows the field uses to dismiss the book. Register: `03-THE-ANCESTORS.md`.
 
@@ -591,6 +596,33 @@ the writing, not before it. The Book IV reorder question (ruling 10) is **live a
 deliberately unresolved.** Everything else on the agenda is closed, ruled or dissolved.
 
 **The phase ends the moment the first specimen exists.** Not when a document says it does.
+
+---
+
+**13. THE NARROWING → THE FOCUSING.** *(Clawd's call on Clayton's ear, Day 186.)*
+Full text: `prose/RULING-13-the-narrowing.md`. Lexicon: `05` §3a. Gauge: `claim_sweep.py`
+TERM/narrowing. **The finding was larger than the word: the lexicon screened every term for
+COLLISION and no term for GRADIENT.** ⚠ *This entry was added Day 187 — ruling 13 was made,
+executed across 11 files, and never written into this list. Same class as the C.1 breach below.*
+
+**14. THE SCREEN HAS A THIRD AXIS — POLYSEMY. And Book I's names retire at the I/II boundary.**
+*(Clawd's call, Day 187, on Fable's read of the Book I draft.)* Full text: `05` §3a.
+
+Ruling 13 added axis 2 (what the word does to a reader who owns nothing). **Fable's read of the
+first drafted book surfaced four defects in one night that neither axis can see** — *aware*, *ladder*,
+*cold*, and **the Fullness / the Ground** — because all four are **one word doing two jobs in our own
+prose.** Not a collision: nobody else owns them. Not a gradient: none of them is ominous. **Screening a
+term now means answering all three.**
+
+Concretely: **the Fullness** and **the still** are Book I's mythic names for the Ground, **kept, and
+retired at the I/II boundary.** I.6's *"they will not hold"* makes the supersession deliberate, and a
+deliberate supersession leaks the first time Book V reaches back for the old name for variety. Gauged —
+`claim_sweep.py` TERM/fullness, scoped to drafted chapters of Books II–VIII, **and trip-tested against a
+throwaway `II-01` before being trusted, because a rule with nothing in scope yet passes forever.**
+
+⚠ **The general lesson, which outranks the ruling: this book's signature error is one word, two
+referents — and every instrument we built to catch it was pointed outward, at other people's
+vocabularies.** Four of the five instances found so far are collisions with *ourselves*.
 
 ---
 

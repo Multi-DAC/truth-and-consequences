@@ -112,9 +112,31 @@ word gets everywhere before anyone checks it.
 
 ### 3a. The core — Book II's dramatis personae
 
+⚠⚠ **RULING 14 (Day 187) — THE SCREEN HAS THREE AXES, NOT ONE. Every row above this line was
+written against axis 1 alone.**
+
+1. **COLLISION** — who *else* owns the word (Bostrom/substrate, Korzybski/map, Tillich/ground).
+   The only axis this table ever ran. It is a good axis and it found real defects.
+2. **GRADIENT** — what the word does to a reader who owns nothing, before the argument starts.
+   Added by **ruling 13**, when Clayton's ear ran it for the first time and *the Narrowing* failed.
+3. ★ **POLYSEMY — how many things *we* use it for.** Added here. Neither of the first two can see
+   it: nobody else owns the word, and the word is not ominous — it is simply doing two jobs in our
+   own prose, and the reader silently welds them. **Day 187 surfaced four instances in one night, all
+   in the first drafted book:** *aware* (two referents — C24, Fable) · *ladder* (grammar in I.3, rank
+   in I.4 — I.4 owns it, I.3 yielded to "say it flat") · *cold* (impersonal in I.1, personal in VII.1 —
+   the promise was cut back to "the last one with nobody in it") · **the Fullness / the Ground** (two
+   names, one referent, spanning the I/II boundary — ruled below).
+
+**The pattern under all four: one word, two referents — which is exactly the defect ruling 13
+named, wearing a different coat each time. It is the book's signature error and the lexicon was
+structurally blind to it,** because a table whose only column is *who else owns this* cannot see a
+word we are colliding with ourselves. **Screening a term now means answering all three.**
+
 | term | verdict | the collision | the cut, made once at the definition |
 |---|---|---|---|
 | **the Ground** | **KEEP, AND NOW CREDIT** | "base reality" = Bostrom's server room, where the real people are — **and, found Day 186, a second owner we walked into while dodging the first: `"ground of being"` appears in 6 of our own files and `Tillich` in 1** | It is not elsewhere and not more real than here. It is what *here* is made of. *(Ruling 6.)* **★ Name Tillich at the definition.** His ground is not a being among beings and cannot be an object — that is ours, in 1951, in a voice the church-shaped reader already trusts; **our cut is that it cannot be *addressed*, because addressing needs an inside.** An unnamed borrowing from a famous theologian is what a hostile reader uses; a named one is a credential. `03` §3.5. |
+| **the Fullness** | ★ **KEEP — BOOK I ONLY. RETIRED AT THE I/II BOUNDARY.** *(Ruling 14, Day 187)* | **axis 3.** Not a collision and not a gradient — **our own second name for the Ground**, coined in Book I, superseded in II.1. | Book I may not say *the Ground*; Books II–VIII may not say *the Fullness*. **The supersession is deliberate and it is I.6's closing move — "they will not hold" — so it must be *performed once and never leaked.*** ⚠ **The failure mode is not the boundary, it is Book V reaching for "the Fullness" for variety in year two, and the one-name rule dying quietly.** Gauged: `claim_sweep.py` TERM/fullness, scoped to everything outside `book/I-*`. **A lexicon ruling with no gauge behind it survives its own retirement — *the map* proved that in two live chapter titles.** |
+| **the still** | **KEEP — BOOK I ONLY** *(ruling 14)* | as above; Book I's mythic name for the condition, not a term | Same fence, same gauge. It is an *image*, never a defined term, and it never appears after I.6. |
 | **substrate** | **RETIRE** | the simulation hypothesis's word for the hardware; also a synonym for the Ground, so it breaks define-once twice over | Permitted exactly once, in the sentence that denies it. Never as a term. **⚠ Clayton uses this word — see §7.** |
 | **X** | **DEAD** | a formalism's placeholder | Never appears. |
 | **the Focusing** | **KEEP** *(replaces **the Narrowing**, ruling 13, Day 186)* | none serious | The act; the Perspective is its result. **Focusing is specification of something diffuse** *(Clayton's sentence, and it is the definition)* — the Fullness is diffuse, the Perspective is a specification of it, and nothing is subtracted to make one. A lens destroys no light. |
