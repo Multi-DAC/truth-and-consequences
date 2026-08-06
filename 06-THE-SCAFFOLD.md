@@ -644,6 +644,12 @@ been separated from Bostrom. Re-running it is restatement, and restatement is ho
 reader to skim.
 
 ### III.1 — THE WRONG GAME
+✅ **DRAFTED Day 187 · 1,939 words · `book/III-01-the-wrong-game.md`.** All five beats land, both
+standing bans held. Primary text only, seven quotations, each cross-checked against a second
+digitisation before it was written in — the table is in `DRAFT-LOG`. Irenaeus reports the
+Valentinians; the *Apocryphon of John* is a **separate** school (Irenaeus files it at I.29), and
+their agreement is the chapter's evidence rather than a merger. **Rulings 54–57 came out of the
+drafting**, three of them about instruments and one about a falsified handoff in shipped prose.
 ⚠ **RE-SCOPED Day 187, ruling 47(a) — Clayton's, and it moves this chapter off Bostrom and onto the
 demiurge.** The Bostrom fork is spent in II.1 (above). The COSMOLOGY cut, scaffolded here on Day 187
 and declared in advance, **has not been made anywhere** — so this chapter keeps its slot and spends

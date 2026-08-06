@@ -237,9 +237,58 @@ def load_specimens():
         out.append(body.strip())
     return out
 
+def load_prose_file(path):
+    """Clean a drafted chapter into the SAME shape load_specimens() produces.
+
+    ⚠ The cleaning must match load_specimens() step for step. A chapter cleaned
+    differently from the baseline it is printed beside is not a comparison — it is two
+    measurements in one table, which is worse than no measurement, because the table
+    invites the subtraction.
+
+    Specimens lose their headings to the `## SPECIMEN n` split; a chapter has to lose
+    them here, or `## III.1 — THE WRONG GAME` counts as a paragraph of shouting.
+    """
+    raw = Path(path).read_text(encoding="utf-8")
+    body = re.sub(r"^#{1,6} .*$", "", raw, flags=re.M)          # headings
+    body = re.sub(r"^\s*\|.*$", "", body, flags=re.M)           # tables
+    body = re.sub(r"^-{3,}$", "", body, flags=re.M)             # horizontal rules
+    body = body.replace("**", "")
+    return body.strip()
+
+
+def paragraph_coverage(text):
+    """Fraction of a text's words that the paragraph-unit metrics actually see.
+
+    `paragraphs()` drops anything under 25 words. On Day 186 that hid 42% of Specimen
+    1-B — the short beats, which were the entire point of the register being measured —
+    and the tool printed a clean number computed on the other 58% with no hint that it
+    had looked away. This does not fix the floor. It stops the figure lying about how
+    much of the page it read.
+    """
+    total = len(words(text))
+    if not total:
+        return 0.0
+    return sum(len(words(p)) for p in paragraphs(text)) / total
+
+
 # ---------------------------------------------------------------- main
 
 def main():
+    # ⚠ Until Day 187 this tool ignored argv ENTIRELY: `storyscope_lite.py <chapter>` printed
+    # the specimen table and exit 0, i.e. a number for a file it never opened. The DRAFT-LOG
+    # header names this tool as the register gauge and says every landed chapter gets its
+    # numbers on the day it lands — and the instrument could not be pointed at a chapter.
+    # Book I logged three chapters' numbers and then the practice stopped for eleven. An
+    # unparsed argument is not a no-op; it is a wrong answer that looks like a right one.
+    argv = sys.argv[1:]
+    files = [a for a in argv if a != "--file"]
+    for a in files:
+        if a.startswith("-"):
+            sys.exit(f"storyscope_lite: unknown option {a!r}\n"
+                     f"usage: storyscope_lite.py [--file] [CHAPTER.md ...]")
+        if not Path(a).exists():
+            sys.exit(f"storyscope_lite: no such file: {a}")
+
     specs = load_specimens()
     clayton, clawd = load_memory_corpora()
     print(f"corpora: specimens={len(specs)}  clayton_passages={len(clayton)}  clawd_passages={len(clawd)}")
@@ -253,6 +302,12 @@ def main():
     rows.append(profile("CLAYTON (human)", "\n\n".join(clayton), units=clayton))
     rows.append(profile("CLAWD (me, raw)", "\n\n".join(clawd), units=clawd))
 
+    coverage = []
+    for f in files:
+        body = load_prose_file(f)
+        rows.append(profile(Path(f).stem, body))
+        coverage.append((Path(f).stem, paragraph_coverage(body)))
+
     keys = [k for k in rows[0] if k != "corpus"]
     w = max(len(r["corpus"]) for r in rows)
     print(f"{'corpus'.ljust(w)} | " + " | ".join(k.rjust(12) for k in keys))
@@ -263,6 +318,15 @@ def main():
             v = r[k]
             cells.append(("--" if v is None else f"{v}").rjust(12))
         print(f"{r['corpus'].ljust(w)} | " + " | ".join(cells))
+
+    if coverage:
+        print()
+        print("PARAGRAPH COVERAGE — the share of each file the paragraph-unit metrics")
+        print("('dyn_range_CV', 'terminal_commentary') actually read. paragraphs() drops")
+        print("anything under 25 words, and the short beats are the register.")
+        for name, cov in coverage:
+            flag = "  ⚠ under 0.80 — read dyn_range_CV as partial" if cov < 0.80 else ""
+            print(f"  {name:<28} {cov:.0%}{flag}")
 
     print()
     print("NOTE: no threshold, no verdict. Read COLUMNS, comparing SPECIMENS to the two")

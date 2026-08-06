@@ -2083,3 +2083,76 @@ approach**, where *there is no other player* has to be cashed against consequenc
 definitions. **Recorded in `06` as an unmade cut with its axis declared in advance**, which is
 ruling 24's procedure and the second thing in two days to be saved by it. **Not scheduled tonight;
 Book III opens on III.1 as ruled.**
+
+**54. THE RULING-47 SWEEP STOPPED AT THE PLANNING DOCUMENTS, AND THE EIGHTH FALSIFIED SITE WAS IN
+SHIPPED PROSE.** Ruling 47(a) moved the Bostrom fork out of III.1 and made the chapter the demiurge.
+Seven quoted sites were repaired the same night — `06` ×4, `00` ×3, SPECIMENS ×1. **Every one of
+them is a planning document.** II.8's closing paragraph, written Day 186 in `0d10785`, hands the
+reader forward with *"the picture most readers arrived holding — the one that agrees with almost
+every sentence in this book, uses the same images, reaches the same shape, and gets the single most
+important thing exactly backwards."* **That is the simulation hypothesis and nothing else** — *uses
+the same images* means the game, the render, the procedural generation. Under 47(a) the reader who
+takes that promise into Book III meets a second-century cosmology instead, and the cut they were
+promised happened seven chapters earlier in II.1.
+⚠ **The failure is not that a site was missed. It is that `book/` was not in the search.** A ruling
+falsifies quotations wherever they live, and by Day 187 fifteen of them live in prose. The instinct
+was to sweep the documents that *plan* the book, which is the same admission-gate defect ruling 33
+found in `beat_sweep` — *it compares plans to plans, and fourteen chapters are no longer plans* —
+recurring at the level of a manual search four days later. **The blind region grows by one chapter
+every time one ships.**
+✅ **Repaired.** II.8 now closes: *"the other half of the account this chapter has spent its length
+refusing. Not how it ends. Who made it."* Two axes, one opponent, and the seam says so.
+🔻 **Found by drafting III.1 and reading backwards for the handoff — not by a gauge.** Nothing in the
+kit compares a shipped chapter's forward-pointing sentence to the current scaffold of the chapter it
+points at. That is `order_sweep`'s shape one level down, and it is ruling 48's unbuilt widening.
+
+**55. THE REGISTER GAUGE IGNORED ITS ARGUMENTS ENTIRELY, AND THE PRACTICE IT WAS NAMED FOR DIED
+AFTER THREE CHAPTERS.** `book/DRAFT-LOG.md` opens by naming `tools/storyscope_lite.py` as the
+register fingerprint and declaring that **every chapter that lands gets its numbers here on the day
+it lands.** `storyscope_lite.py` never read `sys.argv`. Handed a chapter path it printed the
+specimen table and exited 0 — **a full page of numbers for a file it had not opened.**
+⚠ **The consequence is exactly what an ignored argument buys: silence that looks like a result.**
+I.1, I.2 and I.3 carry register tables. I.4 onward do not. **Eleven chapters shipped unmeasured**,
+through two outside review passes and fifty-three rulings, and the I.1 entry's own written
+appointment — *"re-measure at III.1, which is argument at full adversarial strength and has nowhere
+to hide"* — could not have been kept by anyone who tried.
+✅ **Arm built.** `storyscope_lite.py [--file] CHAPTER.md ...` profiles named prose beside the
+baselines, cleaned step-for-step identically to `load_specimens()` so the rows are comparable rather
+than merely adjacent. **Unknown options and missing files now exit non-zero** — an unparsed argument
+is not a no-op, it is a wrong answer wearing a right one's clothes.
+✅ **Validated against a known reading rather than trusted.** Re-measuring I.1 reproduces the logged
+Day-186 table: announcement 0.00 = 0.00, terminal commentary 0.062 = 0.062, voice uniformity 0.5661
+vs 0.5669, 2nd person 19.96 vs 20.02. `dyn_range_CV` comes back 0.345 against a logged 0.329, which
+is the one metric sensitive to which paragraphs survive cleaning — **reported, not smoothed.**
+✅ **Coverage printed per file.** `paragraphs()` drops anything under 25 words; on Day 186 that hid
+42% of a specimen and the tool said nothing. All fifteen chapters read at 91–95%.
+
+**56. THE AXIS THE PROJECT HAS CALLED ITS OPEN REGISTER PROBLEM FOR TWO DAYS IS SUBSTANTIALLY A
+LENGTH ARTIFACT, AND THE CAVEAT WAS WRITTEN DOWN ONCE AND THEN NEVER APPLIED AGAIN.** With all
+fifteen chapters finally measurable, `dyn_range_CV` against word count: **r = −0.611 across the
+manuscript, and −0.357 within Book II alone.** Book I means 0.497 at ~1,050 words a chapter; Book II
+means 0.292 at ~2,440. **The book that measures flat is the book with the long chapters.**
+⚠ **`DRAFT-LOG` already knew.** Its I.3 note says `dyn_range_CV` *"is a coefficient of variation
+over ~11 items and is size-sensitive in the same direction voice_uniformity is."* Written once, on
+Day 186, and then eight chapters of numbers were quoted against a cross-length baseline as if it had
+not been. **A caveat recorded and not enforced is the fifth form of the shape this book keeps
+finding** — false handoff · *Last Verified* stamp · exemption · a work-list that counts as work ·
+**and now a stated confound that no later use has to honour.** The stamp rots the same way.
+**RULED: `dyn_range_CV` is comparable within a length band and nowhere else.** No chapter's figure
+is to be set against a chapter more than ~40% away in length, and the Clayton/Clawd-raw baselines
+(10.9k and 132k words, pooled) are not a target for a 2,000-word chapter at all — they are the
+wrong end of the same confound. **What survives the correction is still worth having:** zero of
+eight Book II chapters reach 0.515, and within the 1.9k–3.2k band III.1 is the highest at 0.498
+against a band mean of 0.315 and a next-highest of 0.384 at nearly identical length (II.2, 2,026w).
+⚠ **And what does not survive is the celebration.** III.1 is the *shortest* chapter in that band,
+the confound runs in its favour, and `voice_uniformity` — the other flatness axis, uncorrected —
+came back 0.6578, no better than II.8's 0.6534 and worse than five of the six Book I chapters.
+**One axis moved and the other did not, and the one that moved is the one with the artifact in it.**
+
+**57. THE II.1 ~ III.1 EXEMPTION IS DELETED RATHER THAN LEFT STANDING** — ruling 49's discipline, on
+its first live test. `beat_sweep` now reports the mute as **stale**: it suppressed a collision that
+did not occur this run, because 47(a) rewrote III.1's beats off the fork. The drafted chapter
+confirms it from the other side — `prose_beat_sweep` scores III.1 at **0 spent, 0 trace** against
+all fifteen shipped chapters. **A mute kept "just in case" is a mute that will suppress the real
+collision when a future revision reintroduces the fork**, which is the precise thing the standing
+ban exists to catch. Removed, with the reason on the record instead of in the table.

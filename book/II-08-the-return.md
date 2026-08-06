@@ -199,6 +199,5 @@ nothing to it.
 
 What follows is what the words are for.
 
-And the first of them is the picture most readers arrived holding — the one that agrees with almost
-every sentence in this book, uses the same images, reaches the same shape, and gets the single most
-important thing exactly backwards.
+And the first thing they are turned on is the other half of the account this chapter has spent its
+length refusing. Not how it ends. Who made it.

@@ -129,15 +129,15 @@ EXEMPT = {
     # here, this table was silencing a pair on the strength of an adjudication that had already
     # stopped being true — and NOTHING IN THIS FILE COULD SAY SO. An exemption never expires and
     # never reports. Found by Fable, an outside reader, not by any gauge in this repo.
-    ("II.1", "III.1"): "ruling 47(a), Clayton, Day 187 — RE-ADJUDICATED after the original split "
-                       "failed. II.1 now spends BOSTROM ENTIRE: elsewhere, the copy/render cut, "
-                       "the fork, and the four denials, all in `With no outside.`. II.2 keeps the "
-                       "ECONOMY — a game generates procedurally because storage costs money. "
-                       "III.1 spends NEITHER: it is the demiurge chapter, cutting Gnosticism on "
-                       "COSMOLOGY, and Bostrom survives in it only as a one-sentence callback. "
-                       "⚠ THE STANDING BAN IS NOW THE OTHER DIRECTION: III.1 may not re-run the "
-                       "copy/render fork. If III.1's beats ever re-acquire it, this exemption is "
-                       "hiding a real collision — which is exactly what it did before.",
+    # ("II.1", "III.1") — DELETED Day 187, ruling 57, on ruling 49's discipline and its first
+    # live test. The re-adjudicated entry sat here for one day and this check reported it STALE
+    # on the next run: 47(a) had rewritten III.1's beats off the fork, so there was no longer a
+    # collision to mute. III.1 then drafted at 0 spent / 0 trace under `prose_beat_sweep`
+    # against all fifteen shipped chapters, which is the same answer from the prose side.
+    #   Keeping it "just in case" is the failure mode, not the safe option. The standing ban
+    # says III.1 may not re-run the copy/render fork; if a future revision re-acquires it, that
+    # is precisely the collision this pair must be free to report. An exemption is not
+    # insurance. It is a permanent unmonitored mute — ruling 49, which this deletion honours.
     ("II.3", "VII.4"): "ruling 24, ADJUDICATED: II.3 states the Null-Space Theorem universally and "
                        "exceptionlessly BECAUSE VII.4 turns it on the contractive terminal doctrine "
                        "— 'no grade buys an exemption' is written for VII.4 six books early.",

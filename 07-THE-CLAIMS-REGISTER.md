@@ -99,7 +99,7 @@ catastrophe. A single sentence in V.6 can hand the whole book to Trap 1 while so
 > **Canonical:** God is the name of what C1 describes — not the server, not the developer, not
 > the engine, not the map, and not the player.
 
-**Establishes:** I.6 b3 (the naming) · II.1 · II.8
+**Establishes:** I.6 b3 (the naming) · II.1 · II.8 · **III.1 (the *developer* denial, named)**
 **Depends:** III.2 · III.3 · III.8 · IV.8 · V.1–V.10 · VI.7
 **Trap:** each of the five smuggles a different error, and they are not interchangeable —
 **server** (a substrate beneath the render), **developer** (outside, prior, intentional — three
@@ -198,10 +198,26 @@ either disciplined or lost, and neither chapter can be drafted without this line
 > **Canonical:** Before-and-after appears **with** the vantage, not around it.
 
 **Establishes:** I.3 b2 · II.2
-**Depends:** I.1 b4 — *the grammar confession* · III.3 · VII.1 · VII.9 · VIII.4
+**Depends:** I.1 b4 — *the grammar confession* · **III.1** · III.3 · VII.1 · VII.9 · VIII.4
 **Trap:** Trap 2 (sequence). **Every "then" in Books I–III is licensed by exactly one sentence
 in I.1 and by nothing else.** That sentence is made once and never repeated, which means it
 cannot be moved, cut, or softened in revision without silently unlicensing five chapters.
+
+
+★ **III.1 IS C5 × C13, AND IT COINS NOTHING — recorded Day 187 so that a later book does not
+mistake a derivation for a claim.** The chapter's cut is *a maker is prior to the made; priority is
+a position in time; the Ground has none.* Every term in it is already canonical: C5 denies the
+developer (outside, **prior**, intentional) and C13 makes before-and-after a feature of the inside.
+III.1 multiplies them and names the position they jointly empty. **No C27 was opened**, because the
+register is for claims the book must not contradict, and a composite that is false only if one of
+its factors is false does not need its own row — it needs its factors listed, which is what the two
+edits above do.
+⚠ **One genuinely new move sits under C13 and is registered here rather than left in prose:
+EMANATION DOES NOT ESCAPE PRIORITY.** The Valentinian top does not make, it overflows — and III.1
+rules that an overflow still has a direction, that downstream is the same asymmetry in softer
+clothes, and that origination *is* the time. **Any later chapter reaching for emanation, procession,
+unfolding or expression as a way to have origin without sequence is contradicting this**, and Books
+V–VIII have several places that will want to.
 
 ---
 

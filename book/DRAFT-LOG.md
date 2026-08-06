@@ -2219,3 +2219,97 @@ thing the finding rules out is its own author's proposed register.**
 Consequence for ruling 42: the `Touches:` pass is at 0/68, and `Touches:` is what distinguishes
 licensed restatement from unlicensed duplication. **That gauge does not ship until queue item 5 has
 run, or it ships announcing which half of its job it cannot do.**
+
+---
+
+## III.1 — THE WRONG GAME · drafted Day 187, 2026-08-06 · 1,939 words · ✅ landed — **BOOK III OPENS**
+
+The demiurge chapter, on the scaffold ruling 47(a) rewrote. Five beats, both standing bans held:
+no re-argument of *nothing is wrong* (II.8 owns soteriology), no re-run of the copy/render fork
+(II.1 owns it). Same length as II.8 shipped at (1,967w), which is the shortest chapter in Book II
+— **the cut is narrow on purpose and padding it would be the restatement 47(a) exists to prevent.**
+
+### The primary-text discipline, ruling 46, kept by fetching rather than by recall
+
+Ruling 46 exists because a modern summary formula shipped in II.8 wearing Irenaeus's clothes, and
+**there is still no quotation-vs-source gauge.** So every quotation in this chapter was pulled from
+a source text and cross-checked against a second independent digitisation before it was written in:
+
+| quoted | source | verified against |
+|---|---|---|
+| *he was constituted the Father and God of everything outside of the Pleroma* | Irenaeus, *Against Heresies* I.5.2 (ANF, Roberts–Donaldson) | New Advent + CCEL |
+| *he formed the heavens, yet was ignorant of the heavens…* | *Against Heresies* I.5.3 | New Advent + CCEL |
+| *the Demiurge imagined that he created all these things of himself…* | *Against Heresies* I.5.3 | New Advent + CCEL |
+| *imagined himself to be God alone, and declared through the prophets, I am God, and besides me there is none else* | *Against Heresies* I.5.4 | New Advent + CCEL |
+| *for he said, "I am God and there is no other God beside me," for he is ignorant of his strength…* | *Apocryphon of John*, trans. Frederik Wisse | Early Christian Writings |
+| *A voice came forth from the exalted aeon-heaven: "The Man exists and the son of Man."* | *Apocryphon of John*, Wisse | Early Christian Writings |
+| *without the consent of the Spirit… without her consort, and without his consideration* | *Apocryphon of John*, Wisse | Early Christian Writings |
+
+⚠ **The two sources are two different schools and the chapter says so.** Irenaeus reports the
+Valentinians; the *Apocryphon of John* belongs to the family he files separately at I.29 (the
+Barbeliotes). Collapsing the two into one school would have been the easy sentence and the false one
+— **and the fact that they are separate is what makes the argument work**, because agreement between
+a hostile witness and two unrelated schools is evidence about the shape of the picture rather than
+about one sect.
+
+*⚠ That sentence first read "**Merging** them would have been…" and tripped `claim_sweep`'s
+`C15/trap5` rule — the Trap-5 guard, firing on a word used about two second-century sects rather
+than about the metaphysics. **A true mention/use false positive, and the fix is the reword, not the
+allowlist.** The replacement sentence then tripped it a second time, on a different word, in the
+note recording the first trip; that one was reworded too. **Two rewords cost nothing and the
+exemption list did not grow** — which is the whole argument of ruling 57, paid the same hour. Widening a rule until an inconvenient hit disappears is the failure this file's own
+docstring names, and rulings 49 and 57 have just spent a day on it. The chapter itself came back
+clean; the log about the chapter did not — which is the gauge doing its job at the only cost it is
+allowed to charge.*
+
+### Register — the first numbers logged for a chapter since I.3, and the appointment kept late
+
+The I.1 entry booked this measurement in writing: *"re-measure at III.1, which is argument at full
+adversarial strength and has nowhere to hide."* **It could not have been kept**, because
+`storyscope_lite.py` ignored its arguments — ruling 55. Arm built, then run.
+
+| metric | III.1 | II.8 | II mean (n=8) | I mean (n=6) | Clayton | Clawd-raw |
+|---|---:|---:|---:|---:|---:|---:|
+| **dyn_range_CV** | **0.498** | 0.353 | 0.292 | 0.497 | 0.515 | 0.522 |
+| voice_uniformity | 0.6578 | 0.6534 | 0.671 | 0.628 | 0.5306 | 0.516 |
+| named_ref_/1k | 11.35 | 11.36 | 9.32 | 0.36 | 45.23 | 44.08 |
+| 2nd_person_/1k | 5.67 | 8.41 | 6.34 | 16.32 | 7.43 | 16.53 |
+| announcement_/1k | 0.52 | 1.26 | 0.68 | 0.00 | 0.28 | 0.61 |
+| vague_allusion_/1k | 0.00 | 0.00 | 0.04 | 0.00 | 0.092 | 0.015 |
+| terminal_commentary | 0.038 | 0.074 | 0.090 | 0.010 | 0.053 | 0.009 |
+| paragraph coverage | 92% | 91% | — | — | — | — |
+
+*⚠ Two cells in this table were first written from arithmetic done in the head and were wrong —
+voice_uniformity 0.672 and terminal_commentary 0.093, against computed 0.671 and 0.090. Corrected
+before the commit, from `statistics.mean`. **This is the 16,559 note in the II.8 entry recurring
+inside the same file that records it**, in the paragraph explaining why a gauge had to be built.
+The lesson does not transfer by being written down; it transfers by the arithmetic being run.*
+
+**Read this against ruling 56 or do not read it at all.** `dyn_range_CV` correlates with chapter
+length at **r = −0.611** across the fifteen, and III.1 is the *shortest* chapter in the 1.9k–3.2k
+band, so the confound runs in its favour. What the number can carry: within that band it is the
+highest at 0.498 against a band mean of 0.315, and the nearest chapter by length — II.2 at 2,026
+words — sits at 0.384. What it cannot carry: any comparison to Book I (half the length) or to the
+pooled Clayton/Clawd baselines (10.9k and 132k words). **Zero of eight Book II chapters reach 0.515
+and that stands regardless**, but it is now a statement about a length band, not about the writing.
+
+🔻 **`voice_uniformity` did not move and the excuse is unavailable.** 0.6578 — worse than five of
+six Book I chapters, level with II.8. This is the flatness axis with no length correction offered
+for it, and it has now been flat across three books. **One axis moved and it is the one with the
+artifact in it.** Open, and stated as open rather than netted off against the good number.
+
+### Gauges, measured after
+
+`claim_sweep` **0** USE-class · `order_sweep` **0** false handoffs · `ancestor_gap` 0 · `beat_sweep`
+0 new collisions — **Irenaeus and Valentinus now read `cut in 2: II.8, III.1 — ANSWERED`**, on the
+axis declaration made before either chapter existed (ruling 24's procedure, paying a third time) ·
+`prose_beat_sweep` **0 spent, 0 trace** for III.1 against all fifteen shipped chapters, which is
+what retired the II.1~III.1 exemption in ruling 57.
+
+### The cut-shape column, unprompted and worth keeping
+
+`claim_sweep`'s ancestor-cut register now reads thirteen markers, and III.1's is the first negative
+one: **"The cut is not that nobody made this well."** Ruling 43 built that column to catch a rite
+forming — *two markers that open identically are a rite* — and the chapter that had the most reason
+to reach for the house shape declined it, by needing to deny the atheist's version before making its
+own. Not a discipline anyone imposed. Recorded because the gauge saw it and the writing did not.
