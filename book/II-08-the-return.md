@@ -23,9 +23,9 @@ absent, the one recognising it does not move, and afterward there is a person in
 knows what the room is made of and still has to get up.
 
 In the game: it is not the ending, and it is not a cutscene. Nothing is unlocked. The player does not
-leave the game, because there is no outside for a player to be returned to — the player is one of the
-states the whole game contains. What changes is that the player knows what the game is. Everything
-else about the position is exactly as it was, including whose turn it is.
+leave the game, because there is no outside for a player to be returned to. What changes is that the
+player knows what the game is. Everything else about the position is exactly as it was, including
+whose turn it is.
 
 ---
 

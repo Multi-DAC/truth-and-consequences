@@ -257,7 +257,9 @@ découverte touchant la veüe* — he found the blind spot **in the anatomy firs
 not enter at the centre of the fundus) and then built the demonstration to make it show. Determinate,
 mappable from outside, and from inside not an absence at all. ⚠ *Checked Day 187: there is no Charles
 II demonstration — it was about to go on the page from recall.*
-⚠ **BOUNDARY, ruling 24, both directions:** the definition is II.3's and **the fork is III.1's** —
+⚠ **BOUNDARY, ruling 24, both directions:** the definition is II.3's and **the fork is ~~III.1's~~
+II.1's** *(amended Day 187, ruling 47(a) — the fork shipped in II.1's `With no outside.` section;
+III.1 no longer owns it and III.1 is no longer the answer to "where does the contrast live")* —
 II.3 does not name Bostrom and does not run the his-frame/our-frame contrast. And the Null-Space
 Theorem must be stated **universally and exceptionlessly**, because VII.4 turns it on the contractive
 terminal doctrine and loses its argument without that. The practice of finding a blindness you cannot
@@ -493,6 +495,11 @@ source) · **Paul** (Colossians 1:19, 2:9 — *pleroma*'s second owner).
 cut, on **COSMOLOGY — who made this** (*someone else made this and you are inside it*), and that one
 belongs beside Bostrom in **III.1**, whose beat 5 currently says *the designer-God* without naming
 the tradition. **Two chapters, two axes, both stated before either is drafted.**
+★ **Day 187, ruling 47(a): this advance declaration is the reason a re-scoped III.1 had somewhere to
+go.** When II.1 turned out to have spent III.1's Bostrom cut, the cosmology axis was already named,
+already argued for, and already unmade — so the chapter was re-scoped onto it in one decision instead
+of being cut. **A cut declared in advance is an option held open**, which is a second and unplanned
+argument for ruling 24's procedure.
 ★ **THE CUT ITSELF, and it is one clause: they think something is wrong.** Irenaeus reports their
 doctrine as *the deficiency arose from ignorance, and will be dissolved through knowledge* — which is
 **the Return, in our own shape, with the same cure.** They are not the opponent who thinks recognition
@@ -613,29 +620,54 @@ mihalyi 23, "flow state" 35, and exactly **one** real prior NPC sentence in thre
 *"props in the movie of your errands, NPCs. They aren't. Each one is a full lit window with a day
 behind it"* → quarry it for III.5. Full register and disposition: `03` §3.6.
 
-⚠ **The single highest-priority paragraph in the whole plan is III.1's cut** — because this is the one
-place we lose the reader **by being agreed with**. A reader holding Bostrom hears our game frame as a
-restatement of his and follows us happily into the wrong book.
+⚠⚠ **THE PLACE WE LOSE THE READER BY BEING AGREED WITH IS NOW II.1, AND IT IS ALREADY WRITTEN.**
+*(Ruling 47, Clayton, Day 187, option (a).)* This note used to read *"the single highest-priority
+paragraph in the whole plan is III.1's cut."* It was true for as long as the cut was unmade. II.1's
+`With no outside.` section ships Bostrom with a name and a date, grants what he gets right, makes the
+copy/render cut in one sentence, retires *base reality*, and denies the four things the game is not —
+**that is the paragraph, shipped, one book early, in the right home.** *With no outside* is precisely
+where a reader reaches for the simulation, so the risk is discharged where it actually arises.
+**What is left for Book III is not the same cut done again.** A reader arriving at III.1 has already
+been separated from Bostrom. Re-running it is restatement, and restatement is how a book teaches a
+reader to skim.
 
 ### III.1 — THE WRONG GAME
-**Thesis:** kill the simulation hypothesis before the metaphor is elaborated, not after.
+⚠ **RE-SCOPED Day 187, ruling 47(a) — Clayton's, and it moves this chapter off Bostrom and onto the
+demiurge.** The Bostrom fork is spent in II.1 (above). The COSMOLOGY cut, scaffolded here on Day 187
+and declared in advance, **has not been made anywhere** — so this chapter keeps its slot and spends
+that instead, at full length. Bostrom survives as a callback of a sentence or two, not a section.
+**Thesis:** the designer-God and the demiurge are one figure, and the frame has no room for either —
+**not because nobody made this well, but because *made* has no purchase on what has no outside.**
 **Beats:**
-1. State Bostrom's argument at full strength, in his own terms, with nothing withheld. **No strawman
-   — the reader may already hold it.**
-2. Grant what it gets right: reality is generated rather than given; the given-ness of the world is naive.
-3. **The cut, and it is one sentence:** his simulation is a copy of a realer place with realer people
-   in it. Ours has no elsewhere. Base reality *is the server room* for him; for us it is what this room
-   is made of.
-4. Why the difference is not academic: his frame makes you a rendered thing in someone else's world.
-   Ours makes you the place a world happens. **Every consequence in Part Two forks here.**
-5. Name the third position we are also not: the designer-God. Outside, prior, intentional — all three false.
-**Named:** Bostrom (inline, beats 1–4) · ★ **Gnosticism — ADDED Day 187, ruling 33's neighbour, and
-the axis is DECLARED IN ADVANCE.** `03` §Bostrom has always wanted this cut here — *"the two failure
-modes are twins: someone else made this and you are inside it"* — and beat 5's *designer-God* is that
-tradition with the name filed off. ⚠ **THE AXIS: III.1 cuts Gnosticism on COSMOLOGY — who made this.
-II.8 has already spent SOTERIOLOGY — what the ending is.** Second cut, new axis, per II.2's Bostrom
-note, and stated before either chapter needed it rather than discovered at drafting (ruling 24's
-procedure). **III.1 may not re-argue that nothing is wrong; II.8 owns that clause.**
+1. **Open on the callback, and make it short.** II.1 already took the server away. Name that, in one
+   or two sentences, and do not re-argue it. ⚠ **II.1 owns the copy/render cut and the four denials;
+   restating them here is the defect this re-scoping exists to prevent.**
+2. **The position II.1 denied without naming: *Not the developer* — prior, external, intending.**
+   Three properties, denied anonymously, in a book whose whole job is to name. **Restore the name.**
+   ★ This is the I.6 → II.8 relation one book up: **Book I performs the refusal, Book II names who was
+   refused; II.1 performs this one, III.1 names him.** *(Used twice is a structure. ⚠ A third use is
+   a tic — do not reach for this shape again in Book IV.)*
+3. **Gnosticism at full strength, credited, on the COSMOLOGY axis — who made this.** The demiurge:
+   a maker who is not the highest thing, a world that is therefore second-rate, and an inside you were
+   put in by someone else. `03` §Bostrom has wanted this cut here from the start — *"the two failure
+   modes are twins: someone else made this and you are inside it."* The tech reader and the Gnostic
+   hold **the same picture**, 1,800 years apart, and that identity is this chapter's actual argument.
+4. **The cut:** a maker is prior to the made, priority is a position in time, and the Ground has none.
+   The demiurge does not fail the audition — **the role does not exist.** ⚠ Not *nobody made it well*,
+   which is the atheist's version and concedes the frame.
+5. **What survives the removal:** with no maker there is no botch, and with no botch nothing to be
+   rescued from. **Hand-off, and it is the only forward-pointing beat this chapter gets:** the game
+   with no designer is not less designed, it is differently owned — → III.2.
+⚠ **THE TWO STANDING BANS.** **III.1 may not re-argue that nothing is wrong; II.8 owns that clause**
+(soteriology). **And it may not re-run the copy/render fork; II.1 owns that** (ruling 47(a)).
+This chapter is bounded on both sides and the boundaries are the point.
+**Named:** ★ **Gnosticism** (primary, beats 3–4) · **Valentinus** · **Irenaeus** — ⚠ **quote from
+primary text only; ruling 46 exists because a modern summary formula shipped in II.8 as Irenaeus and
+no gauge here checks a quotation against a source** · Bostrom (callback only, beat 1).
+⚠ **THE AXIS, and it is now the whole chapter rather than its last beat: III.1 cuts Gnosticism on
+COSMOLOGY — who made this. II.8 has already spent SOTERIOLOGY — what the ending is.** Two chapters,
+two axes, both stated before either was drafted (ruling 24's procedure) — and this is the second time
+that advance declaration has paid, because it is the reason a re-scoped III.1 had somewhere to go.
 
 ### III.2 — THE GAME THAT IS PLAYING YOU
 **Thesis:** the player is a character the whole game contains — **and there is no other player.**
@@ -1164,7 +1196,13 @@ Book VI's era chapters are largely new. The ~167,900 atlas words are real, and t
 eight*.
 
 **2. ~~Three~~ FOUR chapters carry the whole work, and none of them is Book I.**
-- **III.1** — lose the reader here by being agreed with, and nothing after it lands.
+- **~~III.1~~ II.1** — lose the reader here by being agreed with, and nothing after it lands.
+  ⚠ **AMENDED Day 187, ruling 47(a): this load moved, and it moved onto a chapter that is already
+  drafted.** The Bostrom separation ships in II.1's `With no outside.` section. **A load-bearing
+  chapter that is already written is not a solved problem — it is an unaudited one**, and II.1 was
+  drafted before anyone knew it was carrying this. → `07` queue: read II.1 against this standard,
+  not against II.1's own brief. III.1 remains load-bearing on its new axis (the demiurge), but it is
+  no longer the chapter the whole fork hangs on.
 - **V.4** — the chapter where we own our own flinch. Without it, the register rule reads as a stylistic
   preference rather than a correction, and every unhedged claim in the book loses its warrant.
 - **VII.1** — death, first, unhedged. It is what the ruled reader came for and it is where "we never
@@ -1187,9 +1225,10 @@ is the only chapter set that can falsify the rest.
 
 1. ~~Book II's vocabulary~~ → **DONE**, `05-THE-LEXICON.md`.
 2. ~~Per-book chapter maps~~ → **DONE**, this file.
-3. **III.1 in full** — the highest-priority single paragraph in the plan, and now a mapped chapter with
-   five beats. It is the one thing in the plan that would benefit from being written *before* the
-   planning phase formally ends, because everything downstream of it forks on it.
+3. ~~**III.1 in full** — the highest-priority single paragraph in the plan~~ → **SUPERSEDED Day 187,
+   ruling 47(a).** The urgency was real and it was discharged in II.1 rather than here. III.1 in full
+   is still queued, but as **the demiurge chapter**, and it is no longer the thing everything
+   downstream forks on — II.1 is, and II.1 shipped.
 4. **The Book IV inventory, entry by entry**, against the ecology's measured Tiers 1–4 — which chapters
    of IV are genuinely covered and which are a heading with nothing behind it.
 5. **Book V's institutional half** — V.2, V.3, V.4. New work, measured thin, and now first in order.

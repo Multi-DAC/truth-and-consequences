@@ -15,7 +15,16 @@ Four specimens, from the four registers most likely to fail differently:
 | # | where | words | the failure it is an instrument for |
 |---|---|---:|---|
 | 1 | **I.1 — The Fullness** (opening of the work) | ~700 | myth going decorative; a static Ground described in verbs that move |
-| 2 | **III.1 — The Wrong Game** | ~860 | bluster; and the specific loss of being *agreed with* by a reader holding Bostrom |
+| 2 | ⚠ **~~III.1 — The Wrong Game~~ → the material shipped as II.1** | ~860 | bluster; and the specific loss of being *agreed with* by a reader holding Bostrom |
+
+⚠ **SPECIMEN 2'S ADDRESS CHANGED UNDER IT, Day 187, ruling 47(a).** The Bostrom cut is no longer
+III.1's — it shipped inside **II.1**, and III.1 is now the demiurge chapter. **The specimen is not
+invalidated: its job was register, not content**, and the register it calibrates (argument at full
+adversarial strength) is exactly what II.1's `With no outside.` section had to do. ★ **It has quietly
+become something better than a specimen — a pre-draft rendering of an argument that later shipped in
+full, by the same hand, for the same reader.** That is a voice-drift measurement nobody designed and
+it is available for free. ⚠ **Clayton's voice ruling is still pending on this file** and this note
+does not touch it: what he is ruling on is the prose, which has not changed.
 | 3 | **VIII.6 — Other Players** | ~740 | grandeur applied to Tuesday. Fails quietly, which is why it needs an instrument |
 | 4 | **VII.1 — Death** (opening paragraph only) | ~165 | **comfort.** A sentence that consoles while claiming not to. Ruling 11 |
 

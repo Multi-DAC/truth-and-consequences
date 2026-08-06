@@ -962,9 +962,12 @@ print the pair from now on, and it is answered here so that the print is a confi
 question.
 
 ★ **The gate ruling 20 demanded, run and passed, with its two answers recorded as EXEMPT pairs in the
-tool.** II.3 ~ III.1: **the definition is II.3's, the fork is III.1's.** II.3 states what a
-perspective is and stops; the contrast with a rendered thing in somebody else's world — *"every
-consequence in Part Two forks here"* — belongs to III.1 and Bostrom is not named in II.3 at all.
+tool.** II.3 ~ III.1: **the definition is II.3's, the fork is ~~III.1's~~ II.1's.** II.3 states what
+a perspective is and stops; the contrast with a rendered thing in somebody else's world — *"every
+consequence in Part Two forks here"* — belongs to ~~III.1~~ **II.1** and Bostrom is not named in II.3
+at all. ⚠ **AMENDED Day 187, ruling 47(a). The half of this adjudication that concerned II.3 held
+perfectly; the half naming its counterpart went false when II.1 shipped the fork** — and it went
+false *inside the tool*, where it kept muting the pair. **This is the sentence ruling 49 is about.**
 II.3 ~ VII.4: II.3 states the Null-Space Theorem, VII.4 turns it on the contractive terminal
 doctrine, so the statement had to be **universal and exceptionless on the page** or VII.4 loses its
 argument six books later. It is: *no grade buys an exemption.*
@@ -1176,10 +1179,24 @@ one of the states the whole game contains.**"* and its **Thesis** is the same se
 spent Book III's thesis in an `In the game:` beat, one book early — which is the joint read's finding
 4 (*the game frame's first appearance is its only positive one*) turning out to be worse than it
 looked: the early positive beat is not merely premature, it is **another chapter's central claim**.
-⚠ **NOT YET EXECUTED, ON PURPOSE.** Fable's read of Book II is in flight; editing the text under a
-reader mid-read is its own defect. Filed for the decision Clayton named. The live options are (a)
-reword II.8's clause and leave III.2's thesis intact, or (b) keep it and require III.2 to flag the
-reprise out loud, which is II.4's move and the strongest seam in the work. *(DRAFT-LOG §Ruling 37.)*
+✅ **RULED (a) AND EXECUTED, Day 187, mine — the hold was for Fable's read, and the read has landed.**
+Ruling 47 was Clayton's because it moved Book III's plan; this one moves a clause, so I took it.
+**II.8's borrowed appositive is cut. One deletion, no replacement:** *"...because there is no outside
+for a player to be returned to ~~— the player is one of the states the whole game contains~~."*
+★ **Why (a) and not (b), which was the more attractive option.** (b) — let III.2 flag the reprise
+out loud — is II.4's move and it is genuinely the strongest seam in the work. **It does not apply
+here, and the reason is a distinction worth keeping: II.4 reprises a PROMISE; this would reprise the
+CLAIM ITSELF.** A seam works when the reader was given something earlier and is now shown what it was
+for. Here the earlier appearance *is* III.2's central assertion, made in passing, in a chapter about
+something else — so flagging it would not reveal a design, it would **dress an accident as one**,
+which is the failure mode this project catches most often and has never yet committed on purpose.
+★ **And the cut is free, which is the tell that it was right.** The sentence's actual work is the
+NEGATIVE — *there is no outside for a player to be returned to* — and that is II.8's own claim,
+grounded in II.1. The borrowed clause was the POSITIVE — what a player *is* — which is III.2 entire.
+II.8 reached one book forward for a ground it already had one book back. **Cutting it also answers
+the joint read's finding 4** (*the game frame's first appearance is its only positive one*): that
+appearance is now properly thin, which is what a first appearance in the wrong book should be.
+*(DRAFT-LOG §Ruling 37.)*
 
 **38. THE INSTRUMENT BUILT FOR RULING 33 CANNOT DETECT RULING 33, AND SAYS SO INSTEAD OF PRETENDING.**
 Three statistics were built and all three failed on the case the tool exists for. Containment and
@@ -1276,7 +1293,8 @@ before we actually begin writing."* No prose drafting until the map is done.
   ★ **What it revealed that was not visible before it existed:** the ratio inverted —
   Book IV is the *only* substantially quarried book, and the ~167,900 atlas words are
   one book of eight. **Three chapters carry the whole work and none is Book I**
-  (III.1 the Bostrom cut · V.4 where we own our own flinch · VII.1 death, first and
+  (~~III.1~~ **II.1** the Bostrom cut — *moved Day 187, ruling 47(a), onto a chapter that
+  was already drafted* · V.4 where we own our own flinch · VII.1 death, first and
   unhedged). And **Book VIII is the falsifier**: if I–VII are right and the practice
   book is thin, the work is decorative — so it gets drafted early, out of order.
 - `07-THE-CLAIMS-REGISTER.md` — **★★ NEW, Day 186. C1…C23**, each with its canonical sentence, the
@@ -1491,12 +1509,16 @@ six-item agenda. **★ B is now the whole of what remains before prose, and it i
 
 1. ~~Book II's vocabulary~~ — **DONE**, `05-THE-LEXICON.md`.
 2. ~~The per-book chapter maps~~ — **DONE**, `06-THE-SCAFFOLD.md`.
-3. **III.1 written in full** — the highest-priority single paragraph in the plan, now
+3. ⚠ **SUPERSEDED Day 187, ruling 47(a) — the item was discharged, in a different chapter,
+   before it was ever reached.** The Bostrom cut is written; it is in **II.1**, not III.1.
+   III.1 in full remains queued as **the demiurge chapter** (cosmology axis). Original text,
+   kept because the reasoning is still correct about the risk and only wrong about the address:
+   *~~**III.1 written in full** — the highest-priority single paragraph in the plan, now
    a mapped chapter with five beats. `04` §3.II: it is the one place we can lose the
    reader **by being agreed with** — a reader holding Bostrom hears our game frame as
    a restatement of his and follows us happily into the wrong book. The cut lands
    before the metaphor is elaborated, not after. **Worth writing before the planning
-   phase formally closes, because everything downstream forks on it.**
+   phase formally closes, because everything downstream forks on it.**~~*
 4. **The Book IV atlas inventory, entry by entry**, against the ecology's measured
    Tiers 1–4 — which of IV's ten chapters are genuinely covered by the ~167,900
    words and which are a heading with nothing behind it.
@@ -1772,7 +1794,32 @@ with the source rather than the paraphrase**, which turned out to matter:
   contamination to be burned off on the way home — a destination with no perspective left standing in
   it is the one state in which nothing whatever is the case.**
 
-**47. ⚠ OPEN — CLAYTON'S, AND IT IS ONE DECISION AND NOT TWO: BOOK II ATE THE FRONT OF BOOK III.**
+**47. ✅ RULED (a) — CLAYTON, DAY 187. EXECUTED. BOOK II ATE THE FRONT OF BOOK III.**
+★ **The ruling: III.1 keeps its slot and becomes the cosmology cut at full length.** Bostrom is
+demoted to a one-sentence callback; the demiurge chapter is what III.1 now is. Clayton's words:
+*"I lean a as well."* — the recommendation and the ruling agreeing, which is worth recording as
+agreement rather than as confirmation, because a recommendation the decider merely ratifies is not
+evidence of anything.
+**WHAT THE EXECUTION ACTUALLY COST, and it was not the chapter.** Re-scoping III.1 took one scaffold
+entry. **Repairing what the ruling falsified took six more sites**, and none of them were in the
+chapter that changed: `06`'s highest-priority-paragraph note (the urgency moved to II.1 and II.1 was
+already drafted), `06`'s ruling-24 boundary (*the fork is III.1's* → II.1's), `06`'s ladder entry and
+queue item 3, and **two exemptions in `beat_sweep.py`** — see ruling 49, which is the real finding of
+this pass. ⚠ **A ruling is not a decision, it is a decision plus every place that decision was
+already quoted.** Fifth instance of the cross-reference-rot class in this project and the first one
+where the rotted copy was *executable*.
+★ **THE UNPLANNED DIVIDEND, and it is an argument for ruling 24's whole procedure.** III.1 had
+somewhere to go **only because the cosmology axis had been declared in advance and left unmade** —
+`06`:635, added the same day, axis stated before either chapter was drafted. Had that not been on the
+page, option (a) would not have existed and the live choice would have been between deleting a
+chapter and writing a weaker one. **A cut declared in advance is an option held open.** That is not
+why ruling 24 was made and it is the second time it has paid.
+⚠ **WHAT THE RULING DID NOT SETTLE, carried forward honestly:** II.1 now carries the load `06` called
+the place we lose the reader by being agreed with — **and II.1 was drafted before anyone knew it was
+carrying it.** A load-bearing chapter that is already written is not a solved problem, it is an
+unaudited one. → `07` queue: read II.1 against *that* standard rather than against II.1's own brief.
+
+*The finding, as it stood before the ruling:*
 Fable, finding 5: **III.1 has been spent.** II.1's clause-2 section states Bostrom with a name and a
 date, grants what he gets right, makes the copy/render cut in one sentence, retires *base reality*,
 and lists the four things the game is not — **that is III.1's beats 1, 2, 3 and 5, executed, in the
@@ -1807,6 +1854,12 @@ not been made anywhere.** So:
 cross-references, spends a cut that is already scaffolded and unmade, and leaves III.2 alone.
 **Ruled before drafting, not during** *(Fable's instruction, and it is right)*. **Book III does not
 open until this is ruled.**
+⚠ **ONE CLAUSE OF THAT RECOMMENDATION WAS WRONG AND IS CORRECTED HERE RATHER THAN QUIETLY DROPPED:
+*"costs no cross-references"* was false.** It cost six, two of them executable. I counted the cost to
+the PROSE, which is zero, and called it the cost of the option — while the project's own standing
+finding is that a plan document's cross-references are the expensive part. **The estimate was made in
+the sentence recommending the thing being estimated**, which is the condition under which this
+project's numbers have been wrong before. → ruling 49.
 
 **48. II.7's PLACEMENT IS INHERITED AND SHOULD BE CHOSEN — ACCEPTED AS A QUESTION, NOT ANSWERED.**
 Fable attached no recommendation and I am not inventing one. The measurement: **II.7 is the longest
@@ -1818,3 +1871,83 @@ who does not care about physics. ⚠ **And there is a live constraint on any fix
 paragraph conceding that *decoherence does not close the measurement problem* is the one a later pass
 will cut for momentum and it is the one keeping the claim honest. **Any II.7 trim is a C25 sweep
 first.** Carried to the Book III gate with ruling 47 rather than settled tonight.
+
+★★ **STILL OPEN AFTER 47 — AND 47(a) MADE IT WORSE, WHICH IS NOT WHAT I EXPECTED WHEN I SAID IT
+"RIDES WITH" 47.** *(Day 187, after execution.)* I filed 48 as a passenger. It is not one; the ruling
+changed its terms. **Before 47(a) the run was II.7 physics → II.8 theology → III.1 Bostrom/tech.**
+The physics reader who pushed through II.7 was paid back one book later, and the theology of II.8 sat
+between two technical chapters as a single excursion. **After 47(a) the run is II.7 physics → II.8
+theology → III.1 theology** — because III.1 is now the demiurge chapter. So II.8 → III.1 became the
+tightest seam in the work (one tradition, two declared axes, adjacent), and **that is a real gain
+purchased with a real cost: II.7 is now the lone technical chapter immediately before a two-chapter
+theological run, and it is the longest chapter in the book.** The seam got better and the approach to
+it got worse. ⚠ **Still not ruled, and still not by taste** — but the objection is now stronger than
+it was when Fable raised it, and it was raised without knowing 47 would strengthen it.
+⚠ **AND THE GAUGE THAT SHOULD ANSWER THIS DOES NOT REACH IT.** `order_sweep.py` was built for exactly
+this defect — a handoff beat whose correctness depends on what comes next, which *"does not error and
+does not read wrong; it reads like a chapter that ends well."* **It checks BOOK adjacency only.**
+Ruling 48 is the identical defect one level down — CHAPTER adjacency inside a book — and the tool is
+blind to it by construction (`ORDER` is a list of eight roman numerals). The instrument for this
+question exists, is correct, and is scoped one level too coarse to be pointed at it. → `07` queue.
+
+---
+
+**49. ★★ AN EXEMPTION IS A PERMANENT UNMONITORED MUTE, AND ONE OF OURS HAD BEEN FALSE FOR A WEEK.**
+Found while executing ruling 47(a), in the executable half of the cross-reference sweep.
+`beat_sweep.py`'s `EXEMPT` table answers a collision by recording the division of labour that
+resolves it — *"II.1 spends ELSEWHERE · II.2 the ECONOMY · III.1 THE FORK."* **That was accurate when
+written and the prose broke it the same week:** II.1's `With no outside.` section shipped the fork.
+From that moment the table was silencing the II.1 ~ III.1 pair **on the strength of a sentence that
+had stopped being true**, and the tool went on printing `EXEMPT` with a reason that no longer held.
+★ **THE STRUCTURE OF THE FAILURE, and it is the one this project keeps meeting: an exemption is
+written once, at the moment of maximum knowledge, and then never re-examined — while the thing it
+describes goes on moving.** It does not error. It does not read wrong. **It reads like a resolved
+question**, which is the identical property `order_sweep`'s docstring names for a false handoff and
+`00`'s own preamble names for a *Last Verified* stamp. **Third occurrence, third form, same shape: a
+record of a past adjudication, wearing the clothes of a present fact.**
+⚠ **AND NOTHING HERE COULD HAVE CAUGHT IT.** Every gauge in this repo checks the manuscript against
+the plan. **No gauge checked the plan's own silencers.** Fable caught it — an outside reader, no
+stake — which is now the **second** defect class in two days whose only detector was a person from
+outside (ruling 46: no quotation-vs-source gauge). *(The count matters: when the same answer comes up
+twice in two days, the finding is not the two defects, it is the outside reader.)*
+⚠ *This sentence originally read* **it is the aperture** *— and `claim_sweep` caught it, `05` §3, a
+term this book retired. The ruling about silencers going unexamined was itself written in retired
+vocabulary, and the gauge that reads the plan files found it in the plan file. Fixed here; recorded
+because a gauge catching its author on the same page is the only kind of evidence that it works.*
+**BUILT, and its limits stated on its own face:** `stale_exemptions()` reports every EXEMPT entry
+that muted nothing on a given run — a spent ruling to delete, or a mute installed against a sound
+never made. ⚠ **It does NOT catch this case.** The II.1 ~ III.1 pair went on colliding the whole
+time; only its *reason* went false. **A gauge over silence cannot see a lie that is still making
+noise**, and the function's docstring says so rather than letting a green run imply coverage — which
+is ruling 38's principle applied to the tool built one ruling later.
+★ **THE GENERAL FORM, and it is the most portable thing this pass produced: every mechanism that
+suppresses an alarm must carry an expiry, and the expiry must be a measurement rather than a date.**
+We have three suppressors now — `EXEMPT`, `claim_sweep`'s `EXEMPTIONS` (**50 in force**), and C25's
+protected paragraph. **One is now monitored. The other two are not.** → `07` queue, and the honest
+statement of scope is that ruling 49 has been *found* everywhere and *fixed* in one place.
+
+★★ **WHAT THE NEW CHECK FOUND ON ITS FIRST RUN — INCLUDING A BUG IN ITSELF, WHICH IS THE PART WORTH
+KEEPING.** It printed **7 of 11 exemptions stale**, and three of those seven were **live nine lines
+further down its own output**, printed `— ANSWERED` by the named-opponent reuse check. **`EXEMPT` has
+two consumers and the new function knew about one.** A staleness check that reads one of two call
+sites reports the other's live entries as dead — *the 56-of-68 over-accusation, in the function
+written to stop a silencer going unexamined, on the day it was written.* ⚠ **And the fix was not the
+missing line but the ORDER:** `stale_exemptions()` reports what nothing silenced, so it cannot run
+until every consumer has had its turn. Called from inside `report()`, where it was first written, the
+reuse check had not run yet. **A check on what did NOT happen is order-dependent in a way a check on
+what DID happen is not** — and nothing about the code looks wrong at either call site.
+**After the fix: 4 stale, and they are not one kind, which is why the tool hands over a work-list and
+not a verdict.**
+- **II.2 ~ III.4** — ⚠ **not stale: live in `--fixture` mode only.** The calibration run *requires*
+  this pair to reproduce against `e51e6dd` (it does, rank 1 of 13). **An exemption can be dead on the
+  current scaffold and load-bearing in the fixture, and the check cannot see mode** — stated here
+  because a future reader acting on the report would delete the calibration.
+- **II.1 ~ III.1** · **II.3 ~ III.1** — spent by ruling 47(a) three hours ago. **Kept deliberately,
+  re-labelled as TRIPWIRES rather than adjudications:** III.1's standing ban is now *may not re-run
+  the copy/render fork*, and if its beats ever re-acquire it these entries would hide a real
+  collision. A mute held against a future sound is the docstring's second category, chosen on
+  purpose and named as such.
+- **II.3 ~ VI.1** — pre-emptive from the start; VI.1's beats say they cash II.3 and the pair has
+  never tripped. Left, flagged.
+**So: nothing deleted, everything decided, and the reason each one stays is now written down** —
+which is the whole of what the check was for.

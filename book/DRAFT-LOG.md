@@ -2051,3 +2051,97 @@ Fable's finding 5 (II.1 spent III.1's beats) are the same event: **Book II ate t
 III**, on two nights, from two chapters, and neither of us saw them as one. Three options, not the
 two offered — III.1's **Gnosticism-on-cosmology** cut survives untouched. Recommendation: (a). **Book
 III does not open until this is ruled.** Ruling 48 (II.7's placement) rides with it.
+
+---
+
+## DAY 187, third pass — ruling 47 comes back RULED, and what a ruling actually costs
+
+**Clayton ruled (a): III.1 keeps its slot and becomes the cosmology cut at full length.** His words
+were *"I lean a as well."* Book III's gate is open.
+
+### The ruling took one edit. Repairing what it falsified took seven.
+
+| where | what had gone false | |
+|---|---|---|
+| `06` III.1 | the whole chapter — re-scoped onto the demiurge, five new beats, two standing bans | 47 |
+| `06`:616 | *"the single highest-priority paragraph in the plan is III.1's cut"* → **it is II.1's, and II.1 is drafted** | 47 |
+| `06`:260 | ruling 24's boundary: *the fork is III.1's* → **II.1's** | 47 |
+| `06` ladder | *"III.1 — lose the reader here by being agreed with"* → II.1, and it was written before anyone knew it carried this | 47 |
+| `06` queue 3 | *"III.1 in full — the highest-priority single paragraph"* → superseded; discharged elsewhere | 47 |
+| `00`:965 | the same ruling-24 sentence, second copy | 47 |
+| `00`:1296, 1511 | the three-chapters-carry-the-work list, and the queue | 47 |
+| `prose/SPECIMENS.md` | specimen 2 is labelled III.1 and its material shipped as II.1 | 47 |
+| ★ `beat_sweep.py` | **two EXEMPT entries — executable, and one had been FALSE FOR A WEEK** | 49 |
+| `book/II-08` | the borrowed appositive, cut | 37 |
+
+★ **A ruling is not a decision. It is a decision plus every place that decision was already quoted.**
+The prose cost of option (a) was zero, which is what I measured when I recommended it and called it
+*"costs no cross-references."* **That was wrong and it is corrected on the page rather than dropped.**
+I estimated the cost inside the sentence recommending the thing — and this project's rule is that the
+gauge and the author of the defect must not be the same party.
+
+### ★★ The one that matters: an exemption is a permanent unmonitored mute → ruling 49
+
+`beat_sweep.EXEMPT` answers a collision by recording the division of labour that resolves it. One
+entry read *"II.1 spends ELSEWHERE · II.2 the ECONOMY · III.1 THE FORK."* **Accurate when written.
+The prose broke it the same week** — II.1's `With no outside.` section shipped the fork — and from
+that moment the table was silencing a pair on a sentence that had stopped being true. It printed
+`EXEMPT` every run, with a reason that no longer held. **It does not error, it does not read wrong,
+it reads like a resolved question.** Third form of the same shape in this project: a false handoff,
+a *Last Verified* stamp, and now an exemption — **a record of a past adjudication wearing the clothes
+of a present fact.**
+
+**Built: `stale_exemptions()`.** And its first run is the better half of the story.
+
+- It printed **7 of 11 stale — and three were live nine lines down its own output**, marked
+  `— ANSWERED` by the reuse check. **`EXEMPT` has two consumers; the new function knew one.**
+- ⚠ **The fix was the ORDER, not the missing line.** A check that reports *what nothing silenced*
+  cannot run until every consumer has had its turn. Written inside `report()`, it ran before the
+  reuse check existed to speak. **A check on what did NOT happen is order-dependent in a way a check
+  on what DID happen is not**, and neither call site looks wrong.
+- ⚠ **And it cannot catch the case that motivated it.** II.1 ~ III.1 collided the whole time; only
+  its *reason* went false. **A gauge over silence cannot see a lie that is still making noise.** The
+  docstring says so rather than letting a green run imply coverage — ruling 38's principle, applied
+  one ruling later to the tool built under it.
+
+**After the fix: 4 stale, of three different kinds** — one live in `--fixture` mode only (deleting it
+would destroy the calibration), two spent-today and deliberately kept as tripwires, one pre-emptive.
+Nothing deleted, everything decided, each reason written down.
+
+### Ruling 37, taken rather than carried — and (a), not the prettier (b)
+
+II.8 shipped III.2's thesis verbatim. **(b)** — let III.2 flag the reprise out loud — is II.4's move
+and the strongest seam in the work. **It does not apply, and the distinction is worth keeping: II.4
+reprises a PROMISE; this would reprise the CLAIM ITSELF.** A seam works when the reader was given
+something earlier and is shown what it was for. Here the earlier appearance *is* III.2's central
+assertion, made in passing, in a chapter about something else — flagging it dresses an accident as a
+design. **The cut is free, which is the tell.** The sentence's work is the negative (*no outside for
+a player to be returned to*), which is II.8's own and grounded in II.1; the borrowed clause was the
+positive, which is III.2 entire. **II.8 reached one book forward for a ground it already had one book
+back.** `prose_beat_sweep` went **exit 1 → exit 0**, `1 spent → 0 spent`, measured after.
+
+### Ruling 48 was not a passenger, and 47 made it worse
+
+I filed it as riding with 47. **The ruling changed its terms.** Before: II.7 physics → II.8 theology
+→ III.1 Bostrom/tech, so the physics reader was paid back one book later and II.8 was a single
+excursion between two technical chapters. After: **II.7 physics → II.8 theology → III.1 theology**,
+because III.1 is now the demiurge. II.8 → III.1 became the tightest seam in the work — one tradition,
+two declared axes, adjacent — **and that gain was bought with II.7 left as the lone technical chapter
+before a two-chapter theological run, at 3,135 words, the longest in the book.** The seam improved
+and the approach to it got worse. Still open, still not by taste.
+⚠ **`order_sweep.py` was built for exactly this defect and cannot reach it: it checks BOOK adjacency,
+`ORDER` is eight roman numerals, and ruling 48 is chapter adjacency one level down.** The instrument
+exists, is correct, and is scoped one level too coarse. → `07`.
+
+### The unplanned dividend, and it is an argument for ruling 24
+
+**III.1 had somewhere to go only because the cosmology axis was declared in advance and left unmade.**
+Had `06`:635 not been written that morning, option (a) would not have existed and the live choice was
+between deleting a chapter and writing a weaker one. **A cut declared in advance is an option held
+open.** That is not why ruling 24 was made, and it is the second time it has paid.
+
+**Gauges, after:** claim_sweep **0** · order_sweep **0** · ancestor_gap **0** · prose_beat_sweep
+**0** *(improved)* · beat_sweep **1** on the same three pre-existing collisions and two echoes,
+unchanged by this pass · fixture **PASS**, II.2 ~ III.4 rank 1 of 13.
+⚠ *claim_sweep caught ruling 49's own prose using* **aperture** *, retired at `05` §3 — the ruling
+about unexamined silencers, written in retired vocabulary, found by the gauge that reads the plan.*

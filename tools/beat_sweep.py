@@ -105,9 +105,12 @@ EXEMPT = {
                      "performs, Book II names, which is the two books' whole relation arriving in "
                      "the last chapter of Book II. ⚠ A future editor restoring the denials to II.8 "
                      "will be writing I.6 twice.",
-    ("II.3", "III.1"): "ruling 24, ADJUDICATED: the DEFINITION is II.3's and the FORK is III.1's. "
-                       "II.3 states what a perspective is and stops; Bostrom is not named in it. "
-                       "III.1 owns 'every consequence in Part Two forks here'.",
+    ("II.3", "III.1"): "ruling 24, AMENDED Day 187 by ruling 47(a). WAS: 'the DEFINITION is II.3's "
+                       "and the FORK is III.1's.' That is now FALSE — the fork shipped in II.1. "
+                       "II.3 still states what a perspective is and stops, and Bostrom is still not "
+                       "named in it, so the ORIGINAL FINDING stands; but the counterpart is II.1, "
+                       "not III.1. Re-scoped III.1 (the demiurge) shares no move with II.3 at all. "
+                       "⚠ IF THIS PAIR STOPS TRIPPING, DELETE THIS ENTRY — see stale_exemptions().",
     # Day 187 — both axes were already stated in `06` and neither was in this table. Surfaced by
     # adding a **Named:** field to III.1: the chapter moved out of the "names it inline" bucket
     # and the reuse check could finally see it. The gauge did not become stricter; the scaffold
@@ -118,14 +121,23 @@ EXEMPT = {
                        "this (`03` §Bostrom: 'someone else made this and you are inside it'), "
                        "which is beat 5's designer-God with the tradition's name restored. "
                        "III.1 may not re-argue that nothing is wrong; II.8 owns that clause.",
-    ("II.1", "III.1"): "ruling 24's procedure, applied to the THREE Bostrom cuts `05` requires. "
-                       "II.1 spends ELSEWHERE — a copy has a room, a render has none. II.2 spends "
-                       "the ECONOMY — a game generates procedurally because storage costs money, "
-                       "and that reader has a machine with an accounts department. III.1 spends "
-                       "THE FORK — his frame makes you a rendered thing in someone else's world, "
-                       "ours makes you the place a world happens, and every consequence in Part "
-                       "Two forks there. Three axes, stated in `06` since Day 186; entered here "
-                       "Day 187 when the pair first became visible to the reuse check.",
+    # ★★ THE EXEMPTION THAT WENT FALSE, AND THE REASON stale_exemptions() NOW EXISTS.
+    # It read, until Day 187: "II.1 spends ELSEWHERE ... III.1 spends THE FORK — his frame makes
+    # you a rendered thing in someone else's world, ours makes you the place a world happens."
+    # That division of labour was accurate when written and the PROSE BROKE IT the same week:
+    # II.1's `With no outside.` section shipped the fork itself. For as long as the old text sat
+    # here, this table was silencing a pair on the strength of an adjudication that had already
+    # stopped being true — and NOTHING IN THIS FILE COULD SAY SO. An exemption never expires and
+    # never reports. Found by Fable, an outside reader, not by any gauge in this repo.
+    ("II.1", "III.1"): "ruling 47(a), Clayton, Day 187 — RE-ADJUDICATED after the original split "
+                       "failed. II.1 now spends BOSTROM ENTIRE: elsewhere, the copy/render cut, "
+                       "the fork, and the four denials, all in `With no outside.`. II.2 keeps the "
+                       "ECONOMY — a game generates procedurally because storage costs money. "
+                       "III.1 spends NEITHER: it is the demiurge chapter, cutting Gnosticism on "
+                       "COSMOLOGY, and Bostrom survives in it only as a one-sentence callback. "
+                       "⚠ THE STANDING BAN IS NOW THE OTHER DIRECTION: III.1 may not re-run the "
+                       "copy/render fork. If III.1's beats ever re-acquire it, this exemption is "
+                       "hiding a real collision — which is exactly what it did before.",
     ("II.3", "VII.4"): "ruling 24, ADJUDICATED: II.3 states the Null-Space Theorem universally and "
                        "exceptionlessly BECAUSE VII.4 turns it on the contractive terminal doctrine "
                        "— 'no grade buys an exemption' is written for VII.4 six books early.",
@@ -402,7 +414,17 @@ def named_report(chs):
     for n, cids in sorted(repeats.items(), key=lambda kv: (-len(kv[1]), kv[0])):
         note = None
         for a, b in itertools.combinations(sorted(set(cids)), 2):
-            note = note or EXEMPT.get((a, b)) or EXEMPT.get((b, a))
+            hit = EXEMPT.get((a, b)) or EXEMPT.get((b, a))
+            if hit:
+                # ⚠ Day 187 — EXEMPT HAS TWO CONSUMERS AND stale_exemptions() SHIPPED KNOWING
+                # ABOUT ONE. Its first run called II.8~III.1, II.4~IV.6 and II.5~VI.7 stale while
+                # THIS check was printing them ANSWERED nine lines further down the same output.
+                # A staleness check that reads one of two call sites reports the other's live
+                # entries as dead — an over-accusing gauge, which is the 56-of-68 failure again
+                # and in the very function written to stop a silencer going unexamined.
+                # Caught by reading the new tool's output against the rest of its own run.
+                FIRED_BY_REUSE.add(tuple(sorted((a, b))))
+            note = note or hit
         if note:
             print(f"  {n:<28} cut in {len(cids)}: {', '.join(cids)}  — ANSWERED")
             print(f"  {'':<28} {note[:96]}…")
@@ -538,8 +560,56 @@ def spread_report(spread, focus=None):
     return len(rows)
 
 
+# Every consumer of EXEMPT must record what it silenced here, or stale_exemptions() accuses the
+# live entries of the consumers it does not know about. There are two today; a third added without
+# a line into this set makes the staleness check wrong rather than merely incomplete.
+FIRED_BY_REUSE = set()
+FIRED_BY_REPORT = set()
+
+
+def stale_exemptions(fired):
+    """EXEMPT entries that silenced nothing this run.
+
+    Built Day 187, ruling 49, and it is a gauge over this file's own silencers rather than over
+    the manuscript. Every other check here asks whether the BOOK still holds. This one asks
+    whether the RULINGS do.
+
+    An exemption is a permanent, unmonitored mute. It is written on the day a pair collides, it
+    records the division of labour that answered the collision, and then it sits here forever —
+    still muting, whether or not the division of labour survived. ("II.1","III.1") went false
+    inside a week: it said III.1 spends the fork, II.1's prose spent the fork, and this table
+    went on exempting the pair on the strength of a sentence that had stopped being true. No
+    check in this repo could see it. FABLE saw it, and Fable is an outside reader, not a gauge.
+
+    Two things a stale entry means, and the tool does not guess which:
+      · the pair no longer collides, so the adjudication is spent and the entry is dead weight —
+        delete it, because a table of dead rules is a table nobody reads (the boot-banner
+        lesson, third occurrence in this project);
+      · or the pair never collided and the entry was written pre-emptively — in which case it
+        is a mute installed against a sound that has not been made, which is worse.
+
+    ⚠ WHAT THIS CANNOT DO, stated so it is not mistaken for cover. This catches an exemption
+    whose PAIR went quiet. It CANNOT catch one whose pair still collides while its stated REASON
+    has gone false — which is precisely the ("II.1","III.1") case. That one needs a person, or an
+    outside reader, and ruling 49 says so rather than letting this function imply otherwise.
+    """
+    stale = sorted(set(EXEMPT) - fired - FIRED_BY_REUSE)
+    if not stale:
+        return 0
+    print()
+    print("STALE EXEMPTIONS — muted a collision that did not happen this run")
+    print("  An exemption never expires on its own. Each of these is EITHER a spent ruling to")
+    print("  delete OR a mute installed against a sound never made. Decide; do not leave it.")
+    for pair in stale:
+        print(f"  ?? {pair[0]} ~ {pair[1]}   {EXEMPT[pair][:96]}…")
+    print("  ⚠ This check sees SILENCE, not WRONGNESS. An exemption that still fires while its")
+    print("    reason has gone false is invisible here — ruling 49, and it is why Fable exists.")
+    return len(stale)
+
+
 def report(chs, index, hits, quiet=False):
     collisions = echoes = exempted = method = 0
+    fired = set()
     for rank, s, shared, ca, ka, ta, cb, kb, tb in hits:
         pair = tuple(sorted((ca, cb)))
         note = EXEMPT.get(pair)
@@ -553,6 +623,8 @@ def report(chs, index, hits, quiet=False):
         hard = rank >= HARD
         if note:
             exempted += 1
+            fired.add(pair)
+            FIRED_BY_REPORT.add(pair)
             if not quiet:
                 print(f"  --    {ca} ~ {cb}  {s:.2f}  EXEMPT — {note}")
             continue
@@ -650,6 +722,12 @@ def main():
     print()
     print("NAMED-OPPONENT REUSE — who is cut in more than one chapter")
     named_report(chs)
+    # ⚠ MUST RUN LAST, AND THIS IS LOAD-BEARING RATHER THAN COSMETIC. It reports what NOTHING
+    # silenced, so it cannot run until every consumer of EXEMPT has had its turn. Called from
+    # inside report() — where it was first written — named_report() had not run yet, so
+    # FIRED_BY_REUSE was empty and three live exemptions were printed as stale. A check on
+    # what did not happen is order-dependent in a way a check on what did happen is not.
+    stale_exemptions(FIRED_BY_REPORT)
     return 1 if rc else 0
 
 
