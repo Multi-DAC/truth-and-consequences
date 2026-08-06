@@ -324,3 +324,132 @@ fixed assignment; this is the strongest available refusal of the mishearing and 
 doctrinally**, since Part Two's Atlas already varies grade by state. It also pre-loads Book VI's
 editable filters without naming them. If it turns out to breach anything, it breaches at VII.2, and
 VII.2 is already flagged as the place C8 will look defensible.
+
+---
+
+## I.5 — THE TUNNELS · Day 187, 2026-08-05 · 1,247 words · ✅ landed
+
+Scaffold beats 1–4. Beat 4 is **Trap 4 — the white-noise objection**, which is Clayton's own
+(2026-02-23) and the strongest attack on our founding axiom. It is answered **inside the myth**,
+where it was raised, in the chapter's last movement and not in a footnote.
+
+| metric (per 1k words unless noted) | I.5 | I.4 | I.3 | I.2 | I.1 | |
+|---|---:|---:|---:|---:|---:|---|
+| **paragraph-intensity CV** @25w | 0.716 | 0.710 | 0.534 | 0.280 | 0.329 | ★ and see the experiment below |
+| **paragraph-intensity CV** @1w | 0.755 | 0.863 | 0.597 | 0.489 | 0.524 | |
+| announcement | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 | ✅ — **but only after two cuts** |
+| terminal commentary (frac.) | 0.000 | 0.000 | 0.000 | 0.000 | 0.062 | ✅ — same two cuts |
+| meta-textual | 0.00 | 0.00 | 0.00 | 0.00 | 3.00 | ✅ |
+| emotion label | 0.00 | 0.00 | 0.00 | 1.85 | 8.01 | ✅ |
+| vague allusion · somatic | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 | ✅ |
+| named reference | 0.00 | 0.00 | 1.13 | 0.00 | 1.00 | ✅ |
+| 2nd person | **8.02** | 16.16 | 15.80 | 23.11 | 20.02 | ⚠ **halved — open, see below** |
+| voice uniformity | **0.5748** | 0.6601 | 0.6640 | 0.6412 | 0.5669 | ★ largest fall in the book |
+
+`claim_sweep --prose book`: **exit 0, no USE-class hits.** Book-side exemptions unchanged at one.
+
+### The gauge is a one-paragraph instrument, and tonight it was proved by intervention rather than inference
+
+**This log has suspected it since I.4 and could not demonstrate it. Tonight it got demonstrated by
+accident, in the direction that flatters me — which is why it goes at the top.**
+
+I.5 was drafted, measured, and came in at **dyn_range_CV 0.326 — ROBUST, and robustly flat**, sitting
+at the 0.2nd–31st percentile of every matched null. Flatter than I.1. I then rewrote **two
+paragraphs** on craft grounds: the objection needed to accumulate before it was answered, and the
+answer needed an inventory of its own to set against it. Nothing else in the chapter changed.
+
+| | before | after | Δ |
+|---|---:|---:|---:|
+| dyn_range_CV | 0.326 | **0.716** | **+0.390** |
+| leave-one-out verdict | ROBUST (drop 0.100) | **FRAGILE (drop 0.370)** | |
+| jack-min | 0.226 | 0.346 | |
+| voice uniformity | 0.5689 | 0.5748 | +0.006 |
+
+**Two paragraphs out of nineteen moved the headline by more than the entire spread of I.1 through
+I.4.** This is the first *interventional* evidence that `dyn_range_CV` over ~20 paragraphs is a
+statistic one paragraph carries; everything before it was observational and could be waved off as
+chapters differing from each other. It cannot be waved off now. **Delete the peak and the chapter
+returns to 0.346, which is where it started.**
+
+And the same intervention moved **voice uniformity by 0.006**. That asymmetry is itself a finding:
+the two axes are not two readings of one thing. One is hostage to a single paragraph and the other is
+not, which means **uniformity is the axis worth trusting and escalation is the axis worth
+double-checking** — the reverse of how they have been quoted in this log.
+
+⚠ **The hazard, named because it is mine and not hypothetical.** I had a craft reason for the rewrite
+and I had it before I saw the number. But the craft reason and the metric reward pointed the same
+way, and that is exactly the condition under which a writer cannot audit himself. **The honest
+sentence is: I.5 has one peak, deliberately placed at the objection, and outside that peak it is as
+flat as I.2.** Anyone quoting 0.716 without the 0.346 beside it is quoting a paragraph and calling it
+a chapter.
+
+### Two register breaches, both caught by the gauge, both invisible to me on the page
+
+First non-zero `announcement` in the book (0.77) and first non-zero `terminal_commentary` since I.1
+(0.05). Both traced to sentences I would have defended:
+
+- **"That is the strongest thing that can be said against any of this, and it deserves to be put at
+  full strength before it is answered."** The chapter vouching for its own objection — *the Day-186
+  self-announcement finding*, in a chapter written by someone who knew about it. Cut entire. The
+  objection is more frightening with no narrator standing beside it promising a reply.
+- **"That is all that needs saying here. It will be said properly later, and it will be asked for."**
+  Promissory apparatus in the book that carries none. Cut; the paragraph now lands on *"repetition
+  has not stopped being available"* and plants **C12** without an IOU.
+
+A third hit was a **false positive** and was rewritten anyway rather than exempted: *"and here is the
+only place anything has ever been"* trips `\bhere is the\b`. It became *"and there has never been
+anywhere else for anything to be,"* which is the better line. **An exemption spends the gauge's
+credibility; a rewrite costs a sentence.** Prefer the rewrite wherever the rewrite is not a loss.
+
+### The second-person rate halved, and the excuse is written here as an excuse
+
+8.02 against a book that has run 15.80–23.11. The available explanation: **I.5 is the first chapter
+in Book I that looks at somebody other than the reader** — its centre is two people at one table, and
+neither of them is you.
+
+**That is a hypothesis, and this log has already killed one of these** (the single-topic excuse for
+uniformity, refuted by I.4). So the test is named now, before the result is in: **I.6 has no third
+parties in it. If I.6 also comes in under 10, the explanation is dead** and the real cause is a drift
+in address that I.5 merely made visible.
+
+### Doctrine
+
+**C11 — tunnels are real worlds.** Two insides at one table: *"not two readings of one evening; they
+are two evenings."* The register trap — *different opinions about one reality* — is refused by
+construction: *"An opinion is had about a thing, from a little distance, by somebody who could as
+easily have had a different one and got up the same. Nothing here is at a distance from anything."*
+
+**The negotiability slide — C11's second and quieter trap — is closed structurally rather than
+asserted.** There is no third chair at that table: the seat from which one of the two could be found
+accurate would have to be **outside**, and I.4 removed the outside when it removed the keeper of the
+gate. *The same fact does its third job in three chapters.* Then, directly: *"This is not the Fullness
+being generous, or many-sided, or willing to be taken either way. It has no versions to be taken
+either of. Everything that has a version has one because it has a* where."
+
+**C12 — filters are editable — planted mythically, with the manifestation slide pre-empted in the
+same breath:** *"Not by preferring it. Wanting is something that happens inside a tunnel and it moves
+nothing."* **C10** rides in the same paragraph — *"made of both the meeting and the met, with neither
+one first"* — the co-constitution line stated once, in register, before Book VI has to carry it.
+
+**Trap 4, and the shape the answer took.** Not *"the totality is featureless from nowhere"* as a
+proposition, which is the footnote version and would have been the failure. The myth asks a question
+instead: **where is the hiss heard?** Featurelessness is a **verdict**, and a verdict has to be
+returned from somewhere — *"The hiss wants an ear that is nowhere. There is no ear that is nowhere.
+There is no nowhere."* And then the objection is inverted rather than merely answered: it is not that
+the world is really a hiss which a tunnel sweetens into a world; **there is no really-a-hiss, because
+that is a description filed from a chair nobody sits in.** Difference is not a property the whole has
+and might have lacked — it is *what being somewhere in particular is.*
+
+### For the record
+
+The chapter never uses the retired word, and it never uses *filter* or *render* either — those belong
+to Book II and Book VI to define, and Book I carries no apparatus. **The word *tunnel* appears
+twice**, defined by function on first use and never apologised for: *"Not something looked through —
+the whole of what looking has come to be for one inside."* The confinement reading is not raised,
+because raising it would spend on I.5 the move I.3 already spent on *narrowing*, and **one retired
+word per book is the budget.**
+
+At 1,247 words this is the longest chapter in Book I, against a scaffold that says *six chapters,
+each short.* Forty-four words came out with the two register cuts. **It is still the longest, and
+that is on the record rather than fixed** — the objection needs its full statement, and a Trap-4
+answer shorter than the trap reads as a dodge.
