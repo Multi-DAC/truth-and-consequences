@@ -71,9 +71,9 @@ No amount of intelligence, no discipline, no scale, no holiness, and no accumula
 Being everywhere would not help, because being everywhere is not being anywhere, and a perspective
 with no shape is not a perspective. It is the Ground, which has no vantage and never did.
 
-That is the whole of it, and it is a theorem rather than an observation because it does not depend on
-which perspective you pick or what the world happens to contain. Shape entails omission. A place that
-omitted nothing would not be a place.
+That is the whole of it, and it is a theorem rather than an observation — not because it holds widely,
+which is what a good observation does too, but because it follows from what a perspective *is* and
+uses nothing else. Shape entails omission. A place that omitted nothing would not be a place.
 
 ---
 
@@ -95,9 +95,11 @@ backwards. At about nine feet the second mark goes out. Not dims, not blurs. Goe
 Three things about that hole, and together they are the entire reason this position is not
 relativism.
 
-**It is determinate.** It has a size and a location — roughly six degrees across, off toward the
-nose. It is not a vagueness or a matter of degree. It could be drawn on a diagram, and Mariotte drew
-it.
+**It is determinate.** It has a size and a place — roughly six degrees across, and about fifteen
+degrees out toward the temple. Note where that is: *not* where the anatomy is. The nerve enters on
+the side toward the nose, and the eye turns its image over, so the gap in the retina comes out on the
+opposite side of the world. It is not a vagueness or a matter of degree. It could be drawn on a
+diagram, and Mariotte drew it.
 
 **It is mappable from outside.** He knew where it was before he had ever caught it happening, because
 he worked it out from the structure of the thing that was doing the seeing. Somebody else, standing
@@ -129,7 +131,7 @@ of it. He said that into the teeth of a century that thought objectivity meant s
 who was looking. He was not hedging, and he was not being modest on behalf of human knowledge — he
 was making a claim about what reality is like.
 
-Where he stops: he kept a **sum**. For Ortega there is an absolute truth, and it is the integrated
+He keeps one thing back, and it is a **sum**. For Ortega there is an absolute truth, and it is the integrated
 articulation of all the perspectives; his God is that name, not a divine viewpoint standing apart
 from the human ones but the harmonisation of every one of them. He was careful about it — the sum is
 incomplete by definition, since the set of those who could contribute is open and always will be. It

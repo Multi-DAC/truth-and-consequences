@@ -46,10 +46,14 @@ felt about it since you were a child is not a mood, it is *accurate*. And the wa
 and not belief but **knowledge**: seeing what you actually are, which dissolves the whole
 predicament, because the predicament was only ever ignorance.
 
-Second century, mostly. Valentinus and the schools after him. We know the system in the detail we do
-largely because Irenaeus of Lyon wrote it out at length in order to attack it, and his summary of
-their doctrine contains the sentence that makes this the hardest cut in the book: *the deficiency
-arose from ignorance, and will be dissolved through knowledge.*
+Second century, mostly. Valentinus and the schools after him. For eighteen hundred years the system
+was known mostly through the men who wrote it out in order to attack it, and Irenaeus of Lyon reports
+the doctrine like this: *since both defect and passion flowed from ignorance, the whole substance of
+what was thus formed is destroyed by knowledge.* Then in 1945 a jar came out of the ground at Nag
+Hammadi with their own books inside it, and the sentence that makes this the hardest cut in the book
+can be read without a prosecutor standing in the room. The *Gospel of Truth* — very possibly
+Valentinus's own hand — puts it: *since this incompleteness came about because they did not know the
+Father, so when they know the Father, incompleteness, from that moment on, will cease to exist.*
 
 **Read that again with our vocabulary in your hand. It is the Return.** Not a distant relative of it
 — the same claim, in the same shape, with the same cure. They are not the opponent who thinks the
@@ -64,6 +68,16 @@ spent eight chapters showing there cannot be. A fall needs a before to fall from
 before, because time is a feature of arrangements and the whole is not in one. A prison needs a
 warden, and a mistake needs a maker who could have done otherwise — both of which put an intending
 party outside everything, which is the one position with no room to stand in.
+
+And there is a further consequence, past the cosmology, which is the one this book has to guard
+hardest — because it is the one that will be quoted back to us as agreement. **Their knowledge does
+not only end a predicament. It dissolves the many.** The *Gospel of Truth* says so without flinching:
+by knowledge the knower *purifies itself of diversity with a view towards unity, devouring matter
+within itself like fire.* Multiplicity is the impurity; oneness is the cure. **Ours runs the other
+way and has to.** The many are not a contamination to be burned off on the way home — they are what
+there is to be, and the whole of what the walking is for. A destination with no perspective left
+standing in it is not the fullest state available to anything. **It is the one state in which nothing
+whatever is the case.**
 
 And the consequence that reaches the reader personally: **their recognition dissolves something and
 ours dissolves nothing.** Theirs pays out. It ends a predicament, cancels a debt, gets you home. Ours
@@ -146,11 +160,12 @@ claim somebody else's authority, which is a loan of standing dressed as a transf
 **The test was stated last chapter; the roster is nothing but its application.**
 
 So take the biggest one on it. *Everything is vibration* is groping toward something true, and the
-trouble with it is not that it claims too much. Here is the claim, in this book's vocabulary, and it
-is larger rather than smaller: **there is no stuff.** Nothing here is made of material that would
-still be material with nobody in contact with it. What there is, is arrangement — and solidity,
-weight, the resistance of a table against a hand, are what contact with an arrangement is like *at a
-grade*. That is a heavier claim than the one being refused, and it is stated in words that mean
+trouble with it is not that it claims too much. The thing it is reaching for was stated in the first
+chapter of this book, in plain words, and it is larger than the sentence being refused rather than
+smaller: **there is no stuff.** Nothing here is made of material that would go on being material with
+nobody in contact with it; what there is, is arrangement, and solidity and weight and the resistance
+of a table against a hand are what contact with an arrangement is like *at a grade*. That is the
+heavier claim of the two, and it is stated in words that mean
 something, so it can be argued with. The banned sentence cannot be argued with. That is its defect,
 and it is the whole defect: not that it is too wild, but that it is not saying anything specific
 enough to be wrong.

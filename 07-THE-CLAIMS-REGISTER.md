@@ -1,4 +1,4 @@
-# THE CLAIMS REGISTER — C1…C23
+# THE CLAIMS REGISTER — C1…C26
 
 *The work's canonical propositions. Built Day 186 / 2026-08-05 on Clayton's approval
 ("I agree with the claims register and everything else").*
@@ -225,8 +225,15 @@ this book is actually at risk of.
 > perspective. The traversal is the point — and so is perspectives recognising each other *as
 > perspectives*.
 
-**Establishes:** I.6 b4 (early guard) · V.1 · VIII.1 (the only place Part Two states a telos)
+**Establishes:** I.6 b4 (early guard) · **II.8 (second early guard, added Day 187 — ruling 46)** ·
+V.1 · VIII.1 (the only place Part Two states a telos)
 **Depends:** V.5 · V.9 · V.10 · VII.6 · VII.8 · VIII.6 · VIII.7
+★ **Why the second guard, and why there:** the trap springs ten chapters after I.6 and II.8 was the
+best remaining opportunity in Part One — it is the chapter that names Gnosticism, and **Valentinus
+states Trap 5 in his own text**, so the guard can be made against a tradition holding the position
+rather than against a hypothetical. *Gospel of Truth:* knowledge *"purifies itself of diversity with
+a view towards unity."* Multiplicity as impurity, in the source, in the tradition we call our nearest
+miss. **The refusal is now paid for twice in Part One and one of the two has a citation behind it.**
 **Trap:** **Trap 5 — the only trap that cannot be fixed late.** It springs in Book V, ten
 chapters after its guard. Tells: **merge**, **ultimately**, **union**, and any sentence in which
 the focusing is described as *temporary*.
@@ -438,7 +445,7 @@ last and draft it hardest.**
 
 ---
 
-## ADDENDUM — C24, added Day 187 after Book I was drafted
+## ADDENDUM — C24–C26, added Day 187 as the books were drafted
 
 *Numbered last, not because it is least, but because a C-number is an address: C1–C23 are cited
 across seven files and every chapter map, and renumbering to put this claim beside C7 where it
@@ -534,6 +541,46 @@ claim honest. **Sweep for it before any polish pass on II.7.**
 
 ⚠ **Governed pairing:** every sentence in which *collapse* and any physics term appear together.
 Sweep for the **pairing**, not for the word — same instruction as C24, same reason.
+
+---
+
+### C26 — THERE IS NO STUFF
+
+> **Canonical:** Nothing is made of material that would go on being material with nobody in contact
+> with it. **What there is, is arrangement.** Solidity, weight, and the resistance of a table against
+> a hand are what contact with an arrangement is like **at a grade**.
+> ★ **And the refusal is symmetric, which is the whole of its defensibility:** minds are arrangements
+> too. There is no stuff on the mental side either. C26 is not idealism with the nouns swapped; it is
+> the same denial run in both directions, which is what C24's pre-split move already committed us to.
+
+**Establishes:** **II.1 (defined, in the `substrate`-retirement paragraph, where the Ground's own
+not-a-stuff argument already stood)** · II.8 (used, against *everything is vibration*)
+**Depends:** C10 (co-constitution — the render is at the point of contact, so *material with nobody
+in contact with it* is not false but incoherent) · C24 · C1 · III.4 · **IV.2** · VI.1 · VIII.2
+**Trap — and it is the reason this took a number rather than staying prose: idealism, alleged by
+pairing it with C10.** *The world is rendered at contact* (C10) plus *there is no stuff* (C26) is
+one short step from *so it is all in the mind*, and a hostile reader will take the step for us. **The
+guard is the symmetry clause and nothing else.** Any statement of C26 that refuses stuff on the world
+side without refusing it on the mind side in the same breath has conceded the charge.
+**Near-miss to refuse:** ① *ontic structural realism* — structure all the way down, no relata. Close,
+and genuinely friendly, but it is a claim about what physics quantifies over; ours is about contact
+and has a grade in it. ② **Berkeley** — *esse est percipi*, which needs a perceiver keeping the tree
+in the quad, and therefore needs exactly the God-outside C5 and C6 forbid. Ours needs no witness,
+because arrangement is not a thing that requires witnessing to be arranged.
+
+**PROVENANCE — the second register miss found by an outside read in two days, and the same direction
+as the first.** Found by **Fable, Day 187**, in the drafted Book II. The claim shipped *inside II.8*,
+in the section explaining what the book will **not** say — an unregistered metaphysical commitment
+arriving in the disclaimer chapter, which is the least-inspected room in the book. **Exactly C24's
+failure mode: prose made a commitment the register never took delivery of.** ★ The register's rule of
+use says a chapter needing more than its C-number licenses has a new claim and comes back here first.
+**Twice now the prose has done the licensing and the register has found out afterward** — so the miss
+is not incidental, it is what a one-directional gauge does. `tools/claim_sweep.py` checks prose
+against claims and has no arm that checks claims against prose. **Queue item 8.**
+
+⚠ **Downstream load, stated because it is why this could not wait for the C25-plus budget:** IV.2
+cannot say anything non-condescending about mineral grades without C26 — *there is no stuff* is what
+makes a rock's grade a real if minimal inside rather than a courtesy extended to gravel.
 
 ---
 
@@ -663,3 +710,22 @@ in different chapters is invisible to a scaffold. Expect one new row per drafted
    public is V.8's worked demarcation**, which is where we do the grading in front of the reader
    instead of asserting we did it. If V.8 is merely competent the license reads as a loophole.
    Draft it at the same strength as III.1.
+
+8. ★★ **THE REGISTER HAS NO REVERSE ARM, AND BOTH OF ITS MISSES CAME THROUGH IT.** *(Day 187,
+   generalised from C24 and C26 — Fable found both, one per night, in the same direction.)*
+   `claim_sweep.py` checks **prose against claims**: retired terms in use, Trap-5 tells, C3
+   participles. It has no arm that checks **claims against prose** — a chapter asserting doctrine
+   that holds no C-number is invisible to it, because the sweep only knows what it was told to
+   look for and an unregistered claim is by definition not on that list.
+   **The failure is structural, not an oversight, and it is the same shape as `03` §3.5's:** every
+   gauge in this project was written by the person who wrote the defect, so each is blind exactly
+   where its author is. §3.5 hunts ancestors we never knew and therefore filters out the one we
+   knew and forgot. The register hunts prose that drifts from a claim and therefore cannot see
+   prose that *makes* one.
+   ⚠ **Do not build this as a semantic detector.** The tractable form is a **modality sweep**:
+   flag the book's own assertion-shapes — *there is no X* · *X is not Y and cannot be* · *what
+   there is, is X* — in any paragraph whose chapter's `Touches:` line does not license them, and
+   hand the list to a person. Both real misses would have fired on it. C26's sentence is literally
+   *there is no stuff*; C24's is *the Ground is aware in the second sense and not in the first*.
+   **Precondition: queue item 5** — the `Touches:` pass over all 68 chapters, which this arm needs
+   as its licence table and which is now blocking rather than tidy.

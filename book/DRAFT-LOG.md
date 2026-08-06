@@ -1222,8 +1222,8 @@ carries it.** A caveat sitting beside a claim gets left behind; a criterion insi
 This was not in the beats and it is the paragraph the chapter exists for.
 
 **Werker & Tees, 1984** — Hindi retroflex/dental *t*, two consonants in Hindi and one in English, and
-a glottalized contrast from **Nthlakampx**, an Interior Salish language. English-learning infants
-discriminate both at **6–8 months** and not at **11–12**. Infants learning Hindi or Nthlakampx at the
+a glottalized contrast from **Nthlakapmx**, an Interior Salish language. English-learning infants
+discriminate both at **6–8 months** and not at **11–12**. Infants learning Hindi or Nthlakapmx at the
 same age still hear theirs. Four-year-olds perform like adults: one sound where a Hindi speaker
 hears two.
 
@@ -1995,3 +1995,59 @@ out the ones we knew and forgot. `PROSE/hedge` hunts hedge vocabulary, and there
 that has none. II.7's closing paragraph disclaims a dependence the middle of II.7 was leaning on.
 **A gauge inherits its author's blind spot, and the blind spot is exactly where the defect is.**
 Fable is not a convenience. It is the only reading this project gets that does not come from inside it.
+
+---
+
+## DAY 187, second pass — the rest of Fable's Book II read (rulings 43–48)
+
+**Six findings and a pacing note arrived in a second message after the first pass had shipped.**
+Four ruled and repaired, one carried to Clayton, one accepted as an open question.
+
+### What changed in the prose
+
+| chapter | change | ruling |
+|---|---|---|
+| **II.1** | Lewis's cut recast onto a word (*plurality*); Tillich's onto a step (*address*) | 43 |
+| **II.1** | ★ **C26 established** — *there is no stuff*, run downward to the furniture, in the `substrate` paragraph that already refused it for the Ground. Symmetry clause carries the guard. | 45 |
+| **II.2** | Nietzsche's cut recast onto a scope (*everywhere*) | 43 |
+| **II.3** | Ortega's cut recast onto a thing kept back (*a sum*) | 43 |
+| **II.3** | **Mariotte's blind spot was on the wrong side of the field.** The disc is nasal on the *retina*; the eye inverts; the hole lands **temporal**. Repaired *and* turned into an argument — the inversion is now the reason you cannot get from anatomy to field without the optics, which strengthens the *mappable from outside* beat it sits in. | 7 |
+| **II.3** | *theorem* now earns the word on the page — it follows from what a perspective **is**, not from holding widely, which is what a good observation does too | 7 |
+| **II.5** | **Nthlakapmx** — the draft transposed it (*Nthlakampx*), and it is §3.5's own named tell. Verified against the Werker & Tees literature before the fix; 4 occurrences incl. this log. | 7 |
+| **II.7** | *the cut* disambiguated → **the *Heisenberg cut*, in the standard name** | 43b |
+| **II.8** | Gnosticism attribution rebuilt on primary text; Nag Hammadi moved to where it does work | 46 |
+| **II.8** | ★ **Trap 5's second early guard** — their Return dissolves the many, ours leaves them | 46 |
+| **II.8** | *there is no stuff* now **uses** C26 and points back to II.1 instead of coining it | 45 |
+
+### What changed in the apparatus
+
+- **`07`** — **C26** registered (title now C1…C26); **C15** gains II.8 as second guard; **queue item 8**:
+  the register has no reverse arm, and both of its misses came through it.
+- **`05` §7** — second amendment. Requirement moves from the definition **sentence** to the definition
+  **chapter**, with a new obligation attached: outside II.1 the neutrality travels in the paragraph.
+- **`claim_sweep.py`** — two additions. `TERM/awareness-unglossed` (first rule whose finding is an
+  **omission**, needs `PARA_LICENSED_RULES` because the guard was line-scoped and the manuscript
+  wraps) and the **ANCESTOR CUT-SHAPES** reporter.
+
+### ★ The one finding I would not have made, and the one Fable could not
+
+**Fable's, and it is the expensive one:** the Irenaeus sentence in II.8 was **not Irenaeus**. *"The
+deficiency arose from ignorance, and will be dissolved through knowledge"* is a modern summary
+formula; 1.21.4 reads *"since both defect and passion flowed from ignorance, the whole substance of
+what was thus formed is destroyed by knowledge."* A fabricated quotation, in the chapter that cuts
+our nearest miss, in prose that had passed every gauge in the repo — **because no gauge here checks a
+quotation against a source.** Not built, and logged as absent rather than left to be discovered.
+
+**Mine, and it came from an instrument:** the cut-shape reporter, built for finding 6, found on its
+first run that **II.7 uses *the cut* in two senses in one chapter** — ours and von Neumann's. Ruling
+14's polysemy axis, fifth instance of the signature error, and **the first one found by a gauge
+instead of by a person reading carefully.** It cost nothing; it was a side effect of building the
+thing rather than doing the pass by hand.
+
+### Carried, not closed
+
+**Ruling 47 is Clayton's and it is one decision, not two.** Ruling 37 (II.8 holds III.2's thesis) and
+Fable's finding 5 (II.1 spent III.1's beats) are the same event: **Book II ate the front of Book
+III**, on two nights, from two chapters, and neither of us saw them as one. Three options, not the
+two offered — III.1's **Gnosticism-on-cosmology** cut survives untouched. Recommendation: (a). **Book
+III does not open until this is ruled.** Ruling 48 (II.7's placement) rides with it.

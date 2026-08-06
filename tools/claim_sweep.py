@@ -103,6 +103,13 @@ PLANNING_MENTION = re.compile(r"^\s*>")
 # ---------------------------------------------------------------------------
 CASE_SENSITIVE_RULES = {"TERM/fullness"}
 
+# Rules whose `licensed` field is a REQUIRED COMPANION, not an exception. For these the
+# guard is evaluated against the whole paragraph, because the manuscript hard-wraps at
+# ~100 chars and "the gloss is not on this line" is not the finding — "the gloss is not
+# anywhere near it" is. Ruling 44. Keep this set small: a paragraph-wide guard suppresses
+# more than a line-wide one, and quiet over-suppression is how a gauge stops measuring.
+PARA_LICENSED_RULES = {"TERM/awareness-unglossed"}
+
 RULES = [
     # --- retired terms (05 §3) -------------------------------------------------
     ("TERM/substrate", "all", r"\bsubstrates?\b",
@@ -156,6 +163,22 @@ RULES = [
      "one referent, which is the defect the lexicon's collision-only column could never see. "
      "SCOPE: drafted chapters after Book I. The registers may discuss the terms freely; the "
      "prose may not use them. The term is **the Ground**."),
+    # ⚠ THIS RULE HAS A NEGATIVE GUARD (4th field) — it fires on the term only when the
+    # neutrality is ABSENT from the same paragraph. Ruling 44, and it is the first rule
+    # here whose finding is an OMISSION rather than a presence. A pattern list cannot see
+    # a missing sentence; a pattern plus a required-companion can.
+    ("TERM/awareness-unglossed", "chapters-not-II-01",
+     r"made of awareness", r"neither mind nor matter|pre-split|prior to the split|"
+     r"before the split|neither solely mind|not idealism|Nishida",
+     "05 §7, SECOND AMENDMENT (Day 187). The four-clause definition of the Ground ends "
+     "on *made of awareness*, and that is the excerptable sentence — quoted alone it "
+     "hands the reader idealism, which is C24's expensive trap and the entire reason "
+     "`substrate` was retired. INSIDE II.1 the gloss is deliberately 2,000 words "
+     "downstream: the misreading cannot be answered until the first three clauses stand, "
+     "and a disclaimer in sentence one is words rather than an argument. OUTSIDE II.1 "
+     "there is no chapter to carry it and the neutrality must be in the same paragraph. "
+     "Any Book V restatement, any chapter opening reaching back for the definition, any "
+     "jacket copy."),
     ("TERM/aperture", "all", r"\bapertures?\b", None,
      "05 §3 — demoted; the term is the Perspective."),
     ("TERM/bottleneck", "all", r"\bbottlenecks?\b", None,
@@ -447,6 +470,7 @@ CHAPTER_RE = re.compile(r"^### ((?:[IVX]+|C)\.\d+) — (.+?)\s*$", re.MULTILINE)
 # Ruling 14 — filenames of drafted chapters in Books II-VIII. Book I is absent on
 # purpose; so is every register that happens to live under book/.
 CHAPTER_AFTER_I = re.compile(r"^(II|III|IV|V|VI|VII|VIII)-\d")
+CHAPTER_ANY = re.compile(r"^[IVX]+-\d")
 TOUCHES_RE = re.compile(r"^\*\*Touches:\*\*", re.MULTILINE)
 
 
@@ -476,6 +500,15 @@ def in_scope(scope: str, path: pathlib.Path, is_prose: bool) -> bool:
         return is_prose
     if scope == "scaffold":
         return is_prose or path.name == SCAFFOLD_NAME
+    if scope == "chapters-not-II-01":
+        # 05 §7's Day-187 second amendment. The four-clause definition ends on *made of
+        # awareness* and is the excerptable sentence; quoted alone it is idealism. INSIDE
+        # II.1 the neutrality gloss is 2,000 words downstream and that placement is ruled
+        # correct — the misreading cannot be answered before the first three clauses
+        # stand. EVERYWHERE ELSE there is no chapter to carry it. Whitelist by chapter
+        # filename, per ruling 14's scope lesson: a scope phrased as "book/ but not X"
+        # swept a register the first time it was written.
+        return bool(CHAPTER_ANY.match(path.name)) and not path.name.startswith("II-01")
     if scope == "book-after-one":
         # Ruling 14: Book I's mythic names are retired at the I/II boundary.
         # DRAFTED CHAPTERS OF BOOKS II-VIII ONLY. Enumerated rather than expressed as
@@ -531,6 +564,14 @@ def sweep_file(path: pathlib.Path, is_prose: bool):
         print(f"  !! {path.name}: not utf-8, skipped")
         return [], [], []
     paras = paragraphs(lines)
+    # line_no -> the joined text of its paragraph. Needed by PARA_LICENSED_RULES, whose
+    # `licensed` field is a REQUIRED COMPANION rather than an exception: the finding is
+    # that a companion sentence is MISSING, and "missing from this one wrapped line" is
+    # not the claim. Every other rule's guard stays line-scoped, unchanged.
+    para_of = {}
+    for joined, spans in paras:
+        for _, ln, _raw in spans:
+            para_of[ln] = joined
     for rule_id, scope, pattern, licensed, why in RULES:
         if not in_scope(scope, path, is_prose):
             continue
@@ -541,7 +582,8 @@ def sweep_file(path: pathlib.Path, is_prose: bool):
             m = rx.search(line)
             if not m:
                 continue
-            if lic and lic.search(line):
+            guard_text = para_of.get(n, line) if rule_id in PARA_LICENSED_RULES else line
+            if lic and lic.search(guard_text):
                 continue
             reason = exemption_for(path, rule_id, line)
             if reason:
@@ -586,7 +628,7 @@ def sweep_file(path: pathlib.Path, is_prose: bool):
                 if ln_start == ln_end:
                     continue                      # the line pass already saw this one
                 window = joined[max(0, m.start() - 90):m.end() + 90].strip()
-                if lic and lic.search(window):
+                if lic and lic.search(joined if rule_id in PARA_LICENSED_RULES else window):
                     continue
                 reason = exemption_for(path, rule_id, window)
                 if reason:
@@ -665,6 +707,7 @@ def main() -> int:
             print(f"    missing: {', '.join(missing)}")
 
     report_formula_density(prose_root)
+    report_cut_shapes(prose_root)
 
     print("\n  Reminder: this tool reports LINES, not doctrine. A subtle breach walks past it.")
     return 1 if all_uses else 0
@@ -730,6 +773,68 @@ def report_formula_density(prose_root):
     print(f"    baseline — {BASELINE}")
     print("    raw over-reads ~3x (ordinary negation); no threshold is set and none "
           "should be inferred. Watch MOVEMENT, not level.")
+
+
+# ---------------------------------------------------------------------------
+# RULING 43 — THE CUT-SHAPE INVENTORY.
+#
+# Rule 5 requires every ancestor be credited at full strength and then cut. It does
+# NOT require the cut be made in the same sentence every time, and `03` §3.5's actual
+# prescription was ONE CLAUSE AT THE POINT OF USE — every fifth-silence name had been
+# escalated to a full set piece.
+#
+# ⚠ THE DEFECT IS NOT DENSITY, IT IS UNIFORMITY, so this reporter prints SHAPES and not
+# a number. When the credit is always the setup for the same sentence, the reader stops
+# reading the credit — which defeats the thing rule 5 was for. A count cannot see that;
+# a list of the actual constructions, side by side, can.
+#
+# Reported, never tripped — same contract as ruling 15's density gauge, and for the same
+# reason: there is no correct level, only a movement worth looking at. The licence this
+# measures against is on the page already. **Mariotte is never cut** (used as a
+# measurement) and **Nishida does the cutting for us** (against a reading, not a person).
+# Those two are the proof that rule 5 does not require the liturgy, and if a later book
+# has none of that kind, that is the finding.
+STOCK_CUT = re.compile(
+    r"Where (?:he|she|they) (?:goes?|stops?|lands?)"
+    r"(?:\s+and\s+this\s+does\s+not)?\s*:", re.I)
+ANY_CUT = re.compile(
+    r"(?:Where (?:he|she|they) (?:goes?|stops?|lands?)[^.:]{0,40}:"
+    r"|\bThe cut is\b[^.]{0,70}"
+    r"|\b(?:He|She|They) (?:stops?|keeps?|takes?) (?:one|it one)[^.]{0,60})", re.I)
+
+
+def report_cut_shapes(prose_root):
+    if not prose_root.exists():
+        return
+    chapters = sorted(p for p in prose_root.glob("*.md")
+                      if re.match(r"^[IVX]+-\d+-", p.name))
+    if not chapters:
+        return
+    print("\n  ANCESTOR CUT-SHAPES (ruling 43 — REPORTED, never tripped):")
+    stock = shapes = 0
+    for p in chapters:
+        # Collapse whitespace first — the manuscript hard-wraps at ~100 chars and a cut
+        # marker straddles the break roughly one time in six. Ruling 15's gauge paid for
+        # this lesson already; not paying for it twice.
+        text = re.sub(r"\s+", " ", p.read_text(encoding="utf-8", errors="replace"))
+        found = ANY_CUT.findall(text)
+        if not found:
+            continue
+        print(f"    {p.name}")
+        for f in found:
+            f = f.strip()
+            is_stock = bool(STOCK_CUT.match(f))
+            stock += is_stock
+            shapes += 1
+            print(f"      {'STOCK ' if is_stock else '      '}{f[:78]}")
+    if shapes:
+        print(f"    {shapes} cut marker(s), of which {stock} use the stock "
+              f"'Where he goes/stops' opener.")
+    print("    READ THE COLUMN, not the count. Two markers that name different objects "
+          "(a word, a scope,\n    a sum, a room he kept) are a discipline; two that open "
+          "identically are a rite. Book II\n    shipped with five stock openers, four of "
+          "them in II.1-II.3 where the reader learns the\n    shape — front-loading, not "
+          "book-wide. Baseline after ruling 43's repair: 1.")
 
 
 if __name__ == "__main__":

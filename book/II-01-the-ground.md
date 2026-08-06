@@ -22,8 +22,8 @@ no runtime. Nothing is being computed and nothing is queued.
 The strongest prior version of that is David Lewis's, and the half he got right is the expensive half:
 he held that the other ways things could have gone are not stories, not abstractions, not manners of
 speaking — they are concrete, exactly as real as this one, and he took thirty years of ridicule for
-saying so and did not move. Take that half whole. Where he goes and this does not: his worlds are a
-*plurality*. Each is sealed off from the others, each is somewhere, and *somewhere else* does
+saying so and did not move. Take that half whole. The cut is one word, and it is his own:
+**plurality**. Each of his worlds is sealed off from the others, each is somewhere, and *somewhere else* does
 load-bearing work in the picture. These are not elsewhere. There is no elsewhere for them to be in.
 Separation is one of the arrangements; it is not the room the arrangements are kept in.
 
@@ -90,7 +90,8 @@ that is, is, by participating in it. That is this book's central term, in his wo
 before anyone was worried about simulations — and an unnamed borrowing from a famous theologian is
 exactly what a hostile reader picks up and uses, where a named one is a credential.
 
-Where he stops and this does not: Tillich's ground is still **addressed**. It is the correlate of what
+He stops one step short of us, and the step is **address**. Tillich's ground is still addressed —
+it is the correlate of what
 he called ultimate concern, a person turns toward it, and the turning is the whole of his account of
 faith. Ours cannot be addressed. Addressing takes an inside at the far end of it, somebody in a
 position to receive — and there is none. Not deaf, not silent, not declining. Tillich took away God's
@@ -164,6 +165,17 @@ the split that was just refused. So it goes, and the work it was doing has to be
 instead. **The Ground is not elsewhere, and it is not more real than here. It is what here is made
 of** — and *made of* is not the relation a table has to wood. Wood is a material, a material is one of
 the things there are, and this is all of them.
+
+And the refusal has to run the other way too, downward instead of upward, because a reader will grant
+it about the Ground and keep it about the furniture. **There is no stuff anywhere in this.** Nothing
+in the render is made of material that would go on being material with nobody in contact with it.
+What there is, is *arrangement* — and solidity, weight, the resistance of a table against a hand are
+what contact with an arrangement is like at a grade. That is not a demotion of the table. The table
+is exactly as hard as it has always been. Hardness was never a property it was keeping to itself in
+the dark; it was always the name of what happens where a hand and an arrangement meet. And the guard
+against the obvious misreading is the same one the clause already installed: this is not *it is all
+in the mind*, because the mind is on the same footing. Minds are arrangements too. There is no stuff
+on that side of the split either, which is what refusing a split in both directions costs and means.
 
 Two positions stand close enough to be taken for this one, and they are mirror images of each other.
 

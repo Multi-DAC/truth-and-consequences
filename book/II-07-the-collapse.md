@@ -107,13 +107,14 @@ somewhere, and these two are somewhere else from each other. What has actually h
 Von Neumann, in 1932, proved something that is still the honest starting point: the mathematics
 permits the collapse to be placed anywhere along the chain. Particle to apparatus, apparatus to
 photographic plate, plate to retina, retina to whatever comes after — the formalism gives the same
-predictions wherever the cut is made, and offers no way to find where it truly goes. He drew no
-conclusion about minds. He reported that the location was unfixed.
+predictions wherever the division is placed — the *Heisenberg cut*, in the standard name — and
+offers no way to find where it truly goes. He drew no conclusion about minds. He reported that the
+location was unfixed.
 
 That result is usually presented as an embarrassment. It is not evidence for anything in this
 chapter — a gap in a formalism is not a shape pressed into that formalism from outside, and von
 Neumann's silence is silence. What it is, is a place where two vocabularies happen to have the same
-shape. On this account the cut's location was never a fact awaiting discovery; it is the answer to a
+shape. On this account the Heisenberg cut's location was never a fact awaiting discovery; it is the answer to a
 question — *whose* settling is being asked about — and the formalism was never asked that question.
 It is silent about the location of the cut in the same way a map is silent about who is holding it,
 which is a remark about what maps are.

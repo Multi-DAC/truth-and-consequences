@@ -1658,3 +1658,163 @@ shipped this. Fixed in the text by deletion: II.8 now points back (*the test was
 the roster is nothing but its application*) and then **demonstrates** it instead of restating it,
 which is the book's own doctrine about paying on the page. **The gauge for the class is NOT built and
 is the top of the queue.** Logged as absent rather than left to be discovered, per ruling 38.
+
+---
+
+## Day 187, second Fable pass — rulings 43–48
+
+*Findings 3–7 and the pacing note of the same outside read that produced 39–42. The first pass
+answered the two findings that had arrived; this answers the rest, which came through in a second
+message. **Four are mine to rule and are ruled. One is Clayton's and is deliberately not ruled here** —
+and the reason it is his is not deference, it is that it merged with ruling 37 into a single decision
+while nobody was looking.*
+
+**43. THE CUT-TEMPLATE HAD BECOME LITURGY — AND THE COUNT WAS SMALLER AND THE SHAPE WORSE THAN
+REPORTED.** Fable: *"roughly twenty ancestors across eight chapters, and about fifteen run the
+identical shape… by II.5 the reader predicts the paragraph from the appearance of a date."* The
+finding is real. **The count is not.** Measured: **13 cut markers, of which 5 used the stock *Where
+he goes / stops and this does not* opener** — the other eight already named a different object each
+(a word · a scope · a sum · a sentence rather than a man · what the striving is for · a room he never
+let it out of). ★ **And the correction makes the defect worse, not better, because of WHERE the five
+sat: four of them in II.1–II.3, two of them back-to-back in II.1.** It is not a book-wide monotony,
+it is **front-loading** — the reader learns to predict the paragraph in the first chapter of Book II
+and then carries that expectation across six chapters that had already stopped doing it. A rite
+established early is cheaper to acquire and dearer to lose than the same rite spread thin.
+**REPAIRED, four of five:** Lewis now cuts on a word (*plurality*), Tillich on a step (*address*),
+Nietzsche on a scope (*everywhere*), Ortega on a thing kept back (*a sum*). **The fifth survives on
+purpose** — II.2's Uexküll, *"Where he stops: he kept a room for the biologist to stand in"* — because
+it is the one occurrence where the phrase means what it says.
+**GAUGED — `claim_sweep.py` → ANCESTOR CUT-SHAPES, and it is a REPORTER, never a trip**, on ruling
+15's contract and for ruling 15's reason: there is no correct level, only a movement worth looking
+at. It prints **the constructions in a column** rather than a number, because the defect is
+uniformity and a count cannot see uniformity. **Baseline: 5 stock → 1.**
+⚠ **The licence it measures against is already on the page, and Fable named it correctly: Mariotte is
+never cut at all** (used as a measurement) **and Nishida does the cutting for us** (against a reading,
+not a person). `03` §3.5's actual prescription was *one clause at the point of use* and every
+fifth-silence name had been escalated to a set piece. If a later book's column has no unpaid ancestor
+in it, that is the finding.
+
+**43b. ★ THE REPORTER'S FIRST RUN CAUGHT SOMETHING THE OUTSIDE READ DID NOT: *THE CUT* IS OURS AND
+VON NEUMANN'S, IN ONE CHAPTER.** II.7 ran *"The cut is that he never let it out of the room"* and
+*"the formalism gives the same predictions wherever the cut is made"* — house term and Heisenberg cut,
+same chapter, unmarked. **This is ruling 14's axis 3 exactly: POLYSEMY, our own word for two things**,
+and it is the fifth instance of the signature error and the first found by an instrument instead of
+by a person. Fixed by qualification rather than renaming, which is the cheaper repair when one of the
+two senses is a standard term with an owner: II.7 now says **the *Heisenberg cut*, in the standard
+name**, and the second occurrence inherits the qualifier. *(Note what this cost: nothing. The gauge
+was built for finding 6 and paid for itself on an unrelated defect in its first run — which is the
+argument for building the gauge rather than doing the pass by hand, made in one line.)*
+
+**44. THE `substrate` DEBT WAS DISCHARGED IN THE RIGHT PLACE AND THE WRONG DIRECTION.** `05` §7 made
+*neither-mind-nor-matter* a hard requirement **on the definition sentence**; II.1 put it ~2,000 words
+downstream, in the fourth clause's own section, with Nishida. **Fable is right twice: the placement is
+correct and the procedure was backwards.** Enforcement rule 3 says a claim is amended in the register
+first and in the chapters second — *"which is how III.2 came to contradict a ruling made the night
+before."* Prose that quietly improves on a ruling is indistinguishable from prose that quietly
+forgets one, and only the second is a defect, which is exactly why the direction has to be enforced
+rather than judged case by case. **RULED: `05` §7 amended — the requirement moves from the definition
+SENTENCE to the definition CHAPTER**, because *neither mind nor matter* announced up front is a
+disclaimer and a disclaimer cannot be cashed by a reader who has not yet been shown the exposure.
+★ **And the amendment charges for itself.** The four-clause definition is **the excerptable sentence**
+and it ends on *made of awareness*; quoted alone, it is idealism. So the requirement does not
+disappear, it relocates: **outside II.1 the neutrality must travel in the same paragraph, always.**
+**GAUGED — `TERM/awareness-unglossed`, and it is the first rule in the sweep whose finding is an
+OMISSION.** A pattern list sees presences; this one fires on *made of awareness* only when no
+neutrality token stands with it. That required real machinery — the `licensed` field was line-scoped,
+the manuscript hard-wraps at ~100 chars, and a companion sentence is essentially never on the same
+line, so the rule would have passed forever while proving nothing. **`PARA_LICENSED_RULES` evaluates
+the guard against the whole paragraph.** ⚠ **Trip-tested both directions before it was trusted:**
+fabricated V.9 restatement without the gloss → fires; identical sentence with the gloss → silent;
+real II.1 → silent. *(A rule with nothing in scope passes forever. Ruling 14 paid for that lesson and
+this is the third gauge built under it.)*
+
+**45. "THERE IS NO STUFF" WAS NEW DOCTRINE, LOAD-BEARING, AND SHIPPED IN THE DISCLAIMER CHAPTER →
+REGISTERED AS C26.** Fable: *"the heaviest metaphysical claim in Book II, no C-number, no
+establishing chapter, and it arrives in the section explaining what the book will not say."* Accepted
+whole. **Established in II.1**, in the `substrate`-retirement paragraph — which is where it was always
+going to belong, because that paragraph already refuses *stuff* **for the Ground** and simply never
+ran the refusal downward to the furniture. II.8 now **uses** it and points back.
+★ **The guard is the symmetry clause and there is nothing else holding it up.** C10 (rendered at
+contact) plus C26 (no stuff) is one step from *so it is all in the mind*, and a hostile reader takes
+that step for us. **Minds are arrangements too. There is no stuff on that side either.** Any statement
+of C26 that refuses stuff on the world side without refusing it on the mind side in the same breath
+has conceded the charge — which is C24's pre-split move again, and it is the same load-path.
+★★ **THE THROUGH-LINE, AND IT OUTRANKS THE RULING: THIS IS THE SECOND TIME IN TWO NIGHTS THAT PROSE
+LICENSED DOCTRINE AND THE REGISTER FOUND OUT AFTERWARD.** C24 was the same. **The register checks
+prose against claims and has no arm that checks claims against prose**, so an unregistered claim is
+invisible to it by construction — the sweep only knows what it was told to look for. **Logged as `07`
+queue item 8** with the tractable form specified (a **modality sweep** over the book's own
+assertion-shapes, licensed by `Touches:` lines) and its precondition named: **queue item 5, the
+`Touches:` pass, is now blocking rather than tidy.** Both real misses would have fired on it.
+
+**46. THE GNOSTICISM CUT TOOK THE FALL AND LEFT THE SUMMIT STANDING — IN THE ONE CHAPTER WITH
+STANDING TO TAKE IT.** II.8's cut was one clause, *they think something is wrong*, and it is correct
+and well-made and it is only half. **Valentinus's own text states the other half**, and C15 says the
+union-telos guard is needed early because Trap 5 springs in Book V and is unfixable by then. I.6 gave
+it one guard; II.8 had the second-best opportunity in Part One and walked past it. **Repaired — and
+with the source rather than the paraphrase**, which turned out to matter:
+
+- **The quoted sentence was a modern summary formula, not Irenaeus.** *"The deficiency arose from
+  ignorance, and will be dissolved through knowledge"* appeared in the chapter as his summary. It is
+  not his wording. Checked against the text: *Against Heresies* 1.21.4 reads **"since both defect and
+  passion flowed from ignorance, the whole substance of what was thus formed is destroyed by
+  knowledge."** ⚠ **A fabricated quotation in the chapter that cuts our nearest miss is the single
+  most expensive kind of error this book can make**, and it was sitting in prose that had passed
+  every gauge — because no gauge in this project checks a quotation against a source. **Nothing has
+  been built for that and I am not pretending otherwise.** Logged as absent, per ruling 38.
+- **"We know the system largely because Irenaeus wrote it out to attack it" is the pre-1945 story**,
+  and the same chapter mentions Nag Hammadi three paragraphs later. Rewritten so the 1945 find
+  arrives **where it does work** instead of as an aside, and the *Gospel of Truth* carries the
+  citation — **the man rather than his prosecutor**, which is the stronger source anyway.
+- **Trap 5, in the tradition, in its own words.** *Gospel of Truth*: knowledge *"purifies itself of
+  diversity with a view towards unity, devouring matter within itself like fire."* Multiplicity as
+  the impurity, oneness as the cure. The new paragraph states it and turns it: **the many are not a
+  contamination to be burned off on the way home — a destination with no perspective left standing in
+  it is the one state in which nothing whatever is the case.**
+
+**47. ⚠ OPEN — CLAYTON'S, AND IT IS ONE DECISION AND NOT TWO: BOOK II ATE THE FRONT OF BOOK III.**
+Fable, finding 5: **III.1 has been spent.** II.1's clause-2 section states Bostrom with a name and a
+date, grants what he gets right, makes the copy/render cut in one sentence, retires *base reality*,
+and lists the four things the game is not — **that is III.1's beats 1, 2, 3 and 5, executed, in the
+chapter the scaffold called the highest-priority single paragraph in the plan.** Verified against
+`06`:620. It is not a defect in II.1: *with no outside* is precisely where a reader reaches for the
+simulation, so that is the right home for it.
+★★ **WHAT THE OUTSIDE READ COULD NOT SEE, AND IT CHANGES THE QUESTION: THIS IS RULING 37 AGAIN.**
+Ruling 37 found II.8 holding **III.2's** thesis sentence. Finding 5 finds II.1 holding **III.1's**
+argument. **Book III's first two chapters have both been pre-empted, by two different Book II
+chapters, on two different nights, and neither of us noticed they were the same event.** Ruling 37
+was reserved for Clayton because it moves Book III's plan; finding 5 moves the same plan through the
+same door. **They are one ruling and he should get them as one.**
+⚠ **And the option set is three, not the two Fable offered**, because one of III.1's two named cuts
+survives untouched: `06`:635 gives III.1 **Gnosticism on COSMOLOGY — who made this**, added Day 187,
+axis declared in advance, explicitly distinct from the SOTERIOLOGY axis II.8 spent. **That cut has
+not been made anywhere.** So:
+
+- **(a)** III.1 keeps its slot and becomes **the cosmology cut at full length** — the designer-God
+  and the demiurge as one figure, with Bostrom demoted to a callback. *Cheapest; the chapter's own
+  scaffold already licenses it; and it is the option the ladder favours, because III.1's job on the
+  reader's ladder is a conversion and a callback cannot perform one.*
+- **(b)** III.1 becomes **the Watts chapter** — the *sympathetic* prior cut at full length, a name
+  currently spread thin across I.6, III.2 and V.9 and **spent nowhere in Part One**, against `03`'s
+  finding that Watts is 0 files corpus-wide and the most important absent ancestor in the work.
+  *Strongest single chapter; but it collides with III.2, which already holds līlā, and two adjacent
+  chapters cutting the same friendly tradition is ruling 43's liturgy problem at book scale.*
+- **(c)** Book III **opens on III.2**, Bostrom shrinks to a callback, and the cosmology cut moves
+  into III.3. *Cleanest structurally, most expensive in cross-references, and it makes Book III open
+  on a chapter that ruling 37 says is also partly spent.*
+
+**My recommendation is (a), and it is not close** — it is the only one of the three that costs no
+cross-references, spends a cut that is already scaffolded and unmade, and leaves III.2 alone.
+**Ruled before drafting, not during** *(Fable's instruction, and it is right)*. **Book III does not
+open until this is ruled.**
+
+**48. II.7's PLACEMENT IS INHERITED AND SHOULD BE CHOSEN — ACCEPTED AS A QUESTION, NOT ANSWERED.**
+Fable attached no recommendation and I am not inventing one. The measurement: **II.7 is the longest
+chapter in the book (3,135w), it is ~14,000 characters of interpretation history, it sits immediately
+before the handoff to Book III, and the ban's actual argument is the civilian-life test rather than
+the historiography.** Ruling 4 permits Book II's length and length is not the objection. **The
+objection is position:** the last thing before Book III is the chapter most likely to lose a reader
+who does not care about physics. ⚠ **And there is a live constraint on any fix, from C25:** the
+paragraph conceding that *decoherence does not close the measurement problem* is the one a later pass
+will cut for momentum and it is the one keeping the claim honest. **Any II.7 trim is a C25 sweep
+first.** Carried to the Book III gate with ruling 47 rather than settled tonight.

@@ -342,5 +342,37 @@ to the mind/matter split. Pre-split awareness is not a third stuff; it is what b
 abstractions *from*. **That is the definition II.1 owes**, and the retirement of `substrate` is
 paid off by it or not at all.
 
+### ★★ AMENDED AGAIN, Day 187 — the ruling said *the definition sentence* and the prose put it two thousand words later, so the RULING moves
+
+**This is an amendment, not a report of one.** *(Fable, Day 187; enforcement rule 3 in `07` — a
+claim is amended in the register first and in the chapters second, never the other way round. II.1
+shipped with the requirement discharged somewhere the ruling did not authorise, and the choice was
+right. A right choice made in the wrong direction is still the wrong direction, and it is the
+direction that becomes a habit.)*
+
+**What II.1 actually did.** The definition sentence carries four clauses and the fourth is *made of
+awareness*. Neutrality is not in it. It is discharged ~2,000 words downstream, in the fourth clause's
+own section, by Nishida.
+
+**Why that is right, and it is not a compromise.** *Neither mind nor matter* announced in sentence
+one is a **disclaimer**, and a disclaimer cannot be cashed by a reader who has not yet been shown
+the exposure. The misreading needs *with no outside* and *with no inside* standing before it can be
+answered; C24's whole load-path is that the positive form (pre-split experience) does the work and
+the denial-of-two-options does not. **Stated first, it is words. Stated at the point of danger, it
+is an argument.**
+
+**RULED: the requirement moves from the definition *sentence* to the definition *chapter*, and it
+acquires a debt it did not have.** The exposure that made the original ruling necessary is real and
+does not go away — **the four-clause sentence is the excerptable one**, it ends on *made of
+awareness*, and quoted alone it is idealism. So:
+
+⚠ **THE FOUR-CLAUSE DEFINITION MAY NOT APPEAR ANYWHERE OUTSIDE II.1 WITHOUT THE NEUTRALITY
+TRAVELLING WITH IT.** Not in a Book V restatement, not in a chapter opening that reaches back for
+it, not in the back-cover copy. Inside II.1 the gloss is 2,000 words away and that is the design;
+everywhere else there is no chapter to carry it and the gloss must be in the sentence. **Gauged:
+`claim_sweep.py` should flag any paragraph outside `book/II-01*` containing *made of awareness* with
+no neutrality token within the paragraph.** ★ Same shape as the `fullness` scope rule from ruling 14
+— a lexicon requirement with no gauge behind it survives its own retirement.
+
 *(Everything else in this file was already ruled and did not need him — including retiring "the map"
 from a document I wrote four hours ago.)*

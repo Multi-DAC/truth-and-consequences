@@ -84,13 +84,13 @@ being installed while somebody watched.
 
 **Janet Werker and Richard Tees, 1984.** They took two contrasts that English does not use: the
 Hindi retroflex and dental *t*, which are two consonants in Hindi and one in English, and a
-glottalized contrast from Nthlakampx, an Interior Salish language. Then they tested infants from
+glottalized contrast from Nthlakapmx, an Interior Salish language. Then they tested infants from
 English-speaking homes.
 
 At six to eight months the infants heard both contrasts. Not faintly, not with training — they
 discriminated them the way they discriminated the sounds of their own language, because at six
 months there is no such thing as the sounds of their own language. By eleven to twelve months they
-did not. Infants of the same age learning Hindi, and infants learning Nthlakampx, still heard theirs.
+did not. Infants of the same age learning Hindi, and infants learning Nthlakapmx, still heard theirs.
 Four-year-olds performed like adults, which is to say they heard one sound where a Hindi speaker
 hears two. Not a difficult distinction. Not a subtle one. One sound.
 
