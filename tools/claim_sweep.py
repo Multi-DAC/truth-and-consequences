@@ -97,7 +97,14 @@ RULES = [
      r"state-space map|settledness-map|knowing the map",
      "05 §3b — imports representation-OF, and collides with Korzybski in Book VI. "
      "Breaches C5. LICENSED: Korzybski's model-sense, and our own planning-process sense."),
-    ("TERM/narrowing", "all", r"\bnarrowings?\b|\bnarrowed\b|\bthe Narrowing\b",
+    # ⚠ Day 187 — CASE HOLE, and it is a CLASS defect, patched here for the second time
+    # per-term rather than fixed. These patterns are case-SENSITIVE, so `THE NARROWING` in a
+    # heading walked straight past this rule; TERM/map already carries a hand-added `\bTHE MAP\b`
+    # for exactly the same reason and nobody generalised it. Headings and chapter titles are
+    # upper-case, and *the map*'s whole precedent is that it survived a day IN TWO CHAPTER TITLES.
+    # The real fix is re.IGNORECASE on the TERM/* family with the licence patterns re-checked
+    # under it. Not done tonight because it is a behaviour change to every TERM rule at once.
+    ("TERM/narrowing", "all", r"\bnarrowings?\b|\bnarrowed\b|\bthe Narrowing\b|\bNARROWING\b",
      r"\bnarrower\b|\bnarrowly\b|kept narrow|no narrower",
      "05 §3a — RETIRED by ruling 13 (Day 186). The term is **the Focusing**: focusing is "
      "specification of something diffuse, and a lens destroys no light. *Narrowing* is the one "
@@ -208,6 +215,12 @@ EXEMPTIONS = [
      "cannot record that the trap was guarded. Whole-file for this rule ONLY: any other rule firing "
      "in DRAFT-LOG.md is a fresh decision and gets its own line here, not a widening of this one. "
      "Added Day 187 when the I.5 entry named the manifestation slide in the act of pre-empting it."),
+    ("00-ARCHITECTURE.md", "TERM/narrowing", "TERM/narrowing",
+     "The ruling index naming the GAUGE's rule-id, not the term. A ruling list that cannot "
+     "name what it retired is a ruling list that cannot be audited."),
+    ("00-ARCHITECTURE.md", "TERM/narrowing", "13. THE NARROWING",
+     "Same: the heading of ruling 13's index entry. Added when the case hole above was closed "
+     "and this line started firing for the first time — which is the fix working."),
     # --- Day 187: three fresh lines, per the standing instruction on the entry above.
     # Not a widening of it. All three are the log QUOTING the prose whose guard it records.
     ("book/DRAFT-LOG.md", "C15/trap5", "Dissolving, merging, the drop going back to the sea",
