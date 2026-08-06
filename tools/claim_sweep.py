@@ -330,6 +330,20 @@ EXEMPTIONS = [
      "book's own core term rather than by a warning the reader has to carry. The rule fired on the "
      "vocabulary because the guard cannot be built without it, which is the same shape as I.6:70's "
      "exemption. → `00` queue item 8 is PART-PAID; it stays open for the Book V approach."),
+    # --- Day 187, II.6. THE LOG RECORDING A RULE FIRING, FIRES THE RULE. Third occurrence of a
+    # standing shape (already at DRAFT-LOG:588 and :830): an entry cannot record which line tripped
+    # which rule without reproducing the line. Enumerated per hit, never scoped to the file — the
+    # log is prose about the manuscript, but it is not exempt wholesale, or a real breach written
+    # INTO the log would be the one place nothing looks.
+    ("book/DRAFT-LOG.md", "C15/trap5", "fired **C15/trap5** on",
+     "The II.6 entry naming the rule and quoting the line, in the sentence that records the "
+     "adjudication. Recording a firing reproduces the firing."),
+    ("book/DRAFT-LOG.md", "C15/trap5", "condition supplies a **reason**",
+     "Same entry, the second half of the argument — the sentence that states WHY the guard needs "
+     "the trap's vocabulary. Own entry, per the rule that an exemption is a named line."),
+    ("book/DRAFT-LOG.md", "PROSE/hedge", "The second hit was **PROSE/hedge**",
+     "The II.6 entry quoting the hedge it REWORDED rather than exempted. The manuscript line is "
+     "gone; this is the receipt for its removal, and a receipt has to name what it removed."),
 ]
 
 
