@@ -237,7 +237,15 @@ is the reason it works.
 
 *~190 words — grew from ~165 when C17 was set. Not a register test — a sentence test. Ruled to land
 unhedged in the first paragraph with no throat-clearing. "Energy cannot be destroyed" is banned; this
-is what replaces it. The failure mode being instrumented is not bluster but **comfort**.*
+is what replaces it. ~~The failure mode being instrumented is not bluster but **comfort**.~~*
+
+*★ **Corrected Day 186 ~21:00 (Clayton): the instrumented failure mode is CONSOLATION, not comfort.**
+Comfort is a property of the structure; consolation is addressed to someone. The first is permitted —
+**we can be comfortable without being consoling** — and only the second is banned. So the test is
+grammatical rather than tonal: **is there a recipient in the sentence?** A tonal test is taste, which
+is why five of six drafts walked through it. And it is two-sided: **grimness addresses a reader as
+surely as reassurance does.** Flat, not brave. Full statement in C17's refinement block, including the
+one addressed clause this paragraph keeps on purpose —* "Not as consolation — as grammar" *— and why.*
 
 *★ **v3, Day 186 ~20:40 — C17 SET by Clayton and the agnosticism moved.** v2 was agnostic about
 **whether** anything follows ("whether focusing recurs… we do not know"). Clayton ruled that wrong in

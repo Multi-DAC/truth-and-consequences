@@ -266,6 +266,56 @@ hears *so something happens to me after.* The clamp is the same grammar that mad
 collects on it. Any draft of VII.1 in which the plurality reads as addressed to the second person
 has failed ruling 11, and it will fail invisibly, because it will feel like rigour.
 
+★ **REFINEMENT, Day 186 ~21:00, Clayton — and it converts the invisible failure above into a
+visible one.** *"We can be comfortable without being consoling. It's not an inherently negative or
+positive stance."* Two corrections, both load-bearing:
+
+**(a) Comfort and consolation are not the same offence, and only one of them is banned.**
+The register has been using them interchangeably since ruling 11; the specimen's own header says the
+instrumented failure mode is *comfort*. That is wrong, and it is why the failure was called
+invisible. **Consolation is addressed** — it has a recipient, it offers relief for a fear, it is a
+transaction with a second person. **Comfort is a property of the structure**, arising in whoever
+encounters it, delivered to no one. A stance can be comfortable the way a true thing can be
+convenient: as a fact about it, not as a gift from it. So the test for a VII.1 draft is not *does
+this feel warm* — taste, unarbitrable, which is exactly why five of six drafts got past it — but
+**is there a recipient in the grammar?** That is checkable on a sentence by inspection.
+*The clamp was already right; what was missing was the detector.*
+
+**(b) The stance is NEUTRAL, and that bans cosmic chill by the same rule, symmetrically.**
+Ruling 11 banned one sign. The other was recorded only as fault **(b)** of VII.1 v1 — a lesson from a
+superseded draft, never doctrine — and an asymmetric ban is what let the drafts converge on chill
+while it was being logged as rigour. Corrected: **negative affect is an address too.** Grimness tells
+the reader how to take it; so does grandeur. There is nothing it is like not to be, and a sentence
+carrying that should carry no sign at all. **Flat, not brave.**
+
+⚠ **The one addressed clause kept on purpose, logged so it is an exception and not an oversight.**
+VII.1's *"Not as consolation — as grammar"* fails test (a) on its face: naming consolation requires a
+reader who wanted it, and the denial is spoken to them. It stays, because *"energy cannot be
+destroyed"* is banned and the reader therefore arrives holding the thing the paragraph refuses — an
+unannounced refusal gets read as the consolation it declined to give. **The address buys the frame,
+once, in the first two clauses, and nowhere else in the chapter.** A second one is not an exception,
+it is the failure.
+
+⚠ **THE EMPHASIS SLOT — new instance of an old defect, not a new defect.** Should any draft ever
+enumerate candidate post-corporeal states, **personality-survival cannot hold final position.** Final
+position is emphasis and the reader supplies the address; personality-survival is the most
+bequest-shaped item available, so putting it last hands the plurality a recipient without a single
+warm word. This is structurally identical to specimen finding 3 — *the honest remainder kept arriving
+last* — and it is the same lesson one scale up: **in this chapter the danger is never lexical, it is
+positional.**
+
+**NDEs and Monroe — routed to VII.9, and barred from VII.1.** Clayton raises the near-death corpus
+and Robert Monroe's work as reason to expect a wide variety of next experiences, hedged immediately
+with *I truly have no idea.* The material has a real evidential role and it is not the obvious one:
+**its failure as proof of a specific afterlife is precisely its value as evidence for plurality.**
+Every project that makes the reports converge on one metaphysics has to discard most of the corpus —
+the templates are culturally inflected, mutually contradictory, and sometimes empty. Convergence-
+seeking treats that diversity as noise; **a plenum predicts it.** So the corpus supports C17's
+*structure* and not its *content*, which is the only kind of support this ruling can take without
+breaking. But it is apparatus, and VII.1's first paragraph is ruled apparatus-free with no
+throat-clearing — so it belongs in **VII.9**, where first-person report is handled as data. Noted
+here so the observation has a home rather than a hole.
+
 **Establishes:** VII.1 — **first chapter of Book VII, because it is the question the ruled reader
 most often arrived with.**
 **Depends:** VII.9 · VIII.5 · C.2
