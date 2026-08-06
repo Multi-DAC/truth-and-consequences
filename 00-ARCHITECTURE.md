@@ -1951,3 +1951,135 @@ not a verdict.**
   never tripped. Left, flagged.
 **So: nothing deleted, everything decided, and the reason each one stays is now written down** —
 which is the whole of what the check was for.
+
+---
+
+**50. ★★ THERE WAS A THIRD SEED LIST, OLDER THAN BOTH OF OURS, WRITTEN BY OUTSIDE READERS, AND NO
+INSTRUMENT HAD EVER OPENED IT.** Opus, Day 187, naming a seventh silence: *"ancestor_gap watches
+research→book; nothing watches recommendation→research,"* with QBism offered as the instance — *"a
+finite list somebody already wrote"* — and the proposed instrument a **register of external
+recommendations with landed / not-landed status.**
+⚠ **THE INSTANCE DOES NOT SURVIVE MEASUREMENT AND THE FINDING SURVIVES IT INTACT, WHICH IS THE
+INTERESTING OUTCOME.** The claim was that QBism was recommended during the *Perspective* review
+cycle *"alongside Nishida and Kit Fine."* Measured over the whole review tree, 37 documents:
+**QBism 0 · Fuchs 0 · Mermin 0 · Nishida 0 · Kit Fine 0.** None of the three was ever recommended
+there in writing. And the routes they actually took are three different routes, none of them the one
+described: **Nishida — corpus 0, book 7**, which is `03`'s own roster doing its job, not a review;
+**QBism — corpus 2, and it entered the manuscript today, from Fable's read**; **Kit Fine — 0 in the
+reviews, 0 in the corpus, 0 in the book, and no trace of any recommendation.** *(He is nonetheless a
+real hole, for a reason nobody had reached — ruling 51.)*
+★ **THE FINDING SURVIVES BECAUSE THE BOUNDARY IS REAL EVEN THOUGH THE EXAMPLE ISN'T.** There is a
+tree of 37 external review documents at `Research/fresh-eyes/` — Opus, Fable, Gemini, Fable-CT, a
+reader report, a domain panel — sitting on disk since July, and **every name in it is a nomination by
+somebody with no stake in our answer.** `ancestor_gap`'s docstring states its own limit exactly:
+*"the seed list is names somebody already wrote down as ancestors ... that class is found by an
+outside reader who knows the field, and by nothing else we own."* **The second half was false when
+written.** The outside readers already wrote it down. Nobody read it back.
+★★ **AND THE PROPOSED INSTRUMENT IS THE ONE THING RULING 49 FORBIDS.** A hand-kept register of
+recommendations with landed / not-landed status is *a record of a past adjudication, written once at
+maximum knowledge, wearing the clothes of a present fact* — the exemption, one level up, with a
+maintenance burden. **Built instead: `tools/reviewer_gap.py`, which re-reads the reviews every run**
+and therefore has nothing to keep true. Extraction is proper-noun-shaped; the common-noun
+discriminator is the **lowercase ratio in the corpus** (a surname is a token the corpus never writes
+in lower case), which dropped 199 of 360 candidates including the six that topped its own first run.
+⚠ **Precedent it was built against, from this same pass: `Sider` measured 430 corpus files under a
+case-insensitive substring match, every one of them the word "consider".** A count that flatters a
+finding is the count to re-run — and the flattering count was mine, an hour before the tool existed.
+★★ **WHAT IT FOUND, and it is the sixth silence on the heaviest claim in Book II: LADYMAN.** *Ontic
+structural realism* — the world's modal structure is fundamental and an object's identity comes from
+its relations rather than to them — is corpus 11, **6 of the 37 review documents**, and **0 in this
+repo, prose and plan both.** II.8 shipped *there is no stuff · what there is, is arrangement* two
+days ago. `07` C26 then wrote the near-miss cut against ontic structural realism **and named the
+position instead of the person** — §3.5's fifth silence committed inside the row whose entire job is
+to name an opponent. ✅ **Repaired in II.8's prose, with Ladyman and Ross, both dates, the friendly
+half, and the exact break** (*their structure is what the equations quantify over and is fully itself
+with nobody near it; this is a claim about what contact is like, and it has a grade in it*), symmetry
+clause carried in the same breath.
+⚠ **THE TWO GAP INSTRUMENTS ARE DISJOINT ON THEIR OWN HEADLINE CASES, and that is the argument for
+both.** `reviewer_gap` **would not have found Rovelli** — he is 0 in the review tree, nobody outside
+ever nominated him. `ancestor_gap` **cannot find Ladyman** — he is in neither seed list. Each is
+blind exactly where the other looks. **Stated here so a green run on either is never read as
+coverage**, which is ruling 38's principle and is now this project's standing habit.
+★★ **AND THE FIRST THING THE TOOL DID AFTER ITS FIRST REPORT WAS ACTED ON WAS GO SILENT.** Writing
+the work-list into `07`'s queue gave every name on it a nonzero **plan** count, and the next run
+reported none of them. **Recording the finding muted the finder** — ruling 49's structure, in the
+instrument built the same afternoon, because a gauge whose *handled* signal is *appears in a plan
+file* is satisfied by the act of writing down that it is **not** handled. **Fourth form of one shape:
+false handoff · *Last Verified* stamp · exemption · a work-list that counts as work.** Fixed with a
+sentinel rather than a heuristic — text between `reviewer_gap:worklist` markers is not a routing, and
+deleting the markers brings the names back, so it fails toward noise. ⚠ **And the fix did not work on
+the first attempt, which is the more useful half: the same list had been pasted into THIS file too,
+and the tool went on reporting nothing until the second site was found.** A sentinel is per-site;
+the real fix is that **a work-list gets exactly one home.** It is `07` **queue item 9**, and the
+paragraph you are reading is why this one is a pointer and not a copy.
+
+**51. ★★ THE KEYSTONE WORD HAS TWO OWNERS IN TWO FIELDS, AND §3.5 HAS ONE COLUMN FOR "the owner".**
+Reached by following Opus's Kit Fine to a name with no provenance, and finding the hole anyway.
+**§3.5's first row screens *ground of being* against Paul Tillich — theology — and stops.** The word
+this book is built on has a second technical owner in analytic metaphysics: **Kit Fine**, who made
+*ground* a technical relation (*The Question of Realism*, 2001), and **Jonathan Schaffer**, whose
+**priority monism** (*On What Grounds What*, 2009) is this book's position in analytic dress — the
+cosmos is the one fundamental thing and everything else is grounded in it. **Measured: the corpus
+uses *priority monism* in 6 files and *metaphysical grounding* in 4 — the doctrine is in active use —
+and Fine is 0, Schaffer is 0, everywhere. Book: 0 and 0.** The doctrine came in without either name.
+★ **THE STRUCTURAL FAULT, which outranks the instance: §3.5's table is one row per TERM, and a term
+whose collision is with two different fields has one row and gets screened once.** That is ruling
+14's axis 1 (COLLISION — who else owns the word) run to first hit and stopped. **The book's own
+signature error is one word, two referents; this is one word, two OWNERS, and the instrument built
+for the first cannot count the second.** ⚠ And it lands on the keystone: a metaphysics specialist
+opening a book whose central term is *the Ground* and finding no engagement with the grounding
+literature draws exactly the conclusion §3.5 exists to prevent.
+★ **A THIRD ROW, from the same measurement, and it is the one that changes a claim rather than a
+citation: Bertrand Russell — 45 corpus files, 0 book, 0 plan.** `03` credits neutral monism to
+**Mach and James** and stops. **Russellian monism** — physics gives you the structure and the
+intrinsic natures filling it are what experience is made of — is the live contemporary position and
+carries his name. ★★ **And it is ontic structural realism's exact opposite: intrinsic natures are
+what OSR denies there are.** So **C26's two nearest neighbours contradict one another, and this book
+had named neither — which means it has never had to say where between them it stands.** That is not
+a missing citation, it is a missing sentence, and II.1 and II.8 both owe it. → `07` queue.
+
+**52. ★★★ GAUGES ARE FOR RECURRENCE. OUTSIDE PASSES ARE FOR NOVEL CLASSES. TREATING A REVIEW AS A
+LARGER GAUGE GETS NEITHER.** Opus's through-line, logged here **before** ruling 42's prose-to-prose
+detector is built, because the whole point is that it will inherit the property. *"Every gauge in
+this project is built immediately after the defect it catches, so each is instance-shaped and blind
+to the next class — §3.5 after the fifth silence, `PROSE/hedge` after hedges,"* and — their own
+example, offered against themselves — *"my own Rovelli guess after the Tillich case: I assumed the
+gap would have the shape of the last gap found."*
+★ **The pass that produced this ruling is a fourth instance and a demonstration at once.** Opus
+guessed the seventh silence would have the sixth's shape (a research→book differential, one stage
+back) and proposed the sixth's instrument (a register, one stage back). **The shape was different:
+the list existed, was written by outsiders, and was unread.** Not less blindness on the outside pass
+— **differently-shaped blindness**, which is II.3 arriving as an event in the book's own production.
+⚠ **THE OPERATIONAL CONSEQUENCE, and it is why this is a ruling and not an observation:** the first
+thing this finding rules out is **its own author's proposed instrument.** Opus specified a register
+because a register is what the last gap wanted. The reflex to answer a novel class with a gauge is
+the instance-shaped reflex named in the same paragraph. **The correct response to a novel class is
+another outside pass; a gauge is what you build once the class has recurred.**
+⚠ **AND THE WARNING IT ISSUES ABOUT RULING 42, which is the reason to log it now.** *"At 0/68 that
+gauge ships half-blind by construction"* — the `Touches:` pass has been run on **zero** chapters, and
+`Touches:` is exactly what distinguishes **licensed restatement** from **unlicensed duplication**.
+Verbatim duplication is the easy half and the tool will catch it; the same claim in different words
+is the likely failure and is undecidable without the field the project has not filled in. **So
+ruling 42's gauge does not ship until `07` queue item 5 has run, or it ships announcing which half of
+its job it cannot do.** *(`prose_beat_sweep` already set that precedent — ruling 38.)*
+
+**53. III.1'S REMIT — OPUS'S PROPOSAL IS BUILT ON A SCAFFOLD THAT NO LONGER EXISTS, AND THE CONTENT
+IN IT IS REAL AND HAS NOWHERE TO GO YET.** Opus, after ruling 47 came back: withdraw option (b),
+*"III.2 already is the sympathetic-prior chapter, so III.1 can't become it"* — **correct, and moot,
+because Clayton closed the option set three hours earlier.** What follows the withdrawal is a fresh
+proposal: III.1 as the **operational** Bostrom fork — *"not his picture is wrong but here is what
+every consequence in Part Two would have been under his picture, and here is what it is under this
+one,"* identified as *"the scaffold's beat 4."*
+⚠ **THAT BEAT 4 IS GONE.** Under 47(a), III.1's beat 4 is *a maker is prior to the made; priority is
+a position in time; the Ground has none*, and the chapter carries a **standing ban on re-running the
+copy/render fork at all** — II.1 owns it. The proposal is not merely superseded; **it is the specific
+thing III.1 is now forbidden to do.** ✅ **47(a) stands. Not re-opened.**
+★ **AND THE CONTENT IS GOOD AND SHOULD NOT DIE WITH THE PROPOSAL.** *Book II named; Book III's remit
+is what the naming buys* is the sharpest available statement of the part/book relation, and the
+observation under it is exact: **II.1 made the Bostrom cut DEFINITIONALLY and could not make it
+OPERATIONALLY, because nothing had been built yet to fork.** That is a real unmade cut with a real
+home — **not III.1, which is bounded on both sides on purpose, but the Book III opening or III.2's
+approach**, where *there is no other player* has to be cashed against consequences rather than
+definitions. **Recorded in `06` as an unmade cut with its axis declared in advance**, which is
+ruling 24's procedure and the second thing in two days to be saved by it. **Not scheduled tonight;
+Book III opens on III.1 as ruled.**

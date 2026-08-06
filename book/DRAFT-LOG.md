@@ -2145,3 +2145,77 @@ open.** That is not why ruling 24 was made, and it is the second time it has pai
 unchanged by this pass · fixture **PASS**, II.2 ~ III.4 rank 1 of 13.
 ⚠ *claim_sweep caught ruling 49's own prose using* **aperture** *, retired at `05` §3 — the ruling
 about unexamined silencers, written in retired vocabulary, found by the gauge that reads the plan.*
+
+---
+
+## Day 187 — the second outside pass, and the seed list nobody had opened
+
+Opus's read came back with a seventh silence and a proposed instrument. **The instance did not
+survive measurement and the finding survived it intact**, which is the most useful shape a finding
+can have.
+
+**The claim:** QBism was recommended as a bibliography addition during the *Perspective* review
+cycle, alongside Nishida and Kit Fine; Nishida landed and QBism did not; `ancestor_gap` watches
+research→book and nothing watches recommendation→research.
+
+**Measured over the whole review tree, 37 documents: QBism 0 · Fuchs 0 · Mermin 0 · Nishida 0 ·
+Kit Fine 0.** None of the three was recommended there in writing, and each took a different route
+from the one described — Nishida is `03`'s own roster (corpus 0, book 7), QBism entered the
+manuscript today from Fable's read, and Kit Fine has no trace anywhere, including no trace of the
+recommendation.
+
+**The boundary is real anyway.** There are 37 external review documents sitting at
+`Research/fresh-eyes/` since July, and every proper noun in them is a nomination by somebody with no
+stake in our answer. `ancestor_gap`'s docstring says the class it cannot see "is found by an outside
+reader who knows the field, and by nothing else we own." **The outside readers already wrote it
+down. Nobody read it back.**
+
+**And the proposed instrument was the one thing ruling 49 forbids.** A hand-kept register of
+recommendations with landed/not-landed status is a record of a past adjudication wearing the clothes
+of a present fact, with a maintenance burden attached. `tools/reviewer_gap.py` re-reads the reviews
+every run and has nothing to keep true.
+
+**What it found: Ladyman.** Ontic structural realism — corpus 11, six of the 37 review documents,
+**zero in this repo, prose and plan both.** II.8 shipped *there is no stuff · what there is, is
+arrangement* two days ago; `07` C26 wrote the near-miss cut against ontic structural realism and
+**named the position instead of the person**, which is §3.5's fifth silence committed inside the row
+whose whole job is to name an opponent. Repaired in II.8's prose with both names, both dates, the
+friendly half, and the exact break.
+
+**The two gap instruments are disjoint on their own headline cases.** `reviewer_gap` would not have
+found Rovelli — nobody outside ever nominated him. `ancestor_gap` cannot find Ladyman — he is in
+neither seed list. Each is blind precisely where the other looks.
+
+⚠ **A count of mine flattered a finding, an hour before the tool that would have caught it.** `Sider`
+measured 430 corpus files under a case-insensitive substring match. Every hit was the word
+*consider*. The tool's common-noun discriminator — a surname is a token the corpus never writes in
+lower case — came directly out of that, and dropped 199 of 360 candidates including the six that
+topped its own first run.
+
+### The keystone word has two owners, and the table has one column
+
+Following Opus's Kit Fine to a name with no provenance found the hole anyway, one level up.
+**§3.5's first row screens *ground of being* against Tillich — theology — and stops.** The analytic
+owner of *ground* is Kit Fine; **priority monism** is Schaffer's, and it is this book's position in
+analytic dress. The corpus uses *priority monism* in 6 files and *metaphysical grounding* in 4 —
+**the doctrine is in active use and both owners are at 0, everywhere.** Ruling 14's axis 1 was run
+to first hit and stopped. The book's signature error is one word, two referents; this is one word,
+**two owners**, and the instrument built for the first cannot count the second.
+
+**And a third row that changes a claim rather than a citation: Russell, 45 corpus / 0 book / 0 plan.**
+`03` credits neutral monism to Mach and James. Russellian monism — physics gives you the structure,
+and the intrinsic natures filling it are what experience is made of — **is ontic structural realism's
+exact opposite.** C26's two nearest neighbours contradict each other, this book had named neither,
+and so it has never had to say where between them it stands. → `07` queue item 10, registration
+first.
+
+### The through-line, logged before the gauge it warns about
+
+**Gauges are for recurrence. Outside passes are for novel classes. Treating a review as a larger
+gauge gets neither.** Opus's, and offered against themselves — they guessed the seventh silence would
+have the sixth's shape, and proposed the sixth's instrument. It didn't and it wasn't. **The first
+thing the finding rules out is its own author's proposed register.**
+
+Consequence for ruling 42: the `Touches:` pass is at 0/68, and `Touches:` is what distinguishes
+licensed restatement from unlicensed duplication. **That gauge does not ship until queue item 5 has
+run, or it ships announcing which half of its job it cannot do.**

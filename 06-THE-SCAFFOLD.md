@@ -609,6 +609,18 @@ widening anything.
 *The operative frame, and the most heavily new-written book in Part One. `video game` = 0 files: none
 of this is quarried. Eight chapters.*
 
+★ **AN UNMADE CUT, DECLARED IN ADVANCE AND DELIBERATELY UNSCHEDULED — ruling 53, Day 187, from Opus.**
+**II.1 made the Bostrom cut DEFINITIONALLY. It could not make it OPERATIONALLY, because nothing had
+been built yet to fork.** The unmade version is not *his picture is wrong* — that is spent — but
+**what every consequence in Part Two would have been under his picture, set beside what it is under
+this one.** *Book II named; Book III's remit is what the naming buys.*
+⚠ **IT IS NOT III.1's.** III.1 is bounded on both sides on purpose and carries a standing ban on
+re-running the copy/render fork; this cut would be that ban broken. **Candidate homes: the Book III
+opening, or III.2's approach**, where *there is no other player* has to be cashed against
+consequences rather than definitions. **Axis declared, home not chosen, drafting not scheduled.**
+*(Ruling 24's procedure. It has now paid twice in two days: this is the mechanism that gave a
+re-scoped III.1 somewhere to go, used deliberately rather than discovered gratefully.)*
+
 ⚠⚠ **THE PLAY LINEAGE IS A TOTAL ABSENCE — measured Day 186, and it is this book's biggest exposure.**
 Huizinga 0 · *Homo Ludens* 0 · Caillois 0 · Bernard Suits 0 · *lusory* 0-real (12 raw hits, all
 "il**lusory**") · James Carse 0 · *Finite and Infinite Games* 0 · "infinite game" 0 · Eugen Fink 0 ·

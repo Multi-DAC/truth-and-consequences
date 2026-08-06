@@ -564,7 +564,18 @@ guard is the symmetry clause and nothing else.** Any statement of C26 that refus
 side without refusing it on the mind side in the same breath has conceded the charge.
 **Near-miss to refuse:** ① *ontic structural realism* — structure all the way down, no relata. Close,
 and genuinely friendly, but it is a claim about what physics quantifies over; ours is about contact
-and has a grade in it. ② **Berkeley** — *esse est percipi*, which needs a perceiver keeping the tree
+and has a grade in it. ⚠ **AMENDED Day 187, ruling 50 — this row named the position and not the
+person, which is `03` §3.5's fifth silence committed inside the row whose entire job is to name an
+opponent.** The owners are **James Ladyman and Don Ross**, *Every Thing Must Go: Metaphysics
+Naturalized* (Oxford, 2007, with Spurrett and Collier); the term is Ladyman's, from *What is
+Structural Realism?* (1998). Measured when the gap was found: **Ladyman 12 corpus files, 6 of the 37
+external review documents, and 0 in this repo — prose and plan both.** The doctrine was read, was
+recommended from outside six times, was cut against here anonymously, and its holder's name has never
+appeared in the project. ✅ **The cut is now IN II.8's PROSE with both names and both dates** — the
+break stated as *their structure is what the equations quantify over and is fully itself with nobody
+near it; this is a claim about what contact is like, and it has a grade in it*, with the symmetry
+clause carried in the same breath so the trap above is closed where the claim is made.
+② **Berkeley** — *esse est percipi*, which needs a perceiver keeping the tree
 in the quad, and therefore needs exactly the God-outside C5 and C6 forbid. Ours needs no witness,
 because arrangement is not a thing that requires witnessing to be arranged.
 
@@ -729,3 +740,46 @@ in different chapters is invisible to a scaffold. Expect one new row per drafted
    *there is no stuff*; C24's is *the Ground is aware in the second sense and not in the first*.
    **Precondition: queue item 5** — the `Touches:` pass over all 68 chapters, which this arm needs
    as its licence table and which is now blocking rather than tidy.
+
+9. **★★ THE `reviewer_gap` WORK-LIST — nine names nominated by outside readers, absorbed into the
+   corpus, and routed nowhere in this project.** Ruling 50. Not a defect list; a reading list with
+   a measurement attached, and each one is a yes/no that costs a sitting:
+<!-- reviewer_gap:worklist -->
+   **Murdoch 7 reviews/35 corpus · Enoch 7/21 · Korsgaard 7/14 · Ross 6/37 · Clark 6/21 ·
+   Ladyman 6/12** *(✅ done — II.8, ruling 50)* **· Russell 4/45 · Tolstoy 5/14 · Vygotsky 3/13.**
+   ⚠ Enoch and Korsgaard are metaethics and land on **Book V**, not here; Clark is extended-mind and
+   lands on III.4/IV; Murdoch and Weil are the attention lineage and land on VII. **The list is
+   Part-Two-heavy, which is why it is a queue item and not a repair.**
+   *(Also surfaced and not an ancestor: **Lucifer 8/39 · Satan 6/25**, unnamed anywhere in the plan,
+   in the week III.1 became the demiurge chapter. An instrument built for one thing handing over
+   something else is worth one line here rather than a shrug.)*
+   ★ **And one further down the report that outranks most of the top: `Spencer-Brown` 4/8** —
+   *Laws of Form*, whose first instruction is **draw a distinction**, in a book whose Book I is a
+   focusing and whose Book II is a rendering at contact. **`Cusanus` 4/9** likewise, and he is
+   already in `ancestor_sweep.TERMS` and in no plan document — *a name can sit in a tool's seed list
+   for two days and be routed nowhere, and only the tool that reads plans can tell you.*
+<!-- /reviewer_gap:worklist -->
+   ⚠⚠ **THE SENTINELS ABOVE ARE LOAD-BEARING AND THE BUG THEY FIX IS THE POINT OF THE ITEM.**
+   Pasting this list here gave every name on it a nonzero PLAN count, and the next run of
+   `reviewer_gap` **reported nothing at all.** ★ **Recording the finding muted the finder** —
+   ruling 49's structure exactly, in the instrument built the same afternoon, because a gauge whose
+   *handled* signal is *appears in a plan file* is satisfied by the act of writing down that it is
+   not handled. **Fixed with a sentinel rather than a heuristic**: delete the comment markers and
+   the names come back, so it fails toward noise. *(Fourth form of one shape now — false handoff ·
+   *Last Verified* stamp · exemption · **and a work-list that counts as work**.)*
+
+10. **★★ RULING 51'S MISSING SENTENCE — where this book stands between Russellian monism and ontic
+    structural realism.** Not a citation, a **claim**, and C26 and C24 both lean on it: OSR says
+    there are no intrinsic natures, Russellian monism says the intrinsic natures are what experience
+    is made of, **and this book has said neither while depending on the answer.** II.8 now names
+    Ladyman and Ross and makes the OSR cut; **the Russell side is unwritten and II.1 is its home.**
+    ⚠ **Registration first, prose second** — this is exactly C24's and C26's failure mode and it is
+    now the third time, so it does not get to arrive in a chapter again.
+
+11. **★ THE REGISTER→PROSE ARM, and the recurrence criterion is now met.** `07` already records
+    *"twice now the prose has done the licensing and the register has found out afterward."* Ruling
+    50 is the mirror: **C26's near-miss cut was written here on Day 187 and existed nowhere in the
+    prose, and nothing would ever have said so.** A row that names an opponent the owning chapter
+    never names is mechanically detectable — **`Near-miss to refuse:` proper nouns, differenced
+    against the `Establishes:` chapters.** ⚠ **This one IS a gauge and not an outside pass, because
+    ruling 52's criterion is satisfied: the class has recurred three times.**

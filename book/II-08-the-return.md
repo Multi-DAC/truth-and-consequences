@@ -170,6 +170,23 @@ something, so it can be argued with. The banned sentence cannot be argued with. 
 and it is the whole defect: not that it is too wild, but that it is not saying anything specific
 enough to be wrong.
 
+That claim has a neighbour, and it is close enough that the book owes you the seam. James Ladyman
+and Don Ross, in *Every Thing Must Go* (2007), argue for ontic structural realism: the world's
+objective modal structure is the fundamental thing, and an object's identity is not something it
+brings to its relations but something it gets from them. Self-subsistent things go. They came to it
+from physics and this book comes to it from contact, and they were there first — and the half they
+have right is the half readers find hardest, which is that a world with no things in it is not a
+world with less in it.
+
+The break is exact. Their structure is what the equations quantify over, and it is fully itself with
+nobody anywhere near it; that is what makes their position a realism. This one is not an inventory
+of what the world contains. It is a claim about what contact is like, and it has a grade in it.
+Solidity is not a property that structure has and objects lack. It is what an arrangement is like to
+something in contact with it, at a grade. Take the contact away and nothing has been subtracted from
+the table — what has gone is the only place the question was ever being put. And the refusal runs
+both directions, or it is not this book's refusal: there is no mental stuff either, no substance of
+experiencing that would go on experiencing with nothing in contact with it.
+
 ---
 
 The vocabulary is now closed.
