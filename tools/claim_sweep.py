@@ -82,6 +82,27 @@ PLANNING_MENTION = re.compile(r"^\s*>")
 #   because a broad exemption is how a gauge quietly stops measuring.
 # ---------------------------------------------------------------------------
 
+# ---------------------------------------------------------------------------
+# CASE-SENSITIVE RULES — Day 188.
+#
+# Every rule is compiled with re.IGNORECASE by default, and that is right for a rule whose
+# needle is a WORD (`narrowing`, `bottleneck`, `merge`): the reader meets those in any case,
+# and a heading is the most expensive place one can survive.
+#
+# It is wrong for a rule whose needle is a TITLE — a proper name that happens to be spelled
+# out of common words. `the Fullness` is a term; `the fullness of God` is English. Matching
+# the second to catch the first does not make the gauge stricter, it makes it noisier, and a
+# gauge that cries wolf is switched off within a week — this file's own docstring says so.
+#
+# ⚠ MIXED RULES CANNOT USE THIS SET, AND PROSE/self-reference IS ONE. Its pattern carries
+# title needles (`DoPI`, `the Anchor`, `The Inside View`) *and* phrase needles (`as we argued
+# elsewhere`), and the phrase needles must stay case-insensitive. The owed fix is to SPLIT it
+# into `-title` and `-phrase` rules. Filed, not done today: it is a second behaviour change on
+# a day that already has one, and the Day-187 lesson is that the run which changes three
+# matchers at once is the run nobody reviews.
+# ---------------------------------------------------------------------------
+CASE_SENSITIVE_RULES = {"TERM/fullness"}
+
 RULES = [
     # --- retired terms (05 §3) -------------------------------------------------
     ("TERM/substrate", "all", r"\bsubstrates?\b",
@@ -97,13 +118,24 @@ RULES = [
      r"state-space map|settledness-map|knowing the map",
      "05 §3b — imports representation-OF, and collides with Korzybski in Book VI. "
      "Breaches C5. LICENSED: Korzybski's model-sense, and our own planning-process sense."),
-    # ⚠ Day 187 — CASE HOLE, and it is a CLASS defect, patched here for the second time
-    # per-term rather than fixed. These patterns are case-SENSITIVE, so `THE NARROWING` in a
-    # heading walked straight past this rule; TERM/map already carries a hand-added `\bTHE MAP\b`
-    # for exactly the same reason and nobody generalised it. Headings and chapter titles are
-    # upper-case, and *the map*'s whole precedent is that it survived a day IN TWO CHAPTER TITLES.
-    # The real fix is re.IGNORECASE on the TERM/* family with the licence patterns re-checked
-    # under it. Not done tonight because it is a behaviour change to every TERM rule at once.
+    # ⚠⚠ Day 188 — THE COMMENT THAT USED TO SIT HERE WAS FALSE OF THE CODE BELOW IT, and it
+    # prescribed a fix that was already in force. It read: *"These patterns are case-SENSITIVE,
+    # so `THE NARROWING` in a heading walked straight past this rule… The real fix is
+    # re.IGNORECASE on the TERM/* family. Not done tonight."* Every rule in this file has been
+    # compiled with `re.IGNORECASE` at the point of use (see `sweep_file`) the whole time.
+    # Measured, not read: `## THE NARROWING` matches today, and so does `the narrowing`.
+    #   The two fossils it left behind are still visible above and below — the hand-added
+    # `\bNARROWING\b` here and `\bTHE MAP\b` in TERM/map are DEAD alternations, unreachable
+    # under IGNORECASE. They are kept rather than deleted: they are the evidence, and deleting
+    # them would matter the day one of these rules is made case-sensitive.
+    #   ★ The live cost is the OPPOSITE hole from the one the comment feared. A rule whose
+    # needle is a TITLE (`the Fullness`, `the Anchor`) fires on the ordinary common noun.
+    # `claim_sweep` filed exactly this on Day 187 (`the anchor` → `\bthe Anchor\b`) and declined
+    # to fix it; it recurred the next chapter, in TERM/fullness, on Paul's *plērōma*.
+    # ★★ THE PROPERTY BELONGS TO THE NEEDLE, NOT TO THE RULE — which is why it keeps recurring:
+    # the rule tuple has nowhere to say which kind a needle is, so the knowledge went into a
+    # comment and a hand-patched alternation instead, and the comment then rotted. See
+    # CASE_SENSITIVE_RULES below, and the MIXED-rule note on PROSE/self-reference.
     ("TERM/narrowing", "all", r"\bnarrowings?\b|\bnarrowed\b|\bthe Narrowing\b|\bNARROWING\b",
      r"\bnarrower\b|\bnarrowly\b|kept narrow|no narrower",
      "05 §3a — RETIRED by ruling 13 (Day 186). The term is **the Focusing**: focusing is "
@@ -341,6 +373,23 @@ EXEMPTIONS = [
     ("book/DRAFT-LOG.md", "C15/trap5", "condition supplies a **reason**",
      "Same entry, the second half of the argument — the sentence that states WHY the guard needs "
      "the trap's vocabulary. Own entry, per the rule that an exemption is a named line."),
+    # --- Day 188, II.8. THE ONE LINE IN THE MANUSCRIPT THAT USES A RETIRED TERM AFTER ITS
+    # RETIREMENT, and it is the line that names who owned it first.
+    ("book/II-08-the-return.md", "TERM/fullness", "the standard English for it is the Fullness",
+     "★ THE COLLISION NAMED, ONCE, IN THE ONLY CHAPTER WITH STANDING TO NAME IT. `the Fullness` "
+     "is the standard English for the Gnostic *pleroma* — Book I's name for the plenum is the "
+     "opponent's own technical term for the thing you escape TO, in the book whose Trap 1 is "
+     "Gnosticism. Ruling 14 screened this row on axis 3 (our own second name) and never on axis 1 "
+     "(who else owns it), which is the inverse of the defect ruling 14 was written to correct. "
+     "The Tillich precedent in `05` §3a governs and is quoted verbatim there: an unnamed borrowing "
+     "from a famous source is what a hostile reader uses; a named one is a credential — and it is "
+     "to be named AT THE DEFINITION. The definition is in Book I, where rule 5 forbids naming an "
+     "opponent on the page, so the borrowing has no legal home at its own definition and II.8 is "
+     "the first door: the only chapter that names Gnosticism at all. "
+     "⚠ THE DEBT IS PART-PAID, NOT PAID. The reader meets the correction six chapters after the "
+     "word, and a correction that late does not undo a first impression — it only stops the book "
+     "looking ignorant to the reader who had *pleroma* before page one. Recorded rather than "
+     "dressed up. → ruling 34; `05` §3a Fullness row, axis-1 column."),
     ("book/DRAFT-LOG.md", "PROSE/hedge", "The second hit was **PROSE/hedge**",
      "The II.6 entry quoting the hedge it REWORDED rather than exempted. The manuscript line is "
      "gone; this is the receipt for its removal, and a receipt has to name what it removed."),
@@ -449,8 +498,9 @@ def sweep_file(path: pathlib.Path, is_prose: bool):
     for rule_id, scope, pattern, licensed, why in RULES:
         if not in_scope(scope, path, is_prose):
             continue
-        rx = re.compile(pattern, re.IGNORECASE)
-        lic = re.compile(licensed, re.IGNORECASE) if licensed else None
+        flags = 0 if rule_id in CASE_SENSITIVE_RULES else re.IGNORECASE
+        rx = re.compile(pattern, flags)
+        lic = re.compile(licensed, flags) if licensed else None
         for n, line in enumerate(lines, 1):
             m = rx.search(line)
             if not m:

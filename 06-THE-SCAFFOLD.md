@@ -460,21 +460,123 @@ and II.8 would have lost its reason to exist.
 said gate the acquittal harder; this one says the accusation has a whole class it cannot see at all.
 **A verb-level pass over the beats is owed** — 0 exists today.
 
-### II.8 — THE RETURN, AND THE THINGS THIS BOOK WILL NOT SAY
-**Beats:** the Return defined against escape, salvation, and exit · **the retired words listed openly**
-— substrate, aperture, bottleneck, X, the map — each with the one-line argument that retired it ·
-**the banned words listed openly** — vibration, frequency, energy-as-substance, manifest, quantum,
-observer, **superposition** (ruling 31) — with the reason: *what is banned is a vague word, never a
-bold claim* · one closing line that the rest of the work draws on this vocabulary and adds nothing to it.
-⚠ **RULING 32 — THIS CHAPTER POSTS THE ROSTER; II.7 ARGUED THE CRITERION.** The argument is spent.
-II.8 may **not** re-derive why the ban exists; it lists, one line each, and II.7's closing paragraph
-already hands the list forward by name. **Both criteria (ownership · unglossability) get exactly one
-line here**, because a reader meeting the reasoning twice will believe the second telling is padding.
-⚠ **AND THIS CHAPTER STILL HAS NO NAMED ANCESTOR OR OPPONENT** — it is one of the 28. Rule 5 says
-non-optional. The Return-against-exit cut wants **Gnosticism named**, which Trap 1 already implies and
-the beats do not say.
-**Why the retirements are on the page and not in an appendix:** a reader who has tried pop-spirituality
-needs to see us decline its vocabulary *on purpose*, or they will assume we simply have not got there yet.
+### II.8 — THE RETURN, AND THE THINGS THIS BOOK WILL NOT SAY ✅ DRAFTED Day 187 — 1,967 words
+### ✦ BOOK II COMPLETE — 8 of 8, 16,559 words.
+**Beats:** the Return defined against escape and repair (ruling 33) · **Gnosticism named, stated at
+full strength, and cut** · **the one-name rule posted as a rule, not the retirements as a roster**
+(ruling 35) · substrate · the map · simulation · **the banned words listed openly** — vibration,
+frequency, energy-as-substance, manifest, quantum, observer, **superposition** (ruling 31) — with the
+reason: *what is banned is a vague word, never a bold claim*, demonstrated once on *everything is
+vibration* · one closing line that the rest of the work draws on this vocabulary and adds nothing to it.
+**Named:** ★ **Gnosticism** — *the nearest miss in the book*, and the second of its nearest-friend
+cuts · **Valentinus** · **Irenaeus** (*Against Heresies* I, the hostile summary that is also our best
+source) · **Paul** (Colossians 1:19, 2:9 — *pleroma*'s second owner).
+⚠ **THE AXIS, DECLARED IN ADVANCE rather than discovered in Book III** (ruling 24's procedure):
+**II.8 cuts Gnosticism on SOTERIOLOGY — what the ending is.** `03` §Bostrom wants the *neighbouring*
+cut, on **COSMOLOGY — who made this** (*someone else made this and you are inside it*), and that one
+belongs beside Bostrom in **III.1**, whose beat 5 currently says *the designer-God* without naming
+the tradition. **Two chapters, two axes, both stated before either is drafted.**
+★ **THE CUT ITSELF, and it is one clause: they think something is wrong.** Irenaeus reports their
+doctrine as *the deficiency arose from ignorance, and will be dissolved through knowledge* — which is
+**the Return, in our own shape, with the same cure.** They are not the opponent who thinks recognition
+is nonsense; they are the ones who got there first and described it accurately. What cannot be paid is
+the deficiency: it needs a somewhere outside the whole, a before to fall from, and a maker who could
+have done otherwise. ✅ *Verified against sources, per ruling 27 — the translation, the Pauline usage,
+and Irenaeus's summary each checked separately rather than as one bundle.*
+⚠ **RULING 32 HELD:** II.7 argued the criterion, II.8 posted the roster. Both criteria (ownership ·
+unglossability) got exactly one line, and the argument was not re-derived.
+
+⚠⚠ **RULING 33 — I.6'S DRAFTED PROSE HAD ALREADY PERFORMED II.8'S PLANNED ACT, AND NO INSTRUMENT IN
+`tools/` CAN SEE THAT CLASS AT ALL.** II.8's beat 1 was *the Return defined against escape, salvation
+and exit.* I.6's shipped opening does all of it, harder: *"Not by leaving it. There is no leaving…
+There is no wall, and nothing is keeping anyone"* · *"Nothing is under repair. Nothing is waiting to
+be repaired"* · and its closing spends arrival and merger. **Four denials, all four already made.**
+★ **Two separate blindnesses, and the second is the big one.** (a) I.6's **Thesis** line reads *not
+escape, not repair, not arrival and not merger* — the same act as II.8's beat 1, **thirty lines apart
+in this same file**, and `beat_sweep` scored 0: ruling 32's class exactly, lexical overlap near zero
+across *repair/salvation* and *arrival/exit*. (b) **`beat_sweep` reads `06` and only `06`. It compares
+PLANS TO PLANS — and fourteen chapters are no longer plans.** Every drafted chapter has outrun its
+beats, and a collision between shipped prose and a future chapter's beats is invisible **by
+construction**, in the gauge whose whole design case is collisions. *A gauge's admission gate is where
+its design case goes to die*, at the largest scale this project has found it.
+**The adjudication, and it made the chapter better rather than shorter — the same shape as 32: I.6
+PERFORMS the refusal; II.8 NAMES WHO WAS BEING REFUSED.** Book I's header rule bars a named opponent
+on the page, so I.6 took a picture away from the reader and never said whose it was. II.8 says whose.
+The duplication is not a cost to be trimmed — **it is the chapter's material**, and the fix is
+register, not content. **II.8 does not re-deny. It attributes.** That is the whole Book I → Book II
+relation, arriving in the last chapter of Book II.
+★ **OWED INSTRUMENT — a PROSE-AGAINST-BEATS sweep. 0 exists.** For every drafted chapter, compare its
+shipped prose to every *undrafted* chapter's beats. Sibling of the verb-level pass (ruling 32) and it
+has the same fix, one floor up: the corpus the gauge admits is smaller than the corpus that can collide.
+
+⚠⚠ **RULING 34 — `the Fullness` IS *PLEROMA*. BOOK I NAMED THE GROUND WITH GNOSTICISM'S OWN WORD FOR
+THE THING YOU ESCAPE TO, IN THE BOOK WHOSE TRAP 1 IS GNOSTICISM.** πλήρωμα is standardly Englished as
+**the Fullness**; in Valentinian doctrine it is the divine plenum the spark fell from and returns to.
+★ **The defect is not the word — it is where the screen failed.** `05` §3a's Fullness row was added
+**by ruling 14**, the ruling whose own header announces *"every row above this line was written against
+axis 1 alone."* That row was then screened **against axis 3 alone** — its collision column reads *"not
+a collision (nobody else owns it)"*, and **two traditions own it.** The correction carried the
+original's defect in mirror image. *(Same shape as Day 187's newline terminator: the repair reproducing
+the blindness it was written to close.)*
+**Disposition — named once, in prose, under a named exemption.** The **Tillich precedent in `05` §3a
+governs and says it in our own words**: *an unnamed borrowing from a famous theologian is what a
+hostile reader uses; a named one is a credential* — **and it is to be named AT THE DEFINITION.** The
+definition is in Book I, where rule 5 forbids naming an opponent on the page, so **the borrowing has
+no legal home at its own definition**, and II.8 is the first door. It also buys the Gnosticism cut its
+sharpest form: *their Fullness is where you go; ours is what you are standing in.*
+⚠ **PART-PAID, and recorded as such.** The reader meets the correction six chapters after the word. A
+correction that late does not undo a first impression — it stops the book looking ignorant to the
+reader who had *pleroma* before page one, which is a smaller thing. **And the second owner is the
+reason this is a credential rather than a wound: Paul's *plērōma* (Col 1:19, 2:9) is the one the
+church-shaped reader already has.** → `05` §3a, axis-1 column; `claim_sweep` EXEMPTIONS, II.8.
+
+⚠⚠ **RULING 35 — THE RETIREMENT ROSTER COULD NOT BE POSTED, AND THE BEAT THAT ASKED FOR IT WAS
+ASKING FOR A BANNED MOVE.** The beat said *the retired words listed openly* — `substrate`, `aperture`,
+`bottleneck`, `X`, `the map`. **Measured before drafting: `aperture` 0, `bottleneck` 0, `keyhole` 0, `X` 0
+in every word of drafted prose.** The reader has never met them and never will. So a line retiring
+them is either **an anonymous self-reference to a corpus the reader cannot look up** — banned outright
+by ruling 8, *"as we argued elsewhere"* wearing editorial clothes — **or a phantom introduced for the
+sole purpose of being buried.**
+★ **The two halves of that beat had different justifications and the scaffold's stated rationale only
+paid for one.** *"A reader who has tried pop-spirituality needs to see us decline its vocabulary on
+purpose"* is exactly right about **vibration/frequency/quantum** — words the reader met in the failed
+prior answers — and says nothing about `aperture`, which is an **internal editorial fact** about a
+define-once violation in a book this one may not name. **Posting both in one list tells the reader the
+two have the same standing.**
+**The adjudication: what that retirement actually owed the reader is a RULE, not a roster.** II.8 posts
+**one name per thing** as a promise about the book's behaviour — *where a second word appears for the
+same thing it is an image, used once, never a term* — with `05` §2's argument stated reader-facing:
+three names for one thing feels like range to the writer and reads as three things the reader has just
+failed to distinguish, **which they will assume is their fault.** `substrate` and `the map` stay in the
+posted list **on the reader's grounds and not ours** — the reader has met both from other owners, which
+makes them collisions, exactly like the bans and merely decided differently.
+★ **The class:** *a retirement is reader-facing only if the reader could meet the word from somebody
+else.* Otherwise it is housekeeping, and housekeeping posted as doctrine is how a book starts talking
+to its own editors on the page. **Every future "list what we retired" beat inherits this test.**
+
+⚠⚠ **RULING 36 — THE GAUGE'S OWN COMMENT WAS FALSE OF THE CODE UNDER IT AND PRESCRIBED A FIX ALREADY
+IN FORCE.** `claim_sweep.py` carried, since Day 187: *"These patterns are case-SENSITIVE, so
+`THE NARROWING` in a heading walked straight past this rule… The real fix is `re.IGNORECASE` on the
+TERM/* family. Not done tonight."* **Every rule in the file has been compiled with `re.IGNORECASE` at
+the point of use the whole time.** Measured, not read: `## THE NARROWING` matches today. The two
+fossils it left are still in the patterns — the hand-added `\bNARROWING\b` and `\bTHE MAP\b`
+alternations are **dead**, unreachable under IGNORECASE, and are kept as the evidence.
+★ **The live cost is the OPPOSITE hole from the one the comment feared: a rule whose needle is a
+TITLE fires on the ordinary common noun.** `TERM/fullness` tripped on **Paul's *"all the fullness of
+God"***. Day 187 filed this exact defect (`the anchor` → `\bthe Anchor\b`) and declined to fix it; **it
+recurred in the next chapter, in a different rule.** A filed-not-fixed item with a second instance is
+no longer a filing.
+★★ **THE PROPERTY BELONGS TO THE NEEDLE, NOT TO THE RULE — which is *why* it keeps recurring.** The
+rule tuple has nowhere to say which kind a needle is, so the knowledge went into a comment and a
+hand-patched alternation, and then the comment rotted. `CASE_SENSITIVE_RULES = {"TERM/fullness"}`
+added; comment corrected. ⚠ **`PROSE/self-reference` is MIXED** — title needles (`DoPI`, `the Anchor`,
+`The Inside View`) *and* phrase needles (`as we argued elsewhere`) in one pattern — **so it cannot take
+a whole-rule flag and the owed fix is a SPLIT into `-title` / `-phrase`. Filed, not done: second
+matcher change in one run is the run nobody reviews.**
+✅ **BOTH-DIRECTIONS DIFF RUN, per Day 187's own new gauge note.** USE 2 → 0, mentions 69 → 69,
+exemptions 49 → 50. **Exactly one line moved on the matcher change and it moved DOWN** — Paul's common
+noun — with no collateral movement in 31 files; the other USE hit went by named exemption, not by
+widening anything.
 
 ---
 
@@ -510,6 +612,13 @@ restatement of his and follows us happily into the wrong book.
 4. Why the difference is not academic: his frame makes you a rendered thing in someone else's world.
    Ours makes you the place a world happens. **Every consequence in Part Two forks here.**
 5. Name the third position we are also not: the designer-God. Outside, prior, intentional — all three false.
+**Named:** Bostrom (inline, beats 1–4) · ★ **Gnosticism — ADDED Day 187, ruling 33's neighbour, and
+the axis is DECLARED IN ADVANCE.** `03` §Bostrom has always wanted this cut here — *"the two failure
+modes are twins: someone else made this and you are inside it"* — and beat 5's *designer-God* is that
+tradition with the name filed off. ⚠ **THE AXIS: III.1 cuts Gnosticism on COSMOLOGY — who made this.
+II.8 has already spent SOTERIOLOGY — what the ending is.** Second cut, new axis, per II.2's Bostrom
+note, and stated before either chapter needed it rather than discovered at drafting (ruling 24's
+procedure). **III.1 may not re-argue that nothing is wrong; II.8 owns that clause.**
 
 ### III.2 — THE GAME THAT IS PLAYING YOU
 **Thesis:** the player is a character the whole game contains — **and there is no other player.**

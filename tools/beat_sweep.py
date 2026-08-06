@@ -91,9 +91,41 @@ EXEMPT = {
                      "immediately as the C12 guard — A WISH IS NOT A REPETITION. The litany is the "
                      "explanandum in II.5 and the content in I.5, and neither chapter can do the "
                      "other's job.",
+    # ★★ Day 187 — THE ONLY PAIR IN THIS TABLE THE GAUGE DID NOT FIND. It scored 0 the morning
+    # II.8 was drafted and fires now ONLY because ruling 33 was written into `06` BY HAND and
+    # quotes I.6's thesis verbatim. Read that as the finding it is: `beat_sweep` compares PLANS
+    # TO PLANS, and I.6 is not a plan any more — its SHIPPED PROSE performs all four denials, and
+    # no instrument in tools/ reads prose against beats. The pair became visible only after a
+    # human-made ruling put the two sentences in the same file.
+    ("I.6", "II.8"): "ruling 33, ADJUDICATED: I.6 PERFORMS the refusal; II.8 NAMES WHO WAS BEING "
+                     "REFUSED. All four denials (escape · repair · arrival · merger) ship in I.6's "
+                     "prose, made anonymously because Book I's header rule bars a named opponent on "
+                     "the page. II.8 does not re-deny — it attributes: Gnosticism, Valentinus, "
+                     "Irenaeus, and the cut in one clause (they think something is wrong). Book I "
+                     "performs, Book II names, which is the two books' whole relation arriving in "
+                     "the last chapter of Book II. ⚠ A future editor restoring the denials to II.8 "
+                     "will be writing I.6 twice.",
     ("II.3", "III.1"): "ruling 24, ADJUDICATED: the DEFINITION is II.3's and the FORK is III.1's. "
                        "II.3 states what a perspective is and stops; Bostrom is not named in it. "
                        "III.1 owns 'every consequence in Part Two forks here'.",
+    # Day 187 — both axes were already stated in `06` and neither was in this table. Surfaced by
+    # adding a **Named:** field to III.1: the chapter moved out of the "names it inline" bucket
+    # and the reuse check could finally see it. The gauge did not become stricter; the scaffold
+    # became legible to it.
+    ("II.8", "III.1"): "ruling 33's neighbour, ADJUDICATED AND DECLARED IN ADVANCE: II.8 cuts "
+                       "Gnosticism on SOTERIOLOGY — what the ending is (not escape, not repair; "
+                       "they think something is wrong). III.1 cuts it on COSMOLOGY — who made "
+                       "this (`03` §Bostrom: 'someone else made this and you are inside it'), "
+                       "which is beat 5's designer-God with the tradition's name restored. "
+                       "III.1 may not re-argue that nothing is wrong; II.8 owns that clause.",
+    ("II.1", "III.1"): "ruling 24's procedure, applied to the THREE Bostrom cuts `05` requires. "
+                       "II.1 spends ELSEWHERE — a copy has a room, a render has none. II.2 spends "
+                       "the ECONOMY — a game generates procedurally because storage costs money, "
+                       "and that reader has a machine with an accounts department. III.1 spends "
+                       "THE FORK — his frame makes you a rendered thing in someone else's world, "
+                       "ours makes you the place a world happens, and every consequence in Part "
+                       "Two forks there. Three axes, stated in `06` since Day 186; entered here "
+                       "Day 187 when the pair first became visible to the reuse check.",
     ("II.3", "VII.4"): "ruling 24, ADJUDICATED: II.3 states the Null-Space Theorem universally and "
                        "exceptionlessly BECAUSE VII.4 turns it on the contractive terminal doctrine "
                        "— 'no grade buys an exemption' is written for VII.4 six books early.",
@@ -376,7 +408,15 @@ def named_report(chs):
             print(f"  {'':<28} {note[:96]}…")
         else:
             open_ += 1
-            print(f"  {n:<28} cut in {len(cids)}: {', '.join(cids)}  ?? NO AXIS STATED")
+            # ⚠ Day 187 — THE LABEL USED TO READ "NO AXIS STATED", WHICH IS A CLAIM ABOUT THE
+            # SCAFFOLD THIS TOOL NEVER CHECKS. The only thing consulted is EXEMPT, three lines
+            # up. `Gnosticism II.8/III.1` and `Bostrom II.1/III.1` both had their axes stated in
+            # full, in prose, in `06`, and were accused anyway. An accusing bucket that overstates
+            # what it looked at is the exoneration lesson wearing the other coat — and the fix for
+            # the accusing side is the same: SAY WHAT YOU CHECKED.
+            # ★ OWED: read the axis out of the scaffold prose instead of a hand-kept table. Filed.
+            print(f"  {n:<28} cut in {len(cids)}: {', '.join(cids)}  "
+                  f"?? NOT IN THIS TOOL'S EXEMPT TABLE — `06` may already state the axis")
     print()
     print("  Each repeat needs a NEW AXIS stated in the scaffold, per II.2's Bostrom note.")
     print("  A repeat with no axis note is the reader meeting one argument twice.")

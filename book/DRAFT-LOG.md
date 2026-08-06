@@ -1654,3 +1654,168 @@ case-insensitively. Reworded rather than exempted — an exemption would have sp
 common noun. The rule should be case-sensitive for title-shaped needles; filed, not fixed, because
 changing a matcher's case-sensitivity on the day I have already changed three others is how a good
 run turns into an unreviewed one.)*
+
+---
+
+## II.8 — THE RETURN, AND THE THINGS THIS BOOK WILL NOT SAY · drafted Day 187 · 1,967 words
+## ✦ BOOK II IS DRAFTED. 8 of 8, 16,559 words.
+
+**The gate ran before a word was written and came back CLEAN** — `beat_sweep --chapter II.8`: 68
+chapters, 277 beats, **0 collisions, 0 echoes.** It was wrong, and this time the reason is
+structural rather than a regex.
+
+### RULING 33 — I.6's SHIPPED PROSE HAD ALREADY PERFORMED II.8's PLANNED ACT
+
+II.8's beat 1: *the Return defined against escape, salvation and exit.* I.6's drafted opening,
+paragraphs 2 and 4: *"Not by leaving it. There is no leaving… There is no wall, and nothing is
+keeping anyone"* · *"Nothing is under repair. Nothing is waiting to be repaired, and the waiting is
+not patience — it is the absence of an injury."* Its closing spends arrival and merger. **All four
+denials of the Return, already made, in the best register the book has.**
+
+Two blindnesses, and the second is much larger than the first.
+
+**(a) The lexical one — ruling 32 again, thirty lines away.** I.6's **Thesis** field reads *not
+escape, not repair, not arrival and not merger*. II.8's beat 1 reads *escape, salvation, exit*.
+`beat_sweep` reads Thesis as a beat and still scored 0, because *repair* is not *salvation* and
+*arrival/merger* is not *exit*. Same act, disjoint vocabulary, same file, same book.
+
+**(b) ★★ THE STRUCTURAL ONE: `beat_sweep` READS `06` AND ONLY `06`. IT COMPARES PLANS TO PLANS —
+AND FOURTEEN CHAPTERS ARE NO LONGER PLANS.** Every drafted chapter has outrun its beats. A collision
+between shipped prose and a future chapter's beats is invisible **by construction**, in the
+instrument whose entire design case is collisions. *A gauge's admission gate is where its design
+case goes to die* — and this is the largest instance the project has produced, because the blind
+region grows by one chapter every time one ships. The gauge was built when 0 chapters existed and
+its corpus has been shrinking, relatively, ever since.
+
+**The adjudication, and it made the chapter better rather than shorter — ruling 32's shape exactly:
+I.6 PERFORMS the refusal; II.8 NAMES WHO WAS BEING REFUSED.** Book I's header rule bars a named
+opponent on the page, so I.6 took a picture away from the reader and never said whose it was. **II.8
+does not re-deny. It attributes.** The duplication is the chapter's material, not a cost to trim.
+
+**The pair is now in `beat_sweep`'s EXEMPT table — and it is the only entry there the gauge did not
+find.** It fires now only because ruling 33 was written into `06` by hand and quotes I.6 verbatim.
+
+★ **OWED INSTRUMENT: a prose-against-beats sweep.** For every drafted chapter, its shipped prose vs
+every undrafted chapter's beats. Sibling of the verb-level pass (ruling 32); same fix one floor up —
+**the corpus a gauge admits is smaller than the corpus that can collide.**
+
+### RULING 34 — `the Fullness` IS *PLEROMA*
+
+Book I named the Ground with **Gnosticism's own technical term for the thing you escape to**, in the
+book whose Trap 1 is Gnosticism. The Greek is standardly Englished *the Fullness*; in the Valentinian
+system it is the divine plenum the spark fell out of and returns to. ✅ *Verified per ruling 27, and
+per idea rather than per source: the translation (Strong's 4138, "that which fills, the sum total
+that makes something complete"), the Pauline usage (Col 1:19, 2:9 — the second owner, and the one a
+church-shaped reader already has), and Irenaeus's summary of the Valentinian doctrine, each checked
+separately.*
+
+★ **The defect is where the screen failed, not the word.** `05` §3a's Fullness row was added **by
+ruling 14** — the ruling whose own header announces *"every row above this line was written against
+axis 1 alone."* The new row was then screened **against axis 3 alone**, and its collision column
+read *"not a collision (nobody else owns it)."* **The correction carried the original's defect in
+mirror image**, which is Day 187's newline terminator again: the repair reproducing the blindness it
+was written to close.
+
+**Disposition: named once, in prose, under a named exemption.** The **Tillich precedent in `05` §3a
+governs, in our own words** — *an unnamed borrowing from a famous source is what a hostile reader
+uses; a named one is a credential* — **and it says to name it AT THE DEFINITION.** The definition is
+in Book I, where opponents may not be named, so the borrowing **has no legal home at its own
+definition** and II.8 is the first door. It also buys the Gnosticism cut its sharpest form: *their
+Fullness is where you go; ours is what you are standing in.*
+
+⚠ **PART-PAID, and written down as such.** The reader meets the correction six chapters after the
+word. That does not undo a first impression; it stops the book looking ignorant to the reader who
+had the Gnostic sense before page one, which is the smaller of the two things.
+
+### RULING 35 — THE RETIREMENT ROSTER COULD NOT BE POSTED
+
+Measured before drafting: **`aperture` 0, `bottleneck` 0, `keyhole` 0, `X` 0 in every word of
+drafted prose.** The reader has never met them. So a line retiring them is either **an anonymous
+self-reference to a corpus they cannot look up** — ruling 8's ban, in editorial clothes — **or a
+phantom introduced solely to be buried.**
+
+**The two halves of that beat had different justifications and the scaffold's rationale only paid
+for one.** *"A reader who has tried pop-spirituality needs to see us decline its vocabulary on
+purpose"* is exactly right about `vibration`/`quantum` and says nothing about `aperture`, which is
+an internal editorial fact about a define-once violation in a book this one may not name.
+
+**Adjudication: that retirement owed the reader a RULE, not a roster.** II.8 posts **one name per
+thing** as a promise about the book's behaviour, with `05` §2's argument turned reader-facing —
+three names for one thing feels like range to the writer and reads as three things the reader just
+failed to distinguish, **which they will assume is their fault.** `substrate` and `the map` stay in
+the posted list **on the reader's grounds, not ours**: both have other owners, which makes them
+collisions, exactly like the bans and merely decided differently.
+
+★ **The class: a retirement is reader-facing only if the reader could meet the word from somebody
+else.** Otherwise it is housekeeping, and housekeeping posted as doctrine is a book talking to its
+own editors on the page.
+
+### RULING 36 — THE GAUGE'S COMMENT WAS FALSE OF THE CODE UNDER IT
+
+`claim_sweep.py` has carried, since Day 187, a comment asserting that its patterns are
+case-SENSITIVE, that `THE NARROWING` in a heading therefore walked straight past the rule, and that
+the real fix — applying `re.IGNORECASE` to the TERM family — was *"not done tonight."* **Every rule
+in the file has been compiled with `re.IGNORECASE` at the point of use the whole time.** Measured,
+not read. The two fossils that belief left behind — the hand-added `NARROWING` and `THE MAP`
+upper-case alternations — are **dead**, unreachable, and are kept as the evidence.
+
+★ **The live cost is the OPPOSITE hole from the one the comment feared: a rule whose needle is a
+TITLE fires on the ordinary common noun.** `TERM/fullness` tripped on **Paul's *"all the fullness of
+God."*** Day 187 filed this exact defect (`the anchor` against a past volume's title) and declined
+to fix it; **it recurred in the next chapter, in a different rule.** A filed-not-fixed item with a
+second instance has stopped being a filing.
+
+★★ **THE PROPERTY BELONGS TO THE NEEDLE, NOT TO THE RULE — which is why it keeps recurring.** The
+rule tuple has nowhere to say which kind a needle is, so the knowledge went into a comment and a
+hand-patched alternation, and the comment then rotted. `CASE_SENSITIVE_RULES` added, holding
+`TERM/fullness`. ⚠ **`PROSE/self-reference` is MIXED** — title needles *and* phrase needles in one
+pattern — **so it cannot take a whole-rule flag; the owed fix is a SPLIT. Filed, not done: a second
+matcher change in one run is the run nobody reviews.**
+
+✅ **BOTH-DIRECTIONS DIFF, per Day 187's own new gauge note.** USE **2 → 0** · mentions **69 → 69** ·
+exemptions **49 → 50**. Exactly one line moved on the matcher change and it moved **down** — Paul's
+common noun — with **no collateral movement across 31 files**. The other USE hit went by named
+exemption, not by widening anything.
+
+### AND A FIFTH, FOUND BY THE SAME RUN — THE ACCUSING BUCKET OVERSTATED WHAT IT CHECKED
+
+`beat_sweep` printed **`?? NO AXIS STATED`** for a repeat-cut opponent. It never reads the scaffold
+for an axis; the only thing it consults is its own `EXEMPT` table. **`Gnosticism II.8/III.1` and
+`Bostrom II.1/III.1` both had their axes stated in full, in prose, in `06`, and were accused
+anyway.** This is Day 187's exoneration lesson wearing the other coat, and the fix is the same on
+both sides: **say what you checked.** Label corrected to *"NOT IN THIS TOOL'S EXEMPT TABLE — `06`
+may already state the axis"*; both pairs entered with their axes; reading the axis out of the
+scaffold prose is filed.
+
+*(`Bostrom II.1/III.1` had been invisible for a different reason worth recording: III.1 named him
+**inline in the beats**, so the chapter sat in the "hygiene, not a rule-5 gap" bucket and the reuse
+check never saw the pair. Giving III.1 a proper **Named:** field — done for Gnosticism — moved it
+into view. **The gauge did not become stricter; the scaffold became legible to it.**)*
+
+### THE CHAPTER
+
+The two halves are one act, and that is what earned them one chapter: **an exit is something you get
+sold, and so is a credential.** The Return is the book declining to sell the first; the banned list
+is it declining to sell the second. Both are refusals of the same transaction, and a reader who has
+been through the spirituality section of a bookshop has been sold both, in that order.
+
+Gnosticism is **the nearest miss in the book**, and it earns the second nearest-friend cut after
+Watts. Irenaeus's own hostile summary contains the sentence that makes it hard: *the deficiency
+arose from ignorance, and will be dissolved through knowledge.* **That is the Return, in our shape,
+with our cure.** The cut is one clause — **they think something is wrong** — and everything
+unpayable follows from it: a deficiency needs a somewhere outside the whole, a fall needs a before,
+a prison needs a warden.
+
+★ The ban demonstration is the paragraph that keeps the list from reading as a retreat. *Everything
+is vibration* is refused and then **restated larger** in the book's own words — there is no stuff;
+solidity is what contact with an arrangement is like at a grade — **which is a heavier claim than
+the banned one, and can be argued with.** That is the whole defect of the banned sentence: not too
+wild, just not specific enough to be wrong.
+
+⚠ **AT 1,967 WORDS IT IS THE SHORTEST CHAPTER IN BOOK II, AND THAT IS RULING 32 BEING OBEYED**, not
+a chapter running out. II.7 argued the criterion; II.8 posts the roster and both criteria get one
+line each. A longer II.8 would be the reader meeting the reasoning twice.
+
+**GATES: `claim_sweep` exit 0** (31 files, 77 mentions, 50 exemptions) · **`beat_sweep`** 68 chapters,
+278 beats, 3 collisions / 2 echoes / 5 exempt, wrap self-test PASS, **II.8 out of the
+no-named-opponent bucket (28 → 27)** · **`order_sweep`** 0 false handoffs.
