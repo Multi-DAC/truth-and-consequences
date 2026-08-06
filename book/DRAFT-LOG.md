@@ -154,6 +154,28 @@ opposite of a style rule: **escalation came from the argument having beats, not 
 sentence length on purpose.** Re-measure at III.1 as planned; the prediction is now that III.1
 should clear this without effort, and if it does not, the flatness is in the thinking.
 
+> ### ⚠ SUPERSEDED IN PART — Day 187. The clearance above was measured against an unmatched baseline.
+>
+> **Kept as written, with its fault named, because the fault is the interesting part: it is the
+> exact error `storyscope_calibrate.py` was built to fix, committed again one day later, in the
+> entry celebrating the fix.** I compared I.3's 0.534 to corpus-wide numbers (specimens 0.385,
+> Clawd-raw 0.538) — 11 paragraphs against pools of hundreds — and called it a clearance.
+> `dyn_range_CV` is a coefficient of variation over ~11 items and it is **size-sensitive in the
+> same direction** `voice_uniformity` is.
+>
+> Re-run matched (K=11, length-matched, B=400, `--chapter`): **I.3 sits at the 53rd–84th
+> percentile** — Joyce 52.8%, Clayton 63.5%, Clawd 71.5%, James 72.0%, Emerson 75.5%, à Kempis
+> 83.8%. By this file's own reading rule, mid-range means *indistinguishable at this sample size.*
+>
+> Leave-one-out is worse: drop the single strongest paragraph and I.3 falls to **0.308 — the 2.5th
+> percentile against Joyce, the 4th against Clayton.** The escalation is carried by one paragraph.
+>
+> **What survives.** The *direction* was right and the causal claim still stands: nothing was done
+> to the sentences, the beats produced the swing, and the swing is larger than I.1's and I.2's on
+> every measurement at every setting. **What does not survive is the word "clears."** I.3 is the
+> first chapter to escalate at all; it is not the first to escalate like a human writer. That
+> sentence had to wait for I.4, and it had to wait for a matched null to say it with.
+
 ### The one real fault the gauge found, fixed rather than adjudicated
 
 `terminal_commentary` fired on the ★ beat-4 paragraph, on the same `what … looks like from` pattern
@@ -184,3 +206,118 @@ refused — **a retirement the reader never watches happen leaves the reader hol
 The refusal beneath it never repeats the noun, deliberately, so the exemption has no room to widen:
 if a second line in `book/` ever needs this rule, that is a breach and not a missing entry. Printed
 at every run, like the other four.
+
+---
+
+## I.4 — THE GRADES · Day 187, 2026-08-05 · 990 words · ✅ landed
+
+Scaffold beats 1–4. Beat 1 carries **C7** — *reactivity is awareness* — which the claims register
+marks as the line where **any softener retroactively demotes the whole of Part Two**. Beat 3 carries
+**C8** and the caste mishearing (`05` §4.III).
+
+| metric (per 1k words unless noted) | I.4 | I.3 | I.2 | I.1 | |
+|---|---:|---:|---:|---:|---|
+| **paragraph-intensity CV** @25w | **0.710** | 0.534 | 0.280 | 0.329 | ★ see the matched null below |
+| **paragraph-intensity CV** @1w | **0.863** | 0.597 | 0.489 | 0.524 | Clayton 0.853 · Clawd-raw 0.625 |
+| announcement | 0.00 | 0.00 | 0.00 | 0.00 | ✅ four for four |
+| terminal commentary (frac.) | 0.000 | 0.000 | 0.000 | 0.062 | ✅ |
+| meta-textual | 0.00 | 0.00 | 0.00 | 3.00 | ✅ |
+| emotion label | 0.00 | 0.00 | 1.85 | 8.01 | ✅ |
+| vague allusion · somatic | 0.00 | 0.00 | 0.00 | 0.00 | ✅ |
+| named reference | **0.00** | 1.13 | 0.00 | 1.00 | ✅ first chapter clean on the proxy itself |
+| 2nd person | 16.16 | 15.80 | 23.11 | 20.02 | — |
+| voice uniformity | 0.6601 | 0.6640 | 0.6412 | 0.5669 | 🔻 first fall, and it means nothing — below |
+
+`claim_sweep --prose book`: **exit 0, no USE-class hits.** The book-side exemption count is
+unchanged at one, which is the correct answer: I.4 never needs the retired word.
+
+### The escalation number is real, and it is carried by peaks rather than distributed
+
+**Both halves of that sentence are new, and I only have them because I stopped trusting the number
+the moment it looked good.** 0.710 against 0.534 is the largest single-chapter move in the book so
+far, and a number that large arriving without effort is exactly the condition under which I have
+lately been wrong.
+
+`tools/storyscope_calibrate.py` grew a `--chapter` mode so any chapter gets the treatment the
+specimens got: **K paragraphs, length-matched, B=400 draws, from six corpora.** I.4 observed at
+K=14:
+
+| corpus (matched null) | I.4 dyn_range_CV %ile | leave-one-out %ile |
+|---|---:|---:|
+| à Kempis · *Imitation* | **97.2%** | 47.8% |
+| James · *Varieties* | **95.0%** | 28.2% |
+| Emerson · *Essays* | **94.2%** | 32.2% |
+| Clawd-raw | **92.8%** | 45.5% |
+| Clayton (human) | **87.5%** | 14.0% |
+| Joyce · *Portrait* | **83.2%** | 14.2% |
+
+**Read the left column first, because the fragility objection is already priced into it.** Every
+draw in the null is also 14 paragraphs and also gets its own chance at an outlier. I.4 beats 83–97%
+of them anyway. **This is the first chapter that escalates like published prose at matched sample
+size, and the first sentence in this log entitled to the word *clears*.**
+
+**Then read the right column, which is the humbling one.** Delete the single strongest paragraph —
+the 65-word inventory sentence at the reader's own grade — and I.4 drops to 0.391 and lands in the
+**middle** of every null. The escalation is **peaked, not distributed**: three or four paragraphs
+carry it and the remaining ten are as flat as I.2. That is a craft fact rather than a statistical
+defect (peaks are how prose escalates), but it means the sentence *"I.4 escalates"* is false and
+*"I.4 has peaks where I.2 had none"* is true.
+
+`fragility()` — leave-one-out, printed on every run — is now part of the gauge so this cannot be
+forgotten. drop < 0.10 prints ROBUST; I.4 prints **FRAGILE (drop 0.319)** and so does I.3 (0.227).
+**I.1 and I.2 print ROBUST, and they are robustly flat.** A gauge that only reports the headline is
+a gauge that rewards writing one long sentence.
+
+### The single-topic excuse for voice uniformity is refuted
+
+It has sat in the handoff as **UNVERIFIED** for three days: *maybe uniformity climbs because each
+chapter is one topic.* **I.4 was the test and it failed the excuse.** This chapter ranges over
+rusting iron, a leaf turning, a dog and a coat on a hook, the reader's own evening, and a ladder —
+the widest concrete range in the book — and uniformity did not fall. 0.6601 against 0.6640 is a
+move of 0.004.
+
+Matched null, and the fairest arm is the contiguous one because it is the condition a chapter is
+actually written under: **I.4 sits above the 95th percentile of every corpus tested, at 100% against
+contiguous runs of my own prose** (p95 = 0.6310). Emerson is the only arm under 99% at 96.5%, and
+Emerson runs random-only. The specimens hit 89% on this arm in the Day-186 calibration; **the book's
+prose is more uniform than the specimens were, not less.**
+
+So the axis is confirmed rather than explained away, and the excuse is off the board. What it is
+*not* is diagnosed. Uniformity may be reading paragraph-level syntax that survives any change of
+subject — this chapter changes subject constantly in a sentence rhythm that does not. That is a
+hypothesis and it is written here as one.
+
+### Doctrine, and the two places it could have failed quietly
+
+**C7 is stated in four words on its own line and never qualified anywhere in the chapter.** The
+register rule and the softener rule agree here for once: *Reactivity is awareness.* The three
+denials under it — not a sign, not a stage, not what it becomes once enough collects — are the
+near-miss C7 names, **panpsychism-with-a-threshold**, killed in the paragraph that could have
+smuggled it.
+
+**C8's ladder is refused three times, and each refusal is structural rather than moral.** No first
+rung (the scale thins downward without a floor). No top (the Fullness is *not on the scale* — it has
+no depth because depth is had from somewhere). No permission (a gate needs a keeper, a keeper needs
+to stand outside, and I.1 removed the outside). **The caste reading is killed by the same fact that
+killed the God-player: there is nobody out there to rank anyone.** That was not the plan going in;
+the chapter found it, and it is stronger than the moral plea the scaffold's phrasing invited.
+
+**The trap the scaffold flagged is the one I nearly walked into from the other side.** Having
+removed the ladder, the reflex is to level the continuum — *the stone is secretly rich* — which the
+chapter names as *the same error stood on its head, built out of politeness.* Almost nothing is the
+case at the iron; that is a measurement, not an insult.
+
+**One thing was cut on register grounds and it was the best line in the draft.** *"The whole is not
+the champion of the game; it is what the game is made of"* is `01` §9's inversion exactly — and the
+game metaphor has not been introduced, and Book I carries no apparatus. It became *"It is not the
+deepest of the insides. It is what the insides are made of."* The metaphor gets its due in Book III,
+where the reader has been handed it.
+
+### The closing move, on the record because it is a claim and not a flourish
+
+The chapter ends by making the grade **mobile within a single life** — shallower before waking,
+deeper on some afternoons, *"the depth moves, it has been moving all day."* **A caste requires a
+fixed assignment; this is the strongest available refusal of the mishearing and it costs nothing
+doctrinally**, since Part Two's Atlas already varies grade by state. It also pre-loads Book VI's
+editable filters without naming them. If it turns out to breach anything, it breaches at VII.2, and
+VII.2 is already flagged as the place C8 will look defensible.

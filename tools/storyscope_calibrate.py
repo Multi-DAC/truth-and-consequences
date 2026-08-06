@@ -96,6 +96,27 @@ def pct(sorted_vals, x):
     below = sum(1 for v in sorted_vals if v < x)
     return 100.0 * below / len(sorted_vals) if sorted_vals else float("nan")
 
+def fragility(pars):
+    """How much of dyn_range_CV rests on ONE paragraph.
+
+    Day 187. A chapter is ~14 eligible paragraphs; CV over 14 items is a statistic a
+    single outlier can carry, and the DRAFT-LOG had been reporting it to three decimals
+    with no dispersion beside it. Leave-one-out: `drop` is observed CV minus the LOWEST
+    CV any single deletion produces. Large `drop` does not mean the escalation is fake —
+    a 65-word sentence is a real prosodic event — it means the number describes one
+    paragraph rather than the chapter, and must not be quoted as though it described
+    the chapter. Same class of error as the unmatched comparison this file was built to
+    fix: a sample-size-sensitive statistic read as a measurement.
+    """
+    obs = dyn_cv(pars)
+    if obs is None or len(pars) < 4:
+        return None
+    jk = [dyn_cv(pars[:i] + pars[i + 1:]) for i in range(len(pars))]
+    jk = [v for v in jk if v is not None]
+    if not jk:
+        return None
+    return {"obs": obs, "jack_min": min(jk), "jack_max": max(jk), "drop": obs - min(jk)}
+
 def summarise(vals):
     v = sorted(x for x in vals if x is not None)
     if not v:
@@ -125,13 +146,35 @@ def load_external():
 
 # ---------------------------------------------------------------- main
 
+def load_chapter(path):
+    """A book chapter as the target, so any chapter gets the specimens' treatment."""
+    raw = Path(path).read_text(encoding="utf-8")
+    body = re.sub(r"^#.*$", "", raw, flags=re.M)          # drop the two heading lines
+    return S.paragraphs(body)
+
+
 def main():
-    specs = S.load_specimens()
-    spec_pars = S.paragraphs("\n\n".join(specs))
+    argv = sys.argv[1:]
+    target_name = "SPECIMENS"
+    if argv and argv[0] == "--chapter":
+        target_name = Path(argv[1]).stem
+        spec_pars = load_chapter(argv[1])
+    else:
+        specs = S.load_specimens()
+        spec_pars = S.paragraphs("\n\n".join(specs))
     K = len(spec_pars)
     target_lens = [len(p.split()) for p in spec_pars]
     spec_u = uniformity(spec_pars)
     spec_d = dyn_cv(spec_pars)
+
+    frag = fragility(spec_pars)
+    if frag:
+        verdict = ("ROBUST" if frag["drop"] < 0.10 else
+                   "FRAGILE — the number describes one paragraph, not the chapter")
+        print(f"LEAVE-ONE-OUT on {target_name}: dyn_range_CV={frag['obs']:.3f}  "
+              f"jack-min={frag['jack_min']:.3f}  jack-max={frag['jack_max']:.3f}  "
+              f"drop={frag['drop']:.3f}  -> {verdict}")
+        print()
 
     clayton, clawd = S.load_memory_corpora()
     clawd_pars = S.paragraphs("\n\n".join(clawd))
@@ -145,8 +188,8 @@ def main():
     for name, pars in load_external().items():
         arms[f"PD · {name}"] = (pars, None)
 
-    print(f"MATCHED NULL — K={K} paragraphs, length-matched to the specimens, B={B} draws")
-    print(f"SPECIMENS observed:  voice_uniformity={spec_u:.4f}   dyn_range_CV={spec_d:.3f}")
+    print(f"MATCHED NULL — K={K} paragraphs, length-matched to {target_name}, B={B} draws")
+    print(f"{target_name} observed:  voice_uniformity={spec_u:.4f}   dyn_range_CV={spec_d:.3f}")
     print()
     hdr = (f"{'corpus':22} | {'mode':10} | {'pool':>6} | {'unif p05':>8} | {'p50':>7} | "
            f"{'p95':>7} | {'spec %ile':>9} | {'dynCV p50':>9} | {'spec %ile':>9}")
