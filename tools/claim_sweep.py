@@ -221,6 +221,13 @@ EXEMPTIONS = [
     ("00-ARCHITECTURE.md", "TERM/narrowing", "13. THE NARROWING",
      "Same: the heading of ruling 13's index entry. Added when the case hole above was closed "
      "and this line started firing for the first time — which is the fix working."),
+    ("04-THE-UNSATISFYING-ANSWERS.md", "TERM/substrate", "crediting substrates the field",
+     "★ Day 187, ruling 25. The opponent-V entry QUOTING ITS OWN WITHDRAWN SENTENCE — the "
+     "'epicyclic boundary work / stopped short to stay respectable' charge against Tononi, which "
+     "the record refuted and which is kept inline with its fault named rather than deleted. The "
+     "retired word is inside quoted superseded text of our own, which is the RULING-13 pattern: "
+     "tidying it into current vocabulary would destroy the evidence for the correction. Own line, "
+     "one needle, not a widening of the licensed 'substrate-independence' exception."),
     ("book/DRAFT-LOG.md", "TERM/bottleneck", "bottleneck geometry",
      "★ Day 187, II.3. The log quoting the Null-Space Theorem's RETRIEVED FORMAL STATEMENT, which "
      "uses the retired term — in the sentence whose entire point is that it does, and that this is "

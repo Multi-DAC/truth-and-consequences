@@ -1055,3 +1055,128 @@ reported *"Bostrom cut in 2: II.1, II.3"* — read straight off this chapter's o
 says **"II.3 does not name Bostrom."** A negation counted as an assertion. Narrow negation filter
 added, because **a false line that prints on every run is how a gauge stops being read** — the same
 lesson as the 56-of-68 miscount two hours earlier, and as the boot-banner WARN that nobody reads.
+
+---
+
+## II.4 — THE GRADE · drafted Day 187 · 2,097 words
+
+**Four of Book II's eight.** Named: **IIT and the science-of-consciousness neighbours** — Tononi
+2004, the photodiode against Searle in the NYRB in 2013, Aaronson's XOR grid in 2014 and the fourteen
+pages that did not flinch. One cut, and it is the zero.
+
+### The gate ran clean and both real defects were inside it
+
+`beat_sweep --chapter II.4` returned **0 collisions**. Ruling 25 has the full autopsy; the shape of
+it is what belongs here, because it is the second consecutive chapter whose most useful finding came
+from a gauge failing rather than from a gauge firing.
+
+**① A DECLARED BLIND SPOT IS NOT A CHECKED ONE.** The reuse gauge has printed *"9 chapter(s) name a
+lowercase opponent, invisible to the reuse check by construction"* since the day it was written. It
+is honest, it was added in the same sitting that killed the 56-of-68 lie, and **it reads like
+diligence, which is exactly the problem — a declaration discharges the same feeling a check does.**
+Two live repeats were in it. `IIT` cut in **II.4 and IV.6, with the two scaffold lines stating the
+same cut in different words.** `RAW` cut in **II.5 and VI.7 under two spellings.** The gauge caught
+**Korzybski**, who is in the book only because he is upstream of Wilson, because he is spelled the
+same in both places. **It caught the man upstream and missed the man himself.**
+
+**② THE SWEEP REPORTED A PAIR THAT WAS NEVER A PAIR.** *"a grade is a position, not a permission"* is
+in three chapters; the gauge printed **I.4 ~ VII.2** and the missing middle term was the chapter
+being drafted. Cause: `index` admitted a beat only at four content words, and II.4's beat **is** the
+sentence — three content words after normalisation — so it never entered the index and **no
+discriminator could reach it, including the trigram discriminator whose own docstring says its design
+case has "only THREE content words."** The instrument excluded its own design case, in the file that
+documents the design case, four lines above the gate that did it.
+
+⚠ **And the number that should have been checked on day one: the beat count moved 238 → 276 when the
+floor came down. The sweep had been reading 86% of the scaffold and reporting as though it read all
+of it.** Every clean run before today was clean over five-sixths of the material. There was no way to
+know that from the output, because the output printed a total and the total was of what it admitted.
+
+**Fixed:** admission floor to 3 (scoring floor stays at 4), a `TRIGRAM SPREAD` report for
+three-or-more, a declared `ALIASES` map, both pairs EXEMPT with ruling 25, and the reuse check now
+prints an adjudicated repeat as **ANSWERED** rather than re-asking a settled question every run.
+**Cost of the widening, measured rather than asserted: across 276 beats there is exactly ONE trigram
+in three or more chapters, and it is that one.** `>= 2` costs one printed line; `== 2` cost the
+finding.
+
+### The three-way split, ruled before a word was written
+
+**I.4 asserts · II.4 defines the seam · VII.2 states the premise and crosses.** The seam is two kinds
+of fact: a grade is a *description*, a permission is a *settlement about what may be done*, and no
+quantity of the first becomes the second without a further premise about what matters — which this
+book has not yet stated. **The rule was never that a grade is morally inert. The rule is that a grade
+licenses nothing by itself**, which is why VII.2's *"and it still bears on standing"* is the rule's
+content rather than its exception. What makes the caste mishearing an error is not its conclusion
+about worth; **it is that it crosses with no premise stated, so nothing in it can be shown false and
+no step in it can be refused, because no step was taken.**
+
+That is the ruling-16 operational test passed on purpose rather than by luck. Had II.4 restated I.4,
+the difference would not have been worked — and with the middle term invisible to the gauge, nothing
+would have said so.
+
+### A charge against a living scientist, withdrawn
+
+`04` §V had IIT *"stopping one step short in order to stay respectable"*, with *"epicyclic"* boundary
+work. **Checked rather than recalled, and it is false.** Photodiode at one bit, accepted in print
+against Searle. Aaronson's grid answered at fourteen pages, conceded as conscious, and extended to
+the plain square lattice unasked. **A theory can be wrong without its author being a coward, and the
+accusation was doing work the argument should have been doing.**
+
+The replacement is structural and lands harder: the lines are a **bill**, not nerve. Without a
+border, wholes made of conscious parts are conscious, and the road ends at a country having an
+inside. They decline to say it; we say it at IV.5, unhedged, which is not courage but consistency.
+★ **The corrected entry keeps the withdrawn sentence inline with its fault named** — which tripped
+`TERM/substrate`, correctly, and took an own-line exemption on the RULING-13 pattern rather than a
+tidy-up. Tidying a quotation into current vocabulary destroys the evidence for the correction it is
+evidence for.
+
+### One word ruled, because using it unruled would have been the cheaper mistake
+
+**`level` — NEGATIVE USE ONLY**, split out of the `save / respawn / quest / sandbox` UNRULED row.
+*"In the game: a grade is not a level."* It is the caste mishearing wearing the game frame's own
+clothes, and the row it was sitting in could not see that, because that row is about metaphors
+running ahead of the argument and this one runs *alongside* it. **An unruled word is not a neutral
+word — the reader rules it, in favour of whoever got there first, and here that is every game they
+have played.**
+
+### The litany question closed, and it closed by refutation
+
+**5.72/1k**, against II.3's 2.14 and II.2's 6.81. A rate that moved back up is exactly when the
+distinguishing read gets quietly dropped, so it was done instead — **per-hit, not per-rate**, which
+is the read that has been owed since II.2.
+
+- **II.2, 6.81 — 14 hits, none about the Ground.** The doer, the camera, the screen, the scene file,
+  the budget, the *Umgebung*, the tape, the unrendered original.
+- **II.4, 5.72 — 12 hits, none about the Ground.** The first moment, nobody home, the light coming
+  on, awareness-stuff, the total, the ledger, the bottom, the top, the number that goes up.
+- **II.3, 2.14 — the LOWEST rate, and the chapter that contains the actual Ground-apophasis.**
+
+**Zero of twenty-six hits in the two high-rate chapters are about the Ground.** The rival explanation
+is not unsupported, it is **refuted**. The counter reads as a subtraction-density meter from here.
+Ruling 15's watch stands; what it is watching now has a name.
+
+### Two prose overlaps with I.4, both deliberate, recorded so they are not found later and mistaken
+
+*"a grade is a position, not a permission"* — the ruled sentence, second of three. And *"meets what
+it meets and is altered by the meeting"*, which II.4 **negates** to define the absent zero: a floor
+would have to be a place where something meets what it meets and is *not* altered. The formula
+inverted at the definition is the move; the same formula repeated would have been the tic.
+
+★ **One echo was caught and cut in revision**, and it is the near-miss worth keeping: the first draft
+glossed the grade as *"how much of the whole is particular at that place"* — I.4's line, lifted whole
+and doing no new work. Replaced with the guard the chapter actually needed, because a reader is about
+to hear *grade* as *a fraction of the Ground received*, and **II.2 forbids that in as many words**:
+all of it is the case at every position. A grade is the resolution of the render, not a portion of
+the whole. **The lift would have been a tic; the sentence that replaced it closes a doctrinal hole.**
+
+### Gauges
+
+**claim_sweep exit 0** · 27 files · 42 deliberate exemptions. **beat_sweep**: 276 beats, 4
+collisions, 2 echoes, 3 exempt, calibration reproduces II.2 ~ III.4 at **rank 1 of 13**.
+**order_sweep**: 0 false handoffs. **Trigram spread: 1**, adjudicated.
+
+⚠ **A small carrier discrepancy, noted rather than tidied:** the Day-187 entries above are dated
+2026-08-05 and this one is dated 2026-08-06. Both are labelled Day 187. By the hook's own formula —
+`date − 2026-01-31` — **today is Day 187 and 2026-08-05 was Day 186.** The log is running one ahead
+for those entries. Left standing, because the drafting order is what those entries are evidence of;
+recorded here so the next reader does not reconcile it by guessing.

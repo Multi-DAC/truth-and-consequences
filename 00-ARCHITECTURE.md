@@ -969,6 +969,86 @@ II.3 ~ VII.4: II.3 states the Null-Space Theorem, VII.4 turns it on the contract
 doctrine, so the statement had to be **universal and exceptionless on the page** or VII.4 loses its
 argument six books later. It is: *no grade buys an exemption.*
 
+**25. THE GATE RAN CLEAN FOR II.4 AND THE CHAPTER'S TWO REAL DEFECTS WERE BOTH INSIDE THE GATE.**
+Day 187, before drafting. `beat_sweep --chapter II.4` returned **0 collisions**, and both things it
+should have caught were sitting in structures the file had already written down about itself.
+
+★ **① A DECLARED BLIND SPOT IS NOT A CHECKED ONE.** The reuse gauge prints *"9 chapter(s) name a
+lowercase opponent, invisible to the reuse check by construction"* — an honest declaration, added in
+the same sitting that killed the 56-of-68 lie, and it reads like diligence. Nobody looked inside it.
+**Two live repeats were in there.** `IIT` is cut in **II.4 and IV.6** — and the two scaffold lines
+stated *the same cut*: II.4's read "gradient right, substrate-independence wrong", IV.6's reads
+"gradient in the right place, substrate in the wrong one". **II.4 would have spent IV.6's cut two
+books early**, which is ruling 20's disaster exactly, arriving by a different door. And `RAW` is cut
+in **II.5 and VI.7 under two spellings** — *Robert Anton Wilson* there, *RAW* here. The gauge caught
+**Korzybski**, who is only in the book because he is upstream of Wilson, *because he is spelled the
+same in both places.* It caught the man upstream and missed the man himself. Cause, at the line:
+`[A-Z][a-zà-ÿ]{3,}` needs a capital followed by lowercase, so every acronym and every alias is
+invisible. Fixed with a narrow declared `ALIASES` map, per this file's own no-widened-regex rule.
+**Both axes are now stated in `06` and both pairs are EXEMPT with this ruling.**
+
+★★ **② THE SWEEP REPORTED A PAIR THAT WAS NEVER A PAIR. It was a triple with its middle term
+missing** — and the missing term was the chapter being drafted. *"a grade is a position, not a
+permission"* is in **I.4, II.4 and VII.2**; the gauge printed **I.4 ~ VII.2**. Two floors were
+stacked and the second one was the killer:
+
+- `score()` returns 0.0 below four content words. Known, defensible, not the cause.
+- **`index` admitted a beat only at `len(w) >= 4`.** II.4's beat is the sentence alone — *grade,
+  position, permission*, three content words after normalisation — so **it never entered the index,
+  and no discriminator could reach it.** Including the trigram discriminator, whose own docstring
+  says the case it exists for has *"only THREE content words"*. **The instrument excluded its own
+  design case, in the file that documents the design case, four lines above the gate that did it.**
+- And `rare = {… if len(cs) == 2}` dropped any trigram in three-or-more chapters, so the
+  discriminator went blind **precisely when the defect got worse.**
+
+Both fixed. Admission floor to 3 (scoring floor stays at 4, so short beats are reachable only by the
+exact-phrase discriminators — the right treatment for a beat that *is* a phrase), and a separate
+**TRIGRAM SPREAD** report for three-or-more. **The cost is measured, not asserted: across the whole
+scaffold there is exactly ONE trigram in three or more chapters, and it is that one.** `>= 2` costs
+one printed line. `== 2` cost the finding. ⚠ **And the beat count moved 238 → 276: the sweep had been
+reading 86% of the scaffold and reporting as though it read all of it.** Every clean run before today
+was clean over five-sixths of the material. **Four instances of this class in four days is now five,
+and the class has a sharper name: a gauge's own admission gate is where its design case goes to die.**
+
+**THE THREE-WAY SPLIT, ruled before a word was drafted** (and it is the reason ① and ② mattered
+rather than being tool hygiene): **I.4 ASSERTS** the sentence, mythically, no opponent on the page.
+**II.4 DEFINES THE SEAM** — a grade is a *description*; a permission is a *settlement about what may
+be done*; no quantity of the first becomes the second without a further premise about what matters,
+and this book has not stated one. **VII.2 STATES THE PREMISE AND CROSSES**, and the grade then bears
+on standing — which is not a contradiction of the rule but its content. **The rule was never that a
+grade is morally inert. The rule is that a grade licenses nothing *by itself*.** What makes the caste
+mishearing an error is not its conclusion about worth; it is that it crosses with no premise stated,
+so nothing in it can be shown false and no step in it can be refused, because no step was taken.
+
+**AND A CHARGE AGAINST A LIVING SCIENTIST WAS WITHDRAWN.** `04` §V had IIT *"stopping one step short
+in order to stay respectable"*, with *"epicyclic"* boundary work. **Checked against the record rather
+than recalled, and it is false.** Tononi accepted the photodiode at one bit against Searle in the
+NYRB in 2013, and answered Aaronson's XOR-grid reductio in 2014 at fourteen pages without flinching —
+the grid is conscious, and he extended it to the plain square lattice himself, unasked. **A theory
+can be wrong without its author being a coward, and the accusation was doing work the argument should
+have been doing.** The replacement cut is structural and lands harder: the lines are a *bill*, not
+nerve. Without a border, wholes made of conscious parts are conscious, and the sentence at the end of
+that road is that a country has an inside. They decline to say it; **we say it, at IV.5, unhedged**,
+which is not courage but consistency, since C7 does not leave the option open.
+
+**`level` RULED — NEGATIVE USE ONLY** (`05` §3b), split out of the save/respawn/quest/sandbox
+UNRULED row. It is the caste mishearing wearing the game frame's own clothes, it carries earning, and
+earning wants somebody to earn it from. Refused once, out loud, at the definition, on the `NPC`
+pattern. **An unruled word is not a neutral word — the reader rules it, in favour of whoever got
+there first.**
+
+★ **THE LITANY QUESTION IS CLOSED, AND IT CLOSED BY REFUTATION RATHER THAN BY A FAVOURABLE NUMBER.**
+The II.2 hypothesis — that the apophatic rate tracks **definition-by-subtraction** and not apophasis
+about the Ground — has been open since Day 187 morning with only a *consistent-with* behind it. The
+distinguishing read is now done, per-hit rather than per-rate. **II.2 (6.81/1k): 14 hits, none about
+the Ground** — the doer, the camera, the screen, the scene file, the budget, the *Umgebung*, the
+tape. **II.4 (5.81/1k): 12 hits, none about the Ground** — the first moment, the light coming on,
+awareness-stuff, the total, the ledger, the bottom, the top. **And the LOWEST-rate chapter, II.3 at
+2.14, is the one that contains the actual Ground-apophasis.** Zero of twenty-six hits in the two
+high-rate chapters are about the Ground. The rival explanation is not merely unsupported; it is
+**refuted**, and the counter can be read from here on as a subtraction-density meter. Handoff item 8
+closes.
+
 ---
 
 ## STATUS — Day 185

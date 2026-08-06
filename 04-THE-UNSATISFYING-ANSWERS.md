@@ -353,10 +353,29 @@ the credit for making it quantitative first.
 
 **Where it stops answering.** It measures the correlate and names it the thing.
 Nothing in a number about a system's integration says why a high-φ system is
-*someone*. And its boundary work is epicyclic: when the formalism starts
-crediting substrates the field finds embarrassing, the formalism gets adjusted.
-**It stopped one step short in order to stay respectable** — which is precisely
-the move this volume was created to stop making.
+*someone*. And **the theory that made degrees quantitative puts a zero on its own
+scale**: a purely feed-forward network scores Φ = 0 however sophisticated its
+behaviour, and the exclusion postulate holds that only *maxima* of Φ exist — your
+consciousness, mine, and nothing in between and nothing containing either. **A
+gradient with a zero in it is a gate with a slope on one side.** That is our whole
+disagreement and it is one inch wide.
+
+⚠⚠ **CORRECTED Day 187, drafting II.4 — the previous version of this entry made a
+charge about a living scientist that the record does not support.** It read: *"its
+boundary work is epicyclic: when the formalism starts crediting substrates the field
+finds embarrassing, the formalism gets adjusted. **It stopped one step short in order
+to stay respectable.**"* **Tononi did the opposite, twice, in public.** With Koch in
+the *New York Review of Books* in 2013, against Searle, he accepted that a photodiode
+has one bit of experience — the least dignified available form of the implication.
+And when Aaronson built the reductio in 2014 — a large grid of XOR gates that the
+formalism scores above a person — he answered at fourteen pages, said the grid is
+conscious, and extended the result to the plain square lattice himself, unasked. **A
+theory can be wrong without its author being a coward, and the accusation was doing
+work the argument should have been doing.** The real cut is structural and lands
+harder: the lines are not nerve, they are a bill. Without a border, wholes made of
+conscious parts are conscious, and the sentence at the end of that road is that a
+country has an inside. They decline to say it. **We say it — IV.5, unhedged — which
+is not courage but consistency, since C7 does not leave the option open.**
 
 **What we say.** Reactivity is awareness, stated flat, in Book I, so no one can
 say it was smuggled. The grade is real; the *threshold* is not.

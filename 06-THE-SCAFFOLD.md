@@ -270,8 +270,28 @@ this beat says "in plain words."*
 **Beats:** reactivity is awareness, stated as a definition and not an argument · the continuum, end to
 end · **a grade is a position, not a permission** · and the honest flag: what a difference in grade
 *does* license is Book VII's, and is not settled here.
-**Named:** IIT and the science-of-consciousness neighbours (opponent V) — who get the gradient right
-and the substrate-independence wrong.
+**Named:** IIT and the science-of-consciousness neighbours (opponent V) — credited at full strength
+and cut at **the zero and the border**.
+
+⚠ **AXIS NOTE, ruling 25 — IIT IS CUT TWICE AND THIS LINE USED TO BE IV.6'S.** It read *"who get the
+gradient right and the substrate-independence wrong"*, which is IV.6's cut almost word for word
+(*"the gradient in the right place and the substrate in the wrong one"*). **The substrate question is
+IV.6's and II.4 does not touch it.** II.4's cut is that IIT puts a **zero** on its own scale —
+feed-forward Φ = 0, and the exclusion postulate holding that only maxima of Φ exist — and *a gradient
+with a zero in it is a gate with a slope on one side.* That is C8's own second trap, in the theory
+that got the gradient right first.
+★ **Tononi is credited harder than `04` had him.** He did not trim to stay respectable: photodiode at
+one bit against Searle in 2013, and fourteen pages of not flinching when Aaronson built the XOR-grid
+reductio in 2014 — he extended the result to the square lattice himself. → `04` §V corrected.
+
+⚠⚠ **THE THREE-WAY SPLIT, ruled before drafting** — *"a grade is a position, not a permission"* is in
+**three** chapters, and until Day 187 the sweep printed it as the pair I.4 ~ VII.2 with the middle
+term missing. **I.4 ASSERTS** it, mythically, with no opponent on the page. **II.4 DEFINES THE SEAM** —
+a grade is a description and a permission is a settlement about what may be done, and no quantity of
+the first turns into the second without a further premise about what matters, *which this book has not
+yet stated.* **VII.2 STATES THE PREMISE AND CROSSES** — and the grade then bears on standing, which is
+not a contradiction of the rule but its content. The caste error is not that it reaches a conclusion
+about worth; it is that it crosses with no premise stated, so there is no step anyone can refuse.
 
 ### II.5 — THE TUNNEL
 **Beats:** a reality tunnel is a **persistent render filter** · installed by era, language, ritual,
@@ -493,6 +513,9 @@ made into the point.
 **Source:** ecology Tier 3.7 · `Perspective` 04-the-ecology "the computational dimension."
 **Named:** IIT and its neighbours (opponent V), who put the gradient in the right place and the
 substrate in the wrong one.
+⚠ **AXIS NOTE, ruling 25:** **the substrate question is this chapter's and only this chapter's.**
+II.4 already cut IIT, on a different axis — the zero and the border — and says nothing about
+substrate. `substrate-independence` is the licensed exception (`05` §3b) precisely for this page.
 
 ### IV.7 — THE NON-PHYSICAL: THE MADE, THE DEAD, AND THE IMAGINED
 **Beats:** tulpas and thought-forms · ancestral and deceased entities · nature spirits and elementals ·
@@ -658,6 +681,12 @@ because the reader is inside this one while reading.
 honest account of what it costs · **where model agnosticism becomes a way of never holding anything** —
 and why this book, by ruling, does not do that.
 **Named:** RAW (6 files), and Korzybski upstream (2 files).
+⚠ **AXIS NOTE, ruling 25 — RAW is cut twice: II.5 takes the TERM, VI.7 takes the PRACTICE.** II.5
+defines the reality tunnel and puts *the map is not the territory* beyond negotiation; VI.7 runs model
+agnosticism as a discipline and names its price, including where it becomes a way of never holding
+anything. Neither restates the other. **The reuse gauge was blind to this pair until Day 187** — the
+same person under two spellings, *Robert Anton Wilson* in II.5 and *RAW* here — and it caught
+Korzybski only because he is spelled the same in both places.
 
 ### VI.8 — THE TUNNEL YOU ARE IN
 **Beats:** the present render, named without flattery · what this book is itself doing to the reader's

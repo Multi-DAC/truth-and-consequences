@@ -89,6 +89,39 @@ EXEMPT = {
     ("II.2", "III.4"): "ruling 20, ADJUDICATED: II.2 drafted as the definitional half and keeps "
                        "the seed formula; III.4 keeps the from-inside identity thesis and is ON "
                        "NOTICE for absorption into III.3 when Book III is drafted.",
+    ("II.4", "IV.6"): "ruling 25, ADJUDICATED: IIT is cut TWICE and the axes are now declared. "
+                      "II.4 cuts THE ZERO AND THE BORDER — a gradient with a zero in it is a gate "
+                      "with a slope on one side, and the exclusion postulate decides who is there. "
+                      "IV.6 cuts THE SUBSTRATE, answered from the Ground rather than from "
+                      "engineering. Both scaffold lines said 'gradient right, substrate wrong' "
+                      "until ruling 25; II.4 would have spent IV.6's cut two books early.",
+    ("II.5", "VI.7"): "ruling 25, ADJUDICATED: RAW is cut twice and the axis is the term against "
+                      "the practice. II.5 defines the reality tunnel and takes the map/territory "
+                      "line off Korzybski; VI.7 runs model agnosticism as a discipline and names "
+                      "its price. Neither restates the other.",
+}
+
+
+# ALL-CAPS NAMES AND ALIASES — the reuse check's declared blind spot, closed.
+#
+# `_names_in` matches [A-Z] followed by three or more LOWERCASE letters, which is right for
+# surnames and blind BY CONSTRUCTION to `IIT` and `RAW`. That blindness was declared on the day
+# this file was written — *"9 chapter(s) name a lowercase opponent, invisible to the reuse check
+# by construction"* — and then never looked into. Two live repeats were sitting inside it:
+# **IIT cut in II.4 and IV.6**, with near-identical stated cuts, and **RAW cut in II.5 and VI.7
+# under two different spellings** ("Robert Anton Wilson" / "RAW"), which is the same defect
+# wearing an alias instead of an acronym. Korzybski was caught only because he is spelled the
+# same in both places — the gauge caught the man upstream and missed the man himself.
+#
+# ★ A DECLARED BLIND SPOT IS NOT A CHECKED ONE. The declaration reads like diligence and
+# discharges the same feeling, which is exactly why it survived a day of the file being read.
+#
+# Narrow and explicit, per this file's own rule: a known-vocabulary map, never a widened regex.
+ALIASES = {
+    "IIT": "IIT",
+    "RAW": "Robert Anton Wilson",
+    "Robert Anton": "Robert Anton Wilson",
+    "Wilson": "Robert Anton Wilson",
 }
 
 
@@ -174,7 +207,11 @@ def _names_in(chunks):
                 continue
             if t.isdigit():          # `03`, `05` — file references, not people
                 continue
-            out.add(t)
+            out.add(ALIASES.get(t, t))
+        # the acronyms the pattern above cannot see at all
+        for token, canon in ALIASES.items():
+            if re.search(rf"(?<![A-Za-z]){re.escape(token)}(?![A-Za-z])", chunk):
+                out.add(canon)
     return out
 
 
@@ -221,12 +258,24 @@ def named_report(chs):
     if not repeats:
         print("  no opponent is cut in more than one chapter.")
         return len(bare)
+    # An adjudicated repeat must print as ANSWERED, not as a question. Otherwise every run
+    # re-asks a settled question, and a gauge that re-asks settled questions is one nobody
+    # reads — the 56-of-68 lesson, arriving in the other half of the same file.
+    open_ = 0
     for n, cids in sorted(repeats.items(), key=lambda kv: (-len(kv[1]), kv[0])):
-        print(f"  {n:<28} cut in {len(cids)}: {', '.join(cids)}")
+        note = None
+        for a, b in itertools.combinations(sorted(set(cids)), 2):
+            note = note or EXEMPT.get((a, b)) or EXEMPT.get((b, a))
+        if note:
+            print(f"  {n:<28} cut in {len(cids)}: {', '.join(cids)}  — ANSWERED")
+            print(f"  {'':<28} {note[:96]}…")
+        else:
+            open_ += 1
+            print(f"  {n:<28} cut in {len(cids)}: {', '.join(cids)}  ?? NO AXIS STATED")
     print()
     print("  Each repeat needs a NEW AXIS stated in the scaffold, per II.2's Bostrom note.")
     print("  A repeat with no axis note is the reader meeting one argument twice.")
-    return len(repeats)
+    return open_
 
 
 def words(s):
@@ -260,7 +309,17 @@ def sweep(text, focus=None, quiet=False):
     for cid, title, body in chs:
         for kind, t in beats(body):
             w = words(t)
-            if len(w) >= 4:
+            # ⚠ THE ADMISSION FLOOR WAS 4 AND THAT IS WHERE THE NEEDLE ACTUALLY DIED.
+            # A beat whose entire content is one trigram — II.4's *"a grade is a position, not
+            # a permission"*, three content words after normalisation — never entered the index,
+            # so NO discriminator could reach it, including the trigram discriminator built
+            # for three-content-word cases. The docstring below says in as many words that the
+            # case that matters has "only THREE content words"; the gate two lines up threw
+            # those away before it ran. **The instrument excluded its own design case.**
+            # Admit at 3; `score()` keeps its own floor at 4, so a short beat still cannot
+            # produce a noisy Jaccard — it is reachable only by the exact-phrase discriminators,
+            # which is the correct treatment for a beat that IS a phrase.
+            if len(w) >= 3:
                 index.append((cid, title, kind, t, w, grams(w)))
 
     hits = []
@@ -285,7 +344,20 @@ def sweep(text, focus=None, quiet=False):
     for cid, _, kind, t, w, _ in index:
         for g in grams(w, 3):
             tri.setdefault(g, set()).add(cid)
+    # ⚠⚠ `== 2` WAS THE BUG, AND IT IS THE THIRD TIME THIS FILE'S OWN NORMALISATION HID THE
+    # NEEDLE. A trigram in THREE chapters fell out of `rare` entirely, so the discriminator
+    # built for the subtle case went blind precisely when the defect got WORSE. Measured on
+    # Day 187: *"grade position permission"* sits in I.4, II.4 and VII.2 — and the sweep had
+    # been printing it as the PAIR I.4 ~ VII.2, because II.4's beat is three content words and
+    # dies on the Jaccard's `len(sa) < 4` floor. **The pair it reported was never a pair. It
+    # was a triple with its middle term missing**, and the middle term is the one that decides
+    # what the other two are allowed to say.
+    #
+    # The widening is not a threshold retreat and the cost is measured rather than asserted:
+    # across 238 beats there is EXACTLY ONE trigram in three or more chapters, and it is that
+    # one. `>= 2` costs one line on the current scaffold. `== 2` cost the finding.
     rare = {g: cs for g, cs in tri.items() if len(cs) == 2}
+    spread = {g: cs for g, cs in tri.items() if len(cs) >= 3}
     seen = {(h[3], h[6]) for h in hits} | {(h[6], h[3]) for h in hits}
     for g, cs in rare.items():
         ca, cb = sorted(cs)
@@ -299,7 +371,26 @@ def sweep(text, focus=None, quiet=False):
         seen.add((ca, cb))
 
     hits.sort(key=lambda h: -h[0])
-    return chs, index, hits
+    return chs, index, hits, spread
+
+
+def spread_report(spread, focus=None):
+    """A move made in THREE OR MORE chapters. Never a pair — a spread is a different object,
+    and reporting it as pairs is what let the grade sentence read as a two-way split for a day."""
+    rows = []
+    for g, cs in spread.items():
+        if focus and focus not in cs:
+            continue
+        rows.append((sorted(cs), " ".join(g)))
+    if not rows:
+        return 0
+    print()
+    print("TRIGRAM SPREAD — the same move in three or more chapters")
+    print("  Not a pair. A three-way split needs THREE stated jobs, and the middle one is")
+    print("  where the other two get their licence.")
+    for cids, g in sorted(rows, key=lambda r: -len(r[0])):
+        print(f"  {g:<32} in {len(cids)}: {', '.join(cids)}")
+    return len(rows)
 
 
 def report(chs, index, hits, quiet=False):
@@ -386,8 +477,9 @@ def main():
         out = sweep(text, focus=args.chapter)
         if out is None:
             return 2
-        chs, index, hits = out
+        chs, index, hits, spread = out
         report(chs, index, hits)
+        spread_report(spread, focus=args.chapter)
         found = any(tuple(sorted((h[3], h[6]))) == ("II.2", "III.4") for h in hits)
         print()
         if found:
@@ -407,8 +499,9 @@ def main():
     out = sweep(SCAFFOLD.read_text(encoding="utf-8"), focus=args.chapter)
     if out is None:
         return 2
-    chs, index, hits = out
+    chs, index, hits, spread = out
     rc = report(chs, index, hits)
+    spread_report(spread, focus=args.chapter)
     print()
     print("NAMED-OPPONENT REUSE — who is cut in more than one chapter")
     named_report(chs)
