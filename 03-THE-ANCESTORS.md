@@ -167,9 +167,33 @@ a category error. Removing the divine player is what makes **there are no NPCs**
 than decorative. *The theology that takes God out of the game is the one in which the other
 players are real.*
 
-→ **Books I (the §9 cut, in the myth's register), III (the game frame's warm ancestor,
-immediately after the Bostrom cut — the two priors are cut in the same chapter, one cold and
-one warm), V (the traditions), VII (the no-NPC ethics, which is downstream of this cut and
+★★ **AND THERE IS A SECOND CUT — ruling 59, Day 187, found in the primary text while drafting
+III.2.** Everything above cuts on **psychology at the perimeter**. Four sentences after the
+hide-and-seek passage, in the same children's story, *The Book* ch. 1 states **Trap 5** outright:
+*"when the game has gone on long enough, all of us will wake up, stop pretending, and remember that
+we are all one single Self."* **The many are a phase; the story resolves by their ending.** That is
+the union telos refused on Day 185 (`00` ruling 3a-ter) — refused, at the time, against the mystical
+literature *generically*, without knowing that Book III's one named ancestor says it in the same
+breath as the frame we took from him. **So the Watts cut is two cuts and III.2 makes both**, and
+Trap 5's early guard is no longer prudence against a tendency: it guards against a sentence the
+reader may actually have read.
+
+⚠ **A correction owed to the same drafting: the popularizer is not the tradition, and here the
+tradition is cleaner.** Śaṅkara's second analogy on *Brahma Sūtra* II.1.33 — *the process of
+inhalation and exhalation is going on without reference to any extraneous purpose, merely following
+the law of its own nature* — **contains no psychology whatsoever.** Nothing in it is bored, wants,
+waits, or has forgotten. **The boredom is Watts's addition, not Vedānta's**, and III.2 says so.
+Rule 5b's defect at both links turns out to be asymmetric: a popularizer we were missing and then
+had to cut, and a source we were missing and largely agree with.
+
+→ **Books I (the §9 cut, in the myth's register), III (the game frame's warm ancestor — ⚠
+**CORRECTED Day 187, ruling 62.** This read *"immediately after the Bostrom cut — the two priors
+are cut in the same chapter, one cold and one warm."* **Ruling 47(a) made that false a day before
+this line was read**: Bostrom is spent in **II.1** and III.1 is the demiurge chapter, so Watts is
+cut alone, in **III.2**, and the cold/warm pairing no longer exists in any single chapter. The
+pairing survives one level up — III.1 cuts the reader's *enemy* and III.2 the reader's *friend*,
+adjacent and antithetical — which is better than what this line claimed), V (the traditions),
+VII (the no-NPC ethics, which is downstream of this cut and
 of nothing else), VIII (practice).** He also anchors the answer to *"isn't this just
 mysticism?"*: **yes, and here is where it differs from the most famous version, by name, in
 one sentence.**
@@ -421,13 +445,25 @@ a full lit window with a day behind it."* **Quarry it. It is III.5's thesis, alr
 - ★ **ROGER CAILLOIS — the taxonomy.** *agôn / alea / mimicry / ilinx*, on a *paidia↔ludus* axis. A
   ready-made classification of **modes of engagement**, which Book III currently lacks and Book VIII
   needs. → **III.6, VIII.2**
-- ★ **EUGEN FINK — *Spiel als Weltsymbol*.** The phenomenological tradition's book-length treatment
-  of play as the mode in which world-openness appears. ⚠ **Verify at drafting:** I hold that Fink
-  also argues *against* the cosmic-player picture, which would make him a direct ancestor of ruling
-  3a-bis — **I have not read this against a source and it is recorded as unverified.** → **III.2**
+- ★★ **EUGEN FINK — *Spiel als Weltsymbol* (1960).** The phenomenological tradition's book-length
+  treatment of play as the mode in which world-openness appears. ✅ **THE FLAG IS RESOLVED, Day 187,
+  and the hunch was right: Fink calls world-play *"a game without a player."*** He is a direct
+  ancestor of ruling 3a-bis, and a startling one — a European phenomenologist reaching our exact
+  conclusion **six years before Watts published the opposite**, in the same decade, on the same
+  frame. ⚠ **EVIDENCE GRADE, stated because it decides where he may appear:** verified **at second
+  hand** — Stuart Elden's *Notre Dame Philosophical Reviews* notice of the Moore/Turner translation,
+  quoting the phrase with a page cite (p. 206). **That is a reviewer quoting a primary, not the
+  primary read.** Under ruling 46 it is therefore **not admissible in shipped prose** and III.2 does
+  not use it. → **Book III header or III.8, and only after p. 206 has been read.** *(Ruling 63.)*
 - ★ ***LĪLĀ* — the source Watts transmitted, and rule 5b's defect at BOTH links.** The popularizer
-  is absent *and* the doctrine is absent. It is stated at full strength in III.2 and then cut on the
-  same ground Watts is: **līlā needs a Player who forgets, and forgetting is an event.** → **III.2, V**
+  was absent *and* the doctrine was absent. ✅ **BOTH CLOSED IN III.2, Day 187, on primary sources**
+  — *Brahma Sūtra* II.1.33 (*lokavat tu līlākaivalyam*) in two independent translations, plus
+  Śaṅkara's bhāṣya. ⚠ **The cut moved during drafting and the old wording here was the weaker
+  version.** It read: *"cut on the same ground Watts is: līlā needs a Player who forgets, and
+  forgetting is an event."* True, and it concedes too much — it accepts Watts's reading of *līlā* as
+  what *līlā* is. **Śaṅkara's own second analogy has no forgetter in it, no boredom and no wish**,
+  so the cut is not against *līlā* at all: **it is against the genitive.** Play, yes — nobody's
+  play. → **III.2 (spent), V**
 
 ⚠ **What this changes about Book III's status.** `06` had it as *"the most heavily new-written book
 in Part One"* — true, and now for a second reason. It is not merely unquarried; **it is the one book

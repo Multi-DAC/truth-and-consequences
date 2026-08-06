@@ -99,8 +99,10 @@ catastrophe. A single sentence in V.6 can hand the whole book to Trap 1 while so
 > **Canonical:** God is the name of what C1 describes — not the server, not the developer, not
 > the engine, not the map, and not the player.
 
-**Establishes:** I.6 b3 (the naming) · II.1 · II.8 · **III.1 (the *developer* denial, named)**
-**Depends:** III.2 · III.3 · III.8 · IV.8 · V.1–V.10 · VI.7
+**Establishes:** I.6 b3 (the naming) · II.1 · II.8 · **III.1 (the *developer* denial, named)** ·
+**III.2 (the *player* denial, named — the fifth and last of the five, and the only one cut against
+a friend)**
+**Depends:** III.3 · III.8 · IV.8 · V.1–V.10 · VI.7
 **Trap:** each of the five smuggles a different error, and they are not interchangeable —
 **server** (a substrate beneath the render), **developer** (outside, prior, intentional — three
 falsehoods in one noun), **engine** (a process in time), **map** (a representation-*of*),
@@ -112,8 +114,11 @@ Watts's; see C6.
 > **Canonical:** Playing requires not-knowing, stakes, duration, and an inside for the stakes to
 > matter to. The Ground has none of these. **The many play; the One is what playing is made of.**
 
-**Establishes:** I.6 b4
-**Depends:** III.2 · III.5 · III.7 · V.9 · V.10 · VII.2 · VII.6 · VIII.1 · VIII.6
+**Establishes:** I.6 b4 · ✅ **III.2, Day 187 — the full argument, on primary sources.** *Brahma
+Sūtra* II.1.33 and Śaṅkara's bhāṣya for *līlā* at full strength; Watts's *The Book* ch. 1 for the
+version the reader actually holds. **The cut is not made against *līlā*; it is made against the
+genitive.** Play, yes — nobody's play.
+**Depends:** III.5 · III.7 · V.9 · V.10 · VII.2 · VII.6 · VIII.1 · VIII.6
 **Trap:** Watts's hide-and-seek in any costume — *līlā* as divine play, "God playing at being
 you", the One wearing every face. It arrives wearing warmth, which is why Trap 3's usual
 detectors miss it.

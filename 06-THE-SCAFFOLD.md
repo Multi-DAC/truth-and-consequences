@@ -688,6 +688,23 @@ two axes, both stated before either was drafted (ruling 24's procedure) — and 
 that advance declaration has paid, because it is the reason a re-scoped III.1 had somewhere to go.
 
 ### III.2 — THE GAME THAT IS PLAYING YOU
+✅ **DRAFTED Day 187 · 2,060 words · `book/III-02-the-game-that-is-playing-you.md`.** All four beats
+land. **Primary sources only, five quotations, each cross-checked against a second digitisation
+before it was written in** — the table is in `DRAFT-LOG`. *Brahma Sūtra* II.1.33 in **two independent
+translations** (Thibaut; Vireśvarānanda) and Śaṅkara's bhāṣya on it; Watts's *The Book* from the
+full text, chapter located, not from a quotation site.
+★ **THE CHAPTER'S BEST FINDING, and it was not in the plan: the source is cleaner than the
+transmission.** Śaṅkara's *second* analogy — *the process of inhalation and exhalation is going on
+without reference to any extraneous purpose, merely following the law of its own nature* — **has no
+psychology in it at all.** Nothing is bored, nothing wants, nothing waits, nothing forgot. Lift the
+Lord out of that sentence and it is very nearly this book's position, written in the ninth century.
+So the cut got sharper than the scaffold asked for: **it is not made against *līlā* at all. It is
+made against the genitive.** Play, yes — *nobody's* play. *(`kaivalyam` is the honest half of the
+compound: play **alone**.)*
+★★ **AND TRAP 5 IS IN THE PRIMARY TEXT, VERBATIM, WHICH THE PLAN DID NOT KNOW** — see ruling 59.
+The Watts cut is now **two cuts, not one**.
+⚠ **RULING 53 DISPOSED: the operational Bostrom cut is NOT here** — see ruling 61. This chapter was
+one of its two candidate homes and it is refused, on the merits, not by omission.
 **Thesis:** the player is a character the whole game contains — **and there is no other player.**
 
 ⚠ **REWRITTEN Day 186. The previous version of this chapter contradicted ruling 3a-bis and had

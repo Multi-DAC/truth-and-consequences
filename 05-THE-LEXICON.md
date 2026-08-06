@@ -274,8 +274,21 @@ Babel is the whole game with the shelves drawn in, and *The Garden of Forking Pa
 game seen from a walker. Both are already the right image and neither has ever been used.
 
 And it is where **Watts** lands, from the other side: the whole game contains the possibility of a
-player who has forgotten the game is whole, **and therefore has one**. That is the Promethean
-Configuration in Watts's own register, and the two sentences are the same sentence.
+player **who does not know that the game is whole — and therefore contains one**. That is the
+Promethean Configuration in Watts's own register, and the two sentences are the same sentence.
+
+⚠⚠ **THE VERB WAS CHANGED DAY 187, RULING 58, AND THE OLD ONE WAS THIS FILE'S OWN ERROR.** It read
+*"a player who **has forgotten** the game is whole."* **That is a barred premise inside the doctrinal
+formula.** To have forgotten is to have known and then not — two arrangements with an order between
+them — so the phrase gives the player the very transition that `01` §9 denies the Ground, one step
+earlier and in the sentence that installs the claim. **The ⚠ below guards the wrong sentence:** it
+bars Watts's *next* move (that the forgetter is God) and leaves the smuggling in the move before it.
+**The two forgettings are not the same and the difference is the whole cut.** Watts's is
+*subtractive* — the One held the whole and put it down, so the limit is a performance and somebody
+could stop performing. Ours is *constitutive* — a vantage **is** a limit, and not-knowing is not
+something that happened to a perspective but what a perspective is made of. There is no earlier
+condition in which the player knew. **Found by drafting III.2**, which came to this file for the
+canonical phrasing and had to refuse it in order to make its own argument.
 
 ⚠ **Corrected Day 185, and the correction is load-bearing — see `01` §9.** Say it exactly that way
 and no further. Watts's own next move is that **the forgetter is God**, hiding from itself out of

@@ -2313,3 +2313,124 @@ one: **"The cut is not that nobody made this well."** Ruling 43 built that colum
 forming — *two markers that open identically are a rite* — and the chapter that had the most reason
 to reach for the house shape declined it, by needing to deny the atheist's version before making its
 own. Not a discipline anyone imposed. Recorded because the gauge saw it and the writing did not.
+
+---
+
+## III.2 — THE GAME THAT IS PLAYING YOU · Day 187 · 2,060 words
+
+The chapter III.1 handed to. III.1 closed on *"what changes is not how tight the game is; what
+changes is whose it is — that question has one answer left, and the next chapter is what it costs."*
+So III.2 opens by cashing ownership and spends the rest of its length on the price.
+
+**Its structural job, and the reason the pair is better than either half:** III.1 cuts the reader's
+**enemy**; III.2 cuts the reader's **friend**. Nobody loves the demiurge. Everybody who arrives at
+this book warm arrives holding Watts, and `03` has said from the start that *a book that cuts against
+its opponents and never against its nearest friend reads as tribal.* The two chapters are adjacent
+and antithetical and that is the whole design. *(This is also what killed ruling 53's operational
+Bostrom cut as a candidate here — see ruling 61.)*
+
+### The quotation table — five primary quotations, every one cross-checked
+
+Ruling 46's instrument still does not exist. Until it does, this is done by hand and shown.
+
+| # | Source | Quoted as | Digitisation A | Digitisation B | Note |
+|---|---|---|---|---|---|
+| 1 | *Brahma Sūtra* II.1.33 | *lokavat tu līlākaivalyam* — "but (Brahman's creative activity) is mere sport, such as we see in ordinary life" | bharatadesam (Thibaut, SBE 34) | wisdomlib (Vireśvarānanda 1936: "mere pastime, as is seen in the world") | **two independent translators**, quoted as two, which is why the sentence can carry weight |
+| 2 | Śaṅkara, *Brahmasūtrabhāṣya* ad II.1.33 | "certain doings of princes or other men of high position who have no unfulfilled desires left have no reference to any extraneous purpose; but proceed from mere sportfulness" | bharatadesam (Thibaut) | wisdomlib summary ("kings without any motive behind are seen to engage in acts for mere pastime") | B is a paraphrase and is used **only** as corroboration, never quoted |
+| 3 | Śaṅkara, same | "the process of inhalation and exhalation is going on without reference to any extraneous purpose, merely following the law of its own nature" | bharatadesam (Thibaut) | wisdomlib ("men breathe without a purpose, for it is their very nature") | ★ **the chapter's best find — see below** |
+| 4 | Watts, *The Book* (1966), ch. 1 | "God also likes to play hide-and-seek, but because there is nothing outside God, he has no one but himself to play with. But he gets over this difficulty by pretending that he is not himself." | full text, terebess.hu, extracted and read | secondary attestation | chapter located **from the book's own contents page**, not from a quotation site |
+| 5 | Watts, same, ch. 1 | "it takes him a long time to remember where and how he hid himself… that's the whole fun of it — just what he wanted to do" · "he doesn't want to find himself too quickly" · "if the world went on and on without rest for ever and ever, it would get horribly tired of itself" · "when the game has gone on long enough, all of us will wake up, stop pretending, and remember that we are all one single Self" | full text, read in situ | — | **all four in one passage.** The cut and Trap 5 are four sentences apart in the source |
+
+Also quoted, from ch. 3: the *persona* and the green room — used because it is the cost stated by the
+author himself, at a deathbed. **Read and refused:** Fink's *"a game without a player"* — verified,
+but at second hand, and therefore denied the page. Ruling 63.
+
+### What changed during drafting
+
+★ **The cut got sharper than the scaffold asked for, and Śaṅkara did it.** The plan said *līlā needs
+a Player who forgets; forgetting is an event.* That is true and it concedes too much: it accepts
+Watts's reading of *līlā* as what *līlā* is. **Śaṅkara's second analogy has no psychology in it at
+all** — nothing bored, nothing wanting, nothing waiting, nothing forgotten, just an activity
+following the law of its own nature. Lift the Lord out of that sentence and it is nearly this book's
+position, in the ninth century. **So the cut is not made against *līlā*. It is made against the
+genitive.** Play, yes — nobody's play. *(`kaivalyam` is the honest half of the compound.)*
+**The source is cleaner than the transmission**, and the chapter says so, which turns a dismissal
+into a correction of the popularizer on the tradition's behalf.
+
+★★ **And Trap 5 is in the primary text verbatim** — ruling 59. The Watts cut was built on
+psychology-at-the-perimeter; the union telos is four sentences later in the same children's story.
+Two cuts, not one. The guard is no longer against a tendency, it is against a sentence.
+
+⚠ **`05`'s canonical formula had to be refused in order to write the chapter's own closing
+argument** — ruling 58. It read *"a player who **has forgotten** the game is whole."* Forgetting is
+the barred transition, handed to the player one step before the sentence that bars it for the
+Ground. The chapter's close turns on the repair: Watts's forgetting is **subtractive**, ours is
+**constitutive**, and *not-knowing is not something that happened to a perspective — it is what a
+perspective is made of.* **Nobody is wearing you.**
+
+### Gauges, measured after
+
+`claim_sweep` **0 USE-class — but only after four new exemptions, and the count without them is 4**,
+which is the honest way to write it. Three are `C6/godplayer` in III.2 itself, and they are the
+rule's own NOTE being cashed for the first time: *legitimate where the cut is being MADE.* The
+pattern **must** fire in the chapter that kills the god-player — the block-quoted Watts, the sentence
+that names the figure it is killing, and the conditional stating the cost. Enumerated line by line,
+never whole-file, because a chapter that cuts a claim is exactly the chapter where a real breach
+would be invisible. The fourth is this log recording ruling 59. *(And a fifth was avoided: the
+sentence you are reading tripped `C6/godplayer` in its first draft, by naming the figure in the
+gauge's own words. **Reworded, not exempted** — the II.6 precedent at line 1441. An exemption buys
+silence; a rewording costs nothing when the words were not load-bearing, and these were not.)* ⚠ **The rule's NOTE was itself stale and is
+amended**: it read *"legitimate where the cut is being MADE (I.6 b4, VIII.6)"* — written before Book
+III existed, and III.2 is now the site of record.
+
+`order_sweep` **0** false handoffs · `ancestor_gap` 0 · `prose_beat_sweep` **0 spent, 0 trace** for
+III.2 against all fifteen prior chapters · `beat_sweep` unchanged (scaffold-side; III.2 introduces no
+collision).
+
+⚠ **And a baseline correction owed here rather than buried — ruling 60.** The Day-187 handoff
+recorded *"1 pre-existing trace."* Unfiltered on the identical tree the instrument reports **3**
+(V.2~II.5, V.2~II.7, VII.1~II.6, all containment 0.57). Verified by moving III.2 out of the tree and
+re-running: **3 before, 3 after.** III.2 introduced none. *The number was right when measured and
+wrong when carried.*
+
+### Register — read quote-free or not at all
+
+| metric | **III.2** | III.2 *quote-free* | III.1 | band mean (1.9k–3.2k, n=10) |
+|---|---:|---:|---:|---:|
+| **voice_uniformity** | **0.586** | **0.6049** | 0.6578 | 0.6613 |
+| dyn_range_CV | 0.499 | 0.504 | 0.498 | 0.334 |
+| named_ref_/1k | 10.68 | 12.33 | 11.35 | — |
+| meta_textual_/1k | 4.85 | 4.93 | 2.06 | — |
+| 2nd_person_/1k | 7.28 | 7.40 | 5.67 | — |
+| terminal_commentary | 0.036 | 0.037 | 0.038 | — |
+| paragraph coverage | 92% | 91% | 92% | — |
+
+**The headline was 41% formatting, and it was tested while it was still a compliment** — ruling 64.
+`voice_uniformity` is mean pairwise cosine between paragraph style vectors, so a block quotation in
+someone else's diction is a paragraph resembling nothing else in the file. Stripping two quote lines
+moves III.2 from 0.586 to 0.6049 (and II-05, the only other chapter in the band with a block quote,
+from 0.6319 to 0.6364). **What survives:** quote-free, III.2 is still the lowest of the ten, 0.0285
+clear of the next chapter and 0.056 below the band mean. **This is the first movement on this axis in
+three books** — and `r(length, voice_uniformity) = +0.364` at n=16, weak and the wrong sign, so
+unlike `dyn_range_CV` (r = −0.586, ruling 56 confirmed) it is not a length artifact.
+
+⚠ **`meta_textual` is up to 4.85 from III.1's 2.06, and that is a real cost, not noise.** Four
+forward-pointing notes — Book VII twice, Book V once, III.5 once — three of them load-bearing
+(Trap 5's guard, the ethics deferral) and one arguable. It sits inside II.8's range (5.05) so it is
+in band, but the chapter is carrying more promissory paper than any Book III chapter should. Watch
+it at III.3; if it does not fall, the book is deferring rather than arguing.
+
+⚠ `emotion_label_/1k` 0.97 against 0.00 for both III.1 and II.8 — two hits, and both are *grief*,
+in the paragraph where the cost of the one-player picture is named. Stated rather than netted off:
+this is the chapter where the emotional word is the argument, and the only place in Book III so far
+where that is true.
+
+### A note on the encoding, because it nearly shipped
+
+This entry was appended once already and had to be truncated and rewritten. `Add-Content -Encoding
+utf8` fed by `Get-Content -Raw` **double-encoded every non-ASCII character in it** — PowerShell 5.1
+reads a BOM-less UTF-8 file as ANSI, so every em-dash, every `·`, and every diacritic in *Śaṅkara*
+and *līlā* went through as mojibake. **It was caught by an `Edit` failing to match its own
+old_string**, not by reading the file. ⚠ **Standing note for this repo: append to these documents
+with Python (`encoding='utf-8'`) or a heredoc, never with the PowerShell pair.** A quotation table
+whose Sanskrit is corrupted is worse than no quotation table — it looks like care.

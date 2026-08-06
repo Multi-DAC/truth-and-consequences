@@ -2156,3 +2156,125 @@ confirms it from the other side — `prose_beat_sweep` scores III.1 at **0 spent
 all fifteen shipped chapters. **A mute kept "just in case" is a mute that will suppress the real
 collision when a future revision reintroduces the fork**, which is the precise thing the standing
 ban exists to catch. Removed, with the reason on the record instead of in the table.
+
+**58. THE LEXICON'S PROMETHEAN FORMULA USED A VERB ITS OWN DOCTRINE FORBIDS, IN THE SENTENCE THAT
+INSTALLS THE DOCTRINE.** `05` §5 read: *the whole game contains the possibility of a player who
+**has forgotten** the game is whole, and therefore has one* — offered as "the Promethean
+Configuration in Watts's own register," with a ⚠ attached. **The ⚠ guards the wrong sentence.** It
+bars Watts's *next* move — that the forgetter is God — and leaves the smuggling in the move before
+it. **To have forgotten is to have known and then not**: two arrangements with an order between
+them, which is exactly the transition `01` §9 denies the Ground, handed instead to the player one
+step earlier where nobody was looking. ✅ **AMENDED to *"a player who does not know that the game is
+whole — and therefore contains one."*** ★ **The distinction is not pedantry; it is the whole cut, and
+III.2's closing argument is now built on it.** Watts's forgetting is **subtractive** — the One held
+the whole and put it down, so the limit is a performance and there is somebody behind it who could
+stop. Ours is **constitutive** — a vantage *is* a limit; to be somewhere is for the rest of it to be
+elsewhere. **Not-knowing is not something that happened to a perspective. It is what a perspective is
+made of.** *Found by drafting forward:* III.2 went to the lexicon for the canonical phrasing, and had
+to refuse it in order to make its own argument. Same shape as ruling 54 — a document that carries the
+warning and breaches it in the sentence next door.
+
+**59. THE WATTS CUT IS TWO CUTS, NOT ONE, AND THE SECOND ONE IS IN THE PRIMARY TEXT VERBATIM.**
+`03` and `01` §9 built the Watts cut on **psychology at the perimeter** — boredom, the wish for
+surprise, Trap 3 in its most attractive costume. Correct, and incomplete. Four sentences after the
+hide-and-seek passage, *The Book* ch. 1 states **Trap 5** outright: *when the game has gone on long
+enough, all of us will wake up, stop pretending, and remember that we are all one single Self.*
+**The many are a phase; the plan resolves by their ending.** That is the union telos this work
+refused on Day 185 (ruling 3a-ter) — and the refusal was made against *the traditions* generically,
+without knowing that the single named ancestor of Book III's frame says it in the same paragraph as
+the frame itself. ✅ **RULED: the Watts entry in `03` records both cuts, and III.2 makes both.** It
+costs the chapter four lines and it closes the gap where a reader who had accepted the first cut
+could still arrive at Book V holding the second. ⚠ **This also raises the standing of Trap 5's early
+guard from prudence to necessity** — the guard is no longer against a diffuse tendency in the
+mystical literature, it is against a sentence the reader may have read.
+
+**60. THE HANDOFF RECORDED A GAUGE NUMBER THAT THE GAUGE DOES NOT PRODUCE.** The Day-187 carrier
+read *"`prose_beat_sweep` 0 spent / **1** pre-existing trace (VII.1~II.6)."* Run unfiltered on the
+identical tree — fifteen chapters, 480 paragraphs, no source or tool changed since `50e7196` —
+the instrument reports **3**: V.2~II.5, V.2~II.7, VII.1~II.6, all at containment 0.57. The
+provenance is probably a chapter-filtered run summarised as a corpus figure (the `DRAFT-LOG` entry
+says *"0 spent, 0 trace **for III.1**"*, which is right). **The number was not wrong when measured;
+it was wrong when carried.** ✅ **RULED: gauge figures in the handoff are pasted from the run, never
+summarised from it, and any figure that is chapter-filtered says so in the same breath.** ⚠ **Cost
+of not doing this:** today's drafting spent a full verification cycle establishing that III.2 had
+introduced two traces — moving the file out of the tree and re-running — before finding that it had
+introduced none and the baseline was simply misrecorded. *A carrier is a gauge's only memory, and
+this one rotted in a single day.* Drift #287, one layer in: the stamp was not a date, it was a
+measurement.
+
+**61. RULING 53'S OPERATIONAL BOSTROM CUT IS REFUSED A HOME IN III.2, ON THE MERITS.** Ruling 53
+declared the axis and named two candidate homes — *the Book III opening, or III.2's approach, where
+"there is no other player" has to be cashed against consequences rather than definitions.* III.2 is
+now drafted and does not contain it. **That is a decision, not an omission, and it is recorded here
+so it is not re-litigated as a discovery.** The reason is structural: III.2 spends its length on a
+single sustained motion — *līlā* stated at full strength, cut, and then rebuilt without its owner —
+and a consequences-under-Bostrom table has no vantage anywhere on that arc. It would arrive as a
+second chapter inside the first. ⚠ **More: the two cuts now sit adjacent and antithetical**, III.1
+against the reader's enemy and III.2 against the reader's friend, which is the sharpest thing about
+the pair; putting Bostrom back into the second one blunts exactly that. ✅ **Remaining candidate
+homes: III.8 (the book's own closing, where Book III's consequences are already the subject) or
+IV.1.** Axis still declared, home still unchosen, drafting still unscheduled — but the candidate
+list is now shorter by the one that was tested against a real draft.
+
+**62. THE RULING-47 SWEEP MISSED `03` TOO, AND THE PATTERN IS NOW THREE DEEP.** Ruling 54 found the
+sweep had covered `06`, `00` and SPECIMENS and stopped at the door of the prose; `book/` was not in
+the search. **`03` was not in it either.** Its Watts entry routed him to *"III (the game frame's warm
+ancestor, **immediately after the Bostrom cut — the two priors are cut in the same chapter, one cold
+and one warm**)"* — a sentence 47(a) falsified the day before, in the ancestor file for the very
+ancestor III.2 was about to cut. Found by opening `03` to draft from it, which is the only reason it
+was opened. ✅ **CORRECTED**, and the replacement is better than the original claim: **the cold/warm
+pairing survives one level up.** III.1 cuts the reader's *enemy*, III.2 cuts the reader's *friend*,
+adjacent and antithetical — which is a stronger structure than the two sharing one chapter ever was.
+★ **The generalisable finding, and it is the third time this exact shape has appeared:** the ruling-47
+sweep's *scope was never written down*, so each of its misses has had to be discovered by walking
+into it. A sweep that does not enumerate what it searched cannot report what it skipped, and its
+silence is indistinguishable from coverage. **Swept now, and stated so it can be checked:** `01`,
+`02`, `03`, `04`, `05`, `README`, `prose/` — every `III.1`/`III.2` reference read against the
+current scaffold. One falsification (this one). `prose/SPECIMENS.md` was already correct.
+
+**63. FINK IS VERIFIED, AND DELIBERATELY KEPT OUT OF THE PROSE.** `03` carried a self-flagged
+unverified claim with a drafting gate on it — *"I hold that Fink also argues against the
+cosmic-player picture… I have not read this against a source and it is recorded as unverified. →
+III.2."* **The gate fired today. It is honoured rather than skipped, and the hunch was right:**
+Fink calls world-play **"a game without a player,"** which makes *Spiel als Weltsymbol* (1960) a
+direct ancestor of ruling 3a-bis — reaching this book's conclusion **six years before Watts
+published the opposite.** ⚠ **And it still does not go in the chapter.** The verification is at
+**second hand**: Stuart Elden's NDPR review quoting the phrase with a page cite (p. 206), not p. 206
+read. **A reviewer quoting a primary is exactly the artifact ruling 46 exists because of** — II.8
+shipped a modern paraphrase wearing Irenaeus's clothes, and this would be the same wound taken
+knowingly. **Registered at its true grade, targeted at the Book III header or III.8, admissible only
+after the primary is read.** ★ *The cost of the discipline is visible and worth naming: the single
+best four-word summary of III.2's thesis exists, in a named philosopher, and the chapter does not
+get to use it.* That is what an evidence grade costs when it is real.
+
+**64. THE GOOD REGISTER NUMBER WAS 41% FORMATTING, AND IT WAS TESTED BECAUSE IT WAS GOOD.**
+`voice_uniformity` is the axis ruling 56 left open — flat across three books, no length correction
+available for it, *"the axis that is actually still open."* III.2 came back **0.586**, the lowest of
+the ten chapters in the 1.9k–3.2k band against a band mean of **0.6613**, and the next-lowest at
+0.6319 — a gap larger than the entire spread between ranks 2 and 7. **Then the confound: III.2 and
+II-05 are the only two chapters in the band containing a block quotation, and they are the two
+lowest on the axis.** The metric is mean pairwise cosine between paragraph style vectors, so a
+30-word quotation in someone else's diction is one paragraph that resembles nothing else in the file
+— it drags the mean down by *not being the chapter's prose*. ✅ **MEASURED, not argued: strip the
+block-quote lines and re-run.** III.2 **0.586 → 0.6049**. II-05 **0.6319 → 0.6364**. **The quotation
+accounts for 0.019 of III.2's 0.046 lead — two fifths of it.** What survives is real and is still
+the finding: quote-free, III.2 is **still the lowest of the ten**, 0.0285 clear of the next chapter
+(II-07, 0.6334), against a band mean 0.056 above it. ★ **The part worth keeping is the direction the
+test ran in.** Ruling 56 corrected a number that flattered the writing and the correction was
+*forced* — Fable found it. This one was tested while it was still a compliment, before anything was
+written down, and it cost the headline 41% of its size. ⚠ **AND THE INSTRUMENT NOW CARRIES A NAMED
+DEFECT: `voice_uniformity` pays a chapter roughly 0.02 for every ~30 words of block quotation.**
+Book V is the traditions book. **Under this gauge, whichever chapter cites most will read as the
+least flat without a word of it being written better** — so the axis is to be read quote-free from
+here, or not read at all. *(Second gauge caveat in three days, same shape as ruling 56's length
+band: the metric measures what it measures, and what it measures is not what it is named.)*
+
+★ **And the answer to the question ruling 56 left hanging, since the data now exists at n=16.**
+Ruling 56 could not say whether `voice_uniformity` was *also* a length artifact — it observed that
+`dyn_range_CV` correlates with chapter length at r = −0.611 and offered "no correction" for the
+other axis. **Measured: r(length, `voice_uniformity`) = +0.364 across all sixteen chapters** — weak,
+and the *wrong sign* for the excuse, since the flatness would have to rise with length for length to
+be the cause. *(`dyn_range_CV` re-measured at n=16: r = −0.586, confirming ruling 56 stands.)*
+**So `voice_uniformity` needs no length correction. It needs a quotation correction, and now has
+one.** The axis is open no longer in the sense of *uncharacterised*; it is open in the sense of
+*flat, honestly measured, and moved once.*

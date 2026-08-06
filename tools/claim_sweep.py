@@ -220,7 +220,8 @@ RULES = [
      r"God (?:is )?play|playing at being|God in a mask|wearing every (?:face|mask)|"
      r"hide[- ]and[- ]seek|divine play", None,
      "C6 — the Ground cannot play. Watts's picture arrives wearing warmth, which is why Trap 3's "
-     "usual detectors miss it. NOTE: legitimate where the cut is being MADE (I.6 b4, VIII.6)."),
+     "usual detectors miss it. NOTE: legitimate where the cut is being MADE — I.6 b4 (the early "
+     "guard), III.2 (the full argument, Day 187: the site of record), VIII.6."),
 
     # --- prose-only ------------------------------------------------------------
     ("PROSE/self-reference", "prose",
@@ -452,6 +453,32 @@ EXEMPTIONS = [
     ("book/DRAFT-LOG.md", "PROSE/hedge", "The second hit was **PROSE/hedge**",
      "The II.6 entry quoting the hedge it REWORDED rather than exempted. The manuscript line is "
      "gone; this is the receipt for its removal, and a receipt has to name what it removed."),
+    # --- Day 187, III.2. THREE lines, and they are the rule's own NOTE being cashed for the first
+    #     time in Book III. C6/godplayer says the god-player is legitimate WHERE THE CUT IS MADE.
+    #     I.6 makes the early guard; III.2 makes the argument, so III.2 is where the pattern MUST
+    #     fire and must be exempted line by line. Three entries, not a whole-file scope: a chapter
+    #     that cuts a claim is exactly the chapter where a real breach would be invisible.
+    ("book/III-02-the-game-that-is-playing-you.md", "C6/godplayer",
+     "God also likes to play hide-and-seek",
+     "★ THE QUOTATION BEING CUT. Watts, *The Book* ch. 1, block-quoted at full strength so that the "
+     "reader meets the warm picture in its author's own words before it is refused. C6's rule text "
+     "already licenses this shape at I.6 b4; III.2 is the chapter that spends it."),
+    ("book/III-02-the-game-that-is-playing-you.md", "C6/godplayer",
+     "The demiurge and the divine Player have almost nothing in common",
+     "★ THE CUT ITSELF, and the chapter's hinge: the two figures share a TENSE and nothing else. "
+     "The pattern fires on 'divine Player' — which is the thing being killed in the sentence that "
+     "kills it."),
+    ("book/III-02-the-game-that-is-playing-you.md", "C6/godplayer",
+     "If there is one player wearing every face",
+     "THE COST, stated in the conditional. C6's own ⚠ says one God-player means every other person "
+     "is a costume and C9 is deleted while appearing to be affirmed — this line is that consequence "
+     "written out, antecedent-first, in order to refuse it. Same shape as the I.6:53 exemption: the "
+     "warm picture stated in the reader's terms so it can be refused in the next breath."),
+    ("book/DRAFT-LOG.md", "C15/trap5", "the union telos is four sentences later",
+     "Day 187, ruling 59. The III.2 entry recording that Trap 5 is stated VERBATIM in Watts's "
+     "primary text — the log cannot record where the trap was found without naming it. Fresh line "
+     "per the standing instruction on the whole-file DRAFT-LOG entry, which covers "
+     "PROSE/manifestation ONLY."),
 ]
 
 
