@@ -149,14 +149,36 @@ bent.**
 
 ## BOOK II — **THE NAMING**
 
-*Valaquenta analogue. Eight chapters, one per term-family. Every term defined once, given its
-game-register restatement in the same breath, and cut against what the reader already thinks it means.
-Nothing downstream adds to this vocabulary.*
+*Eight chapters, one per term-family. Every term defined once, given its game-register restatement in
+the same breath, and cut against what the reader already thinks it means. Nothing downstream adds to
+this vocabulary.*
+
+⚠ **"Valaquenta analogue" struck Day 187 → ruling 19.** Ruling 16 killed its sibling label — Book I is
+not Ainulindalë — and a structural conceit with one leg left invites the next drafter into a mythic
+catalogue-of-powers register in the one book that must name Bostrom and cite Tillich. The label was
+doing no work and was two words away from doing harm.
 
 **Source:** `05-THE-LEXICON.md` (the ruling table) · `Perspective`'s back-matter glossary
 (`Unreleased-Work/Perspective/09-back-matter.md` — inherited, **with its synonym sprawl repaired**).
 **The opponent in every chapter is the word's current owner.** That is what makes Book II an argument
 rather than a dictionary, and it is the only reason a reader will read a glossary.
+
+★★ **THE BRIEF — ruling 16, Day 187. Read before drafting any chapter of this book.**
+*(Landed here Day 187. The ruling's own closing line said this goes in Book II's beats "before a word
+of II is drafted"; it was written into `00` and `DRAFT-LOG` and **not into the scaffold**, which is the
+file a drafting session actually opens. Third instance of ruled-and-not-carried — ruling 13 was the
+first, C24 the second. The class is now more reliable than any single instance of it.)*
+
+Book I **argues** — I.5 is an argument, I.2's wanting-traceback is an argument. It abstains from
+**citation and named opponents**, which is far narrower than "no argument." So Books II–IV are **not**
+defending undefended claims. The claims are already defended: compressed, and unnamed.
+
+> **Compression can state a conclusion; it cannot survive an objection it is not permitted to name.
+> Book I denies. Books II–IV name the opponent and show the denial survives contact.**
+
+**The operational test, per chapter:** if the chapter reads as a discursive restatement of something
+Book I already said, that difference was not worked. The new work is never the conclusion — it is the
+opponent standing next to it, credited for what they got right, and cut at the exact point they break.
 
 ### II.1 — THE GROUND
 **Beats:** the definition · **the cut against base reality**: not elsewhere, not more real than here,

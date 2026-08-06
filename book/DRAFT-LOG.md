@@ -730,3 +730,113 @@ barred narrative** — a narrated creation re-imports time wholesale. Bar both s
 conclusion; **it cannot survive an objection it is not permitted to name.** Book I denies. Books
 II–IV name the opponent and show the denial survives contact. **If II reads as repetition, that
 difference was not being worked.**
+
+---
+
+# BOOK II — THE NAMING
+
+## II.1 — THE GROUND · drafted Day 187 · 2,282 words
+
+**Length, stated first because it is the number that will look wrong.** Book I ran 894–1,261 words a
+chapter, mean ~1,060. II.1 is **2.2×** the mean. That is not bloat and it is not a slipping standard —
+it is what ruling 16's brief costs in words. Book I could deny a thing in a sentence. II.1 has to
+name the person who holds the opposite, credit the half they got right, and cut at the exact point
+they break, **five times**, and each of those is a paragraph Book I's register could not have
+contained at any length. Expect Book II's chapters to run 1,800–2,400. If one comes in at Book I's
+length, that is the signal to check whether it named anybody.
+
+### THE SPINE — a four-clause definition, unpacked in order
+
+The chapter states the definition once and then walks it: *everything that could be the case, being
+the case · with no outside · with no inside · and made of awareness.* Chosen over a
+beats-in-scaffold-order draft because `05` §7 and C24 both require the neither-mind-nor-matter work
+to be **in the definition rather than in a gloss after it**, and a definition you can point at clause
+by clause is the only way to do that without the definition becoming a paragraph nobody can hold.
+
+**Where the five cuts land — the ruling-16 audit of this chapter.** Each is something the compressed
+version in Book I could not do, because each requires naming an opponent:
+
+1. **David Lewis** — C1's registered near-miss. Credit: the other ways things could have gone are
+   concrete, and he took thirty years of ridicule without moving. Cut: his worlds are a *plurality*,
+   sealed and located; *somewhere else* is load-bearing in his picture and there is no elsewhere in
+   ours. ⚠ **Not in `06`'s Named list for II.1** — added on rule 5 and on C1's own near-miss line.
+   The scaffold's Named list is a floor, not a ceiling; recorded here so the addition is visible as
+   chosen rather than as drift.
+2. **Nick Bostrom** — the largest unmet opponent in the work (0 files corpus-wide). Credit: he made
+   it checkable, and he is right that a generated world loses no solidity. Cut: *base reality* puts a
+   floor under a building and a floor has a below. Carries the render/simulation distinction, which
+   `05` requires to land before the metaphor is elaborated.
+3. **Paul Tillich** — the capture. Credit at full strength, dated (*Systematic Theology* vol. 1,
+   1951): not a being among beings, cannot be an object, what everything that is participates in.
+   Cut: **his ground is still addressed.** Ours cannot be, because addressing takes an inside at the
+   far end. *"Tillich took away God's face and kept the direction of prayer. The face and the
+   direction go together."*
+4. **The reader's own church** — the God clause. Book I said *God* and declined to argue. II.1 takes
+   the personal deity property by property — plan, preference, ear — and shows each one is an inside.
+   Then it states the objection in the reader's mouth (*strip those out and the word is being
+   borrowed for its weight*) and answers it. **That paragraph is the chapter's clearest evidence that
+   the difference is real: Book I could not have raised that objection, because raising it requires
+   an opponent.**
+5. **Nishida Kitarō** — the load-path for C24, dated 1911. Pure experience, prior to the
+   subject/object split, hence prior to mind/matter. Both near-misses refused by name in the same
+   movement: the one-big-mind (the player in metaphysical dress) and emergence (*inert* is a
+   description of something with an outside).
+
+Rule 5b, one link upstream: **Schelling → Böhme's *Ungrund***, with the Görlitz council's ban and the
+seven-year silence. `03` §3.5 had the man at 8 files and his one relevant word at 0.
+
+### FOUR DECISIONS RECORDED SO THAT NOBODY LATER "FIXES" THEM
+
+*(The I.1 lesson: an unrecorded deviation is indistinguishable from a drafter who did not read the
+scaffold, and the next person to compare the files — including me in four months — will helpfully
+undo it.)*
+
+1. **II.1 never says the retired names, not even once to perform the handoff.** The tempting move is
+   one licensed sentence — *what the last book called X is now the Ground* — and it is refused.
+   **I.6's closing move is the supersession** ("they will not hold"), so II.1's job is to be the
+   words that do hold, and a retirement that needs the retired word to explain itself is a
+   retirement the reader will reasonably ignore. A licensed exception is exactly how *the map* stayed
+   alive for a full day in two chapter titles.
+2. **Watts is not named here**, despite rule 5 and despite the player-negation being the mystic's
+   error. `06` places him at III.2 and V; I.6 already made the argument at length; and II.1 is
+   already carrying five names. The negation appears as one definition-level line and is not
+   re-argued. **This is the ruling-16 brief applied against itself** — naming an opponent is the new
+   work *when the opponent is new*, and re-litigating one Book I already cut is precisely the
+   restatement the brief warns about.
+3. **"Not a map," indefinite article.** More accurate — no particular map is in question — and it
+   keeps the retired term off the manuscript. Not a dodge of the gauge: the retirement is of *the
+   map* as a name for the Ground, and the sentence denies exactly that.
+4. **No intra-chapter sub-headers**, matching Book I, despite a definitional chapter being the one
+   place they would help. The four-clause structure is announced in the second paragraph and carried
+   by bolded clause-openers, which does the same work without changing the book's physical look at
+   the I/II boundary.
+
+### WHAT THE GAUGES SAID, AND WHAT THEY GOT WRONG
+
+**Litany density — the first real movement reading ruling 15's gauge has produced.** II.1 runs
+**3.94/1k raw** against Book I's 6.71–10.29 (mean 8.18). The rate **halves at the I/II boundary**,
+which is exactly what the register change predicts: a book that names its opponents denies by
+argument instead of by formula. The gauge was built to answer one question — *does a later book
+depart from Book I's litany?* — and its first answer is **yes, visibly, and in the right direction.**
+
+⚠ **The hard-wrap defect, third instance in two days, and the first one that wasted work.** The
+C3/motive exemption written for II.1 matched nothing, because the needle spanned a wrapped line and
+the matcher works line-by-line. Day 187 already found this twice — the litany regex under-reading 10%
+on `there\nis nobody`, and before that ruling 14's case-sensitivity hole. **Three mechanisms, one
+blindness: the instruments are written against prose as a string, and the manuscript is prose as
+lines.** Needle shortened; the constraint is now a comment in the exemption list.
+
+⚠ **C3/motive is a proximity rule and cannot see a grammatical subject.** It fired on *"a reader who
+has met the Ground first will want it to be the thing doing all of that"* — where the wanter is the
+**reader**, in a sentence that asserts C3. **Recorded as an exemption rather than reworded, on
+purpose: rewording would have made the tool look correct.** And the finding is two-sided — a rule
+that over-reads on subject also under-reads on distance, and a real breach phrased with more than 40
+characters between *the Ground* and its participle walks straight past. Neither direction is visible
+from the hit list.
+
+**Trip-test performed.** Ruling 14 required TERM/fullness to be tried against a throwaway `II-01`
+before being trusted, because a rule with nothing in scope passes forever. There is now a real II.1,
+so the test was run for real: a scratch `II-99` carrying both retired names **tripped the rule**, and
+was deleted. The retirement is gauged, not merely recorded.
+
+**Sweep: exit 0, no USE-class hits, 24 files.**

@@ -228,6 +228,12 @@ EXEMPTIONS = [
      "The quoted words are the trap; the surrounding line is the guard."),
     ("book/DRAFT-LOG.md", "C6/godplayer", "one player wearing every face",
      "The I.6 entry naming the Watts reading in the act of recording that I.6 refuses it."),
+    ("book/DRAFT-LOG.md", "C3/motive", "will want it to be the thing doing all of that",
+     "Day 187. The II.1 entry QUOTING the false-positive line in the act of recording that it is a "
+     "false positive — the same shape as the three entries around it. Fresh line per the standing "
+     "instruction on the whole-file DRAFT-LOG entry above, not a widening of it. ⚠ Note that the "
+     "log's copy is UNWRAPPED where the manuscript's is wrapped, so this needle is longer than the "
+     "II-01 one for the identical sentence; that asymmetry is the hard-wrap defect leaving a mark."),
     ("book/DRAFT-LOG.md", "C6/godplayer", "the theology that removes the divine player",
      "Quoting 01 §9 — the sentence that states our position AGAINST the god-player. "
      "The rule is firing on our own refutation."),
@@ -255,6 +261,21 @@ EXEMPTIONS = [
      "beneath it (a mask is not anybody; the grief would be a misunderstanding about costume) is "
      "what this line exists to set up, and it is the only statement of the picture in the book "
      "outside Book V, where it is named and credited."),
+    # --- Day 187, II.1: the first hit of a class the C3/motive rule text does not name. ---
+    # ⚠ The needle below is SHORT ON PURPOSE. It was first written as the full clause
+    # "will want it to be the thing doing all of that" and matched nothing, because the
+    # manuscript is HARD-WRAPPED and the clause breaks across two physical lines. The
+    # exemption matcher works line-by-line, exactly like the litany gauge that under-read
+    # by 10% for the same reason on Day 187. Keep every needle inside one wrapped line.
+    ("book/II-01-the-ground.md", "C3/motive", "will want it to be the thing",
+     "★ FALSE POSITIVE, and the class is worth more than the line. **The wanter is the READER.** "
+     "C3/motive is a proximity pattern — `the Ground` within 40 characters of a wanting verb — and "
+     "it cannot see which noun is the grammatical subject. So it fires on a sentence that ASSERTS "
+     "C3 by describing the reader's error, and by the same blindness it would miss a real breach "
+     "phrased with the Ground more than 40 characters from its participle. **The exemption is the "
+     "cheap half; the finding is that this rule over-reads on subject and under-reads on distance, "
+     "and neither direction is visible from the hit list.** Recorded rather than reworded on "
+     "purpose: rewording the prose would have made the tool look correct."),
     ("book/I-06-the-recognition.md", "C15/trap5", "in the drop going back to the sea",
      "★ TRAP 5's ONLY EARLY GUARD, and it cannot be made without naming the destination it refuses. "
      "01 §10 requires the refusal to be structural and stated in Book I's own last movement, ten "

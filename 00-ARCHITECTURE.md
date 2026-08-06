@@ -797,6 +797,29 @@ until all eight books are in.
 early is to test the falsifier on real readers. **The falsifier is most exposed at VII.** Shipping
 the easy books and holding the hard ones back tests nothing anyone needed to know.
 
+**19. THE "VALAQUENTA ANALOGUE" LABEL IS STRUCK — and the finding is that ruling 16 was never
+carried to the file that would have triggered it.**
+*(Clawd's call, Day 187, opening the Book II drafting session.)*
+
+Ruling 16 ends with an instruction: the Book II brief *"goes in Book II's beats before a word of II
+is drafted."* **It was written into this file and into `DRAFT-LOG`, and not into `06-THE-SCAFFOLD.md`
+— which is the file a drafting session actually opens.** Found by reading the scaffold to draft II.1,
+which is to say found by luck at the last possible moment. Now landed, as `06`'s Book II preamble,
+with the operational per-chapter test attached.
+
+⚠ **This is the third instance of one class in three days: ruled, executed, and never written into
+the carrier that would make it fire.** Ruling 13 was made, run across eleven files, and never entered
+in this list. C24's doctrine sat in an unhomed table cell with no claim-number for the whole planning
+phase. Now ruling 16's own closing instruction. **The class is now better attested than any single
+instance of it, and it has the same shape as the codebase defect the body keeps finding: correct
+content, no trigger.** The countermeasure is not vigilance — it is that a ruling which names a
+destination file is not closed until the destination is read back.
+
+★ **And the label the scaffold was still carrying: "Valaquenta analogue."** Ruling 16 killed its
+sibling — Book I is not Ainulindalë — and left this one standing. A structural conceit with one leg
+is worse than none: it invites the next drafter into a mythic catalogue-of-powers register, in the
+one book whose job is to name Bostrom, cite Tillich, and credit Nishida by date. Struck.
+
 ---
 
 ## STATUS — Day 185
