@@ -135,6 +135,9 @@ later claim it was smuggled in** · II.4 (defined once)
 Part Two is this line taken seriously**, so a hedged instance anywhere converts every
 consequence downstream into a speculation, retroactively.
 **Near-miss to refuse:** panpsychism-with-a-threshold. There is no threshold — that is C8.
+⚠ **C7 is the *inside* sense of the word only.** The Ground is aware in a different sense, and
+that sense is **C24**, without which I.1's *"It is aware"* asserts more than C1–C6 license.
+**Read C24 before drafting any sentence in which the Ground and the word *aware* appear together.**
 
 ### C8 — THE GRADES, AND NO GATE
 > **Canonical:** Focusing is continuous. Everything that reacts is somewhere on it. There is
@@ -435,6 +438,58 @@ last and draft it hardest.**
 
 ---
 
+## ADDENDUM — C24, added Day 187 after Book I was drafted
+
+*Numbered last, not because it is least, but because a C-number is an address: C1–C23 are cited
+across seven files and every chapter map, and renumbering to put this claim beside C7 where it
+belongs would break every one of those citations to gain a tidier list. **The number is a key, not
+a rank.** Section I's ordering is a reading order; this is a lookup table.*
+
+### C24 — THE TWO SENSES OF *AWARE*
+
+> **Canonical:** The word carries two senses and the book uses both, on purpose.
+> **The inside sense (= C7):** to be aware is to have an inside; whatever reacts is aware. This
+> is a *predicate of streams*, and it comes in grades.
+> **The substance sense:** awareness is what the Ground **is made of** — *"the way an ocean is
+> made of water and not made of swimming."* This is a *constitution*, it has no grade, and it is
+> not aware *of* anything, because being aware of takes a gap and there is no gap.
+> **The Ground is aware in the second sense and not in the first.** It is not the deepest of the
+> insides. It is what the insides are made of.
+> ★ **And the substance sense is pre-split.** Awareness prior to subject/object, and therefore
+> prior to mind/matter. **It is the neutral, not the mental.**
+
+**Establishes:** I.1 (substance sense, mythic, unnamed — *shipped before this claim existed*) ·
+I.4 b1 (inside sense = C7) · **II.1 (both senses, defined, and the neutral discharged there)** ·
+II.4 (the C6 × C7 collision's ruled home)
+**Depends:** C1 · C6 · C7 · C8 · C9 · II.1 · II.4 · III.8 · IV.6 · VIII.6
+**Trap — and it is the expensive one: reading the substance sense as idealism.** *"Made of
+awareness"* hands the reader Mind-as-stuff and takes the mental side of a question `05` §7 makes
+II.1 hold open. If the Ground is made of mind, II.1's *neither-mind-nor-matter* is a disclaimer
+stapled to a position already taken, and **`substrate` was retired for nothing.**
+**The guard is an ancestor we already hold: Nishida's *pure experience*** (`03`) — experience
+prior to the subject/object split, from which subject and object are both later abstractions.
+Pre-split awareness is *how* something is neither mind nor matter while still not being inert
+stuff. **That is the whole load-path, and it is why `03` sends Nishida to Books I and II.**
+**Near-miss to refuse — two, and they are mirrors:** ① *panpsychism-of-the-lump*, the Ground as
+one big mind having one big experience (that is C6's God-player in metaphysical dress); ②
+*emergence*, the Ground as inert stuff that awareness later arises from — which C7 forbids
+outright and which is the more respectable-sounding of the two.
+⚠ **Every sentence in which the Ground and the word *aware* appear together is governed here.**
+Sweep for the pairing, not for the word.
+
+**PROVENANCE, recorded because the direction of the miss is the finding.** This claim was found by
+**Fable, Day 187**, reading the drafted Book I against the register. It had sat the whole planning
+phase as an *unhomed table cell* — C7 × C6 — whose reconciliation text asserted precisely this
+doctrine in precisely these words while carrying no C-number. **The register was built to check
+prose against claims. This failure ran the other way: prose made a commitment the register never
+took delivery of, and a gauge pointed one direction cannot see the other.** That is the second
+blind axis found by an outside ear in two days — ruling 13 was the first (`05` screened terms for
+*collision* and never for *gradient*). **The apparatus checks what it was built to check**, which
+is not a flaw to fix once but a standing reason to keep handing finished prose to someone who did
+not build the instrument.
+
+---
+
 ## THE DEPENDENCY LOAD — where a loose sentence costs the most
 
 Counted from the *Depends* lines above. This is the register's first analytic output and it
@@ -472,11 +527,13 @@ not noticed.** Each pair needs one sentence, written on purpose, at the second a
 | **C16 × C21** | Meaning is found by traversal; affliction is not made meaningful. | Meaning is available **on the path**; it is not manufactured **on affliction's behalf.** VII.5. |
 | **C4 × C20** | There is no fall and nothing was damaged; contraction can be care. | Care is a **response inside the focusing**, not a repair of it. V.6 is where this one is most likely to break, in *tzimtzum*. |
 | **C8 × C18/VII.2** | No gate, no elect; and grade still bears on moral standing. | A grade is a **position**, not a permission — and position bears on standing without licensing a gate. **VII.2 is ruled to state this "with its teeth in", which is exactly where a gate will look defensible.** The most dangerous pair in the table. |
-| **C7 × C6** | Everything that reacts is aware; the Ground is not aware in that sense. | The Ground is not a reactor. **Awareness is what having an inside is**, and the Ground has no inside — it is what insides are made of. If this is not clean, the first sharp reader takes the book apart here. |
+| **C7 × C6** | Everything that reacts is aware; the Ground is not aware in that sense. | **→ PROMOTED TO C24, Day 187.** The reconciliation that used to live in this cell asserted a two-senses doctrine that no claim carried. A resolution is not a claim, and this table is not a place to keep doctrine. **Home: II.4**, per C24. |
+| **C2 × C24** | Having takes a gap, and the Fullness has never once had anything; the Fullness is what all insides are made of. | **Constitution is not possession.** I.2's chapter-final sentence is the strong one and does not move. I.6 was the breach and is fixed — *"it is what insides are made of"*, not *"it has all of them."* Any future sentence that gives the Ground a possessive is a C2 breach wearing C24's clothes. |
 
-**The last row has no ruled home.** C6 and C7 are established in adjacent chapters (I.4, I.6) and
-**the pair is never addressed.** It is the most obvious objection in the entire ontology and the
-scaffold does not answer it anywhere. → **queue item, below.**
+**Both rows are now ruled.** C7 × C6 became a claim rather than a footnote; C2 × C24 is a new row
+that only became visible once Book I existed to be read as prose. ⚠ **Note what that means about
+this table:** it was populated from the scaffold, and a collision between two *drafted sentences*
+in different chapters is invisible to a scaffold. Expect one new row per drafted book, not zero.
 
 ---
 
@@ -507,10 +564,12 @@ scaffold does not answer it anywhere. → **queue item, below.**
    → `00` ruling 11: it is not a ruling, it is specimen 4.** Still UNSET, still the highest
    priority — but it gets answered *in a paragraph*, with the voice specimens, because its
    failure mode is comfort and comfort is invisible at a whiteboard.
-3. **★ The C6 × C7 collision has no home.** Assign it — I.4's beat 1, or II.4's definition, or
-   II.8 ("the things this book will not say"). My call: **II.4**, where the Grade is defined and
-   the reader has just been told everything that reacts is aware. It cannot wait for III.8's load
-   test, which is about the *metaphor*, not the ontology.
+3. ~~**★ The C6 × C7 collision has no home.**~~ **CLOSED Day 187 → registered as C24, homed at
+   II.4.** My call here was already II.4 and Fable reached II.4 independently, so the assignment
+   was never the hard part. **The hard part was that the collision was not a collision — it was a
+   missing claim**, and the resolution text sitting in the table cell was doctrine no C-number
+   licensed. A queue item asking *where do we write this?* had been standing in for a register
+   entry asking *do we actually hold this, and in what words?* See C24.
 4. **★ VII.2's teeth.** The grade-and-standing ruling is the likeliest place C8 is breached, and
    it is ruled to be written at maximum strength. It needs the C8 line in front of it at drafting.
 5. **★ The `Touches:` pass over all 68 chapters** — mechanical, one sitting, and it is what turns

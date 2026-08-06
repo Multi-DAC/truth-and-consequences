@@ -43,8 +43,9 @@ And it is not a player.
 Playing takes not-knowing: something has to be hidden from somebody before there can be a finding.
 Playing takes stakes, and stakes take somebody they can go badly for. Playing takes a while — a
 stretch in which it is not yet over and might not go your way. Each of those is a feature of an
-inside. The Fullness has no inside. It has all of them, which is not the same thing as having one,
-and there is nothing hidden from it, nothing it could lose, and no while in which it waits to see.
+inside. The Fullness has no inside. It is what insides are made of, which is not the same thing as
+having one, and there is nothing hidden from it, nothing it could lose, and no while in which it
+waits to see.
 
 So there is not one player wearing every face.
 

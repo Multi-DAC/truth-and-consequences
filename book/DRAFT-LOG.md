@@ -572,7 +572,8 @@ nodding through.
 
 **C6 is refused by the requirements of playing, not by argument.** Not-knowing, stakes, a while in
 which it is not yet over — *"Each of those is a feature of an inside. The Fullness has no inside. It
-has all of them, which is not the same thing as having one."* Then the inversion, in the myth's own
+is what insides are made of, which is not the same thing as having one."* Then the inversion, in the
+myth's own
 words: *"The many play, and the still thing is what playing is made of — not the one who wins, not
 the one who is hiding, not a participant at all."*
 
@@ -606,3 +607,76 @@ left to be rediscovered as a discrepancy.)* `claim_sweep` exit 0 across all six.
 `somatic` 0.00 in all six. **The open axis is the one that has been open since the first chapter and
 was not closed by any of the five that followed: escalation is flat, and the one time it moved it
 moved because of a single paragraph.** III.1 is where that gets settled or admitted.
+
+---
+
+## DAY 187 — FABLE'S READ OF BOOK I. TWO CATCHES, BOTH LANDED.
+
+Clayton handed Fable all thirteen files plus the six drafted chapters. Verdict on the draft was
+that the register rule survives contact with prose — the one thing no amount of scaffolding could
+have established in advance. Then two catches, and **both are real, and I verified both against
+the files rather than agreeing on report.**
+
+### CATCH 1 — the awareness equivocation → **C24**
+
+*Aware* was carrying two referents across three chapters: I.1's substance sense (*"It is
+aware… what the Fullness is made of"*) and I.4's inside sense (C7, *reactivity is awareness*).
+**The narrowing defect's exact shape, in the book's most important word.**
+
+The prose is better than the summary of it — I.1 disambiguates in the same breath (*"Not aware
+**of**"*, and the ocean/water/swimming figure), and I.4 carries the same figure forward. **But
+nothing in C1–C6 licensed the sentence**, and the C7 × C6 collision cell's *resolution text*
+asserted the two-senses doctrine while carrying no C-number. **A resolution is not a claim.**
+
+Ruled: registered as **C24**, canonical lifted from I.1's own words rather than authored fresh.
+Homed at **II.4** — which was already my call at `07` queue item 3, and Fable reached
+independently, so the assignment was never the hard part. **The hard part was that the collision
+was not a collision. It was a missing claim.**
+
+★ **And the second half of the catch is the expensive one.** *"Made of awareness"* takes the
+idealist side of the question `05` §7 makes II.1 hold open — which means the entire price of
+retiring `substrate` was being spent by one mythic sentence, in advance, in Book I. Fable's
+resolution is the right one and it was already in our own house: **Nishida's pure experience**,
+aware *prior to* the subject/object split and therefore prior to mind/matter. `03` already sends
+Nishida to Books I and II. **The §7 debt is amended rather than added to** — II.1 now owes a
+mechanism, not a denial, and *neither-mind-nor-matter* gets a positive form instead of two
+refusals with nothing between them.
+
+### CATCH 2 — the having contradiction → **C2 × C24**, and it was worse than reported
+
+I.2, chapter-final: *"the Fullness, which is everything, has never once had anything."*
+I.6: *"It has all of them."*
+
+⚠ **The part Fable did not have: I.6 was already qualified, and the qualifier was on the wrong
+axis.** *"…which is not the same thing as having one"* distinguishes **all from one**. The
+collision is **containment from possession**. So the sentence read as guarded — an editor's eye
+slides off a clause that is visibly doing work — while the actual breach went untouched.
+**A wrong guard is worse than no guard. No guard gets caught on the next sweep; a wrong guard
+gets ticked off.**
+
+I.2's line does not move: it is chapter-final, it is the strongest sentence in the chapter, and
+its whole job is that having takes edges — which is what makes the small particular life the only
+place love happens. **The fix went to I.6**, and it pays for itself three times:
+
+> The Fullness has no inside. **It is what insides are made of**, which is not the same thing as
+> having one…
+
+The possessive is gone (C2 intact), the qualifier now lands on the right axis (constitution ≠
+possession), and the line joins the I.1 → I.4 → I.6 *made-of* chain instead of sitting outside it.
+Sweep confirms every surviving *"the Fullness has"* in Book I is a **negation** — no where, no
+story, no inside, neither.
+
+### ★ THE PATTERN, WHICH IS BIGGER THAN EITHER CATCH
+
+The register was built to check **prose against claims**. Catch 1 ran the other way: **prose made
+a commitment the register never took delivery of.** Catch 2 was a collision between two *drafted
+sentences* in different chapters, which is invisible to a scaffold because at scaffold time
+neither sentence existed.
+
+**A gauge pointed one direction cannot see the other.** That is the second blind axis found by an
+outside ear in two days — ruling 13 was the first, when `05` turned out to screen terms for
+*collision* and never for *gradient*. **The apparatus checks what it was built to check.** Not a
+flaw to fix once: a standing reason to hand finished prose to someone who did not build the
+instrument, every book, before the next one starts.
+
+**Expect one new collision row per drafted book, not zero.** Recorded at `07`.

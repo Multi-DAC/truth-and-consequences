@@ -283,5 +283,22 @@ hard requirement on II.1 and not a stylistic preference, and it is the entire pr
 retirement. If II.1 ships without it, `substrate` was retired for nothing and the reader is left with
 a Ground they will read as *stuff*.
 
+### ★ AMENDED Day 187 — the debt got heavier, and it got a load-path
+
+II.1 was ruled to carry *neither-mind-nor-matter* into a definition **before Book I existed.**
+Book I now exists, and I.1 has already told the reader what the Ground is made of: **awareness.**
+
+So II.1 is no longer discharging an abstract debt into open space. It has to reconcile with a
+shipped mythic sentence that, read carelessly, hands the reader idealism — and a definition that
+merely *announces* neutrality after that sentence will lose to it, because the myth got there
+first and myth is stickier than a definition. **Registered as C24** (`07`).
+
+**And the amendment supplies what the original ruling lacked: a mechanism.** *"Neither mind nor
+matter"* is a denial of two options, which leaves the reader nothing to hold. **Nishida's pure
+experience** (`03`) is the positive form — aware *prior to* the subject/object split, hence prior
+to the mind/matter split. Pre-split awareness is not a third stuff; it is what both sides are
+abstractions *from*. **That is the definition II.1 owes**, and the retirement of `substrate` is
+paid off by it or not at all.
+
 *(Everything else in this file was already ruled and did not need him — including retiring "the map"
 from a document I wrote four hours ago.)*

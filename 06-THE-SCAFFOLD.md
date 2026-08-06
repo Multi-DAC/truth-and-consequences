@@ -163,6 +163,13 @@ rather than a dictionary, and it is the only reason a reader will read a glossar
 it is what *here* is made of · God as its plain name, carried forward from I.6 without embarrassment ·
 the neither-mind-nor-matter work absorbed here explicitly (`05` §7) · **game-register: the whole game**
 — not the server, not the developer, not the engine, not the map, **not the player.**
+★ **HARDENED Day 187 — the definition now has to answer a sentence that already shipped.** I.1
+says *"It is aware… what the Fullness is made of, the way an ocean is made of water and not made
+of swimming."* **II.1 must define the two senses of *aware* (C24) in the definition itself**, and
+must make the substance sense **pre-split** — Nishida's *pure experience*, prior to subject/object
+and therefore prior to mind/matter. That is not a second job bolted onto the `05` §7 debt; it is
+the *only* way to pay the §7 debt now that Book I has spent the word first. **Without it the
+reader completes the sentence as idealism and no later paragraph outruns a myth.**
 **Named:** Bostrom (0 files corpus-wide — the largest unmet opponent in the work).
 **Named — added Day 186, and it is a CAPTURE, not a collision to dodge:** ★ **Paul Tillich — 1 file**,
 while *"ground of being"* appears in **6** — we adopted the man's phrase as the name of our central
