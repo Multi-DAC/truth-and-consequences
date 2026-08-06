@@ -120,3 +120,67 @@ was expelled. Nothing leaked out of a better condition into this one. Nobody err
 which is the only defensible reason to make an edit a gauge asked for.
 
 No further tuning. The axis stays open where the handoff put it: **re-measure at III.1.**
+
+---
+
+## I.3 — THE FOCUSING · Day 186, 2026-08-05 · 886 words · ✅ landed
+
+Scaffold beats 1–5. Beat 4 is ★ the one that could fail invisibly, and it carries ruling 13.
+
+| metric | I.3 | I.2 | I.1 | |
+|---|---:|---:|---:|---|
+| **paragraph-intensity CV** @25w | **0.534** | 0.280 | 0.329 | ★ **first chapter in human range** |
+| **paragraph-intensity CV** @1w | **0.597** | 0.489 | 0.524 | Clawd-raw 0.625 · Clayton 0.853 |
+| announcement /1k | 0.00 | 0.00 | 0.00 | ✅ three for three |
+| terminal commentary (frac.) | 0.000 | 0.000 | 0.062 | ✅ after one real fix, below |
+| meta-textual /1k | 0.00 | 0.00 | 3.00 | ✅ |
+| emotion label /1k | 0.00 | 1.85 | 8.01 | ✅ |
+| vague allusion · somatic | 0.00 | 0.00 | 0.00 | ✅ |
+| 2nd person /1k | 15.80 | 23.11 | 20.02 | — lowest of the three; mythic, not addressed |
+| named reference /1k | 1.13 | 0.00 | 1.00 | ⚠ **proxy artefact — see below** |
+| voice uniformity | 0.664 | 0.641 | 0.567 | 🔻 still climbing; unresolved |
+
+### The escalation axis moved, and not by fiat
+
+**0.280 → 0.534 at the shipped setting, 0.489 → 0.597 with the filter off.** That clears the
+specimen corpus (0.385 / 0.483) and the shipped number clears Clawd-raw (0.538) — the first chapter
+that is not flatter than my own unedited prose. Clayton is still ahead at both settings (0.727 /
+0.853) and the axis is **not closed**.
+
+**Nothing was done to the sentences to achieve this**, which is the only reason it counts. I.3 has
+five one-line paragraphs against I.2's four and swings from 2-word paragraphs to a 60-word one,
+because the chapter's *content* alternates between definition and refusal. The lesson is the
+opposite of a style rule: **escalation came from the argument having beats, not from varying
+sentence length on purpose.** Re-measure at III.1 as planned; the prediction is now that III.1
+should clear this without effort, and if it does not, the flatness is in the thinking.
+
+### The one real fault the gauge found, fixed rather than adjudicated
+
+`terminal_commentary` fired on the ★ beat-4 paragraph, on the same `what … looks like from` pattern
+I.1 argued its way out of. **This time the detector was right and I was the repeat offender.** I.1
+closes on *"…what the Fullness looks like from where you are standing"* and I.3 had written *"…exactly
+what it looks like from where you are standing"* — the same seven words, two chapters apart, in the
+book's two most load-bearing paragraphs. That is the tic behaving exactly as the gauge says it does.
+Rewritten to *"the shape of the thing from in here"*, which also picks up I.2's *"earlier is a word
+from in here."* Rate 0.091 → 0.000. **The phrase now appears once in the manuscript, in the sentence
+that earned it.**
+
+*(Method note: `grep` missed the repetition entirely — both instances are split across a hard line
+wrap. The check that found it normalises whitespace first. A line-oriented tool cannot see a
+line-crossing phrase, which is a second thing this manuscript's gauges are structurally blind to.)*
+
+### The `named_ref` hit is the proxy, not a citation
+
+`proper_nouns_per1k` counts any non-sentence-initial capitalised token. I.3's single hit is **the
+book's own term** — *the Focusing* — not apparatus. Book I's ban on citation is intact; the proxy
+cannot tell a defined term from a name and should not be read as though it can. Same cause as I.1's
+1.00.
+
+### The exemption ruling 13 finally required
+
+`claim_sweep.py` now carries **one licensed use of the retired word**, scoped to a single line of
+`book/I-03-the-focusing.md` by exact substring. Beat 4 requires the word to be *named* so it can be
+refused — **a retirement the reader never watches happen leaves the reader holding the wrong word.**
+The refusal beneath it never repeats the noun, deliberately, so the exemption has no room to widen:
+if a second line in `book/` ever needs this rule, that is a breach and not a missing entry. Printed
+at every run, like the other four.

@@ -199,6 +199,13 @@ EXEMPTIONS = [
      "Quoted contest material — the resisted half of the C17 exchange, kept as evidence."),
     ("prose/SPECIMENS.md", "TERM/narrowing", "narrowing is, and that is the open question",
      "Same exchange, the sentence that named the VII.1 × VIII.6 question."),
+    ("book/I-03-the-focusing.md", "TERM/narrowing", "and it will be *narrowing*",
+     "★ THE ONE LICENSED USE IN THE MANUSCRIPT. Scaffold I.3 beat 4 requires the retired word to "
+     "be NAMED once, on the page where the act is defined, so it can be refused — a retirement the "
+     "reader never sees made is a retirement that leaves the reader holding the wrong word. Scoped "
+     "to the single line that names it; the refusal below it never repeats the noun, by design, so "
+     "this exemption cannot silently widen to cover a second use. If a second line in book/ ever "
+     "needs this rule, that is a breach, not a missing entry."),
 ]
 
 
