@@ -1582,3 +1582,79 @@ removes the dependency the old rule was protecting: **nothing is transcribed, so
 depended on.** What survives is a much smaller housekeeping item — the tree is *inspiration*, and
 inspiration you cannot open is inspiration you do not have. Verified present Day 186, both locally
 and on GitHub. → clone it into a live tree; five minutes; queued.
+
+---
+
+**39. THE HEDGES HAD A THIRD HOME AND IT WAS THE MAIN TEXT.** Fable, on the Book II read.
+Ruling 9 took the four epistemic tags off the page and *predicted displacement*: it named two
+destinations, footnote and coda, and closed both. It missed the one they took. **The sentence that
+asserts its own non-hedging.** Six shipped, across five of Book II's eight chapters:
+`and refusing it is not a softening` (II.2) - `and saying so is not throat-clearing` (II.4) -
+`and the refusal is not a caveat bolted onto the claim` (II.5) - `is not housekeeping and is not
+open for reconsideration` (II.5) - `and declines on principle rather than out of nerves` (II.7) -
+`or the whole list reads as a retreat` (II.8). * **The style contract already banned this** - *the
+clause that exists to pre-empt an objection* - and every one of the six walked past `PROSE/hedge`,
+because that rule hunts hedge VOCABULARY and this form contains none. It is the banned clause aimed
+at the book itself. ** **THE REMEDY IS ALWAYS DELETION, and that is the diagnostic for the whole
+class: the clause sits next to the reason it is trying to substitute for.** Cut it and the reason is
+still standing. All six cut this way and not one needed a replacement argument. Gauged:
+`claim_sweep.py` rule **`PROSE/antihedge`**, discriminating **on the subject** - the defect is when
+the subject is OUR OWN ACT (*the refusal*, *saying so*, *the retirement*, *this book*), not when the
+grammar merely matches. Trip-tested both directions before being trusted: 6/6 fire on the shipped
+instances, 0/5 on `Completeness is not a mood the Fullness is in` (I.1), `He was not hedging` (II.3,
+of Nishida), `the wrongness you have felt ... is not a mood` (II.8, of the reader), and two controls.
+A one-way test would have shipped a rule that ate good prose.
+
+**40. ** A SIXTH SILENCE: OWNER KNOWN IN THE RESEARCH, OWNER DROPPED AT THE DRAFTING BOUNDARY.**
+Fable, on II.7 - the chapter states relational quantum mechanics as its own doctrine (settling
+happens at a grade - a photon-electron interaction is a genuine settling with nobody watching - *the
+same matter can be closed for one perspective and open for another, and neither is mistaken*) and
+never names **Carlo Rovelli**, who published exactly that in 1996 (*Relational Quantum Mechanics*,
+Int. J. Theor. Phys. 35, 1637). Worse than the Tillich case on three counts: he is alive, he is
+famous outside physics, and **he is not an opponent** - he holds the chapter's position in the
+literature, so naming him converts II.7's weakest moment into its strongest. The chapter narrated the
+one interpretation that died (Wigner's) and named no live one.
+
+* **AND THE COUNT CORRECTS THE FINDING THAT FOUND IT.** Fable's conjecture - *"the corpus count would
+presumably show him at or near zero"* - is **false**. Measured under the standing contract (2,550
+files, archives excluded): **Rovelli 14**, better attested than Peirce (3), Zeh (3), Everett (5). So
+this is **not** `03` section 3.5's fifth silence, *doctrine used, owner never known*. The name was
+read and written down fourteen times and did not survive the transfer into the manuscript.
+** **SECTION 3.5 IS BLIND TO THIS BY CONSTRUCTION: it ranks names by how THIN they are in the corpus,
+so a name the corpus knows well is exactly what it filters OUT** - it sorts Rovelli to the bottom of
+the worry list on the strength of the same 14 that damn him. An instrument pointed at our ignorance
+cannot see a failure of our memory. Gauged: **`tools/ancestor_gap.py`**, the corpus-to-book
+differential nothing in this project performed - `ancestor_sweep` counts the corpus, `claim_sweep`
+sweeps the book, and the boundary between them was unwatched. Calibrated against pre-edit `HEAD`:
+Rovelli corpus 14 / book 0 -> fires. **Its honest limit, and the reason Fable is not replaceable by
+it:** the seed list is names somebody already nominated. A figure in neither `03` nor
+`ancestor_sweep.TERMS` is invisible to it however load-bearing - and **QBism (2), Fuchs (1), Mermin
+(1) all sit under the threshold**, which is the near-miss-to-cut class in general: we never
+researched the position we exist to be distinguished from. That class is found by an outside reader
+who knows the field.
+
+**41. THE ONE SENTENCE IN II.7 THAT WORE OBSERVATION'S CLOTHES.** Fable: *"A cut whose position the
+equations cannot fix is precisely what you would expect if the position were set by something the
+equations do not mention."* Inference-to-best-explanation dressed as a reading of the formalism - and
+the borrowed-formalism pattern the earlier corpus was repeatedly caught on, in the one chapter built
+to refuse it. **The chapter's own closing paragraph disclaims exactly this dependence**, so the
+sentence was already contradicted a few paragraphs later by its own author. Cut, not softened. What
+replaces it says what can honestly be taken: *a gap in a formalism is not a shape pressed into that
+formalism from outside, and von Neumann's silence is silence.* * The general form, and it outranks
+the instance: **a chapter that disclaims a dependence in its last paragraph will still have leaned on
+it in the middle, because the disclaimer is written by the part of you that knows better and the lean
+is written by the part that wants the point.** The disclaimer is not the check. Nothing in the
+apparatus reads a chapter against its own concessions; that is currently a job for a reader.
+
+**42. II.7 AND II.8 BOTH CONTAINED THE BAN'S THESIS SENTENCE, VERBATIM - AND II.8 CLAIMED TO BE
+SAYING IT FIRST.** Found while cutting ruling 39's sixth instance, which was welded to it: *"the
+thing that has to be said once, plainly ... what is banned is a vague word, never a bold claim"* -
+the second utterance, announcing itself as the only one. II.7 had already stated it.
+* **This is a THIRD gap class in the duplicate apparatus, and neither existing tool can reach it:**
+`beat_sweep` compares plans to plans, `prose_beat_sweep` (ruling 33) compares shipped prose to
+undrafted beats, and **nothing compares shipped prose to shipped prose.** Two drafted chapters may
+currently repeat each other verbatim and every gauge exits 0 - as all four did on the run that
+shipped this. Fixed in the text by deletion: II.8 now points back (*the test was stated last chapter;
+the roster is nothing but its application*) and then **demonstrates** it instead of restating it,
+which is the book's own doctrine about paying on the page. **The gauge for the class is NOT built and
+is the top of the queue.** Logged as absent rather than left to be discovered, per ruling 38.

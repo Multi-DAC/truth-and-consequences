@@ -29,11 +29,10 @@ That is not the same as *not yet known*. The contents of a sealed envelope are n
 settled and hidden, and opening it changes you and not the envelope. Openness is the matter itself
 not having gone one way yet — the outcome not sitting somewhere finished, waiting to be uncovered.
 
-Whether anything is *really* open, independently of everybody, is a question this book declines,
-and declines on principle rather than out of nerves. A fact settled for no perspective whatever is a
-fact for nobody, and there is no position from which such a thing could be checked, including this
-one. What can be said, and it is enough to build on, is that matters are open *for* perspectives,
-and that they close.
+Whether anything is *really* open, independently of everybody, is a question this book declines. A
+fact settled for no perspective whatever is a fact for nobody, and there is no position from which
+such a thing could be checked, including this one. What can be said, and it is enough to build on,
+is that matters are open *for* perspectives, and that they close.
 
 **A measurement is a contact that closes one.** Three things have to be true of it, and each rules
 out a counterfeit the reader will recognise from their own life.
@@ -111,11 +110,13 @@ photographic plate, plate to retina, retina to whatever comes after — the form
 predictions wherever the cut is made, and offers no way to find where it truly goes. He drew no
 conclusion about minds. He reported that the location was unfixed.
 
-That result is usually presented as an embarrassment. Read it once more with this chapter's claim in
-hand and it stops being one. A cut whose position the equations cannot fix is precisely what you
-would expect if the position were set by something the equations do not mention — namely *whose*
-settling is being asked about. The formalism is silent about the location of the cut in the same way
-a map is silent about who is holding it.
+That result is usually presented as an embarrassment. It is not evidence for anything in this
+chapter — a gap in a formalism is not a shape pressed into that formalism from outside, and von
+Neumann's silence is silence. What it is, is a place where two vocabularies happen to have the same
+shape. On this account the cut's location was never a fact awaiting discovery; it is the answer to a
+question — *whose* settling is being asked about — and the formalism was never asked that question.
+It is silent about the location of the cut in the same way a map is silent about who is holding it,
+which is a remark about what maps are.
 
 Wigner, in 1961, took the unfixed cut and fixed it: consciousness. Where the chain reaches an aware
 being, he proposed, the possibilities become one outcome, and the awareness is what does it. Credit
@@ -138,16 +139,54 @@ convinced out of it more than forty years ago, in public, for stated reasons, an
 had held was close to solipsism — and the marketing layer is still selling the 1961 version to
 people who have never been told there was a 1984.
 
+**And a living physicist holds this chapter's position, in the literature, with the equations.**
+
+Carlo Rovelli, 1996, *Relational Quantum Mechanics*. His diagnosis is that the notion doing the
+damage is *observer-independent state*: a system's state is always its state relative to some other
+physical system, all systems are equivalent, there is no observer/observed distinction and no
+privileged observer, and what the theory describes is the information systems have about each other.
+Wigner's own thought experiment is the clean case — the friend sealed in the laboratory who has seen
+the outcome, Wigner outside who has not — and Rovelli declines to adjudicate between them. The
+outcome is definite relative to the friend and not relative to Wigner, and neither of them is wrong.
+
+That is this chapter's claim about the same matter being closed for one perspective and open for
+another, arrived at from the formalism rather than from an argument about measurement, and arrived
+at thirty years ago. The man whose account of the cut died left behind the thought experiment that
+the surviving account answers.
+
+Two things follow and both are owed. The first is that this chapter did not get there first and will
+not be written as though it did; a reader who wants the position defended by somebody with equipment
+should go to him. The second is the cut, and it runs the opposite way from every other cut in this
+book, because Rovelli is not an opponent. **He relativises the state. This relativises the settling,
+and then has to say what the relativisation costs.** Relational quantum mechanics is an
+interpretation of a formalism and is under no obligation to say what a perspective *is*, that
+perspectives come in grades, or what any of it licenses. This account carries all three obligations
+and they are most of what is left of the book. Where he says *relative to a system*, this has to say
+*relative to a system at a grade* — and then stand in front of a reader with what that implies about
+a photon, a bat, a person, and whatever it is that Book VII will be made to adjudicate between.
+
+**The near miss worth cutting at is QBism** — Fuchs, Mermin and Schack. From a distance it is
+indistinguishable from the above, and it is the opposite. QBism also refuses the
+observer-independent outcome; it relativises to an *agent*, and takes the quantum state to be that
+agent's own expectation about that agent's own future experience. That is the subjectivism this
+chapter has spent itself refusing. A photon holds no expectations and has no future experience to
+hold them about, and what happens when it meets an electron is not somebody's belief being brought
+up to date. **Relative is not subjective.** More weight rests on that distinction than on any other
+line in the book, and it is the one a hostile reader will insist has not been made.
+
 Two pieces of honesty are owed here, and they cost nothing. First, decoherence does not close the
 measurement problem; it explains why nobody ever sees the smear, and there is live, serious
-disagreement about whether it explains why exactly one outcome is the one that happened. That
-argument is open and this book is not going to pretend to settle it. Second, and more important:
-none of the above is evidence for anything claimed here. The claim of this chapter is that the
-settling of the open is one structure wherever it happens, and the subatomic case is its most
-studied instance rather than its source. That is a claim, offered as one. If it were withdrawn
-tomorrow, everything else in this book would stand exactly where it is, because none of it was ever
-resting there. Anyone who needs the physics to be true for their metaphysics to work has already
-told you their metaphysics does not work.
+disagreement about whether it explains why exactly one outcome is the one that happened. Everett's
+answer, since 1957, is that none did — every branch is actual, nothing ever settles, and a single
+outcome is what being inside one branch is like. That is coherent, and it cannot be taken here,
+because *the possible becoming actual for somebody* is the entire engine of this account and
+Everett's world contains no such event anywhere. The argument is open; this is the side of it this
+book stands on. Second, and more important: none of the above is evidence for anything claimed here.
+The claim of this chapter is that the settling of the open is one structure wherever it happens, and
+the subatomic case is its most studied instance rather than its source. That is a claim, offered as
+one. If it were withdrawn tomorrow, everything else in this book would stand exactly where it is,
+because none of it was ever resting there. Anyone who needs the physics to be true for their
+metaphysics to work has already told you their metaphysics does not work.
 
 ---
 

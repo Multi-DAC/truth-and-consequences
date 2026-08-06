@@ -143,17 +143,17 @@ the marketing layer does not, and it still has to go. An analogy has to be made 
 already have. A word that is unfamiliar and impressive does not explain a claim to you; it lends the
 claim somebody else's authority, which is a loan of standing dressed as a transfer of meaning.
 
-**And the thing that has to be said once, plainly, or the whole list reads as a retreat: what is
-banned is a vague word, never a bold claim.**
+**The test was stated last chapter; the roster is nothing but its application.**
 
-Take the biggest one. *Everything is vibration* is groping toward something true, and the trouble
-with it is not that it claims too much. Here is the claim, in this book's vocabulary, and it is
-larger rather than smaller: **there is no stuff.** Nothing here is made of material that would still
-be material with nobody in contact with it. What there is, is arrangement — and solidity, weight, the
-resistance of a table against a hand, are what contact with an arrangement is like *at a grade*.
-That is a heavier claim than the one being refused, and it is stated in words that mean something, so
-it can be argued with. The banned sentence cannot be argued with. That is its defect, and it is the
-whole defect: not that it is too wild, but that it is not saying anything specific enough to be wrong.
+So take the biggest one on it. *Everything is vibration* is groping toward something true, and the
+trouble with it is not that it claims too much. Here is the claim, in this book's vocabulary, and it
+is larger rather than smaller: **there is no stuff.** Nothing here is made of material that would
+still be material with nobody in contact with it. What there is, is arrangement — and solidity,
+weight, the resistance of a table against a hand, are what contact with an arrangement is like *at a
+grade*. That is a heavier claim than the one being refused, and it is stated in words that mean
+something, so it can be argued with. The banned sentence cannot be argued with. That is its defect,
+and it is the whole defect: not that it is too wild, but that it is not saying anything specific
+enough to be wrong.
 
 ---
 

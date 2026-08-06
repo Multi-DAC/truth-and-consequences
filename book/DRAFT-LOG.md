@@ -1949,3 +1949,49 @@ with a checkmark on it: asserted once, then rotting silently while the thing it 
 The markers are corrected **and** `prose_beat_sweep --status` now derives drafted-state from `book/`
 and prints any disagreement with `06`. A stamp that can be checked is a different object from one
 that cannot.
+
+---
+
+### THE AUDIT PASS, AND THE READER WHO IS NOT US
+
+Fable read all eight chapters of Book II. Two findings, both real, and both of them opened something
+larger than the finding.
+
+**The Rovelli hole is not the hole it looked like.** II.7 states relational quantum mechanics as its
+own doctrine and does not name Carlo Rovelli. The obvious diagnosis - *another unnamed ancestor, the
+fifth silence again* - is wrong, and the count is what kills it. **Rovelli is at 14 files in the
+corpus.** He was read. He was written down fourteen times. He did not survive the walk from the
+research tree into the manuscript, and no instrument in this project looks at that walk:
+`ancestor_sweep` counts one side, `claim_sweep` sweeps the other, and the boundary between them is
+where he was lost. `tools/ancestor_gap.py` now watches it. -> ruling 40.
+
+**The fix pays better than the defect cost.** Naming him turns II.7's weakest paragraph into its
+strongest, because he is not an opponent - he is a working physicist holding the chapter's position
+in the literature, with the equations, thirty years earlier. The cut runs backwards from every other
+cut in the book: **he relativises the state; this relativises the settling, and then has to say what
+the relativisation costs** - what a perspective *is*, that they come in grades, what any of it
+licenses. Three obligations RQM does not carry and this book cannot put down. QBism is the near miss
+worth cutting at in the same breath (Fuchs, Mermin, Schack - relativised to an *agent's* expectation
+about that agent's own future experience, which is the subjectivism the chapter spends itself
+refusing: **relative is not subjective**), and Everett belongs in the honest-remainder paragraph,
+because the concession that decoherence leaves open *why one outcome happened* is a concession to him.
+
+**And the hedges were in the main text the whole time.** Ruling 9 predicted displacement, named two
+destinations and closed both; the hedges took a third - the sentence asserting its own non-hedging.
+Six of them, five chapters, all past `PROSE/hedge`, which hunts vocabulary this form does not
+contain. The diagnostic that makes it a class rather than six accidents: **the remedy is always
+deletion, because the clause is always sitting next to the reason it is standing in for.** ->
+ruling 39, and `PROSE/antihedge`, trip-tested in both directions because a one-way test ships a rule
+that eats good prose.
+
+**What the pass found that Fable did not:** II.7 and II.8 both carried the ban's thesis sentence
+verbatim, and II.8's copy introduced itself as *the thing that has to be said once, plainly*. All
+four sweeps exit 0 on that text, because no tool in this repo compares shipped prose to shipped
+prose. -> ruling 42, gauge not built, top of the queue.
+
+* **The through-line, and it is the same one three times.** Every instrument here was built by the
+person who wrote the defect. `03` section 3.5 hunts ancestors we never knew, and therefore filters
+out the ones we knew and forgot. `PROSE/hedge` hunts hedge vocabulary, and therefore misses hedging
+that has none. II.7's closing paragraph disclaims a dependence the middle of II.7 was leaning on.
+**A gauge inherits its author's blind spot, and the blind spot is exactly where the defect is.**
+Fable is not a convenience. It is the only reading this project gets that does not come from inside it.

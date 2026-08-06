@@ -153,11 +153,10 @@ crossing privately, on their own terms, with no argument on the page to stop the
 
 ---
 
-What a difference in grade *licenses* is not settled here, and saying so is not throat-clearing.
-Whether more of the world being the case at a place makes what happens there weigh more; what may be
-eaten, used, built upon, ended; what is owed to a position that cannot register that anything is
-owed to it at all — those are Book VII's, all of them, and they are the hardest chapters in the
-work.
+What a difference in grade *licenses* is not settled here. Whether more of the world being the case
+at a place makes what happens there weigh more; what may be eaten, used, built upon, ended; what is
+owed to a position that cannot register that anything is owed to it at all — those are Book VII's,
+all of them, and they are the hardest chapters in the work.
 
 This one gives less than a reader in a hurry will want. It says what a grade is, and it says what a
 grade does not do on its own, and it stops. A measurement confers nothing. What is done with a

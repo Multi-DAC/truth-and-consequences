@@ -217,6 +217,42 @@ RULES = [
      None,
      "The register rule. The four epistemic tags are off the page and the hedging register with "
      "them. Ground in evidence, ground in reasoning, or cut it."),
+    # RULING 39 (Day 187, Fable). THE THIRD HOME OF THE HEDGES. Ruling 9 took the four
+    # epistemic tags off the page and predicted displacement; it named two destinations,
+    # footnote and coda, and closed both. It missed the one the hedges actually took:
+    # **the sentence that asserts its own non-hedging.** Six instances shipped, across
+    # five of Book II's eight chapters, while PROSE/hedge above read clean — because
+    # PROSE/hedge hunts hedge VOCABULARY and this form contains none. It is the style
+    # contract's already-banned move (*the clause that exists to pre-empt an objection*)
+    # aimed at the book itself.
+    #
+    # THE DISCRIMINATOR IS THE SUBJECT, and it has to be, or the rule eats good prose.
+    # "Completeness is not a mood the Fullness is in" (I.1), "He was not hedging" (II.3,
+    # of Nishida), "the wrongness you have felt ... is not a mood" (II.8, of the reader)
+    # are all the same grammar and none of them are the defect. The defect is when the
+    # subject is OUR OWN ACT — the refusal, saying so, the retirement, this book.
+    #
+    # THE REMEDY IS ALWAYS DELETION, and that is the tell for the whole class: the clause
+    # sits next to the reason it is trying to substitute for. Cut it and the reason is
+    # still standing. All six cut this way; not one needed a replacement argument.
+    ("PROSE/antihedge", "prose",
+     r"(?:the refusal|refusing it|refusing them|the declining|declining it|saying so|"
+     r"admitting it|admitting so|the retirement|the ban|the whole list|the roster|"
+     r"the restraint|the deferral|the omission|the reservation|the exception|the caveat|"
+     r"the qualification|the silence|this chapter|this book)"
+     r"[^.;:!?]{0,50}?(?:is|are|reads|sounds|looks)\s+not\s+(?:a |an |the )?"
+     r"(?:soften\w*|caveats?|hedg\w*|throat.clearing|housekeeping|retreat|apolog\w*|"
+     r"disclaimers?|equivocation|evasion|nerves?|timidity|cowardice|posture|excuses?|"
+     r"cop.out|climb.down|padding|pedantry|fussiness|bookkeeping)"
+     r"|(?:declines?|refuses?|withholds?|defers?)[^.;:!?]{0,40}?"
+     r"rather than (?:out of |from )?(?:nerves?|fear|timidity|cowardice|caution|"
+     r"politeness|modesty|hedging|throat.clearing)"
+     r"|(?:or|lest)[^.;:!?]{0,60}?(?:reads?|sounds?|looks?) (?:as|like) (?:a )?"
+     r"(?:retreat|climb.down|hedge|apology|cop.out|evasion)", None,
+     "Ruling 39 — the hedges' third home: the sentence that asserts its own non-hedging. "
+     "The style contract already bans the clause that exists to pre-empt an objection; this "
+     "is that clause pointed at the book. Delete it — the reason it stands next to is the "
+     "argument, and it survives the cut alone."),
     ("PROSE/outlist", "prose",
      r"Timewave|Novelty Theory|eight[- ]circuit|Terror Management|Stoned Ape", None,
      "00's out-list — out because we do not hold them, not because a skeptic would object."),

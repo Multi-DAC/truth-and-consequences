@@ -28,10 +28,10 @@ doer is there it can be praised, or blamed, or addressed. He was right about the
 was right that the strength of the intuition is evidence about grammar rather than about the world.
 
 Where he goes and this does not: he wanted the doer gone everywhere, the subject itself a fiction,
-and the inside dissolved along with it. That is not available here, and refusing it is not a
-softening. There is nobody focusing. There is somebody in focus. The vantage is not a trick of
-syntax; it is the one thing in this account that is unarguably occupied, and you are reading from
-it. What gets denied is the actor standing *behind* the act, not the one standing *in* it.
+and the inside dissolved along with it. That is not available here. There is nobody focusing. There
+is somebody in focus. The vantage is not a trick of syntax; it is the one thing in this account that
+is unarguably occupied, and you are reading from it. What gets denied is the actor standing *behind*
+the act, not the one standing *in* it.
 
 In the game: the Focusing is not a move. Nothing is played here. It is what it is for the game to be
 anywhere at all.

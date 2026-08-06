@@ -73,9 +73,9 @@ The criterion earns its place immediately, because it forbids something.
 **A wish is not a repetition.** Nothing installs by being preferred once, or strongly, or sincerely.
 This matters more than any other line in the chapter, because *filters are editable* is the sentence
 in this book most likely to be quoted by somebody it was not written for, and the version they will
-want is the one where the world attends to what you would like. It does not, and the refusal is not
-a caveat bolted onto the claim. It is in the claim. What is installed by repetition is workable by
-repetition, and that is the whole of what editability means here.
+want is the one where the world attends to what you would like. It does not. The refusal is in the
+claim rather than bolted onto it. What is installed by repetition is workable by repetition, and
+that is the whole of what editability means here.
 
 ---
 
@@ -176,13 +176,13 @@ render is not a correct map of the Ground — and, at a cost this book should pa
 an incorrect one either. A render is not a candidate for accuracy against the Ground at all.
 Accuracy is a relation between two things that have shapes, and only one of these does.
 
-Which is why `05`'s retirement of *the map* as a name for the Ground is not housekeeping and is not
-open for reconsideration when a later chapter wants a familiar image. Call the Ground the territory
-and you have imported the second clause with it. The second clause then delivers, free and
-unargued: a best render, a most correct tunnel, a rank ordering of worlds with somebody's at the
-top. Nobody would defend that position in an argument. Nobody would have to. The word would have
-done it, silently, before the argument started — and a word that argues on its own is precisely what
-this book retires, whatever it is otherwise worth.
+Which is why `05`'s retirement of *the map* as a name for the Ground is not open for reconsideration
+when a later chapter wants a familiar image. Call the Ground the territory and you have imported the
+second clause with it. The second clause then delivers, free and unargued: a best render, a most
+correct tunnel, a rank ordering of worlds with somebody's at the top. Nobody would defend that
+position in an argument. Nobody would have to. The word would have done it, silently, before the
+argument started — and a word that argues on its own is precisely what this book retires, whatever
+it is otherwise worth.
 
 ---
 
