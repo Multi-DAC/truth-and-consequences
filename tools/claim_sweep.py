@@ -246,7 +246,13 @@ RULES = [
      r"hide[- ]and[- ]seek|divine play", None,
      "C6 — the Ground cannot play. Watts's picture arrives wearing warmth, which is why Trap 3's "
      "usual detectors miss it. NOTE: legitimate where the cut is being MADE — I.6 b4 (the early "
-     "guard), III.2 (the full argument, Day 187: the site of record), VIII.6."),
+     "guard), III.2 (the full argument, Day 187: the site of record), III.5, VIII.6. "
+     "⚠ III.5 WAS MISSING FROM THIS LIST UNTIL DAY 187 AND THE OMISSION WAS THE GAUGE'S, NOT THE "
+     "PROSE'S. C9's register entry has always required the mask to be named at III.5 — *it must be "
+     "named at III.5 too, because that is where the reader first has the thought* — so the gauge's "
+     "licensed-site list contradicted the claims register for as long as both existed, and the "
+     "contradiction was invisible because III.5 was undrafted. A licence list that is only checked "
+     "against the chapters already written is a list that ages into a false positive on schedule."),
 
     # --- prose-only ------------------------------------------------------------
     ("PROSE/self-reference", "prose",
@@ -499,6 +505,29 @@ EXEMPTIONS = [
      "is a costume and C9 is deleted while appearing to be affirmed — this line is that consequence "
      "written out, antecedent-first, in order to refuse it. Same shape as the I.6:53 exemption: the "
      "warm picture stated in the reader's terms so it can be refused in the next breath."),
+    # --- Day 187, III.5. THREE lines, the second cashing of the rule's NOTE, and the first one the
+    #     NOTE did not already name — see the ⚠ appended to C6/godplayer above. C9's trap is the
+    #     generous-sounding inversion, and the register requires it named HERE because III.5 is
+    #     where the reader first has the thought. Line by line, not whole-file, for the III.2 reason:
+    #     the chapter that refuses a claim is exactly where a real breach would read as the refusal.
+    ("book/III-05-there-are-no-npcs.md", "C6/godplayer",
+     "*Everyone is God in a mask.*",
+     "★ THE TRAP STATED, in the reader's own words and at full warmth, so that it can be refused in "
+     "the paragraphs under it. Same shape as I.6:53 and III.2's third entry. This is the line C9's "
+     "register entry mandates and the one the rule's NOTE had not anticipated."),
+    ("book/III-05-there-are-no-npcs.md", "C6/godplayer",
+     "divine player was taken apart on his own merits",
+     "THE CITATION OF THE CUT, not the cut again. III.2 is the site of record and this line says so "
+     "— the pattern fires on 'divine player' inside a sentence whose whole content is that the "
+     "argument was made two chapters ago and is not being made twice."),
+    ("book/III-05-there-are-no-npcs.md", "C6/godplayer",
+     "If there is one player wearing every face",
+     "THE COST, in the conditional, second placement. The identical antecedent is exempted at "
+     "III.2:109 — and the two are doing different work: III.2 draws the cost for C6 (the Ground "
+     "cannot play), III.5 draws it for C9 (the person in front of you is not a position the one "
+     "somebody is occupying). Two chapters, one sentence-shape, two claims. ⚠ A THIRD USE OF THIS "
+     "ANTECEDENT IS A TIC, not a discipline — VIII.6 is the last licensed site and it should reach "
+     "for a different form."),
     ("book/DRAFT-LOG.md", "C15/trap5", "the union telos is four sentences later",
      "Day 187, ruling 59. The III.2 entry recording that Trap 5 is stated VERBATIM in Watts's "
      "primary text — the log cannot record where the trap was found without naming it. Fresh line "

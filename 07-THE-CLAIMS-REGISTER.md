@@ -168,14 +168,32 @@ VII.2's ruling that grade *still bears on standing* is exactly where that will l
 ### C9 — THERE ARE NO NPCs
 > **Canonical:** Every entity is a player at its own grade. There are no non-players.
 
-**Establishes:** III.5 · II.4
+**Establishes:** III.5 · II.4 — ✅ **DRAFTED Day 187. III.5 is where C9 is ESTABLISHED.**
 **Depends:** all of Book IV · VII.2 · VII.3 · VII.4 · VII.6 · VIII.6
 **Derived from:** C7 + C8 + C6. **If C7 is hedged anywhere, C9 stops being a claim and becomes
 a preference** — and Book VII's obligations become recommendations.
+★ **AND THE DERIVATION IS THE CHAPTER'S SPINE, not its footnote — Day 187.** III.5 asserts nothing
+new; it collects three signatures the reader gave in three separate places, on three separate
+arguments, each made where nothing appeared to be at stake. **The strongest form the claim can
+arrive in is the one where the reader has already granted it.** What the chapter is actually about
+is the distance between a conclusion you can derive and one you hold, which is not logical and
+cannot be closed by a further argument.
 **Trap:** the generous-sounding inversion, *"everyone is God in a mask."* It dissolves the
 person in front of you while sounding like maximal respect. Named as the failure mode at
 VIII.6 and it must be named at III.5 too, because that is where the reader first has the
-thought.
+thought. ✅ **NAMED THERE, Day 187** — with the diagnostic kept as a single question, because both
+pictures answer *is there somebody in there* with yes: **is it *them*?** ⚠ **RULING 75: the gauge
+disagreed with this entry and the disagreement could not fire.** `claim_sweep`'s `C6/godplayer` NOTE
+licensed the god-player at I.6, III.2 and VIII.6 only — contradicting the sentence directly above it
+for as long as both existed, invisibly, because III.5 was undrafted. **A licence list validated only
+against the chapters already written ages into a false positive on a schedule nobody set.**
+★ **THE SECOND TRAP, found in the drafting and not in this register — Day 187: the floor.** Every
+serious ancestor of this claim keeps one, and they are at four different places. Bruno at spiritual
+substance, the Jains at *jīva*, the enactivists at metabolism, Schweitzer at will. **A floor is what
+makes a doctrine livable** — it is where the obligation stops. C9 removes it, so **C9 is the claim
+that makes Book VII structurally necessary rather than merely promised**: it incurs a debt none of
+the four ancestors incurred, and the debt is *how the obligation gets carried once nothing bounds
+it*. ⚠ Any chapter DEPENDING on C9 should be checked against that, not against the mask.
 
 ### C10 — CO-CONSTITUTION
 > **Canonical:** The world is rendered at the point of contact. The seed is not solely yours;

@@ -400,6 +400,18 @@ def brief_report(rows, exempt=True, quiet=False):
 
 
 DRAFTED_MARK = re.compile(r"^### ((?:[IVX]+|C)\.\d+)\b.*?(✅\s*DRAFTED)?$")
+# RULING 81 (Day 187). The marker is not always on the heading line, and reading only the
+# heading line is how this arm reported every Book III chapter as unmarked for four chapters
+# while `06` carried a ✅ for each of them. Books I and II put the tick INLINE
+# (`### II.1 — THE GROUND ✅ DRAFTED — 2,282 words`); Book III put it on its own line
+# underneath, because the entries grew long enough that a heading could not hold the word
+# count, the filename, the source discipline and the rulings. Nobody decided that; it just
+# happened at III.1 and the gauge went on measuring the old place.
+#   The fix reads the chapter's whole BLOCK — heading to next `###` — and accepts a line that
+# BEGINS with the tick. Anchored, not free: a bare mention of the word DRAFTED inside a beat
+# is not a marker, and a marker for a DIFFERENT chapter inside this chapter's block would need
+# to open its own line with a ✅ to count, which is a thing the format does not do.
+BLOCK_MARK = re.compile(r"^✅\s*\*{0,2}DRAFTED", re.M)
 
 
 def status(scaffold_text, dr):
@@ -410,14 +422,21 @@ def status(scaffold_text, dr):
     silence while the thing it describes moves on — which is exactly what happened. The joint
     read caught the rot and MIS-COUNTED IT, reporting four unmarked chapters when the real
     number was ten, because Book I carries no marker at all and nobody thought to look there.
-    A stamp with a gauge behind it is a different object from a stamp."""
+    A stamp with a gauge behind it is a different object from a stamp.
+
+    ⚠ AND THEN IT ROTTED ITSELF — ruling 81. See BLOCK_MARK above: this function read the
+    heading line only, Book III moved the tick to the line below, and the gauge written to
+    catch an unmeasured stamp spent four chapters reporting a stamp that was there. The
+    lesson is the one it was already carrying, one level down: a gauge is a claim about
+    where to look, and that claim rots exactly like the stamp does."""
     marked, missing, phantom = set(), [], []
-    for line in scaffold_text.splitlines():
-        m = DRAFTED_MARK.match(line)
-        if not m:
-            continue
-        cid = m.group(1)
-        if "DRAFTED" in line:
+    lines = scaffold_text.splitlines()
+    heads = [(i, m.group(1)) for i, line in enumerate(lines)
+             for m in [DRAFTED_MARK.match(line)] if m]
+    for n, (i, cid) in enumerate(heads):
+        end = heads[n + 1][0] if n + 1 < len(heads) else len(lines)
+        block = "\n".join(lines[i:end])
+        if "DRAFTED" in lines[i] or BLOCK_MARK.search(block):
             marked.add(cid)
             if cid not in dr:
                 phantom.append(cid)

@@ -2743,3 +2743,171 @@ problem and said nothing about the 190KB that had just gone. Restored from `git`
 because the document was committed. **Standing rule, alongside the PowerShell double-encoding note in
 the III.2 entry: append with `open(..., 'a')` or a temp file — never read, concatenate and
 `write_text` back.** A read-modify-write with an encoding failure in the middle is a delete.
+
+---
+
+## III.5 — THERE ARE NO NPCs · Day 187 (2026-08-06) · 4,188 words
+
+**Book III is 5 of 8. This is the chapter the whole work's ethics is downstream of, and it asserts
+nothing new.**
+
+C9 is *derived* — C7 + C8 + C6 — so the chapter's spine is not an argument but a collection: the
+reader signed all three terms already, in three separate places, on three separate arguments, each
+made where nothing appeared to be at stake. The chapter's real subject is the distance between a
+conclusion you can derive and one you hold, which is not logical and cannot be closed by a further
+argument.
+
+### What the chapter had to do, and what discharged each thing
+
+| owed | by whom | discharged |
+|---|---|---|
+| every entity a player at its own grade | `06` beat 1 | the **conjunction**, stated as a conjunction: nothing added, three signatures collected |
+| the MMO split, made openly | `06` beat 2 | **ruling 76** — half kept, half handed back, and the operative half is not the one the beat named |
+| the enactivist floor | III.4's forward sentence | cut on **membership**, which is a different cut from III.4's cut on *duration* and survives if that one is conceded |
+| what it costs on a Tuesday | `06` beat 3 | what is removed is **a premise, not an action** — *there's nobody in there* is unsaid, unaudited, and load-bearing |
+| the promissory note to Book VII | `06` beat 4, C9 | cashes III.2:150's forward hand and states **the missing premise by name** |
+| the trap | C9's register entry | *everyone is God in a mask* — named, and see ruling 75 |
+| Jainism · Schweitzer · Bruno | `06`, added Day 186 | all three named, quoted from primary text, each cut |
+| the one prior NPC sentence | `03` §3.6 | quarried for the close, re-cut, not lifted |
+
+★ **THE CHAPTER'S BEST FINDING, and it was not in the plan: four ancestors, four floors, every one
+drawn somewhere different and every one drawn.** Bruno at spiritual substance, the Jains at *jīva*,
+the enactivists at metabolism, Schweitzer at will. These are among the most generous accounts anyone
+has produced, they disagree with each other about where the boundary falls, and not one of them
+lacks a boundary. **That is not failure of nerve — a floor is what makes a doctrine livable**, it is
+where the obligation stops, and an obligation that does not stop is one nobody can carry through an
+afternoon. This book removes it, which is precisely why the note to Book VII is structurally
+necessary rather than a deferral: we owe what none of the four owed.
+
+★★ **AND THE JAIN GATE, which is the sharpest instance of it.** The *Ācārāṅga* grants an inside to
+earth, water, fire and air — further than any Western position has gone — and Jain metaphysics is
+still a dualism, *jīva* and *ajīva*, with matter as such on the far side. **C8's exact defect, in the
+tradition that went furthest.**
+
+### Quotations — eight, from three works, every one checked against a second independent source
+
+| # | source | second check |
+|---|---|---|
+| 1–3 | **Giordano Bruno**, *De la causa, principio et uno* (London, 1584), Dialogue II — the table/spiritual-substance passage · Polihimnio's *Ergo, quidquid est, animal est* · Teofilo's *Not all things that possess soul are called animate* and the substance-vs-act distinction | Jack Lindsay's English **and the Italian original** — a **cross-language** check, which verifies the claim and not the orthography |
+| 4–6 | ***Ācārāṅga Sūtra***, Jacobi, *Sacred Books of the East* vol. 22 (1884) — I.5.5 *As it would be unto thee* · *The Self is the knower (or experiencer)* · I.1.2 the blind-man simile | two independent archive.org scans (`jainasutrasparti029233mbp`, `in.ernet.dli.2015.37732`), agreeing word for word including Jacobi's parentheses |
+| 7–8 | **Albert Schweitzer**, *Civilization and Ethics* (Campion, 2nd English ed. 1929, as revised 1946) — the will-to-live sentence · the ethics sentence · *the good conscience is an invention of the devil* | two scans of that edition **and** — the stronger check — **John Naish's independent 1923 first English edition**, a different translator |
+
+⚠ **NAME THE LIMIT ON THE SCHWEITZER CHECK, because it is weaker than it looks.** The two DLI scans
+are two scans of **the same edition**. That verifies OCR and nothing else. What verifies the *claim*
+is Naish, and Naish's wording is visibly different — *"I am life which wills to live, and I exist in
+the midst of life which wills to live"* against Campion's *"I am life which wills to live, in the
+midst of life which wills to live."* Campion's is the form quoted; Naish's existence is what makes
+the quotation safe. **Two copies of one edition is one source with two OCR passes.**
+
+⚠ **RULING 80 — a running head disagreed with a lesson heading, and the running head lost.** The
+blind-man simile sits between Jacobi's `SECOND LESSON` and `THIRD LESSON` headings while the page's
+running head reads `BOOK I, LECTURE I, LESSON 3`. Cited by the structural marker (I.1, Second
+Lesson), not the header. Both scans carry the same discrepancy, so it is the 1884 typesetting and
+not the OCR. **A second digitisation cannot catch an error the printer made.**
+
+### Rulings 75–80
+
+**75 — the gauge's licensed-site list contradicted the claims register, and could not have fired.**
+`claim_sweep`'s `C6/godplayer` NOTE licensed the god-player at I.6, III.2 and VIII.6. C9's register
+entry has always required the mask to be named **at III.5** — *because that is where the reader
+first has the thought.* The two documents disagreed for as long as both existed and nothing could
+notice, because III.5 was undrafted. Fixed in the rule text with the ⚠ attached; three line-exemptions
+added, not a whole-file scope. **A licence list validated only against the chapters already written
+ages into a false positive on a schedule nobody set.** Same family as stamp-rot: correct when
+written, rotting silently, wearing a gauge's clothes.
+
+**76 — the MMO beat's stated content was already spent twice, and the brief caught it before a word
+was drafted.** `--chapter III.5 --brief` returned III.1:9 at cos 0.619 and II.1:60 at 0.606, both
+*Not the server*. The scaffolded beat — *wrong about the infrastructure, because an MMO has a server
+and we do not* — would have been the **third** run of that denial. What the beat actually owns is
+one clause of citation and then the thing neither earlier chapter could reach: **in an authored
+world the player/non-player split is a field in a codebase, set by somebody, lookupable. Remove the
+author and the split is not unowned — it is unmade. There is no registrar.** ⚠ This is the second
+consecutive chapter where the pre-draft brief moved the beat rather than confirming it (III.4's was
+the draw-distance reservation). **The brief is now the drafting step, not a check on it.**
+
+**77 — the chapter stated its own closing image at one-quarter length and weakened it.** The MMO
+section had a paragraph on figures crossing a bridge on their own errands; the close has the crowd
+and the lit window. Same image, twice, the second one stronger. Cut to a sentence on re-read.
+⚠ **No gauge sees this.** `prose_beat_sweep` compares a chapter against *other* chapters and against
+the plan; **nothing in the toolchain compares a chapter to itself.** Filed as a candidate, not built:
+the fix is a within-file arm on the same embedding, and it is cheap.
+
+**78 — the length is arithmetic, not indulgence, and that is a reason to re-scope rather than to
+relax.** 4,188 words, the longest chapter in the book by 28% over III.4. The cause is countable:
+`06` added three named ancestors on Day 186 (the chapter carried the work's ethics with none), III.4
+added a fourth opponent on Day 187, and four ancestors at ~350–450 words each is ~1,600 words spent
+before the chapter's own argument opens. **Candidate for the Book III end-of-book pass: Bruno is the
+composition figure** — *the table as table is not animated*, the composite with no inside while
+nothing composing it lacks one — **and composition is Book IV's subject.** He may belong at the
+Atlas's opening, where he would be doing his own work instead of standing in a queue of four.
+NOT acted on now; a chapter is not re-scoped on the day it drafts.
+
+**79 — `voice_uniformity`'s monotonic climb broke, without being tuned for.** Quote-free across Book
+III: 0.6049 → 0.6132 → **0.660** → **0.6414**. The Day-187 filing recorded the first three as
+monotonic and deliberately left them untuned. The reversal is evidence the climb was **content-driven
+rather than drift** — III.4 is a two-ancestor chapter of sustained single-register exposition and
+III.5 alternates argument with four voices. `dyn_range_CV` recovers the same way (0.351 → 0.308 →
+0.355). **The open filing stands but its reading changes: not a trend, a chapter property.**
+
+**80 — see the ⚠ above the rulings.** Cite from the structural marker, not the running head.
+
+### Boundaries held
+
+- **`Not the server` cited in one clause and not re-argued** — ruling 76. Third use refused.
+- **Book VII's ethics untouched.** The obligation is named as owed and explicitly not stated. The
+  chapter's most likely failure is the appearance that it has been settled here; the note says so.
+- **Book IV's atlas untouched.** Bruno's composite hands the problem forward in two sentences.
+- **II.4's grade argument cited, not re-run** — and the one line recalled from it (*no quantity of
+  awareness-stuff… the way heat sits in a bar of iron*) is marked as a recall, because on first
+  draft it was silently re-said, which is a self-quotation wearing a fresh sentence's clothes.
+- **III.6's `history of structural coupling` still owed there, and the ⚠ in `06` still stands.**
+- **VTR's *paths laid down in walking* still unspent. It is III.7's.**
+- **III.4's cut on the enactivists not re-run.** Duration there, membership here, and the log should
+  be able to tell them apart in a year: *a bringing-forth performed by a history is a production
+  with a before* is one claim; *a floor at biology is a pregiven guest list* is another.
+
+### Gauges
+
+`claim_sweep` **0 USE** (3 `C6/godplayer` hits adjudicated → ruling 75, exempted line by line) ·
+`order_sweep` **0 false handoffs** · `prose_beat_sweep` **0 spent** · `storyscope_lite` logged raw
+and quote-free. The V.2 trace now reaches III.4 as its third chapter in three books — no new action;
+the standing filing already says that beat is too vague to discriminate and needs rewriting before
+Book V drafts.
+
+### Ruling 81 — added after the entry above, because it was found by running the gauges for it
+
+**`prose_beat_sweep --status` had been wrong for four chapters, and it is the arm written to stop
+exactly this.** It reported **III.1, III.2, III.3, III.4 and III.5 as DRAFTED AND UNMARKED** while
+`06` carried a ✅ for every one of them.
+
+The cause is one line. `DRAFTED_MARK` matched the chapter heading and then asked `if "DRAFTED" in
+line` — the *heading* line. Books I and II put the tick inline:
+
+    ### II.1 — THE GROUND ✅ DRAFTED — 2,282 words
+
+Book III put it underneath, on its own line, starting at III.1 — because the entries grew long
+enough that a heading could no longer hold the word count, the filename, the source discipline and
+the rulings. **Nobody decided that.** It happened once, under drafting pressure, and the gauge went
+on measuring the old place while reporting a clean-sounding failure — *the scaffold under-reports
+the work* — that was false in the direction nobody checks, because being told you have done more
+than you recorded is not an alarming message.
+
+Fixed by reading the chapter's whole block (heading → next `###`) and accepting a line that **begins**
+with the tick. Anchored deliberately: a bare *DRAFTED* inside a beat is not a marker. 19 on disk, 19
+marked, 0 phantom.
+
+★ **THIS IS RULING 75 AGAIN, IN A SECOND TOOL, ON THE SAME DAY.** There, `claim_sweep`'s licensed-site
+list was validated only against the chapters that existed when it was written, so it contradicted the
+claims register invisibly until III.5 drafted. Here, `--status` was validated only against the marker
+format that existed when it was written, so it went blind the moment the format moved. **Both are the
+same defect one level up from the one the tool was built to catch: a gauge is itself a claim — about
+where to look, and about what the thing it measures looks like — and that claim rots exactly like the
+stamp does.** `--status`'s own docstring says *a stamp with a gauge behind it is a different object
+from a stamp.* It is. It is not a permanent one.
+
+⚠ **The operational lesson, and it is cheap:** neither of these was found by suspicion. Both were
+found by running every arm of every gauge on a day when a chapter shipped — including the arms that
+usually print nothing. **An arm that has printed the same clean line for a month is not evidence;
+it is an untested branch.** `--status` was not run at III.2, III.3 or III.4. It would have said this
+each time.

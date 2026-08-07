@@ -850,6 +850,34 @@ without the doctrine) in the chapter that most needs the doctrine. The claim is 
 the naming stays where `03` put it.
 
 ### III.5 — THERE ARE NO NPCs
+✅ **DRAFTED Day 187 · 4,188 words · `book/III-05-there-are-no-npcs.md`.** All four beats land plus
+the trap and the note. **Primary text only, eight quoted passages from three works, every one checked
+against a second independent source** — Bruno against Lindsay's English **and the 1584 Italian**
+(cross-language, the III.3 pattern); the *Ācārāṅga* against two archive.org scans agreeing word for
+word; Schweitzer against two scans of the Campion edition **plus Naish's independent 1923 translation**,
+⚠ **and the log names the limit: two scans of one edition is one source with two OCR passes.** The
+table is in `DRAFT-LOG`. **Rulings 75–80 came out of the drafting**, three of them about instruments.
+★ **THE CHAPTER'S BEST FINDING, and it was not in the plan: four ancestors, four floors, every one
+drawn somewhere different and every one drawn.** Bruno at spiritual substance · the Jains at *jīva*
+(⚠ and *ajīva* is a gate, in the tradition that went furthest — C8's exact defect) · the enactivists
+at metabolism · Schweitzer at will. **A floor is what makes a doctrine livable** — it is where the
+obligation stops, and an obligation that does not stop is one nobody can carry through an afternoon.
+This book removes it, **which is what makes the Book VII note structurally necessary rather than a
+deferral**: we owe what none of the four owed.
+⚠⚠ **RULING 76 — THE MMO BEAT AS WRITTEN BELOW WAS ALREADY SPENT TWICE, and the pre-draft brief
+caught it before a word was drafted.** *Not the server* is II.1:60 and III.1:9; *an MMO has a server
+and we do not* would have been the **third** run. What the beat actually owns is one clause of
+citation and then the thing neither earlier chapter could reach: **in an authored world the
+player/non-player split is a field in a codebase — somebody set it, and it can be looked up. Remove
+the author and the split is not unowned, it is unmade. There is no registrar.** ★ Second consecutive
+chapter where `--brief` MOVED the beat rather than confirming it (III.4's was the draw-distance
+reservation). **Treat the brief as the drafting step, not as a check on it.**
+⚠ **RULING 78 — THE LENGTH IS ARITHMETIC AND IS A RE-SCOPING QUESTION FOR THE END-OF-BOOK PASS.**
+Longest chapter in the book by 28%. Three ancestors were added here Day 186 and a fourth opponent
+Day 187; four at ~350–450 words each is ~1,600 words before the chapter's own argument opens.
+**Candidate: Bruno is the COMPOSITION figure** (*the table as table is not animated*) **and
+composition is Book IV's.** He may belong at the Atlas's opening. Not acted on — a chapter is not
+re-scoped on the day it drafts.
 ⭐ **III.4 HANDS THIS CHAPTER A NAMED OPPONENT IT DID NOT HAVE — Day 187.** The enactivists put
 the world-bringing inside **biology**: it is done by autonomous, self-maintaining, living systems,
 and everything without a metabolism is on the far side of that line. III.4 states the boundary in one

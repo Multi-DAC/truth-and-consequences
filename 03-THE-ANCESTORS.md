@@ -445,6 +445,11 @@ turned a number into an artefact)*:
 **Present, and immediately usable:** Csikszentmihalyi 23 · "flow state" 35 · `NPC` **1** — and that
 one hit is already the sentence: *"props in the movie of your errands, NPCs. They aren't. Each one is
 a full lit window with a day behind it."* **Quarry it. It is III.5's thesis, already written once.**
+✅ **QUARRIED Day 187, at III.5's close — re-cut, not lifted.** The image carries; the sentence does
+not survive intact. ⚠ **And it nearly cost the close: the first draft stated the same image a quarter
+of the way in, in the MMO section, where it was weaker** (ruling 77). Nothing in the toolchain
+compares a chapter to *itself* — `prose_beat_sweep` compares chapters to other chapters and to the
+plan. Found by re-reading.
 
 ### Why each of the five matters, and where it lands
 
