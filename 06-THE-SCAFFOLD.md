@@ -1109,6 +1109,18 @@ place a grade will be quietly asked to do a gate's work.
 what it is like to be each, as far as the framework permits, **and the framework permits much further
 than *Perspective* went** · why "as far as permitted" is not a hedge here but a boundary.
 **Source:** ecology Tier 1.2 + `Unreleased-Work/bee-*` (the worked case is already drafted).
+✅ **DRAFTED Day 188 · 4,572 words · `book/IV-03-the-living-non-human.md`.** All four beats land;
+ruling 75(b) clean for a third consecutive Book IV chapter — opens on a procedure (brush a trigger
+hair) rather than on IV.2. **Four cards, the most in any chapter: A VENUS FLYTRAP · THE MYCELIUM ·
+A HONEYBEE · THE COLONY**, and the chapter names its own compression — one chapter for every living
+thing that is not us, against one for the reader's species — as a *measurement of a human null
+space* rather than as an apology. ⚠ **LONGEST CHAPTER IN THE BOOK** (prior: III.5 at 4,190). Ruled
+deliberate — four subjects on the beat line, four cards, and the atlas's calibration chapter — but
+**WATCHED, not settled**: IV.5 and IV.8 are both flagged for length on their own entries, and if
+either runs past 4,000 the problem is Book IV's structure and not this chapter's appetite.
+★ **THE BEAT ABOVE CANNOT BE PERFORMED — see the DRAFT-LOG entry.** *"the framework permits much
+further than *Perspective* went"* instructs the drafter to name a past work of ours, which
+`05` §3a **BANS outright**, anonymous form included. Delivered by *going further* and saying nothing.
 
 ### IV.4 — HUMAN
 **Beats:** the grade the reader is · the filter stack at its densest · what a human null space is

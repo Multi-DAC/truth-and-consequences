@@ -3983,3 +3983,178 @@ flatter a gauge; the class gets swept across all eight books at once or not at a
 
 **`order_sweep`** 0 false handoffs. **`claim_sweep` final:** no USE-class hits. IV.2 hedge density
 2.91/1k against an all-drafted 3.54/1k.
+
+---
+
+## IV.3 — THE LIVING, NON-HUMAN · Day 188, 2026-08-07
+
+**4,572 words. Book IV 3 of 10 · 25 of 68. The longest chapter in the book**, past III.5's 4,190,
+and ruled rather than allowed: four subjects on the beat line and four cards printed — **A VENUS
+FLYTRAP · THE MYCELIUM · A HONEYBEE · THE COLONY** — where no prior chapter has printed more than
+two. ⚠ Watched, not settled: IV.5 and IV.8 are both flagged long on `06`, and if either clears 4,000
+the defect is Book IV's shape, not this chapter's appetite.
+
+Ruling 75(b) **clean for the third Book IV chapter running.** It opens on a procedure — *brush one
+of the trigger hairs inside a Venus flytrap and, most of the time, nothing happens at all* — which
+is IV.2's handed-forward loop **instantiated rather than recited**, and deliberately not IV.2's own
+opening move (a superlative comparison). Three chapters, three different cold-open shapes: a card
+printed cold, a superlative, a procedure. The hazard after IV.2 was never recap. It was **template**.
+
+### THE FOUR GAUGES — all four run, all four written, because a missing line reads as clean
+
+**`claim_sweep` — 2 USE-class hits, both mine, both REAL, both repaired.** Both `TERM/stream`,
+ruling 70: our own abolished noun, licensed only inside its own denial.
+
+- `IV.3:246` — *"on the far side the stream simply resumes"*, the **noun**, imported straight from
+the source note this section compresses. Repaired to *"on the far side it resumes with no seam,
+because a seam needs two edges and only one of them was ever there"* — which is strictly more than
+the deleted phrase said, and is the argument the paragraph was already making.
+- `IV.3:268` — *"how much visual texture streamed past"*, the **verb**, inside the HONEYBEE card.
+→ *swept past*. ★ Worth recording that the verb is the one that nearly shipped: the rule's own
+message predicts exactly this — *"the VERB is the delivery sense, a different word in the reader's
+ear, which is why it walks past a collision screen."* It walked past mine. The gauge caught what its
+author said it would, in a drafter who had read that message the same morning.
+
+Re-run: **no USE-class hits.** Hedge density **2.19/1k** against an all-drafted 3.43/1k.
+
+**`prose_echo` — 2 new hits, one repaired, one exempted. 70 live · 12 exempted** (from 72 · 11).
+
+- `IV.2 ~ IV.3`, gram *"because at the mineral grade nothing"* — **REAL, and it is the same defect
+IV.2's log caught in IV.2.** IV.2 wrote *nothing checks you*; IV.3 wrote *nothing came back*. That is
+not a quotation, it is a **paraphrase of my own previous chapter**, which is worse, because a
+paraphrase reads as a fresh observation and is not one. Cut, and replaced with the thing the
+sentence was actually for: **a lean is not tested where there is nothing to lean on; it is tested
+the first time something is offered to it.** The repair is the principle IV.2 never stated.
+- `IV.1 ~ IV.3`, gram *"fourth line of our own card"* — **ADJUDICATED AND KEPT**, exemption added to
+the table with the pair and the gram, per doctrine. Not a restatement: a **contradiction**, which is
+the strongest form of use. IV.1 applies the fourth line to the atlas itself and rules the boundary
+*unfindable*. IV.3 returns the identical phrase to say that here, and only here, it can be walked up
+to — and that it goes dark again at IV.5. Deleting the phrase would conceal the fact that the two
+chapters disagree on purpose.
+
+**`order_sweep` — 0 false handoffs, 0 unresolved adjacency claims** across 68 chapters.
+
+**`beat_delivery` — 3 measured, 1 unmeasurable, all 4 adjudicated DELIVERED.**
+
+- `temporal texture — the bee's now is not the reader's now` — **1.00, no MISS.**
+- `why "as far as permitted" is not a hedge here but a boundary` — 0.67, MISS `permitted`. The prose
+says **`permits`**, twice, in the section that is entirely this beat. ★ **The IV.2 inflection-arrow
+repair DID NOT FIRE**, and this is its third inflection false-negative in three chapters. The arrow
+handles a single suffix edit (`worlds→world`, `contain→contained`); `permits→permitted` needs a
+suffix swap across a doubled consonant and falls through. **A repair verified on the two cases that
+motivated it is a repair verified on its own training set.** FILED, NOT FIXED — same discipline as
+IV.2's: the fix belongs to a pass over the whole arrow, not to the drafting session it annoyed.
+- `plants, fungi, the swarm` — **NOT MEASURED. Below the 6-distinct-word floor, dropped before the
+run, and therefore absent from the output entirely.** Hand-adjudicated DELIVERED (flytrap ·
+mycelium + *Physarum* · the swarming colony). ★ Recorded because **a beat the tool cannot see
+produces no line at all**, and a beat with no line is indistinguishable in this log from a beat that
+scored 1.00. That is the Day-188 finding wearing a new hat: the checklist has to be the *scaffold's*
+beat list, never the gauge's output.
+
+### ★★ THE REGISTER-INSTRUCTION CLASS GETS ITS FOURTH MEMBER, AND THE FOURTH ONE PROMOTES IT
+
+The remaining MISS is `perspective`, from the beat *"what it is like to be each, as far as the
+framework permits, **and the framework permits much further than Perspective went**"*.
+
+The first three instances of this class (IV.2's *without condescension*, I.4's *named without hedge*,
+I.5's *planted here mythically*) were beats whose performance required never saying the word — a
+gauge annoyance, filed for a book-wide sweep. **This one is different in kind: performing it is
+FORBIDDEN.** `05` §3a bans naming any past work of ours — *"No title, ever"* — **and bans the
+anonymous form with it**, on the argument that an unnamed self-reference is strictly worse than a
+named one. So `06` instructs the drafter to write a sentence `05` prohibits, and `claim_sweep`'s
+`PROSE/self-reference` rule would have fired on the obedient draft.
+
+**Two rulings in direct contradiction, discovered by a third mechanism, in a beat that has sat on
+the scaffold unread since Book IV was planned.** That moves the class from *cosmetic* to *defect*:
+the sweep is no longer optional tidying, because at least one member of it cannot be performed
+without a live breach. The class still gets swept **whole**, across all eight books, using `06`'s
+existing `★ ⚠ ✅` editorial-tail convention — but it is now a repair with a reason behind it rather
+than a repair with an irritation behind it.
+
+Beat adjudicated **DELIVERED silently**, which is the only way it could be: by going further, and
+saying nothing about going further. Where it goes further —
+
+1. **Sensitivity and integration are separated into two axes.** IV.2 had one point (one dimension,
+no holding). IV.3 supplies the other corner: the plant is rich in dimensions — red/far-red ratio,
+day length, gravity to a fraction of a degree, accumulated touch, volatile chemistry — and thin in
+holding. *"The dimensions are many and the holding is thin."* No ranking survives that.
+2. **Individuation is demoted from a fact to a question.** *"A position is wherever the loops close"*,
+and in a mycelium they close at several sizes at once, so the census prints a card at each. There is
+no organism underneath waiting to settle which card is real — *organism* was our word for the size
+that mattered to us. Flagged in-chapter as this chapter's own reach, because IV.5 will bill for it.
+3. **A null space in time, and it is the reader's too.** The gaps result is not a fact about bees:
+*a gap is the absence of whoever would have sat through it*, so every position in the census is
+seamless to itself, grain is a third-person quantity, and **the bee does not feel grainy to the bee.**
+The one thing that can feel broken from inside is not sparseness but **conflict**.
+
+### THE LEAN'S SECOND TEST, AND WHY IT WAS THE HARDER ONE
+
+IV.2 tested the under-attribution principle where nothing could check it. IV.3 tests it where the
+evidence is *charming and runs our way*: the wood-wide web. The 2023 re-examination is stated
+straight — networks widespread in forests, and resources moving through them to improve seedling
+performance, **insufficiently supported**; mature trees preferentially provisioning their own
+offspring, **no published peer-reviewed evidence at all**; and the citation record itself drifted,
+papers cited for conclusions they had not drawn.
+
+Then the move the chapter exists for: **saying in advance what it would change. Nothing.** If the
+network is rich, the card gains a line under SEES. If it dissolves, the card is unchanged to the
+word. *"That is the one real dividend an unhedged claim pays: it cannot be embarrassed by evidence it
+never leaned on."* — with the cost named on the other side, that a framework strengthened by the
+wood-wide web was weakened in 2023, and many sympathetic accounts of plant life are now quietly in
+that position, having borrowed against a finding to say a thing they could have said outright.
+
+### PROVENANCE — one source refused, and the refusal is the point
+
+Every load-bearing number here was checked against primary or near-primary sources before drafting
+rather than recalled. Two things came back changed and changed the prose:
+
+- **The flytrap does not count touches.** The two-touch rule is the popular form; the 2020 *PLOS
+Biology* work shows **two action potentials** are the requirement, and one deflection at intermediate
+angular velocity can raise both — so a slow slug shuts a trap a quick insect leaves open. This is a
+**better** fact for this book than the one I would have written from memory: the plant is counting
+its own excitations and has no access to the world's events. It became the chapter's opening turn and
+the whole NULL SPACE line of the flytrap card.
+- ⛔ **The honeybee odometer citation was REFUSED.** The famous *Science* 2000 tunnel result — bee
+flies 6 m, dances several hundred — sits among ten papers of that author's under a 2024 misconduct
+investigation. The **phenomenon** is independently established (Esch & Burns, 1995/1996 — different
+lab, earlier) and has been built on since. So the card carries the phenomenon *without the name and
+without the dramatic number*, at the level the independent work supports. ★ This is the Irenaeus
+shape caught one step earlier than last time: the sentence would have been true, checkable, and
+resting on a source that will not hold. **A verified claim and a verified source are two checks, and
+this project has now been bitten once for treating them as one.**
+
+Also verified and used: *Armillaria ostoyae*, Malheur National Forest — 2,385 acres, 2,000–8,000
+years. *Physarum* / Tokyo rail (Tero et al., 2010) and the externalised-slime memory (Reid et al.,
+2012), **including its control, which is the better half**: the memory is destroyed not by erasing
+the trail but by coating the whole dish, so the signal has not gone missing, it has gone *uniform*.
+That is the most exact demonstration in the atlas of what a null space is like from inside —
+*nothing is absent, everything reads the same* — and it is now the chapter's definition by
+demonstration rather than by assertion. Quorum at the nest site, ~20–30 scouts, **quorum sensing and
+not consensus sensing**: scouts count peers standing in the hole, and nobody counts the decision.
+
+### ★ FILED, NOT FIXED — A LEXICON DRIFT NO GAUGE WATCHES, MEASURED TODAY BY ACCIDENT
+
+Chasing the `perspective` MISS produced a count nobody had run. `05` §3a rules that **the term is
+*the Perspective***; the drafted book says **`position`** instead, and not occasionally:
+
+| chapter | perspective | position |
+|---|---:|---:|
+| II.3 (the defining chapter) | 26 | 6 |
+| III.5 | 0 | 14 |
+| III.7 | 0 | 11 |
+| IV.2 | 0 | 10 |
+| IV.3 | 0 | 17 |
+
+**After Book II the ruled term very nearly stops** and `position` takes the load. The benign reading
+is that `position` is ordinary English for *a place someone stands* and is not a term at all. The
+reading that convicts is that **IV.3 contains a definitional sentence for the book's central concept
+written in the un-ruled word**: *"A position is wherever the loops close."*
+
+That is `05` §2's inherited defect — *three names for one thing* — reproduced by us, in the prose, at
+a scale nothing had counted until today, in the book whose style contract is *every term defined
+once, and never redefined*. **NOT FIXED HERE, on purpose.** Repairing 17 instances in IV.3 alone
+would leave IV.3 disagreeing with IV.2 and III.5 and would make the drift *harder* to see, which is
+how a scaffold gets edited to flatter a gauge. It is a book-wide adjudication (is `position` a
+synonym, or is it plain speech?), it needs a gauge behind it either way — because `05`'s own
+recurring lesson is that **a lexicon ruling with no gauge survives its own retirement** — and it
+belongs to a Book IV reviewer pass, not to the drafting session that tripped over it.

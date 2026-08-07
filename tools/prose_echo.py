@@ -119,6 +119,16 @@ EXEMPT = [
     ("III.4", "III.6", "francisco varela evan thompson and eleanor rosch",
      "A name. Rule 5 requires the ancestor named in both chapters; the axis is declared in `06` "
      "(III.4 cuts them, III.6 credits them whole)."),
+    ("IV.1", "IV.3", "fourth line of our own card",
+     "★ ADJUDICATED AND KEPT, Day 188. Not a restatement — a CONTRADICTION of the original, which "
+     "is the strongest form of use. IV.1 applies the fourth line to the atlas itself and rules the "
+     "boundary UNFINDABLE ('we do not know where, and the not-knowing is structural'). IV.3 returns "
+     "the identical phrase to say that in this one chapter it CAN be walked up to, because the "
+     "entries answer — and that it stops being visible again at IV.5. The phrase is the signpost "
+     "that the same line is being read a second time to a different value; deleting it would hide "
+     "the fact that the two chapters disagree on purpose. Contrast the pair repaired the same day: "
+     "IV.2~IV.3's 'because at the mineral grade nothing' was a PARAPHRASE of the previous chapter's "
+     "own observation, which reads as fresh and is not, and was cut rather than exempted."),
 ]
 
 
