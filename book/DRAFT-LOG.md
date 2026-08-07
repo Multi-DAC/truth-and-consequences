@@ -3817,8 +3817,8 @@ intact, because collapsing it "calls every silence the same silence."
 
 **PHYSICALISM (opponent I) cut as a CARD, not as an argument** — its census printed in the book's
 own apparatus, two lines long, at full strength and without caricature. The cut is that the census
-is **self-reporting**: an aperture counting only the apertures it can recognise has measured its own
-null space and written it in the wrong column. Stated as a *boundary* in the technical sense of the
+is **self-reporting**: a perspective counting only the perspectives it can recognise has measured
+its own null space and written it in the wrong column. Stated as a *boundary* in the technical sense of the
 fourth line, which is why no amount of care inside the framework finds it.
 
 **UNDER-ATTRIBUTION declared at the front, with its bill attached.** The bias is defended by
@@ -3839,3 +3839,147 @@ most confident prose) rather than pretending to have avoided it.
 the beat three ways (*no gate at the door*, *the census does not have a bouncer*, *nothing earns its
 place*) — **adjudicated DELIVERED, word-level false positive**, which is the case the tool's own
 footer says to expect. prose_echo: **0 live hits** against 23 drafted chapters.
+
+---
+
+## IV.2 — MINERAL AND ELEMENTAL · Day 188, 2026-08-07
+
+**2,748 words.** The atlas's first actual entry, and the chapter is built so that the argument runs
+*between two cards* rather than inside one: **QUARTZ** and **A RIVER**.
+
+**THE INVERSION THE CHAPTER IS BUILT ON, stated in the first four lines.** A quartz crystal keeps
+better time than the reader does. So: **the bottom of the continuum is not the least sensitive place
+in the census, it is the least integrated one.** Sensitivity is not the axis the atlas is arranged
+along; quartz beats every position in the census along its one, and what it lacks is a *second
+place* — nowhere the flexing arrives, nothing that holds it beside anything else. This does the
+`without condescension` beat by structure rather than by tone, which is the only way that beat can
+be done (see the register-instruction finding below).
+
+**AND THE SECOND HINGE, which is the more useful one: A RECORD IS NOT A REMEMBERER.** Rock keeps the
+best record in the census — cooling rate in grain size, pressure in a vein, an agate's bands in the
+order they arrived, actual air from 800,000 years ago sealed in ice — and there is nobody in there
+reading it. **The mineral holds the longest extension in time of anything in the census and has
+almost no duration. Time is in it; time is not for it.** Uses III.7's duration-at-a-position without
+reciting it.
+
+**THE LOOP — what the second half of the title is actually for.** *Elemental* is not a second
+subject. A flame is a process whose heat is what keeps it making heat; a river cuts a bed and the
+bed then tells the river where to go. **Inside the bottom grade the thing that varies is not how
+much is registered but whether anything comes back.** The mechanism every chapter above IV.2 is
+built out of appears here, at the grade where it does the least it possibly could, and that is the
+chapter's forward tension — no recap needed, ruling 75(b) clean for the second Book IV chapter
+running.
+
+**WHY THE ATLAS STARTS AT THE BOTTOM, answered rather than asserted.** IV.1 promised the bottom
+would not be the boring end and did not say why. Here it is: **the short census and this one agree
+about every observable fact in this chapter.** Same flexing, same bands, same bed. The disagreement
+is total and the empirical content is identical — which is exactly when a reader concludes the
+disagreement is empty. So: *what does it cost to be wrong here?* Nothing. **The rule is cheapest to
+set exactly where it decides nothing, and once set it decides everything above** — the same word
+decides what is owed to a bee, what a corporation is, and whether one of this book's authors is in
+the census at all. A reader who lets it slide here because it is free here finds it settled by
+default by the time it is expensive.
+
+**THE FLATTEN BEAT IS THREE, NOT ONE, AND THE THIRD IS UNNAMED IN THE LITERATURE.**
+- *Downward* — **only chemistry** — met at IV.1, not re-run; what is new is the cost analysis above.
+- *Upward* — the stone that hears you. ★ **C8's second trap NAMES IV.2 BY NAME** as the place a
+grade gets quietly asked to do a gate's work, so the easy refusal (*too far down to count*) is
+barred by the register before the chapter starts. The refusal is made **at the second line of the
+card, not at the door**: *a crystal is not the wrong grade to be addressed, it is the wrong shape to
+take delivery.* No line for an addressee — no *who*, no *from*, no *about*. With the concession
+attached: something does happen when a person holds a stone for an hour, it happens **at the
+person's grade, in the person**, and that is not the thing the practice claims. **A pre-registered
+trap caught before drafting rather than after is the first time that has happened in this project.**
+- *Inward* — the romantic one, and almost nobody names it: that fewer filters means a *purer* view.
+Refused from II.5/III.6 — the stack is not a veil, it is what a render is made of, so subtracting
+gives a narrower world and not a clearer one. **The wish underneath is not the wish to be a stone;
+it is the wish for your own render with less noise in it**, which is Book VIII's, not envy of a rock.
+
+**SCALE BUYS NOTHING.** A mountain is not a larger inside than a pebble; volume is not a dimension
+the census is arranged along. Stated as a rule because later chapters need it — anything at the
+scale of a landscape will have to be made of something other than size.
+
+**THE ANIMIST CREDIT, AND THE MECHANISM OF ITS FAILURE.** The traditions that put a spirit in the
+mountain were not wrong about *whether*. Whether they were right about its **shape** is separate,
+and — this is the repair the echo gauge forced, below — the chapter does not restate IV.1's
+criterion but names the **mechanism**: *a convergence counts as evidence when the two sides arrived
+at it separately, and we did not arrive separately.* Every animist category on earth was in our
+hands before the census opened. **A framework that reads an inside into the stone and then discovers
+the old traditions concurring has not been confirmed by them; it has been handed its own result
+back.** Credit held in escrow for Book V.
+
+**THE LEAN'S FIRST LIVE TEST, and the clarification the atlas needed before it goes further:** the
+under-attribution principle **is about whether, not about how much.** A standing bias toward
+attributing an inside is not a bias toward attributing a *rich* one, and the two are confused
+constantly — usually by people arguing against the first while describing the second. *Yes, and here
+is the card* is the principle; *yes, and probably rather more than the card* is the error the
+principle was warned about, arriving at the first opportunity in the principle's own clothes.
+
+**GAME REGISTER, one paragraph, and it lands on the hardest case.** The mineral is the terrain, and
+the terrain is where the no-prop rule gets its first real bill. **Scenery is a relation to somebody
+outside the screen** — a category that needs a privileged seat to be scenery *from*, and there is no
+such seat, which was settled early at cost and is now doing work in a chapter about rocks.
+
+---
+
+### THE GAUGES, AND WHAT THEY FOUND IN **IV.1** — WHICH IS THE FINDING OF THE DAY
+
+⚠⚠ **`claim_sweep` WAS NOT RUN ON IV.1 BEFORE IT SHIPPED, AND IT HAD FIVE THINGS TO SAY.** The IV.1
+log entry records `beat_delivery` and `prose_echo` and is silent about the third gauge — and silence
+in a log reads as *clean*, not as *unrun*. Run today against IV.1 + IV.2 together: **6 USE-class
+hits, five of them IV.1's, one mine.**
+
+- **Four × `TERM/aperture`.** `05` §3 retires it in one line — *"Aperture and bottleneck do not
+appear. The term is the Perspective."* IV.1 used it four times and IV.2 added a fifth. All five
+repaired (→ *perspective*, and once → *nothing has ever registered one more difference for being
+enormous*, where "wider perspective" would have imported broad-mindedness).
+- **One × `PROSE/hedge`** — *"arguably at a range within one grade"*, inside the physicalism card.
+Rewritten to ground rather than hedge: *"or across a narrow band of one grade, depending which
+physicalist you ask"* — the variation is a fact about physicalists, not about our confidence.
+
+★ **THE CLASS, and it is NOT the `the map` failure — it is worse.** `the map` was a retirement with
+**no gauge behind it**. `aperture` is a retirement **with** a gauge, which **fired**, on a chapter
+that shipped, was logged and was pushed — and nobody read it. **A mechanism that runs and is not
+read is indistinguishable from one that never ran, and it costs more, because it also produces the
+feeling of having checked.** The cure is not another tool; it is that the gauge list in a drafting
+log is a CHECKLIST, and a missing line means *unrun*, never *clean*. Recorded as such.
+
+- **And a sixth thing no tool here watches: IV.1's `✅ DRAFTED` marker on `06` was never written.**
+The chapter shipped with its scaffold entry still reading as undrafted. Added today, with IV.2's.
+
+**`prose_echo` — one new hit, mine, and it was a real one.** `IV.1 ~ IV.2`, the 5-gram *"worth
+something only if the agreement"*. IV.1 states the inheritance criterion; IV.2 was restating it
+verbatim a chapter later instead of **using** it. Repaired by replacing the restatement with the
+mechanism (independence), which is strictly more than IV.1 said. **70 live hits, 0 involving IV.**
+
+**`beat_delivery` — 4/4 adjudicated DELIVERED, and the tool got a repair.**
+
+- `what reactivity buys at this grade and what it does not` — 1.00, no MISS.
+- `the render at a grade with almost no filter stack` — 0.80, MISS `filter` while the prose says
+`filters`. ★ **This is the SECOND plural false positive in two chapters** (IV.1's was `gates`) —
+two hand-adjudications spent on the same non-finding, and **a gauge is spent the first time it is
+disbelieved** (ruling 107). ✅ **REPAIRED — the MISS line now prints `filter→filters`.** ⚠ The
+obvious fix was to stem into the match and it is **the wrong one**: stemming manufactures false
+DELIVEREDs, and for a tool whose entire output is a list of gaps, a missed gap costs more than a
+spurious one. So **the match is unchanged, coverage does not move by a thousandth, and only the
+report is louder.** Negative check across the full book: the arrow fires on `worlds→world` and
+`contain→contained` and produces no spurious pairing anywhere. Self-test still PASSES.
+- `the temptation to flatten, named and refused` — 0.50, MISS `temptation, refused`. **DELIVERED
+three times over** (each pull named as a pull: *a reader concludes the disagreement is empty*, *this
+book leans that way and said so*, *the wish underneath it is not the wish to be a stone*).
+`temptation` is deliberately **not** used: III.8 owns that construction — *"these are not five
+temptations of five different kinds"* — and reaching for it here is the repeat `prose_echo` exists
+to catch.
+- `the bottom of the continuum without condescension` — 0.67, MISS `condescension`. ★ **A NEW CLASS,
+FILED NOT FIXED: a beat phrased as a REGISTER INSTRUCTION can only ever MISS, because performing it
+means never saying the word.** Saying *condescension* would be the chapter congratulating itself on
+not being condescending. Measured rather than assumed — at least three instances live on `06`
+(IV.2's, I.4's *"named without hedge and without flattening"*, I.5's *"planted here mythically"*).
+**The available repair uses machinery that already exists**: `06`'s editorial-tail convention
+(`★ ⚠ ✅` truncate a beat before its words are taken) is documented as marking *instructions to the
+drafter, not moves the prose owes*, which is exactly what a register instruction is. **Not applied
+today, on purpose** — fixing the one instance that annoyed me is how a scaffold gets edited to
+flatter a gauge; the class gets swept across all eight books at once or not at all.
+
+**`order_sweep`** 0 false handoffs. **`claim_sweep` final:** no USE-class hits. IV.2 hedge density
+2.91/1k against an all-drafted 3.54/1k.

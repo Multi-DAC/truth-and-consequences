@@ -1084,12 +1084,25 @@ principle**, stated as the book's standing bias: where the evidence is thin, we 
 attributed too few insides, not too many · what the census cannot see, said before it starts.
 **Named:** physicalism (opponent I) — its census is the shortest one ever written and the reader has
 already tried it.
+✅ **DRAFTED Day 188 · 2,792 words · `book/IV-01-the-census-and-its-method.md`. BOOK IV OPENS.**
+All four beats land; ruling 75(b) honoured — the chapter opens by printing a card cold rather than
+by reciting III.8. ⚠ **This marker was itself missing for a full day** — IV.1 shipped, was logged,
+was pushed, and the one line on this scaffold that says so was never written, which is the same
+species as the retirements `05` records and nothing enforces: **a status kept in prose is a status
+with no gauge behind it.** Added Day 188 with IV.2's, on discovering the gap while adding IV.2's.
 
 ### IV.2 — MINERAL AND ELEMENTAL
 **Beats:** the bottom of the continuum without condescension · what reactivity buys at this grade and
 what it does not · **the temptation to flatten, named and refused** · the render at a grade with almost
 no filter stack.
 **Source:** ecology Tier 1.1.
+✅ **DRAFTED Day 188 · 2,748 words · `book/IV-02-mineral-and-elemental.md`.** All four beats land.
+Two cards printed — QUARTZ and A RIVER — and the argument runs *between* them: inside the bottom
+grade what varies is not how much is registered but **whether anything comes back.** The flatten
+beat is delivered three ways rather than one (downward *only chemistry*, upward *the stone that
+hears you*, inward *fewer filters is a purer view*), and the upward refusal is made at the card's
+NULL SPACE line rather than at the door, because **C8's second trap names IV.2 by name** as the
+place a grade will be quietly asked to do a gate's work.
 
 ### IV.3 — THE LIVING, NON-HUMAN
 **Beats:** plants, fungi, the swarm · temporal texture — the bee's *now* is not the reader's *now* ·

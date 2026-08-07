@@ -485,6 +485,13 @@ EXEMPTIONS = [
     ("book/DRAFT-LOG.md", "PROSE/hedge", "The second hit was **PROSE/hedge**",
      "The II.6 entry quoting the hedge it REWORDED rather than exempted. The manuscript line is "
      "gone; this is the receipt for its removal, and a receipt has to name what it removed."),
+    ("book/DRAFT-LOG.md", "PROSE/hedge", "inside the physicalism card",
+     "Day 188, the IV.2 entry. Same shape as the II.6 receipt above and it gets its OWN line rather "
+     "than widening that one: the IV.1 hedge — *arguably at a range within one grade* — is gone "
+     "from the manuscript, rewritten to ground the variation in which physicalist you ask. The log "
+     "quotes it because this is the receipt, and because IV.1 SHIPPED with it: the sweep was never "
+     "run on that chapter, and a finding whose whole point is that a gauge went unread cannot be "
+     "recorded in a form the gauge then objects to."),
     # --- Day 187, III.2. THREE lines, and they are the rule's own NOTE being cashed for the first
     #     time in Book III. C6/godplayer says the god-player is legitimate WHERE THE CUT IS MADE.
     #     I.6 makes the early guard; III.2 makes the argument, so III.2 is where the pattern MUST

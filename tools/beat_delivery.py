@@ -92,6 +92,30 @@ ALWAYS = 10
 # The scaffold's editorial markers. A beat's text ends at the first one of these.
 TAIL = re.compile(r"[★⚠✅]")
 
+# INFLECTIONS. An inflection is NOT a delivery and this tool does not score it as one: the
+# match stays exact and coverage does not move by a thousandth. What changes is what a MISS
+# TELLS you. `filter` reported missing while `filters` sits in the paragraph printed directly
+# beneath it on the NEAR line is the shape of a gauge that gets disbelieved — and a gauge is
+# spent the first time it is disbelieved (ruling 107). It has now happened twice in two
+# chapters, IV.1's `gates` and IV.2's `filters`, both adjudicated by hand as word-level false
+# positives, which is two adjudications spent on the same non-finding. So the near form is
+# NAMED and the adjudication is left exactly where it was. Stemming into the match was the
+# other available repair and it is the wrong one: it would manufacture false DELIVEREDs, and
+# for a tool whose entire output is a list of gaps, a missed gap costs more than a spurious one.
+SUFFIXES = ("s", "es", "ed", "d", "ing")
+
+
+def near_form(w, chap_words):
+    """A word present in the chapter that is `w` under an inflection, or None."""
+    cands = [w + s for s in SUFFIXES]
+    if w.endswith("y"):
+        cands += [w[:-1] + "ies", w[:-1] + "ied"]
+    if w.endswith("e"):
+        cands.append(w[:-1] + "ing")
+    if w.endswith("s") and len(w) > 4:
+        cands.append(w[:-1])
+    return next((c for c in cands if c in chap_words), None)
+
 
 def beat_text(raw):
     """The move, with the drafter's notes cut off. Returns (text, was_truncated)."""
@@ -134,9 +158,11 @@ def measure(scaffold_text, dr, focus=None):
             present = [w for w in bw if w in chap_words]
             missing = [w for w in bw if w not in chap_words]
             cov = len(present) / len(bw)
+            near = {w: n for w in missing if (n := near_form(w, chap_words))}
             anchor = max(paras, key=lambda lp: contain(bw, words(lp[1])))
             rows.append({"ch": cid, "kind": kind, "text": text, "cov": cov,
-                         "missing": missing, "anchor": anchor, "short": len(bw) < MIN_BEAT})
+                         "missing": missing, "near_forms": near, "anchor": anchor,
+                         "short": len(bw) < MIN_BEAT})
     return rows, truncated, short
 
 
@@ -167,7 +193,9 @@ def report(rows, truncated, short, floor=FLOOR):
         tag = " · SHORT, coverage unreliable" if r.get("short") else ""
         print(f"  {flag} {r['ch']:>6} ({r['kind']})  coverage {r['cov']:.2f}{tag}")
         print(f"        BEAT  {r['text'][:150]}")
-        print(f"        MISS  {', '.join(r['missing']) or '—'}")
+        nf = r.get("near_forms", {})
+        miss = ", ".join(f"{w}→{nf[w]}" if w in nf else w for w in r["missing"])
+        print(f"        MISS  {miss or '—'}")
         ln, para = r["anchor"]
         print(f"        NEAR  {r['ch']}:{ln}  {para[:130]}")
         if "sem" in r:
@@ -184,6 +212,9 @@ def report(rows, truncated, short, floor=FLOOR):
     print("  delivered by a synonym, and a beat at 1.00 may have been performed in name only:")
     print("  this arm reads WORDS. No verdict is offered and none is available. What it")
     print("  narrows is where to look — the adjudication is the same person's it always was.")
+    print("  `filter→filters` means the chapter carries an INFLECTION of the missing word and")
+    print("  NOT the word. It is not scored as delivered and coverage does not count it; it is")
+    print("  printed so a plural can be told from a gap at a glance instead of by hand, twice.")
     return under
 
 

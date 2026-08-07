@@ -43,7 +43,7 @@ every silence the same silence.
 **COMPLEMENTS** is the line that stops the atlas from being a ranking. Every entry has a null space;
 every null space is covered by some other position; no position covers its own. The bee sees a
 polarisation pattern in the sky that no human eye resolves and no human ever will. Put that next to
-the human null space and the arrangement is not *higher and lower*. It is two apertures, each of
+the human null space and the arrangement is not *higher and lower*. It is two perspectives, each of
 which is the other's remedy in one direction and its ignorance in another. There is no seat in this
 census from which the whole census can be taken. **That includes ours, and it is the reason this
 chapter exists.**
@@ -121,8 +121,9 @@ argument is the one in the paragraph above it.
 
 Physicalism has taken this census already. Its card runs:
 
-> **SEES:** One kind of inside, in one kind of body, at one grade — arguably at a range within one
-> grade — produced by one arrangement of matter, on one planet, for a few hundred thousand years.
+> **SEES:** One kind of inside, in one kind of body, at one grade — or across a narrow band of one
+> grade, depending which physicalist you ask — produced by one arrangement of matter, on one planet,
+> for a few hundred thousand years.
 > **NULL SPACE:** ∅ The rest.
 
 This is not a caricature and it is not a weak opponent. It is the most successful research programme
@@ -132,8 +133,9 @@ case. Everything past that case is inference, and a programme that has been burn
 before is entitled to be strict about it.
 
 The trouble is not the strictness. It is that the census is *self-reporting*. The one case it admits
-is the case doing the admitting. A census taken by an aperture, which counts only the apertures
-sufficiently like itself to be recognised by it, and then reports the result as the population,
+is the case doing the admitting. A census taken by one perspective, which counts only the
+perspectives sufficiently like itself to be recognised by it, and then reports the result as the
+population,
 has not measured the population. It has measured its own null space and written the result in the
 wrong column — and that is the ∅ column, so no amount of care inside the framework will find the
 error. This is not an accusation of sloppiness. It is a boundary, in the technical sense of the
@@ -202,8 +204,8 @@ We cannot see what we have no vocabulary for. The census is taken in a language,
 was built by one grade of being, and a difference no word in it marks is a difference this book
 will pass over without the passing-over leaving a trace. That is the ∅, and it cannot be estimated,
 because estimating it would require the vocabulary we do not have. Everything in this atlas is
-therefore a report from one aperture about what other apertures are like, written in the terms of
-the first one. That is not a disclaimer. It is the fifth line: *given this, you will need something
+therefore a report from one perspective about what other perspectives are like, written in the terms
+of the first one. That is not a disclaimer. It is the fifth line: *given this, you will need something
 that is not this, and here is where you will need it.*
 
 We cannot see the entries with no interface to us at all. Every position in the census got there by
