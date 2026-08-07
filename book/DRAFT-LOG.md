@@ -3608,7 +3608,8 @@ came back **USE-class**, not one of the 118 suppressed mentions. The mention-sup
 is the WRAP RULE, the defect that killed this tool for a week, alive in one of its arms and reachable
 only by wrapping a sentence badly. **Fixed by rewrapping, not by exempting** — an exemption here
 would have recorded the symptom and hidden the class. Filed, unfixed, deliberately: the suppressor
-should read the joined paragraph, as `beat_sweep.chapters()` already does.
+should read the joined paragraph, as `beat_sweep.chapters()` already does. **→ FIXED the same night,
+ruling 103 — and the proposal in that last sentence turned out to be the wrong repair.**
 
 ★ **The predictive value, which is why this is a ruling and not an observation:** it says where the
 next lexicon failure will be. Not in a word somebody else owns — axis 1 catches those. **In a word
@@ -3642,3 +3643,79 @@ parallel flows and would have licensed the noun on a Book III page for whoever d
 to *"both arrive at the reader in the same sentences."* **Third chapter running where the sweep
 caught something a re-read did not**, and the catch is the same shape every time: a word that is not
 doing any work is the one that walks past the ear.
+
+---
+
+## Day 187, after hours — RULING 103, and the repair that refused its own filed instruction
+
+Not a drafting session. Drafting is paused at Clayton's call while Book III goes out to the reviewer.
+This is the one item the III.8 log left **filed and unfixed on purpose**, closed the same night,
+because a defect that survives to the next morning gets found by a chapter instead of by a test.
+
+### What was broken
+
+`claim_sweep`'s mention/use classifier decides whether a line is USING a retired term or talking
+ABOUT it. It read a **line**. A line in this manuscript is a hard wrap — a fact about the file, not
+about the prose. So a cue word (*retired*, *quoted*, *⚠*) and the term it governs land on opposite
+sides of a wrap, the suppressor stops seeing them together, and a mention is reported as a **breach
+that is not there**. Found by tripping it while writing the III.8 log — the sentence describing the
+wrap rule was itself wrapped badly.
+
+### The repair, and why the filed instruction was wrong
+
+The III.8 entry said: *the suppressor should read the joined paragraph, as `beat_sweep.chapters()`
+already does.* **That would have been a worse tool.** This file already carries the warning twice, in
+its own comments: *a paragraph-wide guard suppresses more than a line-wide one, and quiet
+over-suppression is how a gauge stops measuring while still printing output.* One ⚠ anywhere in a
+long block would have excused every hit in it, and the sweep would have gone on printing **no
+USE-class hits** in a friendlier and friendlier voice.
+
+The unit a mention actually lives in is the **sentence**. Wider than a wrap, so the cue is found;
+narrower than a block, so it cannot be borrowed from three sentences away. Applied to both arms — the
+line pass and the Day-187 cross-wrap pass, where it is not a corner case at all, since a match that
+straddles a wrap is one whose cue is *by construction* likely to be on the other side of it.
+
+**Additive, deliberately.** The line test is kept and the sentence window is an extra `or`. Two
+reasons, and the second is the one worth keeping: (a) the table-row cue `^\s*\|` is anchored to a
+physical line, and consecutive rows join into one block, so a window-only test would see the pipe on
+the first row and nowhere else; (b) additive means the change can only move hits USE→mention, never
+back, so **the delta is readable in one direction.** The tightening it declines to make — a cue in a
+*different* sentence of the same line should stop suppressing — is real, and is a separate finding.
+Folding it in here would have made both invisible.
+
+### The gauge on the gauge
+
+`--selftest`, and it runs **first on every invocation**, not on request. A clean sweep produced by a
+broken classifier is indistinguishable from a clean manuscript; that is the whole failure this tool
+keeps having. Four cases:
+
+| | case | expected |
+|---|---|---|
+| A | cue across a wrap, line-pass match | mention |
+| B | cue across a wrap, cross-wrap match | mention |
+| C | real breach, no cue anywhere | **USE** |
+| D | cue in a **different sentence** | **USE** |
+
+**C and D are the ones that matter.** A suppressor is trivial to make quiet; the question is only
+ever what it silences by accident. D is the paragraph-wide fix, refused and then *tested* — it proves
+the window stops at the sentence edge instead of reaching back for a cue that belongs to the sentence
+before.
+
+Verified three ways: fixture A/B against `HEAD`'s copy of the module (**4 USE / 0 mention → 2 USE /
+2 mention**, exactly the four cells above); book-wide re-run **byte-identical** to the pre-change
+output — 42 files, 0 USE-class hits, 123 mentions, 63 exemptions, *zero delta*, which is the correct
+result for a manuscript already repaired by rewrapping; and a **mutation test** — `sentence_window`
+neutered to return `""` makes A and B fail and C and D pass, so the test is coupled to the fix rather
+than to the weather.
+
+### What this is an instance of
+
+The zero-delta run is the whole point and the whole danger. **The fix changes nothing today.** Its
+value is entirely in the chapters not yet drafted, where the next badly-wrapped sentence would have
+been reported as a breach — and the cost of a false breach is not noise, it is that the drafter starts
+reading the tool as a liar. A gauge is spent the first time it is disbelieved.
+
+And the shape underneath is Day 187's shape, for the fifth time: **the knowledge was already in the
+codebase.** The comment warning against paragraph-wide guards was written before the defect, sat six
+inches from it, and did not stop the log from proposing exactly that repair a few hours later. Reading
+your own notes is not the same as reading your own code.

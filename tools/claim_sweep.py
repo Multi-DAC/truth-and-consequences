@@ -40,6 +40,7 @@ import argparse
 import pathlib
 import re
 import sys
+import tempfile
 
 REPO = pathlib.Path(__file__).resolve().parent.parent
 
@@ -668,6 +669,52 @@ def paragraphs(lines):
     return built
 
 
+# Ruling 103. The unit a mention actually lives in is the SENTENCE. `MENTION_MARKERS` was
+# always applied to a LINE, and a line in this manuscript is a hard wrap — an artifact of
+# the file, not of the prose. So a cue word and the term it is talking ABOUT get separated
+# by a wrap and the suppressor stops seeing them together: a mention is promoted to a
+# USE-class hit and the tool reports a breach that is not there. Tripped Day 187 in the
+# DRAFT-LOG, and repaired that night by REWRAPPING the line rather than exempting it,
+# because an exemption would have hidden the class instead of naming it. This is the class.
+#
+# WHY NOT THE PARAGRAPH, which is what `beat_sweep.chapters()` reads and what the Day-187
+# note proposed. Because a paragraph-wide guard suppresses far more than a line-wide one —
+# a single ⚠ anywhere in a long block would excuse every hit in it — and quiet
+# over-suppression is how a gauge stops measuring while still printing output. That warning
+# is already written twice in this file (the PARA_LICENSED_RULES note, and the cross-wrap
+# pass's own comment). The sentence is the narrowest window that fixes the defect: WIDER
+# than the wrap, so the cue is found; NARROWER than the block, so it cannot be borrowed
+# from three sentences away.
+#
+# Over-splitting is the safe direction here — a window cut too short suppresses less, and
+# the gauge measures more. Abbreviations ("e.g. ") split; decimals and section numbers
+# ("0.60", "II.6") do not, because the period is not followed by whitespace.
+SENT_END = re.compile(r"""(?<=[.!?])["'”’\)\]\*]*\s""")
+
+
+def sentence_window(joined: str, start: int, end: int) -> str:
+    """The sentence of `joined` containing [start, end) — the cue's search window."""
+    lo = 0
+    for m in SENT_END.finditer(joined, 0, max(0, start)):
+        lo = m.end()
+    m = SENT_END.search(joined, end)
+    return joined[lo:m.end() if m else len(joined)]
+
+
+def sentence_at(para_at, n: int, line: str, m) -> str:
+    """Sentence window for a LINE-pass match: map the raw-line offset into the block first.
+
+    Falls back to the line itself if the line is not in a block (it always is; the guard is
+    there so a mapping bug degrades to today's behaviour rather than throwing at 3am).
+    """
+    if n not in para_at:
+        return line
+    joined, base, indent = para_at[n]
+    return sentence_window(joined,
+                           base + max(0, m.start() - indent),
+                           base + max(0, m.end() - indent))
+
+
 def line_of(spans, pos):
     """(line_no, raw_line) for the joined-text offset `pos`."""
     found = spans[0]
@@ -692,9 +739,14 @@ def sweep_file(path: pathlib.Path, is_prose: bool):
     # that a companion sentence is MISSING, and "missing from this one wrapped line" is
     # not the claim. Every other rule's guard stays line-scoped, unchanged.
     para_of = {}
+    # line_no -> (joined paragraph, that line's offset into it, its indent) so a match found
+    # at a RAW-line offset can be located inside the joined block. Ruling 103's plumbing:
+    # the sentence window needs the joined text, and the line pass only has the line.
+    para_at = {}
     for joined, spans in paras:
-        for _, ln, _raw in spans:
+        for off, ln, raw in spans:
             para_of[ln] = joined
+            para_at[ln] = (joined, off, len(raw) - len(raw.lstrip()))
     for rule_id, scope, pattern, licensed, why in RULES:
         if not in_scope(scope, path, is_prose):
             continue
@@ -725,7 +777,17 @@ def sweep_file(path: pathlib.Path, is_prose: bool):
                 mentions.append((rule_id, path, n, line.strip()[:150], why))
                 continue
             hit = (rule_id, path, n, line.strip()[:150], why)
-            is_mention = bool(MENTION_MARKERS.search(line)) or (
+            # ADDITIVE, and deliberately so: the LINE test is kept and the sentence window
+            # is an extra OR. Two reasons. (a) `^\s*\|` — the table-row cue — is anchored to
+            # the start of a physical line, and consecutive table rows join into ONE block,
+            # so a window-only test would see the pipe on the first row and nowhere else.
+            # (b) Additive means this change can only move hits USE→mention, never the
+            # reverse, so the delta is readable in one direction. The tightening it declines
+            # to make (a cue in a DIFFERENT sentence of the same line should stop
+            # suppressing) is a real finding and a separate one; folding it in here would
+            # have made both invisible.
+            is_mention = bool(MENTION_MARKERS.search(line)) or bool(
+                MENTION_MARKERS.search(sentence_at(para_at, n, line, m))) or (
                 not is_prose and bool(PLANNING_MENTION.match(line)))
             (mentions if is_mention else uses).append(hit)
 
@@ -743,7 +805,10 @@ def sweep_file(path: pathlib.Path, is_prose: bool):
         # line pass can see is skipped here, so this cannot change any existing verdict.
         # Mention-classification deliberately reads the START LINE and not the joined window
         # — a wider context suppresses more, and quiet over-suppression is how a gauge stops
-        # measuring while still printing output.
+        # measuring while still printing output. AMENDED by ruling 103: it now also reads the
+        # SENTENCE the match sits in. The refusal above stands as written — the ±90-character
+        # window is still refused, because it has no grammatical edge and would suppress by
+        # accident of arithmetic. A sentence has one. See SENT_END.
         for joined, spans in paras:
             for m in rx.finditer(joined):
                 ln_start, raw = line_of(spans, m.start())
@@ -759,7 +824,13 @@ def sweep_file(path: pathlib.Path, is_prose: bool):
                                    "(cross-wrap) " + window[:150], reason))
                     continue
                 hit = (rule_id, path, ln_start, "(cross-wrap) " + window[:150], why)
-                is_mention = bool(MENTION_MARKERS.search(raw)) or (
+                # Ruling 103 applies here TOO, and here it is not a corner case: a match
+                # that crosses a wrap is one whose cue is, by construction, likely to be on
+                # the other side of that wrap. The comment above ("reads the START LINE and
+                # not the joined window") was right to refuse the WINDOW — ±90 characters is
+                # an arbitrary span with no grammatical edge. It is the sentence that has one.
+                is_mention = bool(MENTION_MARKERS.search(raw)) or bool(
+                    MENTION_MARKERS.search(sentence_window(joined, m.start(), m.end()))) or (
                     not is_prose and bool(PLANNING_MENTION.match(raw)))
                 (mentions if is_mention else uses).append(hit)
     return uses, mentions, exempt
@@ -778,12 +849,66 @@ def check_touches(scaffold: pathlib.Path):
     return len(chapters), missing
 
 
+def selftest() -> int:
+    """Ruling 103's classifier, enforced. FOUR cases, and the two NEGATIVES matter most.
+
+    A gauge that suppresses correctly is worth nothing on its own; the question is always
+    what it suppresses by accident. C proves a real breach with no cue is still reported.
+    D proves the window stops at the sentence edge and does not borrow a cue from the
+    sentence before it — which is precisely what a paragraph-wide guard would have done,
+    and is the reason this fix is scoped to a sentence rather than to a block.
+    """
+    doc = (
+        "### Fixture\n\n"
+        "A. The phrase the opposition itself quoted\n"
+        "is create your own reality, and the chapter cuts it.\n\n"
+        "B. The one phrase they quoted at us, and the only one, is\n"
+        "create your own\n"
+        "reality, credited on the spot.\n\n"
+        "C. An honest breach with no cue anywhere near it: create your own reality.\n\n"
+        "D. A cue that belongs to a different sentence entirely, quoted there.\n"
+        "Here we simply say create your own reality and mean it.\n"
+    )
+    tmp = pathlib.Path(tempfile.gettempdir()) / "claim_sweep_selftest.md"
+    tmp.write_text(doc, encoding="utf-8")
+    try:
+        uses, mentions, _ = sweep_file(tmp, True)
+    finally:
+        tmp.unlink(missing_ok=True)
+    u = " || ".join(h[3] for h in uses if h[0] == "PROSE/manifestation")
+    m = " || ".join(h[3] for h in mentions if h[0] == "PROSE/manifestation")
+    checks = [
+        ("A line-pass mention whose cue is across a wrap", "and the chapter cuts it" in m),
+        ("B cross-wrap mention whose cue is across a wrap", "credited on the spot" in m),
+        ("C real breach with no cue is still a USE hit", "An honest breach" in u),
+        ("D cue in a DIFFERENT sentence does not suppress", "and mean it" in u),
+    ]
+    bad = [name for name, ok in checks if not ok]
+    print("  mention/use self-test:",
+          "PASS — the window is wider than a wrap and narrower than a block"
+          if not bad else "** FAIL ** " + "; ".join(bad))
+    return 0 if not bad else 2
+
+
 def main() -> int:
     ap = argparse.ArgumentParser(description=__doc__.splitlines()[0])
     ap.add_argument("--prose", default="book", help="directory of book prose (default: book/)")
     ap.add_argument("--show-mentions", action="store_true",
                     help="print suppressed mentions, to audit the mention/use classifier")
+    ap.add_argument("--selftest", action="store_true",
+                    help="the mention/use classifier test only")
     args = ap.parse_args()
+
+    # ALWAYS FIRST, never optional. A clean sweep produced by a broken classifier is
+    # indistinguishable from a clean manuscript — that is the whole failure this tool keeps
+    # having, and the only defence is a gauge on the gauge that runs before the verdict.
+    rc = selftest()
+    if rc:
+        print("  refusing to report a verdict from a classifier that fails its own test.")
+        return rc
+    if args.selftest:
+        return 0
+    print()
 
     prose_root = (REPO / args.prose).resolve()
     files = sorted(p for p in REPO.rglob("*.md") if ".git" not in p.parts)
