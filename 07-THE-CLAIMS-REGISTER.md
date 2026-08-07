@@ -270,8 +270,26 @@ V–VIII have several places that will want to.
 > **Canonical:** That every path already exists takes nothing from the one being walked. We are
 > not the prisoners of the whole; we are its inhabitants and co-constituents.
 
-**Establishes:** III.7
+**Establishes:** III.7 — ✅ **DRAFTED Day 187. III.7 is where C14 is ESTABLISHED.**
 **Depends:** VII.7 · VII.8 · VIII.1 · VIII.7
+✅ **HOW IT WAS ESTABLISHED, and the trap below was the thing that shaped it.** The consolation-prize
+register is avoided by answering a DIFFERENT objection from the one III.3 killed. III.3 killed
+fatalism (*already there* ≠ *already decided*). What survives that is **superfluity**: nothing was
+decided, and your walking still adds nothing to what exists, and the inside cannot distinguish
+choosing from being the place the choice shows up. **The answer is that superfluity is a relation
+and it has no second term** — not to the Ground, which keeps no count; not to another inside, from
+where your walking is the most consequential thing in the room; not to you. The objection is the
+seat-with-no-position in the first person.
+✅ **THE POSITIVE HALF IS C6 CASHED.** An act differs from an occurrence by not-knowing, stakes and
+duration. Your walking has all three; the Ground has none, which is why it cannot play. **So the
+freedom being mourned is positionlessness — a real condition, held by the one thing in the book with
+no afternoon.**
+⚠ **THE PAYMENT ON *"do not buy more than we have"* is three named losses, and they are stated as
+losses.** ORIGINATION (nothing starts with you) · **SUBTRACTION, which is the real one** (your
+choice does not close the roads not taken; the dignity you wanted was the dignity of having REMOVED
+something, and no one removes anything here) · THE LEDGER (no position from which your walking is
+recorded as counting, because no position is not somebody's). **Any chapter DEPENDING on C14 should
+be checked against those three**, not against the title.
 ⚠ **GUARDED, NOT ESTABLISHED, IN III.3 (Day 187) — and the boundary is the point.** III.3 makes the
 **distinction** only: *already there* and *already decided* are opposite claims, because to be
 decided is to have been **selected**, selection is subtraction, and there is nothing outside the

@@ -528,6 +528,27 @@ EXEMPTIONS = [
      "somebody is occupying). Two chapters, one sentence-shape, two claims. ⚠ A THIRD USE OF THIS "
      "ANTECEDENT IS A TIC, not a discipline — VIII.6 is the last licensed site and it should reach "
      "for a different form."),
+    # --- Day 187, III.7. THE CITATION OF THE CUT, third occurrence — and the third is what makes
+    #     it a pattern worth naming rather than a third one-off. III.5 already carries this exact
+    #     shape ("divine player was taken apart on his own merits"). The rule's ⚠ predicted the
+    #     recurrence and predicted the cause: the licensed-site list is hand-kept and only ever
+    #     checked against chapters already drafted, so it ages into a false positive on schedule.
+    #     ⚠ AND THE OBVIOUS CURE IS WRONG, which is why it is written down here instead of built.
+    #     `07`'s C6 entry lists III.5 · III.7 · V.9 · V.10 · VII.2 · VII.6 · VIII.1 · VIII.6 under
+    #     **Depends**, and deriving the licence list from that field would license nine chapters in
+    #     one commit — the "broad exemption is how a gauge quietly stops measuring" failure, arrived
+    #     at by automation. ESTABLISHES ≠ DEPENDS. A chapter that USES a settled claim is not
+    #     thereby licensed to restate the figure the claim was cut out of; it is licensed to cite
+    #     that the cut was made. That distinction is the exemption, and it has to be adjudicated
+    #     per line, by a person, exactly as it was here.
+    ("book/III-07-the-walking-is-real.md", "C6/godplayer",
+     "game away from a divine player",
+     "THE CITATION OF THE CUT, not the cut again — the III.5:'taken apart on his own merits' shape, "
+     "in a subordinate clause whose entire function is to name where C6 was established (III.2) "
+     "before cashing its three-part content in the main clause: not-knowing, stakes, duration. The "
+     "figure appears in the past tense, as the thing removed, and nothing in the chapter reinstates "
+     "it. ⚠ Third use of this shape. A FOURTH IS A TIC — the next chapter that needs to point at "
+     "III.2 should point at the argument (what playing requires) rather than at the figure."),
     ("book/DRAFT-LOG.md", "C15/trap5", "the union telos is four sentences later",
      "Day 187, ruling 59. The III.2 entry recording that Trap 5 is stated VERBATIM in Watts's "
      "primary text — the log cannot record where the trap was found without naming it. Fresh line "

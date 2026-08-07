@@ -3252,3 +3252,221 @@ twice in different vocabulary is invisible to it by construction — which is th
 `prose_beat_sweep` was built to catch on the plan↔prose corpus, using embeddings. **Nothing covers
 it prose-to-prose. That region is open and is now named** rather than left to be found by eye in
 two months.
+
+---
+
+## III.7 — THE WALKING IS REAL · Day 187, 2026-08-06 · 2,929 words · ✅ landed
+
+`claim_sweep` **clean** · `prose_echo` **0 live hits** (second chapter checked before shipping) ·
+`prose_beat_sweep` **0 spent** pre-draft AND post-draft · `beat_sweep` 0 new collisions ·
+`order_sweep` PASS.
+
+| metric (per 1k words unless noted) | III.7 | Book III range | Clayton | read |
+|---|---:|---:|---:|---|
+| **2nd person** | **21.70** | 4.71 – 8.25 | 7.43 | ★ **2.6× the next-highest chapter in the book** — deliberate, see below |
+| paragraph-intensity CV | **0.485** | 0.320 – 0.816 | 0.515 | ✅ second in Book III, and within 6% of the human baseline |
+| voice uniformity | 0.6377 | 0.586 – 0.6605 | 0.5306 | ⚠ **unmoved.** The axis no chapter has yet touched |
+| terminal commentary | 0.053 | 0.029 – 0.057 | **0.053** | ✅ adjudicated to exactly the human rate, see below |
+| vague allusion | 0.00 | 0.00 | 0.092 | ✅ one hit found and cut (*"in the literature"*) |
+| meta-textual | 2.07 | 2.06 – 4.86 | 0.37 | ✅ lowest in Book III after III.1 |
+| named reference | 8.61 | 7.97 – 15.70 | 45.23 | — |
+
+★ **THE SECOND-PERSON NUMBER IS THE CHAPTER, not a drift.** 21.70 against a Book III band of
+4.71–8.25. This is the one chapter whose subject is an objection the reader is *having*, not a
+doctrine the book is stating, and the register followed the subject without being told to. It is
+logged because a number that far outside a band is normally the first sign of a defect, and the
+next person to read this table should not have to re-derive that this one is not.
+
+### The three terminal-commentary hits, adjudicated rather than accepted or waved off
+
+The detector fired on three paragraph-final sentences. **Two are new claims and stand; one was the
+tic and was rewritten.**
+
+- ✅ *"This is the same figure, arriving in the first person, and it is much harder to see there."*
+  — the paragraph's point, arriving at the end, not a restatement of it. **Kept.**
+- ✅ *"…the reason it cannot play is not that it is forbidden but that there is nothing it would be
+  like for it to try."* — a distinction the paragraph had not yet made. **Kept.**
+- ⚠ *"…the way a flame is what burning looks like from outside and not a fuel that performs it."*
+  — **CUT.** `what … looks like from` is the pattern fitted to my own tic in Specimen 1, and I.1's
+  log has already spent the *"the gauge is recognising its own training example"* defence once.
+  **Using that defence a second time is how a gauge stops measuring.** Rewritten to *"a flame is not
+  a stuff that burns, it is the burning, and when it stops it does not become an idle flame"* —
+  which is better prose and does not need the exemption. Rate 0.079 → **0.053**.
+
+### ★★ Ruling 97 — the pre-draft brief moved beat 1, and this was the largest of the three
+
+Third consecutive chapter where `--brief` MOVED a beat rather than confirming it (III.4's
+draw-distance, III.5's MMO, this). `06`'s beat 1: *state the objection at full strength.* The brief
+returned **III.3:185 at cos 0.695 and III.3:187 at cos 0.594** — the objection already stated at
+full strength **and already answered**, in a chapter that then hands *what walking IS* forward by
+name. Drafting beat 1 as written was the book's **third** run at fatalism.
+
+**What beat 1 actually owed is the objection that survives III.3's answer, and `06` never named
+it.** Not coercion — **superfluity.** Grant that nothing was decided; your walking still adds
+nothing to what exists, and the inside cannot distinguish choosing from being the place at which
+the choice shows up. That objection is stronger than fatalism and it is *made of the book's own
+instrument* — the inside is the only view there is, which is the premise the book has spent two
+books earning. **A chapter that answered the version `06` wrote would have been answering the
+question the previous chapter closed.**
+
+### ★★ Ruling 91 — a VERBATIM SUBSTRING CAN STILL BE A MISQUOTATION
+
+The reserved line, in the sentence it is actually in, verified identical in both digitisations:
+
+> As we can now appreciate, to situate cognition as embodied action within the context of evolution
+> as natural drift provides a view of cognitive capacities as inextricably linked to histories that
+> are lived, much like paths that exist only as they are laid down in walking.
+
+The fragment everybody carries off — *paths that exist only as they are laid down in walking* —
+is a **simile**, and its subject is *histories that are lived*. Quoted alone it reads as a thesis
+about paths. **It is a real substring, verbatim, and it means something different from the sentence
+it is in**, because the excision removes *much like* and the subject.
+
+⚠ **This is ruling 84's defect with the fabrication taken out, and it is worse for that.** Ruling 84
+caught invented connective tissue (*"This should not be confused with…"* standing where twelve of
+their words stand). Here nothing is invented: **the check `84` taught me to run — is every word
+theirs, in this order — PASSES, and the quotation is still wrong.** The cure is not a stricter
+substring test. It is the one thing no test does: **read the sentence the span is cut out of.**
+
+### ★★ Ruling 92 — the attribution everyone repeats is not in the primary text
+
+Machado is **not in *The Embodied Mind***. Measured across **both** digitisations: `Machado` 0 ·
+`caminante` 0 · `camino` 0 · `huellas` 0 · `footsteps` 0 · `estelas` 0 · `Wanderer` 0 · `Spanish` 0.
+They liked the image enough to make it their **chapter 11 title** — *Laying Down a Path in Walking*,
+confirmed in both — and they name no source for it.
+
+⚠ **A web search returned, confidently and in its own summarising voice, that Varela "properly
+credited Machado for the epigraph" in that book.** It is false, and it was checkable in four
+seconds against a file already on disk. **Logged not as a swipe at the tool but as the standing
+shape:** a secondary source's confident attribution is a claim *about* a text, and this project's
+rule is that a claim about a text loses to the text. *(Whether Varela credits Machado in* Ethical
+Know-How *(1999) is a separate question, unverified, and deliberately not asserted in the prose.)*
+
+### Ruling 93 — and the poem is not where it is always cited from
+
+`Proverbios y cantares` **= 0 hits** and `no hay camino` **= 0 hits** in the archive.org scan of the
+**1912 first edition** of *Campos de Castilla*. The series entered with *Poesías completas* in 1917.
+The received citation is wrong by five years and the prose says 1917.
+
+### Ruling 94 — when the witnesses disagree, quote the intersection
+
+The two available digitisations of the poem **do not agree**: punctuation throughout (`el camino, y
+nada más` / `el camino y nada más`; `no hay camino:` / `no hay camino,`), and one word in line 5
+(`Al andar se hace camino` / `se hace el camino`). Neither witness is a scholarly edition.
+**III.7 quotes the two lines on which they agree word for word and no others** — and line 5, which
+is the tempting one, is left out on the record rather than silently.
+
+### ★ Ruling 95 — the famous Suits line is unverifiable, so the chapter quotes the better one
+
+*The Grasshopper* (1978) has **one** digitisation in existence that I could reach —
+`grasshoppergames00suit_1`, lending-restricted, `_djvu.txt` **401**, `fulltext/inside.php` **403**,
+`api.archivelab.org` dead, `ia-fts` unresolvable. The six-word slogan is available only from
+tertiary sources, **and they disagree with each other on the bracket placement** in the fuller
+definition. So the chapter does not quote it.
+
+It quotes **Suits 1967, *Philosophy of Science* 34(2): 148–156** instead — the same doctrine before
+he coined *lusory* — attested **three times**: the JSTOR scan's abstract (p. 148), the same scan's
+§7 *The Definition* (p. 156), and Cambridge Core's own publisher text layer. All three word for
+word. ★ **And the pre-coinage wording serves the chapter better**: *"the sole reason for accepting
+such limitation is to make possible such activity"* is constraint-as-constitutive with nothing to
+explain first.
+
+### ★ Ruling 96 — claim_sweep's C6 licence list aged into a false positive again, and the obvious cure is wrong
+
+Predicted by the rule's own ⚠, which was written when III.5 tripped it eight hours earlier. III.7's
+back-reference to III.2 fires `C6/godplayer`, exactly as III.5's *"taken apart on his own merits"*
+did. **Exempted by name, with the reason, per the standing rule that an exemption is a line and
+never a paragraph.**
+
+⚠⚠ **The tempting fix would break the gauge.** `07`'s C6 entry lists III.5 · III.7 · V.9 · V.10 ·
+VII.2 · VII.6 · VIII.1 · VIII.6 under **Depends**, and deriving the licence list from that field
+would license **nine chapters in one commit** — *"a broad exemption is how a gauge quietly stops
+measuring"*, arrived at by automation instead of by carelessness. **ESTABLISHES ≠ DEPENDS.** A
+chapter that USES a settled claim is licensed to cite that the cut was made; it is not licensed to
+restate the figure the claim was cut out of. That distinction cannot be automated and is now written
+into the exemption so the next person does not try. ⚠ Third use of the citation-of-the-cut shape.
+**A fourth is a tic** — point at the argument, not at the figure.
+
+### ★★ Ruling 98 — NOTHING CHECKS THAT A DRAFTED CHAPTER DELIVERED ITS OWN BEATS
+
+Found the way these always are: by re-reading the draft against `06` and noticing that beat 3 says
+*inhabitants **and co-constituents*** and the draft delivered only the first half. Co-constitution —
+C10, load-bearing, the whole reason the render is not solely yours — was simply **absent**, and
+every gauge in this repo passed the file clean.
+
+They pass by construction. `prose_beat_sweep`'s own docstring says it: *"Every beat of every
+**UNDRAFTED** chapter against every paragraph of every DRAFTED chapter."* **A beat leaves the
+measured corpus at the exact moment its chapter ships** — which is the moment it becomes possible
+to check whether the prose contains it.
+
+```
+  beat_sweep         plan  <-> plan            OK
+  prose_beat_sweep   plan  <-> OTHER prose     OK   (collision — has this move been spent?)
+  prose_echo         prose <-> prose           OK
+  (nothing)          plan  <-> ITS OWN prose   <--  coverage — was this move MADE?
+```
+
+★★ **This is ruling 90's lesson arriving one level up, in the file that states it.** Every gauge
+here asks *has this been said twice?* Not one asks *was this said once?* Three instruments, all
+hunting repetition, and **omission had no detector at all** — which is the more dangerous failure,
+because a repeat is visible to a reader and a missing argument is visible to nobody except the
+reader who needed it. → `tools/beat_delivery.py`.
+
+#### `beat_delivery.py` — built, and the build produced three findings of its own
+
+**(a) THE ADMISSION GATE ATE THE DESIGN CASE, one file after I read the warning about it.**
+The tool imports `prose_beat_sweep`'s `MIN_BEAT = 6`, whose own comment says a gate *"is where a
+gauge's design case goes to die"* and names the precedent (`beat_sweep`'s floor of 4 excluding the
+three-content-word beat its docstring called the case that mattered). III.7 b3 — the beat the tool
+exists for — carries three admissible words after house-filtering, and **the first run dropped it
+silently and reported the fixture as missing.** The gate was imported without asking whether it was
+a hazard for *this* metric. It is not: it exists because a four-word beat scores 1.00 containment
+against any paragraph by accident, which is a hazard for a COLLISION ratio and the opposite of one
+for a MISSING list — a short beat makes that list sharper. **Gate removed; short beats measured,
+flagged SHORT, coverage marked unreliable.** ⚠ The general form: *a threshold inherited with a
+function is an assumption inherited without one.*
+
+**(b) THE FIRST SELFTEST WAS PINNED TO A NAMED FIXTURE AND ROTTED IMMEDIATELY.** Once b3 was
+admitted, the test still failed — because *inhabitants* and *constituents* were missing from the
+**shipped** chapter too, so amputating a paragraph moved the number by zero and the test could not
+tell a working detector from a broken one. A fixture named after one hand-chosen pair rots with the
+prose it names. **The test is now constructed rather than named:** take the best-covered beat in the
+tree, amputate every paragraph carrying any of its words, require coverage to collapse to 0.00.
+Currently fixtures on III.1 at 1.00 → 0.00, 41 paragraphs → 16. It survives any edit to any chapter.
+
+**(c) ★ AND THE FIRST LIVE RUN IMPROVED THE CHAPTER IT WAS BUILT OUT OF.** It reported III.7 b3 at
+**coverage 0.33 · MISS: inhabitants, constituents** — the content was delivered (*"the meeting has
+two sides and one of them is not you"*) and **neither noun ever appeared.** C10 is named
+*co-constitution* in III.4 and again in III.6; a reader who has met the word twice should meet it
+where the beat promises it. One sentence added, and it does work the paraphrase was not doing: *we
+are co-constituents of the thing we are inside — the two words are one condition, and the second is
+what stops the first from meaning a lodger.* **Beat 3 now clears the floor.**
+
+⚠ **THE TOOL'S MAIN FALSE-POSITIVE CLASS, named on day one so nobody re-derives it.** `06`'s beat
+dialect mixes MOVES with INSTRUCTIONS TO THE DRAFTER. III.7 b4 — *"an honest statement of what is
+left of freedom, made now rather than deferred to VII"* — scores **0.17**, and the prose delivers it
+completely, as three named losses. *Honest*, *statement* and *deferred* are words about the writing,
+not words the writing owes. **Beats phrased as tasks will always read as undelivered here**, and the
+cure is not to widen the gauge — it is to read the MISS line, which is why the MISS line is the
+output and the number is not.
+
+⚠ **AND THE LIMIT THAT MATTERS MORE THAN THE FALSE POSITIVES:** this arm reads WORDS, so **a beat at
+1.00 may have been performed in name only** — the vocabulary present, the argument not made. That
+failure is invisible here and is the one a coverage table most encourages, because a table of high
+numbers reads as a checklist. Book-wide first run: **94 beats across 21 drafted chapters, 38 under
+the 0.60 reporting floor** — not adjudicated tonight, and filed as a review pass rather than a
+drafting-day errand, exactly as `prose_echo`'s 70 were.
+
+### The sources, and what the second check bought each time
+
+| # | text | quoted | first source | second source | what the second check CHANGED |
+|---|---|---|---|---|---|
+| 1 | **Machado**, *Proverbios y cantares* XXIX (*Poesías completas*, 1917) | 2 lines | es.wikisource raw | poesi.as | ⚠ **DISAGREEMENT** — punctuation throughout, `se hace camino` / `se hace el camino` in line 5. Quotation cut to the agreed span. Plus the 1912 scan proving the series is not in the first edition |
+| 2 | **Varela, Thompson & Rosch**, *The Embodied Mind* (1991) — the reserved walking sentence, whole | block | archive.org 1993 MIT printing (`_djvu.txt`) | Monoskop 1991 PDF text layer | identical under normalisation. ★ **And both prove the NEGATIVE** — Machado 0, caminante 0, huellas 0 — which is what refuted the received attribution |
+| 3 | **Suits**, *What Is a Game?*, *Philosophy of Science* 34(2), 1967 | block | JSTOR scan, abstract p. 148 | Cambridge Core publisher text · **and the same scan's §7 p. 156** | three attestations, word for word. ⚠ **Replaced the 1978 slogan entirely** — see ruling 95 |
+| 4 | **Carse**, *Finite and Infinite Games* (1986) — §2 free-play principle · §1 opening | block + inline | archive.org `james-p-carse-…` | archive.org `finite-and-infinite-games-james-p.-carse` | genuinely different scans (different editions and typesetting; visible OCR variance `infnite`, `held`), target sentences agree |
+
+⚠ **The limit, named as III.5's log named its own:** all four second sources are digitisations, not
+editions. For Machado that mattered and is declared above. For Carse the two scans are different
+printings, which is stronger than two OCR passes of one. **No scholarly edition was consulted for
+any of the four**, and the shelf that would settle Machado's punctuation is a library's, not a URL's.

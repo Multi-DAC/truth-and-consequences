@@ -975,6 +975,40 @@ worlds, both correct · why incompatible renders do not make the Ground negotiab
 and Book VIII is the manual.
 
 ### III.7 — THE WALKING IS REAL
+✅ **DRAFTED Day 187 · 2,929 words · `book/III-07-the-walking-is-real.md`.** All four beats land.
+**Primary text only, four quoted passages from four works, every one checked against a second
+independent source, and three of the four checks CHANGED something.** The table is in `DRAFT-LOG`.
+`claim_sweep` clean · `prose_echo` **0 hits** · `prose_beat_sweep` 0 spent, pre- and post-draft.
+★★ **THE PRE-DRAFT BRIEF MOVED BEAT 1 FOR THE THIRD CONSECUTIVE CHAPTER — ruling 97, and this is
+the largest of the three.** Beat 1 below says *state the objection at full strength*. The brief
+returned **III.3:185–187 at cos 0.621**, where the objection is already stated at full strength
+**and answered** — *already there* is not *already decided*, because selection is subtraction and
+there is nothing outside the whole to subtract with. Drafting beat 1 as written would have been the
+book's third run at fatalism. **What beat 1 actually owed was the objection that SURVIVES III.3's
+answer, and `06` never named it: not coercion but SUPERFLUITY.** Nothing was decided, granted — and
+your walking still adds nothing to what exists, and the inside cannot tell choosing from being the
+place the choice shows up. That is a harder objection than fatalism and it turns the book's own
+instrument (the inside is the only view) against the book. It is the one the chapter answers.
+⚠ **THE ANSWER, and it needs no new premise:** *superfluous to whom?* Not to the Ground (no
+position, so no count is being kept), not to another inside (from there your walking is the most
+consequential thing in the room), not to you (from your position it is the whole content of the
+afternoon). **The freedom objection is the seat-with-no-position arriving in the FIRST PERSON**,
+where it is much harder to see — the same figure as the author's chair and the unsmudged original.
+★ **AND THE POSITIVE IS C6 CASHED, not a redescription:** an act differs from an occurrence by
+not-knowing, stakes and duration; your walking has all three; the alternative on offer — moving from
+no position, with nothing at stake, already knowing — is a description of the one thing in the book
+that never does anything. **What is mourned when freedom is mourned here is POSITIONLESSNESS.**
+✅ **THE CENTRAL OPERATION — the reserved image is taken and its noun is refused.** Machado says the
+road is made by walking; we say every road is already there. **The cut is at the noun and the verb
+survives it whole.** The whole holds every configuration and does not hold a *road* — a road has a
+next step, a cost and a direction, and none of those are properties of an arrangement; they are what
+an arrangement is to something with duration. So the walking makes something after all, and it is
+not the road. **It is the walker.**
+⚠ **BEAT 3's SECOND HALF WAS MISSING FROM THE FIRST DRAFT and no gauge could have said so** —
+*co-constituents* went undelivered while *inhabitants* landed. Caught by re-reading the draft against
+this file. **`prose_beat_sweep` sweeps the beats of UNDRAFTED chapters only**, by construction, so a
+beat leaves the measured corpus the moment its chapter ships and is never checked against the prose
+that was supposed to contain it. → ruling 98; `beat_delivery.py` built.
 **Thesis:** freedom when every path already exists — the objection that will occur to every reader here, answered here.
 **Beats:** state the objection at full strength: if every path already exists, what is walking? · the
 answer that does not cheat: *the walking is one of the things that exists, and it is the one you are* ·

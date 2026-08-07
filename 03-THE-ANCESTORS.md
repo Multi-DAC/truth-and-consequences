@@ -467,10 +467,49 @@ plan. Found by re-reading.
   and it is the single strongest defence against the reader's suspicion that "no summit" is a
   consolation prize. → **III.7, VII.7, VII.8, VIII.1** *(and it sharpens VIII.1's tourism cut: the
   tourist is a finite player inside an infinite game).*
+  ✅ **CASHED Day 187 in III.7 — and the line that mattered was NOT the one on the register.** The
+  finite/infinite opening is quoted once and **deliberately left unspent**, because the telos it
+  names is Book VIII's. What III.7 needed was §2, found by reading rather than by looking up:
+  > It is an invariable principle of all play, finite and infinite, that whoever plays, plays freely.
+  > Whoever must play, cannot play.
+  **Freedom stated as CONSTITUTIVE of play rather than as an add-on to it** — which is why *is my
+  walking free* cannot be settled by inspecting the walking for a hidden ingredient. Verified in two
+  independent scans (different editions, different typesetting: one numbers its sections, the other
+  small-caps its openings; OCR variance is visible — `infnite`, `held` for *field* — and the target
+  sentence agrees word for word). ★ Both scans are **unrestricted user uploads**; the three library
+  scans of Carse are all lending-restricted and all 401.
+
+- ★ **ANTONIO MACHADO — new ancestor, added Day 187 at III.7, and he is here by rule 5b.**
+  *Caminante, no hay camino, / se hace camino al andar.* The reserved VTR line's image, one link
+  upstream. ⚠⚠ **THREE MEASURED CORRECTIONS, and all three contradict what is usually said:**
+  **(a)** the poem is **not in the 1912 first edition** of *Campos de Castilla* — measured on the
+  archive.org 1912 scan, `Proverbios y cantares` = **0 hits**, `no hay camino` = **0 hits**; the
+  series entered with the 1917 *Poesías completas*. The standard citation is wrong by five years.
+  **(b)** ★★ **Machado is NOT IN *THE EMBODIED MIND*.** Zero hits for *Machado · caminante · camino ·
+  huellas · footsteps · estelas · Wanderer* across **both** digitisations. VTR make *Laying Down a
+  Path in Walking* their **chapter 11 title** and name no source. Web search asserted confidently
+  that Varela credited Machado in that book; **direct measurement refutes it.** The attribution is
+  in the commentary about the text, not in the text. → ruling 92.
+  **(c)** the two available digitisations **disagree on the poem itself** — punctuation throughout,
+  and `se hace camino` vs `se hace el camino` in line 5. **III.7 quotes only the two lines where the
+  witnesses agree word for word.** → ruling 94.
 - ★★ **BERNARD SUITS — constraint as constitutive, from analytic philosophy.** Game-playing is *"the
   voluntary attempt to overcome unnecessary obstacles"*; the **lusory attitude** is accepting the
   obstacle **because the activity cannot exist without it**. That is the focusing, defined rigorously,
   in a book about games, by someone no reader can file under woo. → **III.7, II.2**
+  ✅ **CASHED Day 187 in III.7 — AND NOT FROM *THE GRASSHOPPER*, on evidence. Ruling 95.** The 1978
+  book has exactly **one** digitisation anywhere (archive.org `grasshoppergames00suit_1`) and it is
+  lending-restricted — `_djvu.txt` **401s**, every search-inside endpoint is dead or forbidden. So
+  the slogan above is quotable only from tertiary sources, and **the tertiary sources disagree with
+  each other about the bracketed glosses** in the fuller definition (Wikipedia puts `[lusory means]`
+  after *rules*; the received text puts it after *means permitted by rules*) — ruling 84's defect,
+  in a gloss. **III.7 quotes the 1967 *Philosophy of Science* paper instead**, which is the same
+  doctrine in his pre-coinage vocabulary, is **fully open**, and is attested three times: the JSTOR
+  scan's abstract, the same scan's §7 *The Definition*, and Cambridge Core's own text layer. ★ **And
+  the older wording is BETTER for us** — *"the sole reason for accepting such limitation is to make
+  possible such activity"* states constraint-as-constitutive without needing the coinage explained.
+  ⚠ **THE CUT: his constraints are CHOSEN and he says so** (*accepting*). Ours is not — nobody agreed
+  to be at a position. **III.7 takes the FORM and not the instance.**
 - ★★ **JOHAN HUIZINGA — play is prior to culture, not produced by it.** *Homo Ludens* argues that
   law, war, poetry and philosophy all *arise inside* play. Our claim is structurally identical one
   level down: **playing is not something the world contains; it is what the focusing is.** He is
