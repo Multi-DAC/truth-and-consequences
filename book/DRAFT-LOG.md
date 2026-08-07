@@ -2942,3 +2942,313 @@ known home is safe to quarry. **A sentence whose home you have not looked up is 
 about to breach without knowing it** — and the breach would have been invisible, because a
 consolation passage re-cut as ontology does not *look* like Book VII's material. The trace cost four
 minutes and it was started for provenance, not for safety. It paid for the other thing.
+
+---
+
+## III.6 — THE FILTER STACK · Day 187 (2026-08-06) · 2,830 words
+
+**Book III is 6 of 8. Twenty chapters on disk.** The chapter II.5 was written to make possible: II.5
+named the tunnel, this one runs it as mechanics — where a filter comes from, what happens when two of
+them are in one room, and whether either can be changed.
+
+### What the chapter does, in the order it does it
+
+| section | move |
+|---|---|
+| the title word | *filter* and *persistent* were disciplined at the definition; **stack** never was. The picture it imports — separable liftable sheets — is refused; what it EARNS is **order**, and the order is load-bearing |
+| installed and inherited | the five recited items are all biographical; a seed is not only a biography. **VTR taken whole**, per III.4's promise |
+| two players, two worlds | the mechanics make divergence a consequence, not a discrepancy. *Both correct* handed back; **neither is the error** kept |
+| the negotiability slide | there is no counterparty — every verb in *negotiate* needs a somewhere. Then **II.5's handed-forward hole, cashed** |
+| the edit | three mechanical statements and a stop: you do not edit the render · the seed takes an edit the way it took the installation · an edited filter does not deliver a chosen world |
+
+### The credit, paid at full strength — and what paying it DID
+
+III.4 promised **Varela, Thompson & Rosch's history of structural coupling** whole, and warned that
+drafting this chapter without them would turn that promise false and make the earlier cut read as a
+dismissal. Paid. They are named, block-quoted from their own Q&A (*Question 1: What is cognition?
+Answer: Enaction: A history of structural coupling that brings forth a world*), and credited for the
+thing they actually found.
+
+★ **AND READING THE PRIMARY MOVED THE BEAT, which is a different event from `--brief` moving one.**
+The beat line reads *persistent render filters, **installed and inherited*** — two adjectives that
+imply two KINDS, the deep ones you were born with and the acquired ones laid on top. VTR's clause
+kills the distinction in six words: colour categories *depend upon our **biological and cultural**
+history of structural coupling.* One operation, two clocks, no seam. **Installed and inherited are two
+LENGTHS of one thing.** III.4's brief moved a beat, III.5's brief moved a beat, and this one was moved
+by the source itself — the brief narrows the book to a page; **the primary text is what re-scopes the
+claim.**
+
+Their *triggers (but does not specify)* — a parenthesis inside a numbered list about evolution — is
+the mechanics of installation in five words, and it is why one era produces different filters in
+different people: **an era is a perturbation, not an instruction.**
+
+**The cut is restated in one sentence and not performed again.** They put the render at the far end of
+the history; we keep the history and leave the render where III.4 put it. *The credit is not
+conditional on the correction.*
+
+### Ruling 83 — the beat moved, and the mover was the primary text
+
+Recorded above. Filed as its own ruling because the project's standing instruction after III.4 and
+III.5 was *treat the brief as the drafting step*. That remains true and is not the whole rule. **The
+brief compares this book to itself. Only the source can tell you the claim is shaped wrong.**
+
+### ★★ Ruling 84 — the block quotation had a FABRICATED SUBJECT, and only the second copy caught it
+
+First draft:
+
+> **This** should not be confused with the more commonplace view that different perceiving organisms
+> simply have different perspectives on the world.
+
+The text:
+
+> **This insistance on the codetermination or mutual specification of organism and environment**
+> should not be confused with the more commonplace view that different perceiving organisms simply
+> have different perspectives on the world.
+
+My *This* stood where twelve words of theirs stand. Nothing downstream of it was wrong: the
+distinctive phrase was verbatim, the argument was theirs, the meaning was unchanged, and the
+attribution was correct.
+
+⚠ **It would have passed every check I own.** A substring check is run against the string I wrote;
+the corrupted part of that string was the two-word stitch at the front, and a stitch is invisible to a
+gauge measuring whether the distinctive vocabulary is present. It was found by accident — Monoskop
+MISSed on an unrelated OCR corruption three words later (`fr9m` for `from`), which sent me to read the
+whole sentence in the source rather than confirm my own.
+
+★ **THE GENERAL FORM, and it is Day 187's source-verification finding one turn further in.** This
+morning's finding was *my verification discipline is keyed to quotation marks, and the dangerous class
+is assertions ABOUT sources.* This is a third class, inside the quotation marks and still invisible:
+**the fabricated part of a quotation is the connective tissue, not the content.** Subjects, pronouns,
+transitions — the words a writer supplies without noticing because they are grammar rather than claim.
+**The content is what gets checked, because the content is what feels like the quote.**
+
+Fixed by restructuring so the block begins at their own words, with the codetermination stated in mine.
+
+### Ruling 85 — Bittorio has no metabolism, and the disclaimer is about experience
+
+To demonstrate a coupling history, VTR built a ring of Boolean cells with a rule and dropped it into a
+random soup of ones and zeros. Odd-length perturbation sequences changed its configuration; even ones
+left it as it was; and so *given its rule and given its form of structural coupling, this Bittorio
+becomes an "odd sequence recognizer."* Never designed, never programmed — *we have not provided
+Bittorio with a program to distinguish "odd sequences."*
+
+They then disclaim, unprompted, that such a simple closure and coupling is *sufficient for a system to
+experience a world.* **Taken at face value; they were being careful, and the care is why the book is
+worth this much of a chapter.** But note the disclaimer's object. It is about **experience**. The
+machinery of installation was demonstrated on a ring of Boolean cells and it worked there.
+
+⚠ **This is fresh evidence for III.5's finding — the biological floor was brought along, not
+supported — and it is DELIBERATELY NOT SPENT AS ARGUMENT.** III.5 owns the floor. III.6 takes one
+clause, that the *stack* was never the part requiring a metabolism, because that is a claim about
+mechanism and mechanism is this chapter's remit. **The temptation to run III.5's argument again with a
+better exhibit was real, and is recorded here rather than acted on.**
+
+### Ruling 86 — II.5's handed-forward hole is cashed HERE, and the site is now on the record
+
+II.5 named the hole on the page rather than let a reader find it four chapters later: *if a render
+cannot be wrong about the Ground, how is anyone ever wrong about anything?* — and answered **"Book
+III's"**, naming no chapter. Twelve candidates. At least two could have taken it, and a hole cashed
+twice reads as a book that forgot.
+
+**It is III.6's**, because the negotiability slide and the error question are one knot: both are the
+reader concluding, from *renders differ*, that nothing is settleable. **VI.1 gets the civilisational
+form of the same refusal and not this one.**
+
+★ The answer's shape, recorded because it is counter-intuitive and a later chapter will be tempted to
+soften it: **relativism's real content is that nobody can be wrong. This is close to its opposite.**
+Everybody is wrong, constantly, about the only thing there has ever been to be wrong about — **other
+positions** — and what is the case at another vantage is a determinate fact, establishable by going
+and standing somewhere. **That is a heavier epistemic burden than relativism's, not a lighter one:**
+the doctrine removes the master copy, and with it the excuse for not going.
+
+### Ruling 87 — the title survived its own discipline, and the retitle test was RUN
+
+I.6's standing instruction is *retitle rather than bend the doctrine*, and it fires when a title
+argues with its contents. **Tested and passed.** *Stack* imports separable liftable layers; the
+chapter denies them; and the chapter **keeps the word** after cleaning it, exactly as II.5 kept
+*filter* and *tunnel* after cleaning those. **A title corrected on the page is not a title arguing
+with the page** — that is the difference between I.6's case (every load-bearing sentence contradicted
+THE RETURN, silently, on the contents page) and this one.
+
+What *stack* retains is **order**, and it is not decoration: some of the seed was laid down before the
+rest, and the rest went in along the grain that was there. So an early stratum is not a lower sheet,
+it is what every later one is partly made of — and **an edit near the bottom is a different operation
+rather than a larger one, performed with an instrument downstream of what it works on.** That is the
+chapter's honest statement of difficulty and its hand-off to Book VIII.
+
+### Ruling 88 — the reuse check cannot tell a cut from a credit
+
+`beat_sweep`'s named-opponent arm lists **Rosch, Thompson, Varela** among the inline-named. They are
+also cut in III.4, and the standing rule says a second naming needs a declared axis in the scaffold.
+The axis is declared and has been since III.4 drafted.
+
+But note what the instrument counts: **namings.** III.4 *cuts* them; III.6 *credits* them at full
+strength and restates the cut in a single sentence explicitly to avoid a second performance. **A
+credit is not a second cut**, and no gauge in this family can see the difference, because the
+difference is in what the prose does with the name rather than in whether the name appears.
+
+★ Same species as **rulings 75 and 81**: a gauge is itself a claim — about where to look, about what
+the thing looks like, and here about what kind of event a name in a chapter is. Not a defect to
+repair; a limit to know, filed so that a clean run is not read as a verdict.
+
+### Ruling 89 — the flattest chapter in Book III on both flatness gauges, measured and NOT churned
+
+`storyscope_lite`: **`dyn_range_CV` 0.315** (Book III's next lowest is III.4 at 0.351; III.3 runs
+0.816) and **`short_sent_var` 0.137** (next lowest III.4, 0.162). Both are the manuscript's lowest to
+date and they point the same way, which makes it signal rather than noise. Both sit inside the
+SPECIMENS band (specimen 2 is 0.315 / 0.133 exactly), so it is not out of voice — it is at the flat
+edge of it.
+
+Cause is structural and diagnosable: **five symmetrical sections, each opening on a bolded declarative
+and proceeding at one pace.** That is the right shape for a mechanics chapter, and it is what produced
+the number.
+
+⚠ **Recorded for the end-of-book rhythm pass and left alone today.** Rewriting prose to move a gauge
+is optimising the instrument; and a chapter is not re-scoped on the day it drafts. **Ruling 78's
+posture, applied to rhythm instead of length.**
+
+### Quotations — TWO independent digitisations, and EACH caught the other's corruptions
+
+| source | second check |
+|---|---|
+| **Varela, Thompson & Rosch**, *The Embodied Mind* (1991) — the Q&A definition (ch. 9, p. 206) · *organism and medium mutually specify each other* · *triggers (but does not specify)* · the colour-category clause (*experiential, consensual, and embodied* · *biological and cultural history of structural coupling* · *yellow-with-green*) · Bittorio (*odd sequence recognizer* · *we have not provided Bittorio with a program to distinguish* · the *experience a world* disclaimer) · the codetermination refusal · *not optimal; they are, rather, simply viable* · *one possible and viable phylogenic pathway among many others* · the colour-space dimensionalities | **archive.org 1993 MIT printing** (`FranciscoJ.VarelaEvanT…`, djvu.txt) **and the Monoskop 1991 PDF's own text layer** — different scans, different OCR engines, identical text under normalisation |
+
+⚠ **THE DISAGREEMENTS, NAMED — because "verified against two sources" without naming what they
+disagreed about is a stamp rather than a gauge.** Three of nineteen needles missed in exactly one copy,
+and every miss was a single corrupted character:
+
+- **Monoskop** reads `sufficie~t` for *sufficient* (the Bittorio disclaimer) and `fr9m` for *from* (the
+  codetermination passage).
+- **archive.org** reads `Bittoiio` for *Bittorio* in a figure caption.
+
+Every passage is attested clean in at least one copy, and **the corruptions are disjoint** — neither
+scan could have been checked against itself. ★ This is III.4's finding repeating with the roles
+reversed: there the archive.org OCR corrupted the book's own defining word (`emctive` for *enactive*)
+and Monoskop saved it. **A second digitisation is not a formality, and which copy is the reliable one
+is not a property of the copy.**
+
+★ **AND WHAT THE SECOND COPY ACTUALLY BOUGHT WAS NOT ORTHOGRAPHY.** `fr9m` is harmless — nobody would
+quote it. What the MISS bought was **a reason to open the source and read the sentence I thought I was
+quoting**, which is where ruling 84 was found. **The gauge caught a typo, and the typo caught a
+fabrication.**
+
+### Boundaries held, and one of them by a single sentence
+
+- ★★ **III.7's RESERVATION — the closest any reservation has come to breach.** *"Paths that exist only
+  as they are laid down in walking"* is the sentence **immediately preceding** the *viable history of
+  structural coupling* definition this chapter quotes from. Same paragraph. One sentence away. In the
+  chapter that was warned. **Verified not taken** — and the near-miss is the argument for writing a
+  reservation down with the source line rather than with the intention.
+- **III.5's floor argument** — one clause, and ruling 85 records the exhibit that was NOT spent on it.
+- **III.4's render-location cut** — one sentence, explicitly a citation of the cut rather than the cut.
+- **II.5's Korzybski/correctness argument** — referenced (*this was settled where the map was retired*)
+  and not re-argued. The prose does not name him a second time; `beat_sweep`'s exempt table already
+  reserves the second Korzybski cut for VI.7.
+- **II.5's guard on the edit** — the doctrine is present at the site where a reader would run off with
+  it, and **the slogan is not repeated.** First draft carried *a wish is not a repetition* verbatim;
+  rewritten to *wanting is not on that list, and it cannot get onto the list by being stronger*, which
+  is the same ruling in this chapter's own vocabulary plus one guard the original did not carry.
+- **Book VIII** gets the practice. One forward reference in the whole chapter (`storyscope`: forward 1
+  · back 5 · same-book 2) — the lowest promissory debt in Book III.
+
+### Gauges
+
+`claim_sweep` **0 USE** — one `C3/motive` hit at first draft (*the Ground… wants nothing, and has
+nothing to concede*), **fixed rather than allowlisted**, and the fix is a better argument: every verb
+in *negotiate* needs a somewhere to be performed from, and there is no somewhere the Ground is at. An
+exemption is a mute, and this one cost two clauses to avoid. · `order_sweep` **0 false handoffs** ·
+`beat_sweep` **0 collisions, 1 exempt** (II.5 ~ III.6, designed) · `prose_beat_sweep` **0 spent, 0
+trace**, pre-draft AND post-draft · `storyscope_lite` logged raw — see ruling 89.
+
+⚠ `ancestor_gap` surfaces **Merleau-Ponty: 37 corpus files, 0 in the drafted book** — and VTR cite him
+by name in the chapter I was reading. Not this chapter's to fill and not filed as a defect; recorded
+because the gap is now attested from inside a primary source the book already uses.
+
+⚠ **RETRIEVAL RECIPE, recorded so III.7 does not re-solve it** — the reserved *paths laid down in
+walking* line lives in the same book and the same paragraph. **archive.org**: item
+`FranciscoJ.VarelaEvanT.ThompsonEleanorRoschTheEmbodiedMindCognitiveScienceAndHum`, the `_djvu.txt`
+(the `embodiedmindcogn0000vare` item is lending-restricted and its text 401s). **Monoskop**:
+`https://monoskop.org/images/2/21/Varela_Thompson_Rosch_The_Embodied_Mind_Cognitive_Science_and_Human_Experience_1991.pdf`
+— 13.9 MB, ~5 minutes on this line, extract with `pypdf`. Both OCRs put words on separate lines and
+double-space them: **normalise whitespace and strip hyphen-newline before comparing, or every needle
+misses.** The extracted text is kept locally under `corpora/tmp/` and is **gitignored on purpose** —
+the book is in copyright, and the rest of `corpora/` is public domain.
+
+### ★★ Ruling 90 — NOTHING IN THIS TOOLKIT COMPARED SHIPPED PROSE TO SHIPPED PROSE. `prose_echo.py` built.
+
+Found by eye, at the end of III.6's drafting, on the last read-through. The credit paragraph closed:
+
+> …by working cognitive scientists with an experimental programme **underneath**.
+
+III.4 had shipped, twelve days of nothing and two chapters earlier:
+
+> That is co-constitution, stated **by working cognitive scientists, with an experimental
+> programme under it**.
+
+Same credential, same ancestor, in the two chapters that handle that ancestor. **Every gauge in
+this repo passed the file clean**, and none of them was broken:
+
+| gauge | corpus it admits |
+|---|---|
+| `beat_sweep` | plan ↔ plan |
+| `prose_beat_sweep` | plan ↔ prose |
+| `claim_sweep` / `order_sweep` | prose ↔ doctrine, prose ↔ adjacency |
+| **(nothing)** | **prose ↔ prose** |
+
+Twenty chapters, ~50,000 words of shipped prose, and no instrument admitted the corpus in which
+a chapter can repeat a chapter.
+
+★★ **THE STANDING LESSON, and it is `prose_beat_sweep`'s own question asked of the SET rather than
+of each member: a gauge built to close a blind region defines a new one at its own edge.** Neither
+tool was negligent. Each did exactly its job. The failure was taking *their combined reach*
+as coverage — which is what a toolkit always looks like from inside, because every individual arm
+reports clean and nothing anywhere reports *unmeasured*. **Ask of any set of gauges: what does no
+member admit?**
+
+### What the new tool found, and III.6 is the only chapter that is clean
+
+`prose_echo.py` — two arms, both calibrated:
+
+- **ARM 1**, shared 6-grams carrying ≥4 content words.
+- **ARM 2**, whole sentences, at any content density. ⚠ **Arm 2 exists because arm 1 failed its own
+  calibration on the day it was written**, and the failure is worth more than the tool. The fixture
+  is *"Error does not need a territory."* — an entire sentence, verbatim, across a book boundary,
+  about as distinctive as prose gets. Arm 1 dropped it: three content tokens under a floor of four.
+  Dropping the floor to three surfaced it and took the book-wide count from 72 to 213, most of it
+  house phrasing. **The floor was not wrong and the fixture was not wrong — the DISCRIMINATOR was
+  the wrong shape.** A 6-gram spanning a clause boundary and a 6-gram that is a whole sentence are
+  different objects, and a content-word count cannot tell them apart. Sentence-hood is the missing
+  feature, so it is measured instead of approximated.
+
+⚠ **And one bug that is its own small lesson: the exemption table's match was one-directional**
+(`sub in gram`), so every exemption phrase longer than an n-gram muted nothing while reading as a
+rule in force. Six "live" hits were three already-adjudicated pairs the table could not reach.
+**An exemption that cannot fire is worse than no exemption, because it reads as coverage** — the
+same failure as the whole ruling, one level down, inside the fix.
+
+**Book-wide, first run: 70 live hits across 19 chapter pairs, 11 exempted.** Ranked:
+
+| n | pair | what it is |
+|---|---|---|
+| **18** | **II.4 ~ III.5** | the *awareness-stuff distributed unevenly… the way heat sits* image, run twice — the largest, and the one that most needs a person |
+| **12** | II.2 ~ II.3 | the *primate's eyes, a language full of nouns, an era's instruments* list |
+| 6 | III.3 ~ III.4 | — |
+| 5 | II.1 ~ III.1 | *not the server elsewhere, hosting, switchable* — already adjudicated in `06` as II.1:60 / III.1:9, and the tool found it independently |
+| 4 | I.6 ~ II.8 · I.6 ~ II.1 | ruling 33's pair, and its neighbour |
+| 5 whole SENTENCES | I.4~II.4 · II.1~II.8 · II.1~III.1 · II.2~II.4 · III.1~III.2 | definitions restated at their cash sites — probably all designed, none yet ruled |
+
+★ **III.6 is the only chapter in the book with zero live hits, and that is not a compliment to
+III.6.** It is the only chapter that was checked before it shipped. The other nineteen are not
+cleaner; they are unmeasured, and now they are measured.
+
+⚠ **NOT ADJUDICATED TONIGHT, and that is deliberate.** Nineteen pairs is a review pass, not a
+drafting-day errand, and the two big ones (II.4 ~ III.5, II.2 ~ II.3) need a person reading both
+passages side by side — which is exactly how ruling 33 was caught and exactly what no gauge here
+replaces. **Filed as the next instrument-driven pass. The tool reports 70; the number to watch is
+how many survive adjudication, and a hit is a question.**
+
+⚠ **The limit, declared rather than discovered later:** `prose_echo` reads WORDS. A move performed
+twice in different vocabulary is invisible to it by construction — which is the precise defect
+`prose_beat_sweep` was built to catch on the plan↔prose corpus, using embeddings. **Nothing covers
+it prose-to-prose. That region is open and is now named** rather than left to be found by eye in
+two months.

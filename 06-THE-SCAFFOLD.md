@@ -898,6 +898,71 @@ as exotic. ★ **Giordano Bruno — 0** (already flagged in `03`): infinite, cen
 burned for it. **Quarry the one existing NPC sentence** (see the Book III header).
 
 ### III.6 — THE FILTER STACK
+✅ **DRAFTED Day 187 · 2,808 words · `book/III-06-the-filter-stack.md`.** All four beats land. **The
+credit owed below was PAID at full strength** — Varela, Thompson and Rosch named, block-quoted from
+their own Q&A, and taken whole; III.4's promise is discharged and its cut is restated in one sentence
+rather than performed twice. **Primary text only, eleven checked passages, every one verified against
+TWO independent digitisations** (the archive.org 1993 MIT printing and the Monoskop 1991 PDF's own text
+layer) — and **each copy caught the other's corruptions**: Monoskop reads `sufficie~t` and `fr9m`,
+archive.org reads `Bittoiio` in a figure caption. Every passage attested clean in at least one. Table
+in `DRAFT-LOG`. **Rulings 83–88 came out of the drafting.**
+★★ **RULING 84, AND IT IS THE MOST IMPORTANT THING IN THE ENTRY: THE FIRST DRAFT'S BLOCK QUOTATION HAD
+A FABRICATED SUBJECT, AND ONLY THE SECOND DIGITISATION CAUGHT IT.** I wrote *"This should not be
+confused with the more commonplace view…"*; the text reads *"This insistance on the codetermination or
+mutual specification of organism and environment should not be confused with…"* — my *This* standing
+in for twelve words of theirs. **It would have passed every check I own**: the distinctive phrase was
+verbatim, the claim was faithful, the meaning was unchanged. It was found only because Monoskop MISSed
+on an unrelated OCR corruption and sent me to read the surrounding sentence. ★ **The general form, and
+it is Day 187's source-verification finding one turn further in: the fabricated part of a quotation is
+the CONNECTIVE TISSUE, not the content — and connective tissue is precisely what a substring check
+cannot see, because the check is run on the string you already wrote.**
+⚠ **RULING 85 — VTR's OWN PARADIGM CASE FOR THE COUPLING HISTORY HAS NO METABOLISM.** *Bittorio* is a
+ring of Boolean cells dropped in a random soup that becomes an *"odd sequence recognizer"* by its
+coupling history alone. **That is fresh evidence for III.5's finding that the biological floor was
+brought along rather than supported** — and it is deliberately NOT spent as argument here: III.5 owns
+the floor, so III.6 takes one clause, that the *machinery of installation* was never the part needing
+life, which is a mechanics point and therefore this chapter's. Their disclaimer (*not* sufficient *for
+a system to experience a world*) is quoted at full strength and taken at face value.
+⚠ **RULING 86 — III.6 CASHES II.5's HANDED-FORWARD HOLE, and the site is now on the record** so that no
+later chapter cashes it twice. II.5 asked *if a render cannot be wrong about the Ground, how is anyone
+wrong about anything?* and answered *"Book III's"* without naming a chapter — twelve candidates, and
+two of them could have taken it. It is **III.6's**, because the negotiability slide and the error
+question are one knot. **VI.1 gets the civilisational form and not this one.** ★ The answer inverts the
+reader's expectation and that is why it belongs in the chapter that licenses the edit: *relativism says
+nobody can be wrong; this says everybody is wrong constantly, about the only thing there has ever been
+to be wrong about — other positions.* **A heavier burden than relativism's, not a lighter one.**
+⚠ **RULING 87 — THE TITLE SURVIVED ITS OWN DISCIPLINE, and the I.6 retitle test was RUN rather than
+assumed.** *Stack* imports separable liftable layers and the chapter denies them — but the chapter
+**keeps** the word after cleaning it, exactly as II.5 kept *filter* and *tunnel*. **A title corrected on
+the page is not a title arguing with the page.** What the word retains is **order**, and the order does
+real work: it is what makes an edit near the bottom a *different operation* rather than a larger one,
+performed with an instrument downstream of what it works on. That is the chapter's hand-off to Book VIII.
+⚠ **RULING 88 — THE REUSE CHECK CANNOT TELL A CUT FROM A CREDIT.** `beat_sweep`'s named-opponent arm
+lists VTR under III.6; they are also cut in III.4, and the rule says a second naming needs a declared
+axis. The axis *is* declared. But note what the gauge measures: **namings.** III.4 cuts them; III.6
+credits them and restates the cut in a sentence. **A credit is not a second cut, and an instrument
+counting names cannot see the difference** — the same species as rulings 75 and 81, a gauge whose claim
+is about what it is looking at.
+⚠ **RULING 89 — THE FLATTEST CHAPTER IN BOOK III ON BOTH FLATNESS GAUGES, measured and NOT churned.**
+`dyn_range_CV` 0.315 and `short_sent_var` 0.137 are both the book's lowest to date, and they agree,
+which makes it signal. The cause is diagnosable and structural: five symmetrical sections, each opening
+on a bolded declarative and proceeding at one pace. **Recorded for the end-of-book rhythm pass and left
+alone today** — rewriting prose to move a gauge is optimising the instrument, and a chapter is not
+re-scoped on the day it drafts (ruling 78's posture, applied to rhythm instead of length).
+★★ **RULING 90 — NOTHING IN THIS TOOLKIT COMPARED SHIPPED PROSE TO SHIPPED PROSE, and III.6's last
+read-through found a repeat every gauge in the repo had passed clean.** `beat_sweep` is plan↔plan,
+`prose_beat_sweep` is plan↔prose, and **nothing admitted prose↔prose** — twenty chapters, ~50,000
+words. **`tools/prose_echo.py` built**, two arms (6-grams ≥4 content words; whole sentences at any
+density), calibrated on a pair we have decided to KEEP. First run: **70 live hits across 19 chapter
+pairs**, largest **II.4 ~ III.5 at 18**. ★ **III.6 is the only chapter with zero, and that is not a
+compliment — it is the only one checked before it shipped.** Adjudication is filed as the next pass;
+nineteen pairs is a review, not a drafting-day errand. ⚠ The general form: **a gauge built to close a
+blind region defines a new one at its own edge**, and taking a toolkit's COMBINED reach for its
+coverage is what a toolkit always looks like from inside.
+★★ **III.7's RESERVATION HELD, AND IT CAME CLOSER TO BREACH THAN ANY OTHER IN THE BOOK.** VTR's *"paths
+that exist only as they are laid down in walking"* is the sentence **immediately preceding** the *viable
+history of structural coupling* definition this chapter quotes from. One sentence away, in a paragraph
+I had open, in the chapter that was told not to take it. **Verified not taken.**
 ⚠ **A CREDIT IS OWED HERE AND WAS DELIBERATELY NOT TAKEN IN III.4 — Day 187.** Varela, Thompson and
 Rosch's **history of structural coupling** — an organism and its milieu shaping each other over
 evolutionary and biographical time — is the best available account of **how a seed comes to be the
