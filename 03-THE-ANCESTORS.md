@@ -446,7 +446,15 @@ turned a number into an artefact)*:
 one hit is already the sentence: *"props in the movie of your errands, NPCs. They aren't. Each one is
 a full lit window with a day behind it."* **Quarry it. It is III.5's thesis, already written once.**
 ✅ **QUARRIED Day 187, at III.5's close — re-cut, not lifted.** The image carries; the sentence does
-not survive intact. ⚠ **And it nearly cost the close: the first draft stated the same image a quarter
+not survive intact.
+★ **AND THE PROVENANCE WAS TRACED RATHER THAN ASSUMED, which changed what could be taken.** The
+sentence is *The Inside View* ch. 8 — a chapter `02` routes to **Books IV and VII**, not here. So the
+quarry had to be the IMAGE ONLY, and it was: the crowd flattened into furniture, each a lit window
+with a day behind it, re-cut from consolation into ontology. **What travels with it in the source and
+stays reserved:** the two-lenses account of love (→ VII.7/VII.8) · the argument case · the deathbed
+case · and above all **the asymmetric cost of the circle**, which is VII.2's and which `06`'s beat
+list did not carry until this trace found it. ⚠ **A sentence with a known home is safe to quarry; a
+sentence whose home you have not looked up is a reservation you are about to breach without knowing.** ⚠ **And it nearly cost the close: the first draft stated the same image a quarter
 of the way in, in the MMO section, where it was weaker** (ruling 77). Nothing in the toolchain
 compares a chapter to *itself* — `prose_beat_sweep` compares chapters to other chapters and to the
 plan. Found by re-reading.

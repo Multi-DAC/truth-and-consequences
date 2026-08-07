@@ -1201,7 +1201,21 @@ metaphysics dissolves.**
 answer they tried was either a promise or a shrug.
 
 ### VII.2 — WHAT THE NO-NPC RULE COSTS
-**Beats:** III.5's promissory note, cashed · obligation once nothing is a prop · the richness gradient
+⚠⚠ **A BEAT `02` ROUTES HERE AND THIS LIST DID NOT CARRY — found Day 187, tracing III.5's quarried
+sentence to its source.** `02`'s supersession entry sends *The Inside View* ch. 8–9 to **Books IV and
+VII**, and names the argument by name: **the asymmetric cost of the circle** — *generous error = kind
+to furniture; stingy error = the mechanism under every atrocity* — **with its limiter noted: the
+asymmetry bites on the steep uncertain stretch, not everywhere.** It appears in `02`, in `07` under
+C9's dependants, and in no beat list anywhere. **It is VII.2's and it is now written down.** ⚠ The
+limiter is not optional; without it the argument proves too much and a reader who spots that discards
+the whole thing.
+⚠ **AND III.5 DID NOT SPEND IT — checked, Day 187, not assumed.** III.5's Tuesday section names the
+stakes in a single clause (*what makes a decision about a forest an accounting problem · the
+difference between clearing a field and clearing a room*) and stops there. **Naming the stakes is not
+making the argument.** The ordinary cases taken all the way, and the asymmetry that tells you what to
+do under uncertainty, are untouched and are this chapter's.
+**Beats:** III.5's promissory note, cashed · **the asymmetric cost of the circle, with its limiter** ·
+obligation once nothing is a prop · the richness gradient
 and moral standing, **stated with its teeth in**: grade is a position, not a permission, and it still
 bears on standing · eating, using, building, killing — the ordinary cases, taken all the way · where
 the framework gives an uncomfortable answer, **give the uncomfortable answer.**

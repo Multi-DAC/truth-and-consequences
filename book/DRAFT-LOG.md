@@ -2911,3 +2911,34 @@ found by running every arm of every gauge on a day when a chapter shipped — in
 usually print nothing. **An arm that has printed the same clean line for a month is not evidence;
 it is an untested branch.** `--status` was not run at III.2, III.3 or III.4. It would have said this
 each time.
+
+### Ruling 82 — the quarry's provenance, traced after the commit, and it found a beat nobody had written down
+
+**The one prior NPC sentence has a home, and the home is not this chapter.** `03` §3.6 records the
+sentence and says *quarry it*; it does not say where it came from, and I drafted III.5's close from
+the recorded text without looking. The trace finished afterwards: **it is *The Inside View* ch. 8** —
+a chapter `02`'s supersession entry routes to **Books IV and VII.**
+
+The quarry survives, because what was taken is the **image** and not the argument: the crowd flattened
+into furniture, each one a lit window with a day behind it, re-cut from consolation into ontology.
+Checked line by line rather than assumed. What travels with it in the source and stays reserved: the
+two-lenses account of love (VII.7/VII.8) · the mid-argument case · the deathbed case · and the one
+that matters most —
+
+★ **THE ASYMMETRIC COST OF THE CIRCLE, which `02` names, `07` lists under C9's dependants, and NO BEAT
+LIST ANYWHERE CARRIED.** *Generous error = kind to furniture; stingy error = the mechanism under every
+atrocity* — **with its limiter, which is not optional: the asymmetry bites on the steep uncertain
+stretch, not everywhere.** Without the limiter it proves too much and a reader who notices discards
+the argument entire. Now written into `06` at VII.2, where it belongs.
+
+⚠ **III.5 did not spend it, and that was verified rather than hoped.** The Tuesday section names the
+stakes in a single clause — *what makes a decision about a forest an accounting problem · the
+difference between clearing a field and clearing a room* — and stops. **Naming the stakes is not
+making the argument.** The ordinary cases taken all the way, and the asymmetry that says what to do
+under uncertainty, are untouched.
+
+**The lesson, and it is the one this project keeps relearning in new clothes:** a sentence with a
+known home is safe to quarry. **A sentence whose home you have not looked up is a reservation you are
+about to breach without knowing it** — and the breach would have been invisible, because a
+consolation passage re-cut as ontology does not *look* like Book VII's material. The trace cost four
+minutes and it was started for provenance, not for safety. It paid for the other thing.
