@@ -3797,3 +3797,45 @@ recorded as a Book IV–VIII **drafting** constraint rather than a revision note
 **WHAT THE REVIEW COULD NOT CHECK, now checked:** III.3's *there is no runtime* is **C1**, verbatim
 in the canonical text. III.5's population claim is **C9**. III.7's three-part account is **C14**.
 Only III.4's identity status was genuinely unregistered — ruling 105.
+
+---
+
+## IV.1 — THE CENSUS AND ITS METHOD · Day 188, 2026-08-07
+
+**BOOK IV OPENS. 2,785 words.** Ruling 75(b) honoured: **the chapter does not open by reciting
+III.8.** It opens by *printing a card* — a five-line entry for a thermostat, shown cold, before a
+word is said about what a card is. The recap that five of eight Book III chapters reached for is
+absent, and nothing is missing: the reader has the thread.
+
+**THE HINGE, and it was in the source rather than invented.** `null-space-atlas.md` opens by
+declaring that *every theoretical framework is a perspectival being* — so the five-line card
+(SEES · NULL SPACE · COMPLEMENTS · BOUNDARY · NAVIGATIONAL IMPLICATION) was **already an entry in
+the census before there was a census**. IV.1 says this plainly and takes it as the licence for
+transferring an instrument built for frameworks onto molluscs and gods without modification. The
+atlas's **∅ / ◐** distinction (absolute vs. partially-resolved null space) is carried into the book
+intact, because collapsing it "calls every silence the same silence."
+
+**PHYSICALISM (opponent I) cut as a CARD, not as an argument** — its census printed in the book's
+own apparatus, two lines long, at full strength and without caricature. The cut is that the census
+is **self-reporting**: an aperture counting only the apertures it can recognise has measured its own
+null space and written it in the wrong column. Stated as a *boundary* in the technical sense of the
+fourth line, which is why no amount of care inside the framework finds it.
+
+**UNDER-ATTRIBUTION declared at the front, with its bill attached.** The bias is defended by
+induction over a record with no counterexamples, not by generosity. ⚠ **Both external claims were
+VERIFIED against sources before commit, not asserted from confidence** — this is the Day-187
+Irenaeus discipline applied prospectively for the first time: (a) infant surgery with no or minimal
+anaesthesia well into the 1980s, on a rationale of neural immaturity with responses dismissed as
+reflex — confirmed, incl. the Lawson case; (b) the sentience line moving to cephalopods and decapods
+— confirmed (UK, 2022, after a review of 300+ studies). **Neither is quoted and neither is dated in
+the prose**; the specificity lives here, in the log, where it can be checked without the chapter
+acquiring a footnote's register.
+
+**AND THE BILL:** the chapter states, before the census starts, that a standing bias produces
+standing errors and that this one will — naming the *shape* of the future mistake (thinnest evidence,
+most confident prose) rather than pretending to have avoided it.
+
+**GAUGES:** beat_delivery 3/4 at 1.00; the fourth MISSes `gates` on a plural stem while delivering
+the beat three ways (*no gate at the door*, *the census does not have a bouncer*, *nothing earns its
+place*) — **adjudicated DELIVERED, word-level false positive**, which is the case the tool's own
+footer says to expect. prose_echo: **0 live hits** against 23 drafted chapters.
