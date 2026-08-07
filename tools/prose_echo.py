@@ -129,6 +129,34 @@ EXEMPT = [
      "the fact that the two chapters disagree on purpose. Contrast the pair repaired the same day: "
      "IV.2~IV.3's 'because at the mineral grade nothing' was a PARAPHRASE of the previous chapter's "
      "own observation, which reads as fresh and is not, and was cut rather than exempted."),
+    ("II.6", "IV.5", "all four coheres and keeps cohering",
+     "★ ADJUDICATED AND KEPT, Day 188. IV.5 does not assert that a company is a being — it RUNS "
+     "II.6's four conditions on one, announced ('Book II gave four conditions... Run them.'). The "
+     "rule has to be quoted at the site where it is cashed or the test is being applied from "
+     "memory. Signposted, not smuggled — which is the line the IV.2~IV.3 cut above was on the "
+     "wrong side of."),
+    ("II.6", "IV.5", "own expectations did not already contain",
+     "II.6's definition of MEASUREMENT, cited in the sentence that applies it to revenue and a "
+     "regulator's letter. A condition restated in the drafter's own words would be a different "
+     "condition, silently."),
+    ("II.6", "IV.5", "levels had dissolved into one another",
+     "★ DESIGNED PARALLEL, and the punchline is the point: II.6's body-with-no-levels is 'a "
+     "slurry', IV.5's company-with-no-levels is 'a room of people shouting'. Same frame, same "
+     "test, different material, different landing — the structure the whole section announces. "
+     "⚠ The verbatim SENTENCE this pair originally carried ('the settling at one level has to be "
+     "compatible with the settling at the others') was REWORDED, not exempted: arm 2 caught it and "
+     "a whole borrowed sentence is not a citation, it is the drafter reaching for the nearest "
+     "phrasing. The gram survives because the frame is deliberate; the sentence did not."),
+    ("II.7", "IV.5", "made of something the reader already",
+     "Ruling 30's criterion, quoted in the act of being applied a second time — the `egregore` "
+     "refusal (ruling 109) is made on identical grounds to the `superposition` ban, and IV.5 says "
+     "so on the page. A test reapplied without its own words is a new test wearing the old one's "
+     "authority."),
+    ("II.3", "IV.5", "the practices are book viii s",
+     "The standing forward-reference formula, deliberately fixed. II.3 hands the practices "
+     "forward in these words; IV.5 hands them forward in the same words. A recurring promise "
+     "kept in one phrasing is a refrain the reader can recognise — varying it would make two "
+     "promises out of one."),
 ]
 
 

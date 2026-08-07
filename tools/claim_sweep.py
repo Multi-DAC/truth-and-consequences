@@ -155,6 +155,19 @@ RULES = [
      "must survive. NOT licensed by this rule, and correctly so: quoted contest material in "
      "`prose/SPECIMENS.md`, which is suppressed as a MENTION by the blockquote and ⚠ markers and "
      "must NEVER be exempted by widening the pattern above."),
+    ("TERM/egregore", "all", r"\begregor(?:e|es|ic|ial)\b|\bEGREGORE\b", None,
+     "05 §3a — RULING 109 (Day 188), at IV.5. BANNED as a term; the tradition is CREDITED once, in "
+     "IV.5, with its lineage (nineteenth-century French occultism ← the ἐγρήγοροι of *1 Enoch* ← the "
+     "ceremonial orders). Axis 1 finds a real owner and axis 3 a real polysemy, but **the killing "
+     "axis is 2, and it is ruling 30's criterion re-run without amendment: an analogy has to be "
+     "made of something the reader already has.** *Collapse* has a civilian life and kept its word; "
+     "*superposition* had none and was banned; *egregore* has none either — nobody has ever used it "
+     "about the traffic, or a marriage, or a firm — so borrowing it transfers AUTHORITY rather than "
+     "MEANING, which is the exact transaction §3c exists to refuse. The book's words are the plain "
+     "ones: **a movement, a company, a country.** LICENSED: the single credit-and-refusal passage "
+     "in IV.5, exempted by pair below. ⚠ Wired the same day it was ruled, because a lexicon ruling "
+     "with no gauge behind it survives its own retirement — `the map` proved it in two live chapter "
+     "titles and `magic circle` proved it as an un-carried-out INSTRUCTION (ruling 101)."),
     ("TERM/fullness", "book-after-one", r"\bthe Fullness\b|\bthe still\b", None,
      "05 §3a — RULING 14 (Day 187). *The Fullness* and *the still* are Book I's mythic names for "
      "the Ground, and they are RETIRED at the I/II boundary. I.6's closing move — 'they will not "
@@ -579,6 +592,14 @@ EXEMPTIONS = [
     ("06-THE-SCAFFOLD.md", "TERM/pre-rendered", "immediately above",
      "Same entry, the `00` adjacency quoted as evidence. Own line, per the standing rule that an "
      "exemption is a named line and never a paragraph."),
+    ("06-THE-SCAFFOLD.md", "TERM/egregore", "**Beats:** egregores",
+     "★ THE BEAT LINE THAT PRODUCED THE RULING, and the one place in the apparatus the word was "
+     "ever going to be. `06` is the PLAN, not prose — SCOPE, not licence, the DRAFT-LOG pattern. "
+     "The plan is what routed the term to a chapter and therefore what forced it to be screened; "
+     "editing the beat to remove the word would delete the reason ruling 109 exists from the file "
+     "that caused it. ⚠ Deliberately NOT widened to the whole file: the ✅ entry below it and the "
+     "two IV.5 prose lines are already suppressed as MENTIONS by the mention/use window, and if a "
+     "later edit turns any of them into a USE this rule must fire."),
     ("book/DRAFT-LOG.md", "TERM/pre-rendered", "asserted, in a prefix",
      "The III.3 entry naming the retired title in the sentence recording its retirement. Fresh "
      "line, per the standing instruction on the whole-file DRAFT-LOG entry, which covers "

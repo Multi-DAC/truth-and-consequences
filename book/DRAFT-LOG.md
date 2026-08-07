@@ -4346,3 +4346,155 @@ reading of one of them: the scaffold sentence has an implied addressee, and I re
 lines have only one. **A contradiction between two documents is not evidence that either is wrong
 until the addressee of each has been checked.** That test costs one question. I did not run it;
 Clayton ran it in a sentence.
+
+---
+
+## IV.5 — THE COLLECTIVELY-EMERGENT · Day 188 · 3,972 words
+
+**Opens on a procedure that closes on itself.** Think of a rule that has cost you something; go and
+find the person who decided it. People actually do this, and what happens is always the same — every
+person is helpful, agrees the rule is stupid, and points one step onward, and the chain does not end
+in a person, it closes. Both ordinary explanations fail on the same fact: the rule has been revised,
+*in its own direction*, by a committee whose members never read the original. Accidents do not do
+that. Concealment leaves marks that diffusion does not. Something is maintaining it.
+
+**The hard claim is not asserted. It is discharged.** `06` asks for it unhedged, and the strongest
+available form of unhedged turned out not to be emphasis — it was **using a test the book had already
+shipped, in public, four chapters before anything collective was in view.** II.6's four conditions,
+run on a company without amendment: separation (the chart is a diagram of exactly this), measurement
+(revenue, a lost bid, a regulator's letter — events that arrive from outside and can hurt), agreement
+across the levels (**and here it visibly fails in a way everyone inside one recognises**, which makes
+the felt experience of dysfunction a datum rather than a complaint), maintenance through time (it
+does not wear out, it stops being performed, and there is no corpse). Four for four.
+
+**And the negatives, because a test that admits everything has tested nothing.** A traffic jam fails
+at the first condition and therefore all of them: one level, and no place where the jam holds
+anything about itself. The shockwave travelling backwards up a motorway is real and is not a
+perception, because nothing receives it. Same for a queue, a crowd, a fashion — and a mob, which is
+named deliberately, because *dangerous* and *someone is there* have been confused throughout the
+history of this subject. **One case is left open on the record rather than resolved conveniently:** a
+market has measurement in extraordinary abundance and it is not settled here whether it has agreement
+across its levels or is a very large instrument that nothing is holding.
+
+**THE CHAPTER'S LINE, and it is the one the beat asks for: a collective's null space is the only one
+in this atlas that is *written down*.** Everywhere else a null space is inferred from outside by
+somebody guessing and knowing they are guessing; human null spaces drift, are undocumented, and — the
+previous chapter's finding — do not present as gaps even to their owner. A collective's is stable,
+shared, and legible: the chart is the list of what it has an organ for, the budget is that list
+weighted, the calendar is what it is allowed to take time over. Anything on none of them is excluded
+*absolutely*, because sensitivity here is not a disposition, it is a person whose job it is. **Delete
+the team and you have not lowered a priority. You have removed an organ.** So this is the only entry
+whose null space can be audited from outside, in advance, without the entity's cooperation.
+
+**How that extends IV.4 instead of repeating it.** Both chapters end at a finished picture, by
+different mechanisms, and the second is worse. A human null space returns one because the rendering
+is automatic and nobody chose it. A collective's returns one because **somebody was assigned to
+produce it** — and the fluency is supplied by human beings who are themselves quite capable of grief
+and are, in that role, the entity's organ for not having any. ★ **The turn that stops this being an
+exoneration, and it has to be made or the census is worthless:** a specification cuts. The discovery
+that a thing with no organ for grief will confidently decide anyway, and file a report
+indistinguishable from a considered one, is an argument about **what such entities should be put in
+charge of.** The moral question does not evaporate; it moves off the entity's character, where it was
+never going to be answered, and onto what we have handed it.
+
+**IV.3's shipped promise, paid on the page.** IV.3 ruled that from IV.5 onward "the entries stop
+answering in any form we know how to receive… the boundary stays real, it stops being visible." That
+is a debt, and an atlas that quietly printed three confident BOUNDARY lines afterwards would have
+defaulted on it. So the chapter says it: those three lines were **never bought with a disagreement we
+could lose.** The bee could be mistrained and watched flying the error into an empty field; nothing
+above was tested that way. Every boundary on these three cards is inferred — from the construction,
+from what the entity has an organ for, from what it does past the edge — and the reader is told to
+hold them more loosely than the bee's. The instrument got weaker exactly where IV.3 said it would.
+
+**What follows for anyone inside one — kept as a diagnostic, not spent as a practice.** The atlas's
+usual instruction is *look*, and it is unavailable here: IV.4's own card puts the collectives a person
+is inside in that person's null space absolutely. So the diagnostic cannot be perceptual, and it
+cannot be an opinion about the institution's character, **because that opinion is manufactured inside
+the thing being assessed.** It has to be a measurement taken on yourself over an interval long enough
+to have a direction — has the range of things you could do if you left grown or shrunk; can you still
+name the alternatives in specifics; how much of your account of the outside came from outside. A
+direction, not a verdict, because a direction is the one reading the entity cannot supply for you.
+What to *do* when it reads badly is Book VIII's, and the handoff uses II.3's exact words on purpose.
+
+---
+
+**RULING 109 — `egregore`: BANNED AS A TERM, CREDITED ONCE. THE THIRD AXIS FOUND NOTHING; THE SECOND
+KILLED IT.**
+
+Measured before drafting rather than reasoned about after: `egregore` is **0 across `00`–`07` and 0
+in all 26 drafted chapters** — its single occurrence in the entire apparatus is the IV.5 beat line
+itself. An unruled word arriving in the chapter that needs it most is exactly the condition ruling 13
+was written for, so all three axes were run.
+
+- **Axis 1, collision — REAL, and it is an ancestor rather than an opponent.** The term reaches
+  English through nineteenth-century French occultism, which took it from the Greek of *1 Enoch*
+  where the ἐγρήγοροι are the Watchers; from there to the ceremonial orders and to a large modern
+  literature that has thought about these entities carefully and, in places, ahead of the academy.
+- **Axis 3, polysemy — REAL but survivable.** The source uses it for movements, fan communities,
+  corporate cultures and congregations while giving corporations and nations their own tiers, so the
+  reader would have to guess whether a company is one.
+- ★ **Axis 2, gradient — FATAL, and on grounds this book has already used once.** Ruling 30 banned
+  `superposition` on the criterion that **an analogy has to be made of something the reader already
+  has**: *collapse* has a civilian life (a lung, a bridge, a market) and *superposition* has none, so
+  borrowing it transfers **authority** rather than **meaning**. `egregore` has no civilian life
+  whatever — nobody has used it about the traffic, or a marriage, or a firm. Identical transaction,
+  identical refusal. **The reason to trust either ruling is that it is the same ruling.**
+
+The disposal is the `magic circle`/Huizinga pattern rather than a silent omission: the tradition is
+**named, credited in one sentence with its lineage, and told why it does not get the word.** The
+cards are then called what everyone already calls them — a movement, a company, a country — and *the
+plainness is the argument*: nothing in this chapter needs a special word, and a special word would
+have done the work the four conditions are supposed to do.
+
+---
+
+**RULING 110 — `corporation` vs `company`: THE SHIPPED BOOK PROMISED A CORPORATION THREE TIMES AND
+THE DRAFT DELIVERED A COMPANY. FOUND BY `beat_delivery`'s MISS LINE, NOT BY READING.**
+
+The first draft used *company* throughout and never once said *corporation*. `beat_delivery` returned
+`MISS corporation` on the beat, and the check that followed found the defect had a history: **the
+word is already in the shipped book three times, and twice as a forward reference to this very
+chapter** — IV.1 ("not for the bee, not for the corporation, not for the reader, not for the gods"),
+IV.2 ("what a corporation is"), IV.3 ("a corporation returns results"). A chapter that discharges
+three promises under a different noun is the ruling-14 defect: one referent, two names, and the
+reader welds them or cannot tell which is which.
+
+**But the drift was not arbitrary, and that is why the fix is not a rename.** Run axis 2 on
+*corporation* and it prosecutes: in common register it means *the big bad ones*, which pre-loads
+precisely the moralising frame this chapter spends its length dissolving. Run axis 1 and it is the
+name of a **legal form**, and the form is load-bearing for condition 1 — it is the arrangement that
+makes the levels hold when the people in them are replaced, which is the whole difference between a
+firm and a well-organised group of friends.
+
+★ **Ruled: both, with a division of labour, and no meta-passage.** `corporation` names the legal form
+at the one place the form does work; `company` is the ordinary word everywhere else. The paragraph
+added to condition 1 pays the three forward references *by putting the word to work* rather than by
+announcing a vocabulary decision — the chapter already spends a section refusing one word, and doing
+it twice would be a tic instead of a discipline.
+
+⚠ **The reusable part: the gauge found this and a read-through would not have.** *Company* and
+*corporation* are near-synonyms; nothing in the prose stumbles. What broke was a promise made in
+three other files, and no amount of re-reading IV.5 could have surfaced it. **A word-reading gauge is
+worthless for judging prose and is the only thing that can see a cross-file promise.**
+
+---
+
+⚠ **LENGTH — AUDITING MY OWN LAST CLAUSE, because the number passed and the reading it was proxying
+for did not.** `06` pre-registered the threshold: *if IV.5 runs past 4,000 the problem is Book IV's
+structure, not the chapter's appetite.* It came in at **3,972 — under by 28 words.** That is a pass on
+the gauge and it should not be reported as one. It is under the line **because two beats were
+compressed to a paragraph each** (civilisation, folded into the country card's tail; the
+mutualistic/parasitic ecology, folded under the movement card) rather than given the sections a
+six-beat line implies. **A gauge on word count can be satisfied by compressing content, and
+compressing content is not the same as the chapter not being overloaded.** Six beats here against
+four on every other Book IV chapter remains the visible cause. The honest record: the numeric
+threshold did not trip, the structural reading it was built to trigger is supported anyway, and
+**IV.8 should be treated as testing a line that has already been touched.**
+
+★ **And the gauge coverage, which is the worse number: three of six beats are invisible to
+`beat_delivery`** — *egregores*, *corporations*, *nations and civilisations* are each under the
+6-distinct-word floor. IV.4 lost one beat to that floor; IV.5 loses half the line. Both chapters were
+adjudicated by hand for the invisible ones, which worked, and is exactly the arrangement ruling 108
+says produces noise rather than signal. **`06`'s owed voice-marking sweep now has a second reason and
+a sharper one: a beat line whose short items are structurally unreadable is a plan the gauges can
+only ever half-check.**

@@ -1150,6 +1150,32 @@ the census is taken in this position's *language*, which is true regardless of w
 beings, at a grade, with insides** · what they can and cannot register — a corporation's null space is
 its most useful property · what follows for anyone inside one.
 **Source:** ecology Tier 2.1–2.3 · `ecology_collective_expansion.md` · `atlas_entries_collective_dimension.md`.
+✅ **DRAFTED Day 188 · 3,972 words · `book/IV-05-the-collectively-emergent.md`.** All six beats land;
+ruling 75(b) clean for a fifth consecutive chapter — opens on a procedure (*find the person who
+decided it*) that closes on itself. Three cards: **A MOVEMENT · A COMPANY · A COUNTRY**, with
+civilisation folded into the third. The hard claim is not asserted, it is **discharged**: II.6's four
+conditions, run on a company without amendment, four for four — and then run on a traffic jam, a
+queue and a mob, which fail at the first, so the test has negatives. A market is put on the record as
+genuinely undecided rather than resolved conveniently.
+★ **The chapter's own line — a collective's null space is the only one in the atlas that is *written
+down*** (chart, budget, calendar), and therefore the only one auditable from outside, in advance,
+without the entity's cooperation. It extends IV.4 rather than repeating it: a human null space
+returns a finished picture because rendering is automatic; a collective's returns one because
+*someone was assigned to produce it*, and the fluency is supplied by people who can grieve, acting as
+the entity's organ for not doing so. The turn that keeps it from being an exoneration: the moral
+question moves off the entity's character and onto **what it is put in charge of.**
+★ **IV.3's shipped promise is paid on the page.** IV.3 said the boundary "stops being visible" from
+here; IV.5 says so out loud — all three BOUNDARY lines are *inferred*, never bought with a
+disagreement we could lose, and the reader is told to hold them more loosely than the bee's.
+⚠ **LENGTH — THE THRESHOLD DID NOT TRIP AND THE STRUCTURAL READING STANDS ANYWAY.** 3,972 words is
+under the pre-registered 4,000 **by 28**, and it is under it because two beats (civilisation, the
+mutualistic/parasitic ecology) were compressed to one paragraph each rather than given sections. **A
+gauge on word count can be satisfied by compressing content, which is not the same as the chapter not
+being overloaded.** Six beats here against four on every other Book IV chapter is the visible cause
+and it is still the cause. **IV.8 is the remaining test; treat the 4,000 line as already touched.**
+★ **Three of six beats are invisible to `beat_delivery`** — *egregores*, *corporations*, *nations and
+civilisations* all fall under the 6-distinct-word floor. Highest ratio in the book, and the second
+consecutive chapter where the gauge reads a minority of the beat line.
 
 ### IV.6 — THE COMPUTATIONAL
 **Beats:** AI systems at their actual grade, with neither inflation nor the reflexive denial ·
