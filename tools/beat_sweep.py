@@ -219,16 +219,28 @@ def chapters(text):
     return out
 
 
+# A bold field label, as the scaffold actually writes them: capitalised, and CARRYING A COLON
+# inside the bold run (`**Beats:**`, `**Named — added Day 186:**`, `**Why it is first:**`).
+# ⚠ THE COLON AND THE CASE ARE BOTH LOAD-BEARING — found Day 187 at III.8, and it is this
+# codebase's signature defect wearing a new hat. The lookahead used to be case-insensitive with
+# no colon required, so a BEAT of the form `**why a metaphor that runs ahead of the argument
+# starts doing the thinking**` terminated its own beat block: the non-greedy body stopped dead
+# at the beat's own emphasis, and III.8's beats 2, 3 and 4 were dropped with no error and no
+# warning. A gauge that silently measures three-quarters of a chapter reads exactly like a gauge
+# that measured all of it. The `{0,40}` bound is the second guard: a real label is short.
+FIELD = r"\*\*(?:Thesis|Beats|Named|Source|Why|Register)[^*]{0,40}:\*\*"
+
+
 def beats(body):
     """The moves a chapter claims, as strings. Thesis counts as a beat — it is the one the
     II.2/III.4 collision was hiding in."""
     out = []
     # **Thesis:** … up to the next bold field label
-    for m in re.finditer(r"\*\*Thesis:?\*\*(.*?)(?=\*\*(?:Beats|Named|Source|Why|Register)|$)",
-                         body, re.IGNORECASE):
+    for m in re.finditer(r"\*\*Thesis:?\*\*(.*?)(?=" + FIELD + r"|$)",
+                         body):
         out.append(("thesis", m.group(1)))
-    for m in re.finditer(r"\*\*Beats:?\*\*(.*?)(?=\*\*(?:Named|Source|Why|Thesis|Register)|$)",
-                         body, re.IGNORECASE):
+    for m in re.finditer(r"\*\*Beats:?\*\*(.*?)(?=" + FIELD + r"|$)",
+                         body):
         chunk = m.group(1)
         # Two scaffold dialects: numbered lists (Book I, III.1, III.2) and ·-separated runs.
         if re.search(r"(?:^|\s)\d\.\s", chunk):

@@ -772,6 +772,19 @@ everywhere else, so it gets fixed rather than excused.
 - *Note: this is a consolidation, not a new constraint.* **`respawn` is already on III.8's
   unruled-words refusal list** — the fence existed and only ever covered vocabulary. Ruling 17
   generalises it from words to subjects.
+- ✅ **STATED IN PUBLIC AT III.8, Day 187, as this ruling required.** The rule, the exception and
+  the criterion are all on the page, together with the promise a reader may hold us to: where the
+  subject arrives, the game is put down and nothing lost by putting it down is smuggled back later
+  by a metaphor.
+- ★★ **AND IT ACQUIRED AN OUTSIDE WITNESS IN THE DRAFTING — ruling 100.** Until III.8 this bar had
+  exactly one ground, which was our own scruple. **Max Black**, arguing about metaphor in general in
+  1954, reaches our case as an instance: the chess register *"has its primary uses in a highly
+  artificial setting, where all expression of feeling is formally excluded,"* so describing a battle
+  in it excludes *"by the choice of language, all the more emotionally disturbing aspects of
+  warfare."* A rule that rested on taste now rests on a mechanism somebody else described first.
+- ★ **The general form is ruling 102: an entailment can be refused and a connotation cannot.** That
+  is *why* this has to be a bar rather than a caution — the game's triviality is connotative, so no
+  disclaimer written in the game reaches it.
 
 **18. VERSIONED PARTIAL RELEASE IS PERMITTED — ruling 4 bars volumes, and a version is not a volume.
 But the minimum releasable set is not the comfortable one.**

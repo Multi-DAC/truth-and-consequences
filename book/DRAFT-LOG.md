@@ -3470,3 +3470,175 @@ drafting-day errand, exactly as `prose_echo`'s 70 were.
 editions. For Machado that mattered and is declared above. For Carse the two scans are different
 printings, which is stronger than two OCR passes of one. **No scholarly edition was consulted for
 any of the four**, and the shelf that would settle Machado's punctuation is a library's, not a URL's.
+
+---
+
+## III.8 — WHAT THE METAPHOR CANNOT DO · Day 187, 2026-08-06 · 2,838 words · ✅ landed — **BOOK III IS DRAFTED, 8 of 8, 22,889 words**
+
+`claim_sweep` **clean** (one live hit found and fixed — below) · `prose_echo` **0 live hits** (two
+found and adjudicated in the prose rather than exempted) · `prose_beat_sweep` **0 spent** pre-draft ·
+`beat_delivery` **4 beats + thesis, none under the floor** — *and the run that produced that number
+is only trustworthy because of ruling 99* · `order_sweep` PASS.
+
+| metric (per 1k words unless noted) | III.8 | Book III range | Clayton | read |
+|---|---:|---:|---:|---|
+| **meta-textual** | **5.02** | 2.06 – 4.86 | 0.37 | ⚠ **above the band, on purpose — see the adjudication** |
+| **terminal commentary** | **0.083** | 0.029 – 0.057 | 0.053 | ⚠ 4 hits → 3; one cut, three kept with reasons |
+| 2nd person | 7.17 | 4.71 – 8.25 | 7.43 | ✅ back inside the band after III.7's 21.70 |
+| paragraph-intensity CV | 0.414 | 0.320 – 0.816 | 0.515 | ✅ |
+| voice uniformity | 0.6378 | 0.586 – 0.6605 | 0.5306 | ⚠ **unmoved, eight chapters running.** Still the axis nothing has touched |
+| vague allusion | 0.00 | 0.00 | 0.092 | ✅ |
+| named reference | 7.89 | 7.97 – 15.70 | 45.23 | at the floor: three ancestors, all quoted from primary text |
+
+### The two adjudications, because a number outside a band is a question and not a verdict
+
+⚠ **meta-textual 5.02 is the chapter's subject, not a drift.** The detector counts *this book*
+(ruling 67). **This is the one chapter whose subject IS this book's instrument** — the words it
+refuses, the rule it runs, the exception the rule takes, the promise attached to the exception.
+Every remaining hit is doing that work; the two that were only decoration were rewritten
+(*"everything this book has used it for"* → *"everything it has carried up to here"*, and one
+inventory sentence cut entire). A chapter that states a rule about its own metaphor and scores at the
+band floor for self-reference would have stated the rule somewhere the reader could not find it.
+
+⚠ **terminal commentary: four hits, one cut.**
+- ⚠ *"…and everything in this chapter so far has been an inventory of it."* — **CUT.** Commentary on
+  the writing, at a paragraph end, which is the exact tic. Replaced with the reason the half is
+  manageable. 0.111 → **0.083**.
+- ✅ *"It will be given at the end of this chapter, because it is the reason the whole rule of this
+  chapter takes an exception."* — **kept**; the *respawn* entry holds its reason back deliberately
+  and this is the only sentence saying so.
+- ✅ The *game-is-barred* criterion, and the *stakes agreed rather than imposed* pivot — both are the
+  paragraph's new claim arriving at its end, which is where a claim is supposed to arrive.
+
+### ★★ Ruling 99 — THE BEAT PARSER TERMINATED ON A BEAT'S OWN EMPHASIS, and it had been doing so silently
+
+`beat_delivery --chapter III.8` reported **2 beats**. `06` gives III.8 **four**. Nothing errored.
+
+`beat_sweep.beats()` walks from `**Beats:**` to the next bold field label, and the lookahead was
+`(?=\*\*(?:Named|Source|Why|Thesis|Register)|$)` **under `re.IGNORECASE`, with no colon required**.
+III.8's second beat is written `**why a metaphor that runs ahead of the argument starts doing the
+thinking**`. The non-greedy body stopped dead at the beat's own emphasis. **Beats 2, 3 and 4 were
+discarded — no warning, no count mismatch, no way to see it from the output.**
+
+⚠ **AND IT WAS NEVER III.8-ONLY.** Book-wide diff across all 68 chapters: **five** were
+under-measured and **eight beats were invisible** — III.3 (drafted), III.8, V.9, VIII.2, VIII.6.
+286 → **294**. Last night's book-wide first run reported *94 beats across 21 drafted chapters*; the
+true figure was 95, and III.3's missing beat — *"Disarm* already *in the first three paragraphs"* —
+had never once been checked against III.3's shipped prose. (Checked now: **0.56**, and it is the
+INSTRUCTION false-positive class the tool's own launch note named. III.3:16 performs the disarming.
+Delivered.)
+
+**THE SHAPE, and it is this repo's signature defect wearing a new hat:** a gauge that measures
+three-quarters of a chapter produces output identical to a gauge that measured all of it. There is no
+symptom. The `06` beat dialect and the `06` field-label dialect are the same dialect — bold — and the
+parser had no way to tell a label from a beat that happened to begin with a label's word.
+
+✅ **FIX:** a single `FIELD` pattern, **case-sensitive**, requiring a **colon inside the bold run**
+and bounded at 40 characters — which is how `06` actually writes labels (`**Beats:**`,
+`**Named — added Day 186:**`, `**Why it is first:**`) and how it does not write beats. Calibration
+re-run: `--fixture e51e6dd` still surfaces **II.2 ~ III.4 at rank 1 of 13**, and `--selftest` still
+passes the hard-wrap needle. Book-wide beats now **100 across 22 drafted chapters**.
+
+### ★★ Ruling 100 — MAX BLACK IS BOOK III's METAPHOR ANCESTOR, and he supplies the STRAIN as well as the mechanism
+
+*Metaphor*, Aristotelian Society 1954, collected in *Models and Metaphors* 1962. Black 0 in `03`,
+0 in the corpus, 0 in the drafted book — a true zero, named here for the first time.
+
+He gives the chapter its mechanism: a metaphor's subject brings **a system of implications** that
+*controls* the description, which is why importing a game-word imports every neighbour of that word
+unlisted. But the find is not the mechanism — it is that **his worked example is this chapter's
+problem, in this chapter's vocabulary, seventy years early.** He describes a battle in the vocabulary
+of chess, and one page before the passage everyone quotes he says why that particular pairing goes
+wrong: the chess register *"has its primary uses in a highly artificial setting, where all expression
+of feeling is formally excluded."* Then the parenthesis: *"(Similar by-products are not rare in
+philosophical uses of metaphor.)"*
+
+★ **That is ruling 17 with an external witness.** The bar on the game where the subject is
+irreversible harm had, until tonight, exactly one ground: our own scruple. It now has a second, from
+an analytic philosopher of language with no stake in any of this, arguing about metaphor in general
+and reaching our case as an instance.
+
+**Rule 5b, one link upstream, and satisfied with a PRIMARY in hand rather than a guess:** Black's own
+footnote 17 sends the reader to **I. A. Richards**, *The Philosophy of Rhetoric* (Oxford, 1936),
+chapters 5 and 6; *"active together"* is Richards' phrase, quoted by Black, and Black's own
+contribution is to say what the two thoughts are active *with*. The upstream link is attested in the
+downstream text itself, which is the one form of this rule that cannot repeat the Bertalanffy error.
+
+### ★★ Ruling 101 — HUIZINGA'S CREDIT WAS RULED, NEVER PAID, AND HAD NO GAUGE BEHIND IT
+
+`05` §3b, on banning *"magic circle"*: **"Huizinga gets his sentence of credit in the Book III header
+instead."** Book III has no header. III.1 opens *"A frame is not an ornament"* and goes straight into
+prose. **Huizinga was 0 across the whole drafted book through seven chapters of Book III**, and the
+instruction that owed him a sentence had no detector attached to it.
+
+This is `the map`'s failure exactly — a lexicon ruling that survives its own issuance because nothing
+measures it — and it is the third instance. The class is now named plainly: **a lexicon entry that
+INSTRUCTS rather than FORBIDS is invisible to `claim_sweep`, which can only ever find a word that IS
+there.** An obligation to say something is not enforceable by a tool that searches for things said.
+
+✅ Paid at III.8, and it landed better than it would have at a header: the chapter's subject is the
+frame's limits, and **Huizinga's boundary is the largest single implication the game brings and this
+book denies.** *Homo Ludens* 1938, two sentences quoted — play as *"a stepping out of 'real' life into
+a temporary sphere of activity"*, and all play moving *"within a play-ground marked off beforehand."*
+He is right about every instance he had. Ours has no edge, no beforehand, and nobody to mark it off.
+**The ruled phrase `the bounded space` enters the prose here, once, as the name of the thing we deny.**
+
+### ★★ Ruling 102 — AN ENTAILMENT CAN BE REFUSED; A CONNOTATION CANNOT. This is the general form of rulings 13 and 17
+
+The distinction III.8 turns on, and it is worth more than the chapter.
+
+- An **entailment** is a claim the metaphor makes. It can be stated, examined and struck in one
+  sentence the reader follows: *in the game, a grade is not a level.* The five refused words are
+  entailments. So is Huizinga's boundary, which is the largest of them.
+- A **connotation** is what the word means to somebody before you get to it. It cannot be refused by
+  anything you write, because a reader does not consult your definition while a word is working on
+  them. *In the game, nothing is trivial* does not take. The word goes on meaning what it means.
+
+**Two prior rulings are instances of this and neither of them knew it.**
+Ruling 13 retired *the Narrowing*, and the entry had read `KEEP | none serious` because every term
+had been screened for *contamination by another owner* and none had been screened for *its own
+connotation*. Ruling 17 bars the game where the subject is irreversible harm — and the reason it
+must be a bar rather than a caution is that the game's triviality is connotative: no disclaimer
+reaches it.
+
+⚠ **AND THE PARAGRAPH ABOVE CAUGHT A THIRD THING, in `claim_sweep`, by tripping it.** As first
+written, *"Ruling 13 retired \*the"* ended a line and *"Narrowing\*"* began the next — and the hit
+came back **USE-class**, not one of the 118 suppressed mentions. The mention-suppressor reads
+**lines**, so a hard wrap between the cue (*retired*) and the term promotes a mention to a use. That
+is the WRAP RULE, the defect that killed this tool for a week, alive in one of its arms and reachable
+only by wrapping a sentence badly. **Fixed by rewrapping, not by exempting** — an exemption here
+would have recorded the symptom and hidden the class. Filed, unfixed, deliberately: the suppressor
+should read the joined paragraph, as `beat_sweep.chapters()` already does.
+
+★ **The predictive value, which is why this is a ruling and not an observation:** it says where the
+next lexicon failure will be. Not in a word somebody else owns — axis 1 catches those. **In a word
+whose problem is its weather.** That test has now been run twice, both times on an ear (Clayton's, on
+*narrowing*; the drafter's, on *game*), and it has no instrument.
+
+### The sources, and what the second check bought each time
+
+| # | text | quoted | first source | second source | what the second check CHANGED |
+|---|---|---|---|---|---|
+| 1 | **Black**, *Metaphor*, Proc. Aristotelian Society 55 (1954–55) — the chess/battle passage | block | JSTOR scan of the PAS printing, pp. 288–289 (pypdf text layer) | Open Library search-inside: the Cornell 1962 *Models and Metaphors* scan **plus ten independently scanned anthologies** | ⚠ **TWO OCR CORRUPTIONS CAUGHT.** The JSTOR layer reads *"implications wwhich"* — the printings all read **"implications, which"**, comma present. And *"bye-products"* → **"by-products"** across 13 attestations |
+| 2 | **Black**, same paper — the *expression of feeling is formally excluded* clause + the parenthesis | block, opening mid-sentence | same JSTOR scan | Open Library, ~15 hits | ⚠ **THE SPAN BOUNDARY.** The clause is preceded by *"Again,"* — so it is quoted from *"the vocabulary of chess"* with a leading ellipsis, rather than promoting a mid-sentence fragment to a sentence. Ruling 84's lesson, applied at the front edge |
+| 3 | **Black**, same paper — the Richards attribution (rule 5b) | not quoted | JSTOR scan, footnote 17 and the *tenor/vehicle* discussion | — | the upstream link is asserted **by Black, in the text I hold**, so it needs no second source to stop being a guess |
+| 4 | **Huizinga**, *Homo Ludens* (1938; English translation) — two sentences | block ×2 | Open Library search-inside, *Homo ludens* itself in multiple editions | 52 and 26 further attestations across independently scanned books | agreement on wording; ⚠ **variance in the quotation marks around *real*** (single in most editions, double in some). Set as the editions print it |
+
+⚠ **The limit, named as III.7's log named its own:** every check here is a digitisation, and for Black
+the *first* source turned out to be the corrupt one — a scan of the original printing, losing to
+eleven scans of reprints on two counts. **That inverts the usual assumption that the earliest
+printing is the most reliable text**, and the reason is mundane: OCR quality is not correlated with
+edition authority. For Huizinga the deeper limit stands and is worse: **the 1938 original is Dutch,
+and no Dutch text was consulted.** What is quoted is a translation — the translation the
+English-reading tradition has argued with for eighty years, which is a defensible choice and not a
+transparent one.
+
+### ⚠ The `claim_sweep` hit, which was mine and was real
+
+`[TERM/stream]` fired on *"the two streams arrive at the reader in the same sentences"* — ruling 70's
+axis-3 rule, our own abolished noun. Not a borrowed term and not an opponent's: `stream` occurs once
+in the drafted book, in I.3, **inside its own negation.** It arrived here as a dead metaphor for two
+parallel flows and would have licensed the noun on a Book III page for whoever drafts next. Rewritten
+to *"both arrive at the reader in the same sentences."* **Third chapter running where the sweep
+caught something a re-read did not**, and the catch is the same shape every time: a word that is not
+doing any work is the one that walks past the ear.

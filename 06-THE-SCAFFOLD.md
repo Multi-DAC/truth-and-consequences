@@ -1042,6 +1042,21 @@ promises a clarity test that VII will visibly fail, and a reader who notices sto
 test. **This chapter's unruled-words list already fenced the vocabulary** (*save, respawn, level,
 quest, sandbox*); ruling 17 generalises the fence **from words to subjects**, which is what
 `respawn` was standing in for all along.
+✅ **DRAFTED Day 187 — 2,838 words, and Book III closes 8 of 8.** What the chapter found that this
+entry did not have: the five words are **one pattern, not five temptations** — each smuggles back
+exactly one thing the book spent a chapter removing (ruling 101's row in `05`). **Named:** ★ **Max
+Black** — *Metaphor* (1954), the system of implications that *controls* a description, and his
+chess/battle example, which is ruling 17's argument arriving from outside our frame seventy years
+early; one link upstream to **I. A. Richards**, *The Philosophy of Rhetoric* (1936), on Black's own
+footnote. ★ **Johan Huizinga** — *Homo Ludens* (1938), whose bounded play-ground is the largest
+implication the game brings and this book denies, **paying a credit `05` §3b ruled and nobody ever
+delivered** (ruling 101).
+⚠⚠ **AND A GAUGE DEFECT FOUND BY THIS ENTRY, ruling 99: `beat_sweep.beats()` was terminating the
+beat block on THIS ENTRY'S OWN SECOND BEAT** — `**why a metaphor…**` read as a `**Why:**` field label
+under `re.IGNORECASE`. Beats 2, 3 and 4 were discarded silently, here and in four other chapters
+(III.3 drafted, V.9, VIII.2, VIII.6); 286 → 294 book-wide. **A bolded beat that begins with
+`Thesis`/`Beats`/`Named`/`Source`/`Why`/`Register` was invisible to every beat instrument.** Fixed —
+the label pattern is now case-sensitive and must carry a colon inside the bold.
 
 ---
 ---
