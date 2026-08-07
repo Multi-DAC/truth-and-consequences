@@ -154,6 +154,24 @@ EXEMPT = {
                       "the practice. II.5 defines the reality tunnel and takes the map/territory "
                       "line off Korzybski; VI.7 runs model agnosticism as a discipline and names "
                       "its price. Neither restates the other.",
+    ("III.7", "IV.6"): "ruling 118, ADJUDICATED Day 188. jaccard 0.05 — the beats share exactly one "
+                       "thing, the standing obligation formula 'state the objection at full "
+                       "strength', and it is deliberately fixed in that wording wherever a chapter "
+                       "owes an opponent a hearing. Same class as II.3~IV.5's 'the practices are "
+                       "Book VIII's': a recurring duty stated in one phrasing is a refrain the "
+                       "drafter can be held to, and varying it would quietly make two duties out of "
+                       "one. Nothing else in the two beat sets touches — III.7 owes it to "
+                       "superfluity-fatalism, IV.6 to derived intentionality.",
+    ("II.7", "IV.6"): "ruling 118, ADJUDICATED Day 188 — and the SPENT flag was reading the "
+                      "scaffold's own ⚠ block, not a planned repetition. IV.6's beat text QUOTES "
+                      "II.7's certification clause because that clause is what disqualifies IV.6's "
+                      "drafter from settling its own case; the quotation is the instruction, not a "
+                      "beat to be performed. IV.6 reprises it in prose ON PURPOSE and names it as "
+                      "Book II's before quoting it. ⚠ The block said 'II.6's own rule' and the "
+                      "clause is II.7's — corrected in `06` the same day. That mis-attribution was "
+                      "not cosmetic: ruling 116 is separately about II.6 being the weakest drafted "
+                      "chapter, so a repair pass aimed at the named chapter would have gone to the "
+                      "wrong file and found nothing.",
 }
 
 

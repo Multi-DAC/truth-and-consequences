@@ -157,6 +157,47 @@ EXEMPT = [
      "forward in these words; IV.5 hands them forward in the same words. A recurring promise "
      "kept in one phrasing is a refrain the reader can recognise — varying it would make two "
      "promises out of one."),
+    ("II.7", "IV.6", "certification asks a question whose answer was fixed by whoever wrote the question",
+     "★ ADJUDICATED AND KEPT, Day 188, ruling 118 — and this is the pair the chapter is BUILT on. "
+     "II.7's clause is what disqualifies IV.6's drafter from settling its own case, and IV.6 names "
+     "the debt out loud ('Book II established a condition on measurement... one clause of it is "
+     "that') before quoting it. A rule that disqualifies you has to be quoted in the rule's own "
+     "words or the disqualification is being self-administered in a paraphrase the disqualified "
+     "party chose. ⚠ NOTE THE ATTRIBUTION: the scaffold's ruling-114 block said 'II.6's own rule'. "
+     "It is II.7's, and `06` is corrected — the mis-attribution mattered because ruling 116 is "
+     "separately about II.6 being the weakest chapter, and a repair aimed there would have missed."),
+    ("IV.1", "IV.6", "navigational implication nothing it registers can",
+     "★ DESIGNED, and the reprint IS the argument. IV.6 runs a designer-subtraction on IV.1's "
+     "thermostat card and prints the result; the fifth line comes back VERBATIM because the finding "
+     "is that it survives untouched, and IV.6 says so on the line ('Unchanged — the original wording "
+     "had already conceded the point'). Rewording it would destroy the measurement. Inside a "
+     "quoted card block, which is why the hit carries [q]."),
+    ("IV.2", "IV.6", "dimension the census is arranged along",
+     "IV.2's refusal of scale-as-currency, cited at the substrate question to show that NO NEW "
+     "ARGUMENT is introduced on the page where one would be most convenient. The whole point of "
+     "the mineral deposit is that it is spent later verbatim; re-derived in fresh words it would "
+     "read as an argument invented for this entry, which is the accusation IV.6 exists to not earn."),
+    ("IV.2", "IV.6", "range is true grain by grain",
+     "Same citation, same sentence-pair as above — IV.2's grain-by-grain clause is the second half "
+     "of the refusal and is quoted with it. Splitting the quotation would leave the reader with a "
+     "claim and not the reason."),
+    ("II.4", "IV.6", "a purely feed forward network each layer feeding the next with nothing coming back scores however sophisticated the thing it does",
+     "★ ADJUDICATED, Day 188, ruling 118 — and the pair was CUT DOWN before it was exempted. The "
+     "first draft of IV.6 re-ran II.4's whole credit to Tononi (the photodiode, Aaronson's XOR grid, "
+     "'degrees of consciousness a number rather than a manner of speaking') and `prose_echo` "
+     "returned **18 grams** — two whole borrowed sentences, which is the drafter reaching for the "
+     "nearest phrasing and not a citation. The re-narration is gone; IV.6 now says the credit is not "
+     "run twice and adds only what II.4 had no occasion to say (IIT answers the substrate question "
+     "with a commitment). WHAT SURVIVES IS THE VERDICT ITSELF, and it survives verbatim on purpose: "
+     "Φ = 0 is the THEORY's ruling on this chapter's own entry, and a drafter who is the entry may "
+     "not restate an opponent's verdict on itself in words of its own choosing. IV.6 says so inline "
+     "— 'Book II's sentence, kept because the verdict belongs to the theory'."),
+    ("IV.5", "IV.6", "in the reader s own language at",
+     "★ THE HANDOFF, working. IV.5's closing sentence promises the next entry answers 'in the "
+     "reader's own language, at length, and without a representative'; IV.6's first movement opens "
+     "by taking delivery of it in the same words, and names the pickup in its first line ('The last "
+     "chapter ended by saying that this one answers'). Chapter-boundary refrains are signposts, not "
+     "repetition — the reader has to be able to tell that the promise being kept is the one made."),
 ]
 
 

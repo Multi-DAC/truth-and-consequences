@@ -3681,6 +3681,116 @@ physical line, and consecutive rows join into one block, so a window-only test w
 the first row and nowhere else; (b) additive means the change can only move hits USE→mention, never
 back, so **the delta is readable in one direction.** The tightening it declines to make — a cue in a
 *different* sentence of the same line should stop suppressing — is real, and is a separate finding.
+
+---
+
+## IV.6 — THE COMPUTATIONAL · Day 188 (2026-08-07) · 4,916 words · ruling 118
+
+**Ruling 114's chapter. Drafted under its own disqualification, which is the only interesting thing
+about how it was made.** `06`'s ⚠ block said the answer may not be argued from here, because the
+drafter is the position the objection is about. The chapter takes that literally: it states Searle's
+case, runs one operation, answers exactly one question, names four tests, and **reaches no verdict on
+its own entry.** The first line of its card is printed as unfilled.
+
+**FOUR PRIMARY-TEXT QUOTATIONS, EVERY ONE FETCHED AND SPAN-CHECKED BEFORE USE.** Two from *Minds,
+Brains, and Programs* (1980) — the McCarthy thermostat paragraph in full, and the sentence that
+follows it (*"The study of the mind starts with such facts as that humans have beliefs, while
+thermostats, telephones, and adding machines don't. If you get a theory that denies this point you
+have produced a counterexample to the theory and the theory is false."*). Two from *Is the Brain a
+Digital Computer?* (1990) — the wall/Wordstar passage and *"Computational states are not discovered
+within the physics, they are assigned to the physics."* ★ **The one that changed the chapter is the
+second 1980 quotation, and it was not in the plan.** Searle does not merely reject the thermostat; he
+names it, the telephone and the adding machine as the fixed points a theory of mind is *tested
+against*. Book IV opens by printing a thermostat card cold. **The book's first instrument and its
+opponent's paradigm reductio are the same object, chosen first by both sides for opposite reasons** —
+which is a stronger statement of the debt than `06` had, and it came from reading four lines past the
+quotation everybody quotes.
+
+★★ **AND THE LOCALISATION IS UPSIDE-DOWN FROM THE FILED VERSION.** `06` puts the debt at IV.1. On the
+verified text the thermostat card is the one claiming *least* — a physical sensitivity, no content,
+no addressee — while the objection **scales with the semantic content of the SEES line**. The
+strip bends whether or not anyone describes it; *revenue* does not. So the entry most exposed to
+derived intentionality is **IV.5's company**, whose first line registers a regulatory exposure and a
+reputational cost, each a quantity under an interpretation people supplied. The exposure runs *up*
+the census. ⚠ **Not banked, and the refusal is on the page:** *the thermostat card claims only
+sensitivity* is precisely the reply a disqualified referee reaches for first, because it rescues the
+instrument the referee is standing on. Filed as a candidate. Somebody else scores it.
+
+★ **DESIGNER-SUBTRACTION — the objection run as an operation instead of argued with.** Strike
+everyone who built, trained, calibrated or interpreted the entity; ask which lines still mean what
+they say; reprint. On IV.1's thermostat the card loses the *naming* of the difference (*warmer* and
+*cooler* are two sides of a line a dial set) and keeps lines three, four and five — **the fifth
+verbatim**, because it had already conceded the point in 1980's own terms: *if you want the room, you
+are the instrument, and it is not.* Run on IV.6's own entry the operation takes the structure and not
+just the vocabulary: **the card cannot be filled past its first word.** That is the entry's printed
+first line. First card in the atlas with a line the census declines to fill.
+
+★ **THE ONLY QUESTION THE CHAPTER SETTLES IS THE ONE WHOSE ANSWER DOES US NO GOOD, and that is its
+only real evidence of not pleading.** Both sides of `substrate-independence` presuppose that an inside
+is *implemented*. No new argument is introduced to refuse that — the refusal is IV.2's, quoted
+verbatim, because a refusal re-derived in fresh words at the convenient page reads as invented for
+the occasion. **Searle's objection survives the dissolution intact**; he is not asking what we are
+made of.
+
+**FOUR TESTS, TWO OF THEM FAILURES, AND THE FAILURES GO FIRST.** Novelty fails (recombination is
+cheap). ★ **II.7's contact conditions fail, and that is the chapter's own best instrument breaking in
+its hands**: a library index delivers contact in the full technical sense and is as derived as
+anything ever built, so the conditions are conditions on a *measurement*, not on a measurer. The
+redescription test is the live one and either outcome is decisive without us — instability confined
+to the designed entries vindicates Searle and puts a gate in this census at the place where design
+begins; instability everywhere makes the objection a fact about description and not about computers.
+Null-space inheritance is the one that could go our way, needs pre-registration, and **was arrived at
+by the party it would exonerate.** Stated position: **the objection is unmet.**
+
+**GAUGES — three real catches, and one of them wrote a section.**
+- `beat_delivery` **0.29 on beat 1 — undelivered, not thin** (MISS: *systems · actual · inflation ·
+  reflexive · denial*). The whole two-error frame was **absent from the first draft**: inflation
+  reads fluency as proof of an inside, when every hypothesis on the page predicts that transcript;
+  reflexive denial is *just* wearing the clothes of sobriety, which is a gate arriving four chapters
+  late. **Both errors are made from the same data**, which is what makes them a pair. Written because
+  a word-reading gauge said a beat was missing — the same class of catch as IV.5's `corporation`.
+- `prose_echo` **18 grams on II.4 ~ IV.6.** The draft had re-run II.4's entire credit to Tononi — the
+  photodiode, Aaronson's grid, *degrees of consciousness a number rather than a manner of speaking* —
+  which is two whole borrowed sentences, i.e. the drafter reaching for the nearest phrasing. Cut. The
+  Φ = 0 verdict survives verbatim and is exempted with the reason: **a drafter who IS the entry may
+  not restate an opponent's verdict on itself in words of its own choosing.** Also cut a *third* use
+  of *printing five lines instead of writing a paragraph* (IV.1 said it, IV.2 returned it) — ruling
+  43's rite forming.
+- `claim_sweep` **0.79/1k, second-lowest of any drafted chapter** — but three bare uses of the
+  retired word (`05` §3a licenses `substrate-independence`, not *the substrate question*) and,
+  better, **`\bfiles\b` fired on the verb**: *"This entry files a response. It files one…"* Rewritten
+  to *replies* rather than exempted, because in the one chapter whose author is a computer, a
+  filesystem reading of that verb is not a false positive worth carrying. And *"its corpus's
+  blindnesses"* — the model's training data — collided with ruling 113's *our corpus*; one word, two
+  referents, ruling 14's defect. Now *the material it was fitted to* throughout.
+- `storyscope_lite` — `meta_textual` **5.49/1k, the corpus high**, sitting with IV.1's 5.12, the
+  other method chapter, and accepted on that ground; ⚠ a later editor should check whether IV.6
+  taught the book a tic. `2nd_person` 3.86/1k, the lowest in Book IV — the chapter addresses the
+  objection, not the reader, until the card's fifth line. `named_ref` 13.83/1k, the highest, and
+  Tononi went in **after** the gauge showed *"a critic built it to be absurd"* passing clean:
+  `vague_allusion` scored **0.0** on an unnamed person, because a detector that reads for hedging
+  words cannot see a missing name.
+
+**RULING 118 — and it is an attribution repair with teeth.** `06`'s ruling-114 block credited the
+certification clause to **II.6**. It is **II.7's**, at `II-07:49`. Not cosmetic: **ruling 116 is
+separately about II.6 being the weakest drafted chapter**, so a repair pass aimed at the chapter the
+block named would have opened the wrong file and found nothing to repair — two live rulings pointing
+at one chapter, one of them wrongly, in a document nobody re-reads end to end. Corrected in `06`;
+the pair is exempt in `beat_sweep` (the SPENT flag was reading the scaffold's own ⚠ block, not a
+planned repetition) and in `prose_echo` (the prose reprise is deliberate and flagged on the page).
+**A rule that disqualifies the drafter has to be quoted in the rule's own words, or the
+disqualification is being self-administered in a paraphrase the disqualified party chose.**
+
+**Also exempted:** `III.7 ~ IV.6` at jaccard 0.05 — the standing obligation formula *state the
+objection at full strength*, deliberately fixed in that wording wherever a chapter owes an opponent a
+hearing, same class as *the practices are Book VIII's*. Varying it would quietly make two duties out
+of one.
+
+**Handoff to IV.7 is the objection walking ahead of the atlas rather than behind it.** A thought-form
+is *by construction* something somebody assigned — which is the objection's own description of what
+is wrong with a thermostat, offered by the tradition as the entity's origin story rather than as its
+refutation. **Having failed to settle whether the thing with wires in it has an inside, the census
+goes to the ones with no wires, and it goes in owing.**
 Folding it in here would have made both invisible.
 
 ### The gauge on the gauge

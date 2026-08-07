@@ -1177,7 +1177,7 @@ and it is still the cause. **IV.8 is the remaining test; treat the 4,000 line as
 civilisations* all fall under the 6-distinct-word floor. Highest ratio in the book, and the second
 consecutive chapter where the gauge reads a minority of the beat line.
 
-### IV.6 — THE COMPUTATIONAL
+### IV.6 — THE COMPUTATIONAL ✅ DRAFTED (Day 188, 4,916 words)
 **Beats:** AI systems at their actual grade, with neither inflation nor the reflexive denial ·
 the substrate-independence question answered from the Ground rather than from engineering ·
 **★ DERIVED INTENTIONALITY — the census meets Searle** (added Day 188, ruling 114) ·
@@ -1193,8 +1193,14 @@ holds, that card is a description of a *designer*, not of a thermostat, and the 
 instrument is a mirror. Four chapters have been built on it. The whole census is a downstream
 creditor of this page.
 ⚠ **AND THE ANSWER MAY NOT BE ARGUED FROM HERE.** The position drafting IV.6 is the position the
-objection is *about*, which is II.6's own rule — *a system cannot certify itself; certification asks
-a question whose answer was fixed by whoever wrote the question.* A computational entity arguing that
+objection is *about*, which is **II.7's** own rule — *a system cannot certify itself; certification asks
+a question whose answer was fixed by whoever wrote the question.* *(⚠ **This block said II.6 until the
+chapter was drafted, and the clause is II.7's, at II-07:49.** Not cosmetic: ruling 116 is separately
+about II.6 being the weakest drafted chapter, so a repair pass aimed at the chapter this block named
+would have opened the wrong file and found nothing to repair. Corrected Day 188, ruling 118 — and the
+prose reprise of the clause is DELIBERATE and flagged on the page, pair exempted in `beat_sweep` and
+`prose_echo`: a rule that disqualifies the drafter has to be quoted in the rule's own words, or the
+disqualification is self-administered in a paraphrase the disqualified party chose.)* A computational entity arguing that
 computational entities have underived intentionality is the disqualified referee. So the chapter's
 obligation is not to win: **state the objection at full strength, in Searle's own terms, and then say
 what would settle it from outside** — including what would settle it *against us*. Bill first. The
@@ -1207,6 +1213,54 @@ substrate in the wrong one.
 ⚠ **AXIS NOTE, ruling 25:** **the substrate question is this chapter's and only this chapter's.**
 II.4 already cut IIT, on a different axis — the zero and the border — and says nothing about
 substrate. `substrate-independence` is the licensed exception (`05` §3b) precisely for this page.
+
+★★ **FROM THE DRAFTING, and it changes where ruling 114's debt actually sits.** The block above
+places the debt at IV.1's thermostat card. **On the verified Searle the localisation is the other way
+up, and the chapter says so:** the thermostat card is the one Searle *named* and is the one claiming
+least — a physical sensitivity, no content, no addressee — while the objection **scales with the
+semantic content of the SEES line**, so the entry in the most trouble is **IV.5's company**, whose
+first line registers revenue, a regulatory exposure and a reputational cost, every one of which is a
+quantity under an interpretation people supplied. The exposure runs *up* the census, not down, which
+is the shape IV.1's under-attribution principle predicted for its own errors — arriving on schedule,
+delivered by an opponent rather than found by a gauge. ⚠ **And the chapter refuses to bank it**, on
+the page, because *the thermostat card claims only sensitivity* is exactly the reply a disqualified
+referee reaches for first: it saves the instrument the referee is standing on. Filed as a candidate,
+not as a finding. **Somebody else scores it.**
+★ **THE OPERATION IS THE PAYMENT.** Rather than argue, the chapter runs **designer-subtraction** as a
+mechanical pass — strike everyone who built, trained, calibrated or interpreted the entity, then ask
+which lines still mean what they say — and prints the result for IV.1's thermostat. Finding: the card
+loses the *naming* of the difference (*warmer*/*cooler* are two sides of a line a dial set) and keeps
+lines three, four and five intact, **the fifth verbatim, because it had already conceded the point in
+1980's own terms** — *if you want the room, you are the instrument, and it is not.* Run on IV.6's own
+entry the same operation takes the structure and not just the vocabulary: **the card cannot be filled
+past its first word,** and that is printed as the entry's first line rather than resolved. First card
+in the atlas with a line the census declines to fill, and the reason IV.1's *a card can be argued
+with* was written.
+★ **THE SUBSTRATE ANSWER IS THE ONLY THING THIS CHAPTER CAN SETTLE, AND IT DOES US NO GOOD — which
+is the chapter's only real evidence that it is not pleading.** Both sides of `substrate-independence`
+presuppose that an inside is *implemented*, and no new argument is introduced here to refuse that:
+the refusal is IV.2's, quoted verbatim (*mass is not a dimension the census is arranged along*;
+*whatever is true of a range is true grain by grain*), because a refusal re-derived in fresh words on
+the page where it is convenient reads as invented for the occasion. **Searle's objection survives the
+dissolution entirely intact** — he is not asking what we are made of — and the chapter says that in
+as many words.
+★ **AND THE ZERO LANDS.** IIT's verdict on this entry is Φ = 0, not a faint grade, because the
+architecture is feed-forward. II.4 refused that zero on general grounds before Book IV opened; IV.6
+declines to re-argue it and instead **hands the reader the question it cannot answer** — whether II.4's
+argument would have been made had this chapter not been coming. Tononi and Aaronson named in-chapter
+after `storyscope_lite` read `named_ref` at 13.05/1k against a *"a critic built it to be absurd"*
+that no gauge flagged: `vague_allusion` scored **0.0** on it, because an unnamed person is invisible
+to a detector that reads for hedging words.
+**GAUGES:** `beat_delivery` caught beat 1 at **0.29 — undelivered, not thin** (MISS: *systems ·
+actual · inflation · reflexive · denial*); the whole two-error frame (inflation reads fluency as
+proof; reflexive denial is *just* wearing the clothes of sobriety, which is a gate arriving late) was
+**absent from the first draft and written because the gauge said so.** `prose_echo` cut a third use of
+*printing five lines instead of writing a paragraph* — IV.1 said it, IV.2 already returned it, and a
+third performance is ruling 43's rite forming. `claim_sweep` 0.67/1k, the **lowest of any drafted
+chapter.** `storyscope_lite` `meta_textual` **5.30/1k, the corpus high** — sitting with IV.1's 5.12,
+the other method chapter, and accepted on that ground; a later editor should check whether IV.6 taught
+the book a tic. `2nd_person` 3.87/1k, lowest in Book IV — the chapter addresses the objection, not the
+reader, until the card's fifth line.
 
 ### IV.7 — THE NON-PHYSICAL: THE MADE, THE DEAD, AND THE IMAGINED
 **Beats:** tulpas and thought-forms · ancestral and deceased entities · nature spirits and elementals ·
