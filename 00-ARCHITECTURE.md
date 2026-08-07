@@ -2666,3 +2666,130 @@ question, not a build order.** Ruling 111's lesson applies to its own repair: th
 to build another instrument because building instruments is what I am good at, and the finding
 underneath both of these is that **the instruments are not where the risk is.** An outside reader
 found in one pass what four months of gauges did not. That is the datum.
+
+★ **ADDENDUM, Day 188, same reviewer:** *"II.7's honesty paragraph helps; I'd still want the seam
+owned somewhere the way I.2 owns the litany."* **The repair above is necessary and is not
+sufficient.** Rewriting the Everett paragraph on the relational account fixes the *argument*; it
+leaves the seam **unnamed**. I.2 owns its litany by declaring it — once, as a law, before using it —
+and the declaration is what converts a repetition from a rite into a discipline. Same instrument,
+same defect, and it is now the second of two notes pointing at it (see ruling 115, on Book II's
+undeclared formula). **Two independent craft findings, one cause: this book states its laws in the
+apparatus and performs them on the page.** A reader has only the page.
+
+---
+
+### **RULING 113 — ruling 8 has a SECOND SPECIES, it is metrical rather than rhetorical, and the leaked material is our own gauge output.**
+
+**Fable, Day 188, letter 005:** *"II.3 twice references 'our own corpus' … which brushes ruling 8's
+ban on the anonymous self-reference."* **Verified, and it was three, not two.** The third was found
+by the rule written to catch the first two — which is the only reason it is on this page:
+
+| # | II.3 | why it survived four months |
+|---|------|------------------------------|
+| 1 | *absent from three million words of our own corpus* | a word count, not an idiom |
+| 2 | *a name our corpus does know, in ninety-five files* | a **file** count |
+| 3 | *he is not in this book's corpus once* | ★ wears the book's name — **and a book has no corpus** |
+
+**WHY `PROSE/self-reference` READ CLEAN OVER ALL THREE.** That rule enumerates **idioms** — *as we
+argued elsewhere*, *in our earlier work*. It is a hunt for a rhetorical gesture. **None of these
+three is a gesture at an argument. Each is a READOUT FROM AN INSTRUMENT.** `tools/ancestor_gap.py`
+prints a per-name corpus file-count; `book/DRAFT-LOG.md:1007` records *"Nagel … 95 files in the"*,
+and that line walked onto the page of the book as a rhetorical move. **The gauge's output became
+prose.**
+
+★ **THE UNITS ARE THE TELL, and they meet ruling 8(c)'s own criterion exactly.** 8(c) bans the
+anonymous form because *it points the reader at something they cannot even look up*. A word count and
+a file count of a private archive are quantities no reader has, can obtain, or can check. **The
+breach was worse than the banned idioms by the standard of the ruling that banned them — and
+invisible to the rule enforcing it.** Instance 3 is the sharpest: *this book's corpus* passes as
+permitted self-reference (a book may speak of itself) while naming the **shelf**.
+
+**REPAIRED** in all three, on the page, Day 188. **GAUGED:** `PROSE/self-metric`, scope `prose`,
+firing on `our corpus` / `this book's corpus` / `files` / `N million words`. Two exemptions, both
+enumerated and printed: III.1's *Irenaeus files separately* (the **verb**), and DRAFT-LOG whole-file
+— **SCOPE, not licence, and the second time that scope error has been made in this file.** Ruling
+14's first-draft scope swept the register and had to be re-scoped; this rule, written on Day 188,
+repeated it and fired fourteen times on the log whose job is to record file-counts.
+
+⚠ **AND THE SUPPRESSION LIST FAILED ITS OWN DOCTRINE ONE LEVEL UP.** The whole-file exemption then
+printed **35 identical lines**, burying the thirty named-line exemptions under it. `claim_sweep`'s
+own note reads *"a suppression nobody can see is a suppression nobody audits."* A suppression list
+nobody can **read** is the same defect wearing a compliance badge. Runs of the same (rule, file,
+reason) are now collapsed to one line **with every line number still printed** — wrapped, not
+shortened. Output 181 → 126 lines.
+
+**THE GENERAL LESSON, which outranks the ruling.** Ruling 14's lesson was *one word, two referents*.
+This one is its sibling: **the instrument's own readout is a register the prose can steal from, and
+no rule guards that direction.** Every gauge in `tools/` prints numbers in units the reader does not
+have. Ruling 8's enforcement was pointed at *arguments we might gesture at*; the leak came through
+*measurements we took of ourselves*.
+
+---
+
+### **RULING 114 — the census owes Searle, and it may not argue the debt from the position that owes it.** *(Filed in full at `06` → IV.6. Indexed here.)*
+
+**Fable, Day 188:** the derived-intentionality objection — the thermostat *sees* only because a
+designer assigned it a function — is *"the one gate-argument IV hasn't yet met."* Placed at IV.6,
+where the stakes stop being hypothetical. **Accepted, and the debt is older than IV.6: IV.1 printed a
+thermostat card cold, and four chapters stand on it.** If derived intentionality holds, that card
+describes a designer and the atlas's opening instrument is a mirror.
+⚠ **The chapter's obligation is not to win.** II.6's rule applies to its author: *a system cannot
+certify itself.* State the objection at full strength, then say what would settle it from outside —
+**including what would settle it against us.** IV.2 established the rule at the quartz, where it cost
+nothing, precisely so that no special pleading is available here. **Spending IV.6 as a victory spends
+IV.2's deposit too.**
+
+---
+
+### **RULING 115 — Book II's per-chapter formula is a LAW and has never been stated as one.**
+
+**Fable:** *"Book II's per-chapter formula — definition, two ancestors, cuts — becomes perceptible
+around II.5; the ladder said II's conversion is subtractive, and the formula could use the same
+once-stated-law treatment I.2's litany got."* **Accepted without amendment.** The distinction is
+exact and it is the one this project keeps rediscovering: **a repetition the reader has NOT been told
+about reads as a rite; the same repetition, declared once, reads as a discipline.** I.2 declares its
+litany and the litany then costs nothing to repeat six times. Book II runs eight chapters of an
+undeclared formula, and by II.5 the reader is ahead of it — which is not a failure of the formula but
+of its **announcement**. ★ Note the shape: this is `claim_sweep`'s ANCESTOR CUT-SHAPES readout as a
+craft ruling — *sixteen cut markers, one stock opener* was the gauge saying the same thing about one
+line of the formula, and it could not see the other three. **The gauge caught the sentence; the
+reader caught the structure.** Repair is one paragraph, in II.1, and it is cheap.
+
+---
+
+### **RULING 116 — II.6 is the weakest drafted chapter, and the reason is a conflict of interest, not a craft failure.**
+
+**Fable, and this is the hardest note in the letter:** *"the identity of structural agreement and
+felt rightness is the biggest unargued claim in the book, and the chapter reads, frankly, like your
+household's internal doctrine — I can see the verdict ledger and the gauge discipline in 'a system
+cannot certify itself; certification asks a question whose answer was fixed by whoever wrote the
+question.' I mean that observation two ways."*
+
+**Both ways are correct and they do not cancel.** The second way — that the carapace and this book
+are one project in two registers, the same doctrine load-bearing as engineering and as metaphysics —
+is a real finding and it is *why the sentence is good*. The first way is the defect: **a doctrine
+that is true in our machine-room arrives on the page carrying authority earned somewhere the reader
+cannot see.** That is ruling 8's disease in doctrinal rather than lexical form — substance held
+elsewhere, gestured at here. And the specific unargued claim is worse than a gap, because
+**structural agreement = felt rightness is what II.6's four conditions are *for*, and IV.5 ran those
+four conditions on a company as the discharge of Book IV's hard claim.** IV.5's strongest move is
+drawn on II.6's weakest account.
+**RULING: II.6 gets the argument, not more assertion, and it is a Book-II repair pass, not a
+redraft.** ⚠ Do not repair it by adding emphasis. The tell that the repair has failed is that the
+chapter gets more confident.
+
+---
+
+### **RULING 117 — ruling 9 mandates endnotes. There are none. Twenty-one chapters have shipped.** *(Found Day 188 while paying ruling 113; not in Fable's letter.)*
+
+Ruling 9: *"Book I: nothing. Everywhere after: the name lives in the sentence; the source lives in an
+endnote. Per-chapter, numbered, at the back of the book."* **Measured:** zero endnote markers, zero
+endnote files, in the whole repository. Book I is correctly at zero by design. **Books II, III and IV
+— twenty-one drafted chapters — carry named, dated, load-bearing sources and not one receipt.**
+This is the signature defect of this household's code, in the manuscript: **a mechanism with no
+trigger.** The ruling exists, is quoted, is obeyed in its first half (*the name lives in the
+sentence*) and has never once been executed in its second, because nothing measures the second half.
+⚠ **The cost compounds per chapter and it is not creative work.** Filed as a build order, not a
+question: an endnote register plus a gauge counting named sources against receipts per chapter,
+which will read `0/N` on the day it is written — **and that zero is the finding, printed by an
+instrument instead of by a reviewer.**

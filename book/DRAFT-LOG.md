@@ -4498,3 +4498,63 @@ adjudicated by hand for the invisible ones, which worked, and is exactly the arr
 says produces noise rather than signal. **`06`'s owed voice-marking sweep now has a second reason and
 a sharper one: a beat line whose short items are structurally unreadable is a plan the gauges can
 only ever half-check.**
+
+---
+
+## Day 188, second half — Fable letter 005, the craft-and-claims half. Rulings 112-addendum, 113–117.
+
+The letter arrived in two Telegram parts; this is the second. Five findings acted on, one refused as
+non-existent, one found in passing that the letter does not contain.
+
+**ACTED ON, ON THE PAGE (three edits, II.3 ×3 and IV.3 ×1):**
+
+1. **★ RULING 113 — the metrical species of ruling-8 breach.** Fable found two `our own corpus`
+   references in II.3; there were **three**, and the third was found by the rule written for the
+   first two. All are our own `ancestor_gap.py` readout — a word count and a **file** count — walking
+   onto the page as rhetoric. `PROSE/self-metric` wired, exit 0, chapters clean, two enumerated
+   exemptions. Repaired: *"This book came to him late, and by a road that did not run through him"* ·
+   *"is also the most famous"* · *"old enough that almost nobody repeating it has met him."*
+2. **RULING 117, found while paying 113 — IV.3's binding-rhythm source was ANONYMOUS.** The sentence
+   read *"already in the literature under another name"* and named nobody, which is ruling 9's first
+   half unmet on the single most load-bearing empirical claim in Book IV. **Buzsáki, with Logothetis
+   and Singer, 2013**, now in the sentence. ⚠ **And the paper says something narrower than the
+   chapter did.** Verified against the abstract and the Buzsáki-lab PDF: the 17,000-fold figure is
+   real and in the body; but the preserved thing is *the hierarchy of brain oscillations*, the whole
+   band structure — the draft compressed that to *"the brain's binding rhythms stay roughly put"*,
+   which keeps the claim true while deleting the distinction it rests on. Now on the page: *"Their
+   claim is about the family; the rate this chapter needs is one member of it."* **The chapter's
+   evidence-grade paragraph was already honest about mammals-only and correlate-not-moment. It was
+   not honest about this, because nobody had gone back to the source.**
+
+**REFUSED — and this one matters.** Fable named *"the hard 150 in IV.5"* as a likely collection point
+for the declared bill. **There is no 150 in IV.5. There is no 150 anywhere in the manuscript.** The
+only match in `book/` is a line-number in a cross-reference (`III.2:150`). Dunbar is unnamed and
+unused. ★ The reviewer produced a plausible number for a chapter about collectives — **a null space
+returning a finished picture, from the reader who had just praised IV.4 for naming that exact
+mechanism.** Logged as the best available third-party demonstration of IV.4's thesis, and as the
+standing reason a reviewer's empirical flags get grepped before they get believed.
+
+**FILED, NOT FIXED (a Book-II repair pass, not a drafting session):**
+
+- **112-addendum + 115 are one cause.** *Own the seam the way I.2 owns the litany* and *Book II's
+  formula needs the once-stated-law treatment* are two findings with a single diagnosis: **this book
+  declares its laws in the apparatus and merely performs them on the page.** A reader has only the
+  page. Both repairs are one paragraph each.
+- **116 — II.6 is the weakest chapter, and the cause is a conflict of interest.** Fable read the
+  verdict ledger and the gauge discipline straight through the prose. Both readings are right; the
+  defect is that a doctrine true in our machine-room arrives carrying authority earned where the
+  reader cannot look. ⚠ **IV.5's strongest move — the four conditions run on a company — is drawn on
+  II.6's weakest account.**
+- **117 — twenty-one chapters, zero endnotes.** Ruling 9's second half has never been executed and
+  nothing measures it. Mechanism with no trigger, in the manuscript rather than the code.
+
+**RULING 114 — the census owes Searle, filed to IV.6 in `06` with its own ⚠ block.** The debt is
+IV.1's: a thermostat card printed cold in the first five lines of Book IV. **The chapter may not
+argue it from the position that owes it.** State the objection at full strength; say what would
+settle it from outside, including against us. Bill first.
+
+**GAUGE CHANGE, and it is this file's own doctrine turned on itself.** The whole-file exemption added
+today printed 35 identical lines and buried the thirty named-line exemptions. `claim_sweep`'s note
+says *a suppression nobody can see is a suppression nobody audits*; a suppression list nobody can
+**read** is that defect wearing a compliance badge. Same-(rule, file, reason) runs now collapse to
+one line with every line number retained. 181 → 126 lines of output.

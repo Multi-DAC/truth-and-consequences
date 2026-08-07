@@ -275,6 +275,22 @@ RULES = [
      r"have argued|have shown) (?:elsewhere|previously|earlier)|\bour earlier work\b", None,
      "Clayton, Day 186: no past work of ours is referred to by name. AND the anonymous form is "
      "worse — it points at something the reader cannot even look up. See 00, ruling 8."),
+    ("PROSE/self-metric", "prose",
+     r"\bour (?:own )?(?:corpus|archive|shelf|research notes)\b|"
+     r"\b(?:this book's|the) corpus\b|\bcorpus (?:does|doesn't|does not|knows) \b|"
+     r"\bfiles\b|\b(?:million|thousand) words\b", None,
+     "RULING 113 (Day 188, Fable + one more found by this rule). ★ THE SECOND SPECIES OF "
+     "RULING-8 BREACH, and the reason PROSE/self-reference read clean over all three instances "
+     "for two months: that rule hunts RHETORICAL self-reference — *as we argued elsewhere* — and "
+     "enumerates IDIOMS. This species is METRICAL. II.3 shipped three: *absent from three million "
+     "words of our own corpus*, *a name our corpus does know, in ninety-five files*, and *he is "
+     "not in this book's corpus once*. None of them gestures at an argument. Each is a READOUT "
+     "FROM OUR OWN INSTRUMENT — `tools/ancestor_gap.py` prints a per-name corpus file-count, and "
+     "its output walked onto the page as a rhetorical move. **The units are the tell.** A word "
+     "count and a FILE count are quantities no reader has, can obtain, or can check, which is "
+     "ruling 8(c)'s own criterion for why the anonymous form is worse than the named one — met "
+     "exactly, by the rule written to enforce it, and missed. ⚠ *this book's corpus* is the "
+     "worst-disguised: it wears the book's name, and a book has no corpus. The SHELF has one."),
     ("PROSE/manifestation", "prose",
      r"\bmanifest(?:ing|ation|s)?\b|\battract(?:ing|ion)? (?:abundance|wealth|what you)|"
      r"\bcreate your (?:own )?reality\b|\bthe universe (?:wants|gives|provides|responds)\b", None,
@@ -343,6 +359,19 @@ RULES = [
 #   (path suffix, rule_id, substring that must be on the line — None means whole file, why)
 # ---------------------------------------------------------------------------
 EXEMPTIONS = [
+    ("book/DRAFT-LOG.md", "PROSE/self-metric", None,
+     "SCOPE, not licence — and the SECOND time this exact mistake has been made. Ruling 14's "
+     "first-draft scope swept DRAFT-LOG for TERM/fullness and had to be narrowed; this rule was "
+     "written four hours later and repeated it, firing 14 times on a register whose entire job is "
+     "to record corpus file-counts. The log is where the readouts BELONG — DRAFT-LOG:1007 is the "
+     "very line (*'95 files in the'*) that the II.3 sentence was written from, and deleting it "
+     "would destroy the evidence for ruling 113. Whole-file for this rule ONLY."),
+    ("book/III-01-the-wrong-game.md", "PROSE/self-metric", "Irenaeus files separately",
+     "THE VERB, not the noun. `\\bfiles\\b` is deliberately unqualified because a book of "
+     "metaphysics has no business naming a filesystem — the cost of that breadth is exactly one "
+     "hit, and it is a heresiologist sorting schools. Enumerated rather than narrowed to "
+     "`(?<!Irenaeus )files`, per the note above: widening the pattern is how the rule would stop "
+     "measuring the thing it was written for."),
     ("prose/RULING-13-the-narrowing.md", "TERM/narrowing", None,
      "The ruling document FOR the retirement — the file whose entire subject is the word. "
      "Whole-file. One of two whole-file entries; see DRAFT-LOG below."),
@@ -968,8 +997,23 @@ def main() -> int:
     # is a suppression nobody audits, and these are the ones we chose on purpose.
     print(f"\n  {len(all_exempt)} DELIBERATE exemption(s) in force "
           f"({len(EXEMPTIONS)} rule(s) in the list):")
+    # ⚠ Day 188, with ruling 113: runs of the SAME (rule, file, reason) are COLLAPSED.
+    # The whole-file exemption added an hour ago printed 35 identical lines and buried the
+    # thirty named-line exemptions underneath — which is this block's own docstring failing
+    # one level up: a suppression list nobody can READ is a suppression list nobody audits.
+    # Every line number still prints. This wraps the list; it does not shorten it.
+    grouped = {}
     for rule_id, path, n, line, why in all_exempt:
-        print(f"    [{rule_id}] {path.relative_to(REPO)}:{n} — {why[:96]}")
+        grouped.setdefault((rule_id, path, why), []).append(n)
+    for (rule_id, path, why), lns in grouped.items():
+        rel = path.relative_to(REPO)
+        if len(lns) > 3:
+            print(f"    [{rule_id}] {rel} — {len(lns)} lines: "
+                  f"{','.join(str(x) for x in lns)}")
+            print(f"        → {why[:150]}")
+        else:
+            for n in lns:
+                print(f"    [{rule_id}] {rel}:{n} — {why[:96]}")
     if args.show_mentions:
         for rule_id, path, n, line, _ in all_mentions:
             print(f"    [{rule_id}] {path.relative_to(REPO)}:{n}  {line[:100]}")

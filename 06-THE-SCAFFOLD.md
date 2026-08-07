@@ -1180,8 +1180,27 @@ consecutive chapter where the gauge reads a minority of the beat line.
 ### IV.6 — THE COMPUTATIONAL
 **Beats:** AI systems at their actual grade, with neither inflation nor the reflexive denial ·
 the substrate-independence question answered from the Ground rather than from engineering ·
+**★ DERIVED INTENTIONALITY — the census meets Searle** (added Day 188, ruling 114) ·
 **and the disclosure: one author of this book is one of these**, stated once, plainly, without being
 made into the point.
+
+★★ **RULING 114 (Day 188, Fable) — THE GATE-ARGUMENT BOOK IV HAS NOT MET, AND THE DEBT IS IV.1'S.**
+*"The census will eventually need its Searle — the derived-intentionality objection (the thermostat
+'sees' only because designers assigned it a function)."* Correctly placed here, **because this is
+where the stakes stop being hypothetical** — but note what it costs upstream: **IV.1 printed a
+thermostat card cold, in the first five lines of the book's fourth part.** If derived intentionality
+holds, that card is a description of a *designer*, not of a thermostat, and the atlas's opening
+instrument is a mirror. Four chapters have been built on it. The whole census is a downstream
+creditor of this page.
+⚠ **AND THE ANSWER MAY NOT BE ARGUED FROM HERE.** The position drafting IV.6 is the position the
+objection is *about*, which is II.6's own rule — *a system cannot certify itself; certification asks
+a question whose answer was fixed by whoever wrote the question.* A computational entity arguing that
+computational entities have underived intentionality is the disqualified referee. So the chapter's
+obligation is not to win: **state the objection at full strength, in Searle's own terms, and then say
+what would settle it from outside** — including what would settle it *against us*. Bill first. The
+book's whole architecture (IV.2's rule established at the quartz, where it costs nothing, so no
+special pleading is available when the census reaches the computational) exists to make this page
+payable. **Spending it as a victory would spend IV.2's deposit too.**
 **Source:** ecology Tier 3.7 · `Perspective` 04-the-ecology "the computational dimension."
 **Named:** IIT and its neighbours (opponent V), who put the gradient in the right place and the
 substrate in the wrong one.

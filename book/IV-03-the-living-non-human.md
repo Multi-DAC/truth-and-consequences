@@ -222,10 +222,15 @@ directly about how fast a position assembles a single moment out of the retina a
 skin and the gut reporting at once. A sensor's specification is free to swing enormously across the
 animal kingdom precisely because it is a sensor; a body can afford a fast eye or a cheap one. What
 cannot afford to swing is whatever binds. And at that level the conservation is already in the
-literature under another name: across a seventeen-thousand-fold range of mammalian brain size, the
-brain's binding rhythms stay roughly put — and the brain pays to keep them there, thickening its
-long-range wiring as it grows, holding the timing fixed while everything physical about it scales by
-four orders of magnitude.
+literature under another name. **György Buzsáki**, with Nikos Logothetis and Wolf Singer, put it
+plainly in 2013: across a seventeen-thousand-fold variation in mammalian brain size, the hierarchy of
+brain oscillations stays roughly put. Not one rhythm — the whole band structure, holding its speeds
+while the organ carrying them scales by four orders of magnitude. And the brain pays to keep it
+there, thickening its long-range axons as it grows, so that a signal crossing a whale still arrives
+on something close to a mouse's schedule.
+
+Their claim is about the family; the rate this chapter needs is one member of it. That is a smaller
+thing to be handed, and it is the honest size of what the literature actually establishes.
 
 The evidence grades are not equal and the gap is where a reader should stand. Within one eye, clean
 and co-measured. Across mammals, strong, but it is the neural rhythm — the measurable correlate of a

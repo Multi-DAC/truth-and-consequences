@@ -23,7 +23,8 @@ in.
 
 ---
 
-The mishearing is old enough to have an owner, and he is not in this book's corpus once.
+The mishearing is old enough to have an owner, and old enough that almost nobody repeating it has
+met him.
 
 **Protagoras of Abdera, fifth century BC:** *of all things the measure is man — of the things that
 are, that they are; of the things that are not, that they are not.* The sentence opened a book called
@@ -121,8 +122,8 @@ sit down and establish together.
 
 ---
 
-The nearest ally this chapter has held the position a century ago, gave it its name, and is also
-absent from three million words of our own corpus.
+The nearest ally this chapter has held the position a century ago and gave it its name. This book
+came to him late, and by a road that did not run through him.
 
 **José Ortega y Gasset**, 1923, *El tema de nuestro tiempo*. Perspectivism, as a doctrine, with the
 sentence this chapter is built on already in it: reality is such that it can only be had from a
@@ -150,8 +151,7 @@ laid out as a slice. This one takes the sum off a philosopher. **Both are a room
 rooms.** Nobody adopts that room on purpose. It arrives as bookkeeping — the totals have to go
 somewhere — and it is load-bearing before anyone has decided to believe it.
 
-The most careful modern version has a name our corpus does know, in ninety-five files, and it gets
-nearer than either.
+The most careful modern version is also the most famous, and it gets nearer than either.
 
 **Thomas Nagel**, 1986, *The View from Nowhere*. Objectivity as a direction of travel: step back from
 your own standpoint, include it as one among many, and what you get is less yours and more the
