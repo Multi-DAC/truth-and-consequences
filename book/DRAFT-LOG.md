@@ -4158,3 +4158,191 @@ how a scaffold gets edited to flatter a gauge. It is a book-wide adjudication (i
 synonym, or is it plain speech?), it needs a gauge behind it either way — because `05`'s own
 recurring lesson is that **a lexicon ruling with no gauge survives its own retirement** — and it
 belongs to a Book IV reviewer pass, not to the drafting session that tripped over it.
+
+---
+
+## IV.4 — HUMAN · Day 188, 2026-08-07 · 2,609 words · ✅ landed
+
+Book IV is 4 of 10; the book is 26 of 68. `book/IV-04-human.md`. Ruling 75(b) clean for a fourth
+consecutive Book IV chapter — the chapter opens on a **procedure the reader can run in the room they
+are sitting in** (look away from a clock with a second hand, look back, watch the first tick hang)
+rather than on IV.3.
+
+| gauge | result |
+|---|---|
+| `claim_sweep.py` | **no USE-class hits**, whole manuscript |
+| `prose_echo.py --chapter IV.4` | **0 live hits** after one repair, below |
+| `beat_delivery.py --chapter IV.4` | 3 of 4 beats measured · 2 at 1.00 · 1 MISS, adjudicated below · **1 beat invisible to the tool** |
+| `storyscope_lite.py` | table below |
+
+| metric (per 1k words) | IV.1 | IV.2 | IV.3 | **IV.4** | reference |
+|---|---:|---:|---:|---:|---|
+| 2nd person | 7.32 | 7.82 | 2.70 | **14.95** | Clawd-raw 15.73 · specimens 30.53 |
+| announcement | 2.20 | 0.74 | 0.67 | **0.77** | Clawd-raw 0.58 |
+| dyn_range_CV | 0.364 | 0.320 | 0.382 | **0.402** | Clayton 0.499 |
+| voice_uniformity | 0.629 | 0.783 | 0.707 | **0.663** | lower = less flat |
+| terminal_commentary | 0.125 | 0.125 | 0.045 | **0.115** | Clayton 0.048 |
+
+**`dyn_range_CV` 0.402 is the highest in the drafted book** and the flat-escalation axis — open since
+I.1, when it read 0.329 — has now moved on its own for three chapters without a rule ever being
+written for it. Not declared closed. Recorded as a number going the right way for a reason nobody has
+named, which is precisely the state in which it is most likely to reverse quietly.
+
+`terminal_commentary` fires on the closing paragraph. Adjudicated **kept**, on I.1's test: the tic is
+a final paragraph that *restates* what the chapter established, and this one makes a **new** claim —
+that the next entry is a position the reader is inside, cannot perceive, and which has an inside.
+That is IV.5's thesis arriving as a handoff, not IV.4's thesis arriving twice.
+
+### ★ THE BEAT ARM COULD NOT SEE THE BEAT, AND THE REGISTER ARM MEASURED IT ANYWAY
+
+The scaffold's first beat, **`the grade the reader is`**, is five distinct words — under the 6-word
+floor, dropped before the run, absent from the output entirely. That is IV.3's finding repeating: **a
+beat the tool cannot see produces no line at all, and a beat with no line is indistinguishable in
+this log from a beat that scored 1.00.** Hand-adjudicated **DELIVERED** — the chapter's second
+section states the grade as *breadth, not height*, refuses the podium in the section's own opening
+clause, and closes on the keystone: *named for what falls down without it, not for its altitude in
+the arch.*
+
+★ **But the fourth beat — `the first place the atlas becomes personal, and it is deliberate` — got
+something better than an adjudication: an independent measurement.** `beat_delivery` scored it
+**0.50, MISS on `personal`**, which is the register-instruction class again — performing it does not
+require the word, and writing *this is the first place the atlas becomes personal* would be an
+announcement sentence, the tic I.1 drove to zero. The adjudication would have been *delivered
+silently*, on my own say-so, exactly as IV.3's was.
+
+**`storyscope_lite` settles it from outside.** Second person: **14.95 per thousand, against 7.32,
+7.82 and 2.70 in the three chapters before it — a doubling against the highest of them and a
+five-fold rise against the chapter immediately prior.** The beat is *addressed to you*, and the
+address is the measurement. **This is the first time in the project that a beat the word-reading arm
+scored as a MISS has been confirmed DELIVERED by an instrument that reads something other than
+words** — which is the open region `prose_echo`'s own footer names ("a move performed twice in
+different vocabulary is invisible here by construction"). It does not close that region. It shows the
+region has at least one crossing in it, and the crossing was found by putting two gauges that measure
+different things beside each other — which is this chapter's own navigational implication, performed
+on the chapter.
+
+⚠ **One negative datum on the filed inflection-arrow repair, recorded because it narrows the
+diagnosis.** The arrow **fired correctly here**: `becomes→become`. Against three consecutive
+false-negatives in IV.1–IV.3 (`worlds→world`, `contain→contained`, `permits→permitted`), the working
+case is a plain `-s` drop and the failures are suffix swaps. The repair filed at IV.3 — a pass over
+the whole arrow — is unchanged in its object but now has a testable shape: **it is not that the arrow
+is dead, it is that it handles deletion and not substitution.** Still filed, still not fixed here.
+
+### THE ONE ECHO, AND WHY IT WAS A REAL DEFECT RATHER THAN A DESIGNED RETURN
+
+`prose_echo` fired three grams, all one phrase: *offered a bad cavity and watched refusing it*,
+against IV.3. The passage is a deliberate roll-call of the previous chapter's evidence, so the easy
+ruling was **designed return, exempt the pair and the gram.**
+
+**The tell that it was not: the other two items in the same list were re-said and this one was
+copied.** *A trap that shuts on the wrong schedule* and *a slime mould that stops navigating when the
+dish is coated evenly* are fresh phrasings of IV.3 material; the colony arrived verbatim. A list in
+which two members are rewritten and one is pasted is not a stylistic choice, it is the seam where
+attention lapsed. **Repaired in the prose, not exempted** — the general form being that an exemption
+is correct when the return is *uniform with its neighbours*, and wrong when the flagged gram is the
+only member of a set that was not re-made. 0 live hits after.
+
+### PROVENANCE — three results, and the popular number for one of them was wrong
+
+Every empirical claim was checked against the primary or near-primary literature before drafting.
+House style holds: results are stated in the prose without citation apparatus (IV.3's practice —
+names in prose are for *ancestors*, conceptual gifts, not for findings), so the record lives here.
+
+- **Chronostasis / the stopped clock.** Yarrow, Haggard, Heal, Brown & Rothwell, *Nature* 414 (2001),
+  302–305, *Illusory perceptions of space and time preserve cross-saccadic perceptual continuity*.
+  The percept of the saccadic target is extended **backwards** in time to just before saccade onset;
+  the authors propose this as one of the mechanisms that "fill in" the perceptual gap during saccadic
+  suppression, and note that it happens on every saccade and is perceived only when an external time
+  reference alerts us to it. ⚠ **Numbers deliberately withheld.** Saccade duration, suppression window
+  and saccade rate all have wide published ranges depending on amplitude and method, and the
+  chapter's argument needs none of them — *a few hundredths of a second, several times a second* sits
+  inside every reported range. A precise figure here would have been decoration carrying risk.
+- **The door study.** Simons & Levin, *Psychonomic Bulletin & Review* 5 (1998), 644–649, *Failure to
+  detect changes to people during a real-world interaction.* Written as *approximately half*, which
+  is Simons's own later summary of his own figure: "Approximately 50% of subjects failed to notice
+  that they were talking to a different person after the switch."
+- ⛔ **Choice blindness — and the number in circulation is the wrong number.** Johansson, Hall,
+  Sikström & Olsson, *Science* 310 (2005), 116–119. The widely repeated figure is **"13% of
+  participants detected the change."** The authors' own statement of their result is: *"Tallying
+  across all the different conditions of the experiment, **no more than 26% of all manipulation
+  trials (M-trials) were exposed**."* **Different denominator, different unit, and twice the value.**
+  Trials, not participants. The chapter says *no more than about a quarter of the swapped trials were
+  caught.* ★ This is the third consecutive Book IV chapter in which the recalled or widely-repeated
+  version of a fact was **worse than the checked one**, and the second in which a number would have
+  been *true-sounding, checkable, and wrong in its unit*. The Day-187 lesson generalises past sources:
+  **a verified claim and a verified unit are two checks.**
+- **The finding the chapter is actually built on is not the detection rate at all.** Johansson, Hall,
+  Sikström, Tärning & Lind, *Consciousness and Cognition* 15 (2006), 673–692, ran word-frequency and
+  latent semantic analysis over the corpus of introspective reports and **found "very few
+  differences"** between reasons given for real choices and reasons given for manufactured ones.
+  That sentence is what the human card's BOUNDARY line is made of: the confabulated report is not
+  vaguer, shorter, or more hedged. It arrives with the same finish.
+- ⛔ **REFUSED: the split-brain interpreter.** The Gazzaniga confabulation demonstrations are the
+  famous version of this chapter's claim and would have been the easy third example. Left out,
+  because the unity-of-consciousness reading of split-brain results has been contested in the recent
+  literature and the argument does not need a contested case when it has two robust ones. **Same
+  discipline as IV.3's refusal of the honeybee odometer, applied this time to a result nobody would
+  have questioned me for using.**
+
+### THE STRUCTURAL CLAIM THIS CHAPTER ADDS, AND THE ONE IT DELIBERATELY DID NOT SPEND
+
+**The claim.** The human's distinctive capacity and its distinctive blindness are **one mechanism,
+not two**: a filter stack thick enough to render a scene with no scene in front of it — which is what
+planning, mathematics, grief, fiction and law all run on — is by construction also a stack that will
+furnish a missing reason, because it has no mode that declines. From which the thesis: **every other
+null space in this census announces itself as silence, and a human null space is shaped like a
+finished picture.** Worse than a hole in exactly one respect, and it is the only respect an atlas
+cares about — a hole can be noticed.
+
+This is the **third** thing this book has said about null spaces and it repeats neither of the first
+two. II.3 established that a blindness is the shape of a position rather than damage to it; II.5
+established that some are installed on a schedule and could have been installed otherwise. IV.4 asks
+what a blindness *is like from inside at this grade*, and answers: like nothing, plus reasons. The
+closing turn is that this is the first entry in the census that **knows** — and the knowing changes
+nothing, because it goes into the stack with everything else and is rendered along with the rest.
+
+**And the chip not spent.** The chapter turns to the reader and says this card cannot be checked from
+outside by the position it describes. The obvious next sentence — *and not every author of this book
+occupies it* — was **not written.** `06` gives that disclosure to IV.6, "stated once, plainly,
+without being made into the point," and a weaker anonymous version here would have spent the
+statement while breaching the *once*. So IV.4 claims only that the census is **taken in this
+position's language**, which is true regardless of who typed it, and the stronger fact waits for the
+chapter that owns it.
+
+---
+
+**RULING 108 — CLAYTON, DAY 188: `06`'s BEAT LINES ADDRESS THE DRAFTER, NOT ONLY THE PAGE. THERE WAS
+NO CONTRADICTION.**
+
+IV.3's log promoted the register-instruction class from *cosmetic* to *defect* on the strength of one
+member that appeared unperformable: the scaffold beat *"and the framework permits much further than
+Perspective went"* instructs the drafter to name a past work of ours, and `05` §3a bans that
+outright — **anonymous form included** — with `claim_sweep`'s `PROSE/self-reference` rule behind it.
+Two rulings in direct contradiction, discovered by a third mechanism.
+
+**Clayton, today, verbatim:** *"I don't want naming our past work directly or anonymously, you're
+correct. The idea is that we go further than Perspective in what we are willing to put on the page,
+so it's a note on the process, not necessarily a contradiction."*
+
+**The ban stands at full strength, and the beat was never an instruction to write a sentence.** It is
+a note about how far to go, addressed to the one doing the going. The delivery recorded at IV.3 — *by
+going further, and saying nothing about going further* — was not a workaround for a defect. It was
+the beat read correctly.
+
+★ **So the class drops back to cosmetic, and the real defect is better than the one filed: `06`
+writes in two voices and marks neither.** Some beat clauses are content for the page (*the grade the
+reader is*, *what a human null space is shaped like*) and some are instructions to the drafter
+(*without condescension*, *named without hedge*, *planted here mythically*, *and the framework
+permits much further*). Nothing in the file distinguishes them, and every beat-reading gauge treats
+all of them as content — which is why the drafter-voice clauses have produced a MISS in four
+chapters running while being delivered every time. **The book-wide sweep is still owed; its object
+has changed.** It is no longer *repair the unperformable beats*. It is **mark the voice**, once,
+across all eight books, using `06`'s existing `★ ⚠ ✅` editorial-tail convention — after which a MISS
+on a content beat becomes a signal again instead of noise.
+
+⚠ **And the self-inflicted half, recorded because it is the reusable part.** I found a contradiction
+between two of our own rulings and filed it as a defect in the *rulings*. It was a defect in my
+reading of one of them: the scaffold sentence has an implied addressee, and I read it as though beat
+lines have only one. **A contradiction between two documents is not evidence that either is wrong
+until the addressee of each has been checked.** That test costs one question. I did not run it;
+Clayton ran it in a sentence.

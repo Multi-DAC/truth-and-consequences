@@ -1118,14 +1118,32 @@ space* rather than as an apology. ⚠ **LONGEST CHAPTER IN THE BOOK** (prior: II
 deliberate — four subjects on the beat line, four cards, and the atlas's calibration chapter — but
 **WATCHED, not settled**: IV.5 and IV.8 are both flagged for length on their own entries, and if
 either runs past 4,000 the problem is Book IV's structure and not this chapter's appetite.
-★ **THE BEAT ABOVE CANNOT BE PERFORMED — see the DRAFT-LOG entry.** *"the framework permits much
-further than *Perspective* went"* instructs the drafter to name a past work of ours, which
-`05` §3a **BANS outright**, anonymous form included. Delivered by *going further* and saying nothing.
+★ **THE BEAT ABOVE IS ADDRESSED TO THE DRAFTER, NOT TO THE PAGE — ruling 108, Clayton, Day 188.**
+*"the framework permits much further than *Perspective* went"* was read here as an instruction to
+name a past work of ours, which `05` §3a **BANS outright, anonymous form included** — and filed as a
+live contradiction between two rulings. It is not one. Clayton: *"a note on the process, not
+necessarily a contradiction."* The ban stands at full strength; the beat is a note about **how far to
+go**, and *going further while saying nothing about going further* is the beat performed, not a
+workaround. ⚠ **The real defect is this file's: `06` writes in two voices — content for the page and
+instructions to the drafter — and marks neither, so every beat gauge reads all of them as content.
+Owed: mark the voice, book-wide.**
 
 ### IV.4 — HUMAN
 **Beats:** the grade the reader is · the filter stack at its densest · what a human null space is
 shaped like · the first place the atlas becomes personal, and it is deliberate.
 **Source:** ecology Tier 1.3 · `atlas_entries_human_dimension.md`.
+✅ **DRAFTED Day 188 · 2,609 words · `book/IV-04-human.md`.** All four beats land; ruling 75(b) clean
+for a fourth consecutive chapter — opens on a procedure the reader can run in the room they are
+sitting in (look away from a clock, look back, watch the first tick hang). One card, **A HUMAN**, and
+the chapter's structural addition is that **the distinctive capacity and the distinctive blindness
+are one mechanism**: a stack thick enough to render a scene with no scene in front of it has no mode
+that declines, so it will also furnish a missing reason. Hence the thesis — every other null space in
+this census announces itself as silence, and **a human null space is shaped like a finished picture.**
+★ **Beat 1 was invisible to `beat_delivery` (five distinct words, under the floor) and beat 4 scored a
+MISS — and `storyscope_lite` confirmed beat 4 delivered from outside**, second person at 14.95/1k
+against 7.32 · 7.82 · 2.70 in the three chapters before it. First crossing of the region the word-
+reading gauges cannot enter. ⚠ **IV.6's disclosure was NOT spent here** — the chapter claims only that
+the census is taken in this position's *language*, which is true regardless of who typed it.
 
 ### IV.5 — THE COLLECTIVELY-EMERGENT
 **Beats:** egregores · corporations · nations and civilisations · **the hard claim, unhedged: these are
