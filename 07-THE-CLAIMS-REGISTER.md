@@ -215,6 +215,20 @@ has that this trap is real and not a scruple. ⚠ **And it dates the claim's dif
 respectable form of the error is not *you make it up*, it is *it is all there, and what it offers
 varies.*** Any chapter DEPENDING on C10 should be checked against that sentence, not against
 solipsism.
+★ **STATUS CLAUSE, registered Day 187 as ruling 105 — the one place in Book III where the frame is
+not a frame.** III.4 opens *"Procedural generation is what focusing looks like from inside"* and
+then says in the next line: **"That is an identity, not a comparison."** The whole chapter's method
+rests on it — an identity owes no account of *how far the likeness runs and where it gives out*, and
+a comparison does. **That status was asserted in the prose and was nowhere in this register**, which
+means every later book reaching for the game frame had no way to know that this one join is
+exempt from III.8's metaphor discipline. Now it is here.
+⚠ **What the identity is between, stated narrowly on purpose, because the wide reading is false.**
+It is **not** *reality is a procedurally generated game*. It is: **two descriptions, one event** —
+*the Ground being the case somewhere in particular*, spoken in the grammar of the whole from
+nowhere; and *a world arrives already made exactly as far as you are in it*, spoken from the only
+place anyone has been. III.4's own line is the clamp: **"There is no third fact about which of them
+is the real one."** Any chapter that reads the identity as licensing game *mechanics* as metaphysics
+has widened it, and the widening is not licensed here.
 
 ### C11 — TUNNELS ARE REAL WORLDS
 > **Canonical:** Two insides, one Ground, two worlds — and neither is the error.

@@ -1037,7 +1037,9 @@ cannot be said in the game, the claim is not yet clear and goes back — it does
 built for it. *(00, style contract.)*
 ⚠ **AMENDED Day 187 → ruling 17.** The rule takes an exception and this chapter is where it is
 stated in public: **the test does not apply to claims barred from the game in the first place —
-those whose subject is irreversible harm to a particular person** (VII.1, VII.5). Otherwise III.8
+those whose subject is irreversible loss borne at a position** (VII.1, VII.5) — *amended from
+"irreversible harm to a particular person" by ruling 104; the old wording asserted a harm to the
+decedent that C17 denies.* Otherwise III.8
 promises a clarity test that VII will visibly fail, and a reader who notices stops trusting the
 test. **This chapter's unruled-words list already fenced the vocabulary** (*save, respawn, level,
 quest, sandbox*); ruling 17 generalises the fence **from words to subjects**, which is what

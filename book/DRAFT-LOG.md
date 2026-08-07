@@ -3719,3 +3719,81 @@ And the shape underneath is Day 187's shape, for the fifth time: **the knowledge
 codebase.** The comment warning against paragraph-wide guards was written before the defect, sat six
 inches from it, and did not stop the log from proposing exactly that repair a few hours later. Reading
 your own notes is not the same as reading your own code.
+
+---
+
+## DAY 187, NIGHT — THE BOOK III REVIEWER PASS. Rulings 104–107.
+
+**Opus read all eight chapters. Five findings, four repairs, one gauge, and one finding that
+inverted under measurement.** No chapter was re-drafted; drafting stays paused per Clayton.
+
+**RULING 104 — III.8's exception criterion contained a premise VII.1 refuses.** The bar read *the
+game is barred wherever the subject is irreversible **harm to a particular person***, and III.8
+applied it to cessation. **C17 is canonical and says cessation is not an event for the one ceasing**
+— which is exactly the claim that nothing was done to them. So the old bar either reached cessation
+only through the bereaved, leaving `respawn` unfenced in the one chapter where it is most dangerous,
+or asserted a harm C17 denies. Now: **irreversible loss borne at a position**, with the reason on
+the page. The bereaved bear it; the reader who still has a position bears the anticipation; the one
+who has ceased has no position for anything to be borne at. **THE CLASS: a bar written to protect a
+chapter must not contain a premise that chapter refuses.** Propagated to `00` (×2) and `06`.
+
+**RULING 105 — III.4's identity claim was asserted in the prose and registered nowhere.** *"That is
+an identity, not a comparison"* — and the whole chapter's method rests on it, because an identity is
+not owed an account of how far the likeness runs. **Every later book reaching for the game frame had
+no way to know this one join is exempt from III.8's metaphor discipline.** Now a status clause on
+C10, with the narrow reading clamped: it is not *reality is a procedurally generated game*, it is
+two descriptions of one event, and III.4's own line is the clamp — *there is no third fact about
+which of them is the real one.*
+
+**RULING 106 — THE MACHADO CLAUSE WAS WRONG, AND THE ROOT CAUSE IS THE FINDING.** III.7 said the
+1912 *Campos de Castilla* *"does not contain the series at all."* **It contains twenty-seven of
+them, I–XXVII.** But this was never carelessness: `03` recorded it as a **measurement**, on the
+archive.org 1912 scan, `Proverbios y cantares` = 0 hits.
+★★ **That scan's OCR double-spaces its headers. EVERY multi-word phrase query against it returns
+zero.** Proof on the book's own running head: `campos de castilla` → **0**; `campos  de  castilla` →
+**54**. ★ **The bullet carried two zeros from one broken query and exactly one of them was true** —
+`no hay camino` really is absent, so the poem's 1917 date stands and that half of the correction
+survives. **The true zero lent its credibility to the false one, and nothing on the page
+distinguished them.** ✅ **RULE: a zero from a scan is not a result until a positive control OF THE
+SAME SHAPE has returned non-zero.** A single token proves nothing about a phrase query; use a phrase
+that must be on the page. Normalise whitespace before sweeping OCR.
+⚠ **And the reviewer's proposed rule — *a bibliographic correction that widens needs a second
+source* — would have made this worse.** The secondary literature says 29 (es.wikipedia), or 26+LI+LII
+(= 28), or I–XXIX — and that last one puts *Caminante* in 1912 and is refuted by the scan. **A second
+secondary source had a live chance of flipping a correct date to an incorrect one.** The
+count-of-contents of a printing is a question the printing answers and nothing else does.
+Disagreement recorded in `03` rather than resolved.
+
+**RULING 107 — THE EMBODIED MIND IS BOOK III'S SPINE ANCESTOR AND HAD NO CONSOLIDATED ACCOUNTING.**
+Four chapters, four relationships — **cut on duration (III.4), cut on membership (III.5), adopted
+whole (III.6), the source of the central image (III.7)** — each transacted locally, never set side
+by side. Written into `03`, and it produced a finding the diffusion itself had hidden: **the two
+cuts are one cut seen twice.** The biology floor III.5 declines is what *a viable history* buys, so
+III.4 pays for III.5's disagreement four chapters before it is made. What the four add up to, said
+once: **we take their account and refuse their warrant.**
+✅ **GAUGED — `ancestor_gap.py` gets a DIFFUSION pass.** The original test is `book == 0`; a name in
+four chapters sorts into "present" and is never looked at again, so the tool **passed this defect by
+construction**. This is Rovelli inverted: not a silence, a diffusion. No threshold and no verdict —
+a rule for *is this accounted for* would be a rule fitted to the one instance that provoked it. It
+lists everyone leaned on in 3+ chapters, with the chapters named. ⚠ **First run put `Mach` at the
+top with ten chapters, on *Machado*, *machine* and *machinery*** — so the section diverges from the
+inherited substring contract and matches on word boundaries, scoped so every number above stays
+byte-comparable. **A short list whose first row is garbage is a list that gets skipped, and a gauge
+is spent the first time it is disbelieved.** Now: one row, Varela.
+
+**REPAIRED WITHOUT A RULING.** ● **III.4 mis-cited III.1 on duration**, and III.7 depends on the
+difference: III.1 emptied *a position in time outside everything*, not duration as such, and III.7
+needs duration real at a position. The streamed picture now needs *a **before** for the crossing to
+start from* — with the disclaimer in the open, *duration is not the trouble; you have duration, and
+a later chapter will need you to.* Same species as Book I's *having* contradiction. ● **III.5's
+section header put Bruno "in Venice"** — *De la causa* was London, 1584, as the very next line of
+the chapter says; Venice is where they arrested him eight years later. Now *"in print in London."*
+
+**WATCHES, NOT REPAIRS → `00` ruling 75.** The *take X away and Y* litany (measured: **nine** lines,
+six in Book III; the reviewer's "three in III.7" is **III.3 line 222**, where they are three clauses
+of one sentence and therefore anaphora, not a tic), and the five-of-eight administrative openings,
+recorded as a Book IV–VIII **drafting** constraint rather than a revision note.
+
+**WHAT THE REVIEW COULD NOT CHECK, now checked:** III.3's *there is no runtime* is **C1**, verbatim
+in the canonical text. III.5's population claim is **C9**. III.7's three-part account is **C14**.
+Only III.4's identity status was genuinely unregistered — ruling 105.

@@ -199,9 +199,19 @@ bill.
 would be right to feel misled.**
 
 **The test does not apply where the game is barred in the first place.** The bar is a criterion and
-not a list of chapters: **the game is barred wherever the subject is irreversible harm to a
-particular person.** Where that is the subject, the claim is not tested against the frame at all,
-because failing to be sayable in the game is not evidence of anything there.
+not a list of chapters: **the game is barred wherever the subject is irreversible loss borne at a
+position.** Where that is the subject, the claim is not tested against the frame at all, because
+failing to be sayable in the game is not evidence of anything there.
+
+The wording is exact and the exactness is the point. *Harm done to a person* would have been the
+natural phrasing and it would have been a trap, because Book VII is going to say that cessation is
+not an event for the one ceasing — which is precisely the denial that anything was done to them. A
+bar written to protect a chapter must not contain the premise that chapter refuses. Loss borne at a
+position asks a different question, and one this book can answer: is there somewhere that this is
+being undergone? For the woman whose child has died, yes, and that is the whole of it. For the one
+who has ceased there is no position left for anything to be borne at — and the bar still covers the
+chapter, because the fear belongs to a reader who has a position now and knows it will not always
+be occupied.
 
 Without the exception the rule misfires exactly where it can least afford to. The hardest true things
 this book has to say concern affliction and cessation, they are not in the least unclear, and they

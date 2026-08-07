@@ -282,8 +282,10 @@ So the contract is a **comprehension** contract, not a metrics one:
   If a claim cannot be said in the game, that is evidence the claim is not yet
   clear, and it goes back rather than getting a new metaphor built for it —
   **unless the claim is barred from the game, in which case the test does not
-  apply at all.** ⚠ **Ruling 17, Day 187: the game is barred wherever the subject
-  is irreversible harm to a particular person** (currently VII.1, VII.5).
+  apply at all.** ⚠ **Ruling 17, Day 187, AMENDED ruling 104: the game is barred
+  wherever the subject is irreversible loss borne at a position** (currently
+  VII.1, VII.5). *Not "harm to a person" — C17 denies that cessation is done to
+  anyone, so that wording made the bar contradict the chapter it protects.*
   Without the exception the rule misfires on *malheur*, which is perfectly clear
   and unsayable in game-register — and a rule that fails on the hardest true
   claim in the book gets quietly ignored everywhere else.
@@ -764,9 +766,18 @@ everywhere else, so it gets fixed rather than excused.
 
 - **Load-bearing:** Books III and IV, VI, VIII. **Available:** Book V. **Barred:** see the criterion.
 - ★ **The bar is a criterion, not a list, because the reorder is live and a chapter list rots the
-  moment it lands: the game is barred wherever the subject is irreversible harm to a particular
-  person.** Current instances: **VII.1** (cessation) and **VII.5** (affliction). If the order moves,
-  the criterion still holds and the instances re-derive themselves.
+  moment it lands: the game is barred wherever the subject is irreversible loss borne at a
+  position.** Current instances: **VII.1** (cessation) and **VII.5** (affliction). If the order
+  moves, the criterion still holds and the instances re-derive themselves.
+  ★ **AMENDED Day 187, ruling 104 — the first wording carried a premise VII.1 refuses.** It read
+  *irreversible harm to a particular person*, and III.8 applied it to cessation; but **C17 is that
+  cessation is not an event for the one ceasing**, which is exactly the claim that nothing was done
+  to them. So the old bar either reached cessation only through the bereaved — leaving `respawn`
+  unfenced in the one chapter where it is most dangerous — or asserted a harm C17 denies. *Loss
+  borne at a position* covers both without committing: the bereaved bear it, the reader who still
+  has a position bears the anticipation, and the one who has ceased has no position for anything to
+  be borne at. **The class: a bar written to protect a chapter must not contain a premise that
+  chapter refuses.** Nothing outside the wording changes; the instances are the same two.
 - **The rule's own text takes an exception clause:** *…unless the claim is barred from the game, in
   which case the test does not apply.* Amended in the style contract above and in `06` III.8.
 - *Note: this is a consolidation, not a new constraint.* **`respawn` is already on III.8's
@@ -2516,3 +2527,30 @@ entry: append to these documents by writing a temp file and appending, or by `op
 by reading, concatenating and `write_text`-ing back.** A read-modify-write with an encoding failure
 in the middle is a delete. And use `\\U0001F53B` for astral characters; the surrogate escapes are
 what a JSON round-trip leaves behind and they only fail at encode time.
+
+**75. THE BOOK-III REVIEW PASS: TWO REGISTER WATCHES, MEASURED RATHER THAN AGREED WITH.** *Day 187
+night, on Opus's read of the eight drafted chapters. Both are watches, not repairs — nothing is
+rewritten on either count tonight.*
+
+**(a) The *take X away and Y* construction is real, is larger than the note said, and is in a
+different place than the note said.** The note reported "six-plus times, including three in III.7
+alone." **Measured: nine lines carry it** — I.1, I.2, II.2, II.8, III.1, III.2 (×2), III.3, III.5 —
+**six of the nine in Book III**, which is the finding. **III.7 has one**, and in the variant form
+(*take the freedom out*). The three-in-one-chapter is **III.3 line 222**, and there they are three
+clauses of a single sentence — *"Take away the author, take away the building, take away the
+schedule"* — which is anaphora on purpose and not the tic. ★ **The distinction decides the repair:
+a figure inside one sentence is doing work; the same opening in nine separate paragraphs across
+three books is a habit that has stopped being noticed.** So the watch is **cross-chapter and
+paragraph-initial only**, and III.3's triple is EXEMPT by construction rather than by mercy. This is
+the Book I apophatic litany's successor — more varied, same mechanism: **a move that worked once,
+kept because it kept working, until the keeping is the only reason.**
+
+**(b) Five of eight Book III chapters open by reciting the previous chapter's state.** III.1 and
+III.5 do not, and read better for it. Not repaired tonight — an opening is the most expensive
+sentence in a chapter to change and five of them is a revision pass, not an errand. ⚠ **But it is
+recorded as a DRAFTING constraint for Books IV–VIII rather than a revision note**, because the cheap
+moment to fix an administrative opening is before it is written: the recap exists to reassure the
+drafter that the thread is held, and the reader already has the thread. **The gauge is the same
+question C17's clamp uses — is there a recipient in the grammar?** A recap addressed to a reader who
+might have lost the plot is an opening written to a suspicious reader, which is `05`'s anti-hedge
+finding arriving in a new position.

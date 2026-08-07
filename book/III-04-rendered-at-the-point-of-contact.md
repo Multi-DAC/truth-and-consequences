@@ -46,8 +46,11 @@ everything they look at reaches them. The picture: the world sits finished on a 
 and what you get is a feed of it — delivered on demand, at the resolution the channel can carry,
 buffered a little ahead of where you are. It is the most sophisticated version of the mistake and it
 is the worst, because it needs everything the other two needed *and a journey as well*. An elsewhere
-to hold the original. A channel. A rate. And a duration for the crossing to take, which is the
-commodity the first chapter of this book spent its length showing there is none of.
+to hold the original. A channel. A rate. And a *before* for the crossing to start from — a stretch
+in which the world is already finished and not yet yours. Duration is not the trouble; you have
+duration, and a later chapter will need you to. The trouble is whose. This picture wants a stretch
+of time that the world spends without you in it, which is a position outside everything, and the
+first chapter of this book spent its length showing there is no such seat to occupy.
 
 The three pictures differ in machinery and agree in form. Each of them puts the world somewhere
 else, and then moves it.

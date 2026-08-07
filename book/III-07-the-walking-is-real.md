@@ -96,9 +96,10 @@ and nothing to find out.
 
 **Then what the walking makes, since it does not make the path.**
 
-The image belongs to somebody and he should have it. **Antonio Machado**, in the *Proverbios y
-cantares* that entered *Campos de Castilla* when the collected poems were assembled in 1917 — not in
-the first edition of five years earlier, which does not contain the series at all:
+The image belongs to somebody and he should have it. **Antonio Machado**, *Proverbios y cantares*
+XXIX — one of the pieces that entered *Campos de Castilla* when the collected poems were assembled
+in 1917. The first edition of five years earlier does carry the series, and its Proverbios stop at
+twenty-seven:
 
 > Caminante, no hay camino,
 > se hace camino al andar.

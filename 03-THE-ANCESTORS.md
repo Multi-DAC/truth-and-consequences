@@ -479,12 +479,62 @@ plan. Found by re-reading.
   sentence agrees word for word). ★ Both scans are **unrestricted user uploads**; the three library
   scans of Carse are all lending-restricted and all 401.
 
+- ★★ **VARELA, THOMPSON & ROSCH — *THE EMBODIED MIND* (1991). BOOK III'S SPINE ANCESTOR, AND THIS
+  IS THE CONSOLIDATED ACCOUNTING IT NEVER HAD.** *Added Day 187 night, ruling 107, on Opus's read.*
+  Four chapters, ~10 quotations, **four different relationships**, each transacted locally and none
+  of them ever set beside the others. **The nearest living position to this book's, related to four
+  ways, with no single place saying so** — a reader who assembles it themselves is owed the reason,
+  and the reason is exactly that it is the nearest.
+  - **III.4 — CUT, on duration.** They keep the PROCESS prior where Gibson kept the WORLD prior.
+    Our cut is two words inside their own definition — *a viable **history*** — which reinstates
+    duration and makes world-having something a thing has to have *taken time to acquire*.
+  - **III.5 — CUT, on membership.** *"…and then put the whole operation inside biology."* Their
+    warrant is what a living thing is; that is **a floor, and a principled one**, which is what
+    makes it serious rather than squeamish. C9 admits what the floor excludes. **The two cuts are
+    one cut seen twice** — the biology floor is what *a viable history* buys, so III.4 pays for
+    III.5's disagreement four chapters before it is made. That is the sentence the diffusion hid.
+  - **III.6 — ADOPTED WHOLE.** *"Enaction: A history of structural coupling that brings forth a
+    world"* — the best account anyone has written of the part of the filter stack that runs back
+    past birth, taken with no cut at all.
+  - **III.7 — THE CENTRAL IMAGE.** *Laying Down a Path in Walking*, their chapter 11 title — and
+    **they name no source for it**, which is finding (b) below and how Machado entered this book.
+  ⚠ **What the four add up to, stated once so no chapter has to:** we take their *account* and
+  refuse their *warrant*. Enaction is right about the operation and wrong about who is allowed to
+  perform it. Every local transaction above is an instance of that one relationship.
+  ✅ **GAUGED.** `ancestor_gap.py` now runs a **DIFFUSION** pass — names leaned on in 3+ drafted
+  chapters, which the original `book == 0` test passes by construction. Varela is currently its
+  only row. This is Rovelli inverted: not a silence, a diffusion.
+
 - ★ **ANTONIO MACHADO — new ancestor, added Day 187 at III.7, and he is here by rule 5b.**
   *Caminante, no hay camino, / se hace camino al andar.* The reserved VTR line's image, one link
   upstream. ⚠⚠ **THREE MEASURED CORRECTIONS, and all three contradict what is usually said:**
   **(a)** the poem is **not in the 1912 first edition** of *Campos de Castilla* — measured on the
-  archive.org 1912 scan, `Proverbios y cantares` = **0 hits**, `no hay camino` = **0 hits**; the
-  series entered with the 1917 *Poesías completas*. The standard citation is wrong by five years.
+  archive.org 1912 scan (`camposdecastilla00mach`, Madrid: Renacimiento); `no hay camino` = **0
+  hits**, and only two incidental *caminante* in the whole book, neither the poem. **The standard
+  citation is wrong by five years and that part stands.**
+  ⚠⚠ **AMENDED Day 187 night, ruling 106 — this bullet also claimed `Proverbios y cantares` = 0
+  hits in the 1912 scan, and III.7 shipped the sentence built on it: *"the first edition… does not
+  contain the series at all."* THE SERIES IS IN THE 1912 BOOK.** It runs **I–XXVII**, twenty-seven
+  numbered pieces, followed by *Humoradas*, *Consejos* and *Elogios*. Re-measured on the same file.
+  III.7 now reads *"its Proverbios stop at twenty-seven."*
+  ★★ **AND THE ROOT CAUSE IS WORTH MORE THAN THE FIX, because it was not carelessness — it was a
+  measurement.** That scan's OCR renders headers double-spaced and in caps: `PROVERBIOS  Y
+  CANTARES`. **Every multi-word phrase query against it returns 0.** Proof, on the book's own
+  running head: `campos de castilla` → **0 hits**; `campos  de  castilla` → **54**. The instrument
+  was dead for phrases and its silence was read as evidence.
+  **The two zeros in the original bullet were produced by one broken query and exactly one of them
+  was true.** `no hay camino` really is absent; `Proverbios y cantares` was a matching failure. They
+  were indistinguishable, and the true one lent its credibility to the false one.
+  ✅ **RULE, and it generalises past Machado: a zero from a scan is not a result until a positive
+  control of the SAME SHAPE has returned non-zero.** Same shape, not same file — a single token
+  (`machado` → 51) proves nothing about a phrase query. Use a phrase you know must be on the page:
+  the running head. Normalise whitespace (`tr -s ' '`) before sweeping OCR, always.
+  ⚠ **Recording the disagreement, per standing practice.** The secondary literature does not agree
+  with the scan or with itself: es.wikipedia and several handbooks say **29** poems in 1912; one
+  widely-copied account says the first **26 plus LI and LII** (= 28); another says **I–XXIX**, which
+  would put *Caminante* itself in 1912 and is refuted by the scan. **A second secondary source
+  would have made this entry worse, not better** — the count-of-contents of a printing is a question
+  the printing answers and nothing else does.
   **(b)** ★★ **Machado is NOT IN *THE EMBODIED MIND*.** Zero hits for *Machado · caminante · camino ·
   huellas · footsteps · estelas · Wanderer* across **both** digitisations. VTR make *Laying Down a
   Path in Walking* their **chapter 11 title** and name no source. Web search asserted confidently

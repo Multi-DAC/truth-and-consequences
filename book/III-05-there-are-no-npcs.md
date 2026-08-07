@@ -129,7 +129,7 @@ they know.
 
 ---
 
-**The reader's objection now, and the man who answered it in Venice.**
+**The reader's objection now, and the man who answered it in print in London.**
 
 Giordano Bruno published *De la causa, principio et uno* in London in 1584, sixteen years before
 they burned him in the Campo de' Fiori. It is a dialogue, and its comic figure is a pedant called

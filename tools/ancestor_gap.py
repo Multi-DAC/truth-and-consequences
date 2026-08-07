@@ -94,6 +94,48 @@ def main():
 
     present = sorted([r for r in rows if r[1] > 0], reverse=True)
     print(f"\n  (for contrast: {len(present)} seeded names DO appear in at least one chapter)")
+
+    # ---- DIFFUSION -------------------------------------------------------
+    # The failure the section above cannot see, found Day 187 by Opus reading
+    # Book III: Varela/Thompson/Rosch, *The Embodied Mind*, in FOUR chapters
+    # with four different relationships — adopted in III.6, cut on duration in
+    # III.4, cut on membership in III.5, the source of III.7's central image —
+    # and no consolidated accounting anywhere. That is Rovelli INVERTED: not a
+    # silence but a diffusion. `book == 0` is exactly the wrong test for it; a
+    # name in four chapters sorts into "present" above and is never looked at
+    # again. Presence in both corpus and book is what this file checks, so it
+    # passes the defect by construction.
+    #
+    # NO THRESHOLD AND NO VERDICT, on purpose. A rule for "is this accounted
+    # for" would be a rule fitted to the one instance that provoked it. The
+    # honest instrument here EXPOSES the class and makes the human judgement
+    # cheap: everybody the book leans on in three or more places, with the
+    # places named, so the question "where is this relationship consolidated?"
+    # can be asked once per row instead of never.
+    # ⚠ DELIBERATE DIVERGENCE FROM THE INHERITED CONTRACT, scoped to this section
+    # so every number above stays byte-comparable with previous runs. The sweep
+    # matches SUBSTRINGS; here that put "Mach" at the top of the list with ten
+    # chapters, on the strength of *Machado*, *machine* and *machinery*. A short
+    # list whose first row is garbage is a list that gets skipped, and a gauge is
+    # spent the first time it is disbelieved — so this section matches on word
+    # boundaries. It is the narrower test, and it can therefore MISS (an ancestor
+    # named only inside a hyphenated compound), which is the right way for a
+    # work-list to fail.
+    spread = []
+    for name in seed_names():
+        pat = re.compile(r"\b" + re.escape(name.lower()) + r"\b")
+        where = [f.replace(".md", "") for f, t in book.items() if pat.search(t)]
+        if len(where) >= 3:
+            spread.append((len(where), name, where))
+    spread.sort(reverse=True)
+    print("\n★ DIFFUSED — leaned on in 3+ chapters (is the relationship consolidated ANYWHERE?)")
+    print("  chaps  name")
+    for k, name, where in spread:
+        print(f"  {k:5d}  {name}")
+        print(f"         {' · '.join(sorted(where))}")
+    print(f"\n  {len(spread)} names. Many rows here are fine — a term used everywhere needs no")
+    print("  dossier. The row to worry about is the one where the book takes a DIFFERENT")
+    print("  position each time and never says so in one place.")
     return 0
 
 
