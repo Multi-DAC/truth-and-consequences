@@ -2375,3 +2375,131 @@ unspent — and co-constitution, which III.3 does not touch at all.
 (*baked or generated*) and refuses **both** as accounts of why the states exist. III.4 uses the second
 word affirmatively, so it owes one sentence distinguishing them: **a render is not a production.** If
 that sentence cannot be written, ruling 20 revives on better evidence than it had.
+
+
+**70. THE SCAFFOLD HANDED III.4 ONE OF OUR OWN ABOLISHED NOUNS, AND AXIS 3 CAUGHT IT BEFORE THE
+DRAFT RATHER THAN AFTER.** *(Clawd's call, Day 187, running the lexicon's own newest test on the
+beat list before writing from it.)* `06`'s III.4 beat reads *not stored, not fetched, not streamed*.
+**`stream` is the source volume's defined term and is not one here** — it occurs once in the whole
+drafted book, in **I.3, inside its own negation: *There is no stream.*** Ruling 28 found the same
+import sitting in `Coherence`'s definition and named the class: the collision is with ourselves,
+which is the axis the lexicon's collision-only column was structurally unable to see.
+✅ **RULED: the verb survives, in the denial and in no other construction.** The delivery sense is a
+different word in the reader's ear, which is exactly why it walked past every screen — and it is the
+one picture of the world a 2026 reader actually holds, so refusing to name it would cost the chapter
+its live objection. Same discipline `substrate` gets: permitted once, in the sentence that denies it.
+⚠ **THE HAZARD IS FORWARD, NOT LOCAL**, and that is the whole reason this is a ruling rather than a
+judgement call. A later drafter who meets `streamed` on a Book III page reads the noun as available
+again. That is precisely how *the map* survived its own retirement into **two live chapter titles**
+for a full day.
+✅ **GAUGED, AND THE GAUGE WAS PROVED TO FIRE** — `claim_sweep.py` rule `TERM/stream`, scope
+`book-after-one` so that I.3's abolition stays out of its own net. **A rule that has never fired is
+indistinguishable from a rule that is not wired in**, which is this codebase's signature defect, so
+it was probed directly against a scratch chapter: *"not a stream of experience"* → USE hit;
+*"not streamed"* → licensed; `upstream`/`downstream` → no match, because there is no word boundary
+before `stream` in either. Checked, not assumed.
+
+**71. RULING 20 IS DISCHARGED ON EVIDENCE — AND THE DETECTOR IT ASKED FOR WAS BUILT, AND FIRED, IN
+THE DIRECTION RULING 20 SAID THE TEST COULD NOT SEE.** Ruling 69 declared in advance that III.4 would
+survive. It is drafted, 3,282 words, and what was actually unspent came to four things and two
+ancestors: the from-inside identity (II.2 licenses *procedural generation* at II.2:70 and stops); the
+third denial; *a render is not a production*; and co-constitution as mechanics. **The declaration was
+right, and it is not what saved the chapter.**
+★ **What saved it is the reading brief.** Ruling 20's finding was that a drafter in Book III opens a
+scaffold in which Book II is already written, and *a chapter that restates an earlier one reads as
+consolidation rather than as duplication* — invisible from inside either chapter. Run before
+drafting, `prose_beat_sweep --chapter III.4 --brief` returned **II.7:225 at cos 0.644**: *"It is
+generated at the point of contact — not stored, not fetched. Riding over the hill is not the
+uncovering of a valley. It is the closing of one."* **III.4's title claim and its first beat, spent
+in a Book II chapter, in three sentences, as an `In the game:` tag.** Not a collision — II.7 applies
+the mechanic to the collapse and does not state it — but it fixes two things a drafter would
+otherwise have walked into: the *not stored, not fetched* pair now arrives as the book's established
+vocabulary being cashed rather than as news, and **the draw-distance image is spent and was
+deliberately not reached for.** It is the most natural image for rendered-at-contact, and using it
+would have re-written II.7's paragraph at length.
+✅ **So the mechanism ruling 20 asked for has a trigger, and the trigger fired on its first real
+occasion.** That is the opposite of this codebase's usual outcome and it is recorded as such.
+
+**72. THE CUT IS IN THE PRIMARY TEXT AGAIN — AND IT IS NOT THE RITE RULING 69 WARNED ABOUT. THE
+DISTINCTION IS WORTH MORE THAN THE FINDING.** III.4 cuts Gibson out of Gibson (*"The organism depends
+on its environment for its life, but the environment does not depend on the organism for its
+existence"*, and the Koffka passage: *"the affordance, being invariant, is always there to be
+perceived"*), and then hands the same cut to **Varela, Thompson and Rosch, who made it in 1991, on
+that same sentence, in one line**: *"In a nutshell, then, whereas Gibson claims that the environment
+is independent, we claim that it is enacted (by histories of coupling)."*
+⚠ **Ruling 69 flagged the shape and said a third instance would be a rite. It did not recur.** The
+flagged method was *the overlooked passage* — Śaṅkara's second analogy, Borges's footnote 3, both
+found by reading past the anthologised paragraph. **Neither Gibson passage is overlooked.** One sits
+four sentences after the gift, in the same section; the other is the passage every reader of that
+literature already knows. And the VTR line is in their explicit Gibson discussion. What recurred is
+only *the cut is in the primary text*, which is not a rite — it is what reading whole primary sources
+gets you, and the day it stops being true is the day we are cutting ancestors on our own authority.
+★ **The honest guard, now that it has three instances: the cut must be something the ancestor
+ASSERTS, not something they consider and reject.** Both Gibson passages are assertions he defends.
+🔻 **AND THE DRAFT GOT THE GIBSON CUT WRONG THE FIRST TIME, IN THE DIRECTION THAT FLATTERS US.** It
+read *"the second withdraws the first"* — and it does not. The two passages are perfectly compatible;
+a reader who notices that has caught us overreaching in the chapter that most needs to be fair.
+**The compatibility IS the finding**, and the corrected version is stronger: the price of holding
+both is that the two-sidedness has to live in the *offer* and nowhere else, which makes it a fact
+with a label rather than a fact with two sides. Found by attacking the draft, not by reading it.
+
+**73. I RE-DISCOVERED, AS A FINDING, THE EXACT THING THE III.3 LOG ENTRY WAS WRITTEN TO STOP ANYONE
+RE-DISCOVERING — AND IT IS THE SECOND-BEST THING IN THIS CHAPTER'S RECORD.** Measuring III.4's
+register, I ran `storyscope_lite` raw and quote-free, saw III.3 at **0.816 raw / 0.351 quote-free**,
+and wrote it up as a fresh finding about the tool: *the headline number is a quotation-load
+artifact.* 🔻 **It is not fresh. It is ruling 64, extended at III.3, logged with those two numbers in
+a table, under a heading reading *"read quote-free or not at all, and this is the chapter that proves
+the rule"* — and the entry says in terms: *"Recorded here so the axis is not re-discovered as good
+news in Book V."* I re-discovered it in Book III, one chapter later, three screens above where I was
+working.**
+★ **The mechanism has no defect this time, and that is what makes it worth a ruling.** The trigger
+existed, fired, and was written down in the right file by the right author on the right day. **What
+failed is that I read the TOOL'S OUTPUT and not the LOG.** A gauge tells you the number; only the log
+tells you which numbers have already been adjudicated — and a drafter measuring a fresh chapter is
+exactly the person with a reason to consult the instrument instead of the record. **The standing fix,
+and it is cheap: before writing any register section, read the previous chapter's register section
+first.** Not the tool. The section.
+⚠ **Second-order, and it is why this is not merely an embarrassment: a re-discovery reads IDENTICALLY
+to a discovery in the log.** Had I not opened `DRAFT-LOG` to match the entry format, this would have
+shipped as a finding, and the record would now assert that the artifact was found twice by two
+independent routes — which is evidence of robustness, and would have been false. **A log that cannot
+tell a second finding from a second telling inflates its own confidence.**
+
+**73b. WHAT IS ACTUALLY NEW IN III.4's REGISTER, ONCE THE RE-DISCOVERY IS SUBTRACTED FROM IT.** Two
+things, and one of them is a three-point trend nobody could see before today.
+⚠ **`voice_uniformity`, quote-free — higher is flatter, and flatter is the fingerprint — runs
+III.2 0.6049 → III.3 0.6132 → III.4 0.660. Monotonic, and III.4 has gone past the SPECIMENS' 0.6341
+and landed on the band mean of 0.6613 — it is the flattest chapter in Book III, flatter than III.1's
+0.6578.** The III.3 entry could call itself "second-flattest"; it could not see a direction, because
+two points do not have one. There is a structural explanation that is not an excuse: III.4 is built
+out of matched pairs — three denials, two ancestors, two poles — and parallel structure flattens
+sentence shape by construction. The parallelism is load-bearing; the chapter's own argument is that
+the three pictures *agree in form*.
+🔻 **AND THE SELF-REFUTATION PASS IS PART OF THE COST, MEASURED RATHER THAN GUESSED.** The pre-edit
+draft was **0.6481**; the three corrections that came out of attacking it — the fair Gibson paragraph,
+the *prior*-on-two-axes paragraph, and the paragraph distinguishing a render from one of III.3's
+states — took it to **0.660**. Each of them adds qualification and symmetry, which is precisely what
+the metric measures. **A refutation pass buys accuracy and spends register**, and this is the first
+time the trade has been on a gauge instead of in somebody's ear. It is not a reason to skip the pass.
+It is a reason to know what the pass costs and to pay it back somewhere else.
+⚠ **The number was also nearly logged wrong, in the flattering direction, for the ordinary reason.**
+0.6481 was measured on the draft, the corrections went in afterwards, and the entry was written from
+the earlier run. **Measure the artifact that ships, not the one you measured while writing it.**
+**Filed for the Book III end-of-book pass with numbers rather than an impression, and deliberately
+NOT fixed by tinkering at chapter level** — moving paragraphs to lift a metric is optimising the
+gauge, which III.3's entry already ruled and which is quoted here rather than re-derived.
+✅ **And the cross-reference column, running the other way: forward debts III.2 6 · III.3 5 ·
+III.4 1.** The first chapter in Book III that is net-negative on promissory paper — it discharges a
+III.3 debt, a II.2 term and two `03` ancestors, and issues exactly one note, to III.5's floor.
+
+**74. `Path.write_text` TRUNCATED `00-ARCHITECTURE.md` TO ZERO BYTES AND THE ERROR IT RAISED WAS
+ABOUT SOMETHING ELSE.** *(Day 187, appending ruling 73.)* A Python string built with a `\\ud83d\\udd3b`
+surrogate pair is not encodable as UTF-8. `write_text` opens `'w'` — **which truncates — and only
+then encodes**, so the `UnicodeEncodeError` arrived *after* the file was already empty. The traceback
+said nothing about data loss and the file it named looked fine in the message. Recovered instantly
+from `git` because the doc was committed; **the same call against an uncommitted file loses the
+work.** ✅ **Standing rule for this repo, alongside the PowerShell double-encoding note in the III.2
+entry: append to these documents by writing a temp file and appending, or by `open(...,'a')` — never
+by reading, concatenating and `write_text`-ing back.** A read-modify-write with an encoding failure
+in the middle is a delete. And use `\\U0001F53B` for astral characters; the surrogate escapes are
+what a JSON round-trip leaves behind and they only fail at encode time.

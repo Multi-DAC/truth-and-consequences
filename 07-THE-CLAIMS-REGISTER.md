@@ -181,11 +181,22 @@ thought.
 > **Canonical:** The world is rendered at the point of contact. The seed is not solely yours;
 > the world is not solely given.
 
-**Establishes:** III.4 · II.2
+**Establishes:** III.4 · II.2 — ✅ **BOTH NOW DRAFTED. II.2 defines it; III.4 states it as mechanics
+and is where it is ESTABLISHED** (Day 187). The mechanical form: two things are required, the seed
+and the procedure, and neither of them contains a world.
 **Depends:** III.6 · VI.1 · VI.8 · VIII.2 · VIII.3 · VII.3 (the floor is built on it)
 **Trap:** collapse to either side — *"you make it up"* (idealism-as-solipsism) or *"there is a
 real world and you perceive part of it"* (realism-with-a-filter). Both are one-sided. The claim
 is that **neither side is prior**, which is harder to write and is the actual position.
+★ **THE TRAP HAS TWO NAMED ANCESTORS WHO FELL INTO IT FROM OPPOSITE SIDES, AND BOTH ARE NOW IN THE
+PROSE — Day 187, III.4.** **Gibson** kept the WORLD prior (affordances point both ways; the
+environment does not depend on the organism). **Varela, Thompson & Rosch** fixed that and kept the
+PROCESS prior (the world is enacted *by a viable history of structural coupling*). Half of the trap
+each, held by the best available thinker on that side — which is the strongest evidence the register
+has that this trap is real and not a scruple. ⚠ **And it dates the claim's difficulty: the
+respectable form of the error is not *you make it up*, it is *it is all there, and what it offers
+varies.*** Any chapter DEPENDING on C10 should be checked against that sentence, not against
+solipsism.
 
 ### C11 — TUNNELS ARE REAL WORLDS
 > **Canonical:** Two insides, one Ground, two worlds — and neither is the error.

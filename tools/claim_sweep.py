@@ -190,6 +190,20 @@ RULES = [
      "The doctrine sentence is `01` §262's, which was already right: **every possible state, "
      "complete, at once. Nothing is authored.** NO LICENSED USE — mentions of the retired form "
      "are suppressed by the ⚠/retitled markers or exempted by name below."),
+    ("TERM/stream", "book-after-one", r"\bstreams?\b|\bstreaming\b|\bstreamed\b",
+     r"\bnot streamed\b|\bno stream\b|\bnothing is streamed\b",
+     "RULING 70 (Day 187), AXIS 3 — our own abolished noun, run on a word the SCAFFOLD handed "
+     "III.4. `stream` is the source volume's defined term and is NOT one here: it occurs once in "
+     "the drafted book, in I.3, inside its own negation — *There is no stream.* Ruling 28 caught "
+     "the same import in `Coherence`'s definition. The scaffold's III.4 beat says *not stored, not "
+     "fetched, not streamed*, and the VERB is the delivery sense — a different word in the "
+     "reader's ear, which is exactly why it walks past a collision screen. The hazard is FORWARD, "
+     "not local: a later drafter who meets `streamed` on a Book III page reads the noun as "
+     "available again, and that is precisely how *the map* survived its own retirement into two "
+     "live chapter titles. LICENSED: the denial itself, which is the only construction it may "
+     "ever appear in. SCOPE excludes Book I, where the abolition is made. NOT licensed and "
+     "correctly so: `upstream`/`downstream`, which carry no word boundary before `stream` and "
+     "never match — checked, not assumed."),
     ("TERM/aperture", "all", r"\bapertures?\b", None,
      "05 §3 — demoted; the term is the Perspective."),
     ("TERM/bottleneck", "all", r"\bbottlenecks?\b", None,

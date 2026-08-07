@@ -2580,3 +2580,166 @@ purpose. **III.4** — ruling 69: the from-inside identity, the *not stored / no
 streamed* denial, and co-constitution are all unspent. III.3 made its storage denial through Borges's
 **architecture** specifically so that III.4's vocabulary stayed clean, and III.4 now owes one
 sentence: *a render is not a production.*
+
+---
+
+## III.4 — RENDERED AT THE POINT OF CONTACT · Day 187 (2026-08-06) · 3,282 words
+
+**Book III is 4 of 8, and the half-way chapter is the one that was on notice to be deleted.**
+
+Ruling 20 scaffolded this chapter and II.2 as the same chapter and put this one on probation: *if
+what is left here is the thesis sentence plus a restatement of II.2, absorb it into III.3 and run
+Book III at seven.* Ruling 69 declared in advance that it would survive. It does, and the declaration
+is not what saved it — see ruling 71.
+
+### What the chapter had to do, and what discharged each thing
+
+| owed | by whom | discharged |
+|---|---|---|
+| the from-inside identity | `06`, thesis line | stated as an **identity, not a comparison**, with the cost named: a comparison owes the reader a limit, an identity does not |
+| *not stored / not fetched / not streamed* | `06` beat 1, ruling 69 | three denials that **agree in form** — each puts the world elsewhere and then moves it |
+| *a render is not a production* | ruling 69, the inherited debt | **entailment without tense**: nobody thinks six sevens are forty-two *because* somebody multiplied them |
+| co-constitution as mechanics | `06` beat 3, C10 | seed + procedure, **neither of which contains a world** |
+| Gibson | `03` §3.5, 0/0 | named, quoted, cut |
+| enactivism | `03` §3.5, 0/0 | Varela, Thompson & Rosch named in full, quoted, cut |
+
+★ **The cleanest thing in it: II.2 took the COST off `generated`; this takes the CLOCK off it.** Two
+different subtractions from one borrowed word, and neither is the other. II.2's was *nothing is being
+economised*; this one's is *generation is not an event*. The pencil and the ten seconds are yours;
+the fact was not waiting on them.
+
+### Quotations — six block quotations, every one verified against TWO independent digitisations
+
+| # | source | second check |
+|---|---|---|
+| 1–4 | **Gibson**, *The Ecological Approach to Visual Perception* (1979) — the affordance definition; *"neither an objective property nor a subjective property… both physical and psychical, yet neither"*; *"the environment does not depend on the organism for its existence"*; the Koffka/invariance passage | Brown University chapter-8 scan **and** the Psychology Press *Classic Edition* full book — different typesetting, different OCR, identical text under normalisation |
+| 5–6 | **Varela, Thompson & Rosch**, *The Embodied Mind* (1991) — the Gibson nutshell; the *enactive* definition | archive.org 1993 MIT printing **and** the Monoskop 1991 PDF |
+
+⚠ **The second source earned its keep twice over.** The archive.org OCR renders *enactive* as
+`emctive` in the book's own defining sentence — a corruption invisible to anyone checking a claim
+against one copy, and fatal if quoted. And the flat-string check found all four Gibson passages in
+the Classic Edition only after stripping the OCR's inserted spaces and hyphens (`afford ance`,
+`comple ment ar ity`); a naive substring search reported MISS on three of four. **A second
+digitisation that is not normalised before comparison is a second opportunity to conclude wrongly.**
+★ **And one check stronger than a second copy, on III.3's own pattern:** Gibson's invariance sentence
+is attested by VTR quoting it in 1991, independently of both Gibson digitisations. Two publishers,
+twelve years apart, verifying the *claim* rather than the orthography.
+
+### The ancestors, and why they arrive as a pair
+
+**Gibson gives us the best sentence anyone outside this frame has written for C10** — an affordance
+*"cuts across the dichotomy of subjective-objective… It is both physical and psychical, yet
+neither."* 1979, from an experimental psychologist who got there from stairs and cliffs and the
+problem of seeing a runway.
+
+🔻 **The first draft cut him wrongly, in the direction that flatters us, and the correction is
+ruling 72.** It read *"the second withdraws the first"* — of *"The organism depends on its
+environment for its life, but the environment does not depend on the organism for its existence."*
+That is false. The two passages are perfectly compatible, a careful reader sees it immediately, and
+being caught overreaching in the chapter that most needs to be fair is the expensive version of this
+mistake. **The compatibility is the finding.** The price of holding both is fixed: the two-sidedness
+has to live in the *offer* and nowhere else, which makes it a fact with a label rather than a fact
+with two sides. C10's stated trap, arriving in its most respectable form — not *you make it up*, but
+*it is all there, and what it offers varies.*
+
+★ **And the cut is not ours: VTR made it in 1991, on that same sentence.** *"In a nutshell, then,
+whereas Gibson claims that the environment is independent, we claim that it is enacted."* So the
+section inherits an argument already in progress rather than arbitrating one — and then says where
+**both** stop. **Gibson kept the world prior; the enactivists fixed that and kept the process prior.
+Neither is prior.** Our cut on them is two words in their own definition — *a viable history* — which
+reinstates duration and floors world-having at biology.
+
+⚠ **`observer`, and the ban getting evidence.** §3c bans the word on the ground that it imports a
+world already there. Gibson — the most careful user of it in that literature — writes *"points both
+ways, to the environment and to the observer"* and four sentences later makes the environment
+independent. **The word did exactly what the ban predicted, in the primary text, at the hinge.** One
+clause in the prose; the doctrine stays in `05`.
+
+### Boundaries held — and two of them are RESERVATIONS, which is a stronger thing than a boundary
+
+- **III.5** gets the floor. One sentence forward only: *contact is not a privilege of things with
+  metabolisms.* The enactivists now give that chapter a serious contemporary opponent it did not
+  have — one this book agrees with about nearly everything else, which is the strongest kind.
+- **III.6** is promised the enactive *history of structural coupling* **whole**, as the account of
+  how a seed comes to be the seed it is. ⚠ **If III.6 is drafted without them, this chapter's promise
+  goes false and the cut reads as a dismissal.**
+- ★★ **III.7 RESERVATION: VTR's *"paths that exist only as they are laid down in walking"*** — and
+  **Machado** one link upstream (rule 5b), *se hace camino al andar*. It is the most quotable line in
+  that book, it was sitting in the section I was already quoting, and it was **left on the table on
+  purpose** because the walking argument is III.7's and the image belongs with the argument.
+- **The draw-distance image is II.7's** and was not reached for — see ruling 71.
+- **The school is not named.** `03` routes neutral monism's naming (Russell, Nishida upstream) to
+  II.1 and II.8. The claim is made in mechanics; the credit stays where `03` put it. A decision, and
+  recorded as one so it is not read later as an omission.
+
+### Gauges
+
+`claim_sweep` **0 USE** · 36 files · mentions 112 → 112 · exemptions 59 → 59, and the both-directions
+diff moved nothing on the addition of `TERM/stream`. `order_sweep` **0 false handoffs**.
+`prose_beat_sweep` **0 spent**. `storyscope` logged raw **and** quote-free below.
+
+⚠ **One new trace, and it is a finding about the SCAFFOLD, not about this chapter.** `V.2 (beat) ~
+III.4` at containment 0.57 — and V.2 was already tracing to II.5 and II.7 at exactly 0.57. The beat
+is *"why leaving it did not answer the question either"*, which contains no content word a
+discriminator can use; **it now matches three chapters in three different books.** A beat that
+matches everything is not detecting a spend, it is failing to be a beat. **V.2's beat list needs
+rewriting before Book V is drafted** — filed here rather than in `06`, because the evidence is a
+gauge reading and this is where gauge readings live.
+
+★ **`TERM/stream` was probed rather than trusted** — ruling 70. *"not a stream of experience"* →
+USE hit; *"not streamed"* → licensed; `upstream`/`downstream` → no match. A rule that has never fired
+is indistinguishable from a rule that is not wired in.
+
+### Register — read the previous chapter's register section first, which is this entry's own lesson
+
+| metric | **III.4** | III.4 *quote-free* | III.3 *q-f* | III.2 *q-f* | III.1 | band mean |
+|---|---:|---:|---:|---:|---:|---:|
+| **voice_uniformity** | 0.6605 | **0.660** | 0.6132 | 0.6049 | 0.6578 | 0.6613 |
+| dyn_range_CV | 0.351 | 0.308 | 0.351 | 0.504 | 0.498 | 0.334 |
+| named_ref_/1k | 8.70 | 9.25 | 13.99 | 10.87 | 11.35 | — |
+| meta_textual_/1k | 4.35 | 4.80 | 5.35 | 4.94 | 2.06 | — |
+| 2nd_person_/1k | 5.59 | 5.82 | 6.17 | 7.41 | 5.67 | — |
+| terminal_commentary | 0.051 | 0.057 | 0.031 | 0.037 | 0.038 | — |
+| paragraph coverage | 93% | 94% | 92% | 91% | 92% | — |
+
+⚠ **Band caveat, stated rather than skipped: the band is 1.9k–3.2k and this chapter is 3,282 words.**
+The comparison to the mean is at the edge of its own stated range.
+
+🔻 **RULING 73 — the finding I nearly logged here was a re-discovery of the one the III.3 entry was
+written to prevent.** I measured raw and quote-free, saw III.3's 0.816 → 0.351, and started writing
+up *the headline number is a quotation-load artifact* as news. It is ruling 64, extended at III.3,
+in a table, under a heading that says so, in an entry that says in terms *"recorded here so the axis
+is not re-discovered as good news in Book V."* I re-discovered it in Book III. **The trigger was not
+missing; I read the tool's output instead of the log.** Standing fix: before writing a register
+section, read the previous chapter's register section — not the tool.
+
+⚠ **What IS new, and it is not good news. `voice_uniformity` quote-free runs 0.6049 → 0.6132 →
+0.660 across Book III.** Monotonic; past the SPECIMENS' 0.6341; landed on the band mean; flatter than
+III.1. **III.4 is the flattest chapter in Book III.** Two points cannot show a direction and three
+can, which is why the III.3 entry could only call itself second-flattest. The structural cause is not
+an excuse: this chapter is built out of matched pairs — three denials, two ancestors, two poles — and
+parallel structure flattens sentence shape by construction. The parallelism is load-bearing; the
+argument *is* that the three pictures agree in form.
+
+🔻 **And the self-refutation pass is measurably part of it.** Pre-edit draft **0.6481**; after the
+three corrections that came out of attacking it — the fair Gibson paragraph, *prior* on two axes, and
+the paragraph separating a render from one of III.3's states — **0.660**. Qualification and symmetry
+are exactly what the metric counts. **A refutation pass buys accuracy and spends register.** Worth
+every point of it, and worth knowing the price. ⚠ **The 0.6481 was also nearly what got logged**,
+because it was measured on the draft and the corrections landed after. *Measure the artifact that
+ships.*
+
+✅ **The other direction, and it is the first good news on this axis in Book III: forward debts run
+III.2 6 · III.3 5 · III.4 1.** The first chapter in the book that is net-negative on promissory
+paper. It discharges a III.3 debt, a II.2 term and two `03` ancestors, and issues one note — to
+III.5's floor.
+
+### A tooling loss, and it cost nothing only because the file was committed
+
+🔻 **`Path.write_text` truncated `00-ARCHITECTURE.md` to zero bytes and raised an error about
+something else** — ruling 74. A string carrying a `🔻` surrogate pair is not UTF-8-encodable;
+`write_text` opens `'w'`, **which truncates, and only then encodes.** The traceback named an encoding
+problem and said nothing about the 190KB that had just gone. Restored from `git` in one command
+because the document was committed. **Standing rule, alongside the PowerShell double-encoding note in
+the III.2 entry: append with `open(..., 'a')` or a temp file — never read, concatenate and
+`write_text` back.** A read-modify-write with an encoding failure in the middle is a delete.

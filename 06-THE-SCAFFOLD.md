@@ -783,35 +783,80 @@ by name in his own text and left there: **Basilides** (in the quoted list) and t
 the axiom paragraph, which is III.1's figure surfacing in the ancestor's own vocabulary.
 
 ### III.4 — RENDERED AT THE POINT OF CONTACT
-✅ **THE RULING-20 TEST HAS ITS FIRST EVIDENCE AND THE CHAPTER SURVIVES — ruling 69, Day 187,
-recorded BEFORE it is drafted rather than discovered inside it (ruling 24's procedure).** III.3 is
-now written and did **not** eat this one, deliberately: III.3 answers *why the states are*, and this
-chapter answers *what it is where one of them is you.* The seam is real and it is the pair's whole
-value — a totality with no author, no building and no schedule, and then a reader in a room with a
-wall at arm's length. III.3's closing paragraph states that gap and refuses to close it.
-⚠ **WHAT III.3 DID NOT SPEND, AND THIS CHAPTER MUST:** the *from-inside identity* (procedural
-generation is what focusing looks like from within), the **not stored / not fetched / not streamed**
-denial — III.3 denies that the STATES are stored, which is a different denial in the same words, and
-it made its version through Borges's architecture on purpose so that this vocabulary stayed unspent —
-and **co-constitution in mechanical language**, which III.3 does not touch at all.
-⚠ **AND ONE INHERITED DEBT: the two-ways-of-paying frame is now on the page.** III.3 names *baked or
-generated* and refuses both as accounts of why the states exist. This chapter uses the second word
-affirmatively, and must say in one sentence why that is not a reversal: **a render is not a
-production.** If it cannot, ruling 20 revives.
-⚠⚠ **ON NOTICE, Day 187 → ruling 20.** This chapter and II.2 were scaffolded as the same chapter.
-II.2 has now been drafted as the **definitional** half and **keeps the seed's two-sided formula**
-(*not solely yours, not solely given*) — Book II defines each term once, and that is the definition.
-III.4 keeps the thesis and the operative work. **The test, applied when Book III is drafted: if what
-is left here is the thesis sentence plus a restatement of II.2, this chapter is absorbed into III.3
-and Book III runs seven chapters.** Do not discover that mid-draft and keep going.
+✅ **DRAFTED Day 187 · 3,282 words · `book/III-04-rendered-at-the-point-of-contact.md`.** All three
+beats land plus the thesis and the inherited debt. **Primary text only, six block quotations from
+two works, every one verified verbatim against TWO independent digitisations** — Gibson against the
+Brown University chapter-8 scan and the Psychology Press *Classic Edition* full book; Varela,
+Thompson and Rosch against the archive.org 1993 MIT printing and the Monoskop 1991 PDF, where the
+second source corrected an OCR corruption in the first (`emctive` → `enactive`). The table is in
+`DRAFT-LOG`. ★ **And one cross-publisher check stronger than a second copy, on the III.3 pattern:
+Gibson's invariance sentence is attested by VTR quoting it in 1991, independently of both Gibson
+digitisations.**
+✅ **RULING 20 IS DISCHARGED ON EVIDENCE — ruling 71.** Ruling 69 declared the survival in advance
+and was right; what actually saved the chapter is the **reading brief**, the detector ruling 20 asked
+for, run before drafting. It returned **II.7:225 at cos 0.644** — *"It is generated at the point of
+contact — not stored, not fetched. Riding over the hill is not the uncovering of a valley. It is the
+closing of one."* **III.4's title claim and first beat, already on the page in Book II** as an
+`In the game:` tag. Not a collision; II.7 *applies* the mechanic and does not state it. But it is
+why the *not stored / not fetched* pair arrives here as established vocabulary being cashed rather
+than as news — ⚠ **and why the DRAW-DISTANCE image is spent and was deliberately not used.** It is
+the most natural image for rendered-at-contact and it belongs to II.7. Do not reach for it.
+⚠ **RULING 70 — the scaffold's own beat word was one of our abolished nouns.** *Streamed* survives
+**only in the denial**; `stream` as a noun is I.3's (*There is no stream*), and `claim_sweep.py`
+`TERM/stream` now watches everything after Book I, probed and proved to fire.
+✅ **WHAT DISCHARGED WHAT.** The *from-inside identity* is stated as an **identity and not a
+comparison**, with the cost named (a comparison owes the reader a limit; an identity does not,
+because it is not claiming two things). *A render is not a production* is answered through
+**entailment without tense** — nobody thinks six sevens are forty-two *because* somebody multiplied
+them; the pencil and the ten seconds are yours, and the fact was not waiting on them. **II.2 took the
+COST off `generated`; this takes the CLOCK off it**, and those are two different subtractions from
+the same borrowed word.
+✅ **NAMED, both routed here by `03` §3.5 and both at 0/0 before today:** ★ **J. J. Gibson**,
+*The Ecological Approach to Visual Perception* (1979, the year he died) — affordances *"neither an
+objective property nor a subjective property,"* *"both physical and psychical, yet neither."* The
+best sentence anyone outside this frame has written for C10. **The cut is in his own text and it is
+NOT that he contradicts himself** (ruling 72 — the draft said that and it was wrong): the two
+passages are compatible, and *the compatibility is the price*. He relativised the **offer** and kept
+the **world**, which is C10's stated trap in its most respectable form. ★ **Enactivism — Varela,
+Thompson and Rosch**, *The Embodied Mind* (1991), who make that exact cut on that exact sentence and
+whose *"not the representation of a pregiven world by a pregiven mind but… the enactment of a world
+**and a mind**"* is co-constitution with an experimental programme under it. **Our cut on them is two
+words in their own definition — *a viable history* — which reinstates duration, and a floor at
+biology.**
+★ **The pair's shape, which is the section's whole value: Gibson kept the world prior, the
+enactivists fixed that and kept the process prior. Neither is prior.**
+⚠ **BOUNDARIES HELD, and two of them are RESERVATIONS for later chapters — do not spend them here
+and do not forget they exist.** **III.5** gets the floor: one sentence forward only, *contact is not
+a privilege of things with metabolisms*. **III.6** is promised the enactive *history of structural
+coupling* whole, as the account of how a seed comes to be the seed it is — that credit is owed there
+and was deliberately not taken here. ★★ **III.7 RESERVATION: VTR's *"paths that exist only as they
+are laid down in walking"* (and Machado behind it, rule 5b) is UNSPENT and is III.7's**, alongside
+Suits and Carse. It is the single most quotable line in the book and it was left on the table on
+purpose, because the walking argument is not this chapter's.
+⚠⚠ **ON NOTICE, Day 187 → ruling 20 — HISTORY, KEPT FOR THE RECORD.** This chapter and II.2 were
+scaffolded as the same chapter. II.2 was drafted as the **definitional** half and **keeps the seed's
+two-sided formula** (*not solely yours, not solely given*) — Book II defines each term once. III.4
+kept the thesis and the operative work, and the test — *if what is left here is the thesis sentence
+plus a restatement of II.2, absorb it into III.3 and run Book III at seven chapters* — was applied
+and passed. **Book III runs eight.**
 **Thesis:** procedural generation is what focusing looks like from inside. ← **II.2 does not say
-this.** It licenses the term and stops; the from-inside identity is this chapter's, and it is the
-whole of what this chapter is still for.
+this.** It licenses the term at II.2:70 and stops.
 **Beats:** not stored, not fetched, not streamed from anywhere · the world is drawn where a perspective
 meets the Ground · **co-constitution stated as the neutral-monist claim in mechanical language**, which
-is the whole reason the metaphor was chosen.
+is the whole reason the metaphor was chosen. ⚠ **THE SCHOOL IS NOT NAMED IN THE PROSE, and that is a
+decision, not an omission.** `03` routes neutral monism's naming — Russell, and Nishida upstream — to
+**II.1 and II.8**. Using the phrase here without the credit would be rule 5b's defect (the word
+without the doctrine) in the chapter that most needs the doctrine. The claim is made in mechanics and
+the naming stays where `03` put it.
 
 ### III.5 — THERE ARE NO NPCs
+⭐ **III.4 HANDS THIS CHAPTER A NAMED OPPONENT IT DID NOT HAVE — Day 187.** The enactivists put
+the world-bringing inside **biology**: it is done by autonomous, self-maintaining, living systems,
+and everything without a metabolism is on the far side of that line. III.4 states the boundary in one
+sentence (*contact is not a privilege of things with metabolisms*) and leaves the argument here. **So
+the no-NPC line now has a serious, contemporary, scientifically-credentialled opponent instead of
+only the reader's intuition** — and it is an opponent this book agrees with about nearly everything
+else, which is the strongest kind. Cut it the way III.2 cut Watts: as a friend.
 **Thesis:** the single line that reorganises ethics.
 **Beats:** every entity a player at its own grade · the MMO split ruling, made openly — right about the
 population, wrong about the infrastructure, because an MMO has a server and we do not · what it costs
@@ -825,6 +870,12 @@ as exotic. ★ **Giordano Bruno — 0** (already flagged in `03`): infinite, cen
 burned for it. **Quarry the one existing NPC sentence** (see the Book III header).
 
 ### III.6 — THE FILTER STACK
+⚠ **A CREDIT IS OWED HERE AND WAS DELIBERATELY NOT TAKEN IN III.4 — Day 187.** Varela, Thompson and
+Rosch's **history of structural coupling** — an organism and its milieu shaping each other over
+evolutionary and biographical time — is the best available account of **how a seed comes to be the
+seed it is**, which is this chapter's subject and not III.4's. III.4 cuts them for putting the RENDER
+at the end of that history and explicitly promises them whole here. **If this chapter is drafted
+without them, III.4's promise goes false and the cut looks like a dismissal.**
 **Thesis:** a reality tunnel, in mechanics.
 **Beats:** persistent render filters, installed and inherited · two players in one world seeing two
 worlds, both correct · why incompatible renders do not make the Ground negotiable · **the edit exists**,
@@ -836,6 +887,11 @@ and Book VIII is the manual.
 answer that does not cheat: *the walking is one of the things that exists, and it is the one you are* ·
 we are not the prisoners of the whole; we are its inhabitants and co-constituents · what this does and
 does not buy — an honest statement of what is left of freedom, made now rather than deferred to VII.
+★★ **RESERVED FOR THIS CHAPTER BY III.4, Day 187 — do not let it get spent earlier.** Varela,
+Thompson and Rosch's *"paths that exist only as they are laid down in walking"* (*The Embodied Mind*,
+1991), and **Antonio Machado** one link upstream (rule 5b) — *caminante, no hay camino, se hace
+camino al andar*. It is the most quotable line in that book and III.4 left it on the table on
+purpose: **the walking argument is this chapter's and the image belongs with the argument.**
 **Named — added Day 186:** ★ **Bernard Suits — 0**, *The Grasshopper* (1978). Game-playing is *"the
 voluntary attempt to overcome unnecessary obstacles"*, and the **lusory attitude** is accepting the
 constraint **because the activity cannot exist without it**. That is the focusing, defined by an
