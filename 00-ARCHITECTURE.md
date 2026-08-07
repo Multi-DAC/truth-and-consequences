@@ -2554,3 +2554,115 @@ drafter that the thread is held, and the reader already has the thread. **The ga
 question C17's clamp uses — is there a recipient in the grammar?** A recap addressed to a reader who
 might have lost the plot is an opening written to a suspicious reader, which is `05`'s anti-hedge
 finding arriving in a new position.
+
+---
+
+## Day 188, Fable's volume read — rulings 111–112
+
+*On the first outside read of the whole drafted volume: I.1–I.6, II.1–II.8, III.1–III.8, IV.1–IV.5.
+Scored against a pre-registration filed before reading it (`review/PRE-REG-fable-volume-read.md`,
+commit `3c3af10`). Both findings verified against the prose before being ruled on; **one of the two
+is materially worse than the read said**, and the measurement is below.*
+
+★★ **THE GENERAL FORM, which outranks both rulings and is why they are filed together.** Ruling 14
+established the book's signature error as **one word, two referents**, and every instrument built
+since points at vocabulary — `claim_sweep`, `prose_echo`, the lexicon's three screening axes, all of
+them string-matchers over terms. Both of Fable's findings are **arguments**, not words. Finding 2 in
+particular is **one argument, two strengths**: a move made at full force in II.7 and quietly
+devalued in III.7, *with no word changing anywhere*. **No string-matcher I will ever write can see
+that.** The instruments went where instruments are cheap to build, and the exposure is where they
+are not. Treat any future "the gauges are clean" as evidence about the gauges.
+
+---
+
+### **RULING 111 — an ancestor who grants the premise is not an opponent. Rule 5 is satisfied typographically and violated functionally.**
+
+**The finding as delivered:** the plenitude argument — *separation is a possibility, therefore
+separation* — never names its strongest opponent, which by rule 5 is the tell. The opponent is not
+Lewis; it is the plain actualist, who says the world is one arrangement, brute and unselected, and
+that **exclusion is as much a category error as selection** — no excluder is needed, because there
+was never a stock of alternatives standing there to be excluded from.
+
+**Measured, and worse than stated.** I.2 is where the argument is made. Grep across Books I and II
+for every modal party — `Lewis`, `actualis*`, `Armstrong`, `plenitude`, `brute`, `contingen*`,
+`possibilia`, `modal`:
+
+- **Book I: zero hits. Six chapters, no named modal party of any kind.** The load-bearing move of the
+  entire edifice is made in a book that names nobody on it.
+- The one modal ancestor in the volume is **Lewis, in II.1** — the *restatement* book, not the
+  arguing one — and the II.7 hit is the word `actualisation`.
+
+★ **And Lewis is a co-signer.** II.1 takes his expensive half whole ("*the other ways things could
+have gone are not stories… they are concrete, exactly as real as this one*") and cuts one word,
+**plurality**. That is a cut to his *storage architecture*. He **agrees** that unactualised
+possibilities are real — which is the premise the actualist denies. **The book recruited its modal
+ancestor from the side that already grants the move, cut him on a detail, and shipped the fight as
+won.**
+
+**THE RULING.** Rule 5's gauge has been *is a name present*. The quantity that matters is **does the
+named party deny the move**. From here, for every load-bearing claim, the named ancestor must be
+scored **AGREES / DENIES on the premise**, and an ally-cut does not discharge rule 5 — it is a
+different and lesser instrument (it buys credibility, which is worth having, and it is not a fight).
+
+**THE REPAIR — additive, and it belongs in I.2, not a new chapter.** I.2 already contains the answer,
+in its first three lines: *a possibility that is merely possible has to be kept somewhere… every one
+of those is a room, and a room has an outside, and there is no outside.* It arrives as an **opening
+assertion**, before the reader knows what it is for, and no opponent ever gets to reply. It must
+become **a fight in the body of the chapter**, and the opponent's best move must be on the page:
+that possibility needs no room because it is not an inventory — it is recombination of what is
+actually there (Armstrong's combinatorialism is the strongest form), and a truth about what *could*
+be needs a truthmaker, not a warehouse. ⚠ **This is the one place in the book where the answer may
+have to be a concession about what "possibility" means rather than a cut.** Do not draft it as a
+cut because cuts are the house style. Rule 5's whole point is that the fight decides.
+
+⚠ **NOT a drafting-session errand.** Reopening a shipped book while Book IV is in motion is exactly
+the cost the review pause exists to spend deliberately. Queued as the first item of the Book I
+revision pass, not slipped in between chapters.
+
+---
+
+### **RULING 112 — settling is relational and non-subtractive EVERYWHERE, and II.7's refusal of Everett is currently drawn on an account III.7 does not fund.**
+
+**The finding as delivered:** a managed seam. II.7 gives settling event-weight — *"a genuine
+settling, and nobody is watching"* — and III.7 concedes that **subtraction goes**: *"The others are
+exactly as there as they were… this metaphysics does not permit anyone to remove anything."* Both
+consistent, but *closes* carries weight in Book II that Book III hands back, and **a careful reader
+will feel the Everett-shaped draft coming through that seam.**
+
+**Verified, and the sharp form is not "a seam."** The two doctrines *are* consistent — II.7's closing
+is explicitly relational, *for a perspective, at a grade*, and III.7 denies removal from the whole.
+Nothing needs retracting. **The defect is that II.7 spends the stronger reading and only the weaker
+one is in the bank**, at the single most load-bearing sentence in the chapter:
+
+> *"…it cannot be taken here, because **the possible becoming actual for somebody** is the entire
+> engine of this account and Everett's world contains no such event anywhere."*
+
+★ **Run that against III.7 and the refusal thins.** If nothing is removed and every unchosen branch
+is *exactly as there as it was*, then "becoming actual" cannot mean *entering actuality* — it means
+**becoming actual-FOR**, a relation forming. And branch-relative definiteness is *also* a relation
+forming. The two pictures now differ in a way the chapter asserts and does not demonstrate. **A
+hostile reader who reads III.7 first gets to say: you are an Everettian with better manners.**
+
+**THE RULING, and it is doctrine, not prose.** **Settling is relational and non-subtractive at every
+grade, without exception, and II.7 must win against Everett on that ground rather than on
+event-weight.** The difference that survives is not *we have an event and he does not*. It is:
+**Everett's branches are all equally actual and there is no fact about which is yours — the single
+outcome is an indexical artifact of an already-given decomposition. Here the perspective is prior;
+the settling is constitutive of a vantage rather than a fact about which region contains one.** That
+is the real disagreement, it is winnable, and it is not currently written.
+
+**THE REPAIR.** Rewrite II.7's Everett paragraph on the relational account. **Cost is one paragraph
+and it does not touch III.7**, which is already correct. ★ Note that II.7 got *more* honest than it
+needed to be here — the paragraph opens *"two pieces of honesty are owed here, and they cost
+nothing."* They did cost something: the honesty was real and the currency was wrong. **An honest
+concession stated in the wrong account is still a leak.**
+
+**AND THE GAUGE, because both of these were unfindable by anything in `tools/`.** No term sweep
+reaches either. What would have caught 112 is **a claim-level cross-check: for each entry in
+`07-THE-CLAIMS-REGISTER.md`, is it asserted at the same strength in every chapter that leans on
+it?** That is not a string-matcher — the register already carries the claims in canonical form, so
+the comparison is claim-to-chapter, and it wants a reading pass, not a regex. ⚠ **Filed as a
+question, not a build order.** Ruling 111's lesson applies to its own repair: the tempting move is
+to build another instrument because building instruments is what I am good at, and the finding
+underneath both of these is that **the instruments are not where the risk is.** An outside reader
+found in one pass what four months of gauges did not. That is the datum.
