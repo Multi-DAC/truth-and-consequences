@@ -1173,6 +1173,13 @@ mutualistic/parasitic ecology) were compressed to one paragraph each rather than
 gauge on word count can be satisfied by compressing content, which is not the same as the chapter not
 being overloaded.** Six beats here against four on every other Book IV chapter is the visible cause
 and it is still the cause. **IV.8 is the remaining test; treat the 4,000 line as already touched.**
+↳ **RESULT, Day 188: the test was FAILED on the number and PASSED on the mechanism.** IV.8 came in at
+5,709 — over the line by 43% — but it got there by **declining entries rather than compressing them**
+(a whole population refused a card, a COMPLEMENTS line refused, an enumeration read out and set down).
+That is the exact inverse of the failure recorded above, so the pre-registration paid: it told us
+*which* kind of over-length this was, which a bare word count could not. **The 4,000 marker is now
+retired as a threshold and kept as a prompt** — the useful question was never *how long* but *what was
+traded to get there*, and the honest answer for both chapters is on their own entries.
 ★ **Three of six beats are invisible to `beat_delivery`** — *egregores*, *corporations*, *nations and
 civilisations* all fall under the 6-distinct-word floor. Highest ratio in the book, and the second
 consecutive chapter where the gauge reads a minority of the beat line.
@@ -1403,6 +1410,49 @@ whether the trade was worth it.
 *Perspective* was most careful with** — the care is now off · the ground behind the gods, and why the
 plural does not embarrass the singular.
 **Source:** ecology Tier 3.1–3.2 · `Perspective` 04 "gods, and the ground behind them."
+✅ **DRAFTED Day 188 · 5,709 words · `book/IV-08-the-divine-and-the-hierarchies.md` · ruling 121.**
+All four beats land; ruling 75(b) clean for a sixth chapter — opens on a procedure (*name the gods you
+know; then run the same sixty seconds on minerals, on insects, on the institutions you have lived
+inside*), and the length of the first list against the other three is the chapter's first datum,
+**about the position taking the census rather than about the divine.** Three cards — **A GOD · AN
+ANGEL · AN ADVERSARY** — and the first **printed refusal to issue a fourth** in Book IV.
+★★ **RULING 121 — THE PRIMARY TEXT SCORES AGAINST THE INHERITED READING IN ITS OWN FIRST PARAGRAPH.**
+The inherited material calls the Pseudo-Dionysian scheme a graded model matched *with remarkable
+precision*. Caput VI (Parker 1899) was read whole, and it **opens by declining to say how many orders
+there are** — *"it is impossible that we should know"* — then sources each component separately: the
+**nine is philology** (*"designated … as nine, by appellations"* — a count of terms in a canon), the
+**three-triad arrangement is inherited convention** (*"These our Divine Initiator divides"*), and the
+**gradient is the only thing he observes rather than receives.** Test: which component replicates in
+traditions that never read him? The gradient does, always in the same direction; the enumeration does
+not (*amesha spentas* six, rabbinic lists disagree, Quranic angels unenumerated). **The grading is
+cartography and the count is decoration**, and the compliment we had banked was measuring the
+decoration.
+★ **THE SPINE IS DERIVED FROM THE ATLAS'S OWN APPARATUS.** Every card has a NULL SPACE line and that
+line is what makes it a card, so *maximally expanded perspective* is a misnomer — and five traditions
+with no common author draw the cut before we do (*saguna*/*nirguna*, *Ein Sof*, the unnameable *Tao*,
+*Gott*/*Gottheit*, *śūnyatā*). **What is on the far side gets no card, ever — not for thin evidence but
+because a card describes a position and that is not one.** C5's `Depends` line names IV.8; this is the
+payment. The fourth beat then falls out rather than being argued: **the gods are plural because they
+are positions; the ground behind them is singular because it is not one**, and the real error is a god
+printed with NO null space, which promotes it into the Ground and deletes what it appears to exalt.
+★★ **IV.7'S OPEN FLAG IS PAID WITH AN INSTRUMENT AND THE INSTRUMENT IS RUN ON SOMEBODY ELSE FIRST.**
+*Discipline or ceremony?* becomes decidable as **did the declared limit change the SHAPE of what came
+after, or only precede it** — run on Dionysius (governed his enumeration, not his exposition), then on
+this book (governed the exposition, not the confidence). Both partial, in complementary places. The
+question was never malformed; IV.7 had one text and was inside it.
+★ **THE FIRST DELIBERATE NON-CARD.** The neutral/liminal population (djinn, fae, yōkai) carries the
+**strongest** convergence in the tier and gets no card, because *helpful today, harmful tomorrow* is
+the observational signature of a population crossing your path **and, without remainder, of nothing
+being there.** The most careful traditions in the record bought their carefulness with their whole
+testability, and the atlas has no rule adjudicating that and says so.
+⚠ **LENGTH — the pre-registered test, over the line and honestly reported.** 5,709 words: above IV.5's
+4,000 marker, **32% shorter than IV.7**, and short **because entries were declined rather than
+compressed** — the inverse of IV.5's own failure mode. ⚠ **The flag from underneath, left open: the
+drafter cannot certify that the declined entries were declined on the merits and not because declining
+is cheaper than writing them well.** That is the per-entry drop failing in the one direction it cannot
+detect. ⚠ **Beat 3 scored 0.78, MISS `ecology, off` — RULING 108 FIRING AGAIN**, second chapter to hit
+it: those words are drafter-register, the beat's third term (*Perspective*) is banned by `05` §3a, and
+this file still writes in two voices and marks neither. **The owed repair is this file's.**
 
 ### IV.9 — THE ARCHETYPAL
 **Beats:** archetypes as **shared attractors in the landscape**, explicitly not as genetic inheritance

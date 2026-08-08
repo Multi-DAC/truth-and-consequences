@@ -219,6 +219,45 @@ EXEMPT = [
      "by taking delivery of it in the same words, and names the pickup in its first line ('The last "
      "chapter ended by saying that this one answers'). Chapter-boundary refrains are signposts, not "
      "repetition — the reader has to be able to tell that the promise being kept is the one made."),
+    ("IV.1", "IV.8", "attribute an inside rather than withhold",
+     "The leading window of the under-attribution quotation, third and last time it is cited. Same "
+     "adjudication as the IV.1~IV.7 pair above and listed on its own line for the same reason. IV.8 "
+     "is where the principle stops pointing anywhere the reader is comfortable — IV.7 declared it a "
+     "live interest, IV.8 shows it pointing at the reader's own god and at gods the reader would be "
+     "embarrassed to be seen taking seriously, simultaneously. The declared wording is re-read "
+     "unchanged because rewriting a standard on the page where it is applied to the drafter is the "
+     "manoeuvre the disclosure exists to prevent."),
+    ("IV.1", "IV.8", "inside rather than withhold one because",
+     "Second window of the same quotation, same adjudication, own line."),
+    ("IV.7", "IV.8", "attribute an inside rather than withhold",
+     "The same quotation caught on the adjacent pair, because IV.7 and IV.8 both cite IV.1's "
+     "wording. It is not IV.8 copying IV.7; both are copying the source, which is the point."),
+    ("IV.7", "IV.8", "inside rather than withhold one because",
+     "Second window of the same quotation on the adjacent pair, same adjudication, own line."),
+    ("IV.3", "IV.8", "about the position taking the census",
+     "★ ADJUDICATED AND KEPT, Day 188. This is the atlas's standing instrument for the move that "
+     "turns a fact about the RECORD into a fact about the OBSERVER, and the two uses take different "
+     "objects: IV.3 turns it on its own compression (one chapter for every living thing that is not "
+     "us), IV.8 on the thickness of the inherited material at the divine tier. Renaming the "
+     "instrument on its second outing would hide that it is the same instrument, which is the only "
+     "thing that makes the second use auditable against the first. THE SISTER HIT WAS NOT EXEMPTED: "
+     "IV.8's 'the first entry in the census where' was IV.3's formula reached for a second time with "
+     "nothing earned by the return, and it was REWORDED. One of the two survived scrutiny; recording "
+     "which, and why the other did not, is what keeps this line from reading as a blanket pass."),
+    ("IV.7", "IV.8", "whether declaring a weakness and proceeding at full strength is discipline or ceremony",
+     "★ THE HANDOFF, and it is a question being answered rather than a claim being repeated — four "
+     "overlapping windows of one sentence, exempted as one adjudication because they are one "
+     "sentence. IV.7 closed by asking whether declaring a weakness and then proceeding at full "
+     "strength is discipline or ceremony, and wrote it down explicitly because a party cannot score "
+     "that about itself. IV.8's final section answers it, and the answer only checks out if the "
+     "question is reproduced in the words it was asked in: the instrument is 'did the declared limit "
+     "change the SHAPE of what came after, or only precede it', it is run on Pseudo-Dionysius first "
+     "BECAUSE HE IS NOT US, and only then on this book — where it returns a partial verdict in a "
+     "different place than his. Paraphrasing the question would let the answer be graded against a "
+     "softer version of it. ⚠ AND THE PAIR WAS CUT DOWN BEFORE IT WAS EXEMPTED: the first draft also "
+     "re-ran IV.7's framing ('declared the tier's epistemic weakness at the top in the strongest "
+     "terms available'), which is not the question and had no business being verbatim. Eleven grams "
+     "on this pair became six. What survives is the question and nothing around it."),
 ]
 
 
