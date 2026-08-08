@@ -119,6 +119,19 @@ SCAFFOLD = ROOT / "06-THE-SCAFFOLD.md"
 DRAFT_LOG = BOOK / "DRAFT-LOG.md"
 HANDOFF = Path("C:/Users/Wasch/carapace/Architecture/handoff/handoff.json")
 
+# ★ ADDED DAY 189 (R-22), AND THE OMISSION IS THE POINT.
+# This tool was built to end carrier rot and it excluded the STALEST CARRIER IN
+# THE REPO. `00`'s STATUS block sat at "Day 185 — planning phase, no prose
+# drafting until the map is done" for four days and thirty-two chapters, in the
+# document that presents itself as what the project is doing. Nothing here was
+# looking at it, so nothing could fail on it.
+# ⚠ And note WHICH failure this closes and which it does not. A carrier slot
+# catches a stale NUMBER. What was actually dangerous in `00` was a stale
+# INSTRUCTION — and no gauge in this repo reads instructions. Adding `00` here
+# means the next number rots loudly; it does NOT mean the next standing order
+# will. Do not read a green run as "`00` is current."
+ARCHITECTURE = ROOT / "00-ARCHITECTURE.md"
+
 BOOKS = ["I", "II", "III", "IV", "V", "VI", "VII", "VIII"]
 CHAPTER_FILE = re.compile(r"^(I|II|III|IV|V|VI|VII|VIII)-(\d{2})-.+\.md$")
 SCAFFOLD_HEAD = re.compile(r"^###\s+(I|II|III|IV|V|VI|VII|VIII)\.(\d+)\s*[—-]")
@@ -285,7 +298,11 @@ def main():
             f"      unmarked but written: {', '.join(lag) if lag else '(none)'}"
         )
 
-    for path, label in ((HANDOFF, "handoff.json"), (DRAFT_LOG, "DRAFT-LOG.md")):
+    for path, label in (
+        (HANDOFF, "handoff.json"),
+        (DRAFT_LOG, "DRAFT-LOG.md"),
+        (ARCHITECTURE, "00-ARCHITECTURE.md"),  # R-22, Day 189
+    ):
         claim, err = carrier_claim(path, label, total_plan)
         # A missing slot is a warning AND the scraped number still gets checked —
         # v1 returned early on any `err` and so stopped auditing the moment it had

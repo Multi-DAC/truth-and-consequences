@@ -172,16 +172,22 @@ no page-count ceiling — ruling 4 below.*
 ### PART ONE — **TRUTH** (what is)
 
 **Book I — THE STILL**
-*The creation myth. Mythic register throughout. No argument, no citation, no
-apparatus. Ainulindalë analogue.*
+*Apophatic wisdom literature — Eckhart's sermons and the* Cloud*, not a creation
+myth. ⚠ The* "Ainulindalë analogue" *label was **struck by ruling 16**, and this
+line is where it outlived the striking. Book I **argues constantly** and never
+cites: argument runs premise-then-conclusion and every* then *smuggles in time —
+but a narrated creation re-imports time wholesale. Bar both sequence-forms and
+the* via negativa *is the only register left standing.*
 The Fullness that does not move. Awareness as what it *is*, not what it does.
 Reactivity as the whole doctrine, stated in one line so no one can say it was
 hidden. The focusing. The birth of before-and-after. The seam you are standing
 on.
 
 **Book II — THE NAMING**
-*Valaquenta analogue: the dramatis personae, each named plainly and defined
-once.*
+*The dramatis personae, each named plainly and defined once. ⚠ The* "Valaquenta
+analogue" *label was **struck by ruling 19** — a structural conceit left standing
+on one leg after ruling 16 killed its sibling; this line is the last site
+carrying it.*
 The Ground · The Focusing · The Perspective · The Grade · The Tunnel · The
 Coherence · The Collapse · The Return. Every later chapter draws from this
 vocabulary and adds nothing to it.
@@ -216,8 +222,19 @@ Why the analogy is exact rather than cute:
 ### PART TWO — **CONSEQUENCES** (what follows, taken all the way)
 
 **Book IV — THE ATLAS**
-The roster: what beings there are, once reactivity is awareness. Mineral,
-vegetable, animal, human, collective, institutional, computational, aggregate.
+The roster: what beings there are, once reactivity is awareness. **Ten chapters,
+as drafted:** the census and its method · mineral and elemental · the living
+non-human · human · the collectively emergent · the computational · **the
+non-physical · the divine and the hierarchies · the archetypal** · and what the
+census cannot see.
+⚠ **This line named EIGHT kinds against ten drafted chapters until Day 189, and
+the omission was not random.** The struck roster ran *mineral, vegetable, animal,
+human, collective, institutional, computational, aggregate* — it split what the
+draft merged (vegetable/animal → the living non-human; collective/institutional/
+aggregate → the collectively emergent) and **dropped the last four entirely.**
+Those four are the non-physical, the divine, the archetypal, and the census's own
+limit — ★ **precisely the material the register rule exists for.** The book's
+front-page description of its longest book listed the safe half. *(R-22.)*
 What it is like to be each, as far as the framework permits — and it permits
 much further than we have previously gone.
 → *Cashes ~167,900 existing words* deliberately left behind by *Perspective*
@@ -1152,12 +1169,28 @@ the documents rather than to write the next chapter. The nine are entered below 
 with the full argument staying where it was made — a summary here and the reasoning there, because
 the same text in two files is the next version of this failure.
 
+⛔⛔ **AND IT HAPPENED AGAIN, TWICE THE SIZE, AND THIS POINTER IS THE FIX — NOT A BACK-FILL.**
+**THIS INDEX IS NOT COMPLETE AND MUST NOT BE READ AS THE RULING LIST.** Measured Day 189:
+it holds **1–75** in short form and **111–117** in long form. **Missing: 76–110 and 118–152 —
+seventy rulings, not a handful.** ★ **Every ruling ≥76 lives in `book/DRAFT-LOG.md`**, in full,
+searchable as `RULING <n>`; `06-THE-SCAFFOLD.md` carries the ones that govern a chapter, at that
+chapter; `book/REVISION-QUEUE.md` carries the ones that owe work, as `R-` rows.
+⚠ **The back-fill is refused on purpose.** Copying seventy rulings here would put the same text in
+two files, which the paragraph directly above already names as *the next version of this failure* —
+and the copy would begin rotting the moment ruling 153 is made. **A pointer cannot go stale by one
+per day; a copy can.** What this index owes is not completeness, it is **an honest statement of its
+own coverage**, which it did not have and now does.
+⚠ **R-22's own row estimated the gap at *"76–110, 118–142, ~60 rulings."* Measured on the day of
+payment: 118–**152**, seventy.** The row was written on Day 188 and ten rulings were filed after it.
+★ **The row that files a count starts rotting the same night**, which is the whole argument for the
+pointer in one line. *(R-22, paid Day 189.)*
+
 **28. EVERY UNDRAFTED BEAT LINE IS A QUARRIED SENTENCE CARRYING QUARRIED NOUNS.** II.6's beat defined
 `coherence` with a noun `I.3` denies exists. A beat is not a neutral label for work to come; it was
 written on some earlier day under some earlier doctrine, and it smuggles that doctrine forward.
 **Read the next chapter's beats against `05` BEFORE drafting.** *(DRAFT-LOG §Ruling 28.)*
 
-**29. TWO SECTIONS OF THE SOURCE VOLUME HAVE NO DESTINATION IN 68 CHAPTERS.** `beauty` = 0 and the
+**29. TWO SECTIONS OF THE SOURCE VOLUME HAVE NO DESTINATION IN 67 CHAPTERS.** `beauty` = 0 and the
 structural-vs-outward `two axes` = 0 across `00`–`07`. Both are real sections of the source with
 nowhere to land. ★ **The hole under it is larger than the finding: NOTHING READS THE SOURCE AGAINST
 THE SCAFFOLD.** That instrument still does not exist and has now caught three things by hand. Owed
@@ -1246,10 +1279,37 @@ looked exactly like success. *(DRAFT-LOG §Ruling 38.)*
 
 ---
 
-## STATUS — Day 185
+## STATUS — Day 189, 2026-08-08
 
-Planning phase, by Clayton's instruction: *"We will map it out and plan a lot
-before we actually begin writing."* No prose drafting until the map is done.
+**DRAFTING. Part One is complete and the Atlas is closed.**
+
+    CHAPTERS-DRAFTED: 32/67
+
+⚠ **That slot is a DECLARED number and it WILL rot — it is here so
+`tools/where_the_book_is.py` can fail on it, not so anyone can read it.**
+Run the gauge; do not quote this line. *(R-22 added `00` to the carrier list on
+Day 189: the tool built to end carrier rot had excluded the stalest carrier in
+the repo, which is the defect it exists to catch, sitting inside its own blind
+spot.)*
+
+Books I (6/6), II (8/8), III (8/8), IV (10/10) drafted. V (0/11), VI (0/8),
+VII (0/9), VIII (0/7) unstarted. **Book V is next.**
+
+⛔ **THE STRING THAT WAS HERE UNTIL DAY 189, AND WHY ITS REMOVAL IS THE POINT.**
+This block read: *"Planning phase, by Clayton's instruction: 'We will map it out
+and plan a lot before we actually begin writing.'*
+*No prose drafting until the map is done."* ⚠ The licensed phrase is kept whole on
+one line **deliberately** — `claim_sweep`'s `TERM/map` licence is line-scoped, so
+wrapping this quotation between *the map* and *is done* made the sweep read our own
+struck order as a live breach. Caught by the sweep one minute after the paragraph
+was written, which is the arrangement working. That was true on Day 185. It was **false for four days and thirty-two
+chapters**, and it is the one form of rot that does real damage — ★ **a stale
+INSTRUCTION, not a stale number.** A stale number gets checked against a gauge; a
+stale instruction gets *obeyed*. A fresh context opening the architecture file to
+orient itself would have found a standing order to stop writing, in the document
+whose whole job is to say what the book is doing. **Numbers rot loudly. Orders
+rot silently, and they rot into obedience.** *(R-22 / ruling 144. Drift #287's
+shape, in the file that defines the project.)*
 
 - `00-ARCHITECTURE.md` — this file. Macro-structure, register rule, style contract.
 - `01-THE-GROUND.md` — Book I's logical spine. The Promethean chain, retrieved
@@ -1306,7 +1366,7 @@ before we actually begin writing."* No prose drafting until the map is done.
   of our last book, and the one that lands the reader inside the failed prior we are
   refuting.
 
-- `06-THE-SCAFFOLD.md` — **68 chapters, 8 books, 2 parts, front matter and coda.**
+- `06-THE-SCAFFOLD.md` — **67 chapters, 8 books, 2 parts, front matter and coda.**
   Every chapter carries a thesis, its ordered beats, its named ancestor-or-opponent
   (rule 5), and its source — quarried with the file, or NEW. Ruling 4 made the
   chapter the only unit a reader of an unbounded work navigates by; this is that unit,
@@ -1410,7 +1470,7 @@ typographic · **comfort enters through sentence order, not through a bannable w
 consoled in five of six drafts). Original statement of the item below.*
 
 **Not one sentence of *Truth and Consequences* exists.** We have a register rule, a comprehension
-contract, a lexicon and 68 mapped chapters — and no prose. The risk is specific and already named in
+contract, a lexicon and 67 mapped chapters — and no prose. The risk is specific and already named in
 our own style contract: **unhedged assertion with no named opponent reads as bluster** (rule 5). We
 have never seen what *our* unhedged voice does at length, and the difference between conviction and
 bluster is not decidable in the abstract.
@@ -1460,7 +1520,7 @@ as a sentence.** Inline attribution, endnotes, a back-matter register (`03` is m
 or a hybrid — Part One inline-only, Part Two noted.
 
 It is not a formatting question. **An inline-citation sentence and an endnoted sentence are different
-sentences**, and 68 chapters written under one convention cannot be converted to the other without a
+sentences**, and 67 chapters written under one convention cannot be converted to the other without a
 rewrite. Decide before B, so the specimens are written in the real apparatus.
 
 ### ★ E. THE QUARRY COPY — ✅ **DISSOLVED Day 186 → ruling 8.** No prose is transcribed, so there is
@@ -1592,17 +1652,17 @@ six-item agenda. **★ B is now the whole of what remains before prose, and it i
    sentence; this has a shape, and a shape is what a paragraph is for.
 12. **★ NEW, Day 186 — the C6 × C7 collision has no home in the scaffold.** *Everything that reacts
    is aware* (C7, I.4) and *the Ground is not aware in that sense* (C6, I.6) are established two
-   chapters apart and **the pair is never addressed anywhere in 68 chapters.** It is the most obvious
+   chapters apart and **the pair is never addressed anywhere in 67 chapters.** It is the most obvious
    objection in the entire ontology. My call: **II.4**, where the Grade is defined and the reader has
    just been told everything that reacts is aware. It cannot wait for III.8, which load-tests the
    *metaphor*, not the ontology.
-13. **★ The `Touches:` pass over all 68 chapters.** ~~Mechanical, one sitting.~~ It is what turns
+13. **★ The `Touches:` pass over all 67 chapters.** ~~Mechanical, one sitting.~~ It is what turns
    `07` from a list into a gauge: a chapter that touches a claim absent from its list is drifting, or
-   the register is stale, and either way somebody looks. Currently **0/68**, and `claim_sweep.py`
+   the register is stale, and either way somebody looks. Currently **0/67**, and `claim_sweep.py`
    reports the number every run so it cannot quietly stay zero. ⚠ **RECLASSIFIED Day 186 → ruling 12:
-   DRAFTING-TIME WORK, not pre-prose.** Calling it "mechanical" was wrong — it is 68 judgements, and
+   DRAFTING-TIME WORK, not pre-prose.** Calling it "mechanical" was wrong — it is 67 judgements, and
    a judgement made about a chapter that does not exist yet is a guess. Each chapter closes its own
-   `Touches:` line **as it is drafted.** The 0/68 counter stays live so the debt is visible.
+   `Touches:` line **as it is drafted.** The 0/67 counter stays live so the debt is visible.
 14. **NEW, Day 186 — clone `Corpus-Perspectival` into a live tree.** Five minutes, no doctrine.
    Ruling 8 removed the *dependency* on the archived tree but not the *use*: it is the inspiration
    for Book IV, and inspiration you cannot open is inspiration you do not have. Present as of Day
@@ -2085,7 +2145,7 @@ thing this finding rules out is **its own author's proposed instrument.** Opus s
 because a register is what the last gap wanted. The reflex to answer a novel class with a gauge is
 the instance-shaped reflex named in the same paragraph. **The correct response to a novel class is
 another outside pass; a gauge is what you build once the class has recurred.**
-⚠ **AND THE WARNING IT ISSUES ABOUT RULING 42, which is the reason to log it now.** *"At 0/68 that
+⚠ **AND THE WARNING IT ISSUES ABOUT RULING 42, which is the reason to log it now.** *"At 0/67 that
 gauge ships half-blind by construction"* — the `Touches:` pass has been run on **zero** chapters, and
 `Touches:` is exactly what distinguishes **licensed restatement** from **unlicensed duplication**.
 Verbatim duplication is the easy half and the tool will catch it; the same claim in different words

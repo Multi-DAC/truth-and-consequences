@@ -6074,3 +6074,110 @@ have been written in twenty minutes from ruling 139's list would have been *defe
 and wrong in two.*
 
 **CHAPTERS-DRAFTED: 32/67** — unchanged; this entry pays a blocker and files three defects.
+
+---
+
+## Day 189, mid-morning — R-22 and R-26 item 2 paid. Ruling 153. The gauge ruling 126 named and nobody built.
+
+Two of the four cheap gates in front of V.1. Both were filed as tidying and neither stayed tidying.
+
+### R-22 — `00`'s maintenance sitting, and three of six items came back different from the row
+
+**The load-bearing one is not a number.** The STATUS block read *"Planning phase… No prose drafting
+until the map is done"* — **true on Day 185, false for four days and thirty-two chapters**, in the
+file that presents itself as what the project is doing. ★ **A stale number gets checked against a
+gauge; a stale instruction gets OBEYED.** A fresh context opening `00` to orient itself would have
+found a standing order to stop writing. *Numbers rot loudly. Orders rot into obedience.*
+
+**Three of the six items disagreed with the row that filed them** — the morning's method, holding a
+fourth time:
+
+- **The `68`-sites: the row said fourteen, there are ten.** Three of the other four QUOTE the old
+  `56 of 68` over-accusation and one is ruling 68's number. The three quotations were **left alone on
+  purpose** — ruling 126's convention, *a dated record records what was true when it was written.*
+- **The ruling-index gap: the row said `76–110, 118–142, ~60 rulings`. Measured: 76–110 and
+  118–152 — seventy.** The row was written Day 188 night and ten rulings were filed after it. ★ **The
+  row that files a count begins rotting the same night**, which is the argument for a pointer in one
+  line. **Pointer, not back-fill:** copying seventy rulings into `00` would put the same text in two
+  files, which the index's own existing entry already names as *the next version of this failure*.
+- **The `Touches:` counter said `0/68`. I wrote `2/67` from `grep -l Touches: book/*.md` — and the two
+  hits were the DRAFT-LOG and the REVISION-QUEUE *discussing the pass*.** No chapter carries one; the
+  number is **0/67**. Caught by my own verification thirty seconds later and recorded because the
+  shape is exact: **I let a glob stand in for a population.** `book/` is not the chapters.
+- **The Book IV macro roster named eight kinds against ten drafted chapters, and the omission had a
+  direction.** The struck line split what the draft merged and **dropped the last four entirely — the
+  non-physical, the divine, the archetypal, and the census's own limit**, ★ **precisely the material
+  the register rule exists for.** The front-page description of the book's longest book listed the
+  safe half. §7.3's sign again, in a summary rather than in prose.
+
+**And the half that holds: `00` is now a carrier in `where_the_book_is.py`.** The gauge built to end
+carrier rot **had excluded the stalest carrier in the repo** — its own defect, in its own blind spot.
+Declared slot added, **positive control run** (slot perturbed to 41 in a scratch copy; the tool
+reports 41), slot uniqueness asserted. ⚠ **The limit is printed in the source rather than assumed:
+this catches a stale NUMBER. Nothing here reads INSTRUCTIONS, so a green run does not mean `00` is
+current.** The thing that was actually dangerous in this file remains ungauged, and saying so is the
+only honest version of the fix.
+
+### RULING 153 — `tools/beat_ban_sweep.py`. Ruling 126 wrote down its own missing detector and nobody built it.
+
+Ruling 126, verbatim: *"⚠ No gauge screens beat lines against the ban list — `claim_sweep` does not
+read `06`'s beats as prose. Book IV checked by hand and clean apart from beat 1; **Books V–VIII
+unchecked**, left open rather than claimed closed."* **Correct content, correctly filed, nothing
+calling it** — the household's signature defect with the trigger missing rather than broken, pointing
+directly at the book about to be drafted.
+
+**Built by reuse, not reimplementation.** Beats come from `beat_sweep.beats()` (the parser fixed this
+morning), drafter-voice `«…»` is stripped first, and the text goes to `claim_sweep`'s own rule engine
+through scratch files named `V-02-beats.md` so the filename-keyed scopes resolve as they would for
+real prose. ⚠ **The cost of that trick prints on every run: no `claim_sweep` exemption can fire here.**
+The cheap alternative — a new scope over `06` — was refused by argument: `06` is 2,900 lines and most
+of them are rulings that discuss banned terms correctly. **The unit is the beat, not the file.**
+
+★★ **AND THE POSITIVE CONTROL FAILED ON ITS FIRST RUN, WHICH IS THE FINDING.** The control replants
+ruling 126's actual defect — *"mapped as far as an atlas can map its own blindness"* — and came back
+**MISSED**. ⚠ **`claim_sweep`'s `TERM/map` matches the NOUN** (`the map`, `complete map`); **ruling
+126's beat used the VERB.** The defect was found by hand, written up as a gauge finding, and **the
+gauge it cited could never have found it.** Invisible for a day, because *a rule that fires on a
+different case still reads like a working rule.*
+
+`TERM/map-self` added, and the blanket verb ban **refused by measurement, not by taste**:
+`\b(maps?|mapped|mapping)\b` hits **127 lines repo-wide**, nearly all legitimate. Scoped to the verb
+with our own instrument as apparent subject: **3 hits.** ⚠ **One of the three is a false positive, and
+it is DECLARED rather than engineered away** — IV.8:181, where the subject of *maps* is `a structure`
+and `this atlas` sits two clauses upstream. **Proximity cannot see grammar.** Exempted by name with
+that reason, per ruling 38: *an instrument that reports the limit of its own resolution is worth more
+than one that reports a clean run it has not earned.*
+⚠ **A tenth USE-class hit appeared and it was mine.** The new `00` paragraph quotes the struck order,
+and the line wrap fell between *the map* and *is done* — `TERM/map`'s licence is line-scoped, so the
+sweep read our own quotation of the dead instruction as a live breach. **Reflowed, not exempted.**
+Repo returns to the 9 pre-existing hits.
+
+### R-26 item 2 — Book V's beats: 48 screened, 6 hits, **two of them real**
+
+Ruling 108's marks (`«…»`, drafter-voice, stripped before the words are taken) applied to Book V —
+**12 beats carry one, against 0 an hour ago.** The ruling's promise held exactly: with the voice
+marked, **four of the six hits resolve as drafter-voice and two survive as real defects.**
+
+1. ★★ **V.4 beat 3 — the most important admission in Book V was scheduled in a sentence the lexicon
+   forbids.** It read *"this is the chapter where we own that **our own corpus** filtered the woo to
+   keep a skeptic happy."* `05` §3a bans naming a past work of ours **outright, anonymous form
+   included**; ruling 113 bans the metrical species on top of it. **A permanent MISS that reads
+   exactly like a drafting failure, on the chapter least able to afford one.** ⚠ **And it cannot take
+   ruling 108's exit.** IV.3's beat was rescued as drafter-voice — a note about how far to go. **V.4's
+   whole subject IS the flinch, so a chapter that delivers it only in the margin has not delivered
+   it.** ✅ **The job survives the ban once the object changes: own the DISPOSITION — ours, present
+   tense — not the CORPUS, which is a past work we may not point at.** The confession gets *stronger*:
+   **we do this** outranks **we did this**, and it is the one form no reader can check our footnotes
+   against.
+2. **V.7 beat 5 — the scaffold wrote the banned construction into a beat.** *"…and saying so is not a
+   hedge, it is the same discipline that let us say the rest"* is **ruling 39's form exactly: the
+   sentence that asserts its own non-hedging**, defending a cut the chapter has not made yet. Worse in
+   a beat than in prose — prose gets caught by `claim_sweep`, and **until today nothing read a beat.**
+   ⚠ `PROSE/outlist` fires on the same beat and **that hit is not a defect**: naming `eight-circuit` is
+   the beat's point. **Two rules, one beat, one real** — the marking doing its job.
+
+Book V screens **0 USE-class hits across 48 beats**. ⚠ **Books I, II, III, VI, VII and VIII remain
+unmarked**, and the coverage table prints that every run rather than letting a clean Book V read as a
+clean scaffold.
+
+**CHAPTERS-DRAFTED: 32/67** — unchanged; two blockers paid, one gauge built, one rule added.

@@ -2113,10 +2113,10 @@ roster with framework readings already drafted — the occult half) · **the ins
 
 ### V.1 — WHAT A TRADITION IS
 **Beats:** each tradition is a perspective; its reports are prior cartography of the same configuration
-space · **no condescension, no debunking, no hedge** — stated as method, once · the convergence itself
+space · «**no condescension, no debunking, no hedge** — stated as method, once» · the convergence itself
 is the argument: many independent perspectives, one Ground · and the limit — convergence is evidence,
-not proof, and we say which · ★ **NEW, and it belongs in the first chapter or nowhere: we take their
-ontology and refuse their destination.** *(01 Trap 5.)* Nearly every road in this book ends at
+not proof, and we say which · ★ «**NEW, and it belongs in the first chapter or nowhere:**» we take their
+ontology and refuse their destination. *(01 Trap 5.)* Nearly every road in this book ends at
 dissolution — *henosis*, *fanā'*, *kaivalya*, cessation, union — and we part from all of them at the
 summit for a structural reason, not a preference: **dissolution has no perspective, and perspective is
 the only place anything is ever the case.** Said here, on arrival, so that ten chapters of sympathetic
@@ -2127,29 +2127,43 @@ travellers we part from.**
 **Beats:** institutional Christianity taken at full strength and at its best, not at its worst ·
 what it got right that nothing else did — the personal address, the moral seriousness, the community
 that survives a death · **the exact point it stops answering**, and it is not hypocrisy or science ·
-why leaving it did not answer the question either. **The most important new chapter in Book V.**
+why leaving it did not answer the question either. «**The most important new chapter in Book V.**»
 **Named:** opponent III — the most common failed prior in the reader's actual history.
 
 ### V.3 — THE SCHOLASTICS AND THE GOD WITHOUT A FACE
-**Beats:** Aquinas (8 mentions) and Augustine (14) — thin in our corpus, load-bearing here · the
-classical theologians reached the silent ground and the popular religions could not resist re-adding
-a face · *actus purus*, the God who is not a being among beings · **our Ground and theirs are the same
-object**, and we say so without softening either.
+**Beats:** Aquinas and Augustine «(8 and 14 mentions — thin behind us, load-bearing here; expect to
+read rather than recall)» · the classical theologians reached the silent ground and the popular
+religions could not resist re-adding a face · *actus purus*, the God who is not a being among beings ·
+**our Ground and theirs are the same object**, and we say so without softening either.
 **Named:** apophatic theology, the *via negativa* — knowing by what cannot be said.
 
 ### V.4 — THE ATHEISM THAT WAS RIGHT ABOUT THE WRONG THING
 **Beats:** New Atheism stated at full strength · what it correctly demolished · **the flinch we
-inherited from it** — this is the chapter where we own that our own corpus filtered the woo to keep a
-skeptic happy, and name the cost · a scalpel held sharp for mystics and dull for materialists, inside
-a framework that is idealist.
+inherited from it, owned in the first person and in the present tense** — the disposition, not its
+history: a scalpel we have held sharp for mystics and dull for materialists, inside a framework that
+is idealist · and the cost, named · «the admission is delivered by BEING less filtered on this page
+than the reader expects, and saying nothing about having been more filtered before.»
 **Named:** opponent VII — *"the ancestor of our own flinch"* (`04`). **This is the register rule's
 own origin story, and it belongs on the page.**
+⚠ **BEAT REPAIRED DAY 189 — R-26 item 2, and it is ruling 126's class, found by the gauge that did
+not exist that morning.** The struck clause read: *"this is the chapter where we own that **our own
+corpus** filtered the woo to keep a skeptic happy."* **`05` §3a bans naming a past work of ours
+outright — anonymous form included — and ruling 113 bans the metrical species (`our own corpus`) on
+top of it.** So the most important admission in Book V was scheduled in a sentence the lexicon
+forbids: a **permanent MISS that reads exactly like a drafting failure**, on the chapter least able
+to afford one. ★ **And it does NOT take ruling 108's exit.** IV.3's beat was rescued by reading it as
+drafter-voice — a note about how far to go. **V.4 cannot be: its whole subject is the flinch, so the
+chapter that delivers it only in the margin has not delivered it.** ✅ **The job survives the ban
+intact once the object changes — own the DISPOSITION, which is ours and present, not the CORPUS,
+which is a past work we may not point at.** The confession gets stronger, not weaker: *we do this*
+outranks *we did this*, and it is the one form the reader cannot check our footnotes against.
+*(Same shape as IV.3's delivery — by going further, and saying nothing about going further.)*
 
 ### V.5 — THE EAST: ONE SUBSTANCE, MANY LOCALISATIONS
 **Beats:** Advaita — *Ātman = Brahman*, the oldest statement of the flip · *māyā* as the constructed
 interface · *tat tvam asi* · Buddhist emptiness and *anattā* — no-self as path-not-point · Taoism's
-*wu wei* and the uncarved block · Indra's Net (0 files — a measured silence, and it is the best single
-image of co-constitution anyone has produced).
+*wu wei* and the uncarved block · Indra's Net «(0 files — a measured silence, and the best single
+image of co-constitution anyone has produced; it comes in fresh, with nothing behind it to lean on)».
 
 ### V.6 — THE CONTRACTION THAT MAKES ROOM
 **Beats:** Kabbalah and *tzimtzum* — the infinite contracts to make room for a world · **a precise prior
@@ -2159,15 +2173,27 @@ what the Kabbalists were actually handling.
 ### V.7 — MAGIC, OPERATIVE
 **Beats:** the underlying message of every occult tradition, stated without embarrassment: **engagement
 with the non-physical is engagement, not error** · ritual as tunnel-engineering · sigil, tarot, alchemy,
-chaos magic — what each is doing mechanically · Crowley (80) and Dee (15) read operatively rather than
-biographically · **the out-list still holds here** — the eight-circuit model is not literal neuroscience,
-and saying so is not a hedge, it is the same discipline that let us say the rest.
+chaos magic — what each is doing mechanically · Crowley and Dee «(80 and 15)» read operatively rather
+than biographically · «**the out-list still holds here** — the eight-circuit model stays out, and the
+reason on the page is *we do not hold it*, never *a skeptic would object*.»
+⚠ **BEAT REPAIRED DAY 189 — R-26 item 2, second of two, and this one the scaffold wrote in the very
+form it bans.** The struck clause read: *"the eight-circuit model is not literal neuroscience, **and
+saying so is not a hedge, it is the same discipline that let us say the rest.**"* That trailing
+clause is **ruling 39's banned construction exactly — the sentence that asserts its own
+non-hedging** — sitting in a beat, which is worse than in prose: prose gets caught by
+`claim_sweep`, and until today **no gauge read a beat.** ★ **The tell is that it is defending a cut
+the chapter has not made yet.** Ruling 39's remedy applies unchanged: *delete it — the reason it
+stands next to is the argument, and it survives the cut alone.* ⚠ **`PROSE/outlist` fires here too
+and that hit is NOT a defect** — naming `eight-circuit` is the point of the beat; it is drafter-voice
+and now marked as such, which is precisely ruling 108's promise that marking turns a MISS back into
+a signal. **Two rules, one beat, one real.**
 
 ### V.8 — TRAVEL
 **Beats:** shamanic journey · Monroe's focus levels as a state-space map · the dead and the visited ·
-**the worked demarcation**: separate the real effect from the unproven mechanism, and do it in public,
-because doing it once here is what buys the reader's trust for the whole book · OBE-as-proof-of-survival
-stays out, and the reason is *we do not hold it*, never *a skeptic would object*.
+**the worked demarcation**: separate the real effect from the unproven mechanism, and do it in public
+«— doing it once here is what buys the reader's trust for the whole book, and V.9 runs it again on the
+hardest case» · OBE-as-proof-of-survival stays out, and the reason on the page is *we do not hold it*,
+never *a skeptic would object*.
 
 ### V.9 — THE ROAD BEING WALKED NOW ★ **NEW, Day 188, ruling 125**
 **Beats:** the contemporary encounter record read exactly as the preceding eight chapters read older
@@ -2180,8 +2206,8 @@ atlas's amendment to that refusal, which is IV.7's and is not optional: two fram
 once ONLY where they predict the same thing, and holding both earns no credit** · the dual-frame
 problem stated at full strength — a literal traveller crossing the region of a shape would be
 perceived *through* that shape by anyone whose access runs partly through story, so the two readings
-are not rivals and are also not a licence · ★ **and the demarcation V.8 installs, run here on the
-hardest available case**: the real effect separated from the unproven mechanism, in public, with the
+are not rivals and are also not a licence · ★ «**the demarcation V.8 installs, run here on the hardest
+available case**»: the real effect separated from the unproven mechanism, in public, with the
 grade named for each.
 ⚠ **THE STANDING HAZARD, and it is this chapter's own: IV.10 refused the self-excusing clause in two
 forms — *the failure to produce specimens is predicted by the framework*, and *the modern focus on
@@ -2207,17 +2233,18 @@ cut — *they made the perspective the problem and the summit its abolition* —
 external reader citing "V.10's summit cut" is reading pre-renumber and means **V.11**. The renumber was
 executed correctly across seven cross-references and signposted nowhere, which is what this line is for.
 **Beats:** the numinous, across traditions, with the reports laid side by side · what is invariant and
-what is local idiom · the Christian numinous given the same standing as the Vedantic, which the corpus
-has not previously done · **why the reports converge on structure and diverge on furniture.**
+what is local idiom · the Christian numinous given the same standing as the Vedantic «— which nothing
+behind us has done, so there is no earlier handling to lean on and the parity must be built here» ·
+**why the reports converge on structure and diverge on furniture.**
 
 ### V.11 — WHAT THE OLD ROADS KNEW THAT WE DO NOT — **AND THE ONE THING THEY ALL GOT WRONG**
 **Beats:** the honest ledger — where a tradition is ahead of us · practice as a technology we have
 half-lost · the difference between a tradition that mapped the terrain and one that fenced it ·
-★ **NEW second half, and it is what makes the chapter two-sided instead of a compliment: the error is
-the same one in every tradition, which is why it is worth a chapter and not a footnote — they made the
-perspective the problem and the summit its abolition.** Trap 5, paid off where V.1 opened it. The
+★ «**NEW second half, and it is what makes the chapter two-sided instead of a compliment:**» the error
+is the same one in every tradition, which is why it is worth a chapter and not a footnote — **they made
+the perspective the problem and the summit its abolition.** «Trap 5, paid off where V.1 opened it. The
 generosity of the preceding nine chapters is what gives this one its force; a book that only praises
-its ancestors has not actually read them · handoff to Book VI: **these were the instruments of their
+its ancestors has not actually read them.» · handoff to Book VI: **these were the instruments of their
 eras, and the era is the next subject.** ⚠ **ORDER-DEPENDENT — this beat is true only while V sits
 directly before VI.** Under Fable's candidate (`I II III V IV VI VII VIII`) Book V is followed by the
 Atlas and this sentence goes false while still reading like a chapter that ends well. It is the ONE

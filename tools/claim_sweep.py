@@ -126,6 +126,32 @@ RULES = [
      r"state-space map|settledness-map|knowing the map",
      "05 §3b — imports representation-OF, and collides with Korzybski in Book VI. "
      "Breaches C5. LICENSED: Korzybski's model-sense, and our own planning-process sense."),
+    # ★★ TERM/map-self — ADDED DAY 189, AND IT EXISTS BECAUSE RULING 126'S OWN CASE WOULD NOT
+    # HAVE BEEN CAUGHT BY THE RULE RULING 126 CITED.
+    # Ruling 126 struck IV.1's beat 1 — *"mapped as far as an atlas can map its own blindness"* —
+    # on the grounds that `map` is banned by `05` §3b "for our own instrument, the one word Book IV
+    # may not use for the thing it is." TERM/map above matches THE NOUN: `the map`, `complete map`.
+    # The beat used THE VERB. So the defect was found by hand, recorded as a gauge finding, and the
+    # gauge could not have found it — which nobody noticed for a day, because a rule that fires on
+    # a DIFFERENT case still reads as a working rule.
+    # ⚠ THE BLANKET VERB BAN IS REFUSED BY MEASUREMENT, NOT BY TASTE: `\b(maps?|mapped|mapping)\b`
+    # hits 127 lines repo-wide, nearly all of them legitimate — Korzybski in II.5, the card that
+    # maps frameworks in IV.1, the territory you cannot map in IV.1:231. A rule with that yield is
+    # a rule nobody reads. So the pattern is scoped to the verb WITH OUR OWN INSTRUMENT AS ITS
+    # APPARENT SUBJECT, which takes it to 3 hits repo-wide.
+    # ⚠⚠ AND ONE OF THOSE THREE IS A FALSE POSITIVE, DECLARED HERE RATHER THAN ENGINEERED AWAY:
+    # IV.8:181 reads "the inherited material this atlas draws on calls it a structure that maps",
+    # where the grammatical subject of *maps* is `a structure` and `this atlas` is two clauses
+    # upstream. Proximity cannot see grammar. It is exempted BY NAME below, with that reason, so
+    # the limit of the instrument is on the record instead of hidden inside a cleverer regex —
+    # ruling 38's principle, applied to a rule rather than to a threshold.
+    ("TERM/map-self", "scaffold",
+     r"\b(?:this\s+)?(?:atlas|census)\b[^.;:!?]{0,40}?\b(?:maps?|mapped|mapping)\b"
+     r"|\b(?:maps?|mapped|mapping)\b[^.;:!?]{0,25}?\b(?:this\s+atlas|this\s+census)\b",
+     r"map is not the territory|map it out|map out",
+     "05 §3b, as read by RULING 126 — the VERB, applied to our own instrument. Book IV is an "
+     "ATLAS and may not describe itself as mapping. TERM/map catches the noun only; this is the "
+     "half that struck IV.1's beat 1 and had no detector behind it until Day 189."),
     # ⚠⚠ Day 187 — THE COMMENT THAT USED TO SIT HERE WAS FALSE OF THE CODE BELOW IT, and it
     # prescribed a fix that was already in force. It read: *"These patterns are case-SENSITIVE,
     # so `THE NARROWING` in a heading walked straight past this rule… The real fix is
@@ -359,6 +385,19 @@ RULES = [
 #   (path suffix, rule_id, substring that must be on the line — None means whole file, why)
 # ---------------------------------------------------------------------------
 EXEMPTIONS = [
+    ("book/IV-08-the-divine-and-the-hierarchies.md", "TERM/map-self",
+     "a structure that maps",
+     "THE DECLARED FALSE POSITIVE OF TERM/map-self, and it is exempted rather than regexed "
+     "away. The subject of *maps* is `a structure` — an inherited depiction — and `this atlas` "
+     "sits two clauses upstream as the possessor of `the inherited material`. A proximity "
+     "pattern cannot see a grammatical subject, and the alternative was a cleverer regex fitted "
+     "to this one line, which is how a rule stops measuring. The instrument reports its own "
+     "resolution here instead. Ruling 38's principle; Day 189."),
+    ("book/DRAFT-LOG.md", "TERM/map-self", "an atlas can map its own blindness",
+     "A DATED RECORD RECORDS WHAT WAS TRUE WHEN IT WAS WRITTEN — ruling 126's own convention, "
+     "verbatim, applied to ruling 126's own entry. The log QUOTES the struck beat in order to "
+     "strike it; a register that cannot quote the breach it ruled on cannot record the ruling. "
+     "Named-line, not whole-file: any other TERM/map-self hit in the log is a fresh decision."),
     ("book/DRAFT-LOG.md", "PROSE/self-metric", None,
      "SCOPE, not licence — and the SECOND time this exact mistake has been made. Ruling 14's "
      "first-draft scope swept DRAFT-LOG for TERM/fullness and had to be narrowed; this rule was "
