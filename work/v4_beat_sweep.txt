@@ -1,0 +1,65 @@
+  wrap self-test: PASS — needles survive a hard wrap
+  prose self-test: PASS — needles survive a hard wrap, headings excluded
+
+PROSE→BEAT SWEEP — book/ against 06-THE-SCAFFOLD.md · chapter V.4
+
+  ⚠ REVISION-QUEUE.md: no chapter id in heading or filename — NOT SWEPT
+  ** SPENT **   V.4 (beat) is already performed in IV.10   containment 1.00 · shared 5-gram: "scalpel held sharp mystics dull"
+        PLAN  V.4: **the flinch we inherited from it, owned in the first person and in the present tense** — the disposition, not its history: a scalpel we have held sha
+        PROSE IV.10:146: The better candidate is one this book already has on its schedule, and finding it live rather than historical is the reason this section exists. The plan for the road-rea
+
+  35 drafted chapter(s) · 1688 paragraphs · 34 undrafted · 1 spent · 0 trace(s) · 0 exempt
+  2 beat(s) below the 6-distinct-word floor — NOT dropped: reachable
+  by the 5-gram discriminator only, which is what a beat that IS a phrase needs.
+  house vocabulary discounted, measured at df ≥ 0.66: 60 word(s) — about, after, already, anything, available, back, because, before, between, book, cannot, case…
+
+  SPENT is a QUESTION, not a verdict: the chapter may still be RIGHT to return
+  to the move — II.4 repeats I.4 deliberately and SAYS SO on the page, and that
+  is the strongest seam in the work. What it may not do is return SILENTLY.
+  Answer it in `06` — cut the beat, or flag the reprise out loud — and add the
+  PAIR to beat_sweep.EXEMPT with the ruling. Do not raise the threshold.
+
+READING BRIEF — V.4, before drafting
+  BAAI/bge-m3 · 3 beat(s) × 1315 shipped paragraph(s) · top 5 each, RANKED, no verdict
+
+  V.4 (beat): New Atheism stated at full strength
+    1. V.3:46  cos 0.518
+       So the identity claim has to be made a different way, and the different way is the whole chapter.
+    2. III.1:107  cos 0.511
+       That is the atheist's version and it concedes everything. *There is no evidence of a maker.* *If there were a maker he would have done better than childhood leukaemia.* *The univer
+    3. I.5:66  cos 0.504
+       Now stand back far enough and the whole thing seems to come apart.
+    4. III.5:241  cos 0.498
+       True philosophy must start from the most immediate and comprehensive fact of consciousness, which says: "I am life which wills to live, in the midst of life which wills to live."
+    5. II.5:150  cos 0.493
+       Upstream of him is the sentence this chapter exists to put beyond negotiation, and it is quoted almost exclusively in half.
+
+  V.4 (beat): **the flinch we inherited from it, owned in the first person and in the present tense** — the disposition, not its history: a scalpel we have held sharp for mys
+    1. IV.10:146  cos 0.672
+       The better candidate is one this book already has on its schedule, and finding it live rather than historical is the reason this section exists. The plan for the road-reading book
+    2. III.3:9  cos 0.607
+       In ordinary use it reports a position: earlier than now. The parcel already came. The decision was already taken. Something sits behind the present, and the present arrived to find
+    3. II.6:5  cos 0.604
+       Most of the words in this book had to be taken from somebody. This one has to be taken from nobody in particular, which is harder, because it is not owned. It is only used — consta
+    4. III.6:28  cos 0.604
+       What the word earns — and it earns this much, which is why it is kept — is **order**. Some of what you bring was laid down before the rest, and the rest was laid down onto it. The
+    5. II.6:33  cos 0.594
+       This one has no good name in English, which is why it gets described in figures — moving with the grain rather than against it, being in your element, the work that goes easily aft
+
+  V.4 (beat): «the admission is delivered by BEING less filtered on this page than the reader expects, and saying nothing about having been more filtered before.»
+    1. IV.8:374  cos 0.663
+       The refusal is the epistemic drop applied per entry instead of declared once at the top, and it is the difference between the two being visible on the page rather than asserted.
+    2. III.8:198  cos 0.662
+       **And it takes one exception, stated here in public rather than discovered later by a reader who would be right to feel misled.**
+    3. III.7:18  cos 0.644
+       Grant the whole of it. Nothing was selected. No path is privileged, none is shut, and there is no decider anywhere in the account. The objection reforms on the other side of that c
+    4. II.3:111  cos 0.643
+       **And from inside, it does not present as absence.** You do not see a hole. There is no dark patch, no ragged edge, no sense of something withheld. The world arrives seamless, and
+    5. II.5:31  cos 0.638
+       *And a filter is removable.* Take it off and the unfiltered thing gets through at last. This is the more expensive half, because it is what the word promises a reader who wants out
+
+  READ THESE. No verdict is offered and none is available: the measurement that
+  built this arm showed no statistic separates a true repeat from the floor —
+  ruling 33's own pair ranks 3rd of 390 at a cosine of 0.489, under a top match
+  of 0.498. RANK is the signal and SCORE is not. The brief narrows the book to a
+  page; the adjudication is a person's, exactly as it was the day it was caught.

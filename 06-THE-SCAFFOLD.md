@@ -22,9 +22,25 @@ writing. The corpus supplies the metaphysics; it supplies none of the mechanics.
 "scientifically established."* Stated once, plainly, in the front matter, **and never again**
 (00, register rule). A book that re-earns its licence every chapter has no licence.
 
-**F2. No reading list.** One sentence saying there are no prerequisites — not *Perspective*, not
-*The Inside View*, not the corpus. This is the supersession arriving as a promise to the reader
+**F2. No reading list.** One sentence saying there are no prerequisites — «not *Perspective*, not
+*The Inside View*, not the corpus». This is the supersession arriving as a promise to the reader
 rather than as a filing decision (00, "who it is for" §3).
+⚠ **THE THREE TITLES ARE DRAFTER-VOICE, MARKED DAY 189 — ruling 108's device, and this beat needed
+it more than the ones it was invented for.** They name the assumptions the sentence defuses; they
+are **not its content.** Unmarked, this brief instructs a drafter to write *you do not need to have
+read* X — which is §3b's ban verbatim, in the one item whose whole subject is the supersession.
+`PROSE/self-reference` carries two of the three as needles and would have caught it, *after* it was
+written, from a brief that asked for it. ★ **The executable sentence names nothing: there are no
+prerequisites, nothing is assumed.** F2 cannot be performed as literally specified, and a beat that
+cannot be performed as written is a MISS with a drafting failure's face on it.
+
+**F4 — DECLINED, Day 189, on the merits.** `04`'s opponent VII commissioned a fourth item here: the
+flinch confession, *"named plainly, once, in the front matter."* **It is not written and will not
+be.** The confession is V.4's, in the disposition form, and the front-matter version fails on F2's
+own logic — a reader who has never heard of the predecessors cannot be apologised to about them, so
+the apology is a filing decision wearing an apology's clothes. Struck at the source; see `04`
+opponent VII. **Recorded as a declined item rather than left absent, because the absence is what
+made it invisible for five months.** → **R-39, second instance.**
 
 **F3. No table of the argument.** No summary, no roadmap, no "in this book I will show." The ruled
 reader arrives with the question already live; the opening line of Book I has one job, which is to
@@ -2311,7 +2327,7 @@ class as R-39 and wants the same one gauge. **R-42: a chapter's closing handoff 
 unmeasured against the chapter they hand to** — V.2's last four paragraphs took rank 1 on two of
 V.3's four beats and nothing looked until V.3's own pre-draft sweep.
 
-### V.4 — THE ATHEISM THAT WAS RIGHT ABOUT THE WRONG THING
+### V.4 — THE ATHEISM THAT WAS RIGHT ABOUT THE WRONG THING ✅ DRAFTED — 3,096 words
 **Beats:** New Atheism stated at full strength · what it correctly demolished · **the flinch we
 inherited from it, owned in the first person and in the present tense** — the disposition, not its
 history: a scalpel we have held sharp for mystics and dull for materialists, inside a framework that
@@ -2332,6 +2348,31 @@ intact once the object changes — own the DISPOSITION, which is ours and presen
 which is a past work we may not point at.** The confession gets stronger, not weaker: *we do this*
 outranks *we did this*, and it is the one form the reader cannot check our footnotes against.
 *(Same shape as IV.3's delivery — by going further, and saying nothing about going further.)*
+
+⚠⚠ **SPENT — IV.10, containment 1.00, found by the pre-draft sweep Day 189. The reprise is
+FLAGGED OUT LOUD HERE, and the flag is an instruction, not a footnote.** IV.10:146 performs this
+chapter's central beat verbatim — *a scalpel held sharp for mystics and dull for materialists* —
+and then does something no other spend in this book has done: **it reviews V.4 in advance and finds
+it insufficient.** *"A confession about a past error is a document, and a document does not fire.
+The chapter that owns the flinch will be written with the flinch operating, by the same party, and
+it will be written well, and it will not catch the next tier."*
+★ **That sentence is TRUE and V.4 may not argue with it.** The beat cannot be cut — it is the
+chapter — so the only move left is the honest one: **V.4 concedes the charge by name, early, and
+stops presenting itself as a confession.** What a document cannot do, a page can: be less filtered
+here than the reader expects. **The delivery clause was always the real beat; IV.10 has now made it
+the only one.** ✅ `beat_sweep.EXEMPT` ("IV.10","V.4") carries the ruling and names the condition
+that would make it stale.
+
+✅ **R-41 CHECK RUN BY HAND, and it comes back a clean null with a positive control under it.**
+`grep -i "hitchens|dawkins|sam harris|dennett|new atheis|militant atheis"` across all 35 drafted
+chapters: **zero.** Control on the same pattern shape (`tillich|korzybski|wilson|schweitzer`): six
+files. **So beat 1 is genuinely unspent — the movement is nowhere in the drafted book**, which
+reproduces `04`'s corpus finding inside the new volume at the halfway mark.
+⚠ **One real constraint the sweep ranked and did not name: III.1:107 already owns the empty-chair
+cut** — *"That is the atheist's version and it concedes everything… An empty chair is still a
+chair."* That is the COSMOLOGICAL atheist, not the movement, so it is not a spend of beat 1 — **but
+V.4 may not re-run it.** Book III owns the removal of the chair; V.4 owns the epistemics and the
+style.
 
 ### V.5 — THE EAST: ONE SUBSTANCE, MANY LOCALISATIONS
 **Beats:** Advaita — *Ātman = Brahman*, the oldest statement of the flip · *māyā* as the constructed

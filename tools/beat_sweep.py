@@ -87,6 +87,27 @@ EXEMPT = {
                      "drafter a cut already made and forbid re-arguing it. II.1 makes the "
                      "argument against Tillich; V.2 delivers its cost to someone who lived "
                      "inside the address. The verbatim overlap IS the instruction.",
+    # ★★ Day 189, adjudicated at V.4's pre-draft sweep — containment 1.00, shared 5-gram
+    # "scalpel held sharp mystics dull". This is NOT the designed-handoff species above and it
+    # is not ruling 26's accretion either. IV.10 did two things to a chapter that did not exist:
+    # it performed V.4's central beat, AND it reviewed V.4 in advance and found it wanting —
+    # "the chapter that owns the flinch will be written with the flinch operating, by the same
+    # party, and it will be written well, and it will not catch the next tier."
+    #   The beat CANNOT be cut: it is the chapter. So the reprise is flagged out loud, and the
+    # flag is the chapter's opening move rather than a footnote — V.4 concedes IV.10's charge on
+    # the page, by name, and stops calling itself a confession. A document does not fire; that
+    # sentence is true and V.4 is not permitted to argue with it. What V.4 may do instead is be
+    # the thing a document is not, which is the beat's own delivery clause: less filtered on this
+    # page than the reader expects, saying nothing about having been more filtered before.
+    # ⚠ THE STANDING RISK THIS ENTRY MUTES, recorded per ruling 49 so the mute is not silent:
+    # if a future revision lets V.4 deliver the flinch as historical confession after all, this
+    # pair stops reporting the collision that would catch it. The condition is checkable in one
+    # grep — V.4 must contain IV.10's charge, not just the scalpel.
+    ("IV.10", "V.4"): "adjudicated Day 189, REPRISE FLAGGED OUT LOUD: IV.10 spends the scalpel "
+                      "line AND pre-judges the confession chapter as one a document cannot "
+                      "fire. V.4 concedes that charge by name in its own prose and delivers "
+                      "the flinch as present disposition instead. The overlap is the argument "
+                      "being answered, not repeated.",
     ("II.3", "VI.1"): "designed: VI.1's beats SAY 'the Perspective cut from II.3, cashed at "
                       "civilisational scale'. Book II defines at reader scale; VI.1 runs it at "
                       "era scale. The shared vocabulary is the handoff working.",

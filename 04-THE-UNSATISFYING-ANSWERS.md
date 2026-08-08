@@ -442,10 +442,44 @@ describes: *sharp for mystics, dull for materialists, inside a framework that is
 idealist.* The reason three million words filtered the woo at the book boundary
 is that we kept a New-Atheist referee in our heads and wrote to him.
 **This opponent is not only in the reader's history. It is in ours, and it wrote
-our editorial policy for four books.** Naming it plainly, once, in the front
-matter is the most honest thing this volume can do about its own predecessors.
+our editorial policy for four books.** ~~Naming it plainly, once, in the front
+matter is the most honest thing this volume can do about its own predecessors.~~
 
-**Books.** Front matter; V.
+⚠⚠ **STRUCK AND RE-RULED DAY 189 — R-39's SECOND LIVE INSTANCE, and it is the
+first one found by looking rather than by colliding.** Three separate problems,
+one sentence:
+
+1. **It commissions a front-matter item that `06`'s front matter does not have.**
+   `06` schedules exactly three — F1 the licence, F2 no reading list, F3 no
+   roadmap. There is no F4 and no ruling declining one. *An absence with no
+   author*, the same shape as the Tier 1.4 finding, and it would have been
+   discovered by a drafter reaching the front matter in year two.
+2. **It commissions it in the banned form.** *its own predecessors* is ruling 8's
+   anonymous species; §3b bans the title and the anonymous gesture together. The
+   front matter is **prose**, so `PROSE/self-reference` would have caught the
+   sentence — *after* it was written, from a brief that told the drafter to write
+   it.
+3. ★ **And the Day-189 V.4 repair had already superseded it without writing
+   back.** R-26 item 2 moved the confession's object from the corpus to the
+   disposition and lodged it in V.4. This entry kept the old object and the old
+   address. **Coherent, load-bearing, recently amended by someone else, and
+   wrong** — no freshness gauge sees that, because nothing here is stale.
+
+✅ **RULED: the confession lives in V.4, in the disposition form, and the front
+matter gets no fourth item.** The reason is F2's own, turned around: a reader who
+has never heard of the predecessors cannot be apologised to about them. Opening a
+volume by confessing the editorial policy of books the reader has not read is a
+**filing decision wearing an apology's clothes** — precisely what F2 exists to
+refuse — and it spends the licence F1 needs. The disposition version is also the
+stronger one: *we do this* outranks *we did this*, and it is the single form no
+reader can check our footnotes against.
+
+⚠ **The two clauses above this note — *three million words*, *four books* — are
+MEASUREMENT, in a planning file, and are correct here.** They are marked because
+they are `PROSE/self-metric`'s exact shape (ruling 113) and this entry is the
+place a drafter comes to quarry V.4's sentences from. **They are not quarriable.**
+
+**Books.** V.4, and V.4 only. *(was: "Front matter; V." — see the ruling above)*
 
 **Corpus state.** "New Atheism" 0, Hitchens 0, Dawkins 7 in 3 files, Sam Harris 6
 (and those are Harris in his meditation register, not his atheist one). **The

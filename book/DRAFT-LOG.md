@@ -6750,3 +6750,141 @@ roll-call was refused in the second paragraph, so the chapter argues where V.1 e
   able to afford a MISS. Read `06`'s V.4 entry before the sweep, not after.
 
 **CHAPTERS-DRAFTED: 35/67** · **CLAIMS: C1…C30.**
+
+---
+
+## V.4 — THE ATHEISM THAT WAS RIGHT ABOUT THE WRONG THING · Day 189, 2026-08-08 · 3,096 words · ✅ landed
+
+    C-LICENSE: C23 C26 C29 C30 · new: none
+
+### The gauge caught the flinch operating inside the chapter about the flinch
+
+Put this first because it is the only finding here that could not have been reasoned to.
+
+The chapter drafted at **`named_ref` 1.07 per 1k** against a Book V family of 7.47, 9.24 and 23.59 —
+an order of magnitude low, and the lowest figure in the drafted book. The reason, on inspection: **it
+named nobody.** Not Hitchens, not Dawkins, not Harris, not Dennett. It ran the entire demolition
+through a composite figure — *a man in the back of your skull* — and never once put a name on him.
+
+`04`'s entry for this opponent ends: *"The movement that most shaped what the corpus was willing to
+print is the one it never names."* **The chapter written to own that defect reproduced it exactly**,
+in its first draft, by the party who had read that sentence forty minutes earlier.
+
+This is IV.10's prediction landing on schedule — *the chapter that owns the flinch will be written
+with the flinch operating, by the same party, and it will be written well* — and the thing worth
+recording is **what caught it.** Not the read-through; the draft read fine, which is the whole
+problem with a chapter of this kind. A number in a column, compared against three neighbours.
+✅ Repaired: the four are named, the specific cut is attributed to each (Dawkins's complexity
+regress, Harris's exemption, Hitchens's moral half), and **Dennett is entered as the one who does
+not fit** — he kept the question and made it a programme, so the style charge is filed against the
+movement and not allowed to run over him. `named_ref` **1.07 → 5.17**, words 2,809 → 3,096.
+⚠ *(Those are `storyscope`/`where_the_book_is` counts. `wc -w` reads this file 43 words higher
+because it counts markdown furniture; the three carriers share one convention and `wc` is not it.
+Recorded because the first draft of this entry stamped the `wc` number into a heading.)*
+★ **The misfit paragraph is the strongest one in the section and it exists because a gauge embarrassed
+me into writing it.** Not-naming was costing an argument, not just a metric.
+
+### SPENT — IV.10, containment 1.00, and the spend included a review of this chapter
+
+`prose_beat_sweep --chapter V.4 --brief` returned the flinch beat **already performed in IV.10:146**,
+shared 5-gram *"scalpel held sharp mystics dull"*. IV.10 did not merely take the line. It stated, of
+a chapter that did not yet exist: *"a confession about a past error is a document, and a document
+does not fire."*
+
+**The beat cannot be cut — it is the chapter.** So the reprise is flagged out loud and the flag is
+the chapter's fourth section rather than a footnote: **V.4 quotes the charge, concedes it, and stops
+calling itself a confession.** What a document cannot do, a page can, which was always the beat's
+delivery clause (*less filtered on this page than the reader expects, saying nothing about having
+been more filtered before*) and is now the only clause left. Pair added to `beat_sweep.EXEMPT` with
+the ruling **and with the condition that would make it stale** — V.4 must contain IV.10's charge,
+not merely the scalpel, and that is one grep.
+
+### R-39, second live instance — and this one was found by looking, not by colliding
+
+`04`'s opponent VII closed: *"Naming it plainly, once, in the front matter is the most honest thing
+this volume can do about its own predecessors."* Three faults in one sentence:
+
+1. **It commissions a front-matter item `06` does not have.** F1, F2, F3 — no F4, no ruling
+   declining one. An absence with no author, the Tier 1.4 shape again.
+2. **In the banned form.** *its own predecessors* is ruling 8's anonymous species. The front matter
+   is prose, so `PROSE/self-reference` would have caught the sentence — *after* a drafter wrote it,
+   from a brief that asked for it.
+3. ★ **This morning's V.4 repair had already superseded it and could not write back.** R-26 item 2
+   moved the object from the corpus to the disposition. `04` kept the old object and the old
+   address. Coherent, load-bearing, amended by someone else, wrong — **and no freshness gauge sees
+   this, because nothing about it is stale.**
+
+✅ **RULED and struck at the source: the confession is V.4's, in the disposition form; the front
+matter gets no fourth item.** F2's own logic, turned around — a reader who has never heard of the
+predecessors cannot be apologised to about them, so the apology is a filing decision wearing an
+apology's clothes. Recorded in `06` as **F4 — DECLINED** rather than left absent, because the
+absence is what made it invisible.
+
+⚠ **And F2 itself was carrying the same trap unmarked.** It reads *"one sentence saying there are no
+prerequisites — not `Perspective`, not `The Inside View`, not the corpus."* Taken literally that
+instructs a drafter to name two titles in the front matter, which is §3b verbatim. **The titles are
+drafter-voice and are now marked as such** (ruling 108's device). The executable sentence names
+nothing.
+
+### R-41 check, run by hand, and it comes back a real null
+
+The sweep cannot see a spend answering a beat the brief does not contain, so: `grep -i
+"hitchens|dawkins|sam harris|dennett|new atheis|militant atheis"` across all 35 drafted chapters →
+**zero.** ✅ **Positive control on the same pattern shape** (`tillich|korzybski|wilson|schweitzer`)
+→ six files. So the null is the grep working, not the grep broken.
+
+⚠ **One constraint the sweep ranked and did not name: III.1:107 owns the empty-chair cut** — *"That
+is the atheist's version and it concedes everything… An empty chair is still a chair."* That is the
+cosmological atheist, not the movement, so it is not a spend of beat 1 — **but V.4 may not re-run
+it,** and does not. Book III owns the removal of the chair; V.4 owns the epistemics and the style.
+
+### `claim_sweep`: V.4 clean — and a correction to yesterday's entry, three hours old
+
+**V.4: 0 USE-class hits.** But the run surfaces two hits sitting *in V.3*, and **V.3's entry above
+says "the other three USE-class hits are pre-existing and not this chapter's."** That statement is
+false about the current tree. Both are benign; the sentence that closed the inspection was not.
+
+- **[C3/motive] V.3:233** — *"the ground freely wills a world that need not have been."* Labelled
+  **Theirs:** in a two-column comparison and denied in the next line. False positive; the rule
+  cannot read a column header as a mention marker.
+- **[PROSE/self-reference] V.3:68** — *"take the inside view seriously."* The needle is the **title**
+  `The Inside View`, matched case-insensitively against ordinary house vocabulary. ★ **This is the
+  defect already filed in `claim_sweep.py`'s own comments** (lines 98–103: *"the owed fix is to SPLIT
+  it into `-title` and `-phrase` rules. Filed, not done today"*), now firing live — and it will fire
+  on every legitimate use of the phrase forever, which is how a gauge goes quiet by crying wolf.
+
+⛔ **Not fixed here, on purpose.** A matcher change during a drafting run is the Day-187 lesson
+verbatim. → **R-43**, cold tools pass, deliverable is the before/after delta across all drafted
+files.
+
+### storyscope: in family, and the outlier is explained rather than reported
+
+| metric (per 1k) | V.4 | V.3 | V.2 | V.1 |
+|---|---:|---:|---:|---:|
+| named_ref | 5.17 | 9.24 | 7.47 | **23.59** |
+| 2nd_person | 6.14 | 3.28 | **10.64** | 3.33 |
+| meta_textual | 4.52 | 5.66 | 3.45 | **6.65** |
+| voice_uniformity | **0.6865** | 0.6786 | 0.6848 | 0.6305 |
+
+**`named_ref` 5.17 is the family low and that is now a design consequence rather than a defect** —
+V.1 enumerated a roster, V.4 argues against four men and spends most of its length on a disposition
+that has no proper noun. **`2nd_person` 6.14 sits between V.2's reader-who-left and V.3's
+argument**, which is right for a chapter that addresses the reader's own installed referee.
+⚠ **`voice_uniformity` 0.6865 is the highest of the four and therefore the flattest.** Reported, not
+repaired, per V.2's entry — but it has now been the highest or second-highest for three consecutive
+chapters, and *unmanaged* is starting to do work that *unmeasured* used to do.
+
+### Owed
+
+- **R-43 (NEW).** Split `PROSE/self-reference` into `-title` (case-sensitive) and `-phrase`
+  (case-insensitive). Filed in the tool's own comments before today and now firing on live prose.
+- **R-37, R-38, R-27, R-41, R-42** — unchanged, cold tools pass, delta not exit code.
+- **R-39** — second instance CLOSED (front matter, above). The class is not closed: nothing yet
+  compares an opponent entry against the beats meant to discharge it, and this one was found by
+  reading `04` on purpose because the handoff said to.
+- **`voice_uniformity` drift** — three chapters at the top of the family. Wants a decision, not a
+  fourth report.
+- **V.5 — THE EAST is next.** Its brief carries *«(0 files — a measured silence)»* on Indra's Net,
+  so R-41's question is live there in the sharpest form the book has offered yet.
+
+**CHAPTERS-DRAFTED: 36/67** · **CLAIMS: C1…C30.**

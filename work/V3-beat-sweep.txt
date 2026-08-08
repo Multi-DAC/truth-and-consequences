@@ -1,0 +1,56 @@
+  wrap self-test: PASS — needles survive a hard wrap
+  prose self-test: PASS — needles survive a hard wrap, headings excluded
+
+PROSE→BEAT SWEEP — book/ against 06-THE-SCAFFOLD.md · chapter V.3
+
+  ⚠ REVISION-QUEUE.md: no chapter id in heading or filename — NOT SWEPT
+
+  34 drafted chapter(s) · 1628 paragraphs · 35 undrafted · 0 spent · 0 trace(s) · 0 exempt
+  3 beat(s) below the 6-distinct-word floor — NOT dropped: reachable
+  by the 5-gram discriminator only, which is what a beat that IS a phrase needs.
+  house vocabulary discounted, measured at df ≥ 0.66: 60 word(s) — about, after, already, anything, available, back, because, before, between, book, cannot, case…
+
+READING BRIEF — V.3, before drafting
+  BAAI/bge-m3 · 3 beat(s) × 1271 shipped paragraph(s) · top 5 each, RANKED, no verdict
+
+  V.3 (beat): the classical theologians reached the silent ground and the popular religions could not resist re-adding a face
+    1. V.2:268  cos 0.576
+       What could not hold was never the impersonal ground. It was the combination, and the popular religion resolved the combination the way it was always going to be resolved: by quietl
+    2. I.5:16  cos 0.524
+       Then the certainties of the people standing nearest — not the ones they argued for, which can be weighed and put down again, but the ones so settled that nobody ever said them out
+    3. I.5:66  cos 0.513
+       Now stand back far enough and the whole thing seems to come apart.
+    4. V.2:146  cos 0.502
+       That cut is already made in this book, against a friendly opponent, and it is cashed here rather than re-argued. Tillich took away God's face and kept the direction of prayer. The
+    5. III.1:91  cos 0.493
+       That is a second-century heresy, and it is a dinner-table conversation, and nobody at the table knows they are reciting Valentinus. Eighteen hundred years, two civilisations that s
+
+  V.3 (beat): *actus purus*, the God who is not a being among beings
+    1. V.2:255  cos 0.649
+       It is not how it was met by the tradition's own best minds, and they are not heretics at the edge of it. Aquinas, in Paris in the twelve-sixties, writing the central document of th
+    2. V.1:7  cos 0.599
+       There is one, and it is not a thing among things. It is not even a being, because being is something that things do.  Whatever you say of it, say also: not that. Not this, not this
+    3. IV.8:81  cos 0.570
+       Five traditions, no common author, four languages, and the same cut. On one side: the gods, who are met. On the other: something that is not met, and about which the traditions say
+    4. II.1:7  cos 0.550
+       **The Ground is everything that could be the case, being the case: all of it at once, with no outside, with no inside, and made of awareness.**
+    5. IV.7:152  cos 0.548
+       **A word about the word, because it is not carrying what it looks like it is carrying.**
+
+  V.3 (beat): **our Ground and theirs are the same object**, and we say so without softening either.
+    1. II.1:7  cos 0.618
+       **The Ground is everything that could be the case, being the case: all of it at once, with no outside, with no inside, and made of awareness.**
+    2. III.7:238  cos 0.586
+       What we are is the part of the whole that is going somewhere. The Ground is what all of it is made of and it has never once been on its way anywhere, because being on the way requi
+    3. III.5:309  cos 0.582
+       **And one thing this must not be mistaken for, because the mistake is generous and arrives wearing warmth.**
+    4. II.5:97  cos 0.582
+       Nothing was removed from those children. Nobody damaged anything, nothing was lost that a better upbringing would have kept, and no deficit was incurred. A year of one language ran
+    5. V.2:263  cos 0.579
+       They did not flinch, and they did not leave. They arrived at the impersonal ground centuries before this book did, from inside the house, with the calendar and the food and the nam
+
+  READ THESE. No verdict is offered and none is available: the measurement that
+  built this arm showed no statistic separates a true repeat from the floor —
+  ruling 33's own pair ranks 3rd of 390 at a cosine of 0.489, under a top match
+  of 0.498. RANK is the signal and SCORE is not. The brief narrows the book to a
+  page; the adjudication is a person's, exactly as it was the day it was caught.
