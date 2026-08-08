@@ -5974,3 +5974,103 @@ this file.** The trigger column has never been swept as a column. It should be, 
 fires.** That is a different sweep from anything the queue has had, and it is cheap.
 
 **CHAPTERS-DRAFTED: 32/67** — unchanged; this entry files a ruling, not a chapter.
+
+---
+
+## Day 189 — 2026-08-08, morning. **R-16 PAID. The big rock is off Book V's neck, and it took four measurements, three of which were not the one the letter asked for.**
+
+**The task as filed:** *rewrite VII.2's brief to Book IV's scale.* The old list named its entities once
+— *eating, using, building, killing* — and was last amended Day 187, **before a word of Book IV
+existed.** Ruling 139 named four obligations Book IV has since put in front of it. It would have been
+possible to write the new brief straight from that list, in about twenty minutes, and it would have
+been wrong in two places.
+
+★ **WHAT CHANGED THE BRIEF, and neither was in the letter.**
+
+**1. The promise is VERBATIM, and it was made TWICE.** *"What is owed to a position that cannot
+register that anything is owed to it at all"* is drafted — in almost exactly those words — in
+**II.4:158 and III.5:344**, both routing to Book VII, both written before Book IV existed. **Book IV
+then produced the specimen**: IV.7's river, whose `ADDRESSABILITY` line is printed **unfilled**,
+because the atlas's own reading dissolves the question before it can be asked. The promise and the
+case that answers it were written a book apart by the same hand and **had never been in the same brief
+until this morning.** That is not a defect anything here could have caught: `beat_sweep` compares
+plans, `prose_beat_sweep` compares prose to plan, and **nothing compares a promise made in Book II to
+a specimen produced in Book IV.**
+
+**2. Book IV's `What is owed` sections are not what they sound like — checked, not assumed.** Five
+chapters carry one (IV.6, IV.7, IV.8, IV.9, IV.10; the convention **begins at IV.6** and IV.1–IV.5
+never got one). Read, they are **methodological debts — objections unmet, instruments unbuilt, tests
+specifiable and unrun.** They are not obligations owed to the entity. ⚠ **A brief written against
+those headings would have pointed the drafter at the wrong paragraphs in the right chapters** — the
+failure mode that survives review, because every citation in it resolves.
+
+**3. The count did not reproduce, and it is recorded rather than corrected.** The letter: *"eighteen
+chapters have written promissory notes to a chapter scaffolded for a pre-atlas world."* Measured over
+drafted prose: **11 notes across 7 of 32 chapters** (II.3×2, II.4×2, II.7, III.2×2, III.3, III.5×2,
+III.8 — two of them VII.1's, on death and cessation). The counting method did not travel with the
+number; it presumably includes `06`'s planned entries. **The finding never rested on the number, so
+the number is filed as unreproduced and the finding stands.**
+
+**4. The chapter had no named ancestor and `00`:954 already said so.** Swept, **with positive controls
+run first**: Levinas 61 files and Whitehead 81 (the sweep sees names present), **Schweitzer 0,
+reproducing `06`'s own recorded zero** (it sees absence). Then: **Hans Jonas 0** — *obligation toward
+what cannot reciprocate* is his whole book and this chapter's whole problem — **Christopher Stone 0**
+(*Should Trees Have Standing?*, the river case argued in **law**), **Leopold 0, Regan 0, Midgley 0,
+French 0.** And **Korsgaard: 14 corpus files, 1 manuscript occurrence, 0 beat lists** — `ancestor_gap`'s
+**sixth silence**, owner known in the research and dropped at the drafting boundary, **sitting in the
+one chapter flagged as having no ancestor at all.** ⚠ **Calibration stated so nobody over-reads it:**
+Rovelli returns **18** here against `ancestor_gap`'s canonical **14**, so the methods differ and **only
+the ordering survives.** The zeros are zeros; the magnitudes are not this file's to quote.
+
+★ **TWO THINGS WRITTEN DOWN RATHER THAN RULED** — **R-32** (the VII.2/VII.3 seam: does VII.2 cross
+before its premise is argued? Not settleable from the plan alone, and a brief that guessed would read
+identical to one that knew) and **R-33** (11 beats against a mean of ~4.5 — the rewrite may have made
+VII.2 a two-chapter problem, and the one who made it says so *before* the prose rather than at 6,000
+words). **R-34** carries the reading list.
+
+---
+
+⚠ **AND THE THREE DEFECTS FOUND ON THE WAY, none of them the task.**
+
+**(a) `06`:2465 sent Ricoeur to "VII.3's problem (identity across gaps)". VII.3 is THE FLOOR.**
+Identity across gaps is **VII.9**. Ruling 125's renumbering hazard — *"would have kept reading
+correctly while pointing one chapter off"* — **second known instance, found by re-reading, and
+nothing in the repo checks a `VII.x` pointer against the title beside it.**
+
+**(b) So `tools/pointer_sweep.py` now does.** Number-vs-title across every planning document;
+`DRAFT-LOG` excluded, because **a stale pointer in the log is history and repairing it would falsify
+the record.** ★ **First run found nothing new: 10 candidates, 9 innocent, and the tenth was the
+VII.3→VII.9 repair made an hour earlier — a null with a positive control under it, which is the only
+kind worth reporting.** Two confessions kept in the file: the single-word version was **useless**
+(distinctive title words *are* this book's working vocabulary — bigrams fixed it), and *"DEAD POINTER
+= unambiguous FAIL"* was **refuted inside a minute** by `06`:650, *"Irenaeus files it at I.29"* — a
+citation to *Against Heresies* sharing the notation exactly. **The claim was downgraded to CHECK
+rather than the detector weakened.** ⚠ **Coverage is 35/67 and printed every run** — 32 titles are too
+short to yield a distinctive bigram and are invisible forever. That is **R-35**.
+
+**(c) `beat_sweep.beats()` never got the terminator fix `named()` got on Day 187** — eleven lines
+below it, in the same file, with a comment stating the principle. This scaffold puts ruling prose
+**after** its fields, so every beat block ran on into it: **II.8's thesis measured 1,320 words against
+a corpus median of 13**, and 22 beats were over 60. Every containment score computed against one of
+those was computed against the wrong string, in **all three tools sharing the parser** — including the
+one V.1's drafting session is instructed to run first. ★★ **AND THE OBVIOUS FIX IS WRONG.**
+Terminating the *field* on ⚠, exactly as `named()` does, **drops III.1 from 6 beats to 2** — its
+numbered list has a ⚠ before the later items. That is the Day-187 over-correction repeating, **in the
+dangerous direction**: fewer beats reads as *less* alarm, and a beat that vanishes from a coverage
+gauge is an omission with no detector, which is `beat_delivery`'s entire reason to exist. **The fix
+that holds trims per BEAT, not per field: 305 beats before, 305 after, none lost; max 1,320w → 267w;
+over-60 22 → 13; median unchanged.** ⚠ And the suspect that wasn't: FIELD's `{0,40}` bound **has**
+gone false — two labels in `06` exceed it at 63 and 94 chars — but widening it to 200 recovers exactly
+**one** of the twenty-two. **It was never the cause.** Left alone with the measurement written beside
+it, so the next reader does not re-run the same wrong hypothesis.
+
+★ **THE THROUGHLINE, and it is the midpoint audit's §7.3 arriving as a working method rather than a
+finding.** *The prose got ahead of the apparatus, and the apparatus found out later.* Every one of
+this morning's four measurements was an instance of **going to the thing instead of the summary** —
+the drafted clause instead of the letter's paraphrase, the `What is owed` sections instead of their
+title, the corpus instead of the recollection, the parser instead of the assumption that it parsed.
+**Three of the four returned something different from what the summary said.** The brief that would
+have been written in twenty minutes from ruling 139's list would have been *defensible at every point
+and wrong in two.*
+
+**CHAPTERS-DRAFTED: 32/67** — unchanged; this entry pays a blocker and files three defects.
