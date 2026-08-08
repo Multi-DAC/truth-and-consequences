@@ -192,6 +192,27 @@ EXEMPT = [
      "Φ = 0 is the THEORY's ruling on this chapter's own entry, and a drafter who is the entry may "
      "not restate an opponent's verdict on itself in words of its own choosing. IV.6 says so inline "
      "— 'Book II's sentence, kept because the verdict belongs to the theory'."),
+    ("IV.6", "IV.7", "thought form is by construction something somebody assigned",
+     "★ THE HANDOFF, and the seam is load-bearing. IV.6's last movement hands the derived-"
+     "intentionality debt forward in exactly these words; IV.7 opens by taking delivery in the same "
+     "words, because the whole structural point is that the objection arrives at the next chapter "
+     "INVERTED — an accusation in IV.6, the tradition's own origin story in IV.7. A reader who "
+     "cannot see that the sentence is the same sentence cannot see that the frame flipped around "
+     "it. Rewording the pickup would hide the only thing the pickup is for."),
+    ("IV.1", "IV.7", "thin we attribute an inside rather",
+     "The leading edge of the same quotation as the pair below — 'where the evidence is thin, we "
+     "attribute…' — caught in a second window. Exempted on the identical reason and listed on its "
+     "own line rather than folded in, per the standing rule that an exemption a later reader "
+     "cannot see is an exemption nobody audits."),
+    ("IV.1", "IV.7", "attribute an inside rather than withhold one because historically",
+     "★ THE PRINCIPLE CITED AT THE PAGE WHERE IT FIRST COSTS SOMETHING, and carried inside a "
+     "quotation block, which is why the hit carries [q]. IV.1 declares the under-attribution "
+     "principle at the front, where a reader can weigh it; IV.7 is the first chapter where the bias "
+     "is aligned with something the reader WANTS to be true, and the chapter's move is to re-read "
+     "the declared wording unchanged and then say that the justification has not changed and the "
+     "reliability has. Restating it in fresh words at the moment it becomes convenient is precisely "
+     "the manoeuvre being disclosed — the drafter would be re-writing the standard on the page "
+     "where the standard is about to be applied to the drafter."),
     ("IV.5", "IV.6", "in the reader s own language at",
      "★ THE HANDOFF, working. IV.5's closing sentence promises the next entry answers 'in the "
      "reader's own language, at length, and without a representative'; IV.6's first movement opens "

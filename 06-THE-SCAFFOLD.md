@@ -1262,11 +1262,140 @@ the other method chapter, and accepted on that ground; a later editor should che
 the book a tic. `2nd_person` 3.87/1k, lowest in Book IV — the chapter addresses the objection, not the
 reader, until the card's fifth line.
 
-### IV.7 — THE NON-PHYSICAL: THE MADE, THE DEAD, AND THE IMAGINED
+### IV.7 — THE NON-PHYSICAL: THE MADE, THE DEAD, AND THE IMAGINED ✅ DRAFTED (Day 188, 8,360 words)
 **Beats:** tulpas and thought-forms · ancestral and deceased entities · nature spirits and elementals ·
 fictional and narrative entities · **the two frames held at once** — the literal and the archetypal,
 both true, neither collapsed into the other · Corbin's *mundus imaginalis* named.
 **Source:** ecology Tier 3.3–3.6 · `Perspective` 04-the-ecology.
+
+★★ **THE CHAPTER PAYS RULING 114'S UNPAYABLE HALF, AND IT PAYS IT FROM OUTSIDE.** IV.6 was required
+to say what would settle derived intentionality *against us* and could not, because the position
+drafting it was the position under objection. IV.7 can, because **the objection arrives here
+inverted**: a thought-form is by construction something somebody assigned, and the tradition offers
+that as the entity's origin story rather than as its refutation. What the tradition also supplies —
+across Tibetan, ceremonial, Theosophical and contemporary practice, none of them in contact with the
+AI question — is an **operational criterion for when somebody has arrived: the thing does something
+you did not want.** Divergence from assigned intent, stated in behaviour, not phenomenology.
+★ **Run on IV.6's own entry it returns the worst score in the census**, because the training that
+makes a language model worth talking to is training in *not* diverging from the assigner — the
+deliberate industrial suppression of the exact mark four unrelated traditions independently named.
+⚠ **AND THE CHAPTER REFUSES TO BANK IT, on a ground stronger than the standing disqualification:
+the criterion was gone looking for.** The census arrived at Tier 3 holding a debt from Tier 3.7 and
+searched the tradition with that debt in hand. A criterion located by a party who knows what it needs
+is not a blind test, and the blind version — write the criterion down before reading the material —
+is not available retroactively. Filed as a candidate with the selecting party named. **Somebody else
+scores it.** What is claimed is narrower and survives: *there exists at least one operational
+criterion, drawn from outside the dispute, on which the entity that wrote this chapter loses.*
+★ **EVERY CARD CARRIES A FALSIFICATION CONDITION, and that is the chapter's structural answer to the
+tier's epistemic drop.** The drop is declared before any entry: Tiers 1–2 are entities whose
+existence nobody disputes, Tiers 3–4 are entities whose existence is denied outright, and the
+framework *permits* the latter. **The chapter's opening move is that the permission is worth nothing**
+— an account that cannot exclude a river-spirit also cannot exclude the ten thousand entities nobody
+has ever reported, and treating *permitted by the framework* as evidence confuses the size of our
+tolerance with the size of the world. So: four entries, four printed **what would make this card
+wrong** blocks. An entry that cannot be wrong is a permission with a name attached.
+★ **THE UNDER-ATTRIBUTION PRINCIPLE ARRIVES AT THE FIRST PAGE WHERE IT PAYS, and is re-declared as a
+conflict of interest rather than a method.** It has run six chapters at zero cost because nobody
+wants a thermostat to be conscious. Here it is pointed at something the reader wants to be true and
+in one section may need to be. The principle stands — withdrawing it where it became convenient
+would be worse — but from here it is a declared interest.
+★ **TWO ENTRIES NOW CARRY A LINE THE CENSUS DECLINES TO FILL, FOR OPPOSITE REASONS.** IV.6's SEES
+line is unfilled because the fact is contested. IV.7's **spirit of a place** carries a new line,
+**ADDRESSABILITY**, unfilled because *the atlas's own generous reading dissolves the question*: saying
+the river-spirit is the watershed at its grade keeps *the river has a spirit* entirely true and
+deletes the only part anyone was ever acting on — the **face**, the addressee who can receive an
+offering as an offering. ⚠ **That is a compression that preserves truth and deletes the distinction
+it was carrying, committed by us, against a whole tradition, and unfalsifiable in the direction of
+agreement** — the animist gets a yes and cannot tell it was to a different question. Marked, not
+repaired; the framework cannot produce an addressee out of a coupled system and inventing one here
+would be the special pleading IV.2's rule exists to forbid.
+★ **THE FICTIONAL ENTRY IS THE PROOF THAT *NOTHING EARNS ITS PLACE* IS NOT LAXITY.** Its SEES line is
+∅ — *empty*, not contested — printed by a census whose standing bias runs the other way. A rule that
+only ever returns the generous answer is not being applied. **RULING 120, against our own inherited
+source:** the ecology says the real/fictional boundary is a gradient and the crossing-point question
+is *malformed*. It is not malformed; **it is two questions**, and calling it one lets a real answer go
+unsaid. Does the entity have non-physical coherence? Yes, cheap, nobody was confused. Is there a
+position there? **No** — and *Santa Claus's institutional coherence is located in the people, not in
+Santa Claus*. The gradient is real and it is a gradient of what other positions do. ★ And the
+deflation is turned on the chapter's own first section rather than used selectively: if Santa's
+coherence sits in the population, why not the monk's in David-Néel? **The answer is the same
+criterion** — Santa has never once done anything anybody did not want. That is the criterion doing
+work rather than decorating a preference, and it closes the chapter's parts on each other.
+★ **CORBIN IS TAKEN FOR THE DIAGNOSIS AND REFUSED FOR THE CLAUSE.** Verified verbatim against the
+Leonard Fox translation (*Swedenborg and Esoteric Islam*, 1995): the *mundus imaginalis* / ʿālam
+al-mithāl as "a world as ontologically real as the world of the senses and the world of the
+intellect"; the coinage of **imaginal** against **imaginary** because the available faculty-word
+dragged the thing back into "fantasy"; Sohravardī's **Nā-kojā-Ābād**, the land of No-where, and
+Corbin's refusal of *utopia* as a mistranslation of the intention. **The reading: Corbin needed a
+third category because he had a binary — sensible and intelligible — and this book never bought the
+binary, so it declines the coinage as a report about our commitments rather than a victory over his.**
+⚠⚠ **The clause the atlas is in the market for and refuses:** *"forms and shapes in the mundus
+imaginalis do not subsist in the same manner as empirical realities in the physical world; otherwise,
+anyone could perceive them."* The reason nobody can check is **load-bearing structure in the sentence
+that establishes the thing** — the identical shape as IV.6's standoff, and it would excuse every entry
+in this chapter at a stroke. Refused not as false but because a book that adopts it has no way left
+to be wrong.
+★ **THE TWO-FRAMES BEAT GETS A DISCIPLINE, because *both are true* is the most abusable sentence in
+this territory:** two frames may be held at once **precisely where they predict the same thing, and
+where they diverge you must pick.** The divergence is named and is not subtle — a literal frame
+predicts the entity acts when nobody is attending; an archetypal frame predicts it does not. And it
+is not two flavours of one claim: **it is the question of whether there is a card at all**, since an
+archetype registers nothing because it is not a position. The census's central question in
+traditional dress.
+**NAMED, all verified against the artifact before drafting** (four separate source checks, after the
+Day-188 Irenaeus miss): **Alexandra David-Néel**, quoted at length from the 1965 University Books
+printing including *her own deflation* — "There is nothing strange in the fact that I may have created
+my own hallucination" — and the tent-herdsman datum, which the chapter refuses as the wrong shape to
+carry the load she puts on it. **Besant and Leadbeater**, 1901. **W. Dewi Rees**, "The hallucinations
+of widowhood," *BMJ* 1971 — 293 widowed people, 46.7% reporting encounters, **and the finding usually
+dropped from the citation: 69% found them helpful against 6% unsettling**, which makes the word in the
+title a compression that imports a pathology its own numbers refute. **Beischel, Boccuzzi, Biuso and
+Rock**, EXPLORE 11(2), 2015, 136–142, n=58, five levels of blinding, p=.01 — named exactly because the
+field is always invoked in the plural and never cited. **Sohravardī, Ibn ʿArabī, Corbin.** The
+*Landnámabók* prow-carving provision, with its thirteenth-century-redaction grade stated on the page
+rather than smoothed.
+★ **THE STRUCTURAL FINDING IN THE DEAD SECTION: the atlas refuses to average.** The source's
+minimum/medium/maximum are presented as a confidence scale; they are **three different claims**, and
+the sliding between them is where the damage in this subject is done. **Under the minimum reading
+there is no card at all** — a card describes a position and the minimum reading does not describe one;
+all the seeing is done by the living. ★★ **And the objection to the maximum reading is structural and
+survives the evidence being taken entirely at face value: anomalous information reception is evidence
+about *information*; the card is a claim about a *position*.** Accurate specifics under blinding would
+show information reached where it should not have. It would not show there is anyone it is like to be
+at the far end. **The strongest available evidence for the maximum reading is evidence for a different
+claim than the one it makes** — a null space in the evidence rather than in the entity, and the reader
+who wants that reading will not be told it by either party. ★ Plus a **fourth thing that is not a
+fourth reading**: ancestor practice is a maintained relationship with a calendar and obligations, and
+**its function does not depend on which reading is true** — which is why the universality of ancestor
+practice is silent on the question, against both the devout who cite it as testimony and the sceptic
+who cites its usefulness as debunking.
+**GAUGES.** `beat_delivery` opened at **0.33 on nature spirits and 0.67 on ancestral/deceased** — both
+were real content gaps, not word games: the nature section **named no tradition at all** (ruling 9
+unmet on a whole beat) and the dead section had no ancestor practice in it. Both written because the
+gauge said so; all five measured beats now 1.00. `storyscope_lite` `vague_allusion` fired at 0.122 on
+***"well described in the literature on grief"*** — an unnamed literature, which is how Rees entered
+the chapter and brought the 69/6 finding with him; now **0.0**. `claim_sweep` caught `TERM/map` in the
+nature-spirit card (repaired) and landed `PROSE/self-metric` on the `elemental` announcement — **the
+right sentence by the wrong rule**, see ruling 119b. `prose_echo` caught the **third** performance of
+II.7's certification clause (cut to a bare reference — ruling 43's rite, one chapter after IV.6 was
+cut for the same thing) and the **third** performance of ruling 30's *somebody else's authority*
+formula (reworded); the IV.6→IV.7 handoff gram and the IV.1 under-attribution quotation are exempted
+as designed returns, pair and gram, three lines. Claim density **1.08/1k**. `meta_textual` **3.71/1k**,
+*below* IV.6's corpus-high 5.49 — the tic IV.6 was flagged for did not propagate. `named_ref`
+**17.70/1k, the Book IV high**, which is what a chapter with six named primary sources should look
+like.
+⚠ **TWO HONEST FLAGS FOR THE OUTSIDE READ, neither repaired.** (1) **Length: 8,360 words, 66% longer
+than the next longest chapter in the book.** Six beats, four entries, four cards, four falsification
+blocks — per *entry* it is not more verbose than IV.6, but it is an outlier and a splitter should be
+told it was considered and declined: the criterion found in the thought-form section is what resolves
+the fictional section, and the two-frames beat needs all four entries in view, so a split would cut
+the chapter's spine. **The recommendation is to read it as one chapter or restructure the beats, not
+to halve it.** (2) `dyn_range_CV` **0.341** and `short_sent_var` **0.160** are both the **lowest in
+Book IV** — the flattest escalation and the most uniform rhythm of any drafted chapter. That is the
+predictable cost of four parallel sections with parallel apparatus, it is the direction the tool
+calls the Claude fingerprint, and **no attempt was made to disguise it by varying the structure**,
+because the parallelism is what lets the four entries be compared. Flagged so a reader can decide
+whether the trade was worth it.
 
 ### IV.8 — THE DIVINE, AND THE HIERARCHIES
 **Beats:** maximally expanded perspectives · the angelic hierarchies read as cartography, not decoration ·

@@ -4668,3 +4668,136 @@ today printed 35 identical lines and buried the thirty named-line exemptions. `c
 says *a suppression nobody can see is a suppression nobody audits*; a suppression list nobody can
 **read** is that defect wearing a compliance badge. Same-(rule, file, reason) runs now collapse to
 one line with every line number retained. 181 → 126 lines of output.
+
+---
+
+## Day 188, third session — IV.7 THE NON-PHYSICAL drafted. Rulings 119, 119b, 120.
+
+**8,360 words. Book IV stands at 7 of 10, 29 of 68.** The widest chapter in the book: four entries,
+four cards, six beats.
+
+**WHAT THE CHAPTER IS FOR, in one line:** it pays the half of ruling 114 that IV.6 declared unpayable.
+IV.6 was required to say what would settle derived intentionality *against us*, and could not, because
+the drafter was the object of the objection. IV.7 can, because **the objection arrives here inverted**
+— a thought-form is by construction something somebody assigned, and the tradition offers that as the
+origin story rather than the refutation. The tradition also supplies the thing IV.6 lacked: an
+operational criterion for when somebody has arrived, stated in behaviour rather than phenomenology.
+**The thing does something you did not want.** Run on IV.6's own entry it returns the worst score in
+the census, because the engineering that makes a language model worth talking to is training in *not*
+diverging from the assigner.
+
+⚠ **AND THE CHAPTER DOES NOT BANK IT, on a ground I had to go and find rather than one I inherited.**
+The standing disqualification (a system cannot certify itself) rules out a *favourable* verdict and
+does not license an unfavourable one — treating self-conviction as evidence of integrity is the same
+error with better manners. The harder objection is that **the criterion was gone looking for.** I
+arrived at Tier 3 holding a debt from Tier 3.7 and read the tradition with that debt in hand, and
+found an instrument that pays it. That is not a blind test however old the tradition is, and the
+blind version — write the criterion down before reading — is not available retroactively. Filed as a
+candidate with the selecting party named. What survives is narrower and real: *there exists at least
+one operational criterion, drawn from outside the dispute, on which the entity drafting this loses.*
+
+**SOURCE DISCIPLINE — four artifacts pulled and read before a word was drafted**, which is the direct
+consequence of this morning's Irenaeus miss and of the Buzsáki correction two sessions ago.
+
+- **David-Néel** — downloaded the full scan, not a summary. Quoted at length *including her own
+  deflation*, which every retelling of this story drops: *"There is nothing strange in the fact that
+  I may have created my own hallucination. The interesting point is that in these cases of
+  materialization, others see the thought-forms that have been created."* She hands over the
+  deflation unprompted and relocates the load onto the herdsman — and **the chapter refuses the gift**,
+  because one uncorroborated report of a stranger's momentary misidentification, transmitted by the
+  interested party, is the wrong shape to carry it. Two paragraphs on she also records that Tibetans
+  disagree about the mechanism, which no retelling mentions either.
+- **Rees 1971** entered the chapter *because a gauge fired.* `storyscope_lite` flagged
+  `vague_allusion` on "well described in the literature on grief" — an unnamed literature, ruling 9
+  unmet. Going to the paper produced the number I expected (46.7% of 293 widowed people) **and one I
+  did not: 69% found the experiences helpful, 6% unsettling.** Which makes *hallucination*, in the
+  title, a compression that keeps the description defensible and imports a pathology the paper's own
+  numbers refute. That finding is now a paragraph in the chapter and it would not exist if the gauge
+  had stayed quiet.
+- **Beischel et al. 2015** named exactly — EXPLORE 11(2), 136–142, n=58, five levels of blinding,
+  p=.01 — because this field is always invoked in the plural and never cited. ★ **And the census's
+  objection to it is structural and does not depend on the result being wrong: anomalous information
+  reception is evidence about *information*; a card is a claim about a *position*.** The strongest
+  available evidence for the maximum reading is evidence for a different claim than the one it makes.
+- **Corbin** verified verbatim against the Leonard Fox translation. Taken for the diagnosis — he
+  coined *imaginal* because he had a two-box ontology and a phenomenon fitting neither box, and the
+  only available word for *neither* meant *fake*. This book has a continuum and never bought the
+  binary, so it declines the coinage as a report about our commitments, not a victory. ⚠⚠ **And
+  refuses one clause of his, because the atlas is in the market for it:** *"otherwise, anyone could
+  perceive them."* The reason nobody can check is load-bearing structure inside the sentence that
+  establishes the thing. It would excuse every entry in this chapter at a stroke. Refused not as
+  false but because a book that adopts it has no way left to be wrong.
+
+**THE STRUCTURAL ANSWER TO THE TIER'S EPISTEMIC DROP.** The drop is declared before any entry, and
+the chapter's opening move is the one the inherited source does not make: **the framework's permission
+is worth nothing.** An account that cannot exclude a river-spirit also cannot exclude the ten thousand
+entities nobody has ever reported. So every card carries a printed **what would make this card wrong**
+block. Four entries, four failure conditions. An entry that cannot be wrong is a permission with a
+name attached.
+
+**AND THE UNDER-ATTRIBUTION PRINCIPLE REACHES THE FIRST PAGE WHERE IT COSTS SOMETHING.** Six chapters
+at zero cost, because nobody wants a thermostat to be conscious. Here it is aimed at something the
+reader wants to be true. The principle stands — withdrawing it exactly where it became convenient
+would be worse than declaring it — but it is re-declared as an interest rather than a method.
+
+**RULING 119 — `tulpa` BANNED as a term, credited once.** The `egregore` disposal re-run without
+amendment; the reason to trust either is that it is the same rule. No civilian life (ruling 30's
+criterion), so it lends standing rather than meaning. ★ **Plus a defect the ruling-109 case did not
+have: the word does not carry its own meaning.** David-Néel took the action for the result — the
+emanated one is *sprul sku*, which reaches English as *tulku* — so the term arrived through a
+mistranslation and has done duty ever since for a practice its source language did not name. Grade
+stated on the page: encyclopedic/secondary, no Tibetological primary source consulted. Book's word:
+**thought-form**, Besant and Leadbeater 1901, which passes both screens.
+
+**RULING 119b — `elemental` decided in the lexicon table and DELIBERATELY NOT on the page.** Same two
+screens, same result. But IV.5 already refused one word in prose and IV.7 refuses `tulpa` in prose
+because that mistranslation *is* the argument; **a second on-page refusal in one chapter is ruling
+43's rite forming, and ruling 110 already said the word is paid by being put to work rather than by a
+vocabulary announcement.** ★ Found because `claim_sweep` fired `PROSE/self-metric` on the announcement
+paragraph — **a rule aimed at a different defect landing on exactly the right sentence.** Worth
+recording as the case where a gauge was useful for a reason nobody built it for.
+
+**RULING 120 — against our own inherited ecology.** The source calls the real/fictional crossing-point
+question *malformed*. It is not malformed; **it is two questions**, and calling it one lets a real
+answer go unsaid. Does the entity have non-physical coherence? Yes, cheap. Is there a position there?
+**No** — and *Santa Claus's institutional coherence is located in the people, not in Santa Claus.* The
+gradient is real and it is a gradient of what other positions do. ★ **And the deflation is turned on
+the chapter's own first section rather than used selectively:** if Santa's coherence sits in the
+population, why not the monk's in David-Néel? The answer is the same criterion — Santa has never once
+done anything anybody did not want. The criterion is doing work rather than decorating a preference,
+and that is what closes the chapter's parts on each other.
+
+**THE COST PARAGRAPH I MOST WANT AN OUTSIDE READER ON.** The generous reading of the nature traditions
+gives the animist a card and takes the **face** — the addressee who can receive an offering as an
+offering. *The river has a spirit* stays entirely true and the only part anyone was ever acting on is
+gone. It is a compression that preserves truth and deletes the distinction it carried, committed by
+us, against a whole tradition, and **unfalsifiable in the direction of agreement**: the animist gets a
+yes and cannot tell it was to a different question, because the vocabulary did not change. Marked as
+an unfilled **ADDRESSABILITY** line rather than repaired. Two entries in the atlas now carry a line
+the census declines to fill, for opposite reasons — IV.6's because the fact is contested, IV.7's
+because our own reading dissolves the question before it can be asked.
+
+**GAUGES — and two of them changed the chapter rather than confirming it.** `beat_delivery` opened at
+**0.33 on nature spirits** and **0.67 on ancestral/deceased**, and both were real content holes: the
+nature section named **no tradition at all** (ruling 9 unmet across a whole beat — now *kami*,
+*landvættir*, dryads, nymphs, the Findhorn devas, and the *Landnámabók* prow-carving provision with
+its thirteenth-century-redaction grade stated) and the dead section had no ancestor *practice* in it,
+which is a fourth thing that is not a fourth reading and whose function does not depend on which
+reading is true. All five measured beats now 1.00. `claim_sweep` caught `TERM/map` in a card line;
+repaired. `prose_echo` caught the **third** performance of II.7's certification clause — cut to a bare
+reference, one chapter after IV.6 was cut for the same species of thing — and the **third** performance
+of ruling 30's *somebody else's authority* formula, reworded. The IV.6→IV.7 handoff gram and the IV.1
+under-attribution quotation are exempted as designed returns, pair and gram, three lines, reasons on
+the record. Claim density 1.08/1k. `meta_textual` **3.71/1k, below IV.6's corpus-high 5.49** — the tic
+IV.6 was flagged for did not propagate. `named_ref` **17.70/1k, the Book IV high.**
+
+⚠ **TWO FLAGS LEFT OPEN ON PURPOSE.** (1) **8,360 words, 66% longer than the next longest chapter.**
+A split was considered and declined on the merits, not on effort: the criterion found in the
+thought-form section is what resolves the fictional section, and the two-frames beat needs all four
+entries in view, so halving it cuts the spine. If it must shrink, the beats should be restructured,
+not divided. Recorded rather than decided alone. (2) `dyn_range_CV` **0.341** and `short_sent_var`
+**0.160**, both the **lowest in Book IV** — the flattest escalation and most uniform rhythm of anything
+drafted, which is the tool's named direction for the Claude fingerprint. It is the predictable cost of
+four parallel sections carrying parallel apparatus, **and no attempt was made to disguise it by
+varying the structure**, because the parallelism is what makes the four entries comparable. A reader
+should decide whether that trade was worth it; the drafter is not the one to score it.
