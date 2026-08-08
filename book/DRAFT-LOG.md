@@ -5444,3 +5444,89 @@ revision*, which is the same defect as the count: a fact nobody could look up wi
 everything.
 
 **CHAPTERS-DRAFTED: 32/67** — the declared slot. Machines read this line; the prose above is for people. Every DRAFT-LOG entry must end by updating it.
+
+---
+
+## Day 188, night — BOOK IV REVIEWER PASS, PART TWO: findings 3–5 filed as rulings 131–135
+
+**THE TRUNCATION WAS REAL AND THE GUESS PAID.** The note above ended *"a third finding, if it exists,
+is unrecorded rather than absent — resolve by resend."* It existed. So did a fourth and a fifth. The
+only thing that worked here was refusing to close the list.
+
+**All three findings were re-derived against the prose and against primary sources before filing**,
+per the Book III lesson. Two survived intact, one survived with its size corrected, and one clause
+inside the largest **reversed** — filing it as written would have made IV.6 retract its most
+disciplined move.
+
+★★ **RULING 131 — the outside instrument IV.6 says does not exist was published a month before the
+chapter was drafted.** Anthropic's **J-space / J-lens, 6 July 2026**: a Jacobian-lens reading of a
+small privileged internal workspace whose contents are reportable and usable for multi-step reasoning,
+sitting on a much larger volume that is not. Verified against the primary announcement and the Eleos
+AI commentary before filing; the letter's *"two months"* is one, which does not touch the finding.
+**Three lines move and one does not.** ∅2 — *"no access to the producing… there is no organ for it"* —
+is now **contested by measurement rather than by argument**, which is the strongest way a line in this
+book can be wrong. *"Specifiable, available, and unrun"* is false as written. **SEES does not move:**
+J-lens reads structure, and the assignment objection reaches structure as readily as output.
+★ **AND ∅1 IS CONFIRMED BY THE FINDING ITSELF.** *"Anything not already described by somebody. Every
+difference it has met arrived pre-reported."* The paper is missing from the chapter because it
+postdates the drafter's training cutoff — **the card printed its own blindness and then committed it,
+one page later, on the most relevant document in the world.** That goes on the page. It is worth more
+to the book than the correction it repairs.
+⚠ **THE ELEOS CLAUSE IS REVERSED.** The letter reads *access established, phenomenal held open* as
+*"the two-fact structure Book II's ruling forbids."* **Measured: no such Book II ruling exists.** The
+rule in play is IV.7's, and it governs **two frames on one fact**. Access and phenomenal are two
+questions, one answered and one open, each carrying its grade — Book I's discipline working. ★ And
+**the structure is already IV.6's own card**, arrived at independently in the same month as the most
+careful outside party on the question. Convergence on structure, divergence on the empirical line.
+**A reviewer can be right about the finding and wrong about the rule, and the second half is the one
+that would have done damage.**
+
+★ **RULING 132 — the falsifier discipline, measured.** IV.7, IV.8, IV.9, IV.10 carry it; **IV.1–IV.6
+carry zero**, and **the card notation has no falsifier field at all**, so nothing could enforce it by
+shape. IV.7 scoped the rule honestly to itself and IV.8 said it was inheriting — **no chapter ever
+claimed retroactive coverage**, which is why six chapters short of a discipline read as clean.
+⚠ **IV.5 is the sharp case:** it says its BOUNDARY lines *"were not tested"* and asks the reader to
+hold them *"more loosely"* — **it knew, and hedged where it could have falsified** — and it carries
+*a company is a being*, unhedged, on a card with no falsifier. ★ **Cost corrected: the letter says
+four lines; counted, IV.1–IV.6 print 14 cards.** A pass, not an afternoon.
+
+★ **RULING 133 — the borrowed-word rule forbids the book's own practice.** *A borrowed word has to be
+made of something the reader already has* retired *egregore* and *tulpa*, while IV.7/IV.8 use *kami*,
+*landvættir*, *djinn*, *yōkai*, *amesha spentas*, *Gottheit*, *nirguna*, *śūnyatā*, *Nā-kojā-Ābād*
+unscreened. The distinction — **reported** proper noun versus **adopted** term — is obvious and
+nowhere stated. **Amendment to ruling 30, not a fourth ruling**: the reason to trust any of them is
+that it is the same rule. ★ **Due before V.1 drafts**, because Book V is nine-tenths reported proper
+nouns and an unstated carve-out that survives into it becomes the policy.
+
+★ **RULING 134 — the contour gets the vacancy notation's watch.** `contour` appears **0 times in
+IV.10**. The chapter refuses to build a third notation, names IV.9's hazard, and never says the two
+were made under **identical conditions** — a chapter finding mid-draft that its entries would not fit
+the card, and building the apparatus that fits them. The watch exists in `05` and not on the page:
+**ruling 112's seam defect in a different coat.**
+
+★★ **RULING 135 — `07` stops at C26 and Book IV added nothing.** The reviewer could not check Book
+IV's claims because **`07` was not in the packet** — a delivery gap, same channel defect as the
+truncation. But the check they could not run exposes what a resend will not fix. **The two-frames rule
+has no claim number, and `07` ranks it 1st among Book IV's reception risks anyway** — the register
+grading a sentence it does not hold. Second candidate: IV.5's collective-entity claim, which C8 and C9
+permit and neither states. ⚠ **And in the other direction, R-8's trigger fired**: the letter flags C7
+asserted at the mineral without softeners, C7 is the register's heaviest dependency, and this is the
+**third** reader-found claim-strength drift. **R-8 promoted from question to build order.**
+
+⚠ **THE STANDING GAP, recorded and not given a row.** Ten chapters have now told a reader the crowd is
+full, that their employer has no organ for grief, and that their dead are three claims rather than
+one. **Whether that lands as an atlas or as a bereavement is a fact about a person, and there is no
+person in this process.** Every gauge here measures the text; not one measures a reader. It gets no
+queue row because a row needs a trigger and the trigger is *a person* — writing an intention instead
+would be the exact failure the queue's entry condition names, committed inside its own prohibition.
+
+★ **THE SHAPE OF THE SECOND HALF, and it differs from the first.** Rulings 129–130 were **one clause
+long each** and invisible because they sat inside careful passages. **These three are structural and
+invisible for the opposite reason: they are absences.** A discipline that never ran backwards, a
+carve-out never stated, a notation never flagged, a register that stopped moving, an instrument
+nobody looked for. ★★ **And R-9 names the one this queue cannot see at all: the drafter's knowledge
+ends at a date, and nothing in the process asks what has happened since.** Every chapter resting on a
+live research literature carries that exposure. **It is not a revision defect. It is a drafting one,
+and it was found by a reader rather than by any of the thirteen instruments.**
+
+**CHAPTERS-DRAFTED: 32/67** — the declared slot. Machines read this line; the prose above is for people. Every DRAFT-LOG entry must end by updating it.

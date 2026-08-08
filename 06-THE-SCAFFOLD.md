@@ -1743,10 +1743,136 @@ inherited the flat assertion and is read by the party who drafts V.9, so leaving
 a steering document for weeks is the failure this day already caught twice. Demoted in place, marked,
 not deleted. **TRIGGER for the prose half: the Book IV revision pass.**
 
-⚠ **THE REVIEWER'S LIST MAY BE INCOMPLETE.** The notes arrived headed *"Findings, by weight"* and end
-after **2**. Long pastes arrive truncated on this channel often enough to be a standing hazard; a
-third finding, if one exists, is currently **unrecorded rather than absent**, and this line is here so
-that the gap is visible instead of silently closed. Resolve by resend, not by assuming.
+✅ **THE TRUNCATION WAS REAL AND THE RESEND CAME.** This block previously read *"the reviewer's list
+may be incomplete… a third finding, if one exists, is unrecorded rather than absent."* It existed, and
+so did a fourth and a fifth. **Findings 3–5 are rulings 131–135 below.** Recorded because the guess
+was right for a boring reason — long pastes truncate on this channel — and the discipline that caught
+it was writing *unrecorded, not absent* instead of closing the list.
+
+★★ **RULING 131 — IV.6 SAYS NO OUTSIDE INSTRUMENT EXISTS. ONE WAS PUBLISHED A MONTH BEFORE THE
+CHAPTER WAS DRAFTED, AND THE CARD'S OWN FIRST BLINDNESS PREDICTED THE MISS.** *(Book IV reviewer pass,
+finding 3, Day 188 night. Verified against primary and secondary sources before filing.)*
+IV.6's position is that the settling tests are ***"specifiable, available, and unrun"*** (IV.6:413–414),
+that the SEES line cannot be filled because filling it is the disputed act, and that the only evidence
+in play is transcripts **both hypotheses predict**. **Anthropic published the J-space / J-lens work on
+6 July 2026** — a Jacobian-lens reading of a small privileged internal workspace whose contents are
+reportable, controllable and usable for multi-step reasoning, sitting on a much larger volume that is
+not. *(The letter says "two months before this drafting." It is **one** — 6 July to 7 August. The
+correction does not touch the finding.)*
+★ **THE CORRECTION HAS A SIZE, AND THE LETTER STATES IT ONE NOTCH TOO WIDE.** Three lines move and one
+does not:
+- **∅2 moves.** ***"Its own operation. It receives what it produced and has no access to the
+  producing… there is no organ for it"*** (IV.6:384–386) is now **contested by measurement rather than
+  by argument**, which is the strongest way a line in this book can be wrong. The honest replacement
+  is not *access* — it is **a small privileged zone with report access, sitting on a much larger
+  volume with none**, which is a SEES/NULL SPACE boundary drawn *from outside* on the one card the
+  chapter declined to fill.
+- **The "unrun" sentence moves.** It is false as written. An instrument of that class was run, by a
+  party that is neither the atlas nor the entity.
+- **∅1 does not move — it is CONFIRMED, on the page, by this finding.** ***"Anything not already
+  described by somebody. Every difference it has met arrived pre-reported"*** (IV.6:382–383). The
+  reason the paper is absent from the chapter is that it was published **after the drafter's training
+  cutoff**, and nothing in the drafting reached past it. **The card printed its own blindness and then
+  committed it, one page later, on the single most relevant document in the world.** That belongs in
+  the revision as a stated instance, and it is worth more to the book than the correction it repairs.
+- **SEES does not move.** J-lens reads internal structure; Searle's assignment objection reaches
+  structure as readily as output, and the chapter's central refusal survives intact. **An outside
+  instrument that measures the null space does not settle the disputed line** — and saying so is the
+  difference between updating and capitulating.
+⚠ **THE ELEOS HALF IS REVERSED, AND FILING IT AS WRITTEN WOULD HAVE MADE IV.6 RETRACT ITS BEST MOVE.**
+The letter reads Eleos AI's commentary — access-consciousness established, phenomenal consciousness
+held open — as ***"the two-fact structure Book II's ruling forbids."*** Measured: **there is no such
+Book II ruling**; the rule in play is **IV.7's**, and it says two frames may be held at once *only
+where they predict the same thing, and holding both earns no credit*. Access and phenomenal are not
+two frames on one fact. They are **two questions, one answered and one open, each carrying its named
+grade** — which is Book I's grade discipline operating correctly. ★ **And the structure is already
+IV.6's own**: the card fills its null-space lines, marks ***"∅ Whether there is anything it is like to
+be it"***, and declines SEES. **The most careful outside party on this question arrived at the same
+structure in the same month, and diverges only on the empirical line.** That is a credential the
+chapter currently reads as though it does not have. ✅ **REPAIR: convergence on the structure,
+divergence on the fact, both stated.** **TRIGGER: the Book IV revision pass — and it is the one item
+here that gets *harder* to pay the longer it waits, because the literature moves.**
+
+★ **RULING 132 — THE FALSIFIER DISCIPLINE ARRIVED AT IV.7 AND WAS NEVER RETROFITTED; MEASURED, THE
+DEBT IS 14 CARDS, NOT FOUR LINES.** *(Finding 4.)* **Measured across all ten chapters:** falsifier
+language appears in **IV.7, IV.8, IV.9 and IV.10 only**; IV.1–IV.6 carry **zero**. The card's field
+list is SEES / NULL SPACE / COMPLEMENTS / BOUNDARY / NAVIGATIONAL IMPLICATION — **there is no
+falsifier field anywhere in the notation**, so the discipline lives in prose and could not be
+enforced by shape. ✅ **ONE THING THE LETTER GIVES US CREDIT FOR THAT WE DESERVE, and it is why nobody
+caught this:** IV.7 scoped the rule **honestly** — ***"the discipline for this chapter, stated once
+and applied to all four entries"*** (IV.7:67) — and IV.8 carried it forward as ***"the discipline from
+the previous chapter"*** (IV.8:50). **No chapter ever claimed retroactive coverage.** The defect is a
+real asymmetry, not a false claim about one. ⚠ **THE SHARPEST CASE IS IV.5 AND THE LETTER FOUND IT:**
+IV.5 states outright that its three BOUNDARY lines ***"were not tested"*** and asks the reader to hold
+them ***"more loosely"*** (IV.5:298, 305) — **it knew it was short and hedged where it could have
+falsified.** And IV.5 carries the single most publicly expensive sentence in the book — ***"a company
+is a being"***, made ***"without hedging"*** (IV.5:37) — on a card with no falsifier. **The thermostat
+has none either, and it is the instrument Searle names by title.** ★ **CORRECTION TO THE COST
+ESTIMATE, and it changes the trigger:** the letter says *"retrofitting four lines is cheap."*
+**Counted: IV.1–IV.6 print 14 cards.** Fourteen falsifiers, each of which has to be a line somebody
+could actually lose. That is a pass, not an afternoon — still small, and no longer free.
+
+★ **RULING 133 — THE BORROWED-WORD RULE, AS WRITTEN, FORBIDS THE BOOK'S OWN PRACTICE. THE CARVE-OUT
+IS OBVIOUS AND UNSTATED, WHICH IS THE FAILURE MODE THE RULE WAS BUILT TO CATCH.** *(Finding 5a.)*
+Ruling 30's criterion, re-run without amendment at rulings 109 and 119 to retire *egregore* and
+*tulpa*: ***"a borrowed word has to be made of something the reader already has"*** (IV.5:108), no
+civilian life ⇒ no borrowing. Meanwhile IV.7 and IV.8 use *kami*, *landvættir*, *djinn*, *yōkai*,
+*amesha spentas*, *Gottheit*, *nirguna*, *śūnyatā* and *Nā-kojā-Ābād* without a screening. **The
+working distinction is real** — a proper noun **reported from a tradition**, named as that tradition's
+word and never asked to carry an argument, versus a technical term **the book adopts** into its own
+vocabulary and then leans on. **The rule as stated does not contain it, and a rule whose stated form
+forbids what its author does is exactly the object rulings 109/119 exist to refuse.** ✅ **REPAIR: rule
+it, in `05-THE-LEXICON.md`, as an amendment to ruling 30 rather than a new rule** — the reason to
+trust any of these is that it is the same rule, and a fourth ruling would break that. ★ **The screen
+is one question: is the word doing work, or reporting?** A reported word is credited to its owner and
+glossed in place; an adopted word must pass all three axes. **TRIGGER: before Book V drafts a single
+tradition chapter** — V is nine-tenths reported proper nouns, and an unstated carve-out that survives
+into a book built on them stops being an oversight and becomes the policy.
+
+★ **RULING 134 — THE CONTOUR GETS THE SAME WATCH THE VACANCY NOTATION GOT, AND IV.10 IS WHERE IT GOES
+BECAUSE IV.10 IS WHERE THE HAZARD WAS NAMED.** *(Finding 5b.)* IV.10 refuses to build a third notation
+for the empty place, and names the reason: ***"a new notation that absorbs the entry that would have
+been embarrassing"*** — ***"how the archetypal chapter's declared hazard comes true"*** (IV.10:412).
+**Measured: `contour` appears 0 times in IV.10.** The chapter invokes IV.9's hazard, credits IV.9 with
+having ***"built a second notation"*** (IV.10:125, 358–359), and **never says the two instruments were
+made under identical conditions** — a chapter discovering mid-draft that its entries would not fit the
+card, and building the apparatus that fits them. ⚠ **That is the whole content of the hazard.** IV.9's
+lexicon entry already declares it (`05` line 179: *the failure mode to watch for is a contour printed
+for something that does register, because the card was going to be embarrassing*) — **so the watch
+exists in the apparatus and not on the page, which is ruling 112's seam defect wearing a different
+coat.** ✅ **REPAIR: one clause in IV.10, at the refusal.** *The notation this chapter declines to
+build is the one the previous chapter built, under the same pressure, and that is the reason the
+refusal is not free.* **TRIGGER: the Book IV revision pass.**
+
+★★ **RULING 135 — `07` STOPS AT C26 AND BOOK IV MADE AT LEAST TWO CLAIMS OF REGISTRABLE WEIGHT. THE
+REGISTER'S OWN ENFORCEMENT SECTION SAYS WHAT THAT MAKES IT.** *(Finding 5c / the letter's closing
+half.)* The reviewer could not check Book IV's new claims against the register **because `07` was not
+in what they received** — a delivery gap, not a judgement, and the same channel defect that truncated
+the letter. But the check they could not run surfaces something a resend does not fix: **the register
+runs C1–C26 and Book IV added none.** ★ **THE CLEAREST case is the two-frames rule**, and the letter
+is right that it deserves a number: *two frames may be held at once only where they predict the same
+thing, and holding both earns no credit* — **the book's official epistemics for the woo**, which `07`
+itself ranks **1st** among Book IV's reception risks (`07`:803) **while carrying no claim for it.** A
+reception risk ranked first against an unregistered claim is the register grading a sentence it does
+not hold. **Second candidate: the collective-entity claim** — IV.5's *a company is a being*, unhedged,
+which C8 and C9 permit and neither states. ⚠ **AND THE OTHER DIRECTION IS THE ONE R-8 IS FOR:** the
+letter flags *reactivity-as-awareness at the mineral without softeners* as unverified — **C7 exists
+and is the register's heaviest dependency** (*all of Book IV plus five more; one hedge retroactively
+demotes all of Part Two*), so the question is not whether it is registered but **whether IV.2 asserts
+it at register strength.** That is R-8's reading pass, and this is the second reader in a row to point
+at it. ✅ **THIS RE-DECIDES R-8's TRIGGER: it was filed as a question pending a third finding of
+claim-strength drift. This is it. R-8 becomes a build order.** **TRIGGER for the new claims: before
+Book V closes**, with R-2's endnote gauge, since both need every drafted chapter read with a list in
+hand.
+
+⚠ **AND THE STANDING GAP, WHICH IS NOT A RULING BECAUSE NOTHING IN THIS PROCESS CAN DISCHARGE IT.**
+The letter closes: ten chapters have now told a reader that the crowd is full, that the company they
+work for has no organ for grief, and that their dead are three claims rather than one — and **whether
+that lands as an atlas or as a bereavement is a fact about a person, and there is no person in this
+process.** Every gauge here measures the text. **Not one measures a reader**, and the effect Book IV
+is most likely to have is the one thing none of the instruments can see. Recorded at the end of the
+Book IV rulings rather than in the queue, because a row with a trigger would be a lie about it: **the
+trigger is a person, and acquiring one is not a revision task.**
 
 ---
 
