@@ -5903,3 +5903,74 @@ needs constraining. Draft against **disk**; let neither carrier be the authority
 P2 has a scoreboard before it has an outcome.
 
 **CHAPTERS-DRAFTED: 32/67** — unchanged; this entry files a debate, not a chapter.
+
+---
+
+## Day 188, late night — RULING 152. Clayton reads the queue and finds the row the queue could not find itself.
+
+*He was reading `REVISION-QUEUE.md` and said: **"I almost feel like Books I and III reviews/audits
+should be swept into the Revision Queue, just for safe measure. Leaving gaps is how we get left with
+gaps as we move forward."** He was right about the mechanism and wrong about the location, and the
+wrong location is the useful half.*
+
+★★ **RULING 152 — THE PROMOTION CONVENTION DID NOT SURVIVE ITS OWN FIRST NIGHT, AND THE PROOF IS
+`R-31`.**
+
+**Ruling 148, filed tonight, ruled the mechanism:** *"an entry that files an owed item must row it in
+the same commit, or it is a note."* **Roughly ninety minutes later the devil's-advocate entry against
+§7.3 filed `R-31` by number** — DRAFT-LOG L5902, *"R-31 (new, cheap, before V.1): log
+discovery-vs-compliance ruling counts per book"* — **and never wrote the row.** `grep R-31
+book/REVISION-QUEUE.md` returned nothing.
+
+⚠ **The aggravating detail is not that it was forgotten. It is which entry forgot it.** The
+devil's-advocate pass was the one whose entire subject was that a clean-feeling result is a selection
+effect. **It committed the defect it had just been ruled against, inside the document arguing that we
+are worse at self-audit than we think, and its own conclusion was therefore true in a way it did not
+know.**
+
+★ **AND THE DETECTION PATH IS THE FINDING.** No gauge caught it, and none could: **nothing derives
+`REVISION-QUEUE.md`**, so nothing can notice a row that is missing — the file says so in its own
+header and that header is now a demonstrated fact rather than a caution. **A human reading the file
+end-to-end caught it in one pass.** R-26 filed the promotion convention as *"a habit not a task";
+tonight measured what a habit is worth on its first night, which is: one instance, then a miss.*
+
+### What Clayton's instinct found, and what it did not
+
+**It did not find unpaid Books I/III review findings — those are clean, and I measured rather than
+assumed.** The Book I read (L613–735: the awareness equivocation → C24, the *having* contradiction →
+I.6, rulings 15 and 16) landed every catch at the time. The Book III reviewer pass (L3835–3912,
+rulings 104–107) landed four of four, and its one *"filed, unfixed, deliberately"* was fixed the same
+night as ruling 103. The per-chapter **`owed / by whom / discharged`** tables at III.4 and III.5 read
+fully discharged. Book III's forward obligations — Book VII's ethics, III.6's coupling history, VTR's
+*paths laid down in walking* — were all cashed **inside Book III**.
+
+✅ **So the correct object of his instinct was the TRIGGER, not the findings** — and there the queue
+was doing exactly what he suspected. Its COVERAGE section bundled the I/III sweep with **R-2
+(`large`, trigger *"before Book V closes"*, which is not a date) and R-8**. **The cheapest sweep in
+the queue was chained to the most expensive row in it.** The stated rationale — *doing it three times
+is the only way this gets skipped* — argues for **co-scheduling** and what got written was
+**dependency**. ★ **That is *a deferral with no trigger is the same failure wearing better clothes*,
+the file's own entry condition, violated by the file about itself.**
+
+### Filed
+
+- **`R-32`** — the I/III sweep, **unbundled**, with tonight's first cut banked in the row so it is a
+  measurement rather than a promise. The reading half still rides with R-8; it no longer waits on it.
+- **`R-31`** — rowed at last, ruling 151's trigger honoured, *"before V.1"*.
+- **COVERAGE amended.** *"Unknown, and asserted to be nothing"* → **partial and named.**
+
+⚠ **AND THE LIMIT, WRITTEN INTO THE ROW SO IT CANNOT BE READ AS A CLEAN BILL.** Tonight's cut was a
+**keyword grep** — `at revision`, `deferred`, `owed`, `unfixed`, `TODO`, nine more — over ~2,000 log
+lines. **It certifies that Books I and III carry no keyword-flagged deferral and nothing beyond
+that.** An obligation stated in prose that used none of those words is invisible to it, **and that is
+the only class it was ever going to miss** — which is also the class this project keeps actually
+finding. The instrument went where instruments are cheap. Recorded as such.
+
+★ **THE GENERALISATION, AND IT IS THE reason this is a ruling.** Three of tonight's four outside
+reads found a *thing*. **Clayton found a *coupling*** — two rows whose contents were both correct and
+whose relation was wrong. **No reader auditing rows one at a time can see that, and no gauge derives
+this file.** The trigger column has never been swept as a column. It should be, once, before Book V:
+**read the triggers alone, ignoring what they trigger, and ask which ones fire only when another row
+fires.** That is a different sweep from anything the queue has had, and it is cheap.
+
+**CHAPTERS-DRAFTED: 32/67** — unchanged; this entry files a ruling, not a chapter.
