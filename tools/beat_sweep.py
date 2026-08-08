@@ -248,6 +248,14 @@ def chapters(text):
 # that measured all of it. The `{0,40}` bound is the second guard: a real label is short.
 FIELD = r"\*\*(?:Thesis|Beats|Named|Source|Why|Register)[^*]{0,40}:\*\*"
 
+# Where a beat stops being a beat. ★ is NOT here and must not be added: it is used INSIDE beats
+# for emphasis, and terminating on it is the same over-correction `named()` documents above.
+# ⚠ The `{0,40}` bound on FIELD has also gone false and is left alone deliberately — two labels
+# in `06` exceed it (63 and 94 chars, both `**Named — added Day 186, …:**`), and widening it to
+# 200 recovers exactly ONE of the twenty-two long beats. It was never the cause. Measured before
+# it was believed, which is the only reason this comment says so.
+_MARKER = re.compile(r"⚠|\*\*RULING")
+
 
 def beats(body):
     """The moves a chapter claims, as strings. Thesis counts as a beat — it is the one the
@@ -266,6 +274,24 @@ def beats(body):
         else:
             parts = chunk.split("·")
         out.extend(("beat", p) for p in parts)
+    # ⚠⚠ THE MARKER TRIM — Day 189, and it is the fix `named()` got on Day 187 and this function
+    # did not. A field ends where the next MARKER begins; `beats()` had no marker terminator at
+    # all, so a chapter's ruling prose — which in this scaffold always comes AFTER its fields —
+    # was swallowed into the last beat and measured as part of it. II.8's thesis ran to 1,320
+    # words against a corpus median of 13. Twenty-two beats were over 60 words and most of that
+    # was not beat text. Every containment score computed against one of them was computed
+    # against the wrong string, and nothing errored: the repair went to one of two functions
+    # with the same defect, in the same file, on the same day.
+    #
+    # ⚠ AND THE OBVIOUS FIX IS THE WRONG ONE — measured, not reasoned. Terminating the FIELD on
+    # ⚠, exactly as `named()` does, deletes FOUR REAL BEATS from III.1, whose numbered list has
+    # a ⚠ standing before its later items. That is the Day-187 over-correction again, and this
+    # time in the dangerous direction: fewer beats reads as LESS alarm, and a beat that vanishes
+    # from a coverage gauge is an omission with no detector, which is `beat_delivery`'s entire
+    # thesis. So the cut is per-BEAT, not per-field: the field stays open, and each beat is
+    # trimmed at its own first marker. Measured over `06`: 305 beats before and 305 after — none
+    # lost — max 1,320w -> 267w, over-60 22 -> 13, median unchanged at 13.
+    out = [(k, _MARKER.split(t)[0]) for k, t in out]
     return [(k, t.strip()) for k, t in out if len(t.strip()) > 25]
 
 
