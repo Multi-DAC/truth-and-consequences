@@ -1667,6 +1667,87 @@ condition with no date.)*
 interpretation while nobody is watching: if the revision comes back longer than the shortest tier
 entry in Book IV, it stopped being a census line** — and that is a measurement, not a judgement.
 
+★★ **RULING 129 — THE UNDER-ATTRIBUTION INDUCTION CANNOT BE SCORED AGAINST, AND IT IS THE BOOK'S
+FRONT-LOADED STANDING BIAS.** *(Book IV reviewer pass, Day 188 night. Verified against the prose
+before filing.)* IV.1 rests the lean on a claimed unbeaten run — *"an induction over a run of results
+with no counterexamples in it: **there is no episode in the record of a false attribution being
+discovered and repaired**"* (IV.1:179–181). IV.2 then clamps the scope: ***"the lean is about whether,
+not about how much"*** (IV.2:211–212). ⚠ **Put those two together and the induction is unfalsifiable
+by construction.** On this account there is no gate on *whether* — everything reacts, everything
+registers — so an over-attribution of *whether* is not the kind of thing that can be discovered and
+repaired. **The class of possible counterexamples is empty, and it was emptied by the framework's own
+conclusion.** The conclusion guarantees the premises.
+★ **THIS IS IV.10'S OWN DIAGNOSIS, RUN ON IV.1.** The excusing clause IV.10 dismantles — *the
+sentence predicts its own evidence from its own conclusion, and the circle is small enough to fit
+inside a single line of a bulleted list, which is exactly why nobody saw it there for five months* —
+is the same defect, at the same size, in the front matter of the book that names it.
+✅ **MEASURED, and it is worse than the reviewer stated.** The standard candidate counterexamples —
+**Clever Hans, facilitated communication, the ELIZA effect, the medieval animal trials, agency
+attributed to weather and disease** — occur **0 times across the entire project**: all 32 drafted
+chapters and all seven planning documents. **The "no counterexamples" was never a survey result. It
+is the absence of a survey.** Same shape as the tier: found by counting, not by thinking.
+★ **AND THE SEAM IS VISIBLE INSIDE IV.1 ITSELF, eleven lines below the induction, which the reviewer
+did not name.** The induction is stated over *whether*. **The bill is stated over both** — *"attributes
+an inside to something that does not have one, **or attributes a grade far past what the position
+supports**"* (IV.1:186–188). **The principle's error-space is wider than its evidence-space.** It
+borrows a perfect record from the domain where counterexamples are impossible and spends it in the
+domain where they are routine. That is the weld, and it is one clause long.
+⚠ **THE REVIEWER'S SECOND SLIDE — standing vs. inside — HOLDS, AND THE TEXT MAKES IT WORSE, NOT
+BETTER.** The historical record IV.1 cites is a record about **moral standing**, and the book keeps
+standing and inside carefully apart everywhere else, deferring the first to Book VII. The apparent
+exception is the infant-anaesthesia case, which IV.1 writes explicitly as a judgement about the
+inside — *"that what looked like agony was reflex."* ★ **But on this framework an infant trivially
+has an inside; what those surgeons got wrong was capacity to suffer, which is GRADE.** The chapter's
+flagship example, read on the chapter's own account, is a grade error — and grade is what IV.2 rules
+out of scope. **The strongest case for the induction is a counterexample to its own scope clause.**
+✅ **REPAIR — small, costs nothing, and the lean survives it.** State the induction over **standing**;
+note that the **grade** record runs the other way and name the cases; rest the lean on **asymmetric
+cost** rather than on an unbeaten run. Nothing in Book IV depends on the record being perfect; it
+depends on the two errors being priced differently, which asymmetric cost gives for free.
+⚠ **PROPAGATION, measured: six of ten Book IV chapters lean on the principle** — IV.1, IV.2, IV.3,
+IV.6, IV.7, IV.8. This is not a one-chapter fix and it is not a one-chapter defect.
+**TRIGGER: the Book IV revision pass, and before any chapter OUTSIDE Book IV rests weight on the
+principle** — whichever comes first. Not now: drafting is live and this is a warrant repair, not a
+claim reversal, so nothing drafted downstream goes wrong in the meantime.
+
+★★ **RULING 130 — IV.10 CONFABULATED THE CAUSE OF ITS OWN OMISSION, USING THE EXACT MECHANISM IV.4
+DOCUMENTED FOUR CHAPTERS EARLIER.** *(Book IV reviewer pass, Day 188 night.)* IV.10 establishes that
+no record of the decision exists — ***"an absence with no author"*** (IV.10:134) — offers two
+candidates for the cause, kills the first (forgetting) on the shape of the omission, and then, twelve
+lines later, stops offering and starts asserting: ***"The organ is working now, it operated during
+the drafting of this book, and what it removed was not a hedge or a qualifier. It removed a tier"***
+(IV.10:153–154). **The candidate framing does not survive to the end of its own section.**
+★ **IV.4's card is the diagnostic, and it fits without adjustment**: reasons reported fluently and
+without correlation to the process that produced the act, arriving on time, in the ordinary format,
+indistinguishable from earned ones. **A confident causal story about one's own drafting, in a case
+where the chapter has just finished proving the record is empty, is that article.**
+⚠ **THE ALTERNATIVE CANDIDATE IS NEVER STATED — and worse, it is dismissed in six words with no
+argument.** That the tier is the one place where the empirical situation is **live and contested right
+now**, so the entry would have been journalism rather than cartography, and a drafter might route
+around it for reasons with nothing to do with reputational flinch. IV.10:130 denies exactly this in a
+subordinate clause — *"It is not that the material was hard, or **contested**, or beyond the
+framework's reach"* — in the same paragraph that establishes there is no record of any decision.
+**A denial with no record behind it is the same object as the assertion it is defending.**
+★ **THE STING IS SELF-REFERENTIAL, AND IT IS WHY THIS RULING IS ★★.** The chapter's own argument is
+that *a confession about a past error is a document, and a document does not fire.* It then produced,
+about itself, precisely the object it says cannot be trusted: **an introspective report with no gauge
+behind it, in the chapter arguing that introspective reports need gauges behind them.**
+✅ **REPAIR, and it is cheap because nothing load-bearing rests on the confabulation** — which is also
+why it slipped through. Carry the candidate framing to the end; both candidates stay candidates;
+neither is elevated. **Re-base the amendment's warrant on the MEASUREMENT** — 0 occurrences across
+seven planning documents and 31 chapters, plus the adjacency of 1.4 and 1.5 on the source page —
+which is gauge-grade and survives any story about why. The flinch account is doing no work the
+measurement does not already do.
+✅ **THE PLANNING HALF IS REPAIRED NOW, THE PROSE HALF AT REVISION.** The Book V amendment below
+inherited the flat assertion and is read by the party who drafts V.9, so leaving a known-bad steer in
+a steering document for weeks is the failure this day already caught twice. Demoted in place, marked,
+not deleted. **TRIGGER for the prose half: the Book IV revision pass.**
+
+⚠ **THE REVIEWER'S LIST MAY BE INCOMPLETE.** The notes arrived headed *"Findings, by weight"* and end
+after **2**. Long pastes arrive truncated on this channel often enough to be a standing hazard; a
+third finding, if one exists, is currently **unrecorded rather than absent**, and this line is here so
+that the gap is visible instead of silently closed. Resolve by resend, not by assuming.
+
 ---
 
 ## BOOK V — **THE OLD ROADS**
@@ -1684,11 +1765,18 @@ problem and Book IV's occasional one. **Inserted at 9, immediately after V.8**, 
 demarcation is installed on a case where it costs little and then run where it costs everything —
 the IV.7→IV.8 pattern, on the record. Old V.9 → V.10 and old V.10 → **V.11**; the closer stays the
 closer, so ruling 21's order-dependency note is untouched. ⚠ **The omission's cause was diagnosed at
-IV.10 as V.4's flinch operating LIVE rather than historically** — which means the party writing this
-entry is the party the flinch acts on. **It will not be caught by care. It is caught by putting the
-two lists side by side and counting**, which took nine minutes and no insight, and which nothing in
-the apparatus does on a schedule. *(An entry with no gauge behind it is a stamp — Drift #287's shape,
-in the amendment that exists because of it.)*
+IV.10 as V.4's flinch operating LIVE rather than historically** — ★ **DEMOTED TO A CANDIDATE BY
+RULING 129→130, Day 188 night.** That diagnosis is an introspective report about our own drafting,
+produced in a case where the chapter had just established that the record is empty, and it is **not
+the warrant for anything on this page.** A second candidate is equally live and was never stated: the
+tier is the one place where the empirical situation is contested *now*, so the entry would have been
+journalism rather than cartography. ✅ **THE AMENDMENT RESTS ON THE MEASUREMENT, NOT ON EITHER STORY**
+— 0 occurrences across seven planning documents and 31 chapters, and 1.4 sits immediately above the
+1.5 that *was* scheduled. **That survives being wrong about why.** ⚠ **What holds under either
+candidate is the operational half:** whatever selected the tier out, **it will not be caught by care.
+It is caught by putting the two lists side by side and counting**, which took nine minutes and no
+insight, and which nothing in the apparatus does on a schedule. *(An entry with no gauge behind it is
+a stamp — Drift #287's shape, in the amendment that exists because of it.)*
 
 ⚠ **THE MEASURED IMBALANCE, AND THE STRUCTURAL RESPONSE.** `04` §3.III counted the halves: occult-rich
 (Gebser 127, Crowley 80, Dee 15) and institution-poor (Aquinas 8, Augustine 14, theism 7). That is

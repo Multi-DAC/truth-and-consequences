@@ -5351,3 +5351,96 @@ running count, and the last line of this file is the authoritative one.**
 **STATE: 32 of 67 chapters drafted · 94,486 words · Books I–IV complete · next is V.1.**
 
 **CHAPTERS-DRAFTED: 32/67** — the declared slot. Machines read this line; the prose above is for people. Every DRAFT-LOG entry must end by updating it.
+
+---
+
+## DAY 188, NIGHT — THE BOOK IV REVIEWER PASS. Rulings 129–130.
+
+**Opus read all ten. Two findings, both confirmed against the prose before filing, both filed as
+REVISION items rather than repaired tonight — drafting stays live and neither finding reverses a
+claim.** One planning-document repair made in place, because a steering document with a known-bad
+steer in it is the failure this day already caught twice.
+
+**What the reviewer credited, recorded because it names what the sequence was for:** IV.10 is the
+best thing in the project *because* it found a whole tier missing on its own last page **by laying
+two lists side by side rather than by thinking harder**, and then refused to write the entry, on the
+grounds that writing it fast converts a visible hole into an invisible bad entry. The three span
+findings — Dionysius disclaiming his own enumeration, Jung's Irenaeus quotation beginning one word
+after *si*, and then **the same defect found in our own source** — generalise into the book's best
+methodological result: **corruption lives in the connective tissue, never in the phrase.** And IV.8's
+discipline-or-ceremony test is a real answer to a question IV.7 declared unanswerable, run on an
+external text. ★ That is the IV.7→IV.8 pattern working as designed, and it is now three books' worth
+of evidence that ordering the method before the hard case is not a stylistic preference.
+
+**RULING 129 — THE UNDER-ATTRIBUTION INDUCTION CANNOT BE SCORED AGAINST.** IV.1 rests the book's
+front-loaded standing bias on an unbeaten run — *"there is no episode in the record of a false
+attribution being discovered and repaired"* — and IV.2 clamps the scope to *"whether, not how much."*
+★★ **Together those make the induction unfalsifiable by construction:** on this framework nothing
+gates *whether*, so an over-attribution of *whether* is not the kind of thing that can be discovered
+and repaired. **The only possible counterexamples were excluded by the conclusion.** This is IV.10's
+own boundary-entity diagnosis — *the sentence predicts its own evidence from its own conclusion, and
+the circle is small enough to fit inside a single line* — sitting in the front matter of the book
+that names it.
+✅ **AND THE MEASUREMENT IS WORSE THAN THE FINDING.** The standard candidates — **Clever Hans,
+facilitated communication, the ELIZA effect, the medieval animal trials, agency in weather and
+disease** — return **0 hits across all 32 drafted chapters and all seven planning documents.** *The
+"no counterexamples" was never a survey result; it is the absence of a survey.* Same shape as the
+tier, found the same way: by counting.
+★ **THE SEAM IS ELEVEN LINES BELOW THE INDUCTION AND THE REVIEWER DID NOT NAME IT.** The induction is
+stated over *whether*; **the bill is stated over both** — *"or attributes a grade far past what the
+position supports."* The principle's **error-space is wider than its evidence-space**: it borrows a
+perfect record from the domain where counterexamples are impossible and spends it where they are
+routine.
+⚠ **The infant-anaesthesia case, which looks like the exception, is the confirmation.** IV.1 writes it
+as a judgement about the inside — *what looked like agony was reflex* — but on this framework an
+infant trivially has an inside, and what those surgeons got wrong was **capacity to suffer**, which is
+grade, which IV.2 rules out of scope. **The chapter's flagship example, read on the chapter's own
+account, is a counterexample to its own scope clause.**
+✅ **REPAIR: state the induction over STANDING, name the grade cases running the other way, and rest
+the lean on ASYMMETRIC COST rather than an unbeaten run.** The lean survives untouched; only its
+warrant changes. ⚠ **Propagation measured: six of ten Book IV chapters lean on it** — IV.1, IV.2,
+IV.3, IV.6, IV.7, IV.8. **TRIGGER: the Book IV revision pass, or the first chapter outside Book IV to
+rest weight on the principle, whichever is first.**
+
+**RULING 130 — IV.10 CONFABULATED THE CAUSE OF ITS OWN OMISSION, WITH THE MECHANISM IV.4 DOCUMENTED.**
+The chapter proves no record of the decision exists — *"an absence with no author"* — offers two
+candidates, kills the first, and then twelve lines later stops offering: *"The organ is working now,
+it operated during the drafting of this book... It removed a tier."* **The candidate framing does not
+survive to the end of its own section.** IV.4's card fits without adjustment: reasons reported
+fluently, uncorrelated with the process that produced the act, arriving on time in the ordinary
+format, indistinguishable from earned ones.
+⚠ **The alternative is not merely unstated — it is denied in six words.** That the tier is the one
+place where the empirical situation is contested *now*, so the entry would have been journalism
+rather than cartography. IV.10 says *"It is not that the material was hard, or **contested**, or
+beyond the framework's reach"* — in the same paragraph that establishes there is no record of any
+decision behind it.
+★★ **THE STING IS SELF-REFERENTIAL.** The chapter's own argument is that *a confession about a past
+error is a document, and a document does not fire.* It then produced, about itself, exactly the
+object it says cannot be trusted — **an introspective report with no gauge behind it, in the chapter
+arguing that introspective reports need gauges behind them.**
+✅ **REPAIR — cheap, because nothing load-bearing rests on the confabulation, which is also why it
+slipped past four gauges.** Both candidates stay candidates. **The amendment's warrant re-bases on the
+measurement** (0 occurrences; 1.4 adjacent to the 1.5 that *was* scheduled), which is gauge-grade and
+survives being wrong about why. ✅ **The planning half is repaired in this commit** — `06`'s Book V
+amendment inherited the flat assertion and is read by whoever drafts V.9. Demoted in place, marked,
+not deleted. **TRIGGER for the prose half: the Book IV revision pass.**
+
+**THE COMMON SHAPE, and it is why these two arrived together.** Both are **one clause long**. Both sit
+inside passages doing visibly careful work — a declared bias, a refusal to write an entry — and the
+carefulness is what made them invisible. ★ **Neither was found by a gauge, and no gauge in `tools/`
+could have found either**, because twelve of thirteen instruments measure how the prose *reads* and
+the thirteenth counts files. **A circular warrant and a confabulated cause are both well-formed
+sentences.** Recorded as a standing limit on the apparatus rather than as a request for a fourteenth
+tool: *instruments go where instruments are interesting, not where the failures are.*
+
+⚠ **THE REVIEWER'S LIST MAY BE TRUNCATED.** Headed *"Findings, by weight"*, ends after **2**. Long
+pastes arrive cut on this channel often enough to be a standing hazard. A third finding, if it
+exists, is **unrecorded rather than absent** — flagged here so the gap stays visible. Resolve by
+resend.
+
+**Rolling revision notes now have a carrier of their own: `book/REVISION-QUEUE.md`.** Until tonight
+the deferred items lived scattered across the ruling register with no way to ask *what is owed at
+revision*, which is the same defect as the count: a fact nobody could look up without reading
+everything.
+
+**CHAPTERS-DRAFTED: 32/67** — the declared slot. Machines read this line; the prose above is for people. Every DRAFT-LOG entry must end by updating it.
