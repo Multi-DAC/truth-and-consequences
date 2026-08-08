@@ -6393,3 +6393,94 @@ fails is exactly as useless as one that never does, and it looks healthier.**
 R-13. **Nothing between here and drafting WHAT A TRADITION IS.**
 
 **CHAPTERS-DRAFTED: 32/67** · **CLAIMS: C1…C30.**
+
+---
+
+## V.1 — WHAT A TRADITION IS · Day 189, 2026-08-08 · 3,306 words · ✅ landed
+
+    C-LICENSE: C1 C5 C15 C24 C30 · new: none
+
+**The first entry written under the convention, and the first chapter in this project drafted
+against a claim that existed before it.** C30 was registered this morning specifically so that V.1
+would have to spend it rather than invent it, and the arrangement did what it was built to do: the
+row's two named near-misses — the perennialist claim, and the flattering inversion where our own
+agreement is counted as a datum — are both refused on the page, and neither would have occurred to
+the drafter at the desk. **A claim booked ahead of its chapter is a note from someone with more time
+than you have.**
+
+| metric (per 1k words unless noted) | V.1 | IV.1, the comparable opener | |
+|---|---:|---:|---|
+| **announcement** | **0.91** | 2.20 | ✅ |
+| named reference | 23.59 | 8.78 | — Book V is the apparatus book; the roster is the chapter |
+| 2nd person | 3.33 | 7.32 | ⚠ under, and half of it arrived in one late repair |
+| meta-textual | 6.65 | 5.12 | ⚠ a method chapter's occupational hazard |
+| paragraph-intensity CV | 0.418 | 0.364 | ✅ over the last opener, still under Clawd-raw 0.509 |
+| voice uniformity | 0.6305 | 0.629 | ⚠ flat, unchanged axis, eleven chapters running |
+| terminal commentary | 0.054 | 0.125 | ✅ |
+
+### What the pre-draft sweep bought, and it is the whole reason that step exists
+
+`prose_beat_sweep --chapter V.1` returned IV.10:243 at cos 0.718 against the method beat, and the
+paragraph reads: *"The road-reading book opens by promising no condescension, no debunking, and no
+hedge. This is the fourth thing that list needed and did not have, and it is installed here, one
+book early: **no exemption.**"*
+
+★★ **The method promise has been a FOUR-part promise since Book IV and `06`'s brief still says
+three.** V.1 is the page that promise is made on. Drafted from the brief alone, the chapter would
+have shipped the three-item version, and the fourth — *no exemption*, the one that says a
+tradition's claim must be the kind of thing that can be wrong or crediting it is empty — would have
+been installed in Book IV, cited nowhere, and quietly dead. **The brief was current and the book had
+moved past it.** Seventh measurement in two days to disagree with the document that sent me, and the
+first where the document was not stale but *superseded from downstream*: IV.10 amended V.1's method
+and had no way to write into V.1's brief. → `06` V.1's beat list is now wrong by omission; filed.
+
+### The chapter's own hardest paragraph, and it makes the convergence argument smaller
+
+The convergence beat could have been written from the six epigraphs and felt overwhelming. Counted
+instead: **five of the six are cousins.** Plotinus → Proclus → the Dionysian corpus → Eriugena's
+Latin → Aquinas and Eckhart on one side; on the other, the ninth-century Baghdad translations, in
+which excerpted Plotinus circulated as *The Theology of Aristotle* — a transmission so complete its
+recipients did not know whose it was — into the milieu Ibn Arabi's school worked in, with Kabbalah
+developing in contact with both. **Six statements, one Alexandrian schoolroom, quoted back five
+times.** The chapter says so and drops the defensible count to **three independent branches**
+(the Mediterranean family counted once, India, China), then says that the traditions it cannot
+count are its own null space rather than their silence.
+
+**And then it moves the argument to the axis that survives**: instrument-independence, not
+geography — sitting, spinning, fasting, letter-permutation, sacrament, decoction — which is also
+the axis the shared-cognitive-architecture deflation attacks directly. The deflation is stated at
+full strength, granted the phenomenology outright, and refused only on the propositions, with the
+one part of it that survives left standing and named as unanswered. C30's *evidence, not proof* is
+then paid in the only form that is operational rather than decorative: **nothing in Books I–IV
+rests on this book, and cutting Book V would cost corroboration and not one premise.**
+
+### `claim_sweep` fired on this chapter three times, and the third time it was the tool
+
+`[C15/trap5]` on the destination-list — *henosis, fanāʾ, kaivalya, cessation, union*. Two prose
+repairs did not clear it, and the reason is the finding: **the per-rule `licensed` guard is checked
+against the raw physical line**, `guard_text = para_of.get(n, line) if rule_id in
+PARA_LICENSED_RULES else line`, and `PARA_LICENSED_RULES` has exactly **one** member. Ruling 103 gave
+the sentence window to `MENTION_MARKERS` and **never gave it to the licence guard beside it.** On a
+hard-wrapped manuscript a licence word that lands one wrap from its needle is invisible, and the rule
+reports a USE. That is ruling 103's own defect, in the sibling guard, unfixed — and it applies to
+every rule carrying a licence pattern, not to this one.
+
+⚠ **The guard was NOT widened.** Widening it can only move hits USE→clean, which is the direction
+that makes a gauge stop measuring, and doing it in the hour it fired on my own prose is the exact
+conflict of interest this project keeps catching in others. **Filed as R-37, to be run cold, with
+the before/after delta over all 56 files read as the deliverable.** The line was cleared by the
+form the tool already sanctions — direct emphasis, *"naming a retired word to refuse it"* — which
+is not a dodge here but the accurate reading: the sentence's own subject is *the place has a
+different **name** on each of them*, so every item in that list is a mention. The plain form was the
+sloppy one.
+
+### Owed, and honest about it
+
+The **2nd-person rate is 3.33 against IV.1's 7.32**, and the repair that raised it arrived late and
+in one place. A book-opener that never turns to the reader is a lecture, and this chapter is closer
+to one than the atlas's opener was. Not repaired further tonight because the fix is a rewrite of the
+deflation section rather than an insertion, and an insertion is what would have happened at this
+hour. → filed with the Book V pass, not as a queue row against a chapter that has not been read
+cold yet.
+
+**CHAPTERS-DRAFTED: 33/67** · **CLAIMS: C1…C30.**

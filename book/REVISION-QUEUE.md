@@ -218,6 +218,34 @@ be a two-chapter problem at 11 beats against a mean of ~4.5).**
 **BLOCKING LATER, with real triggers:** R-1 → V.9 · **R-25 → V.4** *(new: IV.10 pre-spent V.4's central
 beat at containment 1.00, and `06`:2143 still lists it)* · R-20 → Book VII · R-2 → before Book V closes.
 
+---
+
+### R-37 — `tools/claim_sweep.py`: ruling 103's window was given to one of the two guards
+
+**Filed Day 189 at V.1, by the rule firing on the drafting chapter three times.** The per-rule
+`licensed` pattern — the *"this use is permitted"* companion carried by twenty-odd rules — is
+matched against the **raw physical line**:
+
+    guard_text = para_of.get(n, line) if rule_id in PARA_LICENSED_RULES else line
+
+and `PARA_LICENSED_RULES` has exactly **one** member (`TERM/awareness-unglossed`). Ruling 103
+established that *"the unit a mention actually lives in is the SENTENCE"* and built
+`sentence_window()` — **and wired it only into `MENTION_MARKERS`.** The licence guard sitting beside
+it kept the line scope. The manuscript is hard-wrapped, so a licence word one wrap from its needle
+is invisible and the rule reports a USE. This is the cross-wrap defect the file already documents
+for *needles*, in the *licence*, undetected because a false USE is noisy rather than silent — it
+looks like a finding, and the drafter edits their prose until it goes away.
+
+⚠ **DO NOT WIDEN IT WHILE DRAFTING, AND THE REASON IS NOT CAUTION.** The change can only move hits
+**USE→clean**, which is the single direction that makes a gauge stop measuring while still printing
+output — the failure this file's own comments warn about three separate times. Run it cold, on a
+day nothing is being drafted, and **the deliverable is the before/after delta over all 56 files
+read line by line**, not the exit code. Any hit that disappears is a hit that was being suppressed
+by a licence three sentences away, which is a second finding.
+
+**Trigger: the next tools pass, with R-27.** Not blocking — V.1 was cleared on the merits by the
+emphasis form the tool already sanctions, which was the accurate reading of that sentence anyway.
+
 ⚠ **AND THE FINDING THAT OUTRANKS THE LIST.** §7.3 of the audit, adopted as ruling 150's companion:
 **every major miss in the first half ran in the same direction — C24, C26, the missing tier, the
 unregistered Book IV claims, the pre-spent Book V beats. The prose got ahead of the apparatus, and the

@@ -2112,9 +2112,19 @@ harder work, and putting them second would guarantee they stayed thin.
 **Source:** `the-inside-view/ANCESTORS-AND-TRADITIONS-integrated-plan-2026-06-26.md` (a near-complete
 roster with framework readings already drafted — the occult half) · **the institutional half is NEW.**
 
-### V.1 — WHAT A TRADITION IS
-**Beats:** each tradition is a perspective; its reports are prior cartography of the same configuration
-space · «**no condescension, no debunking, no hedge** — stated as method, once» · the convergence itself
+### V.1 — WHAT A TRADITION IS ✅ DRAFTED — 3,306 words
+⚠⚠ **THE METHOD BEAT BELOW WAS WRONG WHEN THIS CHAPTER WAS DRAFTED, AND NOT BY GOING STALE —
+IT WAS SUPERSEDED FROM DOWNSTREAM.** It says *three* things (no condescension, no debunking, no
+hedge). **IV.10:243 added a fourth, `no exemption`, and said so on the page: *"installed here, one
+book early."*** A chapter in Book IV amended Book V's method promise and had no route by which to
+write into Book V's brief. Caught by `prose_beat_sweep` at cos 0.718 — the highest match the sweep
+returned for any V.1 beat — and **not** by reading, because the brief was internally coherent and
+looked current. ✅ **All four are on the page in V.1.** *(The class is new and worth its own name:
+not a stamp that rotted, a brief that was overtaken by the book it was briefing. A freshness check
+cannot see this; only a content sweep against the drafted prose can.)*
+**Beats:** each tradition is a perspective; its reports are prior cartography of the same ground ·
+«**no condescension, no debunking, no hedge — AND NO EXEMPTION** (four, per IV.10) — stated as
+method, once» · the convergence itself
 is the argument: many independent perspectives, one Ground · and the limit — convergence is evidence,
 not proof, and we say which · ★ «**NEW, and it belongs in the first chapter or nowhere:**» we take their
 ontology and refuse their destination. *(01 Trap 5.)* Nearly every road in this book ends at
