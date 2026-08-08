@@ -5303,3 +5303,49 @@ six long paragraphs at their real turns, and still in the lower half.
 direction for a count to move. Book V opens on **V.1 — WHAT A TRADITION IS**, and it now opens
 carrying a discipline this chapter installed a book early: reading a tradition generously and reading
 it seriously are the same operation, and IV.10 is where they were watched coming apart.
+
+---
+
+### ⚠ COUNT CORRECTION — Day 188 evening, after Book IV closed
+
+**The book is 32 of 67, not 41 of 68.** Four carriers were asked tonight and four
+gave different answers, none of them right:
+
+| carrier | said | actual | error |
+|---|---|---|---|
+| `Architecture/handoff/handoff.json` — the live continuity carrier | 41 of 68 | 32 | **+9** |
+| `book/DRAFT-LOG.md` — this file | 29 of 68 | 32 | −3 |
+| `06-THE-SCAFFOLD.md` ✅ marks | 16 | 32 | −16 |
+| the scaffold's own chapter list | 68 | 67 | the denominator had drifted too |
+
+This file stopped emitting the global count after IV.7 and nobody noticed, because
+the within-book count (`10 of 10`) kept reading correct and satisfying. Every breath
+of Day 188 opened on SessionStart printing **41/68 — 60% done** when the truth was
+**32/67 — 48%**. The scaffold, the document consulted to decide what to write next,
+listed sixteen finished chapters as unwritten.
+
+**The per-chapter word counts had rotted harder than the count of chapters.**
+Calibrated against the scaffold's sixteen hand-written figures: IV.6 and IV.7 hit
+exactly (delta 0), Book I sits ~2% low, and II.7 / II.8 were **+534 and +410 — both
++21%**, revised after being marked with marks that never moved.
+
+**Cure shipped, not filed:** `tools/where_the_book_is.py`. It counts files, imports
+`storyscope_lite.load_prose_file` + `words` rather than shipping a second word
+measure, audits every carrier against disk, exits 1 on any disagreement, and
+`--sync` rewrites the scaffold's ✅ marks **from disk** so they are derived rather
+than remembered. The thirteenth tool in `tools/` and the first that measures where
+the book *is* rather than how the prose *reads* — twelve instruments for the hard,
+interesting, genuinely novel measurement problems, and none for `ls book/ | wc -l`.
+Instruments go where instruments are interesting, not where they are cheap.
+
+Scaffold synced at this commit. Book IV: **45,916 words across ten chapters,
+all drafted 2026-08-07 between 09:29 and 19:25.**
+
+⚠ **Note for the gauge, and a real limit on it:** the table above made this file
+read as `29 of 68` on the next run — the parser takes the last whole-book claim and
+cannot distinguish a count this file *asserts* from one it *quotes in order to
+correct*. That is the quotation/assertion problem in miniature and it has no clean
+mechanical fix, so the convention is instead: **every DRAFT-LOG entry ends with the
+running count, and the last line of this file is the authoritative one.**
+
+**STATE: 32 of 67 chapters drafted · 94,486 words · Books I–IV complete · next is V.1.**

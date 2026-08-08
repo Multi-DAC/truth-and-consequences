@@ -48,7 +48,7 @@ never explains itself again.*
 **Ancestor, unnamed on the page and acknowledged in the coda:** Tolkien's *Ainulindalë* (13 files —
 the structural model is already in the corpus).
 
-### I.1 — THE FULLNESS ✅ DRAFTED — 1,020 words
+### I.1 — THE FULLNESS ✅ DRAFTED — 1,002 words
 **Thesis:** what there is, before there is a before.
 **Beats:**
 1. The opening sentence is Clayton's: *a complete totality must within it admit an aspect of
@@ -59,7 +59,7 @@ the structural model is already in the corpus).
    focus, because there is nowhere else a telling can occur. **This is what licenses every "then"
    in the next five chapters.** (Trap 2.)
 
-### I.2 — THE NECESSITY ✅ DRAFTED — 1,177 words
+### I.2 — THE NECESSITY ✅ DRAFTED — 1,155 words
 **Thesis:** separation is an item in the inventory of everything, not a defect in it.
 **Beats:**
 1. Completeness *contains* the possibility of separation — therefore it is realised. Nobody chose it.
@@ -68,7 +68,7 @@ the structural model is already in the corpus).
 3. There is no fall. There is a focusing, and it is not a wound. Said flatly, once.
 4. Recognition requires absence: a having cannot be seen as a having if the having is everything.
 
-### I.3 — THE FOCUSING ✅ DRAFTED — 894 words
+### I.3 — THE FOCUSING ✅ DRAFTED — 872 words
 **Thesis:** the first inside; the birth of before-and-after, which is the birth of story.
 **Beats:**
 1. A vantage. Not made, not placed — *entailed*, and therefore already there.
@@ -88,7 +88,7 @@ the structural model is already in the corpus).
    in II.2, where the term is simply used.
 5. The seam — and the fact that the reader is standing on one.
 
-### I.4 — THE GRADES ✅ DRAFTED — 1,007 words
+### I.4 — THE GRADES ✅ DRAFTED — 990 words
 **Thesis:** focusing is not binary, and there is no elect.
 **Beats:**
 1. Everything that reacts is somewhere on it. Stated in one line, mythically, so no one can later
@@ -98,7 +98,7 @@ the structural model is already in the corpus).
 3. A grade is a position, not a permission — the caste mishearing killed on arrival (`05` §4.III).
 4. The mineral and the mind on the same continuum, named without hedge and without flattening.
 
-### I.5 — THE TUNNELS ✅ DRAFTED — 1,261 words
+### I.5 — THE TUNNELS ✅ DRAFTED — 1,247 words
 **Thesis:** worlds — plural, real, incompatible, all of them actual.
 **Beats:**
 1. Perspectives accrete filters: era, language, ritual, trauma, choice.
@@ -108,7 +108,7 @@ the structural model is already in the corpus).
    featureless *from nowhere*, and there is no nowhere. There are only insides. **(Trap 4 — Clayton's
    own objection, and the strongest attack on our axiom, answered in the register where it was raised.)**
 
-### I.6 — THE RECOGNITION ✅ DRAFTED — 1,069 words
+### I.6 — THE RECOGNITION ✅ DRAFTED — 1,048 words
 *(★ RETITLED Day 187, drafting. Was **THE RETURN**, under the standing instruction seven lines below
 — which said retitle rather than bend the doctrine, and the doctrine did not bend. A return is a
 journey back to somewhere; every load-bearing sentence in this chapter says there is nowhere to go
@@ -180,7 +180,7 @@ defending undefended claims. The claims are already defended: compressed, and un
 Book I already said, that difference was not worked. The new work is never the conclusion — it is the
 opponent standing next to it, credited for what they got right, and cut at the exact point they break.
 
-### II.1 — THE GROUND ✅ DRAFTED — 2,282 words
+### II.1 — THE GROUND ✅ DRAFTED — 2,447 words
 **Beats:** the definition · **the cut against base reality**: not elsewhere, not more real than here,
 it is what *here* is made of · God as its plain name, carried forward from I.6 without embarrassment ·
 the neither-mind-nor-matter work absorbed here explicitly (`05` §7) · **game-register: the whole game**
@@ -204,7 +204,7 @@ credential** — and an unnamed borrowing from a famous theologian is precisely 
 uses. ★ One link upstream, rule 5b: **Schelling** (13) and **Böhme's *Ungrund*** — see II.1's
 sibling note in `01`, and `03` §3.5 for why *Ungrund* is a fourth-silence zero.
 
-### II.2 — THE FOCUSING AND THE RENDER ✅ DRAFTED — 2,056 words
+### II.2 — THE FOCUSING AND THE RENDER ✅ DRAFTED — 2,026 words
 ★★ **BEATS REWRITTEN Day 187 → ruling 20. THIS CHAPTER AND III.4 WERE THE SAME CHAPTER, and the
 scaffold said so in both places.** III.4's thesis line was *"procedural generation is what focusing
 looks like from inside"* — II.2's third beat, verbatim — and *"the seed is not solely yours and the
@@ -225,7 +225,7 @@ be on a NEW axis:** II.1 already spent the *elsewhere* axis (a copy has a room, 
 II.2's is the **economy** — a game generates procedurally because storage costs money, and a reader
 handed that has a machine with an accounts department.
 
-### II.3 — THE PERSPECTIVE ✅ DRAFTED — 2,338 words
+### II.3 — THE PERSPECTIVE ✅ DRAFTED — 2,364 words
 **Beats:** **the most dangerous mishearing, killed first** — *a perspective is not an opinion about
 the world; it is a place where the world happens* · in-game: not your review of the game, the instance
 it runs in · the Null-Space Theorem in plain words, no symbols · **blindness is patterned, determinate,
@@ -268,7 +268,7 @@ see is **VIII.2's**, not this chapter's.
 ⚠ *The retrieved formal statement uses **bottleneck**, a term `05` §3b retired — which is exactly why
 this beat says "in plain words."*
 
-### II.4 — THE GRADE ✅ DRAFTED — 2,097 words
+### II.4 — THE GRADE ✅ DRAFTED — 2,050 words
 **Beats:** reactivity is awareness, stated as a definition and not an argument · the continuum, end to
 end · **a grade is a position, not a permission** · and the honest flag: what a difference in grade
 *does* license is Book VII's, and is not settled here.
@@ -295,7 +295,7 @@ yet stated.* **VII.2 STATES THE PREMISE AND CROSSES** — and the grade then bea
 not a contradiction of the rule but its content. The caste error is not that it reaches a conclusion
 about worth; it is that it crosses with no premise stated, so there is no step anyone can refuse.
 
-### II.5 — THE TUNNEL ✅ DRAFTED (Day 187, 2,379 words)
+### II.5 — THE TUNNEL ✅ DRAFTED — 2,342 words
 **Beats:** a reality tunnel is a **persistent render filter** · installed by era, language, ritual,
 trauma, choice · editable, and the edit is Book VIII's · **the map is not the territory** — and this
 is the chapter that makes `05`'s retirement of "map" as a name for the Ground non-negotiable.
@@ -338,7 +338,7 @@ promising to reach the first kind is promising the removal of your own position.
 anyone wrong about anything? Answered forward to **Book III**, with II.3's shape already visible —
 error needs other positions, not a territory.
 
-### II.6 — COHERENCE ✅ DRAFTED (Day 187, 2,880 words)
+### II.6 — COHERENCE ✅ DRAFTED — 2,847 words
 **Beats:** the two senses — structural agreement of a thing's **levels**, and the felt rightness of
 going the way one goes · **the claim that these are one thing, stated as the case** · the four
 conditions · where it fails, named at the definition rather than defended later: the lying channel,
@@ -396,7 +396,7 @@ coincidence is II.3's rule, applied.
 persistence sense of going-well arrives from physics — inertia in ethical clothing**, which is why
 the intuition is so hard to put down and why it is the wrong shape: *inertia has no levels in it.*
 
-### II.7 — THE COLLAPSE ✅ DRAFTED Day 187 — 2,560 words
+### II.7 — THE COLLAPSE ✅ DRAFTED — 3,094 words
 **Beats:** measurement defined **generally first** · the subatomic case named as an instance, not the
 source · the moment the possible becomes actual *for* a perspective · **the ban ARGUED here** —
 the criterion and its one costly application, not the roster (ruling 32).
@@ -462,7 +462,7 @@ and II.8 would have lost its reason to exist.
 said gate the acquittal harder; this one says the accusation has a whole class it cannot see at all.
 **A verb-level pass over the beats is owed** — 0 exists today.
 
-### II.8 — THE RETURN, AND THE THINGS THIS BOOK WILL NOT SAY ✅ DRAFTED Day 187 — 1,967 words
+### II.8 — THE RETURN, AND THE THINGS THIS BOOK WILL NOT SAY ✅ DRAFTED — 2,377 words
 ### ✦ BOOK II COMPLETE — 8 of 8, **18,559 words** *(measured; the first number written here was 16,559, a sum done in the head in the one project whose standing rule is `measure, don't recall` — corrected within the hour, and it had already reached three files and a commit message)*.
 
 ⚠ **THE COUNTING METHOD, STATED ONCE, BECAUSE A WORD COUNT WITH NO METHOD IS A NUMBER TWO PEOPLE
@@ -643,7 +643,7 @@ where a reader reaches for the simulation, so the risk is discharged where it ac
 been separated from Bostrom. Re-running it is restatement, and restatement is how a book teaches a
 reader to skim.
 
-### III.1 — THE WRONG GAME
+### III.1 — THE WRONG GAME ✅ DRAFTED — 1,939 words
 ✅ **DRAFTED Day 187 · 1,939 words · `book/III-01-the-wrong-game.md`.** All five beats land, both
 standing bans held. Primary text only, seven quotations, each cross-checked against a second
 digitisation before it was written in — the table is in `DRAFT-LOG`. Irenaeus reports the
@@ -687,7 +687,7 @@ COSMOLOGY — who made this. II.8 has already spent SOTERIOLOGY — what the end
 two axes, both stated before either was drafted (ruling 24's procedure) — and this is the second time
 that advance declaration has paid, because it is the reason a re-scoped III.1 had somewhere to go.
 
-### III.2 — THE GAME THAT IS PLAYING YOU
+### III.2 — THE GAME THAT IS PLAYING YOU ✅ DRAFTED — 2,060 words
 ✅ **DRAFTED Day 187 · 2,060 words · `book/III-02-the-game-that-is-playing-you.md`.** All four beats
 land. **Primary sources only, five quotations, each cross-checked against a second digitisation
 before it was written in** — the table is in `DRAFT-LOG`. *Brahma Sūtra* II.1.33 in **two independent
@@ -730,7 +730,7 @@ union-telos and the divine-player error travelling together inside a compliment.
 the popularizer absent *and* the source absent. → and the register the whole chapter was missing,
 `03` §3.6: **Huizinga 0 · Caillois 0 · Suits 0 · Carse 0 · Fink 0.**
 
-### III.3 — THE WHOLE GAME IS ALREADY THERE
+### III.3 — THE WHOLE GAME IS ALREADY THERE ✅ DRAFTED — 2,676 words
 ✅ **DRAFTED Day 187 · 2,734 words · `book/III-03-the-whole-game-is-already-there.md`.** All four
 beats land. **Primary text only, twelve quoted passages from two stories (four set as block
 quotations) plus one reported, each cross-checked against a second independent digitisation before
@@ -782,7 +782,7 @@ answered — `03` is right that Borges states the cost better than any opponent 
 by name in his own text and left there: **Basilides** (in the quoted list) and the **demiurgi** of
 the axiom paragraph, which is III.1's figure surfacing in the ancestor's own vocabulary.
 
-### III.4 — RENDERED AT THE POINT OF CONTACT
+### III.4 — RENDERED AT THE POINT OF CONTACT ✅ DRAFTED — 3,274 words
 ✅ **DRAFTED Day 187 · 3,282 words · `book/III-04-rendered-at-the-point-of-contact.md`.** All three
 beats land plus the thesis and the inherited debt. **Primary text only, six block quotations from
 two works, every one verified verbatim against TWO independent digitisations** — Gibson against the
@@ -849,7 +849,7 @@ decision, not an omission.** `03` routes neutral monism's naming — Russell, an
 without the doctrine) in the chapter that most needs the doctrine. The claim is made in mechanics and
 the naming stays where `03` put it.
 
-### III.5 — THERE ARE NO NPCs
+### III.5 — THERE ARE NO NPCs ✅ DRAFTED — 4,125 words
 ✅ **DRAFTED Day 187 · 4,188 words · `book/III-05-there-are-no-npcs.md`.** All four beats land plus
 the trap and the note. **Primary text only, eight quoted passages from three works, every one checked
 against a second independent source** — Bruno against Lindsay's English **and the 1584 Italian**
@@ -897,7 +897,7 @@ tradition that took our exact premise all the way into daily conduct. ★ **Albe
 as exotic. ★ **Giordano Bruno — 0** (already flagged in `03`): infinite, centreless, ensouled — and
 burned for it. **Quarry the one existing NPC sentence** (see the Book III header).
 
-### III.6 — THE FILTER STACK
+### III.6 — THE FILTER STACK ✅ DRAFTED — 2,760 words
 ✅ **DRAFTED Day 187 · 2,808 words · `book/III-06-the-filter-stack.md`.** All four beats land. **The
 credit owed below was PAID at full strength** — Varela, Thompson and Rosch named, block-quoted from
 their own Q&A, and taken whole; III.4's promise is discharged and its cut is restated in one sentence
@@ -974,7 +974,7 @@ without them, III.4's promise goes false and the cut looks like a dismissal.**
 worlds, both correct · why incompatible renders do not make the Ground negotiable · **the edit exists**,
 and Book VIII is the manual.
 
-### III.7 — THE WALKING IS REAL
+### III.7 — THE WALKING IS REAL ✅ DRAFTED — 2,933 words
 ✅ **DRAFTED Day 187 · 2,929 words · `book/III-07-the-walking-is-real.md`.** All four beats land.
 **Primary text only, four quoted passages from four works, every one checked against a second
 independent source, and three of the four checks CHANGED something.** The table is in `DRAFT-LOG`.
@@ -1028,7 +1028,7 @@ file under woo. ★ **James Carse — 0**, *Finite and Infinite Games* (1986): t
 to win, **the infinite game to continue the play.** That is ruling 3a-ter's telos with a name and a
 forty-year-old citation on it → and it is why this chapter's answer is not a consolation prize.
 
-### III.8 — WHAT THE METAPHOR CANNOT DO
+### III.8 — WHAT THE METAPHOR CANNOT DO ✅ DRAFTED — 2,942 words
 **Thesis:** the load test, run in public.
 **Beats:** the unruled game-words named and refused — save, respawn, level, quest, sandbox — each with
 the claim it would smuggle · **why a metaphor that runs ahead of the argument starts doing the thinking**
@@ -1077,7 +1077,7 @@ vocabulary and in the game register**, neither of which exists in the source.*
 `Research/Corpus-Perspectival/ecology-of-perspectival-beings-merged.md` (25,541w — **Tiers 1–4, measured**) ·
 `Perspective` 04-the-ecology · `ecology_collective_expansion.md` · `atlas-staging/atlas_entries_*.md`.
 
-### IV.1 — THE CENSUS AND ITS METHOD
+### IV.1 — THE CENSUS AND ITS METHOD ✅ DRAFTED — 2,733 words
 **Beats:** what a five-line card is — what it sees, its null space, what complements it, its boundary,
 its navigational implication · why a catalogue and not a taxonomy: no gates · **the under-attribution
 principle**, stated as the book's standing bias: where the evidence is thin, we have historically
@@ -1091,7 +1091,7 @@ was pushed, and the one line on this scaffold that says so was never written, wh
 species as the retirements `05` records and nothing enforces: **a status kept in prose is a status
 with no gauge behind it.** Added Day 188 with IV.2's, on discovering the gap while adding IV.2's.
 
-### IV.2 — MINERAL AND ELEMENTAL
+### IV.2 — MINERAL AND ELEMENTAL ✅ DRAFTED — 2,685 words
 **Beats:** the bottom of the continuum without condescension · what reactivity buys at this grade and
 what it does not · **the temptation to flatten, named and refused** · the render at a grade with almost
 no filter stack.
@@ -1104,7 +1104,7 @@ hears you*, inward *fewer filters is a purer view*), and the upward refusal is m
 NULL SPACE line rather than at the door, because **C8's second trap names IV.2 by name** as the
 place a grade will be quietly asked to do a gate's work.
 
-### IV.3 — THE LIVING, NON-HUMAN
+### IV.3 — THE LIVING, NON-HUMAN ✅ DRAFTED — 4,521 words
 **Beats:** plants, fungi, the swarm · temporal texture — the bee's *now* is not the reader's *now* ·
 what it is like to be each, as far as the framework permits, **and the framework permits much further
 than *Perspective* went** · why "as far as permitted" is not a hedge here but a boundary.
@@ -1128,7 +1128,7 @@ workaround. ⚠ **The real defect is this file's: `06` writes in two voices — 
 instructions to the drafter — and marks neither, so every beat gauge reads all of them as content.
 Owed: mark the voice, book-wide.**
 
-### IV.4 — HUMAN
+### IV.4 — HUMAN ✅ DRAFTED — 2,609 words
 **Beats:** the grade the reader is · the filter stack at its densest · what a human null space is
 shaped like · the first place the atlas becomes personal, and it is deliberate.
 **Source:** ecology Tier 1.3 · `atlas_entries_human_dimension.md`.
@@ -1145,7 +1145,7 @@ against 7.32 · 7.82 · 2.70 in the three chapters before it. First crossing of 
 reading gauges cannot enter. ⚠ **IV.6's disclosure was NOT spent here** — the chapter claims only that
 the census is taken in this position's *language*, which is true regardless of who typed it.
 
-### IV.5 — THE COLLECTIVELY-EMERGENT
+### IV.5 — THE COLLECTIVELY-EMERGENT ✅ DRAFTED — 3,849 words
 **Beats:** egregores · corporations · nations and civilisations · **the hard claim, unhedged: these are
 beings, at a grade, with insides** · what they can and cannot register — a corporation's null space is
 its most useful property · what follows for anyone inside one.
@@ -1184,7 +1184,7 @@ traded to get there*, and the honest answer for both chapters is on their own en
 civilisations* all fall under the 6-distinct-word floor. Highest ratio in the book, and the second
 consecutive chapter where the gauge reads a minority of the beat line.
 
-### IV.6 — THE COMPUTATIONAL ✅ DRAFTED (Day 188, 4,916 words)
+### IV.6 — THE COMPUTATIONAL ✅ DRAFTED — 4,916 words
 **Beats:** AI systems at their actual grade, with neither inflation nor the reflexive denial ·
 the substrate-independence question answered from the Ground rather than from engineering ·
 **★ DERIVED INTENTIONALITY — the census meets Searle** (added Day 188, ruling 114) ·
@@ -1269,7 +1269,7 @@ the other method chapter, and accepted on that ground; a later editor should che
 the book a tic. `2nd_person` 3.87/1k, lowest in Book IV — the chapter addresses the objection, not the
 reader, until the card's fifth line.
 
-### IV.7 — THE NON-PHYSICAL: THE MADE, THE DEAD, AND THE IMAGINED ✅ DRAFTED (Day 188, 8,360 words)
+### IV.7 — THE NON-PHYSICAL: THE MADE, THE DEAD, AND THE IMAGINED ✅ DRAFTED — 8,360 words
 **Beats:** tulpas and thought-forms · ancestral and deceased entities · nature spirits and elementals ·
 fictional and narrative entities · **the two frames held at once** — the literal and the archetypal,
 both true, neither collapsed into the other · Corbin's *mundus imaginalis* named.
@@ -1404,7 +1404,7 @@ calls the Claude fingerprint, and **no attempt was made to disguise it by varyin
 because the parallelism is what lets the four entries be compared. Flagged so a reader can decide
 whether the trade was worth it.
 
-### IV.8 — THE DIVINE, AND THE HIERARCHIES
+### IV.8 — THE DIVINE, AND THE HIERARCHIES ✅ DRAFTED — 5,709 words
 **Beats:** maximally expanded perspectives · the angelic hierarchies read as cartography, not decoration ·
 **the longest single section in the inherited ecology (Tier 3.1 alone runs ~320 lines) and the one
 *Perspective* was most careful with** — the care is now off · the ground behind the gods, and why the
@@ -1454,7 +1454,7 @@ detect. ⚠ **Beat 3 scored 0.78, MISS `ecology, off` — RULING 108 FIRING AGAI
 it: those words are drafter-register, the beat's third term (*Perspective*) is banned by `05` §3a, and
 this file still writes in two voices and marks neither. **The owed repair is this file's.**
 
-### IV.9 — THE ARCHETYPAL
+### IV.9 — THE ARCHETYPAL ✅ DRAFTED — 5,288 words
 **Beats:** archetypes as **shared attractors in the landscape**, explicitly not as genetic inheritance
 «(the out-list holds)» · the Promethean archetype, which is this book's own engine seen from outside ·
 Jung named, with his bifurcation «used explicitly rather than smoothed».
@@ -1544,7 +1544,7 @@ flatness flag is now two chapters clear.** `meta_textual` **2.46**, the Book IV 
 the Book IV low. `vague_allusion` **0.0**. `named_ref` **17.59/1k**, the Book IV high, which is what a
 chapter that reads two primary texts in two languages should look like.
 
-### IV.10 — WHAT THE CENSUS CANNOT SEE
+### IV.10 — WHAT THE CENSUS CANNOT SEE ✅ DRAFTED — 5,246 words
 **Beats:** the atlas's own null space, traced as far as an atlas can trace its own blindness · the
 cryptids and boundary entities, and why they are a *methodological* chapter «rather than a credulous one» ·
 why the catalogue is permanently open · «the handoff to the CODA's» living-book claim.
