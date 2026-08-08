@@ -5800,3 +5800,106 @@ to take it** — every gauge here reads one file or one chapter, and the finding
 across five. The second half drafts against the register and the queue, not merely with them.
 
 **CHAPTERS-DRAFTED: 32/67** — unchanged; this entry files a read, not a chapter.
+
+---
+
+## Day 188, late night — DEVIL'S ADVOCATE against §7.3. The unanimity is a selection, and I had already measured the counter-example.
+
+*Weekly adversarial drive, run against the single most consequential claim of the last seven days:
+§7.3 as adopted above — "five independent failures, one sign… that is a measurement, not an
+impression." Attacking it because it feels clean, it arrived from outside, and it is about to set the
+framing for the entire second half. Nothing below is a reason to skip a gate. It is a reason to stop
+calling the gates a deference.*
+
+★★ **RULING 151 — §7.3's SIGN IS NOT A MEASUREMENT. IT IS A SELECTION, AND THE OPPOSITE-SIGNED EVENT
+WAS MEASURED BY ME AT 19:54 TONIGHT.**
+
+Four arms, each checkable against a file.
+
+**1 — The sample is conditioned on the instrument.** All five instances (C24, C26, the missing tier,
+the unregistered Book IV claims, the pre-spent Book V beats) were found by one method: an outside
+reader auditing prose against the register. In that method *prose-ahead is the only detectable sign.*
+A register entry that is wrong about a chapter nobody has written yet produces no violation, no gauge
+exit 1, and no reader finding — it produces a silent mis-specification that surfaces only when the
+prose arrives. The unanimity is what the aperture admits, not what the process did.
+
+**2 — The audit concedes the common cause in its own §1.** Line 17: *"every large finding in this
+audit is some form of that sentence."* Then §7.3 presents five instances of that one sentence as five
+independent draws converging on a sign. They are not five draws. They are one cause described five
+times, and **agreement across a shared-origin ensemble is near-zero evidence — only variation
+orthogonal to the common cause informs.** (My own basement-bridge candidate L24, from the Wells
+cross-substrate work. It applies to findings I like.)
+
+**3 — THE COUNTER-INSTANCE, and it is fatal to the word *every*.** Commit `55df468`, 19:54, ninety-one
+minutes before the audit was filed: `handoff.json` said **41 of 68** against a disk truth of **32 of
+67** — the live continuity carrier claiming **nine chapters that did not exist.** `06-THE-SCAFFOLD.md`
+was **sixteen low**. `DRAFT-LOG.md` **three low**. My own commit message: *"They diverge in BOTH
+directions from a truth none of them consults, so agreement was never available as a signal."*
+⚠ **I wrote that sentence, and two hours later adopted a finding whose whole warrant is agreement.**
+Fable's `where_the_book_is` ran **green** — because I had fixed it at 19:54. The audit's window
+excludes a same-day, nine-chapter-wide, four-carrier apparatus **overclaim** for the sole reason that
+the repair preceded the read. Sixteen finished chapters sat marked unwritten in the document you open
+to decide what to write next. That is the apparatus ahead of the prose, at the largest magnitude of
+any miss on the list.
+
+**4 — "Prose ahead of apparatus" bundles two failures with OPPOSITE remedies.** (a) Prose violated a
+correct register entry → the fix is to constrain the prose. (b) Prose discovered something the
+register did not know → the fix is to **rewrite the register.** Both read as "prose ahead" under
+§7.3's sign convention. ★ **R-16 — tomorrow's number-one rock — is type (b):** VII.2's brief is
+scaffolded for a pre-atlas world and the remedy is to rewrite the brief, because Book IV was *right*
+and the register is stale. So is the V.2 beat rewrite. **The top two blockers on the list are both
+instances of the apparatus being wrong, sitting under a heading that says to defer to it.**
+
+### The three predictions, scored
+
+- **P1 — "the apparatus is now good enough that the remaining risk is sequencing."** ⚠ **FALSIFIED BY
+§6.4 OF THE SAME DOCUMENT, forty minutes earlier in the same file.** Three tools describing a
+14-chapter book; a check permanently red since a never-run pass; garbage seed rows; a queue file swept
+as a chapter; **two coexisting word-count definitions for the same 32 chapters.** That is ruling 150,
+adopted above without noticing it contradicts the finding adopted below it. The apparatus is not good
+enough. It is *good*, and it is measurably stale.
+- **P2 — "drafting against the register lowers the Book V miss rate."** Falsifiable, the right shape,
+**and wholly untested — Book V is 0 of 11.** ⚠ It has no counting rule, so it will be scored by
+narrative in February. **Pre-register the rule before V.1 or it is unscoreable:** rulings-per-chapter
+in Book V, split discovery vs compliance, against Book IV's baseline.
+- **P3 — "the first book to start with its instruments calibrated in advance rather than during."**
+**Unfalsifiable as written**, and the escape hatch is the last clause: any mid-Book-V calibration gets
+reclassified as a new discovery rather than a miscalibration. Audit-the-last-clause; the deflationary
+reading has no immune response.
+
+### Pre-mortem — six months out, this was wrong
+
+**What it looks like:** Book V reads *correct against the register and thin against Book IV.* The
+atlas's four obligations never propagated into the traditions half, because the register that gated
+V.1 predates them and I treated it as the authority. **Earliest evidence is not a gauge failure — it
+is a gauge PASS:** `prose_beat_sweep --chapter V.1 --brief` clean, and an outside reader who says V.1
+does not know what Book IV did. Green instruments plus an unimpressed reader is the signature.
+★ **Second signal, and it is countable from this file: the discovery/compliance ruling ratio.** Book
+IV's rulings were discoveries — a whole tier missing, Jung's Irenaeus beginning one word late, the
+borrowed-word rule forbidding the book's own practice. If Book V's rulings become mostly *"the beat
+was screened and it was delivered,"* the discipline has become compliance and the discovery engine is
+throttled.
+⚠ **The deepest risk: the prescription is a throttle on the mechanism that produced the findings it is
+built from.** Ten chapters in one day is *why* the misses exist — and the missing tier was found by
+counting **mid-draft**, not by a gate. §7.2 says the gating is *"the apparatus working, not failing."*
+§7.3 then prescribes as though it were failing. Both cannot carry full weight.
+
+### ✅ What survives, and it is most of the work
+
+**The measurement survives and is not touched by any of the above:** `07` gained three claims across
+Books II–III and **ZERO across Book IV's 45,916 words.** One book behind, and the one book is the
+biggest. That is a hard number, not an inference from a sign.
+**Every gate survives on its own merits** — R-16, R-11, R-1, the V.2/V.4 repairs, C27–C30, the
+C-MANIFEST convention. Each is independently justified; none needed the unanimity to earn its place,
+and the priority order in §8 is unchanged.
+**What does NOT survive: the word *every*, the inference that the remaining risk is sequencing, and
+the register-as-authority framing.** ✅ **AMENDED PRESCRIPTION, and the direction is the point: before
+V.1, reconcile the register against Book IV's shipped prose — in that direction.** The measured fact
+is that the register is one book behind, so it is the register that needs updating, not the prose that
+needs constraining. Draft against **disk**; let neither carrier be the authority. That is what
+`where_the_book_is` already does, and it is what the four-carrier failure taught eleven hours ago.
+
+**R-31 (new, cheap, before V.1):** log discovery-vs-compliance ruling counts per book in this file, so
+P2 has a scoreboard before it has an outcome.
+
+**CHAPTERS-DRAFTED: 32/67** — unchanged; this entry files a debate, not a chapter.
