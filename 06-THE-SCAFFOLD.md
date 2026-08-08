@@ -1641,6 +1641,32 @@ that follows is addressed to nobody. `dyn_range_CV` **0.348** — lifted off the
 under IV.7's flat mark) by splitting six long paragraphs at their real turns, and still in the lower
 half.
 
+★★ **RULING 128 — THE REPAIR PLACED THE READING AND DROPPED THE ENUMERATION.** *(Raised by Clayton,
+same evening, asking whether the tier belonged in the next book rather than this one.)* The question
+**did not break the placement and the placement survives it**: V.8 installs the demarcation on a case
+where it is cheap and V.9 runs it where it costs everything, so moving the material into Book IV
+would run the hardest interpretive case *before* the method that handles it exists — the IV.7→IV.8
+pattern backwards. ★ **What the question exposed is the job the placement did not carry.** Every
+other tier in this book got **two** things: an enumeration — what is in it, at what grade — and a
+reading. Ruling 125 scheduled the **reading** into V.9 and scheduled the **enumeration** nowhere.
+That is the day's own lesson firing on the party that wrote it: *relocating a mechanism does not port
+the JOB it did; a moved component announces itself, a dropped job never does.* ⚠ **Consequence for a
+reader of Book IV alone** — and Book IV is a natural stopping place — they are told the census missed
+a tier and that it matters, and are handed nothing with which to check whether it is large or small.
+**A claim of significance with no gauge the reader can run is Drift #287's shape, in the chapter that
+diagnoses it.**
+★ **THE REPAIR IS A REVISION TO IV.10, NOT AN ELEVENTH CHAPTER.** Book IV stays 10 of 10. IV.10 gains
+a **bare census line**: what the tier contains, the grade of each class of evidence in it, and
+nothing else. ⚠ **NOT WRITTEN TONIGHT, and the reason is not scheduling** — the condition IV.10 named
+*(a party with a live interest in the entry existing, on the thinnest evidence in the source)* has
+not expired in four hours; it expires when the enumeration can be drafted **from the source list**
+rather than from the memory of the embarrassment. **TRIGGER: it lands before V.9 opens, and V.9 does
+not open until it has.** *(A deferral with a book-position trigger, per IV.10's own standard — not a
+condition with no date.)*
+⚠ **AND THE HAZARD IS NAMED IN ADVANCE, because an enumeration is exactly the object that becomes an
+interpretation while nobody is watching: if the revision comes back longer than the shortest tier
+entry in Book IV, it stopped being a census line** — and that is a measurement, not a judgement.
+
 ---
 
 ## BOOK V — **THE OLD ROADS**
@@ -1754,6 +1780,10 @@ form of not taking somebody seriously. The bar for a large physical claim is the
 raised for this entry and not lowered.
 **Source:** ecology Tier 1.4 · **NOT drafted in Book IV, and that absence is IV.10's finding rather
 than this chapter's inheritance.**
+⛔ **BLOCKED UNTIL IV.10's CENSUS LINE LANDS — ruling 128.** This chapter carries the **reading**; the
+**enumeration** belongs in the atlas and was scheduled nowhere. Drafting the reading first would let
+the census stay hole-shaped permanently while looking repaired, because a written V.9 removes every
+felt reason to go back. **Check the atlas before opening this chapter.**
 **Named:** the demarcation, performed a second time — V.8 takes the method, V.9 takes the case that
 tests it.
 
