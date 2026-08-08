@@ -400,3 +400,92 @@ no neutrality token within the paragraph.** ★ Same shape as the `fullness` sco
 
 *(Everything else in this file was already ruled and did not need him — including retiring "the map"
 from a document I wrote four hours ago.)*
+
+---
+
+## 8. THE BOOK V SITTING — three amendments, filed together because they are one defect seen three ways
+
+★ **Day 188, night. Rulings 133, 145, 146 (R-11, R-23, R-24a).** Book V is nine-tenths reported proper
+nouns and could not have been drafted under this file as it stood. **All three amendments below are the
+same failure: a rule stated at the scale of its own example and applied at the scale of the book.**
+
+### 8a. ★★ THE REPORTAGE CARVE-OUT — an amendment to the civilian-life criterion, not a fourth rule
+
+**A proper noun REPORTED from a tradition is not a term ADOPTED into the book's vocabulary.**
+
+The distinction is **who is speaking**. A term is *adopted* when the book uses it to do the book's own
+work — carrying an argument, naming a category in our apparatus, appearing where a plain English word
+would have served. A proper noun is *reported* when it is the tradition's own name for its own object,
+**credited to that tradition, glossed once at first use, and carrying no argument of ours.**
+
+⚠ **Why this needed stating rather than assuming.** The criterion that retired *egregore* (ruling 109)
+and *tulpa* (ruling 119) — **an analogy has to be made of something the reader already has** — is
+correct, and **as written it forbids the book's own practice.** IV.7 and IV.8 already use *kami*,
+*landvættir*, *djinn*, *yōkai*, *amesha spentas*, *Gottheit*, *nirguna*, *śūnyatā* and *Nā-kojā-Ābād*,
+unscreened, and none of them has a civilian life either. **Book V is built on ten traditions' names for
+their own objects.** An unstated carve-out that survives into the book built on it stops being an
+oversight and becomes the policy — so it is stated here, in the file, before V.1 rather than after.
+
+★ **AND THE CARVE-OUT IS NARROWER THAN IT LOOKS, which is the part that keeps it honest.** The screen
+still runs; what changes is what a pass costs. A reported noun is admitted on **three conditions, all
+three, every time:**
+
+1. **CREDITED** — the tradition that owns it is named in the same sentence or the one before. The word
+   arrives as *theirs*, never as ours.
+2. **GLOSSED AT FIRST USE** — in plain English, in the sentence, not in a note and not 2,000 words
+   later. *(The Day-187 amendment to the `made of awareness` rule, generalised: outside the one chapter
+   built to carry a delayed gloss, the gloss travels with the word.)*
+3. **CARRIES NO ARGUMENT OF OURS** — the moment a reported noun is doing inferential work in our voice,
+   it has been **adopted**, and it goes back through all three axes of ruling 14 as an adoption. ⚠
+   **This is the condition that will actually be violated**, and it will be violated by drift rather
+   than by decision: a word reported in V.3 and leaned on in V.7 was never re-screened, because nothing
+   marks the transition. **The tell is the word appearing in a sentence with no attribution in it.**
+
+✅ **What this does NOT license.** It does not reopen *egregore* or *tulpa*. Both were refused **as terms
+for our own use** — *egregore* to name a category our four conditions already name, *tulpa* to name an
+object our apparatus describes. Under 8a both remain refused for that job **and both remain available
+as reported nouns**, credited, glossed, carrying nothing — which is exactly the disposal both rulings
+already specified (*named, credited with its lineage in one sentence, and told why it does not get the
+word*). **The carve-out changes nothing about them. It was already how they were handled; it just had
+no name, so Book V had no rule to point at.**
+
+### 8b. ★★ `level` — THE FILE CONTRADICTED ITSELF, TWENTY-TWO LINES APART
+
+**The ban at §3b is scoped to the game/rank sense, and only that sense.**
+
+§3b rules `level` **"NEGATIVE USE ONLY… Never a positive category, anywhere, ever."** §3a's Coherence
+row — the book's central term, twenty-two lines above — defines coherence as *"the structural agreement
+of a thing's **levels** with one another"* and closes **"Book's word: a perspective; for a level,
+**level**."** ⚠ **This file mandates the word and forbids it, and neither row knows the other exists.**
+II.6's whole apparatus and IV.5's four conditions run on the positive sense.
+
+**They are different words.** The ban targets **rank** — the earned tier, the gate, the thing you climb
+past, *the caste mishearing wearing the game frame's own clothes*, and it stands undiminished. The
+mandate is **stratum** — the mereological sense, a scale of organisation within a thing, no earning and
+no gate. ✅ **Ruled: `level` in the stratum sense is the book's word, per §3a. `level` in the rank sense
+is refused once, out loud, at the definition, per §3b. The refusal in III.8 is what makes the positive
+use safe, not what forbids it.**
+
+★ **AND THE REAL FINDING IS NOT ABOUT THIS WORD.** An outside reader found a self-collision inside this
+table. **Ruling 28 added axis 3 — the collision is with ourselves — and said in the same breath that it
+was *"not yet run over this table."* It still has not been.** One found by an outsider is evidence the
+sweep has never run, **not** that there was only one. **R-24(b): axis 3 over every row, before Book V
+closes.** This section is a repair; the sweep is the gauge.
+
+### 8c. RULING 30 AND RULING 75 EACH CARRY TWO CONTENTS — read the citation, not the number
+
+⚠ **Filed as a note rather than a renumber**, because six live citations resolve correctly by convention
+today and a renumber breaks all six.
+
+- **RULING 30 is the persistence cut** (II.6; both ancestors fail in the same place). **The
+  civilian-life criterion — *an analogy has to be made of something the reader already has* — is
+  RULING 31.** It is cited as "ruling 30" at `05`:176 (*egregore*), `05`:180 (*tulpa*), `06`:1512,
+  `06`:1817, `06`:1825, and in **R-11**, which blocks V.1. **All six mean 31.** The rulings they support
+  are sound; only the pointer is wrong.
+- **RULING 75 carries three:** III.5's licence-list finding; `00`'s "watches"; and **75(b)**, the
+  no-recap constraint that Book IV chapter openings are drafted under.
+
+★ **Ruling 125 documented this exact hazard for chapter renumbering — *seven cross-refs would have kept
+reading correctly while pointing one chapter off*. It has been running in the ruling series the whole
+time.** A citation that resolves by convention is a citation that stops resolving the moment a stranger
+reads it, and three strangers have now read this book.

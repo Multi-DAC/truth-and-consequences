@@ -5640,3 +5640,163 @@ and **are not to be back-filled** — a retrospective manifest records what the 
 three claims stale, and it had already been filed as an immediate item once.
 
 **CHAPTERS-DRAFTED: 32/67** — the declared slot. Machines read this line; the prose above is for people. Every DRAFT-LOG entry must end by updating it.
+
+---
+
+## DAY 188, NIGHT — THE MIDPOINT AUDIT (FABLE, THIRD OUTSIDE READ). RULINGS 143–150.
+
+`review/FABLE-DAY188-MIDPOINT-AUDIT.md`, committed as received at `00441c7` before any of it was
+filed. Every finding below was re-derived against the files before being adopted. **Two of the audit's
+largest findings turn out to be right in their conclusion and wrong in their premise, and that pair is
+the most useful thing in the document** — because it is the third consecutive outside read to report a
+filed item as unfiled.
+
+★★ **RULING 143 — THE ACTUALIST OPPONENT IS ALREADY RULING 111. THE THIRD READER IN A ROW COULD NOT FIND A THING THAT IS FILED, AND THE REASON IS STRUCTURAL.**
+
+§7.1 carries the audit's most fundamental claim: the book's axiom — *possible, therefore actual* — has
+no named opponent, the actualist tradition is engaged nowhere in 32 chapters, and *"I cannot find a
+queue row or ruling carrying this; per the queue's charter it is unrecorded, not discharged."*
+
+**Measured: it is ruling 111**, in `00-ARCHITECTURE.md` §2582–2625, and it is not a stub. It names the
+opponent in the audit's own words (*the plain actualist… exclusion is as much a category error as
+selection*), it measures the exposure by grep (**Book I: zero hits across `Lewis`, `actualis*`,
+`Armstrong`, `plenitude`, `brute`, `contingen*`, `possibilia`, `modal` — six chapters, no named modal
+party of any kind**), it identifies the same failure mode the audit identifies (*Lewis is a co-signer*;
+the book recruited its modal ancestor from the side that already grants the move), it specifies the
+repair and its location (**additive, in I.2, not a new chapter**), it names Armstrong's combinatorialism
+as the opponent's best move, and it attaches a warning the audit did not reach: ⚠ *this is the one place
+in the book where the answer may have to be a concession about what "possibility" means rather than a
+cut — do not draft it as a cut because cuts are the house style.*
+
+★ **The conclusion survives anyway, and this is the point.** Ruling 111's disposition is *"queued as the
+first item of the Book I revision pass"* — **and it is in no queue.** Per the queue's own charter an item
+absent from it is unrecorded, not discharged, so the audit's *recommendation* (it needs a row) is exactly
+right while its *premise* (no ruling carries it) is false. **A ruling with a trigger, filed in a document
+with no trigger, is a deferral with no dated trigger** — the Day-188 morning finding, recommitted at the
+scale of the book's axiom.
+
+⚠ **AND THE COMPOUND FINDING, which no single reader could have produced.** Ruling 111 lives in
+`00-ARCHITECTURE.md` — the file this same audit's §5.1 identifies as **the stalest carrier in the repo**,
+whose own ruling index has **two unremarked gaps totalling ~60 rulings (76–110, 118–142)**. So the live
+ruling that carries the book's most fundamental unpaid debt sits inside the one carrier whose index
+declares, by omission, that it does not exist. The audit read `00` whole — 2,799 lines, delegated — and
+§7.1 still reported the item missing. **The delegated read had it and the first-hand section did not**,
+which is the same integration failure the audit documents in §1's method paragraph, running the other
+direction. ★ **THE RULE: the ruling register is the record; `06` and the queue are indices of it, and
+neither indexes `00`. Any ruling whose home is `00` is invisible to every downstream reader, including
+me.** Rulings do not live in `00` from here. Ruling 111 is extracted to the queue by this filing (R-21)
+and `00` gets a pointer, not a copy.
+
+★ **RULING 144 — `00-ARCHITECTURE.md` IS THE STALEST CARRIER AND THE COUNT REPAIR EXCLUDED IT. CONFIRMED, MEASURED.**
+
+§5.1, verified: **14 occurrences of `68`** in the file, including L1309 (*"68 chapters, 8 books, 2 parts"*)
+against the scaffold's 67, plus L1463, L1595, L1599. The **STATUS block at L1251–1252 still reads
+*"Planning phase, by Clayton's instruction… No prose drafting until the map is done"*** — above a repo
+with 32 drafted chapters and a standing, five-times-granted permission to draft. ⚠ **That is not a stale
+number; it is a stale INSTRUCTION, and it is the exact string a fresh context would obey.** The
+Day-188 morning failure was a wrong count in a carrier read at boot; this is a wrong *prohibition* in a
+carrier read at orientation, and it has been sitting there since Day 185.
+
+**And the mechanism is the one built tonight:** `where_the_book_is.py` — written to end carrier rot —
+audits handoff.json, the DRAFT-LOG and the scaffold, **and not `00`**. The gauge excluded the stalest
+carrier in the repo. *A gauge's coverage is a claim, and this one asserted a completeness it did not
+have.* R-22: one `00` maintenance sitting **and `00` added to the carrier audit**, the second half being
+the part that stops it recurring.
+
+★ **RULING 145 — TWO RULING NUMBERS CARRY TWO CONTENTS EACH. CONFIRMED.**
+
+§6.1, verified by grep. **Ruling 30** is filed at DRAFT-LOG §1395 as *"the cut is at persistence, and both
+ancestors fail in the same place"* (the Spinoza cut at II.6) — and is cited at `05`:176, `05`:180,
+`06`:1512, `06`:1817, `06`:1825 and R-11 as the **civilian-life criterion** (*an analogy has to be made of
+something the reader already has*), which was filed as **31**. Six live citations point at the wrong
+number, in the rows that retire *egregore* and *tulpa* and in the row that blocks V.1. **Ruling 75**
+carries three things: III.5's licence-list finding, `00`'s "watches", and 75(b)'s no-recap constraint.
+Both are ruling 125's renumbering hazard committed inside the ruling series itself. **Repair is two
+clarifying notes, filed now while they are cheap** — not a renumber, which would break the six citations
+that currently work by convention. R-23.
+
+★★ **RULING 146 — `05-THE-LEXICON.md` CONTRADICTS ITSELF ABOUT `level`, IN TWO ROWS TWENTY-TWO LINES APART, AND THIS IS WORSE THAN THE AUDIT FILED IT.**
+
+§3.4 says the `level` row (`05`:170, *"NEGATIVE USE ONLY… Never a positive category, anywhere, ever"*)
+needs its scope declared because II.6 and IV.5 use *levels* positively — different referents, the ban
+targeting the game/rank sense. ★ **Correct, and understated. The positive use is not merely in the
+chapters; it is PRESCRIBED BY `05` ITSELF.** The Coherence row at `05`:148 defines the book's central
+term as *"the structural agreement of a thing's **levels** with one another"* and closes: **"Book's
+word: a perspective; for a level, **level**."** The lexicon mandates the word at line 148 and forbids it
+"anywhere, ever" at line 170. **Neither row knows the other exists**, and line 148's own ⚠ note is the
+record of ruling 28 catching an import *in that very cell* — the row has been audited once, on a
+different axis, and this survived it. Axis 3 (polysemy, self-collision) is the axis ruling 28 added and
+declared *"not yet run over this table."* It still has not been. R-24: the `level` scoping rides in the
+same `05` sitting as R-11, **and the axis-3 sweep of the whole table gets a row of its own** — one
+self-collision found by an outsider means the sweep has never run, not that there was only one.
+
+★ **RULING 147 — IV.10 PRE-SPENT V.4's CENTRAL BEAT AT CONTAINMENT 1.00, AND V.4's BRIEF STILL LISTS IT.**
+
+§6.4's `prose_beat_sweep` finding, verified: **IV-10:148** carries *"a scalpel sharp for mystics and dull
+for materialists"* in shipped prose, and **`06`:2143 — V.4's beat line — still lists the same phrase as a
+beat V.4 will deliver.** The scaffold does record the spend at §1573, but as the *causal mechanism* for
+the Tier 1.4 omission (ruling 130's confabulation risk attaches there), **not as an accounting against
+V.4's brief.** The two facts are in the same file, four hundred lines apart, and nothing reads them
+together. ⚠ **V.4 is one of three chapters `00` says carry the whole work.** Before V.4 drafts, its brief
+needs the treatment ruling 33 gave the I.6/II.8 pair: decide what IV.10's performance leaves V.4 to do,
+and write the axis note. **This blocks V.4, not V.1** — filed with a trigger rather than as a gate on the
+book. R-25. *(V.9's parallel spend is known and already blocked by R-1.)*
+
+★ **RULING 148 — EIGHTEEN ITEMS ARE OWED IN THE DRAFT-LOG WITH NO QUEUE ROW, AND THE QUEUE'S CHARTER MAKES THAT A COVERAGE CLAIM IT CANNOT HONOUR.**
+
+§6.3, adopted. The queue says an absent item is *unrecorded, not discharged*; the ledger audit found
+eighteen such. **The one that changes tomorrow: V.2's beat list needs rewriting before Book V drafts —
+filed twice in the log, never rowed, while two other rows already block Book V.** That is a **third**
+blocker on Book V, discovered in a document, not by a gauge. Also owed and unrowed: rulings 108/126
+residue for Books V–VIII (beats unmarked for drafter-voice, unscreened against the `05` ban list — both
+already cost Book IV real gauge failures); the `prose_echo` 70-hit backlog and `beat_delivery`'s 38
+sub-floor beats; the `perspective`/`position` doublet, twice assigned to "a Book IV reviewer pass" which
+then happened twice without carrying it; rulings 29, 46, 48, 32, 77, 127's watch, IV.7's length
+disposition, IV.8's declined-entries certification. **R-26 rows the four that touch Book V; the rest are
+rowed as one batch with their existing triggers intact.** ⚠ **The generalisation, which is the ruling:
+the DRAFT-LOG is a chronological record and the queue is a work list, and NOTHING PROMOTES ONE TO THE
+OTHER.** Eighteen promotions were owed to a step that does not exist. The C-MANIFEST convention fixed
+the `07` case last night by adding a line to drafting; **this needs the same shape — an entry that files
+an owed item must row it in the same commit, or it is a note.**
+
+★ **RULING 149 — C27–C30 ARE REGISTERED BEFORE V.1, NOT BEFORE BOOK V CLOSES. R-13's TRIGGER IS ACCELERATED.**
+
+§4.1's one scheduling argument, adopted whole. R-13 currently triggers "before Book V closes." The audit
+argues for **before V.1 drafts**, on the ground that registering V.1's *convergence-is-evidence-not-proof*
+warrant **before the chapter exists** would be the first time in the project a publicly expensive claim
+was registered ahead of its chapter rather than after — and §7.3's measurement is why it matters: **every
+major miss in the first half ran in the same direction, the prose getting ahead of the apparatus.** The
+register is the apparatus that has fallen furthest behind. Four claims: the two-frames rule, IV.5's
+company-claim, the under-attribution warrant (re-based per R-3 onto standing/asymmetric cost), and V.1's
+convergence warrant. **R-13's trigger is amended in place.**
+
+★ **RULING 150 — THE GAUGE SUITE DESCRIBES A 14-CHAPTER BOOK AND CARRIES TWO WORD-COUNT DEFINITIONS.**
+
+§6.4's tool-staleness arm, adopted. `ancestor_gap`, `reviewer_gap` and `prose_beat_sweep` all still
+describe a 14-chapter book; `reviewer_gap` prints *"14 OF 68"*; `beat_sweep` says *"68 chapters ~350
+beats"* against a parsed 69/293; `prose_echo` sweeps `REVISION-QUEUE.md` as though it were a chapter;
+`ancestor_gap`'s seed extraction now yields garbage rows (*"It runs"* as top diffusion entry) because its
+STOP list has not kept up; `claim_sweep`'s TOUCHES check has been **permanently red** since the `Touches:`
+pass was never run — a check that cannot pass is a check nobody reads, which is Drift #287 wearing an
+alarm's clothes and is the *third* instance of that shape found this week. And the suite reports **94,486
+and 96,274 words for the same 32 chapters** — ruling 13's declare-the-unit failure, in the instruments.
+⚠ **A stale docstring is not cosmetic here: it is the gauge's account of its own scope, and this project
+reads scope claims as coverage claims.** R-27, one gauge sitting, not blocking.
+
+**Adopted from §3 and §8 without separate rulings, rowed directly:** the Santa/corporation seam (§3.1 —
+one name, two referents, in the chapter that adjudicates realness; **genuinely NEW**, ruling 120 covers
+the adjacent symmetry and not this) → R-28. The "What is owed" template's *placement* rather than its
+content (§3.3 — five identical chapter-end structures read as liturgy by the fourth; **integrity entering
+through a repeated position is a register**) → rides with R-15. The IV.7 length disposition made a
+decision rather than left declined (§3.2) → R-29. The Irenaeus Harvey Latin and the Brahma-Sūtra
+renderings filed into `corpora/tmp/` the way Machado's scan is (§3.5 — the one span in the volume the
+auditor could not check, and the centerpiece finding of IV.9) → R-30.
+
+★ **WHAT THE AUDIT GOT RIGHT THAT NO GAUGE HERE COULD HAVE:** §7.3. *Every major miss in the first half —
+C24, C26, the missing tier, the unregistered Book IV claims, the pre-spent Book V beats — ran in the same
+direction: the prose got ahead of the apparatus, and the apparatus found out later.* Five independent
+failures, one sign. **That is a measurement, not an impression, and nothing in this repo was positioned
+to take it** — every gauge here reads one file or one chapter, and the finding lives in the correlation
+across five. The second half drafts against the register and the queue, not merely with them.
+
+**CHAPTERS-DRAFTED: 32/67** — unchanged; this entry files a read, not a chapter.
