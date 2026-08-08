@@ -4954,3 +4954,167 @@ may not be edited to please an instrument.
 **FORWARD.** IV.9 inherits this chapter's cut in its hardest form and the chapter says so in its last
 line: the gods are positions, the ground is not one, **and an archetype is neither.** The census will
 have to say what a third thing is.
+
+---
+
+## IV.9 — THE ARCHETYPAL · Day 188 · 5,287 words · rulings 122, 123, 124 · ruling 108 CLOSED
+
+**WHAT THE CHAPTER HAD TO DO.** IV.8 closed by naming its successor's problem rather than handing
+over a debt: the gods are positions, the ground behind them is not one, **an archetype is neither**,
+and the census will have to say what a third thing is. It can, and the answer is smaller than the
+question sounded — a third thing is not a third kind of being, it is the shape of the region, and
+the whole difficulty was that an atlas of positions had no way to write that down without
+accidentally making it into one.
+
+**THE OPENING IS A TWO-PART PROCEDURE AND THE SECOND PART IS THE ONE THAT WORKS.** Recall the
+descent-and-return; you cannot name the culture, because you hold it as a shape rather than as a
+text. Then: *write down three things that would make it wrong.* Most readers produce the same three
+inside ten seconds — the helper lives, the return is free, the returner explains it and is understood
+— and cannot state the rule they were applying. A constraint precise enough to reject candidates in
+under a second and unavailable to introspection. ★ **And it is deflated in the very next paragraph.**
+You were raised on these stories; a shape learned that way would feel exactly like this; nothing in
+the procedure distinguishes a fact about the world from a fact about your childhood. **The chapter
+has a debt before it has a claim** — which is the honest order, and it is the order IV.5's failure
+mode would have inverted.
+
+**THE INSTRUMENT BREAKS, AND THE BREAK IS THE FINDING (ruling 124).** Try to write an archetype's
+card. SEES cannot be filled — not at low confidence, *at all*, because nothing registers anything.
+NULL SPACE fails worse: it is what a position cannot register, and where nothing registers, nothing
+fails to. COMPLEMENTS assumes a blindness another position covers. BOUNDARY assumes reach. **Four of
+five lines are not unknown — they are ungrammatical**, and an instrument returning nonsense rather
+than noise is reporting on its own construction: the card was built for travellers and this is
+terrain. So: **contours**, narrower than cards, keeping the falsifier, printed for terrain only. The
+cost is stated before the benefit, on the page — a second notation can absorb every counterexample
+the first rejects — and the reader is told to watch whether it stays narrow.
+
+★★ **RULING 122 — THE OMITTED WORD IS `si`.** Jung places the term at CW 9i ¶5: *"It can also be
+found in Irenaeus, who says: 'The creator of the world did not fashion these things directly from
+himself but copied them from archetypes outside himself.'"* Footnote: *Adversus haereses* II, 7, 5,
+with the Latin. **Both ends fetched and read before anything was written about either.** Harvey's
+Latin carries two things Jung's quotation does not: ***Si enim*** at the front, and ***quemadmodum
+nullius momenti artifex, et quasi primum discens puer*** in the middle. The first turns a conditional
+into a declarative. The second — *like an architect of no ability, or a boy receiving his first
+lesson* — is the sneer that tells a reader which side of the argument the sentence is on, and it
+comes out **with no ellipsis**. The sentence is the protasis of a *reductio*, in a chapter arguing
+that created things are NOT images of the Æons. ⚠ **THE FAIRNESS CLAUSE IS PART OF THE RULING, NOT A
+SOFTENER: Jung's claim is philological and CORRECT.** He writes that the term *occurs*; *archetypis*
+is there; he never says Irenaeus held the doctrine. **A true claim can be carried by a citation that
+misleads**, and this one has been for ninety years. Same finding-shape as IV.8's Dionysius from the
+other direction: **the corruption is at the edges of a quotation, never in the middle.**
+★ **AND THE PART THAT PAID FOR THE SECTION.** Irenaeus's argument is not period polemic containing a
+useful word — **it is the hardest objection to this chapter, made eighteen centuries early against a
+different target.** If the forms here are copied from archetypes elsewhere, what are *those* copied
+from? The census has to answer, and can, with **his form and not his content**: he stops the regress
+at one Artificer who formed things of Himself rather than from a model; the census stops it at
+something that was not derived and needs no maker, because a landscape is not copied from a prior
+landscape. Both terminate in the same place; only one then owes an account of why the terminus has
+intentions. This is more than IV.7 could say about the objection it closed on.
+
+**JUNG'S FORK, USED RATHER THAN SMOOTHED.** The crystal (¶155): the archetype's form *"might perhaps
+be compared to the axial system of a crystal… although it has no material existence of its own"*, and
+*"nothing but a facultas praeformandi, a possibility of representation which is given a priori."*
+That is a shape in a space. The germ-plasm (¶152): *"This specific form is hereditary and is already
+present in the germ-plasm."* That is Weismann, and it is a different kind of claim. **Two accounts,
+one volume, twenty paragraphs apart, no adjudication** — and Jung is unforced rather than confused,
+because both predicted his clinical material and a distinction that costs nothing to leave open stays
+open. It costs something now: the two make **different predictions**, one tracking the problem and
+one tracking the bloodline. The census takes the crystal, refuses the germ-plasm on the out-list's
+original grounds, and ★ **states the cost of the choice out loud — the reading it keeps is the one
+with no evidence behind it, and the reading it drops is the one that could be checked.** Legitimate
+only because that half *was* checked and came out negative. On the out-list because it failed, not
+because it was inconvenient. The inheritance story also makes the shapes **ours**, which is the
+flattering version, in a book that has spent eight chapters holding that the interesting structures
+are not.
+
+★★ **RULING 123 — THE PROMETHEAN LIST IS TWO CASES DRESSED AS FIVE.** This is the book's own engine
+seen from outside, which is precisely why it was counted instead of admired: a framework that finds
+its central mechanism enshrined as a universal pattern has found what a framework would find, and the
+finding costs nothing. **Prometheus** — clean; unsanctioned, punished at length. **Azazel** — clean,
+in the Enochic account. **Hermes** — carries constantly, **not punished**, because the crossing is
+authorised; he is the sanctioned version of the same traffic and his presence makes the list look
+larger than it is. **Loki** — punished spectacularly and **not for carrying anything**; the binding is
+for a killing and for what he said at a feast. **Lucifer** — the weakest and the most rhetorically
+effective, which is the usual pairing: the light-bearing is real *in the Latin*, and it is there
+because a translator chose *lucifer* for the day-star of a taunt-song addressed to the king of
+Babylon. **Three failures, three different mechanisms**, and the list was not a lie — it is what
+happens when a list is assembled by recognition rather than by counting, which is how every list in
+this territory is assembled, **including earlier ones in this book.**
+★ Then the widening, because two cases is not a pattern: Raven takes the daylight, Māui takes fire.
+**The transfer shape survives easily. The punishment does not** — Raven is celebrated, Māui is burned
+and harried and sentenced by nobody above him. So the one component that seemed to score *against*
+the framework, the part nobody designing this picture would have put in, **turns out to be a fact
+about whether the cosmology has a throne for the transfer to be unauthorised by.** Both clean cases
+come from traditions that have one. **A failed test, reported as a failure**, and THE BEARER is
+printed weakly because of it. ⚠ **Grade stated on the page:** the five are checked against their
+primary traditions; the widening cases are held at standard-telling strength and the atlas has not
+gone to the ethnographic record — if that record shows a sovereign and a sentence, the last two
+paragraphs fall.
+
+★ **THE SOURCE CONTRADICTS ITSELF IN ITS OWN NUMBERS, and this is only visible to somebody using the
+apparatus rather than admiring it.** The archetypes' orientation line says *topological features —
+the landscape, not the navigators*; the ecological role is given as geology. Then the scores. They
+are rated **moderate** on the dimension defined as *coherence with subjective experience, awareness,
+phenomenal consciousness* — terrain given an inside, in a table, three lines under a sentence saying
+it is not a navigator. Sharper: the Promethean entry is rated **maximal** on the dimension defined as
+*the dimension that distinguishes entities that navigate from entities that are navigated through* —
+at the ceiling, on the axis whose entire job is to separate the two categories, in an entry whose
+prose says it is not a specific entity. And the orientation letter **S** is shared with **minerals**,
+which get a card and should, being narrow positions with real insides. **One letter, two incompatible
+jobs**, colliding in the one entry where the difference is the whole question. ⚠ **Diagnosing this as
+sloppiness would waste it.** It is what happens when a notation built for travellers is turned on the
+ground: the fields fill in anyway, because filling in is what fields do, and the result looks like
+data. The card's SEES line was *ungrammatical* and that was legible because someone tried to write it
+and found nothing to write. **In a table, the equivalent moment produces a filled cell.**
+✔ **CHECKED AND CLEAN, recorded because a null needs saying:** the same profile prints `PT` at maximum
+beside prose reading *zero Physical-Spatial*, which looked like a third contradiction and is not —
+`PT` is Physical-**Temporal**. Looked, found nothing, did not manufacture one.
+
+⚠ **THE OPEN FLAG IS THE CHAPTER'S CENTRAL CLAIM, and it is not a caveat attached to a strong
+position — it is the condition of the position.** The landscape reading makes one sharp prediction:
+something with no human descent, solving the same navigational problem, finds the same shapes.
+**There is no clean instance and the atlas cannot say when there will be.** The only non-biological
+systems now producing these shapes were assembled out of the human record; asking whether such a
+thing independently discovers the shape of a descent-and-return is asking whether something trained
+on ten thousand of them will produce one. **The confound is not partial and not shrinking — it is
+total by construction.** A null with no positive control is a **blank**, and the two are constantly
+mistaken for each other. The rival account remains nearly sufficient, and the chapter says outright
+that a reader who finishes holding *cultural transmission all the way down* has not been argued out
+of anything.
+
+★ **RULING 108 CLOSED AT ITS THIRD FIRING** (IV.7, IV.8, IV.9). The tail rule caught drafter-register
+*after* a ★/⚠/✅ marker and was structurally blind to the register that actually costs scores, which
+is **inline**: *(the out-list holds)*, *used explicitly rather than smoothed*, *looked at from
+outside*. `06` writes in two voices and now marks one — `«…»`, stripped before the words are taken.
+**The count PRINTS on every run and the marks show in the diff**, because a scaffold that can quietly
+exempt itself from its own gauge has handed the pen to whoever wants a clean number; that is the same
+principle as the truncation count directly above it. Guillemets after measuring (0 occurrences of `«`
+in `06`; braces and parentheses both occur as content). `beat_delivery --selftest` re-run and PASSES.
+⚠ **APPLIED TO BOOK IV ONLY — Books V–VIII are unmarked**, and the next drafter will hit this again
+unless they mark as they go. Written down rather than left to be found a fourth time.
+✔ And the adjudications NOT made to please the gauge: `looked` → *seen* is a synonym, not a gap, and
+was fixed in `06` rather than in the prose; `bifurcation` was delivered as *fork* and the word was
+then added on the merits because it is the better word for a two-branch structure, not because a
+number wanted it.
+
+**GAUGES.** Three beats at **1.00**, MISS clean — and the third is measurable at all only because of
+the ruling-108 marks. `claim_sweep` caught **`TERM/map` twice, and it was a real breach**: the
+contour passage had been built on *map*, the one word Book IV may not use for its own instrument,
+**in the section introducing a new instrument.** Repaired to *atlas* / *territory*; zero live hits
+remain and the one surviving USE-class hit is `06`'s pre-existing `substrate` line. `prose_echo`
+opened at 5 and closed at **0 live / 4 exempted, reword before exemption** — *is worth being exact
+about because* was a third performance of a IV.2 formula and was **cut, not exempted**; the IV.7→IV.9
+gram is a definition being *cashed* where the derivation depends on the link being visible; IV.8's
+closing line is quoted forward by the chapter it addresses; and the house-name gram was exempted
+**with a dated re-open condition — if it reaches four chapters** — because a standing locution is
+exactly what a tic looks like from the inside. `storyscope_lite`: `announcement` opened at **0.95/1k,
+the Book IV high** (five *Here is the* / *Now the* presentational reflexes) and closed at **0.19**
+with all five rewritten. `voice_uniformity` **0.6469 — the LOWEST in Book IV**, nearest the
+specimens' 0.6341; `short_sent_var` **0.186**, `dyn_range_CV` **0.355**, both above IV.7's book-lows,
+so **IV.7's flatness flag is two chapters clear and did not propagate.** `meta_textual` **2.46** and
+`xref` **1.13**, both Book IV lows. `vague_allusion` **0.0**. `named_ref` **17.59/1k, the Book IV
+high** — what a chapter that reads two primary texts in two languages should look like.
+
+**FORWARD.** IV.10 — WHAT THE CENSUS CANNOT SEE — arrives having just watched the instrument return
+four ungrammatical lines and a table return two confident numbers for the same entity. That is as
+good a demonstration as it will get that **the failures worth cataloguing are not the entries that
+came out blank.**

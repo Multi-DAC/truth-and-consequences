@@ -258,6 +258,35 @@ EXEMPT = [
      "re-ran IV.7's framing ('declared the tier's epistemic weakness at the top in the strongest "
      "terms available'), which is not the question and had no business being verbatim. Eleven grams "
      "on this pair became six. What survives is the question and nothing around it."),
+    ("IV.7", "IV.9", "the space that positions move through",
+     "★ THE HANDOFF GRAM, and it is a DEFINITION being cashed rather than a phrase being reused. "
+     "IV.7 needed to say, mid-chapter and in passing, why a two-frames problem is really the question "
+     "of whether there is a card at all — 'an archetype registers nothing, because it is not a "
+     "position; it is a shape in the space that positions move through' — and promised the chapter "
+     "that would take it up. IV.9 IS that chapter, and its whole structural argument (four of the "
+     "five card lines come out ungrammatical, so the atlas needs a second notation) is derived FROM "
+     "this clause. Rewording it here would break the derivation's only visible link to where it was "
+     "granted. The reader has to be able to check that the thing being built on is the thing that "
+     "was promised."),
+    ("IV.8", "IV.9", "hardest form the gods are positions",
+     "★ IV.8'S CLOSING SENTENCE, QUOTED FORWARD BY THE CHAPTER IT ADDRESSES. IV.8 ends by naming its "
+     "successor's problem — the gods are positions and the ground is not one, an archetype is "
+     "neither, and the census will have to say what a third thing is. IV.9 opens its second section "
+     "by restating exactly that inheritance before answering it. This is the designed-return case in "
+     "its purest form: a debt named in one chapter and discharged in the next, where the discharge is "
+     "unauditable unless the debt is reproduced in the terms it was incurred in. ⚠ THE SISTER HITS ON "
+     "THIS PAIR WERE HANDLED DIFFERENTLY — see the next entry — because they are a standing locution "
+     "and not a handoff, and the two do not earn their exemptions the same way."),
+    ("IV.8", "IV.9", "inherited material this atlas draws",
+     "THE HOUSE NAME FOR THE SOURCE — two overlapping windows of one noun phrase, adjudicated once "
+     "because they are one phrase. This is the book's fixed way of referring to the material Book IV "
+     "is built on, and it is fixed ON PURPOSE: ruling 14's defect is one referent under two names, "
+     "and inventing a fresh formula each chapter to dodge this gauge would BE that defect, committed "
+     "to satisfy an instrument. ⚠ AND THE LIMIT, because this is the weakest of the three exemptions "
+     "added at IV.9 and should be the first re-examined: a standing locution is exactly what a tic "
+     "looks like from the inside. The defence is that it names a specific document and could not be "
+     "replaced by a pronoun; the thing that would kill it is the phrase appearing where no source is "
+     "being named. If it reaches four chapters, re-open it."),
 ]
 
 

@@ -1456,14 +1456,98 @@ this file still writes in two voices and marks neither. **The owed repair is thi
 
 ### IV.9 — THE ARCHETYPAL
 **Beats:** archetypes as **shared attractors in the landscape**, explicitly not as genetic inheritance
-(the out-list holds) · the Promethean archetype, which is this book's own engine looked at from outside ·
-Jung named, with his bifurcation used explicitly rather than smoothed.
+«(the out-list holds)» · the Promethean archetype, which is this book's own engine seen from outside ·
+Jung named, with his bifurcation «used explicitly rather than smoothed».
 **Source:** ecology Tier 4.1–4.2.
+✅ **DRAFTED Day 188 · 5,287 words · `book/IV-09-the-archetypal.md` · rulings 122, 123, 124; ruling
+108 CLOSED.** All three beats 1.00, MISS clean. Ruling 75(b) clean for a **seventh** chapter — opens
+on a two-part procedure (recall the descent-and-return; then write down three things that would make
+it *wrong*), and the second half is the one that works: the reader produces the three constraints in
+ten seconds and cannot state the rule they applied. **And the datum is deflated in the paragraph
+after it is collected** — you were raised on these stories, a shape learned that way would feel
+exactly like this, and nothing in the procedure separates a fact about the world from a fact about
+your childhood.
+★★ **RULING 122 — THE PRIMARY TEXT AGAIN, AND THIS TIME THE OMITTED WORD IS `si`.** Jung's genealogy
+of the term (CW 9i ¶5) reads: *"It can also be found in Irenaeus, who says: 'The creator of the world
+did not fashion these things directly from himself but copied them from archetypes outside
+himself.'"* His footnote gives *Adversus haereses* II, 7, 5 and the Latin. **Both ends were fetched
+and read.** Harvey's Latin: *"**Si enim** mundi fabricator non a semetipso fecit hæc, sed
+**quemadmodum nullius momenti artifex, et quasi primum discens puer**, de alienis archetypis
+transtulit…"* **Jung's quotation begins one word late** — the protasis marker is gone, so a
+conditional reads as a declarative — **and the sneer in the middle comes out with no ellipsis.** The
+sentence is a *reductio* inside a chapter arguing that created things are NOT images of the Æons.
+⚠ **AND THE FAIRNESS CLAUSE IS LOAD-BEARING, NOT A COURTESY: Jung's claim is philological and it is
+CORRECT** — he says the *term occurs*, and *archetypis* is there. The defect is that a true claim is
+carried by a citation that cannot be read the way the claim intends. **A quotation is corrupted at
+its edges, never in the middle** — the same finding shape as IV.8's Dionysius, arrived at from a
+different direction.
+★ **AND THE TURN THAT PAID FOR THE SECTION: Irenaeus's actual argument is the hardest objection to
+this chapter.** *If the forms here are copied from archetypes elsewhere, what are those copied from?*
+The regress. Put to this census it lands, and the answer has **his form and not his content** — he
+stops it at one Artificer who formed things of Himself; the census stops it at the same kind of
+place, something that was not derived, and needs no maker, because a landscape is not copied from a
+prior landscape. C5 and C3, discharged against an eighteen-century-old objection made to somebody
+else.
+★★ **RULING 123 — THE PROMETHEAN LIST, COUNTED INSTEAD OF ADMIRED, IS TWO CASES DRESSED AS FIVE.**
+This is the book's own engine seen from outside, which is exactly why the list got audited one name
+at a time. **Prometheus** clean · **Azazel** clean · **Hermes** carries constantly and is NOT
+punished, because the crossing is authorised · **Loki** is punished spectacularly and not for
+carrying anything · **Lucifer**'s light-bearing is an artefact of a Latin translator's word for the
+day-star of a taunt-song addressed to the king of Babylon. **Three failures, three different
+mechanisms.** ★ Then the widening — Raven, Māui — and the transfer shape survives easily while **the
+punishment does not.** So the one component that appeared to score AGAINST the framework (the cost,
+the liver, the chain — the part nobody designing this picture would have added) **is a fact about
+whether the cosmology has a throne**, not about carrying access across a boundary. **A failed test,
+reported as failed**, and the section is shorter than it was going to be by exactly the part that
+flattered us.
+★ **RULING 124 — A SECOND NOTATION, AND THE COST STATED BEFORE THE BENEFIT.** The card apparatus
+returns **four ungrammatical lines out of five** on an archetype — not *unknown*, ungrammatical, which
+is an instrument reporting on its own construction. So the atlas prints **contours** (SHAPE · WHERE IT
+SHOWS · WHAT IT IS NOT · NAVIGATIONAL IMPLICATION · falsifier) for terrain, and **cards remain for
+travellers only**. ⚠ The declared hazard: a second notation can absorb every counterexample the first
+rejects. The protection is that it is **narrower** than the card, not wider — and the chapter says on
+the page that a reader should watch whether it stays narrow. Two printed: **THE DESCENT AND THE
+RETURN** and **THE BEARER**, the second deliberately weak, because *stories about transmission are
+about transmission* is near-tautologous and the one component that would have carried information is
+the one ruling 123 just killed. Term screened on all three axes of ruling 14 and passes ruling 30's
+civilian-life test; row added to `05` §3b-bis.
+★ **RULING 108 CLOSED, at its third firing** (IV.7, IV.8, IV.9). The tail rule only ever caught
+drafter-register that came AFTER a ★/⚠/✅ marker; the register that actually costs scores is
+**inline** — *(the out-list holds)*, *used explicitly rather than smoothed*. `06` writes in two voices
+and now **marks one**: `«…»` spans are stripped before scoring, the count PRINTS on every run, and
+the mark is visible in the diff — because a scaffold that can silently exempt itself from its own
+gauge has handed the pen to whoever wants a clean number. Guillemets chosen after measuring: 0
+occurrences of `«` in `06`; braces and parentheses both already occur as content. Selftest re-run and
+PASSES. ⚠ **APPLIED TO BOOK IV ONLY. Books V–VIII are unmarked and the next drafter will hit this
+again unless they mark as they go** — recorded here rather than left to be rediscovered a fourth time.
+⚠ **THE OPEN FLAG, and it is the chapter's own central claim.** **There is no clean test of the
+landscape reading and the atlas cannot say when there will be.** The sharp prediction — something with
+no human descent finds the same shapes — is unrunnable: the only non-biological systems now producing
+them were assembled out of the human corpus, so the confound is total *by construction*. A null with
+no positive control is a **blank**, not a null. The chapter prints this as the condition of the claim
+rather than as a caveat attached to it, and says outright that a reader who finishes holding
+*cultural transmission all the way down* has not been argued out of anything.
+**GAUGES.** All three beats **1.00** and the two `«…»` marks are the reason the third is measurable
+at all. `claim_sweep` caught **`TERM/map` twice — a real lexicon breach, not a false positive** (05
+§3b, breaches C5): the contour passage had been built on *map*, the one word Book IV may not use for
+its own instrument, in the very section introducing a new instrument. Repaired to *atlas* / *territory*
+and zero live hits remain. `prose_echo` opened at 5 and closed at **0 live / 4 exempted, with the
+reword done BEFORE the exemptions** — *is worth being exact about because* was a third performance of
+a IV.2 formula and was cut, not exempted; the IV.7→IV.9 definition-cash and IV.8's quoted-forward
+closing line were exempted as pairs, and **the house-name gram was exempted with a dated re-open
+condition (if it reaches four chapters)** because a standing locution is what a tic looks like from
+the inside. `storyscope_lite`: `announcement` opened at **0.95/1k, the Book IV high** — five *Here is
+the* / *Now the* presentational reflexes in one chapter — and closed at **0.19** after all five were
+rewritten. `voice_uniformity` **0.6469, the LOWEST in Book IV** and nearest the specimens' 0.6341;
+`short_sent_var` **0.186** and `dyn_range_CV` **0.355**, both above IV.7's book-lows: **IV.7's
+flatness flag is now two chapters clear.** `meta_textual` **2.46**, the Book IV low. `xref` **1.13**,
+the Book IV low. `vague_allusion` **0.0**. `named_ref` **17.59/1k**, the Book IV high, which is what a
+chapter that reads two primary texts in two languages should look like.
 
 ### IV.10 — WHAT THE CENSUS CANNOT SEE
 **Beats:** the atlas's own null space, mapped as far as an atlas can map its own blindness · the
-cryptids and boundary entities, and why they are a *methodological* chapter rather than a credulous one ·
-why the catalogue is permanently open · **the handoff to the CODA's living-book claim.**
+cryptids and boundary entities, and why they are a *methodological* chapter «rather than a credulous one» ·
+why the catalogue is permanently open · the handoff to the CODA's living-book claim.
 **Source:** ecology Tier 1.5 · `Perspective` 04 "what this census cannot see."
 
 ---

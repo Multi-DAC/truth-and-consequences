@@ -92,6 +92,28 @@ ALWAYS = 10
 # The scaffold's editorial markers. A beat's text ends at the first one of these.
 TAIL = re.compile(r"[★⚠✅]")
 
+# ★ RULING 108's REPAIR, installed Day 188 at IV.9 after the ruling fired for the THIRD time
+# (IV.7, IV.8, IV.9). The tail rule above handles drafter-register that comes AFTER a marker
+# and cannot see drafter-register that is INLINE — and inline is where it actually lives:
+# `(the out-list holds)`, `looked at from outside`, `used explicitly rather than smoothed`.
+# Those are instructions to whoever drafts the chapter. The prose owes them nothing, and every
+# one of them scores as a MISS against a chapter that delivered the beat perfectly.
+#
+# `06` writes in two voices — page content and drafter instruction — and marked NEITHER, so a
+# word-reading gauge is obliged to read all of it as content. The fix is not smarter parsing;
+# no parser can tell an instruction from a move. It is that the SCAFFOLD must say which voice
+# it is in, and guillemets say it: «…» is stripped before the words are taken.
+#
+# Guillemets rather than braces or parentheses because both of those already occur in beat
+# lines as content, and a marker that collides with content is a marker that deletes moves the
+# prose really does owe. Measured before choosing: 0 occurrences of « in `06`.
+#
+# The count PRINTS, on the same principle as the truncation count directly beneath it: a
+# scaffold that can silently exempt itself from its own gauge is worse than no gauge, because
+# the drafter who wants a clean score has been handed the pen. What is marked is visible in
+# the diff and in the report, and it stays a person's call.
+DRAFTER = re.compile(r"«[^»]*»")
+
 # INFLECTIONS. An inflection is NOT a delivery and this tool does not score it as one: the
 # match stays exact and coverage does not move by a thousandth. What changes is what a MISS
 # TELLS you. `filter` reported missing while `filters` sits in the paragraph printed directly
@@ -118,15 +140,17 @@ def near_form(w, chap_words):
 
 
 def beat_text(raw):
-    """The move, with the drafter's notes cut off. Returns (text, was_truncated)."""
+    """The move, with the drafter's notes cut off. Returns (text, was_truncated, n_marked)."""
     m = TAIL.search(raw)
-    return (raw[:m.start()].strip(), True) if m else (raw.strip(), False)
+    text, cut = (raw[:m.start()], True) if m else (raw, False)
+    marked = len(DRAFTER.findall(text))
+    return DRAFTER.sub(" ", text).strip(), cut, marked
 
 
 def measure(scaffold_text, dr, focus=None):
     hv, _ = house(dr)
     chs = {cid: body for cid, _, body in chapters(scaffold_text)}
-    rows, truncated, short = [], 0, 0
+    rows, truncated, short, marked = [], 0, 0, 0
 
     for cid, paras in sorted(dr.items()):
         if focus and focus != cid:
@@ -140,8 +164,9 @@ def measure(scaffold_text, dr, focus=None):
             chap_words |= set(words(p))
 
         for kind, raw in beats(body):
-            text, cut = beat_text(raw)
+            text, cut, mk = beat_text(raw)
             truncated += cut
+            marked += mk
             bw = [w for w in dict.fromkeys(words(text)) if w not in hv]
             if not bw:
                 continue
@@ -163,7 +188,7 @@ def measure(scaffold_text, dr, focus=None):
             rows.append({"ch": cid, "kind": kind, "text": text, "cov": cov,
                          "missing": missing, "near_forms": near, "anchor": anchor,
                          "short": len(bw) < MIN_BEAT})
-    return rows, truncated, short
+    return rows, truncated, short, marked
 
 
 def semantic_anchor(rows, dr):
@@ -179,7 +204,7 @@ def semantic_anchor(rows, dr):
         r["sem"] = (paras[best][0], sum(a * b for a, b in zip(q, rest[best])))
 
 
-def report(rows, truncated, short, floor=FLOOR):
+def report(rows, truncated, short, marked=0, floor=FLOOR):
     print()
     print("BEAT DELIVERY — 06-THE-SCAFFOLD.md against each chapter's OWN prose")
     print()
@@ -207,6 +232,8 @@ def report(rows, truncated, short, floor=FLOOR):
           f"{under} under the {floor:.2f} reporting floor")
     print(f"  {truncated} beat(s) truncated at an editorial marker · "
           f"{short} under {MIN_BEAT} distinct words — MEASURED ANYWAY, coverage flagged SHORT")
+    print(f"  {marked} inline «drafter-register» span(s) stripped before scoring (ruling 108). "
+          f"A span marked here is a MOVE THE PROSE NO LONGER OWES — check the diff, not the score.")
     print()
     print("  READ THE `MISS` LINE, not the coverage number. A missing word may have been")
     print("  delivered by a synonym, and a beat at 1.00 may have been performed in name only:")
@@ -235,7 +262,7 @@ def selftest():
     and every word to surface in MISSING. It survives any edit to any chapter."""
     text = SCAFFOLD.read_text(encoding="utf-8")
     dr = drafted(read_disk)
-    rows, _, _ = measure(text, dr)
+    rows, _, _, _ = measure(text, dr)
     if not rows:
         print("!! selftest FAIL — nothing measured")
         return 2
@@ -245,7 +272,7 @@ def selftest():
     hurt = dict(dr)
     hurt[best["ch"]] = [(ln, p) for ln, p in dr[best["ch"]]
                         if not (set(words(p)) & set(bw))]
-    after_rows, _, _ = measure(text, hurt, focus=best["ch"])
+    after_rows, _, _, _ = measure(text, hurt, focus=best["ch"])
     after = [r for r in after_rows if r["text"] == best["text"]]
 
     print(f"  fixture: {best['ch']} ({best['kind']}) — the best-covered beat in the tree")
@@ -276,13 +303,13 @@ def main():
 
     text = SCAFFOLD.read_text(encoding="utf-8")
     dr = drafted(read_disk)
-    rows, truncated, short = measure(text, dr, focus=a.chapter)
+    rows, truncated, short, marked = measure(text, dr, focus=a.chapter)
     if not rows:
         print("  nothing measured — is the chapter drafted and present in 06?")
         return 1
     if a.semantic:
         semantic_anchor(rows, dr)
-    report(rows, truncated, short, a.floor)
+    report(rows, truncated, short, marked, a.floor)
     return 0
 
 
