@@ -5349,3 +5349,5 @@ mechanical fix, so the convention is instead: **every DRAFT-LOG entry ends with 
 running count, and the last line of this file is the authoritative one.**
 
 **STATE: 32 of 67 chapters drafted · 94,486 words · Books I–IV complete · next is V.1.**
+
+**CHAPTERS-DRAFTED: 32/67** — the declared slot. Machines read this line; the prose above is for people. Every DRAFT-LOG entry must end by updating it.

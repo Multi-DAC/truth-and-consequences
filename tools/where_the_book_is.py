@@ -171,6 +171,25 @@ def carrier_claim(path, label, total_plan):
     if not path.exists():
         return None, f"{label}: MISSING at {path}"
     text = path.read_text(encoding="utf-8", errors="replace")
+
+    # ★ THE DECLARED SLOT WINS, AND IT EXISTS BECAUSE PROSE-SCRAPING FAILED TWICE
+    # IN ONE EVENING ON THE SAME MISTAKE. A carrier that CORRECTS a bad number has
+    # to quote the bad number, and a correction is written after the thing it
+    # corrects — so "last global claim wins" reliably returns THE ERROR from any
+    # document honest enough to name it. It read DRAFT-LOG.md as 29 after the
+    # correction note, and read the brand-new handoff as 41 minutes after that
+    # handoff was rewritten specifically to say 32. No regex distinguishes an
+    # asserted number from a quoted one; that is a real limit, not a bug to
+    # cleverness away. So carriers now DECLARE:
+    #
+    #     CHAPTERS-DRAFTED: 32/67
+    #
+    # Prose stays prose. Numbers a machine must trust get a slot a machine can find.
+    slot = re.findall(r"CHAPTERS-DRAFTED:\s*(\d+)\s*/\s*(\d+)", text)
+    if slot:
+        n, m = slot[-1]
+        return (int(n), int(m)), None
+
     hits = [
         (int(n), int(m))
         for n, m in re.findall(r"(\d+)\s+of\s+(\d+)\s*(?:chapters?)?", text)
@@ -178,7 +197,7 @@ def carrier_claim(path, label, total_plan):
     ]
     if not hits:
         return None, f"{label}: makes no whole-book progress claim"
-    return hits[-1], None  # the LAST global claim in the file is the current one
+    return hits[-1], f"{label}: no CHAPTERS-DRAFTED slot — fell back to scraping prose, which reads corrections as errors"
 
 
 def sync_scaffold(disk):
@@ -268,9 +287,12 @@ def main():
 
     for path, label in ((HANDOFF, "handoff.json"), (DRAFT_LOG, "DRAFT-LOG.md")):
         claim, err = carrier_claim(path, label, total_plan)
+        # A missing slot is a warning AND the scraped number still gets checked —
+        # v1 returned early on any `err` and so stopped auditing the moment it had
+        # something to complain about, which is the failure it was built to catch.
         if err:
             problems.append(err)
-        elif claim[0] != total_disk:
+        if claim and claim[0] != total_disk:
             problems.append(
                 f"{label} claims {claim[0]} of {claim[1]}, disk says {total_disk} "
                 f"(off by {claim[0] - total_disk:+d})"
