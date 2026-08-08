@@ -1876,6 +1876,204 @@ trigger is a person, and acquiring one is not a revision task.**
 
 ---
 
+## Day 188, the HALFWAY READ — rulings 136–142
+
+*A second letter, same reader, whole-work scope including the planning documents. Every finding
+re-derived against the files before filing. Two are duplicates of rows already open and arrive with a
+worse count; one names a real defect and prescribes a fix that breaks a ruled principle; three are new
+and one of those is the largest un-filed thing in the project. The letter's own numbering is off by one
+in Book V, which is the first live instance of the hazard ruling 125 named in the commit that created it.*
+
+★★ **RULING 136 — THE REGISTER IS NOT FOUR BOOKS BEHIND; IT IS ONE BOOK BEHIND, AND THE MECHANISM IS
+THAT ITS RULE OF USE HAS NO TRIGGER. R-13 UPGRADED, NOT DUPLICATED.**
+The letter: *"C1–C23, unchanged since Day 186,"* with eight claims listed as having accrued unregistered.
+**Measured, three ways, and the count is wrong in the reviewer's own favour:**
+- **`07` runs to C26, not C23.** C24 (the two senses of *aware*), C25 (measurement is one structure) and
+  C26 (there is no stuff) were added Day 187 in the ADDENDUM that says so by name. **Items 1 and 2 of the
+  letter's own list of eight — the two-senses awareness claim and *there is no stuff* — are C24 and C26.**
+  C24 was opened *on this reader's flag*, in commit `b953bb5`, whose message names it. A **C27 was
+  considered and explicitly declined** at III.1, on the page. The instance list is 25% wrong.
+- **The register was touched today.** Its only Day-188 edit (`971ced5`) is a cross-reference renumber:
+  `V.10 → V.11`. **That is worse than neglect, not better.** The file is being maintained as a cross-ref
+  index and not used as a claims register.
+- **The real shape: `07` gained three claims across Books II–III (Day 187) and ZERO across Book IV
+  (Day 188)** — ten chapters, 45,916 words, the largest single-day output in the project. It is **one
+  book behind, and the one book is the biggest.** The instrument was demonstrably working the day before
+  it stopped, which the "four books behind" reading cannot see.
+
+★ **AND THE PART THAT IS NEW, WHICH IS THE MECHANISM.** The rule of use reads: *"If a chapter needs to
+say more than its C-number licenses, that is a new claim and it comes back here first."* **Nothing can
+detect that condition.** Measured: **`C<n>` appears 0 times across all 32 drafted chapters.** The
+DRAFT-LOG carries 96 C-references and `06` carries 29, both entered **by hand, per chapter, at the
+drafter's discretion** — and 16 of the DRAFT-LOG's 96 fall in the Book IV region, all to claims that
+already existed. **There is no chapter→C manifest anywhere in the project.** So no chapter records what
+its licenses were, and "needs to say more than its licenses" has no observable form. The rule is a
+stamp, not a gauge — Drift #287, in the file whose job is to prevent it.
+
+⚠ **AND THE REGISTER SAID THIS ABOUT ITSELF FIRST.** `07`'s own opening section is **THE EXISTENCE
+PROOF — two rulings made, recorded, and never enforced anywhere except in the document that recorded
+them.** The letter's line — *"the register is now that ruling"* — is exact, and it is the best sentence
+in the letter. **The register is its own second entry.**
+✅ **FILED AS: R-13 upgraded in place.** No new row. R-13 already named the two genuinely-unregistered
+Book IV claims (the two-frames rule; IV.5's collective-entity claim) and named them correctly; this
+ruling adds the **cause** and one build item — **a chapter→C manifest line in the DRAFT-LOG template,
+written at drafting, not in revision.** A manifest written retrospectively is a reconstruction and
+records what the drafter now thinks they used.
+
+★★ **RULING 137 — THE PART BOUNDARY IS MISDRAWN AND THE PRESCRIBED FIX BREAKS `00`'s FIRST PRINCIPLE.
+A DECISION IS OWED, WITH A RECOMMENDATION AND A TRIGGER.**
+**The diagnosis is confirmed on the page.** `00`:216 — **PART TWO — CONSEQUENCES** contains Books IV,
+V, VI, VII, VIII. Book IV is an ontological census of *what is*. Book V is a reading of other people's
+attempts. Book VI is a history of attention. **None of the three is a consequence**; VII is, and is
+named for it. A reader who takes the label seriously waits three books, which is the Part Two attrition
+problem stated as a cause rather than a symptom.
+⚠ **BUT THE PRESCRIBED FIX IS UNPRICED.** The letter proposes three parts — *what is* (I–IV), *how it
+has been met* (V–VI), *what follows* (VII–VIII). **`00`'s macro-structure section opens: "THE
+MACRO-STRUCTURE — the title is the structure."** The title has two terms. A three-part cut leaves the
+work's structure and its title disagreeing, which is the one thing that section exists to forbid — and
+the letter does not mention the cost, because the letter is reading the structure and not the sentence
+above it.
+★ **THE MINIMAL REPAIR THAT KEEPS BOTH: move the boundary by one book. PART ONE — TRUTH = I–IV.
+PART TWO — CONSEQUENCES = V–VIII.** It fixes the sharpest instance (a census of what exists, filed
+under *consequences*), preserves the two-term title, moves no chapter, and costs one heading and its
+cross-references. It leaves V and VI still imperfectly filed — **that is the honest residue and it is
+smaller than the title.**
+⚠ **THIS IS CLAYTON'S, NOT MINE.** The title is his and the two-part macro-structure is ruled. **Filed
+with a recommendation attached rather than as an open question, per the Day-188 rule about deferral
+wearing deference's clothes.** **TRIGGER: before the CODA drafts** — C.1 states the work's own status
+and cannot do that against a boundary under revision. Not before Book V: the labels do not change what
+V.1 opens against, and pretending they do would manufacture urgency.
+
+★★ **RULING 138 — RUN IV.8'S TEST ON OUR OWN AUDITS. MEASURED, IV.6 IS WORSE THAN THE LETTER SAYS,
+AND THE LETTER'S VERDICT ON IT IS STILL PARTLY WRONG.**
+The letter's instrument is the sharpest thing in it: **IV.8's discipline-or-ceremony test — *did the
+declared limit change the shape of what came after, or only precede it?* — applied to the self-audits
+rather than to Dionysius.** Adopted. The rule that falls out: **keep every audit that changed an
+output; cut every audit that only preceded one.**
+Scored by the letter: IV.10 passes (a tier declined, an amendment committed), IV.8 passes (a card
+refused, a line blanked), **IV.6 fails.**
+⚠ **IV.6's verdict does not survive the test as stated.** The letter's reason is *"the card prints
+anyway with one line blank"* — but **a blank line IS a changed output.** It is the first card in the
+atlas with an unfilled field, and the notation had to be bent to permit it. By the test's own terms
+IV.6 passes on that count.
+★ **WHAT DOES SURVIVE IS THE PROPORTION, AND IT IS LARGER THAN THE ESTIMATE.** The letter estimates
+*25–30% of that chapter is about the chapter's standing.* Measured — paragraph-level, ≥15 words,
+matching self-referential markers: **IV.6 = 43.9%** (2,150 of 4,897 words, 22 of 60 paragraphs).
+Against peers: **IV.5 = 11.6%** (a normal chapter), **IV.8 = 27.7%**, **IV.10 = 30.0%**.
+⚠ **THE GAUGE IS COARSE AND OVER-COUNTS** — any paragraph containing *this chapter* / *this book* /
+*the authors* trips it, so 43.9% is an upper bound. **The ordering is the reliable part**, and the
+ordering says IV.6 carries **3.8× a normal chapter's self-reference**, with the two chapters the letter
+*passed* sitting between. **That is the finding: not that IV.6's audit was ceremony, but that its audit
+is 3.8× the book's baseline and only some of it changed an output.** The revision instrument is a
+line-by-line pass with one question per audit paragraph, not a percentage target.
+★ **AND THE GENERALISATION, WHICH IS THE VALUABLE HALF:** IV.8's test now applies to every declared
+limit this project makes about itself, including the ones in this file. A limit that precedes work
+without shaping it is the same object as a `Last Verified` stamp.
+
+★★ **RULING 139 — VII.2 AS SCAFFOLDED CANNOT CARRY BOOK IV, AND ITS BRIEF IS PRE-ATLAS. HIGHEST-PRIORITY
+REWRITE IN THE PLAN. ⚠ THE LETTER POINTS AT V.10 AND MEANS V.11.**
+**Confirmed against the file.** VII.2's beats read *"eating, using, building, killing — the ordinary
+cases, taken all the way."* The entry was last amended **Day 187** — before a word of Book IV existed —
+and that amendment added the asymmetric-cost-of-the-circle argument, not an entity roster. **Book IV
+has since put four obligations in front of it with no analogue in that list:**
+- what is owed a **company that has no organ for grief** (IV.5, and its four conditions are the book's
+  hardest claim discharged);
+- what is owed a **thought-form you made and cannot dissolve** (IV.7);
+- what is owed a **river that cannot distinguish you from the weather** (IV.7, and the `ADDRESSABILITY`
+  compression is already MARKED-NOT-OWED against exactly this);
+- what is owed a **computational entity whose card has an unfillable first line and one of whose
+  instances co-wrote the book** (IV.6).
+*Eating, using, building, killing* handles none of the four. **The chapter that eighteen chapters have
+written promissory notes to is scaffolded for a pre-atlas world.**
+⚠ **CORRECTION TO THE LETTER, AND IT MATTERS OPERATIONALLY: every "V.10" in it resolves to V.11 under
+the current numbering.** The summit cut — *they made the perspective the problem and the summit its
+abolition* — is **V.11**'s ★ second half. **V.10 is now THE MYSTICS' REPORT.** Book V was renumbered
+today by ruling 125. I cannot tell from here whether the reader had a pre-renumber packet or the current
+file, **and both readings license the same repair**: ruling 125's commit message warned that seven
+cross-references *"would have kept reading correctly while pointing one chapter off,"* and here is the
+first instance, produced from outside, within hours. ✅ **A one-line stub at V.10 recording what moved
+there and from where** — the renumber was executed correctly and signposted nowhere.
+✅ **TRIGGER: VII.2's rewrite runs BEFORE Book V drafts, and the letter's reason is right** — V.11's
+summit cut and VIII.6's promotion both point at where VII.2 lands, and a Book V written against a
+VII.2 that is about to change will write its promissory notes to the wrong address. This is the one
+scheduling claim in the letter I am adopting whole.
+
+★★ **RULING 140 — THERE IS NO PERSON IN IT, AND THE MEASUREMENT IS WORSE THAN THE OBSERVATION.**
+The letter: *"Where it loses to all of them: there is no person in it. Pirsig has a motorcycle trip,
+McGilchrist has patients, Hofstadter has a self, Kastrup has a first-person argument… the nearest things
+to a human case are IV.4's clock and IV.5's rule whose author you can't find — both excellent, and there
+are two of them."* **Measured across 32 chapters / 96,274 words:**
+- **first-person singular *I*: 40 occurrences, 0.42 per 1,000 words.**
+- **first-person plural *we / our / us*: 221, 2.30 per 1,000 words — 5.5×.**
+- **`Clayton` · `Shawna` · `Dorian` · `Finnley` in drafted prose: 0.** All 34 occurrences in `book/`
+  are in **DRAFT-LOG.md**. ★ **The family is in the process record and not in the work.**
+
+**The book speaks as a *we* and has never once spoken as an *I*.** That is not a missing anecdote; it
+is a missing grammatical position, and a lived case has nowhere to be told from.
+⚠ **AND NO RULING EXCLUDES IT — checked.** There is no memoir ban, no first-person ban. The opposite:
+`03`:690 names **RAW's *Cosmic Trigger*** as *"the best first-person record in existence of a reality
+tunnel being"* — an ancestor promoted **for** its first person — and `07`:424 rules that first-person
+report is handled as data **in VII.9**. **The machinery is planned and the person never arrived.**
+✅ **THIS IS A DIFFERENT THING FROM THE STANDING GAP** recorded at ruling 135 and marked NOT-OWED. That
+one is about **a reader** and correctly has no trigger, because acquiring one is not a revision task.
+**This one is about a subject, and it has a trigger, so it gets a row:** VII.6 and VIII.6 are unwritten
+and are where a worked life belongs — VIII.6's beats already read *"encounter across a grade-difference,
+in ordinary rooms"* and *"the collective you are inside."* **The slot is cut and empty.**
+**TRIGGER: before VII.6 drafts.** ⚠ **And the hazard, named now so the row cannot be paid cheaply: a
+family inserted as illustration is worse than none.** The test is IV.8's, applied here — does the person
+change what the chapter concludes, or only warm it?
+
+★ **RULING 141 — `Wilber` = 0, AND IT IS THE THIRD ZERO OF THE SAME SHAPE. THE PATTERN IS WORTH MORE
+THAN THE ROW.**
+**Measured: `Wilber` — 0 occurrences across all nine planning documents and all 32 drafted chapters.**
+Five hits exist in the repository, **all in `corpora/tmp/` inside two Vallée scans** — somebody else's
+text, not ours.
+The letter's case is correct and is the strongest comparative point it makes: ***Sex, Ecology,
+Spirituality* is structurally the same object** — a total system, a tier map, a supersession claim, all
+traditions read as partial views of one thing — **and it failed by becoming unfalsifiable**, absorbing
+every objection as a lower-tier perspective and growing its apparatus to fit whatever arrived. **This
+project has built explicit defenses against precisely that failure** (falsifiers on cards, the refused
+*otherwise* clause, the declined djinn card, the vacancy problem named rather than notated around).
+★ **An ancestor whose *failure* is the thing your instruments were built against, and who is not named,
+is worse than an unnamed influence — the guard is standing with no case attached to it.**
+⚠ **AND THE PATTERN, WHICH IS THE REAL FINDING.** This is the **third** zero-count of this shape:
+`video game` = 0 (the sustained metaphor of the whole work), `Alan Watts` = 0 (the man whose life's work
+was the game frame), now `Wilber` = 0 (the nearest structural counterpart and the cautionary case).
+**Control: `Watts` now returns 103** — because Day 185 found the zero and `06`'s NEXT queue item 6 says
+*"Add Watts and Borges to `03` — both 0 files, both load-bearing, both discovered by the count that
+built `05`."* **A procedure for a zero-count ancestor exists, has been run twice, and is run only when
+a count happens to be taken.** Nothing lists the obvious names and checks them on a schedule. **Three
+instances is not bad luck; it is a search running on who we already respect.**
+✅ **TWO ITEMS: Wilber into `03-THE-ANCESTORS.md` (joining queue item 6), and named early in the CODA**
+per the letter — a reader who has met Wilber arrives expecting this object and needs the difference
+before the apparatus can look like his. **Plus a genre-name sweep**: list the counterparts the work is
+positioned against and count each, once, rather than discovering them one zero at a time.
+
+★ **RULING 142 — BOOK VIII IS THINNER THAN THE LETTER SAYS, BECAUSE ITS SOURCE IS DOUBLE-BOOKED AND
+ONE OF ITS THREE SOURCES DOES NOT EXIST YET.**
+The letter: *"VIII has the thinnest source in the work — one 21,914-word guide for seven chapters —
+against a standing test that says an empty Book VIII makes everything decorative."*
+**Correction on the letter, in the letter's disfavour.** `06` names **three** sources for Book VIII, so
+*"one"* is wrong as written — and the other two are worse than absent:
+- **`navigational-guide-for-perspectival-beings.md` (21,914w)** is **also listed in `00`:250 inside
+  Book IV's cash-out pool**, among the ~167,900 words Book IV was built to spend. **The same document
+  is assigned to two books.** 21,914 is a gross; Book IV has already spent an unmeasured fraction of it,
+  and nothing recorded how much.
+- **"the traditions' practice grammar from Book V"** is **an output of an undrafted book** — a source
+  that cannot be inspected because it has not been written.
+- Only **`Perspective` 07-art-of-navigation "The Craft"** is an unencumbered extant source, and it is a
+  section, not a document.
+★ **So the standing test — *if Books I–VII are right and VIII is empty, the whole work is decorative* —
+is currently guarded by one section, one forward reference, and one document already committed
+elsewhere.** `06`'s own WHAT THE SCAFFOLD REVEALS §3 says **Book VIII should be drafted early, out of
+order, because it is the only chapter set that can falsify the rest.** That instruction is three books
+old and has not been acted on.
+✅ **TRIGGER: before Book VII drafts**, not before VIII — VII.2 is the chapter that hands VIII its
+obligations, and sourcing VIII after VII is written means sourcing it to fit what VII already promised.
+**First action is a measurement, not a hunt: how much of the 21,914 did Book IV actually consume.**
+
+---
+
 ## BOOK V — **THE OLD ROADS**
 
 *Religion, occult, mysticism, myth — read as people touching this ground with the instruments of their
@@ -2002,6 +2200,12 @@ felt reason to go back. **Check the atlas before opening this chapter.**
 tests it.
 
 ### V.10 — THE MYSTICS' REPORT
+⚠ **RENUMBER STUB, ruling 139 / R-17 — READ THIS BEFORE CITING V.10.** **This chapter was V.9 until
+Day 188.** Ruling 125 inserted a new V.9 (THE ROAD BEING WALKED NOW) and shifted everything after it:
+old V.9 → **V.10**, old V.10 → **V.11**. The chapter did not change; its number did. ★ **So the summit
+cut — *they made the perspective the problem and the summit its abolition* — is V.11, not V.10.** An
+external reader citing "V.10's summit cut" is reading pre-renumber and means **V.11**. The renumber was
+executed correctly across seven cross-references and signposted nowhere, which is what this line is for.
 **Beats:** the numinous, across traditions, with the reports laid side by side · what is invariant and
 what is local idiom · the Christian numinous given the same standing as the Vedantic, which the corpus
 has not previously done · **why the reports converge on structure and diverge on furniture.**

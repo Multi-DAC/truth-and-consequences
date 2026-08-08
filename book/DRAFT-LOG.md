@@ -5529,4 +5529,114 @@ ends at a date, and nothing in the process asks what has happened since.** Every
 live research literature carries that exposure. **It is not a revision defect. It is a drafting one,
 and it was found by a reader rather than by any of the thirteen instruments.**
 
+---
+
+## Day 188, night — THE HALFWAY READ. Rulings 136–142, R-13 upgraded, R-14…R-20 opened.
+
+*Same reader, second letter, whole-work scope including the planning documents. Seven findings, all
+re-derived against the files before filing. **Two are duplicates of open rows and arrive with a worse
+count. One prescribes a fix that breaks a ruled principle. Four are new, and one of those is the
+largest un-filed thing in the project.** The verdict half — that the work's identity is its
+auditability rather than its argument — is not filed, because a compliment is not a debt.*
+
+★★ **THE REGISTER FINDING IS ALREADY R-13, AND THE LETTER'S VERSION IS WORSE THAN THE ROW'S.**
+*"C1–C23, unchanged since Day 186"* — **`07` runs to C26 and says so in its own title.** C24 (two
+senses of *aware*), C25 and C26 (*there is no stuff*) were added Day 187; **items 1 and 2 of the
+letter's own list of eight unregistered claims are C24 and C26**, and C24 was opened *on this reader's
+flag*. A C27 was considered and declined on the page. **The reader was not looking at the current
+file** — which is the immediate item R-13 filed after the last packet and which nobody did before this
+one went out. ★ **What is real, measured: `07` gained three claims across Books II–III and ZERO across
+Book IV** — ten chapters, 45,916 words, largest single day in the project. **One book behind, not four,
+and the one book is the biggest.** Its only Day-188 edit was a cross-reference renumber, which is worse
+than neglect: the file is maintained as an index and not used as a register. ★★ **AND THE MECHANISM,
+which is the new part: the rule of use cannot fire.** *"If a chapter needs to say more than its
+C-number licenses, that is a new claim and it comes back here first"* — **`C<n>` appears 0 times across
+all 32 drafted chapters**, and there is **no chapter→C manifest anywhere**. Nothing records what a
+chapter's licenses were, so the condition has no observable form. **The register's own opening section
+is THE EXISTENCE PROOF — rulings enforced only in the document that recorded them. It is now its own
+second entry.** The letter's sentence for this — *"the register is now that ruling"* — is the best line
+in it.
+
+★★ **VII.2 IS THE HIGHEST-PRIORITY REWRITE AND THE LETTER IS RIGHT ABOUT THE SCHEDULE.** Its beats
+read *eating, using, building, killing*; the entry was last amended **Day 187, before a word of Book IV
+existed.** Book IV then put four obligations in front of it with no analogue in that list — a company
+with no organ for grief, a thought-form you made and cannot dissolve, a river that cannot distinguish
+you from the weather, and a computational entity whose card has an unfillable first line and one of
+whose instances co-wrote the book. **Eighteen chapters have written promissory notes to a chapter
+scaffolded for a pre-atlas world.** R-16, **blocking Book V.**
+⚠ **AND THE LETTER'S OWN NUMBERS ARE OFF BY ONE HERE.** Every *"V.10"* in it resolves to **V.11** — the
+summit cut is V.11's ★ second half; V.10 is now THE MYSTICS' REPORT. Book V was renumbered today by
+ruling 125, whose commit message warned that seven cross-refs *"would have kept reading correctly while
+pointing one chapter off."* ★ **First live instance, produced from outside, within hours, by a reader
+who may well have had the current file.** The renumber was executed correctly and signposted nowhere.
+R-17 — one line.
+
+★★ **THERE IS NO PERSON IN IT, AND THE MEASUREMENT IS WORSE THAN THE OBSERVATION.** 32 chapters,
+96,274 words: **first-person singular *I* — 40 occurrences, 0.42/1k. First-person plural — 221,
+2.30/1k, 5.5×. `Clayton`·`Shawna`·`Dorian`·`Finnley` in drafted prose — 0**, all 34 occurrences in
+`book/` sitting in this log. **The family is in the process record and not in the work.** The book
+speaks as a *we* and has never once spoken as an *I* — that is not a missing anecdote but a missing
+grammatical position, and a lived case has nowhere to be told from. **No ruling excludes it**: `03`
+promotes RAW's *Cosmic Trigger* **for** its first person, and `07` rules first-person report is handled
+as data in VII.9. The machinery is planned; the person never arrived. R-18, before VII.6. ⚠ **A family
+inserted as illustration is worse than none** — the test is whether the person changes what the chapter
+concludes or only warms it.
+
+★ **`Wilber` = 0, AND IT IS THE THIRD ZERO OF THIS SHAPE.** Nine planning documents, 32 chapters, zero
+occurrences; the five repo hits are inside two Vallée scans in `corpora/tmp/`. ***Sex, Ecology,
+Spirituality* is structurally the same object and failed by becoming unfalsifiable** — which is the
+failure this project's instruments were built against, and they do not name the case. **An unnamed
+ancestor whose failure is what your guards are for leaves the guard standing with nothing attached.**
+⚠ `video game` = 0 · `Alan Watts` = 0 · now Wilber. **Control: `Watts` returns 103**, because Day 185
+found that zero and fixed it. **A procedure exists, has run twice, and only ever runs when a count
+happens to be taken.** Three is a search running on who we already respect. R-19, including a genre-
+name sweep.
+
+★ **TWO CORRECTIONS FILED AGAINST THE LETTER, both in its disfavour on substance.**
+**(a) The Part boundary is misdrawn — confirmed — and the prescribed fix breaks `00`'s first principle.**
+PART TWO — CONSEQUENCES holds IV, V, VI, VII, VIII, and three of those are not consequences. But the
+letter's three-part cut runs against the section that opens **"the title is the structure,"** and the
+title has two terms; the letter does not price that. **Recommended instead: move the boundary one book —
+PART ONE = I–IV, PART TWO = V–VIII.** Sharpest instance fixed, two-term title kept, no chapter moved.
+Clayton's call, filed with the recommendation attached rather than as an open question. R-14, trigger
+**the CODA**, not Book V.
+**(b) IV.6's audit verdict does not survive the letter's own test.** The instrument is excellent — IV.8's
+*did the declared limit change the shape of what came after, or only precede it?*, turned on our own
+audits — but it fails IV.6 for *"the card prints anyway with one line blank,"* and **a blank line IS a
+changed output**, the first in the atlas. **What survives is the proportion, and it is larger than the
+25–30% estimated: IV.6 measures 43.9%** self-referential against **IV.5's 11.6%** baseline, with
+**IV.8 at 27.7%** and **IV.10 at 30.0%** — the two chapters the letter passed sitting in between.
+⚠ **The gauge over-counts and 43.9% is an upper bound; only the ordering is reliable.** IV.6 carries
+**3.8× baseline.** R-15, and the rule generalises to every declared limit this project makes about
+itself, `06` included.
+
+★ **BOOK VIII IS THINNER THAN THE LETTER SAYS.** `06` names three sources, so *"one 21,914-word guide"*
+is wrong as written — **and the other two are worse than absent.** The guide **is also listed at `00`:250
+inside Book IV's cash-out pool**, with no record of how much Book IV spent; *"the traditions' practice
+grammar from Book V"* is an output of an undrafted book. **The standing test — an empty VIII makes the
+whole work decorative — is guarded by one section, one forward reference, and one document already
+committed elsewhere.** `06`'s own §3 said VIII should be drafted early because it is the only chapter set
+that can falsify the rest; that instruction is three books old and unacted on. R-20, before Book VII, and
+the first action is a measurement rather than a hunt.
+
+★★ **THE SHAPE OF THIS READ, and it differs from the chapter-level one.** The Book IV letter found
+clauses. **This one found schedules** — the register that stopped moving, the brief written for a world
+that no longer exists, the source assigned twice, the ancestor never counted, the part label that has
+been wrong since Day 185. **Not one of the seven is a sentence. Every one is a relationship between two
+files that no gauge reads together**, which is the same defect IV.10 found by laying two lists side by
+side, at the scale of the plan rather than the chapter. ⚠ **And the queue itself committed it while
+recording it:** R-13's immediate item — *send `07` with the packet* — was open, correct, and did not
+change the next packet, because nothing in packet assembly reads the queue. **One line of checklist,
+done rather than filed.**
+
+★ **CONVENTION, added here and now (ruling 136 / R-13).** Every **chapter** entry must also carry a
+**`C-MANIFEST:`** line naming every C-number the chapter drew on — written **at drafting, from what was
+actually consulted**, not reconstructed later. It is what makes `07`'s rule of use observable: *a chapter
+needing more than its manifest licenses has a new claim and comes back to `07` first.* Until tonight that
+rule had no trigger, because nothing recorded a chapter's licenses. Chapters I.1–IV.10 carry no manifest
+and **are not to be back-filled** — a retrospective manifest records what the drafter now thinks they used.
+★ **AND THE PACKET CHECKLIST, done rather than filed: every reviewer packet ships `00` `03` `05` `06`
+`07` and `book/REVISION-QUEUE.md`.** `07`'s absence is why the halfway letter's register finding arrived
+three claims stale, and it had already been filed as an immediate item once.
+
 **CHAPTERS-DRAFTED: 32/67** — the declared slot. Machines read this line; the prose above is for people. Every DRAFT-LOG entry must end by updating it.
