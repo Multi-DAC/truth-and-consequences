@@ -7073,3 +7073,166 @@ matters most is **Cook**, because naming him is what declares the grade on Indra
   sentence in V.6 can hand the whole book to Trap 1. Read C4 and C20 **before** the beat sweep.
 
 **CHAPTERS-DRAFTED: 37/67** · **CLAIMS: C1…C30.**
+
+---
+
+## V.6 — THE ROOM THAT WAS NEVER EMPTIED · Day 189, 2026-08-08 · 3,178 words · ✅ landed
+
+**C-LICENSE: C1 · C4 · C5 · C20.** (C26 touched — the *chalal panui* is not a region of empty
+stuff — not spent.)
+
+### RULING 155 — THREE DEFECTS BEFORE A WORD WAS DRAFTED, AND THEY RANK IN THE INVERSE ORDER OF HOW HARD THEY WERE TO FIND
+
+The pre-draft title screen is one session old — V.5 earned it — and this is its second firing. It
+found the smallest of the three.
+
+**(a) The title performed C20's named trap.** *THE CONTRACTION THAT MAKES ROOM.* Since ruling 13,
+`contraction` is **C19's** word — the word in *"the contractive terminal doctrine … is false for
+every perspective without exception."* C20's trap line is **"using it to soften C19"**, and a title
+reading *contraction can make room* is that softening, in the position a reader meets before any
+argument. Retitled **THE ROOM THAT WAS NEVER EMPTIED**, which also discharges C4 structurally: the
+near-miss C4's row warns about — *shevirah* as breakage — is downstream of the literal reading and
+only of it, and a chapter named for a room that was never emptied cannot be handed to Trap 1 in one
+erudite sentence without contradicting its own title.
+⚠ **The corroborating measurement is weaker than V.5's and is reported at its real strength.**
+`contract*` appears **7 times in 37 drafted chapters, in 2 files.** Six are IV.8, five of those the
+parasite passage — *"fear, addiction, ideology, tribalism, despair are all states of extreme
+contraction"* — which IV.8 itself flags as the most persuasive-feeling thing in the chapter. The
+seventh is IV.5:140, collective capture. **The one non-negative use in the book is IV.8:76 and it is
+this chapter's own referent**, reporting the doctrine rather than speaking in our voice. n=7 does
+not establish a practice. **The register argument stands without it, and is the one that was
+load-bearing.**
+
+**(b) The register's rename had never reached C20's own heading, and the note certifying the split
+was sitting under it.** `### C20 — CONTRACTION CAN BE CARE`, with the canonical *"Sometimes the
+focusing is the care"* directly beneath, and twenty-two lines further down: *"C19 says
+**contraction**, C20 now says **focusing**, and they are visibly not the same word."* ★ **Ruling
+13's sweep could not have caught this and the reason is exact: the sweep was keyed on `Narrowing →
+Focusing` and replaced the RETIRED word. `contraction` was never retired — it was REASSIGNED to
+C19** — so every site where C20 still wore it was invisible to a find-and-replace and to every
+gauge downstream of one. ★ **Commit order is the mechanism and it is measurable**: `6cf24ae` wrote
+the heading at **00:41** on Day 186; `b6b1b4e` executed the rename across 62 sites in 11 files at
+**21:19** the same day. The heading was twenty hours old and already pre-rename when the rename ran
+past it. **Four sites fixed** — the heading, C4's near-miss row, the C4×C20 collision row, the
+C19×C20 row's second clause. The C19×C20 note stays verbatim: it is the only place that remembered,
+and it was right.
+
+**(c) The beat contradicted shipped prose, and this is the one that mattered.** It read *"a precise
+prior statement of the Focusing, **arrived at independently**, centuries early."* **V.1:120–130 has
+already ruled that Kabbalah is not independent** — it names *Ein Sof* as one of its six opening
+statements, counts the Mediterranean family **once**, and says a convergence argument that counts
+them separately *"has committed the error it was supposed to be immune to."* The beat was that
+error, five chapters later, about the tradition V.1 used as its worked example.
+★ **And the term had drifted, retrieved rather than reconstructed.** Store, conversation with
+Clayton, **2026-06-27, verbatim: *"tzimtzum … as a precise prior of our BOTTLENECK POINT."*** `06`
+moved it to *the Focusing*. A bottleneck is subtraction-shaped; **I.3:44–49 exists to say the
+Focusing is not a subtraction** — *"You will reach for a different word first, and it will be
+narrowing … **Nothing was subtracted here.**"* ⚠ **And *tzimtzum* in its transmitted form IS a
+subtraction**: the *Or Ein Sof* withdraws from a point and leaves a *chalal panui*. **The beat
+identified our non-subtraction with their subtraction and called the identity precise.** The
+compression kept the sentence impressive and deleted the distinction it carried.
+
+★★ **THE CLASS, NAMED, BECAUSE IT IS NOT DRIFT AND CALLING IT DRIFT WOULD LOSE IT: a beat is written
+before its chapter and read after it, and nothing ever checks it against what the chapter decided.**
+`prose_beat_sweep` reads beats against *shipped prose, for repeats*. Nothing reads a beat against a
+**ruling** made after the beat was written. **R-47 rows it.**
+
+### What replaced it, and it is not ours
+
+The Kabbalists ran this argument themselves and split over it for two hundred years: *tzimtzum
+kipshuto* (literal — the space is truly vacated) against *shelo kipshuto* (the concealment obtains
+only from the created side). **The chapter is not asserting a convergence; it is naming which side
+of somebody else's internal dispute is ours, and why.**
+⚠ **The popular framing of that dispute is a Hasidic-polemic simplification and the chapter refuses
+it on the page** — the Gaon and the Leshem located the *tzimtzum* in the divine **Will** (*Ratzon*)
+and declined to say anything about the Essence (*Atzmut*), which is not *"there is a place where God
+is not."* The chapter's own evidence that the dispute was live rather than tribal is that the Gaon's
+principal student went the other way.
+★ **PRIMARY TEXT, PULLED AND READ.** *Nefesh HaChayim* Gate III ch. 4 — Hebrew from Sefaria,
+Leonard Moskowitz's 2012 English (CC-BY-NC) alongside, both read: ***"And He is still now just as He
+was before the creation, when all was filled with the essence of the Ein Sofe, even in the space
+where the worlds currently exist."*** Volozhin, 1824. That is I.3's *"not less for having a vantage
+in it, and it is not more."* **Same chapter, the two-sided formula**: *"from His perspective He is
+called permeates all worlds, while from our perspective … surrounds all worlds"* — two descriptions
+the text declines to rank, in the tradition-book chapter that follows V.5's finding that every
+Eastern road built a second storey.
+★ **Gate III ch. 3 is a gift to Book V's METHOD, not to this chapter.** R. Chaim nearly refused to
+publish, because the teaching *"has reached the general public, and is a metaphor espoused even by
+fools saying that every place and everything is absolute Godliness."* **That is V.1's thesis, from
+inside, two hundred years early.** He publishes anyway: *"now a very long time has elapsed without
+a guide."*
+⚠ **AND THE AGREEMENT IS SAID NOT TO BE EVIDENCE, ON THE PAGE.** They need the non-literal reading
+to defend divine unity against a heresy charge, under a commitment to revealed text we do not share.
+We need it because a Ground with a vacancy has an outside. **Same conclusion, different argument,
+different things that could not be given up** — and the distinction between agreement and evidence
+is most of what Book V is for.
+
+### The gauges caught two things the drafting did not, and one was inside the C20 section itself
+
+- **First draft came in at 2,784 words**, ~10% under the family floor (V.4, 3,096). The cause was
+  not tempo: **C20 is in the chapter's licence and I had not spent it.** The tradition's own reason
+  for the withdrawal — to let a creature stand as itself rather than be annulled in its source — is
+  *sometimes the focusing is the care*, and it was missing. Section added; 3,178 words. ★ **The word
+  count was the symptom of a doctrinal omission, which is not what a length gauge is for.**
+- ⚠ **`claim_sweep` then found `TERM/narrowing` — the RETIRED word — inside that new section**,
+  three lines from the sentence spending the claim ruling 13 renamed. Fixed. **The word arrived
+  because it is the natural English for the thing; that is exactly why it was retired, and exactly
+  why a gauge and not an ear has to hold the line.**
+- **`TERM/fullness` ×2, my own voice, V.6:139–140.** *The Fullness* is Book I's mythic name, retired
+  at the I/II boundary (ruling 14). The blockquoted I.3 at :108 is licensed and was correctly not
+  flagged; the two in my voice were leaks. Fixed to **the Ground**.
+
+### `prose_echo` — four unmarked verbatim lifts, and a blind spot in the instrument
+
+I quoted I.3, I.5 and V.1 **verbatim while naming the source and without quotation marks** — honest
+to a reader, indistinguishable from an unconscious repeat to the tool. Marked as citations, then:
+⚠ **the `[q]` flag did not move, and the reason is documented at `prose_echo.py:50` — it fires on
+BLOCK quotation only.** An inline citation cannot be seen. **The four are exempted by name, with the
+adjudication the flag could not make**; `R-46` rows the real repair. ⚠ **The V.1 pair is the least
+comfortable and its exemption says so in the table**: if a later editor finds V.6 *re-arguing* V.1's
+transmission chain rather than invoking it, the exemption is wrong and the fix is the chapter's.
+⚠ **One live exemption was added to `claim_sweep` too** — `06`'s ruling-155 note quotes the retired
+`bottleneck` **because the retired word IS the exhibit**; paraphrasing would delete the evidence for
+the drift. Ruling 126's precedent, named line, not a whole-file scope on `06`.
+
+### storyscope — read `named_ref` first, per the standing order
+
+| metric (per 1k) | **V.6** | V.5 | V.4 | V.3 | V.2 | V.1 |
+|---|---:|---:|---:|---:|---:|---:|
+| named_ref | **29.89** | 20.72 | 5.17 | 9.24 | 7.47 | 23.59 |
+| 2nd_person | 5.03 | 9.89 | 6.14 | 3.28 | 10.64 | 3.33 |
+| meta_textual | 4.09 | 3.40 | 4.52 | 5.66 | 3.45 | 6.65 |
+| xref | **5.98** | 1.24 | 0.32 | 1.49 | 0.29 | 3.93 |
+| dyn_range_CV | **0.273** | 0.440 | 0.461 | 0.400 | 0.294 | 0.418 |
+| voice_uniformity | 0.6845 | 0.6556 | 0.6864 | 0.6786 | 0.6848 | 0.6305 |
+
+**`named_ref` 29.89 — highest in Book V.** Luria, Vital, Shneur Zalman, the Vilna Gaon, the Leshem,
+Chaim of Volozhin, Moskowitz, Plotinus, Proclus, Dionysius. V.4's composite-figure defect has not
+recurred in two chapters.
+⚠ **TWO COLUMNS ARE OUTLIERS AND NEITHER IS ACTED ON TONIGHT, PER THE V.5 RULING ON BANKING NOISE.**
+`xref` **5.98 (forward 2 · back 14)** is 4× the family — a chapter leaning on five prior books
+because its whole method is *cash, do not repeat*, which is either the discipline working or the
+chapter failing to stand up, **and the metric cannot tell those apart.** `dyn_range_CV` **0.273** is
+the lowest in the drafted corpus — the flat-escalation direction, the Claude fingerprint. **Both are
+reported and neither is repaired by a same-session fix**, because V.5 established that a
+one-chapter move against a one-chapter reading is how noise gets banked as a repair.
+
+### Owed
+
+- **R-47 (NEW).** Nothing reads a **beat** against a **ruling made after the beat was written**.
+  `prose_beat_sweep` reads beats against shipped prose for repeats; the register is never the
+  reference. Defect (c) was found by reading V.1 by hand. **This is a real gauge and it is missing.**
+- **R-46 (NEW).** `prose_echo`'s `[q]` is blockquote-only (`prose_echo.py:50`). An honest inline
+  citation is indistinguishable from an unconscious repeat, which pushes correct prose into the
+  exemption table and makes the table a record of the instrument's resolution rather than of
+  decisions. Four entries added tonight on this ground alone.
+- **R-45** — between-chapter voice drift; needs a NULL (shuffle chapters across books). Unchanged,
+  and `dyn_range_CV` above is a second column wanting the same instrument.
+- **R-43, R-37, R-38, R-27, R-41, R-42** — unchanged. **Deliverable is the before/after delta across
+  all drafted files, never the exit code.**
+- **V.7 — MAGIC, OPERATIVE is next.** Its beat was already repaired on Day 189 (R-26 item 2) and it
+  carries a live `PROSE/outlist` hit marked as drafter-voice. ⚠ **Screen the title against the
+  register before drafting** — the step has now fired twice for two — **and defect (c) says screen
+  the BEATS against the register too, not only the title.**
+
+**CHAPTERS-DRAFTED: 38/67** · **CLAIMS: C1…C30.**

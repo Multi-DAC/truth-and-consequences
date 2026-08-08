@@ -113,6 +113,34 @@ EXEMPT = [
     ("II.5", "III.6", "if a render cannot be wrong about the ground how is",
      "The handed-forward HOLE, quoted so the reader recognises the question being answered. "
      "Ruling 86 puts the cash site on the record; VI.1 gets the civilisational form."),
+    ("I.3", "V.6", "pressed flat against the edge of",
+     "★ Day 189, ruling 155. V.6 CITING I.3 inline, in italics and with I.3 named in the same "
+     "sentence — 'I.3 says so in its own vocabulary'. ⚠ IT DOES NOT CARRY [q] AND THE REASON IS "
+     "THE INSTRUMENT: the flag is documented at line 50 as 'falls inside a BLOCK quotation', so "
+     "an inline citation is indistinguishable here from an unconscious repeat. This exemption is "
+     "the adjudication the flag could not make. R-46 rows the real repair. Same phrase in I.6 — "
+     "own entry below, not a widening."),
+    ("I.6", "V.6", "pressed flat against the edge of",
+     "Same citation, second source chapter — the phrase is in I.6 as well as I.3, and V.6 cites "
+     "it once. Own line, per the standing rule that an exemption names lines rather than widening."),
+    ("V.1", "V.6", "into latin in the ninth century",
+     "★ Day 189, ruling 155, AND THIS ONE IS THE LEAST COMFORTABLE OF THE FOUR. V.6 needs V.1's "
+     "finding that Kabbalah is not an independent branch — it is the load-bearing reason the "
+     "chapter refuses to be a convergence argument — and it restates the transmission chain in "
+     "two compressed clauses rather than citing it. ADJUDICATED AS CASHED, NOT REPEATED: V.1 "
+     "DERIVES the chain over ten lines and counts the branches; V.6 names V.1 in the same "
+     "paragraph ('Book V has already ruled on that, and ruled against itself'), spends four "
+     "words on the chain, and puts the verdict phrase in quotation marks. ⚠ If a later editor "
+     "finds V.6 re-arguing rather than invoking, this exemption is wrong and the fix is V.6's, "
+     "not the table's."),
+    ("V.1", "V.6", "one witness quoted back five times",
+     "V.1's verdict phrase, the second of the two grams in the entry above and the one V.6 now "
+     "carries in quotation marks with V.1 named as the source. Same adjudication, same caveat."),
+    ("I.5", "V.6", "deposits settled",
+     "★ Day 189, ruling 155. V.6's Tree section citing I.5's tunnel definition inline and in "
+     "italics, with I.5 named — the Tree is read AS a tunnel diagram, so the definition has to be "
+     "on the page at the point it is applied. Same [q] blindness as the two entries above; the "
+     "four gram-hits are one four-word citation, counted by a sliding window."),
     ("I.5", "III.6", "certainties of the people standing nearest",
      "★ DESIGNED. I.5 accretes the five mythically and never names them; III.6 re-cuts one image "
      "into mechanics. Book I plants, Book III runs — the macro-structure, working."),

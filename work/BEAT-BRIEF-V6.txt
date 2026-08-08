@@ -1,0 +1,44 @@
+  wrap self-test: PASS — needles survive a hard wrap
+  prose self-test: PASS — needles survive a hard wrap, headings excluded
+
+PROSE→BEAT SWEEP — book/ against 06-THE-SCAFFOLD.md · chapter V.6
+
+  ⚠ REVISION-QUEUE.md: no chapter id in heading or filename — NOT SWEPT
+
+  37 drafted chapter(s) · 1795 paragraphs · 32 undrafted · 0 spent · 0 trace(s) · 0 exempt
+  3 beat(s) below the 6-distinct-word floor — NOT dropped: reachable
+  by the 5-gram discriminator only, which is what a beat that IS a phrase needs.
+  house vocabulary discounted, measured at df ≥ 0.66: 60 word(s) — about, after, already, anything, back, because, before, between, book, cannot, case, comes…
+
+READING BRIEF — V.6, before drafting
+  BAAI/bge-m3 · 2 beat(s) × 1393 shipped paragraph(s) · top 5 each, RANKED, no verdict
+
+  V.6 (beat): Kabbalah and *tzimtzum* — the infinite contracts to make room for a world
+    1. III.3:67  cos 0.542
+       The universe, in *The Library of Babel*, is a library. Hexagonal galleries, air shafts, spiral stairways, two lamps to a room, a mirror in the hallway. Every book in it runs to fou
+    2. III.3:104  cos 0.529
+       First: The Library exists *ab aeterno.* This truth, whose immediate corollary is the future eternity of the world, cannot be placed in doubt by any reasonable mind. Man, the imperf
+    3. I.5:52  cos 0.523
+       That is a tunnel. Not something looked through — the whole of what looking has come to be for one inside, all the deposits settled and working together, one world out of the one Fu
+    4. III.5:262  cos 0.521
+       Bruno at spiritual substance, distributed. The Jains at *jīva*, with earth and water inside it. The enactivists at metabolism. Schweitzer at will. These are among the most generous
+    5. IV.2:75  cos 0.519
+       **QUARTZ** **SEES:** Strain. Pressure, heat, a current across the faces — one difference arriving by several roads. **NULL SPACE:** ∅ Everything that is not mechanical. The room, t
+
+  V.6 (beat): **a precise prior statement of the Focusing**, arrived at independently, centuries early
+    1. IV.8:437  cos 0.572
+       **The test is whether the declared limit changed the shape of what came after it, or only preceded it.**
+    2. V.5:191  cos 0.570
+       *Pu*, the uncarved block, is the same observation with the tense changed: the state of a thing before anyone has decided what it should be for. And the *Dao De Jing*'s opening — th
+    3. IV.5:100  cos 0.568
+       There is an existing term for the entity described above when it arises from sustained collective attention: *egregore*. It comes into English through nineteenth-century French occ
+    4. III.3:61  cos 0.565
+       **And now the man who wrote this down eighty-five years ago, in fiction, correctly.**
+    5. II.8:11  cos 0.565
+       **The Return is what happens when something inside the focus comes to know what the focus is made of.**
+
+  READ THESE. No verdict is offered and none is available: the measurement that
+  built this arm showed no statistic separates a true repeat from the floor —
+  ruling 33's own pair ranks 3rd of 390 at a cosine of 0.489, under a top match
+  of 0.498. RANK is the signal and SCORE is not. The brief narrows the book to a
+  page; the adjudication is a person's, exactly as it was the day it was caught.

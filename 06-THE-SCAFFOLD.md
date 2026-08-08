@@ -2442,10 +2442,92 @@ inside, not about the Ground, and is therefore not this chapter's. **Real zeros,
 corpus:** `Ātman`, `māyā`, `anattā`, `wu wei`, `Indra`, `Vedānta`, `Nāgārjuna`, `pratītya` = 0 files;
 positive control on the same command line — `Advaita`, `Brahman`, `Tao`, `Buddh`, `Śaṅkara` = hits.
 
-### V.6 — THE CONTRACTION THAT MAKES ROOM
-**Beats:** Kabbalah and *tzimtzum* — the infinite contracts to make room for a world · **a precise prior
-statement of the Focusing**, arrived at independently, centuries early · the Tree as a settledness-map ·
-what the Kabbalists were actually handling.
+### V.6 — THE ROOM THAT WAS NEVER EMPTIED ✅ DRAFTED — 3,178 words
+**Beats:** Kabbalah and *tzimtzum* — the Infinite withdraws to make room for a world · **the tradition
+ran I.3's own argument internally and split over it** — *kipshuto* (the withdrawal is real, and the
+space is truly vacated) against *shelo kipshuto* (the concealment is real only from the created side;
+from the Source's side nothing was removed) · the Tree as a settledness-map · what the Kabbalists were
+actually handling — and R. Chaim of Volozhin's own warning about what happens when the summit statement
+gets loose from the road.
+
+⚠⚠ **RETITLED AND RE-BEATED BEFORE DRAFTING, DAY 189 — RULING 155. TWO DEFECTS, AND THE TITLE SCREEN
+FOUND ONLY THE FIRST.**
+
+**(a) THE TITLE PERFORMED C20'S NAMED TRAP.** It read *THE CONTRACTION THAT MAKES ROOM* — and
+`contraction` is **C19's** word since ruling 13, the word in *"the contractive terminal doctrine is
+false for every perspective without exception."* C20's trap line is **"using it to soften C19"**, and
+a title reading *contraction can make room* is that softening, in the position a reader meets before
+any argument. ★ **The corroborating measurement is weaker than V.5's and is reported at its real
+strength: `contract*` appears 7 times in 37 drafted chapters, in 2 files.** Six are IV.8 and five of
+those are the parasite passage — *"fear, addiction, ideology, tribalism, despair are all states of
+extreme contraction"*, *"the target is the contraction"* — the passage IV.8 itself flags as the most
+persuasive-feeling thing in the chapter. The seventh, IV.5:140, is collective capture. **The one
+non-negative use in the book is IV.8:76, and it is this chapter's own referent** — *"Kabbalah puts
+*Ein Sof* before the contraction"*, reporting the doctrine, not speaking in our voice. n=7 does not
+establish a practice; it corroborates one. **The register argument stands without it.**
+
+**(b) THE BEAT'S CONVERGENCE CLAIM HAD DRIFTED ONE TERM, AND THE TERM IT DRIFTED ONTO IS THE ONE I.3
+SPENDS A PARAGRAPH REFUSING.** The beat claimed *tzimtzum* is *"a precise prior statement of **the
+Focusing**."* Retrieved from the store rather than reconstructed — **conversation with Clayton,
+2026-06-27, verbatim: *"tzimtzum (which I'd wrongly flagged to cut) as a precise prior of our
+**bottleneck point**."*** A bottleneck is a restriction of what gets through and is subtraction-shaped;
+`06` moved the claim onto the Focusing, and **I.3:44–49 exists to say the Focusing is not a
+subtraction** — *"You will reach for a different word first, and it will be **narrowing**… That is what
+happens to a road. Something is taken away to make one… **Nothing was subtracted here.**"* ⚠ **And
+*tzimtzum* in its transmitted Lurianic form IS a subtraction** — the *Or Ein Sof* withdraws from a
+point and leaves a *chalal panui*, a vacated space. **So the beat, as it stood, identified our
+non-subtraction with their subtraction and called the identity precise.** ★ **This is the
+compression that keeps a claim true while deleting the distinction it carried** — nobody would have
+caught it in the prose, because the drifted sentence is the *more* impressive one.
+
+**(c) AND THE HALF OF THAT BEAT NOBODY WAS WATCHING FLATLY CONTRADICTED SHIPPED PROSE.** The beat
+said *"arrived at **independently**, centuries early."* **V.1:120–130 has already ruled that Kabbalah
+is not independent.** It names *Ein Sof* as one of its six opening statements, then counts the
+Mediterranean family **once** — *"Kabbalah develops in Provence and Spain in a world in contact with
+both. Six statements, five of them downstream of one Alexandrian schoolroom"* — and says that a
+convergence argument counting them separately *"has committed the error it was supposed to be immune
+to."* ⚠ **So the beat was not merely imprecise; it was the exact error V.1 was written to forbid,
+five chapters later, about the tradition V.1 used as its worked example.** ★ **Note which defect was
+easiest to find and which mattered most.** (a) came from a title screen — a nine-minute mechanical
+step. (b) came from the store. **(c) needed nothing but reading the shipped chapter, and it is the
+flat contradiction of the three.** The class is not *drift*; it is that a beat written before a
+chapter and read after it never gets checked against what the chapter decided.
+
+★★ **WHAT REPLACES IT IS STRONGER, AND IT IS NOT OURS.** The Kabbalists had this exact argument
+themselves and it is one of the live fault lines between Hasidim and Mitnagdim: *tzimtzum kipshuto*
+(literal — the space is truly vacated) against *shelo kipshuto* (the concealment obtains only from
+the created side). **We are not asserting a convergence; we are naming which side of a 200-year-old
+internal dispute is ours, and why.** ⚠ **The popular framing of that dispute is itself too clean and
+the chapter must not take it** — the Gaon and the Leshem held the *tzimtzum* occurred in the divine
+**Will** (*Ratzon*) and declined to say anything at all about the Essence, so *"the Gaon held it
+literally"* is a Hasidic-polemic simplification. R. Chaim of Volozhin, the Gaon's own principal pupil,
+lands on the non-literal side (*Nefesh HaChayim* III.4).
+★ **PRIMARY TEXT, PULLED AND READ, NOT RECALLED** — *Nefesh HaChayim* Gate III ch. 4, Hebrew from
+Sefaria with Leonard Moskowitz's 2012 English (CC-BY-NC) alongside: ***"And He is still now just as He
+was before the creation, when all was filled with the essence of the Ein Sofe, even in the space where
+the worlds currently exist."*** That is I.3's *"The Fullness is not less for having a vantage in it,
+and it is not more"* — 1824, in Volozhin. **And the same chapter carries the two-sided formula the
+book needs**: *"from His perspective He is called **permeates all worlds**, while from our perspective
+… **surrounds all worlds**"* — which is I.3's *"as present as it has ever been… and none of it
+anywhere you could travel to and fetch it back from."*
+★ **AND GATE III ch. 3 IS A GIFT TO BOOK V'S METHOD, NOT JUST TO THIS CHAPTER.** R. Chaim nearly
+refused to write the passage at all, because the teaching *"has reached the general public, and is a
+metaphor espoused even by fools saying that every place and everything is absolute Godliness"* —
+**a 200-year-old statement of the exact failure V.1 was built to name**: the summit statement getting
+loose from the road that reaches it. He publishes anyway, and says why: *"now a very long time has
+elapsed without a guide."*
+⚠ **C4 IS NOW DISCHARGED BY THE TITLE ITSELF, WHICH IS THE POINT OF THE NEW ONE.** The near-miss
+C4's row warns about — Lurianic *shevirah* read as breakage — **is downstream of the literal reading
+and only of it.** If nothing was removed, nothing shattered. A title that says the room was never
+emptied cannot hand the book to Trap 1 in one erudite sentence, because the sentence would have to
+contradict the chapter's name.
+⚠ **RESIDUAL, NAMED SO IT IS NOT DISCOVERED LATER:** the new title presumes the chapter's conclusion,
+exactly as V.5's *one Ground* does, and it takes a side in a living dispute inside somebody else's
+tradition. **The prose owes the dispute at full strength before it picks**, and owes the *kipshuto*
+side its best case — V.1's condescension bar applies hardest here, because the side we reject is the
+Gaon's. ⚠ **`emptied` is live in V.2:133 and V.3:102** (buildings; the theologian's charge that we
+hollowed the word). Different objects, three chapters back — **run `prose_echo.py` after drafting and
+let it adjudicate rather than the ear.**
 
 ### V.7 — MAGIC, OPERATIVE
 **Beats:** the underlying message of every occult tradition, stated without embarrassment: **engagement

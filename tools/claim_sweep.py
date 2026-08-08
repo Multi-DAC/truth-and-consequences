@@ -439,6 +439,14 @@ EXEMPTIONS = [
      "why II.3's beat says 'in plain words'. Tidying the quotation into current vocabulary would "
      "destroy the evidence for the ruling it is evidence for. Own line, per the standing "
      "instruction on the DRAFT-LOG entry above; not a widening of it."),
+    ("06-THE-SCAFFOLD.md", "TERM/bottleneck", "bottleneck point",
+     "★ Day 189, ruling 155, V.6. THE SAME GROUND AS THE DRAFT-LOG ENTRY ABOVE, in `06` rather "
+     "than the log: the scaffold quoting a RETRIEVED MEMORY verbatim — Clayton, 2026-06-27, "
+     "'a precise prior of our bottleneck point' — because the retired word IS the finding. The "
+     "beat had drifted that phrase to 'a precise prior statement of the Focusing', and the whole "
+     "evidence for the drift is which noun the source actually used. Paraphrasing into current "
+     "vocabulary would delete the ruling's only exhibit. Named line, not a whole-file scope on "
+     "`06`: any other TERM/bottleneck hit in the scaffold is a fresh decision."),
     # --- Day 187: three fresh lines, per the standing instruction on the entry above.
     # Not a widening of it. All three are the log QUOTING the prose whose guard it records.
     ("book/DRAFT-LOG.md", "C15/trap5", "Dissolving, merging, the drop going back to the sea",

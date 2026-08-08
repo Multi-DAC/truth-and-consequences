@@ -111,7 +111,7 @@ write *"the Ground, seeking…"*, *"the Ground, having grown…"*, *"what the Gr
 **Depends:** II.2 · V.6 · V.10 · VII.5 · VIII.5
 **Trap:** the rescue grammar. *Escape · repair · restore · reunite · what went wrong.*
 **Near-miss to refuse:** Gnostic descent; and — the subtle one — **Lurianic *shevirah* read as
-breakage.** V.6 handles *tzimtzum* as the contraction that makes room, which is C20, not a
+breakage.** V.6 handles *tzimtzum* as the focusing that makes room, which is C20, not a
 catastrophe. A single sentence in V.6 can hand the whole book to Trap 1 while sounding erudite.
 
 ### C5 — THE GROUND IS NOT A THING IN THE WORLD
@@ -487,7 +487,7 @@ more, it argues for more, in the open.
 **Trap:** widening it. *Contraction = bad* is one careless sentence away and it is false — see C20.
 **No wider, and no narrower.**
 
-### C20 — CONTRACTION CAN BE CARE
+### C20 — THE FOCUSING CAN BE CARE
 > **Canonical:** Sometimes the focusing is the care.
 
 **Establishes:** VII.5 · VIII.5
@@ -505,6 +505,19 @@ quiet, and a quiet collision does not get written about. **The doctrinal work is
 rename and must still be written into VII.5's prose**, at the point where the line first appears,
 exactly as the collision row below already requires. Do not read the new vocabulary as the
 resolution. It is only the removal of a coincidence.
+⚠⚠ **RULING 155, Day 189 — AND THE SENTENCE DIRECTLY ABOVE WAS FALSE OF THE HEADING IT WAS WRITTEN
+UNDER.** *"C19 says **contraction**, C20 now says **focusing**, and they are visibly not the same
+word"* stood twenty-two lines beneath **`### C20 — CONTRACTION CAN BE CARE`**, and the two claims
+went on sharing the word in the one place a reader meets the claim before reading anything about it.
+**Ruling 13's sweep could not have caught it**: the sweep was keyed on `Narrowing → Focusing` and
+replaced the *retired* word. `contraction` was never retired — it was **reassigned to C19** — so the
+sites where C20 still wore it were invisible to a find-and-replace and to every gauge downstream of
+one. ★ **Commit order is the whole mechanism and it is measurable**: `6cf24ae` wrote this heading at
+**00:41** on Day 186; `b6b1b4e` executed the rename across 62 sites in 11 files at **21:19** the
+same day. The heading was twenty hours old and already pre-rename when the rename ran past it.
+**Four live sites fixed** — this heading, C4's near-miss row, the C4×C20 collision row, and the
+C19×C20 row's own second clause. The C19×C20 note stays as written; it is the only place that
+remembered, and it was right.
 **And the gain is real, so it is recorded too:** *sometimes the focusing is the care* is **attention
 as love**, which is a claim rather than a denial — it collects Weil directly (`03`), and it is the
 one site where the new term is stronger prose than the old, not merely safer.
@@ -749,11 +762,11 @@ not noticed.** Each pair needs one sentence, written on purpose, at the second a
 
 | pair | the apparent contradiction | the reconciliation, and where it must be written |
 |---|---|---|
-| **C19 × C20** | VII.4 makes contraction the seat of the one real asymmetry; **VII.5, nine pages later, makes contraction a form of care.** | The asymmetry is bounded to the **terminal doctrine** — *nothing is not mine* — not to contraction as such. **Write it in VII.5**, at the point where "sometimes the focusing is the care" first appears, and not by cross-reference. ⚠ **Ruling 13 made this row harder to see, not easier to satisfy** — both claims used to say *narrowing*, so the clash was on the surface; now C19 says *contraction* and C20 says *focusing* and the row is the only place that remembers they are about the same act. See C20's note. |
+| **C19 × C20** | VII.4 makes contraction the seat of the one real asymmetry; **VII.5, nine pages later, makes the focusing a form of care.** | The asymmetry is bounded to the **terminal doctrine** — *nothing is not mine* — not to contraction as such. **Write it in VII.5**, at the point where "sometimes the focusing is the care" first appears, and not by cross-reference. ⚠ **Ruling 13 made this row harder to see, not easier to satisfy** — both claims used to say *narrowing*, so the clash was on the surface; now C19 says *contraction* and C20 says *focusing* and the row is the only place that remembers they are about the same act. See C20's note. |
 | **C1 × C14** | Every path already exists; the walking is real and free. | The walking is **one of the things that exists, and it is the one you are.** III.7 b2. |
 | **C10 × C12** | The render is not solely yours; the filter is editable by you. | The edit is to **the filter**, which is yours; the render remains co-constituted. VIII.3 must say this in its own body — this is the manifestation firewall. |
 | **C16 × C21** | Meaning is found by traversal; affliction is not made meaningful. | Meaning is available **on the path**; it is not manufactured **on affliction's behalf.** VII.5. |
-| **C4 × C20** | There is no fall and nothing was damaged; contraction can be care. | Care is a **response inside the focusing**, not a repair of it. V.6 is where this one is most likely to break, in *tzimtzum*. |
+| **C4 × C20** | There is no fall and nothing was damaged; the focusing can be care. | Care is a **response inside the focusing**, not a repair of it. V.6 is where this one is most likely to break, in *tzimtzum*. |
 | **C8 × C18/VII.2** | No gate, no elect; and grade still bears on moral standing. | A grade is a **position**, not a permission — and position bears on standing without licensing a gate. **VII.2 is ruled to state this "with its teeth in", which is exactly where a gate will look defensible.** The most dangerous pair in the table. |
 | **C7 × C6** | Everything that reacts is aware; the Ground is not aware in that sense. | **→ PROMOTED TO C24, Day 187.** The reconciliation that used to live in this cell asserted a two-senses doctrine that no claim carried. A resolution is not a claim, and this table is not a place to keep doctrine. **Home: II.4**, per C24. |
 | **C2 × C24** | Having takes a gap, and the Fullness has never once had anything; the Fullness is what all insides are made of. | **Constitution is not possession.** I.2's chapter-final sentence is the strong one and does not move. I.6 was the breach and is fixed — *"it is what insides are made of"*, not *"it has all of them."* Any future sentence that gives the Ground a possessive is a C2 breach wearing C24's clothes. |
