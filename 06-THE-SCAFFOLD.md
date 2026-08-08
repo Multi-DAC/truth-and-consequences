@@ -2124,11 +2124,68 @@ exposition cannot be read as endorsement of where they were all walking. **Carto
 travellers we part from.**
 
 ### V.2 — THE CHURCH THE READER LEFT
-**Beats:** institutional Christianity taken at full strength and at its best, not at its worst ·
-what it got right that nothing else did — the personal address, the moral seriousness, the community
-that survives a death · **the exact point it stops answering**, and it is not hypocrisy or science ·
-why leaving it did not answer the question either. «**The most important new chapter in Book V.**»
-**Named:** opponent III — the most common failed prior in the reader's actual history.
+**Beats:**
+
+1. **The church at its best, in particulars, before a word of assessment.** Not *"institutional
+   Christianity taken at full strength"* — that is a stance, and a stance is not a beat. **The
+   concrete things a reader actually left**: the parish that arrives with food when someone dies ·
+   the liturgy that does not depend on the sincerity of whoever is saying it, and so keeps working
+   on the worst morning of your life · the calendar that gives grief and joy a *date* instead of
+   leaving them to fall wherever they fall · confession, in which a wrong has a place to be put down ·
+   the named dead, kept named. «Write these before any evaluation. The chapter has no force if the
+   reader can tell in the first paragraph which way it is going to come out.»
+2. **The three it got right that nothing else did, separated and each given its own ground.**
+   **(a) The personal address** — a Ground that says *you*, and means the particular you.
+   **(b) Moral seriousness** — wrongdoing as a real category with a real remedy, not a preference
+   with a social cost. **(c) A community that survives a death** — not consolation, *logistics*:
+   people who come, and keep coming, past the week when it stops being interesting.
+   ★ **And the ledger line the chapter is worthless without: this book, as it stands, supplies not
+   one of the three.** «Said plainly, in our own voice, not conceded under pressure later.»
+3. ★★ **The exact point it stops answering — and it is II.1's cut, arriving where it costs
+   something.** **Not hypocrisy** (a *tu quoque* the reader discounted years ago and which would
+   make this the cheap chapter) and **not science** (V.4's demolition, and it belongs to V.4).
+   It is this: **the personal address is bought by giving the Ground a face; a face is an inside;
+   and a Ground with an inside is a being among beings** — which is the one thing the Ground cannot
+   be. ★ **II.1 ALREADY MADE THIS CUT, against Tillich, and shipped the sentence: *"Tillich took
+   away God's face and kept the direction of prayer. The face and the direction go together."*
+   (II.1:93–98.)** V.2 is where **a reader who lived inside that address** meets it, rather than a
+   theologian being corrected. «Cash II.1; do not re-argue it. The argument is drafted — what is
+   owed here is the cost of it, to someone who prayed.»
+4. **Why leaving did not answer the question either — and the discriminating form, because the
+   generic one is what got this brief rewritten.** Leaving answered ***is it true?*** and never
+   touched ***what is this?*** The reader assumes the address went out with the face. **What
+   actually went was the calendar, the food, and the named dead** — and nothing arrived to replace
+   them. ⛔ **AND THE CHAPTER MAY NOT OFFER THIS BOOK AS THE REPLACEMENT.** We answer the ontology
+   and provide no parish. «Saying so is the chapter's entire credibility, and it is the sentence a
+   sympathetic drafter will be most tempted to soften.»
+5. **The handoff, load-bearing rather than decorative:** the stopping point in beat 3 is exactly what
+   V.3's classical theologians *did not* flinch from — **`actus purus`, the God who is not a being
+   among beings** — and what the popular religions could not resist re-adding a face to. «V.2 poses
+   it as a loss; V.3 shows the tradition's own best minds had already accepted it. That order is the
+   reason V.2 comes first.»
+
+**Named:** opponent III — the most common failed prior in the reader's actual history. **And Tillich,
+a second time**: named at II.1 as a credential, cashed here as a cost.
+**Source:** NEW. ⚠ **Measured Day 189: `church` appears once each in II.1, II.8 and IV.9, and
+`Christian` once in IV.8 — four sentences in thirty-two chapters.** This chapter is not a quarry job
+and there is nothing to pre-spend; **the whole institutional half of Book V is written from scratch**,
+which is why `06` schedules it first.
+
+⚠⚠ **BRIEF REWRITTEN DAY 189 — R-26 item 1, filed twice in the DRAFT-LOG and rowed zero times. ★ AND
+THE REMEDY AS FILED WAS WRONG, WHICH IS THE FIFTH MEASUREMENT THIS DAY TO DISAGREE WITH THE SUMMARY
+THAT SENT ME.** The row says *rewrite V.2's beat list **to Book IV's scale***. Book IV's briefs are a
+median of **748 words** — **today**, after the book was drafted. **Measured at `4f9bfd6`, the commit
+where Book IV was opening: median 66 words, mean 85.** V.2 sat at **83**. ★ **So V.2's brief was
+already at Book IV's scale, at the only moment the comparison is fair; the 748 is post-drafting
+accretion — rulings and findings written INTO the briefs as the chapters were drafted, IV.10's 5,123
+words most of all.** A word target would have been satisfied by seven hundred words of the same
+undiscriminating prose. ✅ **The defect was never size, and the log entry that filed it said so in
+its own words:** *"the beat is 'why leaving it did not answer the question either', which contains no
+content word a discriminator can use; it now matches three chapters in three different books. **A beat
+that matches everything is not detecting a spend, it is failing to be a beat.**"* **The remedy is
+DISCRIMINATION** — named things, a specific stopping point, an exact objection — and the length is a
+consequence of it rather than a target. *(The brief got longer. That is a side effect and must not be
+read as the fix.)*
 
 ### V.3 — THE SCHOLASTICS AND THE GOD WITHOUT A FACE
 **Beats:** Aquinas and Augustine «(8 and 14 mentions — thin behind us, load-bearing here; expect to

@@ -6181,3 +6181,86 @@ unmarked**, and the coverage table prints that every run rather than letting a c
 clean scaffold.
 
 **CHAPTERS-DRAFTED: 32/67** — unchanged; two blockers paid, one gauge built, one rule added.
+
+---
+
+## Day 189, late morning — R-26 item 1 paid. Ruling 154. "Book IV's scale" is a retrospective artifact.
+
+The third of four gates, and the one whose **stated remedy was wrong**. Filed twice in this log, rowed
+zero times, and the row that finally carried it prescribed the wrong fix in good faith.
+
+### RULING 154 — THE REMEDY WAS SIZE. THE DEFECT WAS DISCRIMINATION. THEY ARE NOT THE SAME REPAIR.
+
+R-26 item 1: *"rewrite V.2's beat list **to Book IV's scale** before Book V drafts."* Measured before
+a word was written, which is the fifth time today that step changed the work:
+
+| | Book IV brief, median |
+|---|---|
+| **today**, Book IV drafted 10/10 | **748 words** |
+| at `4f9bfd6`, **the commit where Book IV was opening** | **66 words** (mean 85) |
+| V.2, as it stood this morning | **83 words** |
+
+★★ **So V.2 was ALREADY at Book IV's scale, at the only moment the comparison is fair.** The 748 is
+**post-drafting accretion** — rulings, corrections and findings written *into* the briefs as the
+chapters were drafted, IV.10's 5,123 words most of all. **A brief grows by being drafted against.**
+Comparing a pre-draft brief to a post-draft one is comparing a plan to a plan plus its own history,
+and the row did it without noticing — ⚠ **the same shape as the halfway letter's "eighteen chapters"
+that would not reproduce: a number that is true of the artifact and false of the claim it is asked to
+support.**
+
+**Seven hundred words of the same undiscriminating prose would have satisfied the row exactly.**
+
+✅ **And the real defect was in the original filing all along, in its own words** *(this log, §2681)*:
+*"the beat is 'why leaving it did not answer the question either', which contains no content word a
+discriminator can use; it now matches three chapters in three different books. **A beat that matches
+everything is not detecting a spend, it is failing to be a beat.**"* **The remedy is named things, a
+specific stopping point, an exact objection.** Length is a *consequence* of discrimination, never the
+target — and this brief did get longer, which must not be read as the fix.
+
+### What the rewrite found, and it is R-16's finding shape a second time in one day
+
+★★ **V.2's central beat — *"the exact point it stops answering, and it is not hypocrisy or science"* —
+has had its answer ruled, drafted and shipped since Book II, and no brief carried it.**
+
+`05`'s Ground row and `03`'s Tillich row both say it: *his ground is not a being among beings and
+cannot be an object — **our cut is that it cannot be addressed, because addressing needs an inside.***
+And II.1 **shipped** it, at 93–98: *"Tillich took away God's face and kept the direction of prayer.
+The face and the direction go together."*
+
+**The personal address is bought by giving the Ground a face; a face is an inside; a Ground with an
+inside is a being among beings** — the one thing it cannot be. That is V.2's stopping point, and it
+was written a book away from the chapter that needs it. ⚠ **Promise and case drafted apart, never in
+one brief — exactly R-16's finding this morning, in a different chapter, four hours later.** Two
+instances in one day is a class, not a coincidence: **this scaffold routinely rules a thing in one
+file and schedules its use in another, with nothing joining them.**
+
+★ **And the reframe that makes V.2 a chapter rather than a correction: II.1 corrects a theologian;
+V.2 charges the same cut to a reader who prayed.** Same sentence, different bill.
+
+### The before/after, measured — because "the beat is sharper now" is exactly the claim that needs a gauge
+
+`prose_beat_sweep --chapter V.2 --brief`, same instrument, same corpus, before and after:
+
+- **Before:** beat 3's top match was `IV.8:352` at **cos 0.610**, thematically unrelated; every beat
+  returned a generic top-5 spanning three books at 0.51–0.62. **Nothing to read.**
+- **After:** beat 3's top match is **`II.1:93` at cos 0.744** — *the exact paragraph identified by
+  hand*, with `II.1:85` (the Tillich introduction) also in the top five. **The discriminator
+  discriminates.**
+
+⚠ **And a SPENT flag appeared where there was none: `V.2 (beat) already performed in II.1`,
+containment 1.00, shared 5-gram `"took away god face kept"`.** That is **the fix working, not a cost
+of it** — the beat quotes II.1 verbatim in order to hand the drafter a cut already made. The tool's own
+instruction was followed rather than its threshold moved: **the reprise is flagged out loud in `06`**
+(beat 3 names II.1:93–98 by line and says *cash II.1; do not re-argue it*) **and the pair is entered in
+`beat_sweep.EXEMPT` with the ruling.** 0 spent · 1 exempt.
+
+⚠ **Measured, so the chapter is not written on a hunch: `church` appears once each in II.1, II.8 and
+IV.9; `Christian` once in IV.8. Four sentences in thirty-two chapters.** The institutional half of
+Book V has nothing to pre-spend and nothing to quarry — it is written from scratch, which is why `06`
+schedules it first and why it is the harder half.
+
+⛔ **The one line the drafter will most want to soften, marked in the brief as unsoftenable: we answer
+the ontology and provide no parish.** The chapter may not offer this book as a replacement for the
+calendar, the food and the named dead. **Saying so is its entire credibility.**
+
+**CHAPTERS-DRAFTED: 32/67** — unchanged; third gate paid, one exemption entered, one ruling opened.

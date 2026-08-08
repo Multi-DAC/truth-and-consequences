@@ -75,6 +75,18 @@ your yours we our ours they them their he she his her one two three at least rat
 # ANSWERED PAIRS. Each is a specific (a, b) with the ruling that answered it. Never a
 # chapter on its own, never a phrase.
 EXEMPT = {
+    # ★ Day 189, R-26 item 1 — and it fires because the brief was rewritten to be DISCRIMINATING,
+    # which is the fix working rather than a cost of it. V.2's beat 3 quotes II.1:93 verbatim
+    # ("Tillich took away God's face and kept the direction of prayer") in order to instruct the
+    # drafter to CASH the cut and not re-argue it. Containment 1.00 is therefore expected: the
+    # beat's whole content is a pointer at drafted prose. ⚠ The reprise is flagged out loud in
+    # `06` — beat 3 names II.1:93-98 by line and says "Cash II.1; do not re-argue it" — which is
+    # exactly the condition this table exists to record. II.1 corrects a theologian; V.2 charges
+    # the same cut to a reader who prayed. Same sentence, different bill.
+    ("II.1", "V.2"): "designed, R-26 item 1 (Day 189): V.2 beat 3 QUOTES II.1:93 to hand the "
+                     "drafter a cut already made and forbid re-arguing it. II.1 makes the "
+                     "argument against Tillich; V.2 delivers its cost to someone who lived "
+                     "inside the address. The verbatim overlap IS the instruction.",
     ("II.3", "VI.1"): "designed: VI.1's beats SAY 'the Perspective cut from II.3, cashed at "
                       "civilisational scale'. Book II defines at reader scale; VI.1 runs it at "
                       "era scale. The shared vocabulary is the handoff working.",
