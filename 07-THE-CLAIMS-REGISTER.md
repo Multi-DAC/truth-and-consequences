@@ -76,7 +76,7 @@ worlds, located elsewhere. Ours are not elsewhere and not isolated. **There is n
 > possibility is realised. Nobody chose it and nobody could have prevented it.
 
 **Establishes:** I.2 b1
-**Depends:** I.3 · II.2 · III.3 · V.10
+**Depends:** I.3 · II.2 · III.3 · V.11 *(was V.10 — Book V renumbered Day 188, ruling 125)*
 **Trap:** any verb of agency — *chose*, *decided*, *permitted*, and above all **`in order to`**.
 One of them makes C3 false in the same sentence that asserts C2.
 

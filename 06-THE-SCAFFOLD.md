@@ -135,7 +135,7 @@ inside stays.*
    as written collides with this book's own header rule: "no citation, no apparatus, **no named
    opponent on the page**," which is why Tolkien is unnamed here and acknowledged in the coda. **The
    cut is made in I.6 and the name is spent in Book V**, where the scaffold already credits him by
-   name at V.9 and the apparatus is allowed. So I.6 states the warm picture in the reader's own terms
+   name at V.10 *(was V.9 — ruling 125)* and the apparatus is allowed. So I.6 states the warm picture in the reader's own terms
    and refuses it, with nobody's name attached — the same procedure I.3 used on the retired word.
    Every other "**Named:**" line in Book I is to be read the same way.)*
 5. The last line hands over to Book II by *not* explaining itself.
@@ -1545,17 +1545,124 @@ the Book IV low. `vague_allusion` **0.0**. `named_ref` **17.59/1k**, the Book IV
 chapter that reads two primary texts in two languages should look like.
 
 ### IV.10 — WHAT THE CENSUS CANNOT SEE
-**Beats:** the atlas's own null space, mapped as far as an atlas can map its own blindness · the
+**Beats:** the atlas's own null space, traced as far as an atlas can trace its own blindness · the
 cryptids and boundary entities, and why they are a *methodological* chapter «rather than a credulous one» ·
-why the catalogue is permanently open · the handoff to the CODA's living-book claim.
+why the catalogue is permanently open · «the handoff to the CODA's» living-book claim.
 **Source:** ecology Tier 1.5 · `Perspective` 04 "what this census cannot see."
+⚠ **BEAT LINE REPAIRED AT DRAFTING, Day 188 — ruling 126, and it is ruling 108's sibling.** Beat 1
+read *"mapped as far as an atlas can map its own blindness."* **`map` is banned by `05` §3b for our
+own instrument** — the one word Book IV may not use for the thing it is. A beat written in a banned
+word **cannot be delivered without breaching the lexicon, so it can never score and will report a
+permanent MISS that looks like a drafting failure.** Ruling 108 caught the scaffold writing in a
+register the prose does not owe; this is the same defect one step further on — the scaffold writing
+in a *vocabulary the prose is forbidden*. Repaired to `traced`, which is not a lexicon term and
+carries the beat unchanged. ⚠ **NOT SWEPT: no gauge screens beat lines against `05`'s ban list**, and
+`claim_sweep` does not read `06`'s beats as prose. Book IV was checked by hand at this ruling and is
+clean apart from beat 1; **Books V–VIII are unchecked**, which is the same open edge ruling 108 left
+and it is left open here deliberately rather than claimed closed.
+✅ **DRAFTED Day 188 · 5,287 words · `book/IV-10-what-the-census-cannot-see.md` · rulings 125, 126,
+127. BOOK IV CLOSES, 10 of 10.** All four beats at or above 0.80, none under the floor. Ruling 75(b)
+clean for an **eighth** chapter — opens by listing the nine chapters just read and asking the reader
+to say what is missing, which nobody can, **and the answer is not reached by thinking harder.**
+★★ **RULING 125 — THE CENSUS'S LARGEST FAILURE IS NOT IN THE NULL SPACE THE CENSUS DECLARED, AND IT
+WAS FOUND BY COUNTING.** The ecology's **Tier 1.4** has no chapter anywhere in the eight-book plan
+and **no ruling declining it**: measured **0 occurrences across all seven planning documents and all
+31 drafted chapters.** Not deferred, not scoped out — *an absence with no author*. It sits one line
+above Tier 1.5, which this chapter WAS assigned; someone read down that page, scheduled 1.5, and did
+not schedule 1.4. ★ **The diagnosis is against us and it is a live mechanism, not a past fault:
+V.4's flinch — the scalpel sharp for mystics and dull for materialists — was written into the plan as
+a confession about our earlier corpus, and it operated during the drafting of THIS book, and what it
+removed was not a hedge but a tier.** Recorded here rather than in V.4 because a confession is a
+document and a document does not fire. ★ **THE ENTRY IS NOT WRITTEN HERE, and the refusal has a
+trigger rather than an intention**: an entry composed to close an embarrassment found forty minutes
+earlier is exactly the entry IV.1 predicted the standing bias would produce. Scheduled instead as a
+**new V.9** (this file, above), with `00` §884/§895/§901/§1871, `06` §138 and `07` C2 renumbered in
+the same commit — **and the renumber is the chapter's own thesis arriving as a chore**: seven live
+pointers that would have kept reading correctly while pointing one chapter off.
+★★ **THE INHERITED CRYPTID ENTRY CARRIES IV.7'S REFUSED CLAUSE IN TWO FORMS, AND ONE OF THEM IS
+DRESSED AS RESPECT.** (a) *the failure to produce specimens is predicted by the framework if their
+primary coherence is non-physical* — read as the **conditional it actually is**, which is the fairer
+and the more damning reading: the only support offered for the antecedent is the consequent. (b)
+*indigenous peoples' wider access allows them to perceive the full profile, while the modern focus on
+physical evidence can detect only the cross-section* — **a null result absorbed by attributing it to
+a deficiency in whoever produced it.** ★ **The finding, and it is installed one book early as V.1's
+missing fourth term: treating a tradition's testimony as unfalsifiable is EXEMPTION, not deference,
+and exemption is the softest available form of not taking somebody seriously. NO EXEMPTION, in
+either direction.** ⚠ **AND THE ESCALATION IS THE POINT: the method that paid three chapters running
+— go to the primary text, read the SPAN — was run here on OUR OWN source, and found the same defect
+in the same place, the connective tissue.** The first party to have misquoted that clause would have
+been this chapter, if it had been paraphrased from memory instead of fetched.
+★ **RULING 127 — THE NOTATION HAS NO ZERO. Third refusal in Book IV, third distinct mechanism.**
+IV.8 declined a card because the entity had no testable signature; IV.9 declined four lines because
+the question was ungrammatical for the notation; **IV.10 declines because every line of a card
+presumes an occupant, and a card issued at low confidence records an entity faintly rather than doubt
+that there is one. There is no faint version of *no one*.** ★ And the two halves of the chapter are
+**one defect in two directions**: a tier never listed produced no gap, and an entity that may not
+exist produced a three-of-five bar — the apparatus cannot represent an absent entry OR an absent
+occupant. This is also **the third instance of IV.9's filled-table finding**, which settles that it
+is not an accident. ⚠ **The instrument is NOT built here**, deliberately: inventing a third notation
+in the chapter that discovered the need for it is IV.9's declared hazard coming true. The requirement
+is recorded; **a reader should watch whether anyone builds it or whether it quietly becomes a
+paragraph.**
+★ **THE PERMANENTLY-OPEN CATALOGUE, CUT AWAY FROM THE COURTESY VERSION.** The source's own atlas ends
+on *the room is larger than any account of it* — true, costless, and in five months it caused nothing
+to be found. The atlas's claim instead: **open because the POPULATION changes**, which makes it a
+prediction that can fail rather than a confession that cannot; plus ruling 127's consequence, that a
+catalogue with no notation for a vacancy **cannot be closed even in principle**, because closure is a
+claim about the empty places.
+★ **THE FOUR DECLARED BLINDNESSES, AUDITED, AND TWO COME BACK CHANGED.** (1) *No vocabulary for* —
+IV.1's last clause is **WRONG**: it said the passing-over leaves no trace, and IV.9's four
+ungrammatical lines are the trace. The blindness leaves nothing in the prose and leaves something in
+the apparatus — **the strongest argument for apparatus the book has made.** (2) *No interface at all*
+— unchanged and unauditable, exactly as true and as useless as when written. (3) *Our own boundary* —
+fired three times (IV.7, IV.8, IV.9) and **not once by the method**; every finding came from leaving
+it and reading a primary text. Declared humility about an edge is correct and inert. (4)
+*Inheritance* — still deferred to Book V, with a down payment: it showed up **in the shape, not the
+content**, and a structure inherited that completely stops being visible as a structure.
+**GAUGES.** Four beats: **0.83 · 0.80 · 1.00 · 1.00**, none under the floor, 2 «…» spans stripped.
+Two MISSes, both honest and neither repaired to please the tool: `traced` (beat 1's own verb, changed
+by ruling 126 an hour before scoring) and **`cryptids→cryptid` — the word appears ONCE, singular, in
+the sentence that declines it**, on the ground that *cryptid* means *the hidden one* and therefore
+ships an occupant inside the word, which is precisely the presupposition ruling 127 is about.
+`claim_sweep`: **0 live hits**. `prose_echo`: opened at **24 live** and closed at **0 live / 6
+exempted, with the reword done first** — the IV.9 quotation was compressed out entirely and the IV.1
+pair cut from 17 grams to 5 before a single exemption was written. ⚠ **The IV.8→IV.9 house-name
+exemption's re-open condition is now one chapter away**, and IV.10 used the locution in two variant
+forms the 6-gram arm cannot see — the tool's own declared blind spot, flagged rather than banked.
+`storyscope_lite` against a 10-row Book IV: **`voice_uniformity` 0.6436 — the LOWEST in Book IV**,
+under IV.9's 0.6469 and nearest the specimens' 0.6341; `terminal_commentary` **0.016**, the Book IV
+low; `short_sent_var` **0.207**; `vague_allusion` **0.0**; `announcement` opened at 1.36 and closed
+at **0.76** after four presentational reflexes were rewritten. ⚠ **Two flags left standing rather
+than tuned away.** `meta_textual` **5.15** is second only to IV.6 — a chapter whose referent IS the
+census will say *this book*, and the honest defence is that these are referential rather than
+reflexive, which is a judgement and not a measurement. `2nd_person` **1.91 is the Book IV LOW**, in
+a chapter that opens on a procedure addressed to the reader: the procedure is short and the audit
+that follows is addressed to nobody. `dyn_range_CV` **0.348** — lifted off the Book IV floor (0.338,
+under IV.7's flat mark) by splitting six long paragraphs at their real turns, and still in the lower
+half.
 
 ---
 
 ## BOOK V — **THE OLD ROADS**
 
 *Religion, occult, mysticism, myth — read as people touching this ground with the instruments of their
-era. Ten chapters, and the order is inverted against our own corpus on purpose.*
+era. ~~Ten~~ **ELEVEN** chapters, and the order is inverted against our own corpus on purpose.*
+
+★★ **AMENDED Day 188 BY IV.10, ruling 125 — A NEW V.9, AND THE REASON IS A TIER BOOK IV LOST.**
+The ecology's **Tier 1.4, non-human intelligences (physically manifest)**, is the one entry in the
+source with **no chapter anywhere in the eight-book plan and no ruling declining it** — measured at
+IV.10: **0 occurrences across all seven planning documents and all 31 drafted chapters.** Not
+deferred, not scoped out; *absent, with no author*. It is scheduled **here rather than in Book IV**
+because the live problem in that material is literal-versus-story, which is this book's ambient
+problem and Book IV's occasional one. **Inserted at 9, immediately after V.8**, so the worked
+demarcation is installed on a case where it costs little and then run where it costs everything —
+the IV.7→IV.8 pattern, on the record. Old V.9 → V.10 and old V.10 → **V.11**; the closer stays the
+closer, so ruling 21's order-dependency note is untouched. ⚠ **The omission's cause was diagnosed at
+IV.10 as V.4's flinch operating LIVE rather than historically** — which means the party writing this
+entry is the party the flinch acts on. **It will not be caught by care. It is caught by putting the
+two lists side by side and counting**, which took nine minutes and no insight, and which nothing in
+the apparatus does on a schedule. *(An entry with no gauge behind it is a stamp — Drift #287's shape,
+in the amendment that exists because of it.)*
 
 ⚠ **THE MEASURED IMBALANCE, AND THE STRUCTURAL RESPONSE.** `04` §3.III counted the halves: occult-rich
 (Gebser 127, Crowley 80, Dee 15) and institution-poor (Aquinas 8, Augustine 14, theism 7). That is
@@ -1624,12 +1731,38 @@ and saying so is not a hedge, it is the same discipline that let us say the rest
 because doing it once here is what buys the reader's trust for the whole book · OBE-as-proof-of-survival
 stays out, and the reason is *we do not hold it*, never *a skeptic would object*.
 
-### V.9 — THE MYSTICS' REPORT
+### V.9 — THE ROAD BEING WALKED NOW ★ **NEW, Day 188, ruling 125**
+**Beats:** the contemporary encounter record read exactly as the preceding eight chapters read older
+ones — **people touching this ground with the instruments of their era, and the era is ours** ·
+what is actually in the record, by grade: sensor and radar returns, physical trace claims, testimony
+at scale, and acknowledgement on the public record in named hearings · **the three interpretive
+frames the source refuses to choose between** — travellers across physical distance, positions whose
+access is wider than ours intersecting our slice, navigators from elsewhere in time — and **the
+atlas's amendment to that refusal, which is IV.7's and is not optional: two frames may be held at
+once ONLY where they predict the same thing, and holding both earns no credit** · the dual-frame
+problem stated at full strength — a literal traveller crossing the region of a shape would be
+perceived *through* that shape by anyone whose access runs partly through story, so the two readings
+are not rivals and are also not a licence · ★ **and the demarcation V.8 installs, run here on the
+hardest available case**: the real effect separated from the unproven mechanism, in public, with the
+grade named for each.
+⚠ **THE STANDING HAZARD, and it is this chapter's own: IV.10 refused the self-excusing clause in two
+forms — *the failure to produce specimens is predicted by the framework*, and *the modern focus on
+physical evidence can detect only the cross-section*.** Both are available here and both would end
+the difficulty. **Neither is available to this chapter.** ⚠ **AND NO EXEMPTION, in either direction:**
+a tradition's testimony held unfalsifiable is exempted, not credited, and exemption is the softest
+form of not taking somebody seriously. The bar for a large physical claim is the ordinary one, not
+raised for this entry and not lowered.
+**Source:** ecology Tier 1.4 · **NOT drafted in Book IV, and that absence is IV.10's finding rather
+than this chapter's inheritance.**
+**Named:** the demarcation, performed a second time — V.8 takes the method, V.9 takes the case that
+tests it.
+
+### V.10 — THE MYSTICS' REPORT
 **Beats:** the numinous, across traditions, with the reports laid side by side · what is invariant and
 what is local idiom · the Christian numinous given the same standing as the Vedantic, which the corpus
 has not previously done · **why the reports converge on structure and diverge on furniture.**
 
-### V.10 — WHAT THE OLD ROADS KNEW THAT WE DO NOT — **AND THE ONE THING THEY ALL GOT WRONG**
+### V.11 — WHAT THE OLD ROADS KNEW THAT WE DO NOT — **AND THE ONE THING THEY ALL GOT WRONG**
 **Beats:** the honest ledger — where a tradition is ahead of us · practice as a technology we have
 half-lost · the difference between a tradition that mapped the terrain and one that fenced it ·
 ★ **NEW second half, and it is what makes the chapter two-sided instead of a compliment: the error is

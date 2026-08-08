@@ -881,7 +881,9 @@ as intended." Ruling 10's gate: pre-mortem, and Clayton awake. Both satisfied; p
 
 **What the pre-mortem confirmed, checked by hand against the tree rather than believed:**
 
-1. ★ **V.10's handoff goes false, and it drafts clean.** `06` V.10's last beat is *"handoff to Book
+1. ★ **V.11's handoff goes false, and it drafts clean.** *(Was V.10 — renumbered Day 188 by ruling
+   125, which inserted a new V.9. The closer is still the closer; only its number moved.)* `06`
+   V.11's last beat is *"handoff to Book
    VI: these were the instruments of their eras, and the era is the next subject."* Under Fable's
    order Book V is followed by **the Atlas**. The sentence stays grammatical, confident and warm,
    and is wrong about the only thing it asserts. **A broken handoff does not read like an error. It
@@ -892,13 +894,14 @@ as intended." Ruling 10's gate: pre-mortem, and Clayton awake. Both satisfied; p
    no era beat, nothing about capture. **The bridge was read backwards off a chapter written for a
    different neighbour, by me, in the same addendum that demanded the pre-mortem** — the argument
    was reconstructed from a hunch when the beats were one file away.
-3. **"V and VI do not need the roster" is asserted and not checked.** V.6–V.9 (the Tree, operative
-   magic, travel and the dead, the mystics' report) trade in entity classes that **Book IV is where
+3. **"V and VI do not need the roster" is asserted and not checked.** V.6–V.10 (the Tree, operative
+   magic, travel and the dead, **the contemporary encounter record — new, ruling 125**, the mystics'
+   report) trade in entity classes that **Book IV is where
    the book first grants are real, at a grade, unhedged.** Under the reorder V either presupposes
    that grant or must re-earn it, and V's beats are not scoped to re-earn it. **This is the one open
    item and it is a measurement, not an opinion.**
 4. **The catalogue-fatigue objection is real but smaller than I put it.** Book IV is ~80% uniform
-   roster; Book V is roughly half argument (V.1–V.4, V.10). "Twenty catalogue chapters back to back"
+   roster; Book V is roughly half argument (V.1–V.4, V.11). "Twenty catalogue chapters back to back"
    overstates it. What is true: the buffer between the book's two most catalogue-dense zones shrinks
    from a whole book in a different register to two chapters.
 
@@ -1868,7 +1871,8 @@ not been made anywhere.** So:
   scaffold already licenses it; and it is the option the ladder favours, because III.1's job on the
   reader's ladder is a conversion and a callback cannot perform one.*
 - **(b)** III.1 becomes **the Watts chapter** — the *sympathetic* prior cut at full length, a name
-  currently spread thin across I.6, III.2 and V.9 and **spent nowhere in Part One**, against `03`'s
+  currently spread thin across I.6, III.2 and V.10 *(was V.9 — ruling 125)* and **spent nowhere in
+  Part One**, against `03`'s
   finding that Watts is 0 files corpus-wide and the most important absent ancestor in the work.
   *Strongest single chapter; but it collides with III.2, which already holds līlā, and two adjacent
   chapters cutting the same friendly tradition is ruling 43's liturgy problem at book scale.*

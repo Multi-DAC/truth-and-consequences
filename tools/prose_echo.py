@@ -287,6 +287,40 @@ EXEMPT = [
      "looks like from the inside. The defence is that it names a specific document and could not be "
      "replaced by a pronoun; the thing that would kill it is the phrase appearing where no source is "
      "being named. If it reaches four chapters, re-open it."),
+    ("IV.1", "IV.10", "we cannot see our own boundary",
+     "★ IV.10 AUDITS IV.1'S FOUR DECLARED BLINDNESSES AND MUST QUOTE THEM TO DO IT. All four audit "
+     "items open on IV.1's own wording ('we cannot see...'), and the anaphora across the four is the "
+     "structure of the audit rather than an echo of it. A declaration cannot be checked against "
+     "eight chapters of practice unless it is reproduced in the terms it was declared in — the same "
+     "logic that exempted the IV.8→IV.9 handoff, running backward over eight chapters instead of "
+     "forward over one. ⚠ THE PAIR WAS CUT DOWN BEFORE IT WAS EXEMPTED: the first draft restated "
+     "IV.1's boundary declaration nearly whole and tripped EIGHT grams on that sentence alone; it "
+     "was reworded to the shortest form that still carries the claim, and the pair fell from 17 "
+     "live grams to 5. The reword came first."),
+    ("IV.1", "IV.10", "passing over leaving",
+     "THREE OVERLAPPING WINDOWS OF ONE QUOTED CLAUSE, adjudicated once because they are one phrase. "
+     "IV.1 declared that a difference no word marks is passed over 'without the passing-over leaving "
+     "a trace.' IV.10'S WHOLE FIRST FINDING IS THAT THIS CLAUSE IS FALSE — the archetypal chapter's "
+     "four ungrammatical card lines ARE the trace. A refutation of an exact wording has to carry the "
+     "exact wording; paraphrasing it here would let the correction be argued with on a sentence "
+     "nobody wrote."),
+    ("IV.1", "IV.10", "two things travel together",
+     "IV.1'S PREDICTION, QUOTED AT THE POINT IT COMES TRUE. The method chapter predicted its own "
+     "standing bias would land where evidence is thinnest and prose most confident, 'because those "
+     "two things travel together.' IV.10 reaches exactly that entry — a tier it must decline to "
+     "write in a hurry — and cites the prediction as the reason for declining. A forecast is only "
+     "auditable against its own words. ⚠ The surrounding restatement WAS cut: the first draft "
+     "reproduced the full IV.1 sentence and tripped six grams; four were removed by compression and "
+     "the load-bearing clause kept."),
+    ("IV.7", "IV.10", "predict the same thing",
+     "THE INSTALLED RULE, NAMED IN ITS FIXED WORDING WHERE IT IS APPLIED. IV.7 installed 'two frames "
+     "may be held at once only where they predict the same thing' as a standing discipline, and "
+     "IV.10 applies it to the inherited dual-frame treatment of the missing tier. Rewording a RULE "
+     "at each citation is ruling 14's defect committed deliberately — one referent under two names — "
+     "and would be done here only to satisfy this instrument. ⚠ SAME LIMIT AS THE HOUSE-NAME ENTRY, "
+     "and the same trigger: a standing locution is what a tic looks like from the inside. What would "
+     "kill it is the formula appearing where no two frames are actually in contest. If it reaches "
+     "four chapters, re-open it."),
 ]
 
 

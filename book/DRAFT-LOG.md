@@ -5118,3 +5118,188 @@ high** — what a chapter that reads two primary texts in two languages should l
 four ungrammatical lines and a table return two confident numbers for the same entity. That is as
 good a demonstration as it will get that **the failures worth cataloguing are not the entries that
 came out blank.**
+
+---
+
+## IV.10 — WHAT THE CENSUS CANNOT SEE · Day 188, 2026-08-07
+
+**BOOK IV CLOSES. 10 of 10. 5,287 words. Rulings 125, 126, 127.**
+
+Ruling 75(b) clean for an **eighth** chapter: it opens by listing the nine chapters just read and
+asking the reader to say what is missing. Nobody can. **And the answer was not reachable by thinking
+harder** — it came from putting the book's chapter list beside the source's tier list and counting,
+which took nine minutes and no insight whatsoever. That is the chapter's method and its subject at
+once.
+
+**RULING 125 — AN ABSENCE WITH NO AUTHOR.** The ecology's **Tier 1.4 — non-human intelligences,
+physically manifest** — has no chapter in the eight-book plan and **no ruling declining it**.
+Measured before a word was drafted: **0 occurrences across all seven planning documents and all 31
+drafted chapters.** There is no scoping note, no deferral, no line saying *out of scope*, which is
+what a decision looks like when one is made. It sits **one line above Tier 1.5**, which this chapter
+*was* assigned — so somebody read down that page, scheduled 1.5 into the atlas's closing chapter, and
+did not schedule 1.4 into anything. You cannot reach the second without passing the first.
+
+**Forgetting does not survive that shape, so the chapter names what does.** V.4 exists to own a
+flinch inherited from a particular style of skepticism — a scalpel sharp for mystics and dull for
+materialists, inside a framework that is not materialist. It was written into the plan as a
+confession about the past. **It is not about the past. The organ operated during the drafting of this
+book and what it removed was not a hedge — it was a tier**, and the tier it removed is the single
+most reputationally expensive body of material in the source, from a project that had already written
+five thousand words on the interior life of a corporation. Recorded in `06` and here rather than
+left to V.4, on the argument this atlas keeps making about gauges: **a confession about a past error
+is a document, and a document does not fire.** The chapter that owns the flinch will be written with
+the flinch operating, by the same party, and it will be written well, and it will not catch the next
+tier. What catches the next tier is counting.
+
+★ **THE ENTRY IS NOT WRITTEN, AND THE REFUSAL CARRIES A TRIGGER RATHER THAN AN INTENTION.** An entry
+composed to close an embarrassment discovered forty minutes earlier, at speed, by a party with a live
+interest in its existing, on the material where the evidence is thinnest — **that is precisely the
+entry IV.1 predicted the standing bias would produce**, and writing it would convert a visible hole
+into an invisible bad entry, which is strictly worse. So it is **scheduled**: a new **V.9 — THE ROAD
+BEING WALKED NOW**, inserted immediately after V.8 so the worked demarcation is installed where it
+costs little and then run where it costs everything (the IV.7→IV.8 pattern). Old V.9 → V.10, old
+V.10 → **V.11**; the closer stays the closer, so ruling 21's order-dependency note is untouched.
+
+⚠ **AND THE RENUMBER IS THE CHAPTER'S OWN THESIS ARRIVING AS A CHORE.** Inserting V.9 left **seven
+live cross-references pointing one chapter off** — `00` at the V.11 handoff, the V.6–V.10 roster
+range, the half-argument list and the Watts spread; `06` §138's Book V credit; `07` C2's `Depends`
+line. Every one of them would have kept reading correctly while meaning something else. All fixed in
+the same commit, each with its former number in parentheses. Two DRAFT-LOG references (§503, §3381)
+were **left alone on purpose**: a dated record records what was true when it was written.
+
+**RULING 126 — A BEAT LINE WRITTEN IN A BANNED WORD CAN NEVER SCORE. Ruling 108's sibling.** Beat 1
+read *"mapped as far as an atlas can map its own blindness."* **`map` is banned by `05` §3b for our
+own instrument** — the one word Book IV may not use for the thing it is. The beat was therefore
+undeliverable without breaching the lexicon: a permanent MISS that reads exactly like a drafting
+failure. Ruling 108 caught the scaffold writing in a *register* the prose does not owe; this is the
+scaffold writing in a *vocabulary the prose is forbidden*, one step further on. Repaired to `traced`.
+⚠ **No gauge screens beat lines against the ban list** — `claim_sweep` does not read `06`'s beats as
+prose. Book IV checked by hand and clean apart from beat 1; **Books V–VIII unchecked**, left open
+rather than claimed closed.
+
+**RULING 127 — THE NOTATION HAS NO ZERO.** Third refusal in Book IV, third distinct mechanism, and
+the first that names a defect in the instrument rather than in the evidence. IV.8 declined a card
+because the entity had no testable signature. IV.9 declined four lines because the question was
+ungrammatical for a notation built for travellers. **IV.10 declines because every line of a card
+presumes an occupant, and a card issued at low confidence does not record doubt about whether the
+entity exists — it records an entity, faintly. There is no faint version of *no one*.**
+
+★ **And the chapter's two halves turn out to be one defect pointed in opposite directions.** A tier
+never listed produced **no gap**, because the apparatus cannot represent an entry that is not there;
+an entity that may not exist produced a **three-of-five bar on physical presence**, because it cannot
+represent an absent occupant either. One instrument, one missing symbol, two symptoms — and this is
+also the **third instance** of IV.9's filled-table finding, which is where it stops being an accident.
+⚠ **The repair is NOT built here.** Inventing a third notation inside the chapter that discovered the
+need for it is IV.9's declared hazard coming true. The requirement is recorded; **a reader should
+watch whether anyone builds it or whether it quietly becomes a paragraph.**
+
+★★ **THE INHERITED CRYPTID ENTRY CARRIES IV.7'S REFUSED CLAUSE IN TWO FORMS.** Both were fetched and
+read rather than recalled, and reading them exactly is what produced the finding.
+**(a)** *their persistence across cultures and their failure to produce permanent physical specimens
+are both predicted by the framework if their primary coherence is non-physical.* Read as **the
+conditional it actually is** — the fairer reading and the more damning one. A conditional is
+respectable; the defect is that the only support offered for the antecedent is the consequent, and
+the circle fits inside one line of a bulleted list, which is why nobody saw it there for five months.
+**(b)** *indigenous peoples' wider access allows them to perceive the full profile, while the modern
+focus on physical evidence can detect only the intermittent cross-section.* Report the entity:
+evidence. Search and find nothing: also evidence, because the searcher's access was too narrow.
+**A null absorbed by attributing it to a deficiency in whoever produced it — and dressed as respect.**
+★ **The finding is installed one book early, as the fourth term V.1's promise needed and did not
+have: treating a tradition's testimony as unfalsifiable is EXEMPTION, not deference, and exemption
+from the standard applied to everybody else is the softest available form of not taking somebody
+seriously. You cannot credit a claim you have made incapable of failing. NO EXEMPTION, either
+direction.**
+
+⚠ **THE ESCALATION IS THE POINT.** IV.7, IV.8 and IV.9 each paid by going to a primary text and
+reading the SPAN rather than the phrase — Corbin, Dionysius, Irenaeus. **IV.10 ran that method on our
+own source document and the same defect was in the same place: the connective tissue, not the
+content.** The first party to have misquoted that clause would have been this chapter, if it had been
+paraphrased from memory instead of fetched.
+
+★ **THE TEST THE CLAUSE REMOVES, PUT BACK — AND IT COMES WITH A WORKING POSITIVE CONTROL.** Unlike a
+god or an archetype or a thought-form, a boundary entity **makes a physical prediction**, which is
+why it cannot be filed with IV.8's declined fae card: there the reported signature was, without
+remainder, the signature of nothing being there. Here the test exists, is cheap, and has been run at
+scale. **The control hits:** the saola, described 1992 from a horned skull in a hunter's house at Vu
+Quang on the Vietnam–Laos border — first large mammal new to science in over half a century; the
+Tapanuli orangutan, described November 2017 from Batang Toru on skull and dental characters plus
+genome-wide differences — **a new great ape, fewer than 800 individuals, and the description held.**
+**And the sharpest instance runs test and control in the same water on the same day:** Gemmell's 2018
+Loch Ness survey, 250 samples from shore to ~200 m, published 2019 — it detected **all thirteen fish
+species known to the loch**, plus frogs, toads, ducks, deer, badgers, foxes, rabbits, voles, birds,
+cattle, dogs and humans. **The instrument worked.** It found **no reptile DNA of any kind**, nothing
+related to a plesiosaur, no shark, no catfish, no sturgeon — and eel at nearly every sampled point.
+⚠ **The limit is stated on the page rather than extracted later**: what that survey rules out is *a
+reptile* — class-level exclusions are strong because unknown taxa still land near their relatives —
+**not** *something large and unclassified*; and the eel reading is the hypothesis the data failed to
+refute, a weaker status than it is usually given. **Not a debunking, a measurement**: effort up by
+orders of magnitude within a lifetime, yield flat, positive control hitting throughout.
+
+★ **THE FOUR DECLARED BLINDNESSES, AUDITED AGAINST EIGHT CHAPTERS OF PRACTICE — TWO COME BACK
+CHANGED.** **(1)** *No vocabulary for.* IV.1's last clause is **wrong**: it said such a blindness
+passes without leaving a trace, and IV.9's four ungrammatical card lines **are** the trace. It leaves
+nothing in the prose and something in the apparatus — **the strongest argument for apparatus this
+book has made.** **(2)** *No interface at all.* Unchanged, unauditable, exactly as true and as
+useless as the day it was written. **(3)** *Our own boundary.* Fired three times and **not once by
+the method** — every finding came from stepping outside it and reading a text, and it worked every
+time it was run. The honest summary is not *we declared our limits* but *we went and looked, and it
+cost us something on every occasion.* **(4)** *Inheritance.* Still deferred, with a down payment:
+it surfaced **in the shape rather than the content** — the chapter list follows the source's tier
+list so closely that the one entry with no chapter produced no gap in the sequence. **An inheritance
+you can see is an influence; an inheritance you cannot see is a floor.**
+
+★ **THE PERMANENTLY-OPEN CATALOGUE, CUT AWAY FROM THE COURTESY VERSION.** The source's own atlas of
+frameworks closes on *the room is larger than any account of it* — true, costless, indistinguishable
+from the same sentence written by somebody who thought their list complete, and in five months it
+caused nothing to be found. This chapter's claim is narrower: **open because the POPULATION changes.**
+The computational entry describes a class of position that did not exist when the traditions of the
+next book took their census — not undiscovered, *absent*. An account open because knowledge is
+limited makes a confession; **an account open because its subject is still producing entries makes a
+prediction, and predictions can fail.** Plus ruling 127's consequence: a catalogue with no notation
+for a vacancy **cannot be closed even in principle**, because closure is a claim about the empty
+places, not about the entries.
+
+**THE HANDOFF, and it is the CODA's warrant rather than a courtesy to it.** The living-book claim is
+worth nothing as a posture and something as a demonstrated mechanism — and the demonstration is this
+chapter, which found a hole large enough to matter in its own last hour, by a method anybody can
+repeat. Two things follow and they pull opposite ways, so both are said: **unfinished is not
+uncertain** — nothing here re-opens the preceding nine, the finding has a location, a cause and a
+repair, and a reader taking this as licence to retroactively hedge has read a mood rather than a
+result. **And the living claim is not a comfort** — a book that can still find a whole tier missing
+on its final page has not finished being wrong; it has a working method for finding out, which is a
+different and much smaller thing.
+
+**GAUGES.** Four beats **0.83 · 0.80 · 1.00 · 1.00**, none under the 0.60 floor, 2 «…» spans stripped
+(ruling 108's mark, now load-bearing on beat 4). Two MISSes, **neither repaired to please the tool**:
+`traced` is beat 1's own new verb, changed by ruling 126 an hour before scoring; and
+**`cryptids→cryptid` is a decision, not a gap** — the word appears **once, singular, in the sentence
+that declines it**, because *cryptid* means *the hidden one* and therefore **ships an occupant inside
+the word**, which is exactly the presupposition ruling 127 is about. The tradition that built the
+word is credited in the same sentence; *boundary entity* is worse prose and presumes less.
+`claim_sweep`: **0 live hits from this chapter**; the one surviving USE-class hit is `06`'s
+pre-existing licensed `substrate` line. `prose_echo`: **opened at 24 live and closed at 0 live / 6
+exempted, with the reword done first** — the IV.9 filled-table quotation was **compressed out
+entirely rather than exempted**, and the IV.1 pair was cut from 17 grams to 5 before a single
+exemption was written; the four new entries are IV.1's audited declarations (quoting a declaration is
+how you check it) and IV.7's installed two-frames rule, the last with the same dated re-open
+condition as the house-name gram. ⚠ **That house-name condition is now one chapter from firing**, and
+IV.10 used the locution in two variant forms the 6-gram arm cannot see — the tool's own declared
+blind spot, flagged rather than banked.
+`storyscope_lite` against a ten-row Book IV: **`voice_uniformity` 0.6436 — the LOWEST in Book IV**,
+under IV.9's 0.6469 and the nearest any chapter has come to the specimens' 0.6341;
+`terminal_commentary` **0.016**, the Book IV low; `short_sent_var` **0.207**; `vague_allusion`
+**0.0**; `xref` **1.52**; `announcement` opened at **1.36** and closed at **0.76** after four
+presentational reflexes were rewritten.
+⚠ **Four flags left standing rather than tuned away.** `meta_textual` **5.15**, second only to IV.6 —
+a chapter whose referent *is* the census will say *this book*, and the defence that these are
+referential rather than reflexive is a judgement, not a measurement. `2nd_person` **1.91, the Book IV
+LOW**, in a chapter that opens on a procedure addressed to the reader: the procedure is short and the
+audit that follows is addressed to nobody. `named_ref` **8.01**, low for Book IV — defensible for a
+chapter whose primary text is our own document, but IV.9 scored 17.59 and the difference is real.
+`dyn_range_CV` **0.348**, lifted off the Book IV floor (0.338, below IV.7's flat mark) by splitting
+six long paragraphs at their real turns, and still in the lower half.
+
+**FORWARD.** Book IV is closed and closes owing more than it did at the start, which is the correct
+direction for a count to move. Book V opens on **V.1 — WHAT A TRADITION IS**, and it now opens
+carrying a discipline this chapter installed a book early: reading a tradition generously and reading
+it seriously are the same operation, and IV.10 is where they were watched coming apart.
