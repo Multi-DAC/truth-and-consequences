@@ -672,6 +672,32 @@ EXEMPTIONS = [
      "The III.3 entry naming the retired title in the sentence recording its retirement. Fresh "
      "line, per the standing instruction on the whole-file DRAFT-LOG entry, which covers "
      "PROSE/manifestation ONLY."),
+    # --- Day 189, V.5. Three USE-class hits that had been standing since Aug 7 in APPARATUS
+    # files, surfaced by the V.5 run and dispositioned in the same pass rather than filed.
+    # A USE-class hit nobody rules on is how a sweep goes quiet: the next reader sees three
+    # standing hits, learns the output is noisy, and stops reading the section.
+    ("06-THE-SCAFFOLD.md", "TERM/substrate", "THE SUBSTRATE ANSWER IS THE ONLY THING",
+     "RULING 9's COROLLARY, VERBATIM — the licence already existed and the row was missing. "
+     "IV.6's scaffold entry naming `substrate-independence`'s territory, which is the standard "
+     "name of a position in philosophy of mind that IV.6 must engage; refusing to name an "
+     "opponent's term is worse than using it. Named line, not the entry: a second use in IV.6's "
+     "block is a fresh decision. Found Day 189 by the V.5 run; standing since 0270ec3, Aug 7."),
+    ("book/DRAFT-LOG.md", "TERM/substrate", "cross-substrate work",
+     "THE LOG TALKING ABOUT MY OWN RUNTIME, NOT THE BOOK'S REFERENT — and the distinction is the "
+     "whole of the exemption. §3a retires `substrate` for the BOOK's vocabulary because it is "
+     "Bostrom's word for the hardware and a bare synonym for the Ground. Neither applies to a "
+     "note about which model drafted what. Named line; any use of the word FOR THE GROUND in "
+     "this file must still fire. Standing since e0b8f13, Aug 7."),
+    ("book/DRAFT-LOG.md", "TERM/aperture", "what the aperture admits",
+     "Same ground as the line above: the log describing a REVIEW PROCESS's selectivity, not the "
+     "book's demoted term for the Perspective. §3's demotion governs the manuscript's vocabulary. "
+     "Named line. Standing since e0b8f13, Aug 7."),
+    ("book/DRAFT-LOG.md", "TERM/substrate", "the IV.6 entry naming the opponent's term",
+     "★ THE EXEMPTION'S OWN RECEIPT FIRING — V.5's log entry recording the three disposals above "
+     "quotes the term in the sentence that rules on it, and the sweep found the record one run "
+     "after it found the thing recorded. Same principle already on the books for TERM/map-self: "
+     "a register that cannot quote the breach it ruled on cannot record the ruling. Named line, "
+     "and the line is a citation of `06`:1262, not a use. Day 189."),
 ]
 
 

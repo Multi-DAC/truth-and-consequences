@@ -2374,11 +2374,73 @@ chair."* That is the COSMOLOGICAL atheist, not the movement, so it is not a spen
 V.4 may not re-run it.** Book III owns the removal of the chair; V.4 owns the epistemics and the
 style.
 
-### V.5 — THE EAST: ONE SUBSTANCE, MANY LOCALISATIONS
+### V.5 — THE EAST: ONE GROUND, MANY LOCALISATIONS ✅ DRAFTED — 3,234 words
+
+⚠⚠ **RETITLED BEFORE DRAFTING, DAY 189 — IT READ *"ONE SUBSTANCE, MANY LOCALISATIONS"* AND THAT IS
+C26 INVERTED, IN A CHAPTER TITLE.** C26 is **THERE IS NO STUFF**; the title made *substance* the
+book's positive name for the Ground, in the one chapter where a reader primed by "we are all one" is
+most likely to hear it as **material**. ★ **The measurement is what makes this a ruling rather than a
+scruple: `substance` appears eleven times in the drafted prose and not once positively in our own
+voice.** Ten are inside quotations from others (Bruno, Novalis, Spinoza — `03`:299 has Novalis's
+*"thought and world are one substance"*, and it is *his* sentence) and the eleventh is **II.4:48
+denying exactly this reading**: *"Not a substance — there is no quantity of awareness-stuff
+distributed unevenly through the world."* **The book's practice had already made the word
+negative-use-only and no ruling had noticed.** ⚠ **THE CLASS IS THE THIRD INSTANCE AND THE LOCATION
+IS THE POINT: a retired sense surviving in a CHAPTER TITLE.** `the map` died in two live titles for
+a day; `pre-rendered` sprang C1's trap in III.3's title and stood two days (ruling 65). **Both were
+caught after drafting. This one was caught before,** by screening the title against the register
+instead of against the ear — nine minutes, no insight, and the only reason it happened is that the
+chapter's own argument runs through C26. **Book's title: `one Ground`** — our word, and it makes the
+title state the chapter's thesis rather than a doctrine we deny.
+
 **Beats:** Advaita — *Ātman = Brahman*, the oldest statement of the flip · *māyā* as the constructed
 interface · *tat tvam asi* · Buddhist emptiness and *anattā* — no-self as path-not-point · Taoism's
 *wu wei* and the uncarved block · Indra's Net «(0 files — a measured silence, and the best single
 image of co-constitution anyone has produced; it comes in fresh, with nothing behind it to lean on)».
+
+✅ **DRAFTED Day 189 · 3,234 words · `book/V-05-the-east-one-ground-many-localisations.md`.**
+**C-LICENSE: C1 · C5 · C10 · C14 · C26** (C13 touched, not spent).
+★ **THE CHAPTER'S CUT IS NOT THE ONE THE BRIEF IMPLIES, AND THE BRIEF'S VERSION WOULD HAVE BEEN
+CHEAP.** *māyā* as *the constructed interface* invites the expected disagreement — *they say the
+world is illusory, we say it is real* — which is false about Śaṅkara (*mithyā* is a third category,
+and *vyāvahārika* truth is not dismissed) and is the condescension V.1 barred in advance. **The cut
+the chapter actually makes is against the TWO-TRUTHS ARCHITECTURE**: Advaita's *pāramārthika* over
+*vyāvahārika*, Madhyamaka's *paramārtha* over *saṃvṛti* — a second standpoint from which the first
+is *sublated* (*bādha*, the rope and the snake). **We have no top**, and the reason is structural
+rather than modest: a correcting standpoint would have to be a place, and every place is a position
+in the whole. That is V.1's parting-at-the-summit arriving early and as a mechanism.
+★ **AND IT SUPPLIES THE EXPLANATION V.1 OWED FOR WHY THE ROADS CONVERGE ON DISSOLUTION**: a method
+that reaches the ground by *subtracting* converges on something with nothing in it, and reports the
+summit as empty because the instrument removed everything on the way up.
+⚠ **THE DAOIST EXCEPTION IS REAL AND IS STATED NARROWER THAN IT WANTED TO BE.** The *Zhuangzi* has
+no second standpoint — Cook Ding is skill, not ascent — so this is the road we part from **least**;
+but the same text's *zuowang* passage (*"make myself identical with the Great Thoroughfare"*) is a
+dissolution passage and there is no reading of it that is not. **Named in the prose against my own
+claim**, because a chapter that finds one exception to its book's pattern will want the exception to
+be total.
+⚠ **INDRA'S NET IS BORROWED AND NOT ADOPTED, and the limit is on the page**: Huayan's jewels reflect
+*all* the others without obstruction and ours do not — a position is somewhere in particular with
+almost all of it unreached (I.3). **The net is right about mutual constitution and silent about
+range.** GRADE declared in the prose: the English formulation is Francis Cook's (1977) and the
+chapter has not gone behind it to the Chinese.
+★ **THE SIX FOREIGN TERMS ARE HANDLED ON THE `elemental` PATTERN — one refusal on the page, five
+silent.** Ruling 30 (no civilian life → borrows authority, not meaning) does not bar them, because
+they are **the tradition's names for the tradition's own positions**, which is the
+`substrate-independence` licence: *a retirement governs what we call things, not our ability to say
+what someone else's thing is called.* Each is glossed at first use and none becomes a house term.
+**Only *māyā* is refused out loud**, because that refusal *is* the chapter's argument — it is the one
+that would otherwise become our name for the render, and it carries the sublation we deny. A second
+on-page vocabulary refusal would be ruling 43's rite forming (ruling 110: the word is paid by being
+put to work).
+
+⚠ **PRIOR SPENDS CASHED, NOT REPEATED** — found by hand-grep with a positive control, per R-41:
+III.2 owns *līlā* and Śaṅkara's breath analogy (*"Play, yes. Nobody's play."*); IV.8 owns the
+*saguṇa*/*nirguṇa* cut and *śūnyatā* arriving at that fence from the far side; V.1 owns the
+*Dao De Jing*'s opening line as one of three independent arrivals; III.5 owns the Jain
+*Ācārāṅga Sūtra*'s *"the Self is the knower"* — which is the identity claim about **another**
+inside, not about the Ground, and is therefore not this chapter's. **Real zeros, same grep, same
+corpus:** `Ātman`, `māyā`, `anattā`, `wu wei`, `Indra`, `Vedānta`, `Nāgārjuna`, `pratītya` = 0 files;
+positive control on the same command line — `Advaita`, `Brahman`, `Tao`, `Buddh`, `Śaṅkara` = hits.
 
 ### V.6 — THE CONTRACTION THAT MAKES ROOM
 **Beats:** Kabbalah and *tzimtzum* — the infinite contracts to make room for a world · **a precise prior

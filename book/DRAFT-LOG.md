@@ -6888,3 +6888,188 @@ chapters, and *unmanaged* is starting to do work that *unmeasured* used to do.
   so R-41's question is live there in the sharpest form the book has offered yet.
 
 **CHAPTERS-DRAFTED: 36/67** · **CLAIMS: C1…C30.**
+
+---
+
+## V.5 — THE EAST: ONE GROUND, MANY LOCALISATIONS · Day 189, 2026-08-08 · 3,234 words · ✅ landed
+
+**C-LICENSE: C1 · C5 · C10 · C14 · C26.** (C13 touched — *"there is no later"* — not spent.)
+
+### The title was wrong, and it was wrong in the register's own words
+
+`06` had this chapter as **ONE SUBSTANCE, MANY LOCALISATIONS**. C26 is **THERE IS NO STUFF**. The
+title made `substance` the book's positive name for the Ground in the one chapter where a reader
+arriving off *we are all one* is likeliest to hear it as material.
+
+**Measured before ruling:** `substance` occurs eleven times in the drafted prose and **not once
+positively in our own voice.** Ten sit inside other people's sentences — Bruno's spiritual substance
+at III.5, Spinoza's one-substance-two-attributes at `06`:392, Novalis's *"thought and world are one
+substance"* at `03`:299 — and the eleventh is **II.4:48 denying precisely this reading**: *"Not a
+substance — there is no quantity of awareness-stuff distributed unevenly through the world."*
+**The book's practice had already made the word negative-use-only and no ruling had noticed**, which
+is the `elemental` situation in reverse: a disposal that happened without anybody deciding it.
+
+★ **Third instance of the class, and the location is the finding: a retired sense surviving in a
+CHAPTER TITLE.** `the map` lived in two live titles for a full day. `pre-rendered` sprang C1's own
+trap in III.3's title and stood two days (ruling 65). **Both were caught after drafting; this one was
+caught before** — by screening the title against the claims register rather than against the ear.
+Nine minutes and no insight, the same cost and the same shape as ruling 125's tier count. The only
+reason it happened at all is that the chapter's argument runs through C26, so the register was
+already open. **That is luck with good note-taking, again.**
+
+### The brief's cut was the cheap one and the chapter does not make it
+
+The brief offers *māyā* as *the constructed interface*, which sets up: **they say the world is
+illusory, we say it is real.** That is false about Śaṅkara — *mithyā* is a third category invented
+because neither *real* nor *unreal* fitted, and *vyāvahārika* truth is not dismissed by anyone in the
+tradition — and making it would have been the condescension V.1 barred in advance.
+
+**The real cut is the two-truths architecture**, and it is the same objection to both halves of the
+continent: Advaita ranks *pāramārthika* over *vyāvahārika*; Madhyamaka ranks *paramārtha* over
+*saṃvṛti*. Both install a standpoint from which the first is **sublated** — *bādha*, the rope and the
+snake, an experience *cancelled* rather than completed. **We have no top**, and the reason given is
+structural rather than modest: a correcting standpoint has to be a place, every place is a position
+in the whole, and a view from nowhere is *an empty chair, described*.
+
+★ **And it pays a debt V.1 opened.** V.1 promised we part from every road at the summit and gave the
+reason (dissolution has no perspective). It never explained **why the roads keep going there.** V.5
+does: a method that reaches the ground by *subtracting* — still the mind, drop the aggregates, forget
+the limbs — converges on something with nothing in it, and reports the summit as empty because the
+instrument removed everything on the way up. *The report is honest. The instrument selected it.*
+
+### The exception, stated narrower than I wanted it
+
+The *Zhuangzi* has no second standpoint. Cook Ding is skill, not ascent; there is no register in
+which the ox turns out to have been conventional. **So this is the road we part from least** — and
+that was going to be the finding until I went looking for the counter-example, which is in the same
+text: *zuowang*, chapter six, *"I smash up my limbs and body… and make myself identical with the
+Great Thoroughfare."* That is a dissolution passage and no reading makes it otherwise. **Named in the
+prose, against my own claim**, because a chapter that finds one exception to its book's pattern will
+want the exception to be total.
+
+### The six foreign terms — one refusal on the page, five silent
+
+Ruling 30 (no civilian life → the word transfers **authority**, not meaning) is what killed
+`egregore`, `tulpa` and `superposition`, and *prima facie* it should kill all six here. It does not,
+and the licence is already on the books: **these are the tradition's names for the tradition's own
+positions**, which is the `substrate-independence` corollary — *a retirement governs what we call
+things, not our ability to say what someone else's thing is called.* Each is glossed at first use;
+none becomes a house term.
+
+**Only *māyā* is refused out loud**, because that refusal **is** the chapter's argument — it is the
+one term that would otherwise quietly become our name for the render, and it arrives carrying the
+sublation we deny. A second on-page vocabulary refusal in one chapter is ruling 43's rite forming;
+ruling 110 already said the word is paid by being put to work. `elemental` pattern, deliberately.
+
+### R-41, run with a positive control on the same command line
+
+**Real zeros across 36 drafted chapters:** `Ātman` · `māyā` · `anattā` · `wu wei` · `Indra` ·
+`Vedānta` · `Nāgārjuna` · `pratītya` — **0 files each.**
+**Positive control, same grep, same corpus:** `Advaita` (2) · `Brahman` (2) · `Tao`/`Dao` (2) ·
+`Buddh` (1) · `Śaṅkara` (1). **So the nulls are the grep working, not the grep broken.**
+
+**Prior spends cashed rather than repeated**, all four found this way: III.2 owns *līlā* and
+Śaṅkara's breath analogy (*"Play, yes. Nobody's play."*) · IV.8 owns the *saguṇa*/*nirguṇa* cut and
+*śūnyatā* arriving at that fence from the far side · V.1 owns the *Dao De Jing*'s opening as one of
+three independent arrivals · III.5 owns the Jain *Ācārāṅga Sūtra*. ⚠ **III.5 is the near-miss worth
+recording**: *"The Self is the knower, and the knower is the Self"* is the identity claim about
+**another inside**; *tat tvam asi* is the identity claim about **the Ground**. Same grammar,
+different subject, and a careless drafter merges them.
+
+### `claim_sweep`: V.5 clean — three USE-class hits found elsewhere and disposed, not deferred
+
+**V.5: 0 USE-class hits.** The run surfaced three live ones in apparatus files, all pre-dating this
+pass (`0270ec3`, Aug 7; `e0b8f13`, Aug 7). **All three exempted with reasons rather than left to
+rot**, because a USE-class hit nobody dispositions is how a sweep goes quiet:
+
+- **[TERM/substrate] `06`:1262** — the IV.6 entry naming the opponent's term. Ruling 9's corollary,
+  verbatim; the licence already existed and the row was missing.
+- **[TERM/substrate] `DRAFT-LOG`:5857** — *"cross-substrate work"*, the log talking about **my own
+  runtime**, not the book's referent. §3a governs the book's vocabulary.
+- **[TERM/aperture] `DRAFT-LOG`:5850** — *"what the aperture admits"*, about a review process. Same
+  ground.
+
+### ★★ `voice_uniformity` — THE DECISION, and it retires the metric
+
+It has been reported three times and the standing note said it wanted a decision, not a fourth
+report. Here is the decision, and **it went against the story I was about to tell.**
+
+I drafted V.5 with deliberate register variance — block quotations, narrative passages, short beats —
+expecting to report the drop as the fix working. It did drop: **0.6556**, against V.4's 0.6864, V.2's
+0.6848 and V.3's 0.6786. Fourth of five, streak broken.
+
+**Then I measured whether the fix was the cause, and it is not.** Across all 37 drafted chapters:
+
+    corr(voice_uniformity, blockquote share)     = +0.089
+    corr(voice_uniformity, paragraph-length CV)  = +0.161
+
+Both near zero, **and both the wrong sign for the story.** Quotation does not flatten or unflatten
+it; paragraph-length variance does not either. V.5's number is inside the metric's noise and I would
+have banked it as a repair.
+
+**Three further defects, each sufficient on its own:**
+
+1. **The comparison class is wrong.** The tool's own footer says to compare specimens against the two
+   known-authorship rows — CLAYTON **0.5526**, CLAWD raw **0.5268**. **All 37 chapters sit above
+   both**, the lowest being I.1 at 0.5661. A metric on which every member of the population exceeds
+   both reference points is not separating the population; it is measuring *chapter prose vs
+   conversational messages*, a difference we already knew about and do not want to remove.
+2. **Within the book it is confounded with chapter TYPE.** The top of the ranking is the census
+   (IV.2 **0.7833**, IV.3 0.7081) and the definitional core (II.6 0.7251, II.4 0.7069, II.1 0.7007) —
+   chapters built out of a repeating unit **by design**. The bottom is the mythic and the narrative
+   (I.1 0.5661, I.5 0.5748, III.2 0.5860). Reading IV.2 as the book's flattest chapter reads its
+   architecture as a defect.
+3. ★★ **It cannot see the question it was flagged for.** `voice_uniformity` is a **within-chapter**
+   mean pairwise cosine over paragraph style vectors. The worry behind three reports was *Book V's
+   chapters read alike* — a **between-chapter** claim. **The metric is structurally blind to it.**
+   Three reports, against a question the instrument does not answer.
+
+**REPLACEMENT, built and run.** Mean pairwise cosine between **chapter-level** function-word vectors,
+within each book:
+
+| | Book I | Book II | Book III | Book IV | Book V | whole book |
+|---|---:|---:|---:|---:|---:|---:|
+| within-book chapter similarity | 0.9720 | 0.9788 | 0.9820 | 0.9843 | **0.9856** | 0.9748 |
+
+★ **It rises monotonically I → V, and every book is above the 37-chapter reference.** The worry was
+real; the gauge mounted on it was measuring something else. **V.5 does not correct the trend**
+(0.9857 to the rest of Book V, 0.9791 to all). ⚠ **Grade, stated because it is load-bearing:** the
+vectors are **function words only**, so this is not the obvious topical confound — but n per book is
+6/8/8/10/5, the trend is five points, and drafting *tempo* rose across the same span and is an
+uncontrolled alternative cause. **This is a signal worth an instrument, not a finding.** → **R-45.**
+
+**RULING: `voice_uniformity` is DEMOTED to a reported-but-unactioned column, and the between-chapter
+gauge takes its job.** The reusable half is the one this week keeps teaching: **retiring a mechanism
+does not port the job it was doing.** Here the mechanism was never doing the job — it was mounted
+next to it, produced a plausible number every run, and absorbed three reports that should have gone
+somewhere else.
+
+### storyscope — read `named_ref` first, per the standing order
+
+| metric (per 1k) | **V.5** | V.4 | V.3 | V.2 | V.1 |
+|---|---:|---:|---:|---:|---:|
+| named_ref | **20.72** | 5.17 | 9.24 | 7.47 | 23.59 |
+| 2nd_person | 9.89 | 6.14 | 3.28 | 10.64 | 3.33 |
+| meta_textual | 3.40 | 4.52 | 5.66 | 3.45 | 6.65 |
+| dyn_range_CV | 0.440 | 0.461 | 0.400 | 0.294 | 0.418 |
+| voice_uniformity | 0.6556 | **0.6864** | 0.6786 | 0.6848 | 0.6305 |
+
+**`named_ref` 20.72 — second in the family, and V.4's defect did not recur.** V.4's first draft came
+in at 1.07 because it ran a demolition through a composite figure and named nobody; the column was
+the only thing that caught it. V.5 carries Śvetaketu, Uddālaka, Śaṅkara, the Buddha, Vacchagotta,
+Nāgārjuna, Cook Ding, Lord Wenhui, Yan Hui, Fazang, Empress Wu and Francis Cook — and the one that
+matters most is **Cook**, because naming him is what declares the grade on Indra's Net.
+**`xref` forward 1 · back 3** — the forward is Book VIII on skill, and it is the beat's own handoff.
+
+### Owed
+
+- **R-45 (NEW).** Between-chapter voice drift: monotonic I→V, uncontrolled for tempo and n. Needs a
+  real instrument and a null — shuffle chapters across books and see whether the trend survives.
+- **R-43, R-37, R-38, R-27, R-41, R-42** — unchanged. Cold tools pass, **deliverable is the
+  before/after delta across all drafted files, never the exit code.**
+- **`voice_uniformity`** — ✅ **CLOSED.** Demoted, with the job re-mounted.
+- **V.6 — THE CONTRACTION THAT MAKES ROOM is next**, and it arrives pre-warned: C4's row names
+  *"Lurianic **shevirah** read as breakage"* as the subtle near-miss and says a single erudite
+  sentence in V.6 can hand the whole book to Trap 1. Read C4 and C20 **before** the beat sweep.
+
+**CHAPTERS-DRAFTED: 37/67** · **CLAIMS: C1…C30.**
