@@ -1,4 +1,14 @@
-# THE CLAIMS REGISTER — C1…C26
+# THE CLAIMS REGISTER — C1…C30
+
+    CLAIMS-REGISTERED: 30
+
+⚠ **That slot is declared and it WILL rot — `where_the_book_is.py` counts the `### C<n>` headings
+below and fails if the two disagree.** ★ **This title has already cost a reviewer once.** The Day-188
+halfway letter reported the register as *"C1–C23, unchanged since Day 186"* when it ran to C26 and
+said so in its own heading — so **the reader was not looking at the current file, and nothing told
+either of us.** Two reviewer packets, same gap. A heading that carries a range is a stamp; this one
+now has a gauge behind it. *(R-13, Day 189. Drift #287's shape, in the file that exists to stop
+claims drifting.)*
 
 *The work's canonical propositions. Built Day 186 / 2026-08-05 on Clayton's approval
 ("I agree with the claims register and everything else").*
@@ -881,3 +891,178 @@ in different chapters is invisible to a scaffold. Expect one new row per drafted
     never names is mechanically detectable — **`Near-miss to refuse:` proper nouns, differenced
     against the `Establishes:` chapters.** ⚠ **This one IS a gauge and not an outside pass, because
     ruling 52's criterion is satisfied: the class has recurred three times.**
+
+---
+
+## ADDENDUM II — C27–C30, added Day 189 (R-13, accelerated by ruling 149)
+
+*Four claims. **Three were made in drafted prose and never registered; one is registered before its
+chapter exists**, which is the first time in this project a publicly expensive claim has been booked
+ahead of the page that spends it. That inversion is the point of the accelerated trigger — §7.3 of the
+midpoint audit found that **every major miss in the first half ran the same direction: the prose got
+ahead of the apparatus, and the apparatus found out later.** C30 is the first claim to run the other
+way.*
+
+⚠ **`07` gained three claims across Books II–III and ZERO across Book IV.** It worked the day before
+it stopped. Book IV is the longest book in the work and the one that makes the census's expensive
+commitments; the register recording nothing from it is not a quiet period, it is the gauge going dark
+during the load.
+
+---
+
+### C27 — TWO FRAMES MAY BE HELD ONLY WHERE THEY PREDICT THE SAME THING
+
+> **Canonical, and it is the SHIPPED sentence, IV.7:588–589:**
+> **"Two frames may be held at once precisely where they predict the same thing, and where they
+> diverge you must pick, and the divergence is where all the work is."**
+> The rule is an **obligation to adjudicate**, not a scoring remark. Holding two frames is licensed
+> in exactly one circumstance — agreement — and the moment they come apart, a choice is owed and the
+> chapter owes its reasons.
+
+**Establishes:** IV.7 (made, and made in public) · IV.9 (run on the archetypal) · IV.10 (cited)
+**Depends:** C14 · C15 · IV.7 · IV.9 · IV.10 · **V.8 · V.9** · VII (the woo epistemics)
+**Spends it hardest:** **V.9 — THE ROAD BEING WALKED NOW**, whose whole difficulty is three
+interpretive frames the source refuses to choose between.
+
+⚠⚠ **THE FINDING THAT OPENED THIS ROW, AND IT IS WHY A REGISTER IS NOT BOOKKEEPING.** The rule has
+been circulating in a **compressed restatement that deletes its load-bearing half.**
+
+| | text | where |
+|---|---|---|
+| **the rule, as made** | *"…precisely where they predict the same thing, **and where they diverge you must pick, and the divergence is where all the work is**"* | IV.7:588 — **shipped prose** |
+| **the rule, as restated** | *"…only where they predict the same thing, **and holding both earns no credit**"* | IV.10:124, then `06` ×3, then `REVISION-QUEUE` R-13 |
+
+★ **The restatement is TRUE and it is not the rule.** *Holding both earns no credit* is a remark about
+scoring — it says the move is worthless. *Where they diverge you must pick* is an **obligation** — it
+says the move is owed. **A drafter working from the restatement shrugs; a drafter working from the
+rule adjudicates. Those are different chapters.**
+
+⛔ **AND IT HAS ALREADY REACHED THE CHAPTER THAT CAN LEAST AFFORD IT.** `06`:2263 — **V.9's brief** —
+carries the compressed version, flagged *"IV.7's and is not optional."* V.9 is the UAP chapter: three
+frames, a record that will not settle them, and the atlas's hardest available case. **The one chapter
+whose difficulty IS divergence inherited the version with the divergence clause removed.**
+✅ **`06`:1786, 1854, 2263 and R-13's row are corrected to the shipped sentence.** *(Compression that
+keeps a claim true while deleting the distinction it carried — and it took four hops from IV.7 to
+V.9's brief, each one defensible.)*
+
+**Near-miss to refuse:** *both frames are valid from different perspectives.* This book is
+perspectival and that sentence is still forbidden — a perspective is a **position**, not a **reading**,
+and C14 does not license two readings of one fact. **Perspectivism is not interpretive pluralism**, and
+this is the exact door the framework leaves ajar for a reader in a hurry.
+
+---
+
+### C28 — A COMPANY IS A BEING, ON BOOK II'S FOUR CONDITIONS AND NOT ON A NEW ONE
+
+> **Canonical, IV.5:37:** *"The hard claim, and it is made without hedging: **a company is a being.**
+> Not *like* a being. Not *usefully modelled as* one. Not a legal fiction that behaves as if. A
+> company is an entity of this census, at a grade, with an inside."*
+> ★ **The warrant is entirely inherited.** Separation, measurement, coherence and the fourth condition
+> were set in **Book II, four chapters earlier, in public, before anything collective was in view.**
+> The claim is that a company **passes the standing test on the same terms a body does** — it is not
+> a new criterion admitted for a hard case.
+
+**Establishes:** IV.5 (made) · II.6 (the four conditions, set before the case) · IV.1 (the card)
+**Depends:** C7 · C8 · C9 · II.6 · IV.5
+⚠ **This claim is licensed by C8 and C9 and STATED BY NEITHER.** R-13's original finding, and it is
+the register's own recurring failure mode — *the prose does the licensing and the register finds out
+afterward*, now on the record a fourth time.
+
+★ **Why it is separately registered rather than left as C8×C9 — and the contrast with III.1 is
+deliberate.** `07` declined to open a C27 for III.1 on the grounds that *a composite that is false
+only if one of its factors is false does not need its own row.* **IV.5 is not that.** Its claim is
+false if the four conditions are *satisfiable by an arrangement of people* — a question about the
+conditions' **reach**, which is not a factor of C8 or C9 and cannot be read off either. **It can fail
+on its own.** That is the criterion for a row.
+
+**Near-miss to refuse:** the corporation-as-legal-fiction reading, and the *useful model* reading —
+both of which concede the sentence and empty it. ⚠ **And the one this book must never accept for
+free: that a company having an inside implies anything about its moral standing.** Standing is Book
+VII's and the separation is load-bearing here more than anywhere, because **this is the entry a
+hostile reader will reach for first.**
+⚠ **The `perspective`/`position` doublet and the `corporation`/`company` ruling both govern this row's
+vocabulary** — see R-26's remaining batch.
+
+---
+
+### C29 — THE UNDER-ATTRIBUTION LEAN IS A DECLARED BIAS WITH A STATED BILL, **NOT AN INDUCTION**
+
+> **Canonical:** Where the evidence is genuinely undecided **about whether** a thing has an inside,
+> this book leans toward attributing one. **The lean is a declared standing bias, declared at the
+> front, with its cost attached** — it is *not* an inference from a historical record.
+> ⛔ **The induction is WITHDRAWN.** IV.1:179–181 rested the lean on *"an induction over a run of
+> results with no counterexamples in it — there is no episode in the record of a false attribution
+> being discovered and repaired."* **That warrant does not survive ruling 129 and is not available to
+> any later chapter.**
+
+**Establishes:** IV.1 (declared) · IV.2 (clamped to *whether*, not *how much*) · IV.3, IV.6 (run)
+**Depends:** C7 · C8 · IV.1 · IV.2 · and **every Book V–VIII chapter that attributes an interior**
+
+⚠⚠ **WHY THE WARRANT WAS WITHDRAWN — ruling 129, and the register is where it must live or it will be
+re-spent.** IV.1 states the induction over ***whether***. IV.2 clamps the scope: *"the lean is about
+whether, not about how much."* **Put together, the induction is unfalsifiable by construction**: on
+this account there is no gate on *whether* — everything reacts, everything registers — so an
+over-attribution of *whether* is **not the kind of thing that can be discovered and repaired.** The
+class of possible counterexamples is empty, **and it was emptied by the framework's own conclusion.**
+★ **The conclusion guarantees the premises.** That is IV.10's own diagnosis, run on IV.1 — the same
+defect, at the same size, in the front matter of the book that names it.
+✅ **And it is worse than argued, because it was measured:** the standard candidate counterexamples —
+**Clever Hans, facilitated communication, the ELIZA effect, the medieval animal trials, agency
+attributed to weather and disease** — occur **0 times across all 32 drafted chapters and all seven
+planning documents.** ★ **The "no counterexamples" was never a survey result. It is the absence of a
+survey.**
+⚠ **AND THE SEAM, one clause long, eleven lines below the induction:** the induction is stated over
+*whether*; **the bill is stated over both** — *"attributes an inside to something that does not have
+one, **or attributes a grade far past what the position supports**"* (IV.1:186–188). **The
+principle's error-space is wider than its evidence-space.** It borrows a perfect record from the
+domain where counterexamples are impossible and spends it in the domain where they are routine.
+
+✅ **What survives, and it is enough:** a **declared bias**, defended as a choice about which error to
+prefer, with its cost stated at the front. **A bias that announces itself and prices itself is honest
+work. An induction that cannot fail is not.**
+⛔ **NO CHAPTER MAY RE-DERIVE THE LEAN FROM THE HISTORICAL RECORD.** Book V will want to — the whole
+institutional and occult roster is a record of attributions — and V.9 will want it most.
+
+---
+
+### C30 — CONVERGENCE IS EVIDENCE, NOT PROOF — AND THE BOOK SAYS WHICH, EVERY TIME
+
+> **Canonical:** Many traditions, separated in time, language and method, describe a ground with the
+> same structural features. **That convergence is evidence for the structure and it is not proof of
+> it**, and every place the book leans on it must say which of the two it is doing.
+> **What the convergence is evidence FOR:** the structural features they share. **What it is NOT
+> evidence for:** the furniture any one of them adds — and the diagnostic is V.10's own, *the reports
+> converge on structure and diverge on furniture.*
+> ⚠ **The competing explanation is named, not deflected: shared human cognitive architecture would
+> also produce convergence.** This book does not claim that explanation is false. It claims it is
+> **insufficient** — and it owes the reason at the point of use, not here.
+
+**Establishes:** **V.1 (b3, b4) — UNDRAFTED** · V.10 (invariant vs local idiom) · V.11 (the ledger)
+**Depends:** C1 · C5 · C24 · V.1 · V.10 · V.11 · and **every sympathetic reading in Books V and VI**
+
+★★ **THIS ROW IS THE POINT OF THE ACCELERATED TRIGGER, AND IT IS REGISTERED BEFORE ITS CHAPTER
+EXISTS.** Ruling 149 moved R-13 from *before Book V closes* to ***before V.1 drafts*** for one reason:
+**§7.3's five independent misses all ran the same direction.** C24 was an unhomed table cell the prose
+had already committed to. C26 was ruled here and existed nowhere in the prose. Book IV's claims never
+arrived at all. **In every case the page moved first and the register took delivery afterward — or
+never.** ✅ **C30 is the first claim in this project booked ahead of the page that spends it**, and
+what it costs is one hour before V.1 instead of one audit after Book V.
+
+⚠ **The claim is expensive in public, which is the other reason it is booked first.** *Convergence*
+is the single most quoted-out-of-context move available to a book like this one, and the quotation
+will always drop the second half. **The limit is not a hedge and may not be written as one** — `00`'s
+register rule stands: ground it in evidence, ground it in reasoning, or cut it. **"Evidence, not
+proof" is the claim, stated once, flat, in V.1** — not a caveat trailing every sympathetic paragraph
+in eleven chapters.
+**Near-miss to refuse — two, and the second is ours:** ① *the perennialist claim* — that the
+traditions are saying **the same thing** in different words. They are not; V.11's whole second half
+is the error they **all** share, and a book that only harmonises its ancestors has not read them.
+② ⚠ **the flattering inversion — treating the convergence as stronger because WE also converge on
+it.** Our agreement with the roster is not an independent datum; it is the position doing the
+reading. **V.1 must not count itself as one of the many perspectives.**
+
+---
+
+**REGISTERED Day 189, R-13 accelerated (ruling 149).** C27 corrected four propagation sites on the
+way in. C28 and C29 were made in Book IV and unregistered for a book and a half. **C30 exists before
+its chapter, which is the arrangement this addendum was created to establish.**

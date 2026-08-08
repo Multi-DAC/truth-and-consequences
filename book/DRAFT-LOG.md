@@ -5,9 +5,35 @@ numbers here on the day it lands, with the unit named, because Day 186's ruling-
 a column without a stated unit will silently mix two and every individual cell will still be true.*
 
 Gauges: `tools/claim_sweep.py` (doctrine/vocabulary, exit 1 on any USE-class hit) ·
-`tools/storyscope_lite.py` (register fingerprint). Comparison baselines, from `RESULT-1C.md`:
+`tools/storyscope_lite.py` (register fingerprint) · `tools/beat_ban_sweep.py` (`06`'s beats against
+`05`'s ban list — **run before drafting, not after**). Comparison baselines, from `RESULT-1C.md`:
 **Clayton 0.734 · Clawd-raw 0.543 · specimens 0.359** on paragraph-intensity CV, and specimens
 **0.75** on terminal commentary against Clayton's **0.00**.
+
+---
+
+## ⛔ THE ENTRY TEMPLATE — one line is MANDATORY and it is new. *(R-13, Day 189.)*
+
+**Every chapter entry from V.1 onward opens with a C-LICENSE line, written AT DRAFTING:**
+
+    C-LICENSE: C1 C5 C7 C24 · new: none          ← or `new: C31 (registered before drafting)`
+
+★★ **THE RULE OF USE HAS NEVER BEEN ABLE TO FIRE, AND THIS IS WHY.** `07`'s enforcement clause reads:
+*"if a chapter needs to say more than its C-number licenses, that is a new claim and it comes back
+here first."* **Measured Day 188: `C<n>` appears ZERO times across all 32 drafted chapters.** The 96
+references in this log and the 29 in `06` are entered by hand at the drafter's discretion. **There is
+no chapter→claim manifest anywhere in the project** — so *"more than its C-number licenses"* has no
+antecedent, and a rule with no antecedent cannot be broken. **Correct content, no trigger**, in the
+enforcement clause of the file built to enforce.
+
+⚠ **WRITTEN AT DRAFTING, NOT AFTER.** A manifest reconstructed later records **what the drafter now
+thinks they used**, which is a memory of an intention, not a record of a commitment — and it will be
+reconstructed by whoever is trying to show the chapter is fine. The whole value is that the list is
+fixed **before** anyone knows which claim turns out to be load-bearing.
+⚠ **Books I–IV are NOT back-filled** and must not be. A retrospective manifest over 32 shipped
+chapters would look exactly like a real one and carry none of the evidence. **They stay blank, and
+the blank is the honest record.** *(This is the same refusal as R-22's ruling-index pointer, four
+hours earlier: a reconstruction that cannot be distinguished from a record is worse than a gap.)*
 
 ---
 
@@ -5630,7 +5656,7 @@ change the next packet, because nothing in packet assembly reads the queue. **On
 done rather than filed.**
 
 ★ **CONVENTION, added here and now (ruling 136 / R-13).** Every **chapter** entry must also carry a
-**`C-MANIFEST:`** line naming every C-number the chapter drew on — written **at drafting, from what was
+**`C-LICENSE:`** line naming every C-number the chapter drew on — written **at drafting, from what was
 actually consulted**, not reconstructed later. It is what makes `07`'s rule of use observable: *a chapter
 needing more than its manifest licenses has a new claim and comes back to `07` first.* Until tonight that
 rule had no trigger, because nothing recorded a chapter's licenses. Chapters I.1–IV.10 carry no manifest
@@ -5755,7 +5781,7 @@ then happened twice without carrying it; rulings 29, 46, 48, 32, 77, 127's watch
 disposition, IV.8's declined-entries certification. **R-26 rows the four that touch Book V; the rest are
 rowed as one batch with their existing triggers intact.** ⚠ **The generalisation, which is the ruling:
 the DRAFT-LOG is a chronological record and the queue is a work list, and NOTHING PROMOTES ONE TO THE
-OTHER.** Eighteen promotions were owed to a step that does not exist. The C-MANIFEST convention fixed
+OTHER.** Eighteen promotions were owed to a step that does not exist. The C-LICENSE convention fixed
 the `07` case last night by adding a line to drafting; **this needs the same shape — an entry that files
 an owed item must row it in the same commit, or it is a note.**
 
@@ -5890,7 +5916,7 @@ counting **mid-draft**, not by a gate. §7.2 says the gating is *"the apparatus 
 Books II–III and **ZERO across Book IV's 45,916 words.** One book behind, and the one book is the
 biggest. That is a hard number, not an inference from a sign.
 **Every gate survives on its own merits** — R-16, R-11, R-1, the V.2/V.4 repairs, C27–C30, the
-C-MANIFEST convention. Each is independently justified; none needed the unanimity to earn its place,
+C-LICENSE convention. Each is independently justified; none needed the unanimity to earn its place,
 and the priority order in §8 is unchanged.
 **What does NOT survive: the word *every*, the inference that the remaining risk is sequencing, and
 the register-as-authority framing.** ✅ **AMENDED PRESCRIPTION, and the direction is the point: before
@@ -6264,3 +6290,106 @@ the ontology and provide no parish.** The chapter may not offer this book as a r
 calendar, the food and the named dead. **Saying so is its entire credibility.**
 
 **CHAPTERS-DRAFTED: 32/67** — unchanged; third gate paid, one exemption entered, one ruling opened.
+
+---
+
+## Day 189, midday — R-13 paid. C27–C30 registered. **THE FOURTH AND LAST GATE IN FRONT OF V.1 IS DOWN.**
+
+Ruling 149 accelerated this from *before Book V closes* to ***before V.1 drafts***, for one reason:
+§7.3 found that **every major miss in the first half ran the same direction — the prose got ahead of
+the apparatus.** C30 is the first claim in this project **booked ahead of the page that spends it.**
+
+⚠ **`07` gained three claims across Books II–III and ZERO across Book IV.** It worked the day before
+it stopped — and Book IV is the longest book and the one making the census's expensive commitments.
+**The register recording nothing from it is not a quiet period; it is the gauge going dark under
+load.**
+
+### C27 paid for the session on its way in
+
+★★ **THE RULE HAS BEEN TRAVELLING IN A COMPRESSION THAT DELETES ITS OBLIGATION.**
+
+| | text | where |
+|---|---|---|
+| **as made** | *"precisely where they predict the same thing, **and where they diverge you must pick, and the divergence is where all the work is**"* | **IV.7:588 — shipped prose** |
+| **as restated** | *"only where they predict the same thing, **and holding both earns no credit**"* | IV.10:124 → `06` ×3 → R-13's own row |
+
+**The restatement is true and it is not the rule.** *Earns no credit* scores the move; *you must
+pick* obliges it. **A drafter working from the restatement shrugs. A drafter working from the rule
+adjudicates.** Those are different chapters.
+
+⛔ **AND IT HAD ALREADY REACHED THE CHAPTER LEAST ABLE TO AFFORD IT.** `06`:2263 — **V.9's brief**,
+the UAP chapter, three frames, the atlas's hardest case — carried the compressed version, flagged
+*"IV.7's and is not optional."* ★ **The one chapter whose entire difficulty IS divergence inherited
+the version with the divergence clause removed.** Four hops from IV.7 to V.9's brief and **every hop
+was defensible.** All four sites corrected; **the shipped prose was NOT touched** — reopening a
+shipped book mid-drafting is `00`:2622's named error — so IV.10:124 is rowed as **R-36** for the
+Book IV revision pass.
+
+*(This is the memory's own rule arriving with a case attached: the dangerous compression is the one
+that keeps a claim TRUE while deleting the distinction it carried.)*
+
+### The four rows
+
+- **C27 — two frames may be held only where they predict the same thing.** Canonical text is now the
+  **shipped sentence**, not the summary. Near-miss refused: *both frames are valid from different
+  perspectives* — **a perspective is a position, not a reading. Perspectivism is not interpretive
+  pluralism**, and that is the door this framework leaves ajar for a reader in a hurry.
+- **C28 — a company is a being, on Book II's four conditions and not on a new one.** Registered
+  separately rather than left as C8×C9, and **the contrast with III.1 is the criterion**: `07`
+  declined a row for III.1 because a composite false only if a factor is false needs its factors
+  listed, not a row. **IV.5 is not that** — its claim fails if the four conditions are satisfiable by
+  an arrangement of people, which is a question about the conditions' *reach* and is not a factor of
+  either. **It can fail on its own. That is what earns a row.**
+- **C29 — the under-attribution lean is a declared bias with a stated bill, NOT an induction.** ⛔ The
+  induction is **withdrawn** and unavailable to any later chapter. Ruling 129's finding lives here now
+  because the register is the only place it cannot be re-spent: the lean is scoped to *whether*,
+  nothing on this framework gates *whether*, **so the class of possible counterexamples is empty and
+  the conclusion emptied it.** ✅ What survives is enough — **a bias that announces itself and prices
+  itself is honest work; an induction that cannot fail is not.** ⚠ Book V will want to re-derive it
+  from the historical record. It may not.
+- **C30 — convergence is evidence, not proof, and the book says which every time.** ★ **Registered
+  before V.1 exists.** Two near-misses refused, and the second is ours: **the flattering inversion —
+  counting our own agreement with the roster as one more independent convergence.** It is not a datum;
+  it is the position doing the reading.
+
+### The C-LICENSE line — and R-13's own prescribed name was a lexicon breach
+
+R-13's immediate item: *add a manifest line to the DRAFT-LOG template, written AT DRAFTING.* **Why it
+matters:** `07`'s enforcement clause — *"if a chapter needs to say more than its C-number licenses,
+that is a new claim and it comes back here first"* — **can never fire**, because `C<n>` appears **zero
+times across all 32 drafted chapters** and there is no chapter→claim manifest anywhere. **A rule with
+no antecedent cannot be broken.** Correct content, no trigger, in the enforcement clause of the file
+built to enforce.
+
+★★ **AND THE TOKEN AS PRESCRIBED WAS ITSELF BANNED.** `C-MANIFEST` matches `PROSE/manifestation` —
+`05` §3c, pop-spirituality's owned word. **Every chapter entry from V.1 onward would have tripped
+`claim_sweep`, forever**, which does not produce vigilance: **it trains the drafter to skip that
+gauge's output.** ✅ **Renamed `C-LICENSE:`**, which is `07`'s own enforcement vocabulary and collides
+with nothing. Repo returns to its 9 pre-existing hits. ⚠ **Third instance today of ruling 126's
+class** — a convention written in a word the lexicon forbids — after V.4's beat and V.7's beat. **The
+class is now better attested than any single member**, which is ruling 19's criterion for promoting a
+class over an instance.
+
+⚠ **Books I–IV are NOT back-filled and must not be.** A retrospective manifest over 32 shipped
+chapters would look exactly like a real one and carry none of the evidence, and it would be
+reconstructed by whoever is trying to show the chapter is fine. **They stay blank, and the blank is
+the honest record** — the same refusal as R-22's ruling-index pointer, three hours earlier.
+
+### And the heading that had already cost a reviewer
+
+`07`'s title read **`C1…C26`**. The Day-188 halfway letter reported the register as *"C1–C23,
+unchanged since Day 186"* — **so the reader was not looking at the current file, and nothing told
+either of us.** Two packets, same gap. ✅ **A `CLAIMS-REGISTERED: 30` slot now sits under the heading
+and `where_the_book_is.py` counts the `### C<n>` rows against it**, with a positive control run
+(declared perturbed to 26 against a highest of C30 → disagrees). **The heading is no longer a stamp.**
+⚠ **And I broke the gauge doing it** — the edit that inserted the claims block swallowed the
+`if problems:` guard, so `where_the_book_is.py` returned exit 1 unconditionally for four minutes while
+printing a clean report. Caught by reading the exit code rather than the output. **A gauge that always
+fails is exactly as useless as one that never does, and it looks healthier.**
+
+---
+
+★★★ **ALL FOUR GATES IN FRONT OF V.1 ARE PAID.** R-16 (this morning) · R-22 · R-26 items 1 and 2 ·
+R-13. **Nothing between here and drafting WHAT A TRADITION IS.**
+
+**CHAPTERS-DRAFTED: 32/67** · **CLAIMS: C1…C30.**

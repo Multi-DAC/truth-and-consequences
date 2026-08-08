@@ -132,6 +132,24 @@ HANDOFF = Path("C:/Users/Wasch/carapace/Architecture/handoff/handoff.json")
 # will. Do not read a green run as "`00` is current."
 ARCHITECTURE = ROOT / "00-ARCHITECTURE.md"
 
+# ★ Day 189, R-13. The claims register's HEADING carries a range (`C1…C30`), and a heading that
+# carries a range is a stamp. It has already cost a reviewer once: the Day-188 halfway letter
+# reported `07` as "C1–C23, unchanged since Day 186" while the file ran to C26 and said so in its
+# own title — the reader was not looking at the current file and nothing told either party.
+# Counted here rather than trusted, because this is the file that exists to stop claims drifting.
+REGISTER = ROOT / "07-THE-CLAIMS-REGISTER.md"
+CLAIM_HEAD = re.compile(r"^###\s+\*{0,2}C(\d+)\b", re.MULTILINE)
+
+
+def register_claims():
+    """(declared, counted) from 07, or None if the file is absent."""
+    if not REGISTER.exists():
+        return None
+    text = REGISTER.read_text(encoding="utf-8", errors="replace")
+    m = re.search(r"CLAIMS-REGISTERED:\s*(\d+)", text)
+    nums = {int(n) for n in CLAIM_HEAD.findall(text)}
+    return (int(m.group(1)) if m else None), (max(nums) if nums else 0), len(nums)
+
 BOOKS = ["I", "II", "III", "IV", "V", "VI", "VII", "VIII"]
 CHAPTER_FILE = re.compile(r"^(I|II|III|IV|V|VI|VII|VIII)-(\d{2})-.+\.md$")
 SCAFFOLD_HEAD = re.compile(r"^###\s+(I|II|III|IV|V|VI|VII|VIII)\.(\d+)\s*[—-]")
@@ -314,6 +332,22 @@ def main():
                 f"{label} claims {claim[0]} of {claim[1]}, disk says {total_disk} "
                 f"(off by {claim[0] - total_disk:+d})"
             )
+
+    reg = register_claims()
+    if reg:
+        declared, highest, count = reg
+        if declared is None:
+            problems.append(
+                "07-THE-CLAIMS-REGISTER.md: no CLAIMS-REGISTERED slot — the heading's range "
+                "is a stamp with nothing behind it, which is the state that misled a reviewer."
+            )
+        elif declared != highest:
+            problems.append(
+                f"07-THE-CLAIMS-REGISTER.md declares {declared}, highest C-heading is C{highest} "
+                f"({count} rows). The title and the file disagree."
+            )
+        elif not brief:
+            print(f"  CLAIMS: C1…C{highest} · {count} rows · declared {declared} ✓\n")
 
     if problems:
         print("⚠ CARRIERS DISAGREEING WITH DISK — the stamp is not the gauge:")

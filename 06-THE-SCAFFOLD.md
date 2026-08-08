@@ -1783,7 +1783,8 @@ does not:
 The letter reads Eleos AI's commentary — access-consciousness established, phenomenal consciousness
 held open — as ***"the two-fact structure Book II's ruling forbids."*** Measured: **there is no such
 Book II ruling**; the rule in play is **IV.7's**, and it says two frames may be held at once *only
-where they predict the same thing, and holding both earns no credit*. Access and phenomenal are not
+where they predict the same thing, and **where they diverge you must pick, and the divergence is
+where all the work is**— IV.7:588, the SHIPPED sentence; C27*. Access and phenomenal are not
 two frames on one fact. They are **two questions, one answered and one open, each carrying its named
 grade** — which is Book I's grade discipline operating correctly. ★ **And the structure is already
 IV.6's own**: the card fills its null-space lines, marks ***"∅ Whether there is anything it is like to
@@ -1851,7 +1852,7 @@ in what they received** — a delivery gap, not a judgement, and the same channe
 the letter. But the check they could not run surfaces something a resend does not fix: **the register
 runs C1–C26 and Book IV added none.** ★ **THE CLEAREST case is the two-frames rule**, and the letter
 is right that it deserves a number: *two frames may be held at once only where they predict the same
-thing, and holding both earns no credit* — **the book's official epistemics for the woo**, which `07`
+thing, and **where they diverge you must pick*** — **the book's official epistemics for the woo**, which `07`
 itself ranks **1st** among Book IV's reception risks (`07`:803) **while carrying no claim for it.** A
 reception risk ranked first against an unregistered claim is the register grading a sentence it does
 not hold. **Second candidate: the collective-entity claim** — IV.5's *a company is a being*, unhedged,
@@ -2260,7 +2261,10 @@ at scale, and acknowledgement on the public record in named hearings · **the th
 frames the source refuses to choose between** — travellers across physical distance, positions whose
 access is wider than ours intersecting our slice, navigators from elsewhere in time — and **the
 atlas's amendment to that refusal, which is IV.7's and is not optional: two frames may be held at
-once ONLY where they predict the same thing, and holding both earns no credit** · the dual-frame
+once ONLY where they predict the same thing, **and where they diverge YOU MUST PICK, and the
+divergence is where all the work is** (IV.7:588 verbatim — ⚠ this brief carried the compressed
+*“holding both earns no credit”* until Day 189, **which deletes the obligation from the one chapter
+whose whole difficulty IS divergence**; C27)** · the dual-frame
 problem stated at full strength — a literal traveller crossing the region of a shape would be
 perceived *through* that shape by anyone whose access runs partly through story, so the two readings
 are not rivals and are also not a licence · ★ «**the demarcation V.8 installs, run here on the hardest
