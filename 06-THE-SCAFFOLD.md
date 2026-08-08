@@ -2134,7 +2134,7 @@ the only place anything is ever the case.** Said here, on arrival, so that ten c
 exposition cannot be read as endorsement of where they were all walking. **Cartographers we credit;
 travellers we part from.**
 
-### V.2 — THE CHURCH THE READER LEFT
+### V.2 — THE CHURCH THE READER LEFT ✅ DRAFTED — 3,479 words
 **Beats:**
 
 1. **The church at its best, in particulars, before a word of assessment.** Not *"institutional
@@ -2181,6 +2181,30 @@ a second time**: named at II.1 as a credential, cashed here as a cost.
 `Christian` once in IV.8 — four sentences in thirty-two chapters.** This chapter is not a quarry job
 and there is nothing to pre-spend; **the whole institutional half of Book V is written from scratch**,
 which is why `06` schedules it first.
+
+✅ **DRAFTED Day 189 · 3,479 words · `book/V-02-the-church-the-reader-left.md`.** All five beats
+land. Beat 1 runs 900 words of particulars — the rota with a three-week column, the liturgy that does
+not run on the celebrant's inner state, the calendar that gives a grief a date, the fixed sentence
+that is nearer *it is dealt with* than *it's all right*, the dead read aloud in November — with no
+evaluation in it, so the reader cannot tell in the first paragraph which way it comes out. One card,
+**INSTITUTIONAL CHRISTIANITY**, placed after the credit and before the cut because its NULL SPACE
+line (*a ground that is not somebody*) is where the cut begins.
+★ **THE BEAT-3 CUT IS MADE AS A FORK, NOT A DENIAL, AND IV.8 IS WHAT MADE THAT AVAILABLE.** The atlas
+already ruled that a god with predicates is meetable and checkable *because* it has predicates, and
+that the fatal move is the **promotion** to the ground. So V.2 does not say the prayer went nowhere;
+it says the church's sentence asked one entity to be both a being and the ground of beings, and
+**the conjunction is what cannot be had — neither half fails alone.** II.1:93 is cashed, not
+re-argued, exactly as this brief required.
+★★ **A THIRD STOPPING POINT WAS FOUND, IN OUR OWN FRONT MATTER, AND IT IS NOT IN THIS BRIEF.**
+`04`'s opponent-III entry rules the church's failure as **authority substitution**; beat 3 rules it as
+**the face**. Both are on the page now — authority substitution granted at full strength and then
+killed by a test (*imagine a church that fixed it completely; several exist; the fork is untouched in
+all of them*), which makes it a failure of the institution and not a limit of the account. ⚠ **No
+gauge in this project would have caught that collision**: every beat instrument runs beats against
+drafted prose, and this was a brief against front matter. → **R-39.**
+⛔ **The no-parish clause held, and it was spent forward as well as back**: Book VIII is named at the
+point where implying otherwise would be easiest and denied the rescue — *a rota is not a practice, it
+is other people, and a book cannot supply other people.*
 
 ⚠⚠ **BRIEF REWRITTEN DAY 189 — R-26 item 1, filed twice in the DRAFT-LOG and rowed zero times. ★ AND
 THE REMEDY AS FILED WAS WRONG, WHICH IS THE FIFTH MEASUREMENT THIS DAY TO DISAGREE WITH THE SUMMARY

@@ -253,3 +253,75 @@ apparatus found out later.** Five independent failures, one sign. **No gauge in 
 taken that measurement** — each reads one file or one chapter, and the finding lives in the correlation
 across five. ★ **The second half is drafted AGAINST the register and the queue, not merely with them:
 claims registered before their chapters, beats screened before drafting, the manifest live from V.1.**
+
+---
+
+### R-38 — `tools/storyscope_lite.py`: the chapter row is cleaned and the baseline rows are not
+
+**Filed Day 189 at V.2, by trying to repair flat escalation and failing to move it.** Two paragraphs
+were genuinely re-registered for rhythm and `dyn_range_CV` went **0.295 → 0.294**. Localising the
+flatness instead of filing *still flat* a twelfth time turned up a measurement asymmetry inside the
+table.
+
+`load_prose_file()` strips `**` from a chapter before profiling it. `load_memory_corpora()` strips
+nothing — the `CLAYTON` and `CLAWD-raw` rows are raw conversational text. The two are printed side by
+side on a metric the stripping demonstrably moves.
+
+**The mechanism is exact and it is a silent one:**
+
+    sentences() splits on  (?<=[.!?])\s+(?=[A-Z"'*—])
+
+A sentence ending inside a bold span ends on `*`, not on `.`, so **the lookbehind fails, no split
+happens, and two sentences are measured as one.** Bold-heavy prose therefore reports artificially long
+sentences in exactly its most emphatic paragraphs, which inflates the spread. On V.2: **7 paragraphs
+affected, raw CV 0.393 against cleaned 0.294** — a third of the spread was markdown.
+
+★ **RUN COLD ON THE THREE BASELINES BEFORE FILING, WHICH IS THE TEST THAT COULD HAVE KILLED IT:**
+
+| corpus | as loaded | de-bolded | `**` count |
+|---|---:|---:|---:|
+| CLAYTON | 0.477 | **0.474** | 40 |
+| CLAWD-raw | 0.509 | **0.449** | 7,126 |
+| SPECIMENS | 0.385 | **0.385** | 0 |
+
+✅ **The defect is real and it does NOT exonerate the prose, which is the part worth keeping.** It is
+worth **0.060 on one baseline of three**. Clayton's corpus barely uses bold and the specimens contain
+none, so both of those comparisons were always clean — and V.2 is under both. The correction I went
+looking for exists, and it explains a quarter of one gap and none of the other two.
+
+★★ **What it does change is which number this book has been aiming at.** The flat-escalation warn has
+been read against `CLAWD-raw` at 0.509 — Telegram prose, 7,126 bold markers, inflated by this bug.
+**The ruled-register specimens sit at 0.385, are markdown-free, and are the register Clayton actually
+ruled.** Against the right baseline the deficit is **0.09, not 0.22.**
+
+⚠ **DO NOT PATCH IT WHILE DRAFTING.** Same standing reason as R-37, one day later: the fix can only
+move the chapter's own number in the flattering direction, and it was found by the party it flatters,
+in the hour it fired. **Trigger: the next tools pass, with R-37 and R-27. The deliverable is the
+before/after delta across all 34 drafted chapters, not the exit code** — and the second finding is in
+the chapters whose numbers move *most*, because those are the ones whose reported register was most a
+function of their formatting.
+
+---
+
+### R-39 — no gauge compares a brief against the front matter that already ruled the same question
+
+**Filed Day 189 at V.2, and it is a null space rather than a bug.** `04`'s opponent-III entry rules
+that institutional religion stops answering at **authority substitution** — *"it converts a question
+into a loyalty test."* `06`'s beat 3 for the chapter that discharges opponent III rules that it stops
+at **the face**. Two documents, two different answers to one chapter's central question, both current,
+neither aware of the other.
+
+**Nothing in this repo could have found that.** `prose_beat_sweep`, `beat_sweep`, `beat_delivery` and
+`prose_echo` all run beats against **drafted prose**; `beat_ban_sweep` runs beats against `05`'s ban
+list. The `04 × 06` pair — the file that declares what each opponent gets wrong against the file that
+briefs the chapter delivering it — is swept by nothing. V.2's collision was found by reading `04` on
+a hunch while drafting, which is the discovery mode this project keeps ruling insufficient.
+
+⚠ **Scope: five opponents, and V.2 is the only one whose chapter has been drafted.** Opponents I, II,
+IV and V are all discharged by chapters in Books V–VIII that do not exist yet, so every one of those
+pairs is unchecked and will stay unchecked at exactly the moment it matters — the hour the chapter
+gets drafted from `06` alone.
+
+**Trigger: before V.4 opens** (opponent IV, pop-spirituality, and `05` §3c's whole ban list is
+downstream of that entry). Cost: small — it is `prose_beat_sweep`'s embedding arm pointed at a
+different pair of files.

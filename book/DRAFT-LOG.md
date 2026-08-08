@@ -6483,4 +6483,116 @@ deflation section rather than an insertion, and an insertion is what would have 
 hour. → filed with the Book V pass, not as a queue row against a chapter that has not been read
 cold yet.
 
-**CHAPTERS-DRAFTED: 33/67** · **CLAIMS: C1…C30.**
+---
+
+## V.2 — THE CHURCH THE READER LEFT · Day 189, 2026-08-08 · 3,479 words · ✅ landed
+
+    C-LICENSE: C5 C6 C9 C16 C17 C24 · new: none
+
+**The hardest chapter in Book V's plan and the one with nothing to quarry** — `church` appears once
+each in II.1, II.8 and IV.9 and `Christian` once in IV.8, four sentences in thirty-two chapters, so
+the whole institutional half was written from scratch. It is also the chapter whose brief was
+rewritten this morning, and the rewrite is what made it draftable: five numbered beats with named
+particulars and an exact stopping point, against a previous version whose central beat matched three
+chapters in three different books.
+
+| metric (per 1k words unless noted) | V.2 | V.1 | IV.1 | |
+|---|---:|---:|---:|---|
+| **2nd person** | **10.64** | 3.33 | 7.32 | ✅ **V.1's owed item, paid on the page rather than deferred** |
+| meta-textual | 3.45 | 6.65 | 5.12 | ✅ lowest of the three |
+| vague allusion | **0.00** | 0.00 | 0.366 | ✅ one hit found and repaired pre-commit |
+| terminal commentary | **0.00** | 0.054 | 0.125 | ✅ |
+| announcement | 1.15 | 0.91 | 2.20 | — mid |
+| named reference | 7.47 | 23.59 | 8.78 | — V.1 is the roster chapter; this one is not |
+| paragraph-intensity CV | **0.294** | 0.418 | 0.364 | ⚠ **flattest in Book V — audited below** |
+| voice uniformity | 0.6848 | 0.6305 | 0.629 | ⚠ flat, unchanged axis, twelve chapters running |
+
+`claim_sweep --prose`: **zero USE-class hits in the chapter.** The three that fired are pre-existing
+lines in `06` and this log, and are not this chapter's.
+
+### The pre-draft sweep came back clean, and that is itself the finding
+
+`prose_beat_sweep --chapter V.2` returned **0 spent · 0 traces · 1 exempt** across 33 chapters and
+1,582 paragraphs. The one exempt is the designed quotation of `II.1:93` — beat 3's top match at
+**cos 0.744**, entered in `beat_sweep.EXEMPT` this morning when the brief was rewritten. Beat 1's top
+match was `III.3:9` at 0.677 on the word *already*, which is noise.
+
+★ **The sweep reads drafted prose and cannot read the apparatus, and the apparatus is where the
+collision was.** `04`'s opponent-III entry rules that the church's stopping point is **authority
+substitution** — *"it converts a question into a loyalty test."* `06`'s rewritten beat 3 rules that it
+is **the face**. Two documents, two different answers to the chapter's central question, and no gauge
+in this project compares them, because every beat instrument runs beats against *prose* and this was
+brief against front matter. Handled on the page rather than by picking one: authority substitution is
+granted in full, credited as real, and then **killed by a test** — imagine a church that fixed it
+completely, which is a description of several real ones, and the fork is untouched in every one of
+them. That makes it a failure of the institution and not a limit of the account, which is a stronger
+disposal than `04` had. → **R-39 filed: `04`'s opponent entries have never been swept against the
+beats that discharge them.**
+
+### The fork, and why it is not the argument II.1 already made
+
+Beat 3 cashes `II.1:93` — *"Tillich took away God's face and kept the direction of prayer. The face
+and the direction go together"* — rather than re-deriving it. What V.2 adds is the price, and the
+price needed **IV.8's** ruling to be exact rather than sad: a god with predicates is meetable and
+checkable *precisely because* it has predicates, and it is the **promotion** to the ground that
+deletes it. So the chapter forks instead of denying. If you were addressing somebody, the prayer went
+somewhere and what fails is the church's actual sentence — *this is the one there is, and it is what
+everything is made of.* If you were addressing the ground, there is no addressee, in the way there is
+no addressee in a direction. **The conjunction is what cannot be had, and neither half fails alone.**
+
+⚠ **The paragraph I expect to be argued with** is the refusal of the obvious repair: *there are
+insides everywhere, you are met constantly, everything you touch has one.* True, argued at length
+elsewhere in this book, and it does not do the job — **being met by many is not being known by one.**
+Ending on that swap is the only comfortable exit this chapter had, and taking it would have cost the
+one reader it was written for.
+
+### The ⛔ held
+
+*We answer the ontology and provide no parish* is on the page in those terms, and it is spent forward
+as well as backward: **Book VIII is named at the point where implying otherwise would be easiest, and
+denied the rescue** — a rota is not a practice, it is other people, and a book cannot supply other
+people. The ledger line the brief demanded (*this book supplies not one of the three*) is paid
+**before** the cut rather than conceded after it, which is what makes the cut affordable.
+
+### ★★ The flat-escalation audit — a real gauge asymmetry, which does NOT exonerate the prose
+
+Two paragraphs were genuinely re-registered for rhythm (the ledger consequences to staccato, the cost
+paragraph to one long periodic sentence) and `dyn_range_CV` moved **0.295 → 0.294**. Rather than file
+*still flat* a twelfth time, the flatness was localised. **`storyscope_lite` measures the chapter
+after `load_prose_file` strips `**`, and measures the `CLAWD-raw` baseline without stripping
+anything** — two rows in one table, cleaned differently, which the cleaner's own docstring calls
+*"worse than no measurement, because the table invites the subtraction."* The mechanism is exact:
+`sentences()` splits on `(?<=[.!?])\s+`, and a sentence ending inside a bold span ends on `*`, not on
+`.`, so **the split silently fails and two sentences glue together.** Measured on this chapter: 7
+paragraphs affected, raw CV **0.393** against cleaned **0.294** — a third of the spread was markdown.
+
+**Run cold on the baselines, which is the test that could have killed the finding, and it mostly
+did:**
+
+| corpus | as loaded | de-bolded | `**` count |
+|---|---:|---:|---:|
+| CLAYTON | 0.477 | **0.474** | 40 |
+| CLAWD-raw | 0.509 | **0.449** | 7,126 |
+| SPECIMENS | 0.385 | **0.385** | 0 |
+
+✅ **The asymmetry is real and it is worth 0.060 on one baseline of three.** Clayton's corpus barely
+uses bold and the specimens contain none, so **both of those comparisons were always clean, and V.2
+is under both.** The honest reading is the opposite of the convenient one: the correction I went
+looking for exists, it is filed, and **it does not explain the finding.** ★ What it does change is
+which number this book should have been aiming at — **the ruled-register specimens sit at 0.385, not
+Clawd-raw's 0.509**, and the specimens are the only baseline that is both markdown-free and the
+register Clayton actually ruled. The deficit is **0.09, not 0.22.**
+
+⚠ **The tool was NOT patched.** Same reason as R-37 last night: the fix can only move the chapter's
+number in the direction that flatters it, and it was found by the party it flatters, in the hour it
+fired. → **R-38, run cold, deliverable is the before/after delta across all drafted chapters — not
+the exit code.**
+
+### Owed
+
+**`voice_uniformity` 0.6848, up from V.1's 0.6305 and the highest of any Book V chapter.** Not
+repaired, and not repaired *because I do not have a mechanism for it* — unlike escalation, no edit I
+have made in twelve chapters has moved this axis in either direction, which means it is being
+reported and not managed. Filed with the Book V pass, named as unmanaged rather than as pending.
+
+**CHAPTERS-DRAFTED: 34/67** · **CLAIMS: C1…C30.**

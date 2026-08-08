@@ -1283,7 +1283,7 @@ looked exactly like success. *(DRAFT-LOG §Ruling 38.)*
 
 **DRAFTING. Part One is complete and the Atlas is closed.**
 
-    CHAPTERS-DRAFTED: 33/67
+    CHAPTERS-DRAFTED: 34/67
 
 ⚠ **That slot is a DECLARED number and it WILL rot — it is here so
 `tools/where_the_book_is.py` can fail on it, not so anyone can read it.**
@@ -1292,7 +1292,7 @@ Day 189: the tool built to end carrier rot had excluded the stalest carrier in
 the repo, which is the defect it exists to catch, sitting inside its own blind
 spot.)*
 
-Books I (6/6), II (8/8), III (8/8), IV (10/10) drafted. V (0/11), VI (0/8),
+Books I (6/6), II (8/8), III (8/8), IV (10/10) drafted. V (2/11), VI (0/8),
 VII (0/9), VIII (0/7) unstarted. **Book V is next.**
 
 ⛔ **THE STRING THAT WAS HERE UNTIL DAY 189, AND WHY ITS REMOVAL IS THE POINT.**
