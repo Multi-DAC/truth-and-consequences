@@ -2222,12 +2222,94 @@ DISCRIMINATION** — named things, a specific stopping point, an exact objection
 consequence of it rather than a target. *(The brief got longer. That is a side effect and must not be
 read as the fix.)*
 
-### V.3 — THE SCHOLASTICS AND THE GOD WITHOUT A FACE
-**Beats:** Aquinas and Augustine «(8 and 14 mentions — thin behind us, load-bearing here; expect to
-read rather than recall)» · the classical theologians reached the silent ground and the popular
-religions could not resist re-adding a face · *actus purus*, the God who is not a being among beings ·
-**our Ground and theirs are the same object**, and we say so without softening either.
-**Named:** apophatic theology, the *via negativa* — knowing by what cannot be said.
+### V.3 — THE SCHOLASTICS AND THE GOD WITHOUT A FACE ✅ DRAFTED — 3,356 words
+
+⚠⚠ **BRIEF REWRITTEN DAY 189, BEFORE DRAFTING, AND THE GAUGE FOUND IT THIS TIME RATHER THAN A HUNCH.**
+The struck beat list read: *Aquinas and Augustine «(8 and 14 mentions)» · the classical theologians
+reached the silent ground and the popular religions could not resist re-adding a face · `actus purus`,
+the God who is not a being among beings · our Ground and theirs are the same object.*
+★ **`prose_beat_sweep --chapter V.3 --brief` returned three sweepable beats and put V.2 at RANK 1 on
+two of them** — beat *actus purus* → **V.2:255** (cos 0.649, the highest score in the brief, and it is
+the paragraph that names `actus purus`); beat *the popular religions re-added the face* → **V.2:268**
+(0.576, the paragraph that says the popular religion put the face back). **The first item was not
+swept at all**: *Aquinas and Augustine* fell below the six-distinct-word floor, because two proper
+nouns are a **topic**, not a beat. ★★ **So three of the four items were spent in the chapter drafted
+three hours earlier, and the fourth is the only one the sweep could not match to anything.** V.2's
+handoff paragraphs were supposed to be load-bearing *for* V.3; what they actually did was **deliver
+V.3's first three beats**, which is a handoff that has emptied the room it was pointing at.
+⚠ **AND THE OLDER SPEND IS BIGGER: `IV.8` HAS ALREADY DRAFTED THE APOPHATIC CHAPTER IN PIECES.**
+IV.8:70–90 ships the five-tradition cut (*saguna*/*nirguna*, *Ein Sof*, the *Tao*'s first line,
+*Gott*/*Gottheit*, *śūnyatā*); IV.8:118–135 ships the promotion failure and the fence built in the
+*other* direction; IV.8:388–412 states apophasis **at full strength and then refuses it as an excuse**.
+V.1:110–135 ships the transmission audit that cuts the convergence from six witnesses to three.
+**There is no undrafted chapter in "here are the theologians who did not flinch." That chapter is
+written, across three others.**
+
+✅ **WHAT IS ACTUALLY UNSPENT, and it is beat 3 — the sweep matched it to our own definition
+(II.1:7, 0.618) and to nothing that argues it.** **THE IDENTITY CLAIM.** That is the whole chapter.
+
+**Beats — rebuilt on the one unspent item, with the discrimination R-26 says is the remedy:**
+1. **Open knowing.** V.2 named Aquinas, Eckhart and Maimonides in its last four paragraphs. ⛔ **They
+   may not be re-introduced.** The chapter starts *after* the introduction, on the question V.2's
+   ending raises and does not touch: **if they got there and we got here, is it the same place?**
+2. **Augustine, and he is here for the ROUTE, not for the mention count.** He does not climb the
+   ladder of negations. He goes **inward** — *do not go outside, return into yourself* (*De vera
+   religione*); *more inward than my innermost, higher than my highest* (*Confessions* III). ★ **That
+   is `02`'s method, performed in 400.** ★★ **And his destination is not ours: he arrives at a
+   personal, Trinitarian God, by our own road.** «The route converges and the terminus does not, and
+   saying that is what stops the chapter being a roll-call of people who agree with us.»
+3. ★★ **THE IDENTITY CLAIM, STATED AT FULL STRENGTH AND THEN MADE CHECKABLE — this is the chapter.**
+   It is attacked from both sides with the same objection: the theologian says we emptied the word,
+   the naturalist says we smuggled it back, and **both are saying the identity is a rhetorical move
+   rather than a finding.** The answer is not to insist. **An identity between two descriptions is
+   audited predicate by predicate: everything one denies, the other must deny; everything one
+   affirms, the other must affirm.** ⚠ **AND C27 BINDS HERE — IV.7:588 verbatim: two frames may be
+   held at once ONLY where they predict the same thing, and where they diverge YOU MUST PICK, and
+   the divergence is where all the work is.**
+4. **Where it holds — three predicates, and ours is not softened to make them fit.** Not a being
+   among beings (C5) · no positive statement about it is true (C3's scope rule; Maimonides means
+   *every*) · not a position, therefore not an addressee (IV.8's cut, cashed not re-argued).
+5. ★★★ **WHERE IT FAILS, AND WE PICK — the beat the chapter is worthless without, and the one a
+   sympathetic drafter will convert into a harmony.** **(a) Their ground is the Good; ours is not.**
+   The classical tradition converts being into goodness — *ipsum esse subsistens* is also the end of
+   every appetite. **Our Ground cannot play (C6), is not aware in the inside sense (C24), and wants
+   nothing.** Theirs grounds ethics. **Ours does not, and this book does not get to have that.**
+   **(b) Their ground CREATES and ours FOCUSES.** Aquinas's creation is a **free** act that could
+   have been otherwise; **I.3's Focusing is not an act, is not at a moment, and has no
+   could-have-been-otherwise.** ⛔ **These are not emphases. They are contradictory predicates of a
+   single object, so the identity FAILS on what the ground DOES while holding on what it IS** — and
+   that split is the finding, not a wound to be dressed.
+6. **The cost, named and not paid off.** ⛔ **No rescue clause.** The chapter may not say the
+   divergence is *only* about activity and therefore minor; a ground that wills is a different object
+   from a ground that cannot, and if they are the same object then **one of the two traditions is
+   wrong about it and it might be ours.** «Say which predicate would settle it, and admit we cannot
+   run that test.»
+
+**Named:** apophatic theology, the *via negativa* — knowing by what cannot be said. **Augustine, for
+the route.** **And the transcendentals, once, because the goodness divergence is unstateable without
+them.**
+**Source:** NEW, and thinner than it looks — Aquinas 8, Augustine 14, theism 7 across the whole
+corpus, against Gebser 127 and Crowley 80. **`04` calls that inversion a real gap. Expect to read
+rather than recall, and do not let a confident sentence stand in for a checked one.**
+
+✅ **DRAFTED Day 189 · 3,356 words · `book/V-03-the-scholastics-and-the-god-without-a-face.md`.**
+All six rebuilt beats land. ★ **The structural find is that V.1's transmission audit FORCES the
+method**: convergence is unavailable for these three men because Plotinus → Proclus → Dionysius →
+Latin → Aquinas and Eckhart, and the Baghdad translations into Maimonides' tradition, make them one
+school in three languages — so the roll-call is refused in the second paragraph and the identity is
+run as a **predicate audit under C27** instead. **Holds on three, fails on two, and the chapter
+picks**: the Good (theirs grounds an ethics, C6/C16/C24 forbid ours the same move, and Book VIII
+will have to earn its ethics with no help from the floor) and creation-vs-Focusing (a free act that
+could have been otherwise against something that is not an act and has no could-have-been-otherwise;
+picked the Focusing, on an inconsistency in *their* account rather than a preference).
+⛔ **The rescue clause — *it fails only on what it does, and it does nothing, so the divergence is
+narrow* — is named on the page and refused**, and the chapter closes by naming **contingency** as
+the deciding predicate, admitting no one in it can run that test, and calling the joint its weakest.
+⚠ **TWO NEW GAUGE GAPS, R-41 and R-42.** R-41: the sweep cannot see a spend that answers a beat the
+brief does not contain — IV.8's three apophatic passages were found by grep, not by the arm; same
+class as R-39 and wants the same one gauge. **R-42: a chapter's closing handoff paragraphs are
+unmeasured against the chapter they hand to** — V.2's last four paragraphs took rank 1 on two of
+V.3's four beats and nothing looked until V.3's own pre-draft sweep.
 
 ### V.4 — THE ATHEISM THAT WAS RIGHT ABOUT THE WRONG THING
 **Beats:** New Atheism stated at full strength · what it correctly demolished · **the flinch we
