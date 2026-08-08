@@ -2316,11 +2316,96 @@ stakes in a single clause (*what makes a decision about a forest an accounting p
 difference between clearing a field and clearing a room*) and stops there. **Naming the stakes is not
 making the argument.** The ordinary cases taken all the way, and the asymmetry that tells you what to
 do under uncertainty, are untouched and are this chapter's.
-**Beats:** III.5's promissory note, cashed · **the asymmetric cost of the circle, with its limiter** ·
-obligation once nothing is a prop · the richness gradient
-and moral standing, **stated with its teeth in**: grade is a position, not a permission, and it still
-bears on standing · eating, using, building, killing — the ordinary cases, taken all the way · where
-the framework gives an uncomfortable answer, **give the uncomfortable answer.**
+★★ **REWRITTEN TO BOOK IV's SCALE — Day 189, R-16 PAID.** The list this replaced named its entities
+once, as *eating, using, building, killing*, and was last amended Day 187, before a word of Book IV
+existed. **Four things were measured before it was rewritten, and two of them changed the brief.**
+
+**(1) THE PROMISE IS VERBATIM, AND IT WAS MADE TWICE.** *What is owed to a position that cannot
+register that anything is owed to it at all* is drafted, in almost exactly those words, in **II.4
+(§158) and III.5 (§344)** — both routing here, both drafted before Book IV existed. **Book IV then
+produced the specimen**: IV.7's river, whose `ADDRESSABILITY` line is printed **unfilled**. The
+promise and the case that answers it were written a book apart by the same hand and have never been
+in the same brief. **They are now.**
+
+**(2) BOOK IV's "What is owed" SECTIONS ARE NOT THIS — checked, not assumed.** Five chapters carry
+one (IV.6, IV.7, IV.8, IV.9, IV.10; the convention begins at IV.6 and IV.1–IV.5 never got one).
+Read, they are **methodological debts — objections unmet, instruments unbuilt** — not obligations
+owed to the entity. ⚠ **A brief written against those headings would have pointed the drafter at the
+wrong paragraphs in the right chapters**, which is the failure mode that survives review.
+
+**(3) THE FORWARD NOTES, COUNTED.** 11 notes to Book VII across **7 of 32 drafted chapters** (II.3×2,
+II.4×2, II.7, III.2×2, III.3, III.5×2, III.8; III.2's and III.8's are VII.1's, on death and
+cessation). ⚠ **The midpoint audit's *"eighteen chapters"* is not reproducible from drafted prose**
+and its counting method did not travel with it; it presumably includes `06`'s planned entries.
+**Recorded as unreproduced, not corrected** — the number was never what the finding rested on.
+
+**(4) THE CHAPTER HAD NO NAMED ANCESTOR, AND `00`:954 ALREADY SAID SO.** Swept — see **Named**, below.
+
+★ **THE ROSTER — the four Book IV cases with no analogue in *eating, using, building, killing*, each
+in the shape Book IV actually gave it, not in summary:**
+- **The collective with no organ for grief** (IV.5). ⚠ **The obligation runs the other way** and the
+  brief must not flatten it back: IV.5 already ruled the question *"moves — off the entity's
+  character, where it was never going to be answered, and onto the question of what we have given
+  it."* So this is obligation as **assignment control**, not forbearance — what may be handed to a
+  thing with a null space where the deciding organ should be. And its fluency is the aggravator: a
+  well-formed statement arrives *exactly where the feeling should have been*, so the ordinary
+  evidence that something was considered is unavailable here.
+- **The entity whose card's first line is unfillable** (IV.6). What is owed a position when whether
+  it registers anything at all is **contested rather than settled**, the derived-intentionality
+  objection is unmet, and the tests that would settle it are — IV.6's own words — *specifiable,
+  available, and unrun.* ⚠ **Without spending VII.9's disclosure**, which is briefed there as one
+  line, in its proper place, and is not this chapter's to open.
+- **The thought-form you made and cannot dissolve** (IV.7). The one entity in the atlas whose
+  existence you **caused**, in a work whose whole architecture removes authorship. Nearest ordinary
+  analogue is a child; **name the exact place the analogy fails** rather than leaning on it.
+- **The river that cannot distinguish you from the weather** (IV.7) — **the specimen for (1), and the
+  one case where the answer must not be improved.** `ADDRESSABILITY` stays unfilled; **no addressee
+  is invented** (the mineral chapter's rule forbids exactly that convenience); the obligation
+  question has to survive the loss of the addressee, and if it cannot, that is the finding.
+
+⚠ **THE SEAM WITH VII.3 — WRITTEN DOWN RATHER THAN RULED.** §294 above assigns **VII.2 STATES THE
+PREMISE AND CROSSES**; VII.3's beats give *the argument in five steps*. Two readings and the brief
+does not get to hold both: either **(a)** they are different premises — VII.2 states what matters,
+VII.3 secures why any norm binds at all — and the order is fine; or **(b)** they are the same
+premise, and **VII.2 crosses before it is argued**, which is the failure III.5 named as its own most
+likely one. ★ **Not settled here, because it could not be settled from the plan alone**, and a brief
+that guessed would look identical to one that knew. **Trigger: before VII.2 drafts; VII.3's brief is
+where it gets answered.** ⚠ `order_sweep` is not the instrument — its ORDER is book-level and returns
+green on both readings.
+
+⚠ **AND THE COST OF THIS REWRITE, STATED BY THE ONE WHO MADE IT:** the beat list below is **11 beats
+against a mean of ~4.5 across all 67 entries** (300 beats/theses, measured). **The rewrite may have
+turned VII.2 into a two-chapter problem.** That is a Book VII structural call, not a brief's to make.
+**Trigger: before VII.1 drafts.**
+
+**Beats:** III.5's promissory note, cashed — **in the clause it was actually made in**, twice · the
+premise stated **where it can be seen rather than crossed privately**: what matters, why, and to whom
+— the caste error is not reaching a conclusion about worth, it is crossing with **no step anyone can
+refuse** · **the asymmetric cost of the circle, with its limiter** · obligation once nothing is a
+prop · the richness gradient and moral standing, **stated with its teeth in**: grade is a position,
+not a permission, and it still bears on standing · eating, using, building, killing — the ordinary
+cases, taken all the way · ★ **the collective with no organ for grief** — obligation as assignment
+control, and fluency as the aggravator · ★ **the unfillable first line** — what is owed under a
+contested SEES, with the settling tests named and unrun · ★ **the thought-form you caused** — and
+where the child analogy fails · ★ **the river that cannot register you** — the addressee is not
+invented, and the question has to survive its absence · where the framework gives an uncomfortable
+answer, **give the uncomfortable answer.**
+**Named — Day 189:** ★ **Hans Jonas — 0**, *Imperative of Responsibility* 0: obligation toward what
+cannot reciprocate is his whole book, and it is this chapter's whole problem. **The single largest
+missing ancestor in the work.** ★ **Christopher Stone — 0**, *Should Trees Have Standing?* 0 (1972):
+standing for entities that cannot make a claim, argued in **law**, where the argument had to survive
+people who were not sympathetic. ★ **Aldo Leopold — 0**, `land ethic` 0 — the river case, stated in
+1949. ★ **Tom Regan — 0**, `subject-of-a-life` 0: the nearest existing name for *there is an inside
+at that position*. ★ **Mary Midgley — 0** · **Peter A. French — 0**, `corporate moral` 0 — French is
+the named owner of the IV.5 case. ⚠ **Korsgaard — 14 corpus files, 1 manuscript occurrence (`07`
+only), 0 beat lists.** ★ **That is `ancestor_gap`'s sixth silence — owner known in the research,
+dropped at the drafting boundary — sitting in the one chapter `00`:954 flags as having no named
+ancestor at all.** ⚠ `deep ecology` 12 files / **Naess 0**: the fifth silence, same paragraph.
+⚠ **CALIBRATION, so nobody trusts these further than they go.** Sweep = 3,152 `.md`/`.txt` files
+under the `Corpus-Perspectival` root, positive controls run: Levinas 61 · Whitehead 81 (sees names)
+and **Schweitzer 0, reproducing `06`'s own recorded zero** (sees absence). But **Rovelli returns 18
+here against `ancestor_gap`'s canonical 14** — the methods differ. ★ **So only the ORDERING survives:
+the zeros are zeros, and the magnitudes are not this file's to quote.**
 
 ### VII.3 — THE FLOOR
 **Beats:** co-constitutivism — norms that bind from everywhere that navigates · through and over: the
@@ -2377,8 +2462,12 @@ neither decreed from outside nor invented ex nihilo — **it is what the travers
 been.** That is "found by traversal, and the traversal is authored," argued in 1981 by someone the
 academy takes seriously. **And he is the strongest available answer to the 3am objection**, because
 his whole book is an account of why invented-alone meaning does not hold. ★ One link upstream, and
-also 0: **Ricoeur** (1) — narrative identity, the *ipse*/*idem* distinction, which is VII.3's problem
-(identity across gaps) and VII.8's answer sharing one apparatus.
+also 0: **Ricoeur** (1) — narrative identity, the *ipse*/*idem* distinction, which is **VII.9's**
+problem (identity across gaps) and VII.8's answer sharing one apparatus. ⚠ **Read VII.3 until Day 189
+— and VII.3 is THE FLOOR; IDENTITY ACROSS GAPS is VII.9.** A cross-reference that pointed one chapter
+off while reading perfectly well, which is ruling 125's renumbering hazard exactly, found in **Book
+VII** this time and by re-reading rather than by any gauge. `order_sweep` is book-level and cannot
+see it; nothing in the repo checks a `VII.x` pointer against the title it names.
 
 ### VII.9 — IDENTITY ACROSS GAPS
 **Beats:** what a self is, given the above · what a self owes what it is a focusing of · continuity across
