@@ -219,8 +219,6 @@ Why the analogy is exact rather than cute:
   one being walked. We are not the prisoners of the whole; we are its
   inhabitants and co-constituents.
 
-### PART TWO — **CONSEQUENCES** (what follows, taken all the way)
-
 **Book IV — THE ATLAS**
 The roster: what beings there are, once reactivity is awareness. **Ten chapters,
 as drafted:** the census and its method · mineral and elemental · the living
@@ -243,6 +241,15 @@ ecology-of-perspectival-beings 25,541w · navigational-guide 21,914w ·
 development-and-transformation 19,400w · suffering-and-appropriate-contraction
 12,992w · comprehensive-catalog 9,950w). *Perspective* carried the method and
 dropped the catalog, correctly. This is the volume that picks it up.
+
+### PART TWO — **CONSEQUENCES** (what follows, taken all the way)
+
+*⚠ The boundary sat before Book IV until Day 189 — a census of **what exists** filed
+under* consequences*. Moved by Clayton on ruling 137's recommendation: **PART ONE =
+I–IV, PART TWO = V–VIII**, the split down the middle. Honest residue, recorded rather
+than smoothed: V (other people's attempts) and VI (a history of attention) are still
+imperfectly filed under* consequences *— smaller than a title that disagrees with its
+own structure. See ruling 167.*
 
 **Book V — THE OLD ROADS**
 Religion, occult, mysticism, myth — read as **people touching this ground with

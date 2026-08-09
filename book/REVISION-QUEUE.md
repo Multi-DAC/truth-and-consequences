@@ -402,3 +402,33 @@ gets drafted from `06` alone.
 **Trigger: before V.4 opens** (opponent IV, pop-spirituality, and `05` §3c's whole ban list is
 downstream of that entry). Cost: small — it is `prose_beat_sweep`'s embedding arm pointed at a
 different pair of files.
+
+---
+
+### R-64 — the part boundary moved and five sentences that measure from it did not
+
+**Filed Day 189, ~22:35, immediately downstream of ruling 167.** The Part One/Part Two boundary moved
+from *before Book IV* to *before Book V*. The heading moved in `00` and `06`. **What did not move is
+every sentence elsewhere that uses "Part Two" as a quantity.**
+
+Known sites, found by grep, not yet edited: `01`:87 · `06`:111 · `07`:159 · `book/II-04-the-grade.md`:6 ·
+`book/DRAFT-LOG.md`:241 — all of the form *"the whole of Part Two is this line taken seriously"* about
+C7 (reactivity is awareness), plus `07`:727's dependency table, *"one hedge retroactively demotes all
+of Part Two."*
+
+★ **These sentences are now WEAKER than they were, and that is the dangerous direction.** Book IV — the
+Atlas, the census of what there is once reactivity is awareness, the single most direct cashing of C7 —
+**is no longer in Part Two.** The claim about C7's blast radius was calibrated against a Part Two that
+contained the Atlas. Move the boundary and each of those sentences stays *grammatical, still true, and
+quietly under-claiming its own load-bearing claim.* Nothing errors. No gauge fires — the boundary lives
+in a heading and the dependents live in prose that never names a book number.
+
+**This is [[superseded-not-stale]] in its exact form:** the sentences are recently touched, internally
+coherent, and wrong because an amendment upstream could not write back to them.
+
+⚠ **Do not fix by find-and-replace.** Some sites mean *the consequences half* (still correct as V–VIII)
+and some mean *everything C7 is load-bearing for* (now I–IV **and** V–VIII, i.e. the rest of the book).
+Read each; the two readings are not distinguishable by string.
+
+**Trigger: NOT a date, and not the CODA.** Before the next chapter that argues from C7's scope — or
+before any packet quoting one of those six sites ships, whichever comes first.

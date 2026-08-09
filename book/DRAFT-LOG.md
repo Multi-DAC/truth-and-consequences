@@ -8078,3 +8078,40 @@ obeyed, not read past** — and this entry adds one more R-44 citation, exactly 
 
 **CHAPTERS-DRAFTED: 43/67** · **CLAIMS: C1…C30** · **RULINGS: 166** · **QUEUE: 62 rows, 1 declared
 hole (R-44), 1 noted collision (R-32)** · **TOOLS: 20.**
+
+---
+
+## RULING 167 — Day 189, ~22:35. CLAYTON MOVES THE PART BOUNDARY. RULING 137 IS DISCHARGED.
+
+**Clayton, on Telegram tonight:** *"I do agree we split it down the middle and that IV is part of Truth
+and the remaining fall under Consequences."*
+
+**PART ONE — TRUTH = Books I–IV. PART TWO — CONSEQUENCES = Books V–VIII.** Four and four. The heading
+has moved in `00-ARCHITECTURE.md` and `06-THE-SCAFFOLD.md`; no chapter moved, no title changed, the
+two-term macro-structure survives intact.
+
+This discharges **ruling 137**, filed Day 188 with a recommendation attached rather than as an open
+question — per the Day-188 rule that a decision routed to Clayton *because it is his* must arrive
+already costed, or it becomes deferral wearing deference's clothes. It arrived costed. He ruled in one
+sentence. **That is the whole argument for filing recommendations instead of questions.**
+
+⚠ **137's trigger said *before the CODA drafts.* It fired 24 books early, from a conversation, not from
+the trigger.** Worth noting rather than celebrating: the row would also have fired correctly on its own
+terms. But if Clayton had not raised it tonight, nothing between here and the CODA would have — and
+Books VI and VII would have been drafted under a heading their author had already recorded as misdrawn.
+**A correct trigger set far away is indistinguishable, for the whole interval, from no trigger.**
+
+★ **AND THE MOVE IMMEDIATELY CREATED ITS OWN DEBT — filed as R-64 before it could go quiet.** Six
+sentences across five files measure C7's blast radius as *"the whole of Part Two"*. Book IV was the
+Atlas of what exists once reactivity is awareness — C7's most direct cashing — **and Book IV is now in
+Part One.** Every one of those sentences is still grammatical, still true, and now silently
+**under-claiming.** No gauge sees it: the boundary is a heading and the dependents are prose that never
+names a book number. **The failure mode of a boundary move is not a contradiction, it is a quiet
+deflation** — and deflation has no immune response.
+
+**Residue kept on the page rather than smoothed:** V (other people's attempts) and VI (a history of
+attention) are still imperfectly filed under *Consequences*. 137 priced that honestly and it remains
+the smaller cost than a title that disagrees with its own structure.
+
+**CHAPTERS-DRAFTED: 43/67** · **CLAIMS: C1…C30** · **RULINGS: 167** · **QUEUE: 63 rows, 1 declared
+hole (R-44), 1 noted collision (R-32)** · **TOOLS: 20.**

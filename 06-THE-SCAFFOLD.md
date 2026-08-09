@@ -1078,10 +1078,6 @@ the label pattern is now case-sensitive and must carry a colon inside the bold.
 ---
 ---
 
-# PART TWO — **CONSEQUENCES** (what follows, taken all the way)
-
----
-
 ## BOOK IV — **THE ATLAS**
 
 *The roster of what there is, once reactivity is awareness. Ten chapters. The most quarry-rich book in
@@ -2094,6 +2090,16 @@ old and has not been acted on.
 ✅ **TRIGGER: before Book VII drafts**, not before VIII — VII.2 is the chapter that hands VIII its
 obligations, and sourcing VIII after VII is written means sourcing it to fit what VII already promised.
 **First action is a measurement, not a hunt: how much of the 21,914 did Book IV actually consume.**
+
+---
+
+---
+
+# PART TWO — **CONSEQUENCES** (what follows, taken all the way)
+
+*Boundary moved Day 189 by Clayton — PART ONE = I–IV, PART TWO = V–VIII. Ruling 167,
+discharging ruling 137's recommendation. Residue kept on the record: V and VI are still
+imperfectly filed here.*
 
 ---
 
