@@ -2562,8 +2562,21 @@ and that hit is NOT a defect** — naming `eight-circuit` is the point of the be
 and now marked as such, which is precisely ruling 108's promise that marking turns a MISS back into
 a signal. **Two rules, one beat, one real.**
 
-### V.8 — TRAVEL
-**Beats:** shamanic journey · Monroe's focus levels as a state-space map · the dead and the visited ·
+### V.8 — TRAVEL ✅ DRAFTED — 2,760 words
+**Source:** ⚠ **ADDED AT DRAFTING, Day 189 — this brief was the ONLY one in Book V with no `Source:`
+line, and it belongs to one of the four LOAD-BEARING chapters (R-49).** What the chapter was actually
+written from: Harner's *core shamanism* and the sonic-driving induction · Eliade's cross-cultural
+survey, credited and graded down for flattening · Monroe's focus levels as a **procedure**-map · and
+`07` queue item 7 + C30, which is where the chapter's real assignment turned out to live.
+⚠ **`07` ASSIGNS THIS CHAPTER TWO JOBS THE BEATS BELOW DO NOT CARRY — read them before drafting
+anything downstream of it (156(d), second firing).** (1) **C27's `Depends` line names V.8** and no
+version of the two-frames rule appears in these beats — *the Day-189 correction swept the briefs that
+carried the COMPRESSED sentence, so a brief carrying none was never a site.* (2) **`07`:837–843 — the
+demarcation's object is the BOOK'S OWN citation license**, not only the shaman's claims; the beats
+have V.8 grading other people. Both are paid in the drafted chapter.
+**Beats:** shamanic journey · Monroe's focus levels as a state-space map «⚠ **V.6:235 already read a
+tradition's ladder as a settledness-map — this one must be a PROCEDURE-map or it is that move
+again**» · the dead and the visited ·
 **the worked demarcation**: separate the real effect from the unproven mechanism, and do it in public
 «— doing it once here is what buys the reader's trust for the whole book, and V.9 runs it again on the
 hardest case» · OBE-as-proof-of-survival stays out, and the reason on the page is *we do not hold it*,

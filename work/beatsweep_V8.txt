@@ -1,0 +1,56 @@
+  wrap self-test: PASS — needles survive a hard wrap
+  prose self-test: PASS — needles survive a hard wrap, headings excluded
+
+PROSE→BEAT SWEEP — book/ against 06-THE-SCAFFOLD.md · chapter V.8
+
+  ⚠ REVISION-QUEUE.md: no chapter id in heading or filename — NOT SWEPT
+
+  39 drafted chapter(s) · 1895 paragraphs · 30 undrafted · 0 spent · 0 trace(s) · 0 exempt
+  0 beat(s) below the 6-distinct-word floor — NOT dropped: reachable
+  by the 5-gram discriminator only, which is what a beat that IS a phrase needs.
+  house vocabulary discounted, measured at df ≥ 0.66: 60 word(s) — about, after, already, anything, back, because, before, between, book, cannot, case, comes…
+
+READING BRIEF — V.8, before drafting
+  BAAI/bge-m3 · 3 beat(s) × 1470 shipped paragraph(s) · top 5 each, RANKED, no verdict
+
+  V.8 (beat): Monroe's focus levels as a state-space map
+    1. IV.3:262  cos 0.509
+       **A HONEYBEE** **SEES:** Ultraviolet. The polarisation pattern of the sky — a compass written in light across the whole dome, from a patch of blue, invisible to every human eye tha
+    2. III.5:260  cos 0.508
+       **Four positions, four floors, and every one of them drawn somewhere different.**
+    3. IV.3:205  cos 0.501
+       The texture of a moment is set by the two together: how many fresh measurements land inside one window. Densely filled windows, seamless experience. Windows arriving nearly empty,
+    4. V.6:235  cos 0.495
+       Read as a map of settledness they are immediately recognisable. The upper triad is where almost nothing has been decided and the material is closest to undifferentiated; the lower
+    5. IV.3:46  cos 0.491
+       Count the dimensions and this is not a narrow position. There are more of them than a reader expects and more than several animals manage.
+
+  V.8 (beat): **the worked demarcation**: separate the real effect from the unproven mechanism, and do it in public «— doing it once here is what buys the reader's trust for
+    1. V.7:254  cos 0.661
+       All of the above is read at a distance: an account of what other people were doing, on their own equipment, in their own centuries. III.6 already ruled where the reader's own case
+    2. III.8:8  cos 0.656
+       So the test is run here, where it can be watched — not as a note of modesty appended to a confident book, but at the same volume as everything else, because the limits of the game
+    3. V.7:21  cos 0.652
+       That is the distinction the title is making, and the book has not needed it until now. **Receptive**: the practice pointed at a question, returning a reading. **Operative**: the pr
+    4. II.1:126  cos 0.651
+       Start by pulling apart two jobs the word does in this book. Both are needed. They are not the same job.
+    5. V.2:183  cos 0.631
+       A reader who has followed this far will reach, at about this point, for the obvious repair: that there are insides everywhere, that nothing you meet is a prop, that you are met con
+
+  V.8 (beat): OBE-as-proof-of-survival stays out, and the reason on the page is *we do not hold it*, never *a skeptic would object*.
+    1. II.7:206  cos 0.612
+       *Collapse* is kept. *Superposition* is refused. That looks arbitrary — both are physics' vocabulary, both were reached for by this account because they were vivid — and it is not.
+    2. IV.8:24  cos 0.605
+       None of that thickness is evidence for anything in this chapter. All of it is evidence about the position taking the census. Hold both.
+    3. IV.6:220  cos 0.590
+       This book cannot take either side, because both sides presuppose something it refused long before this page was in view.
+    4. IV.6:239  cos 0.590
+       Dissolving that question removes an argument that would have run against this entry. It supplies none that runs for it. Searle is not asking what we are made of. He is asking wheth
+    5. IV.8:381  cos 0.588
+       The previous chapter refused an available excuse: the claim that these entities do not subsist as empirical realities do, *otherwise, anyone could perceive them* — a sentence that
+
+  READ THESE. No verdict is offered and none is available: the measurement that
+  built this arm showed no statistic separates a true repeat from the floor —
+  ruling 33's own pair ranks 3rd of 390 at a cosine of 0.489, under a top match
+  of 0.498. RANK is the signal and SCORE is not. The brief narrows the book to a
+  page; the adjudication is a person's, exactly as it was the day it was caught.
