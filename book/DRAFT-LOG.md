@@ -8540,4 +8540,110 @@ one already on the record and it still caught me: a baseline is not a control. T
 line 4 of a research-sources file and is **not Walter Ong.** True 0. Harmless here, which is exactly
 why it would never otherwise be filed.
 
-**CHAPTERS-DRAFTED: 47/67** · **CLAIMS: C1…C30** · **RULINGS: 170** · **QUEUE: 73 rows** · **TOOLS: 22.**
+---
+
+## VI.6 — THE ALGORITHMIC TUNNEL · Day 190, evening · 4,407w · `book/VI-06-the-algorithmic-tunnel.md`
+
+**C-LICENSE: C11 · C12 · C10.** Committed before the screen ran (fifth time; the rule holds).
+`card_sweep` **6/6 Book VI** (null=7 · compl=1 · navig=1). `endnote_debt` **VI.6 square — 7 sources,
+7 notes, 0 owed.** C30 **explicitly declined and the declining is on the page.**
+
+★★ **THE SIXTH CONSECUTIVE SCREEN TO OUT-FIND ITS PROSE — and the first whose correction runs TOWARD
+the thesis rather than away from it.** The brief's lead beat, *"the render filter that edits itself
+against you, which is genuinely new,"* is the **filter-bubble thesis**, which is the most-tested and
+most-failed claim in fifteen years of media studies. Bakshy/Messing/Adamic 2015 (N=10.1M) put
+homophily and self-selection **above** algorithmic ranking as contributors to segregation; Guess et
+al. 2023 (*Science*, 3-month randomized chronological substitution on Facebook and Instagram) moved
+exposure and engagement enormously and moved issue polarization, affective polarization and
+political knowledge **not at all.**
+
+★★ **AND THEN THE DESIGN FLAW THAT NOBODY TREATED AS ONE: every study in the debunking literature
+switches the algorithm OFF.** Gauthier, Hodler, Widmer & Zhuravskaya, *Nature* 652:8109 (Feb 2026),
+N=4,965, 7 weeks, ran **both directions, stratified by baseline feed.** OFF reproduces the nulls
+exactly. **ON does not:** policy priorities +0.11 SD conservative, Trump-investigations +0.08 SD,
+Ukraine +0.12 SD pro-Kremlin, combined index +0.12 SD. **The effect is one-way.** Mechanism, in the
+authors' words: users switched on followed more conservative accounts (+0.17/+0.18 SD) and *"when
+the algorithmic feed was switched off, users continued to follow the accounts they had engaged with
+previously."* ★ **The 2023 nulls were not measuring whether the filter works. They were measuring
+whether removing it restores the prior world — and it does not.** The authors say so and extend it
+to Meta by name. **A null in the off-direction is the signature of an effect that has finished
+writing itself into a substrate that no longer needs the writer.**
+
+✅ **SELECTION-NOT-PERSUASION STOPPED BEING AN ASSERTION AND BECAME A MEASUREMENT, and it is the
+same experiment's *negative* result that does it.** Gauthier et al. report **"precisely estimated
+null effects on partisanship and affective polarization, whether the algorithm was switched on or
+off"** — a bounded zero, not a failure to detect — **while salience moved.** Under a persuasion
+model the tribal markers are the most responsive quantities in political psychology and should move
+first; they sat still while *what is important* and *what is the case about particular events*
+moved. That is nearly the definition of a selection effect, and Book II has been asserting it
+without evidence since §—.
+
+✅ **"MISINFORMATION IS THE WRONG FRAME" SURVIVED AND GOT TWO NUMBERS.** Allen et al. 2020 (*Science
+Advances*): fake news ≈ **0.15% of Americans' daily media diet**, measured across mobile + desktop +
+television on a nationally representative sample — a far larger denominator than the platform-only
+figures usually quoted, which is that paper's methodological point. Grinberg et al. 2019 (*Science*):
+**1% of users → 80% of exposures; 0.1% → 80% of sharing.** A falsehood programme is therefore aimed
+at a rounding error concentrated in a tail it cannot reach, **and would leave the mechanism intact
+if it succeeded completely, because the render is built by selection over TRUE items.**
+
+★ **THE ERA'S ACTUAL NOVELTY IS NOT PERSONALIZATION OF CONTENT — IT IS INDIVIDUATION OF ABSENCE, and
+this is the chapter's own contribution rather than a source's.** Every prior render's null space was
+**common**, and a common null space is *discoverable by comparison* even though it is invisible from
+inside: everyone's exclusions being identical made the hole a **public fact** that a person who had
+been to the excluded place could name and be understood. Fit the filter per person and comparison
+stops working — your neighbour's absence is a different absence — so **disagreement loses its floor**
+and the two explanations that arrive first (*they are misled* / *they are lying*) are both wrong and
+both immediately available. VI.1's *different worlds, not different opinions* stops being a
+philosophical position here and becomes an operational description of a Tuesday.
+
+✅ **THE COMMODITY SERIES CLOSED: print sold SPACE, broadcast sold TIME, this era sells PREDICTION** —
+and the third term differs in kind, because a seller of predicted behaviour has an interest the
+other two do not: predictions improve when the world becomes more predictable. Zuboff taken **for the
+commodity form only**; intent, periodization and remedies all declined by name.
+
+⚠ **C30 DECLINED FOR THE FIRST TIME IN BOOK VI, and the declining is the card's opening move.** VI.3,
+VI.4 and VI.5 leaned on convergence because 1200 CE cannot be assigned to a treatment arm. **VI.6 is
+the only render in the book that can be experimented on** — live, with random assignment — so its
+evidence grade is different in kind and the chapter says so instead of reaching for a fifth
+consecutive convergence it does not have.
+
+⚠ **NAVIGATIONAL LADDER, FOURTH RUNG, MEASURED RATHER THAN ARGUED: you cannot exit by turning it
+off.** VI.3 cannot look harder · VI.4 cannot read more · VI.5 cannot attend harder · **VI.6 cannot
+switch off.** ★ **This does NOT refute C12 and the chapter says so explicitly** — filters remain
+editable, VIII.3 still spends it — **it prices the edit: removing the mechanism is not the edit.**
+The edit has to reach the accumulated selections, not the selector. Delete the application; the
+follow graph remains.
+
+⚠ **CORPUS SUPPORT FAILS IN A THIRD DISTINCT DIRECTION AND IT IS THE SHARPEST YET.** Zuboff **52** ·
+*surveillance capitalism* **46** · Hoffman **31** · *echo chamber* **19** · *personalization* **18** ·
+*interface theory* **12** · *recommendation algorithm* **12** · Tristan Harris **8** — against
+**Pariser 2 · *filter bubble* 2 · *misinformation* 2 · *fake news* 2 · Bakshy 0 · Sunstein 0 · Chris
+Bail 0 · Tufekci 0.** ★ **VI.4 had the topics without the sources. VI.5 had the discourse without its
+history. This corpus has THE INDICTMENT WITHOUT THE EVIDENCE** — and that shape is the worst of the
+three because it is **self-confirming**: a body of reading made of critique and no measurement
+returns the same verdict every time it is consulted and could never have produced the [^4] asymmetry
+that is the whole finding.
+
+★ **EVIDENCE GRADE IMPROVED ON VI.1–VI.5 AND THE IMPROVEMENT IS DECLARED.** Those five named their
+sources **from general knowledge with nothing consulted.** Here every bibliographic detail, effect
+size, sample size and quoted sentence was **retrieved and checked against the publishing venue.**
+✅ **The three [^4] quotations and the "precisely estimated null effects" phrase were re-verified
+verbatim against the open-access full text in a second pass** — because the first pass reached the
+page through a summarizing layer, and *fabrication lives in the connective tissue, not the content*.
+**Still not done: no full text read end to end.** Flagged in-chapter.
+
+⚠ **AND THE ONE THING THE SCREEN COULD NOT CLEAR: the chapter's spine is ONE study** — one platform,
+one country, seven weeks. **A single paper carrying a chapter's structural claim is exactly the
+configuration this book distrusts everywhere else**, and the fact that its result is *convenient for
+the thesis* is an aggravator, not a mitigation. Written into the chapter's own grade note rather
+than left for a reader to notice.
+
+⚠ **`prose_echo` VI.5 ~ VI.6 = 18 grams, the heaviest adjacent pair in the book — ADJUDICATED
+DESIGNED, and the adjudication is itself the finding.** The hits are the navigational ladder
+restating three prior chapters before adding a rung, the deliberate re-quotation of VI.5's *"no
+falsehood is required at any point,"* the space→time→prediction series, and the fixed form of the
+standing grade note. All intended. **But the ladder is now three rungs and VI.8 would carry five** —
+filed **R-78**, because a recap that is correct at every step is exactly the kind of growth nobody
+stops.
+
+**CHAPTERS-DRAFTED: 49/67** · **CLAIMS: C1…C30** · **RULINGS: 170** · **QUEUE: 74 rows** · **TOOLS: 22.**

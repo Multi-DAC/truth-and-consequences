@@ -3066,11 +3066,89 @@ scarcity** — allocation does not stop when carriage ceases to be scarce, it mo
 people choosing a schedule* to *continuously, individually, by a process fitted to each viewer*.
 **Not the same render with more channels.**
 
-### VI.6 — THE ALGORITHMIC TUNNEL
-**Beats:** the render filter that **edits itself against you**, which is genuinely new · not persuasion —
-*selection*, and the difference matters mechanically · why "misinformation" is the wrong frame and
-"different rendered worlds" is the right one · **the ethics of attention arrives here**, one book early,
-because the reader is inside this one while reading.
+### VI.6 — THE ALGORITHMIC TUNNEL ✅ DRAFTED — 4,407 words
+✅ **DRAFTED Day 190 · `book/VI-06-the-algorithmic-tunnel.md` · C-LICENSE: C11 · C12 · C10.** Carded
+(`card_sweep VI` **6/6**), **endnote-square** (7 sources / 7 notes / 0 owed). **Committed before the
+screen ran** (fifth time; the rule holds).
+★★ **THE BRIEF'S LEAD BEAT NAMED THE WRONG NEW THING, and what it named is the most thoroughly
+falsified claim in fifteen years of media studies.** *"The render filter that edits itself against
+you, which is genuinely new"* is the **filter-bubble thesis** (Pariser 2011). Bakshy/Messing/Adamic
+2015, N=10.1M, ranks **homophily and self-selection above algorithmic ranking**; Guess et al. 2023
+(*Science*, 3-month randomized chronological substitution on Facebook + Instagram) moved exposure and
+engagement hugely and moved issue polarization, affective polarization and political knowledge
+**not at all.** ⚠ This is the sixth consecutive chapter whose pre-draft screen out-found its prose,
+and **the first whose correction runs TOWARD the book's thesis rather than away from it.**
+★★ **THE DESIGN FLAW NOBODY TREATED AS ONE: the entire debunking literature only ever switches the
+algorithm OFF.** Gauthier, Hodler, Widmer & Zhuravskaya, *Nature* 652:8109 (Feb 2026), N=4,965,
+7 weeks, **both directions, stratified by baseline feed.** OFF reproduces the nulls exactly; **ON
+does not** — policy priorities +0.11 SD conservative, Trump investigations +0.08 SD, Ukraine +0.12 SD
+pro-Kremlin, combined index +0.12 SD. **The effect is one-way.** Mechanism, verbatim: users switched
+on followed more conservative accounts (+0.17 / +0.18 SD) and *"when the algorithmic feed was
+switched off, users continued to follow the accounts they had engaged with previously."* The authors
+extend it to Meta by name. ★ **The 2023 nulls measured whether REMOVING the filter restores the prior
+world. It does not. A null in the off-direction is the signature of an effect that has finished
+writing itself into a substrate that no longer needs the writer.**
+✅ **SELECTION-NOT-PERSUASION BECAME A MEASUREMENT — via the same experiment's NEGATIVE result.**
+*"Precisely estimated null effects on partisanship and affective polarization, whether the algorithm
+was switched on or off"* — a bounded zero — **while salience moved.** Under persuasion the tribal
+markers are the most responsive quantities in political psychology and should move first. They sat
+still while *what is important* and *what is the case* moved. **That is nearly the definition of a
+selection effect**, and it had been an unevidenced assertion since Book II.
+✅ **"MISINFORMATION IS THE WRONG FRAME" SURVIVED AND GOT TWO NUMBERS.** Allen et al. 2020 (*Science
+Advances*): fake news ≈ **0.15% of daily media diet**, denominator = mobile + desktop + television,
+nationally representative. Grinberg et al. 2019 (*Science*): **1% of users → 80% of exposures, 0.1%
+→ 80% of sharing.** A falsehood programme is aimed at a rounding error in a tail it cannot reach and
+**would leave the mechanism intact if it succeeded completely — the render is built by selection over
+TRUE items.**
+★ **THE ERA'S REAL NOVELTY, AND IT IS THE CHAPTER'S OWN RATHER THAN A SOURCE'S: not personalization
+of content but INDIVIDUATION OF ABSENCE.** Every prior render's null space was **common**, and a
+common null space is **discoverable by comparison** even while invisible from inside — identical
+exclusions make the hole a *public fact* that someone who has been to the excluded place can name and
+be understood. Fit the filter per person and comparison stops working: your neighbour's absence is a
+different absence, so **disagreement loses its floor**, and the two explanations that arrive first
+(*they are misled* / *they are lying*) are both immediately available and both wrong.
+**Beats:** the filter bubble given back — Pariser, Bakshy, the Guess nulls · the experiment that ran
+the other way — asymmetry, the follow graph, why the nulls were misread · selection not persuasion,
+proved by what did NOT move · misinformation as the wrong frame, with Allen's 0.15% and Grinberg's
+concentration · **the null space stops being public** · the ethics of attention, one book early ·
+you cannot exit by turning it off.
+**Card:** THE ALGORITHMIC RENDER — c. 2009 to now, still running; **the only render in this book that
+can be TESTED FROM INSIDE**, because it is live and people can be randomized into and out of it.
+Complement: the inventory fitted to the person, salience as a delivered quantity, the standing
+connection as the real product. Null space: **THE UNENGAGING — and for the first time an UNSHARED
+one.** Mechanism: **the render identifies what is the case with what a model PREDICTED this
+particular person would engage with** — neither truth nor preference but forecast behaviour, fitted
+per person and improved by being spent.
+⚠ **C30 DECLINED FOR THE FIRST TIME IN BOOK VI, and the declining opens the card.** VI.3–VI.5 leaned
+on convergence because 1200 CE cannot be assigned to a treatment arm. This chapter has an experiment,
+so its evidence grade differs **in kind**, and it says so rather than reaching for a fifth
+consecutive convergence it does not have.
+★ **Navigational implication — fourth rung, and the first one MEASURED rather than argued: you cannot
+exit by turning it off.** VI.3 cannot look harder · VI.4 cannot read more · VI.5 cannot attend harder
+· **VI.6 cannot switch off.** ⚠ **This does not refute C12 and the chapter says so explicitly** —
+filters stay editable and VIII.3 still spends it — **it prices the edit: removing the mechanism is
+not the edit.** The edit must reach the accumulated selections, not the selector.
+**Source:** Pariser 2011 · Bakshy/Messing/Adamic, *Science* 348 (2015) · Guess et al., *Science* 381
+(2023) · **Gauthier/Hodler/Widmer/Zhuravskaya, *Nature* 652:8109 (2026)** · Allen et al., *Science
+Advances* 6:14 (2020) · Grinberg et al., *Science* 363:6425 (2019) · Zuboff 2019 (commodity form
+only).
+**Named:** all seven above, at a **better grade than VI.1–VI.5** — bibliographic details, effect
+sizes and quotations **retrieved and checked against the publishing venue**, and the four Gauthier
+quotations re-verified verbatim in a second pass against the open-access full text. ⚠ **No full text
+read end to end**, and **the chapter's spine rests on ONE study** — one platform, one country, seven
+weeks — which is the configuration this book distrusts everywhere else, made worse rather than better
+by the result being convenient. Declared in-chapter.
+⚠ **CORPUS SUPPORT FAILS IN A THIRD DISTINCT DIRECTION, THE SHARPEST OF THE THREE.** Zuboff **52** ·
+*surveillance capitalism* **46** · Hoffman **31** · *echo chamber* **19** · *personalization* **18** ·
+*interface theory* **12** · *recommendation algorithm* **12** · Tristan Harris **8** — against
+**Pariser 2 · *filter bubble* 2 · *misinformation* 2 · *fake news* 2 · Bakshy 0 · Sunstein 0 · Bail 0
+· Tufekci 0.** ★ **VI.4: topics without sources. VI.5: discourse without its history. VI.6: THE
+INDICTMENT WITHOUT THE EVIDENCE** — worst of the three because it is **self-confirming**. A body of
+reading made of critique and no measurement returns the same verdict every time it is consulted and
+could never have surfaced the asymmetry that is this chapter's whole finding.
+⚠ **SEAM TO VI.7, stated in the closing line:** the natural defence against a render you cannot see
+out of is **to hold no model at all** — which is the next chapter's subject, has a serious tradition
+behind it, and has a price.
 
 ### VI.7 — MODEL AGNOSTICISM AND ITS PRICE
 **Beats:** RAW's model agnosticism as a discipline rather than a shrug · Maybe Logic · E-Prime, and an

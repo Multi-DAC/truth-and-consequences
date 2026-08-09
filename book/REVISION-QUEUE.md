@@ -1130,3 +1130,27 @@ before the ruling is cited, and there is currently no mechanism that does this f
 this project.** **TRIGGER: with R-75's repair** — once the ban list reads prose, this ruling's
 premise becomes a number a tool prints, instead of a sentence someone wrote down in Book II.
 medium — the instance is small, the class is not
+
+---
+
+**FILED — R-78: THE NAVIGATIONAL RECAP LADDER GROWS ONE RUNG PER CHAPTER AND IS CORRECT AT EVERY
+STEP, WHICH IS WHY NOTHING WILL STOP IT.** Each Book VI chapter closes by restating its predecessors'
+navigational implications before adding its own. VI.4 restated one, VI.5 two, **VI.6 three**, and on
+the established pattern VI.7 carries four and VI.8 carries five — at which point roughly a page of
+VI.8 is a recitation of chapters the reader has just read. ★ **The reason this is filed rather than
+fixed is that no single instance is wrong.** The ladder is the strongest device in the book: *cannot
+look harder · cannot read more · cannot attend harder · cannot switch off* is a genuine escalation
+and the reader needs the prior rungs in view to feel the tightening. **Every individual recap earns
+its place; the sequence does not.** `prose_echo` scores VI.5~VI.6 at **18 shared grams, the heaviest
+adjacent pair in the manuscript**, and every one adjudicated DESIGNED — which is exactly the reading
+under which a tool stops being able to help.
+⚠ **THE GAUGE CANNOT SEE THIS AND SHOULD NOT BE ASKED TO.** `prose_echo` reads words; the growth is
+structural, and the honest adjudication of each pair is what makes the total invisible. **A sequence
+of individually-correct decisions with no gauge on the aggregate is Drift #287's shape in a new
+substrate** — not a stamp rotting, but a *ratchet with no counter on it*.
+**Repair, for revision not now:** the ladder is stated ONCE in full, in VI.8, where it belongs
+because VI.8 is the chapter about the tunnel the reader is in; VI.5, VI.6 and VI.7 carry a one-clause
+back-reference instead of a restatement. ⚠ **Do not fix this before Book VI is drafted** — VI.7 and
+VI.8 must be written against the pattern as it stands, or the repair gets applied to a shape that is
+still moving. **TRIGGER: revision pass, after VI.8 ships.**
+low individually — medium as a sequence, and the sequence is the thing
