@@ -1528,10 +1528,21 @@ specialist reader; this buys it with the one who wants to check.
 ### ★ D. THE APPARATUS — ✅ **RULED Day 186 → ruling 9.** Name in the prose, receipt in an endnote,
 footnotes are voice only and may not qualify their sentence.
 
+⚠ **THE TEXT BELOW IS THE ORIGINAL STATEMENT OF THE PROBLEM AND ITS "UNDECIDED" IS DEAD** — kept for
+the same reason C's is, and marked Day 190 because it was **not** marked and cost a false alarm.
+Ruling 9 answered it **uniformly**: *"Book I: nothing. Everywhere after: the name lives in the
+sentence; the source lives in an endnote. Per-chapter, numbered, at the back of the book."*
+**"Everywhere after" admits no Part One / Part Two split**, so the hybrid option below died on Day
+186 — four days before ruling 167 existed to re-price it. ★ **Day 190: I read this block as live,
+found that ruling 167 moved Book IV across the hybrid's boundary, and escalated it to Clayton as an
+open decision. The alarm was correctly shaped and fired on a corpse.** A ✅ header over an unmarked
+stale body is a supersession the reader has to infer, and the reader was me. *(Memory:
+`superseded-not-stale` — a passage can be recently touched and wrong because a ruling amended it.)*
+
 Ruled already: Book I takes **no** citation, no apparatus. Everything after it names ancestors
-constantly, and rule 5b now sends us one link upstream each time. **Undecided: what that looks like
+constantly, and rule 5b now sends us one link upstream each time. ~~**Undecided: what that looks like
 as a sentence.** Inline attribution, endnotes, a back-matter register (`03` is most of one already),
-or a hybrid — Part One inline-only, Part Two noted.
+or a hybrid — Part One inline-only, Part Two noted.~~ *(Settled by ruling 9, above.)*
 
 It is not a formatting question. **An inline-citation sentence and an endnoted sentence are different
 sentences**, and 67 chapters written under one convention cannot be converted to the other without a
