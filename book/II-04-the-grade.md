@@ -3,7 +3,7 @@
 ## II.4 — THE GRADE
 
 The sentence this chapter defines has already been said once, in a book that was not permitted to
-argue. It gets said again here with its status on the table, because the whole of Part Two is this
+argue. It gets said again here with its status on the table, because everything that follows is this
 sentence taken seriously, and a reader is owed a clear look at what kind of sentence it is before
 spending six books on its consequences.
 

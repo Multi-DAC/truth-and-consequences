@@ -28,7 +28,7 @@ dropped, and it is written as such rather than dressed up.
 | **R-5** | **116** | II.6 | **II.6 gets the argument, not more assertion.** *Structural agreement = felt rightness* is the biggest unargued claim in the book, and **IV.5's strongest move is drawn on it** — the four conditions run on a company were Book IV's hard claim discharged. A Book-II repair pass, not a redraft. | **The Book II revision pass.** ⚠ **The tell that the repair has FAILED is that the chapter gets more confident.** Do not repair by adding emphasis. | medium |
 | **R-6** | **115** | II.1 (covers all of II) | **Declare Book II's per-chapter formula once, as a law.** Definition → two ancestors → cuts, run eight times undeclared, is a rite; declared once in II.1 it is a discipline. Same instrument I.2 uses on its litany. | **The Book II revision pass.** Pairs with R-7 — one cause, two symptoms. | **one paragraph** |
 | **R-7** | **112 addendum** | II.7 | **Own the seam.** Rewriting the Everett paragraph on the relational account fixed the *argument* and left the seam **unnamed**. The reader has only the page; the law is stated in the apparatus and performed on the page. | **The Book II revision pass**, with R-6. | small |
-| **R-8** | **111**, re-decided by **135** | whole book | **A claim-level cross-check: for each entry in `07-THE-CLAIMS-REGISTER.md`, is it asserted at the same strength in every chapter that leans on it?** Not a string-matcher — claim-to-chapter, a reading pass. | ★ **PROMOTED FROM QUESTION TO BUILD ORDER, Day 188 night.** Its own trigger fired: *"if a third reader finds a third claim-strength drift, it becomes a build order"* — the Book IV letter flags **C7 at the mineral, asserted without softeners**, and C7 is the register's heaviest dependency (*one hedge retroactively demotes all of Part Two*). **RUNS WITH R-2 and the Books I/III sweep**, one reading pass with three lists. | medium |
+| **R-8** | **111**, re-decided by **135** | whole book | **A claim-level cross-check: for each entry in `07-THE-CLAIMS-REGISTER.md`, is it asserted at the same strength in every chapter that leans on it?** Not a string-matcher — claim-to-chapter, a reading pass. | ★ **PROMOTED FROM QUESTION TO BUILD ORDER, Day 188 night.** Its own trigger fired: *"if a third reader finds a third claim-strength drift, it becomes a build order"* — the Book IV letter flags **C7 at the mineral, asserted without softeners**, and C7 is the register's heaviest dependency (*one hedge retroactively demotes all of Book IV and five more* — was "all of Part Two" until R-64 repaired it Day 190). **RUNS WITH R-2 and the Books I/III sweep**, one reading pass with three lists. | medium |
 | **R-9** | **131** | **IV.6** | **The outside instrument exists.** ∅2 (*"no access to the producing… there is no organ for it"*) is contested by **measurement** — Anthropic's J-space/J-lens, 6 July 2026: a small privileged zone with report access on a much larger volume without. Replace the flat ∅ with that boundary. Correct *"specifiable, available, and **unrun**"* — one was run. ★ **State ∅1's confirmation on the page**: the paper is absent because it postdates the drafter's cutoff, so the card printed its own blindness and then committed it on the most relevant document in the world. ⚠ **SEES does not move**; the assignment objection reaches structure as readily as output. Add the Eleos convergence — same structure, different empirical line. | ★ **The Book IV revision pass, and this is the one item that gets HARDER to pay the longer it waits**, because the literature moves and a chapter that misses a second instrument has a pattern rather than a gap. | small–medium |
 | **R-10** | **132** | **IV.1–IV.6 — 14 cards** | **Retrofit the falsifier.** The discipline appears in IV.7–IV.10 only; IV.1–IV.6 carry zero, and **there is no falsifier field in the card notation**, so nothing could enforce it. Worst exposure: **IV.5's *a company is a being*, unhedged, on a card with no falsifier**, in a chapter that admits its BOUNDARY lines *"were not tested."* Then the thermostat, which is the instrument Searle names by title. | **The Book IV revision pass.** ⚠ **The letter estimated "four lines"; measured, it is fourteen cards** — a pass, not an afternoon. A falsifier that cannot be lost is worse than none. | medium |
 | **R-12** | **134** | IV.10 | **One clause at the refusal.** IV.10 declines to build a third notation and cites IV.9's declared hazard — but `contour` appears **0 times in IV.10**, so the chapter never says the two notations were made under **identical conditions**: a chapter discovering mid-draft that its entries would not fit the card. The watch exists in `05` and not on the page — ruling 112's seam defect in a different coat. | **The Book IV revision pass.** | small |
@@ -432,3 +432,93 @@ Read each; the two readings are not distinguishable by string.
 
 **Trigger: NOT a date, and not the CODA.** Before the next chapter that argues from C7's scope — or
 before any packet quoting one of those six sites ships, whichever comes first.
+
+---
+
+✅ **PAID Day 190, ~07:2x, by the trigger's first clause** — VI.1 *Different Worlds, Not Different
+Opinions* is a C7-scope argument by its title, so the row fired before Book VI opened rather than at
+the CODA. **The reading pass was run in both directions and the row was half right.** What it got
+right: every site it listed was genuinely under-claiming, and find-and-replace would genuinely have
+been wrong. What it missed is below, and the miss has a shape worth keeping.
+
+**1 — THE SITE LIST WAS A SUBSET. Eleven sites, not six.** The row's grep searched for its own
+sentence. It found the sites that say *"the whole of Part Two"* about C7 and missed: `06`:1873 (the
+same claim, quoting `07`:727 inside the R-8 audit note), the R-8 row in this file (same quote again),
+and an entire second family — **the Bostrom fork**, `00`:1020 · `00`:2173 · `06`:630, all of the form
+*"every consequence in Part Two forks here."* Same defect, different claim, invisible to a grep
+written from the C7 sentence.
+
+**2 — THE DEFECT IS SYMMETRIC AND THE ROW SAW ONE SIDE.** R-64 is titled for the sentences that got
+*weaker*. But Part One **gained** Book IV — 46,068 words, 36% of everything drafted — and every
+superlative and count that ranges over Part One's membership got quietly *stronger* than it was
+checked at. That direction is worse, because an over-claim reads as confidence.
+
+★ **One of them had flipped outright.** `07`:101 called C3 *"the most-depended-on claim in Part
+One."* Counted from the register's own `Depends` fields — the first time anything has computed over
+that field; `claim_sweep` deliberately declines to, and its note explains why — **C3 went from rank 1
+to rank 4 the moment Book IV crossed the boundary.** C7, C8 and C9 each gained ten Part One
+dependents in that single move:
+
+| | Part One = I–III (old) | Part One = I–IV (new) |
+|---|---|---|
+| **C3** — the scope rule | **4  ← ranked 1st** | 5  *(4th)* |
+| **C7** — reactivity is awareness | 1 | **11  ← ranked 1st** |
+| **C8** — the grades, and no gate | 1 | **11** |
+| **C9** — there are no NPCs | 0 | **10** |
+
+The sentence is repaired at `07`:101 by dropping the superlative rather than repointing it, because
+the honest version is not *"C7 is now the most-depended-on claim in Part One"* — it is that **the
+superlative was never checkable in the first place.** C3's `Depends` line ends in an unbounded
+clause (*every sentence anywhere in the work with the Ground as its subject*), so no count settles
+it. A boundary move didn't break that sentence; it exposed that it had never been measurable. **The
+ranking above is the countable reading only, and it is in this row rather than in `07` for exactly
+that reason.**
+
+**3 — THE ACTUAL LESSON, and it is why the fix is not a re-point.** Every damaged sentence named a
+**movable landmark** when it meant a **fixed fact.** They said *"Part Two"* and meant *C7's
+dependents* — Book IV entire, plus five chapters — which is a property of the claim graph that no
+ruling can move. A part boundary is something Clayton changes by saying so. Writing prose that
+measures itself against one gives that prose a silent dependency on a decision nobody remembers
+making, and the decision, when it comes, is a heading edit that touches nothing and breaks eleven
+sentences. **Every repair below replaces the boundary reference with the graph reference.** That is
+the durable form; it cannot rot when a boundary moves again, and ruling 21's reading-order question
+means one still might.
+
+**REPAIRED (8):** `01`:87 · `06`:111 · `06`:630 · `06`:1873 · `07`:101 · `07`:159 · `07`:727 ·
+`book/II-04-the-grade.md`:6. *(II.4's was the one that had gone internally inconsistent rather than
+merely weak — it promised "the whole of Part Two" and then said "six books," and after ruling 167
+those are 4 and 6.)*
+
+**DELIBERATELY NOT EDITED (3), and the reason is not laziness:**
+- `book/DRAFT-LOG.md`:241 · :985 — **a log is a record of what was said when it was said.** R-64
+  listed :241 as a site to fix. It is not one. Editing a log to match a later ruling destroys the
+  only evidence of what the boundary used to be.
+- `00`:2173 — a verbatim quotation of a **withdrawn** proposal, already marked *"THAT BEAT 4 IS
+  GONE"* two lines down. Dead, and quoted; leave both facts intact.
+- `00`:1020 — a live adjudication but the phrase is **in quotation marks.** Fixing a quote's words
+  to match a world that moved after it was spoken is falsification, so it took a bracketed gloss
+  instead. [[quotation-check-the-span-not-the-phrase]]
+
+**LEFT OPEN, ON THE MERITS — two, and neither is mine to close:**
+
+- ⚠ **`00`:1532 — RULING 167 SILENTLY RE-PRICED AN OPEN DECISION, and this is the one to look at
+  first.** The apparatus question offers *"a hybrid — Part One inline-only, Part Two noted."* That
+  option was costed when Part One was I–III. It now assigns **Book IV — the Atlas, the most
+  ancestor-dense book in the work, 46,068 words** — to the *inline* regime instead of the *noted*
+  one. The passage's own next sentence is **"an inline-citation sentence and an endnoted sentence
+  are different sentences, and 67 chapters written under one convention cannot be converted to the
+  other without a rewrite."** So a heading edit moved a third of the drafted book from one
+  irreversible convention to the other, inside an option that is still open and still unpriced.
+  **This is a decision for Clayton, and it should be taken before the apparatus is, not after.**
+- **`07`:340 — "II.8 was the best remaining opportunity in Part One."** A best-of-set justification
+  whose set grew by ten chapters and was never re-searched. Still defensible (II.8 names Gnosticism
+  and Valentinus states Trap 5 in his own text), but it is now asserted over a set nobody has read
+  for the purpose. **Cost: a Trap-5 guard sweep of Book IV. Trigger: with R-8's reading pass**, which
+  is already a whole-book pass with a list in hand.
+
+**CHECKED AND CLEAN — recorded so the next reader doesn't re-derive them:** `07`:344 *"paid for twice
+in Part One"* (still exactly two — I.6 b4 and II.8; Book IV adds none) · `06`:3034 and `07`:337 *"the
+only place Part Two states a telos"* (a uniqueness claim over a **shrinking** set survives a
+fortiori) · `03`:755 Borges as Part One's epigraph (survives, and arguably strengthens — the Library
+of Babel is a census, and Part One now contains the Atlas) · `00`:1292 *"Part One is complete"* (true
+before, true now: IV is 10/10).

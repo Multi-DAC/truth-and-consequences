@@ -8115,3 +8115,69 @@ the smaller cost than a title that disagrees with its own structure.
 
 **CHAPTERS-DRAFTED: 43/67** · **CLAIMS: C1…C30** · **RULINGS: 167** · **QUEUE: 63 rows, 1 declared
 hole (R-44), 1 noted collision (R-32)** · **TOOLS: 20.**
+
+---
+
+## DAY 190 — 2026-08-09, Sunday morning. R-64 PAID, AND THE ROW WAS HALF RIGHT.
+
+**Fired on its own first clause, not on a date.** R-64's trigger was *"before the next chapter that
+argues from C7's scope."* The next chapter is **VI.1 — DIFFERENT WORLDS, NOT DIFFERENT OPINIONS**,
+which is a C7-scope argument in its title. The row came due before Book VI opened, twelve hours after
+it was filed, exactly as written. **A trigger keyed to an event fired at the event.** Worth setting
+beside last night's note that 137's correct-but-distant trigger was indistinguishable from no trigger
+for twenty-four books: same file, same night, opposite outcomes, and the difference is entirely
+whether the trigger names something that actually happens next.
+
+**WHAT THE ROW GOT RIGHT:** every site it listed was genuinely under-claiming, and its ⚠ against
+find-and-replace was correct — two readings shared one string and only reading told them apart.
+
+**WHAT IT MISSED, and the miss is the interesting half.**
+
+**Eleven sites, not six.** R-64's grep was written *from its own sentence*, so it found the sentences
+shaped like itself and was blind to the rest: `06`:1873 (same claim, quoting the register inside the
+R-8 note), the R-8 row itself, and a whole second family — **the Bostrom fork**, three sites of the
+form *"every consequence in Part Two forks here."* Different claim, identical defect. **A grep
+derived from the finding cannot find the finding's siblings**; it can only find its own reflection.
+
+**And the defect was symmetric while the row was not.** R-64 is titled for what got *weaker*. But
+Part One **gained** Book IV — 46,068 words, 36% of everything drafted — so every superlative and
+count ranging over Part One's membership got quietly *stronger than it was ever checked at*. That is
+the worse direction: an over-claim reads as confidence, and nothing in the file objects.
+
+★ **One had flipped outright.** `07`:101 called C3 *the most-depended-on claim in Part One.* Counted
+from the register's own `Depends` fields — **the first time anything has ever computed over that
+field** — C3 went **rank 1 → rank 4** the instant Book IV crossed. C7, C8 and C9 each picked up ten
+Part One dependents in one heading edit. *(Full table in R-64. `claim_sweep` declines to read
+`Depends` on purpose and its comment explains why; the hypothesis that the tooling shared the
+blindness was checked and is false. There is no parser. That is why it rotted.)*
+
+⚠ **The repair was to delete the superlative, not to repoint it** — because the honest finding is not
+*"C7 is now the most-depended-on claim in Part One."* It is that **the sentence was never checkable.**
+C3's `Depends` line ends in an unbounded clause (*every sentence anywhere with the Ground as its
+subject*), so no count settles it, before or after. **The boundary move did not break that sentence.
+It exposed that it had never been measurable** — and it took a ruling to make anyone count.
+
+**THE LESSON, and it is why nothing was re-pointed at Part One:** every damaged sentence **named a
+movable landmark when it meant a fixed fact.** They said *"Part Two"* and meant *C7's dependents* —
+Book IV entire plus five chapters — a property of the claim graph that no ruling can move. A part
+boundary is something Clayton changes by saying so. **Prose that measures itself against a movable
+landmark acquires a silent dependency on a decision nobody remembers making**, and when the decision
+comes it arrives as a heading edit that touches nothing and breaks eleven sentences. Every repair
+replaces the boundary reference with the graph reference. Ruling 21's reading-order question is still
+open, so this will be tested again.
+
+**Three sites deliberately left alone.** Two log entries — **a log records what was said when it was
+said**; R-64 listed one as a site to fix and it is not one. And `00`:1020, where the phrase sits in
+quotation marks: fixing a quote's words to match a world that moved after it was spoken is
+falsification, so it took a bracketed gloss instead.
+
+**LEFT OPEN FOR CLAYTON — ruling 167 silently re-priced a decision that is still open.** `00`:1532's
+apparatus hybrid reads *"Part One inline-only, Part Two noted."* That option now assigns **Book IV —
+the most ancestor-dense book in the work** — to the *inline* regime instead of the *noted* one, and
+the passage's very next sentence says an inline sentence and an endnoted sentence **are different
+sentences and 67 chapters cannot be converted without a rewrite.** A heading edit moved a third of
+the drafted book across an irreversible convention, inside an option nobody has re-costed. **That is
+a decision, and it wants taking before the apparatus is settled rather than after.**
+
+**CHAPTERS-DRAFTED: 43/67** · **CLAIMS: C1…C30** · **RULINGS: 167** · **QUEUE: 63 rows, R-64 PAID,
+1 declared hole (R-44), 1 noted collision (R-32)** · **TOOLS: 20.**

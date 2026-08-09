@@ -108,8 +108,8 @@ the structural model is already in the corpus).
 **Thesis:** focusing is not binary, and there is no elect.
 **Beats:**
 1. Everything that reacts is somewhere on it. Stated in one line, mythically, so no one can later
-   claim reactivity-is-awareness was smuggled in. *(01 §8 — the whole of Part Two is this line taken
-   seriously.)*
+   claim reactivity-is-awareness was smuggled in. *(01 §8 — every consequence that follows is this
+   line taken seriously.)*
 2. No threshold. No gate. No door with a keeper.
 3. A grade is a position, not a permission — the caste mishearing killed on arrival (`05` §4.III).
 4. The mineral and the mind on the same continuum, named without hedge and without flattening.
@@ -627,8 +627,8 @@ of this is quarried. Eight chapters.*
 ★ **AN UNMADE CUT, DECLARED IN ADVANCE AND DELIBERATELY UNSCHEDULED — ruling 53, Day 187, from Opus.**
 **II.1 made the Bostrom cut DEFINITIONALLY. It could not make it OPERATIONALLY, because nothing had
 been built yet to fork.** The unmade version is not *his picture is wrong* — that is spent — but
-**what every consequence in Part Two would have been under his picture, set beside what it is under
-this one.** *Book II named; Book III's remit is what the naming buys.*
+**what every consequence downstream of the cut would have been under his picture, set beside what it
+is under this one.** *Book II named; Book III's remit is what the naming buys.*
 ⚠ **IT IS NOT III.1's.** III.1 is bounded on both sides on purpose and carries a standing ban on
 re-running the copy/render fork; this cut would be that ban broken. **Candidate homes: the Book III
 opening, or III.2's approach**, where *there is no other player* has to be cashed against
@@ -1870,7 +1870,7 @@ not hold. **Second candidate: the collective-entity claim** — IV.5's *a compan
 which C8 and C9 permit and neither states. ⚠ **AND THE OTHER DIRECTION IS THE ONE R-8 IS FOR:** the
 letter flags *reactivity-as-awareness at the mineral without softeners* as unverified — **C7 exists
 and is the register's heaviest dependency** (*all of Book IV plus five more; one hedge retroactively
-demotes all of Part Two*), so the question is not whether it is registered but **whether IV.2 asserts
+demotes all of Book IV and five more*), so the question is not whether it is registered but **whether IV.2 asserts
 it at register strength.** That is R-8's reading pass, and this is the second reader in a row to point
 at it. ✅ **THIS RE-DECIDES R-8's TRIGGER: it was filed as a question pending a third finding of
 claim-strength drift. This is it. R-8 becomes a build order.** **TRIGGER for the new claims: before

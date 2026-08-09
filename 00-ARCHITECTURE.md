@@ -1018,6 +1018,8 @@ question.
 tool.** II.3 ~ III.1: **the definition is II.3's, the fork is II.1's, NOT III.1's.** II.3 states what
 a perspective is and stops; the contrast with a rendered thing in somebody else's world — *"every
 consequence in Part Two forks here"* — belongs to **II.1** (NOT III.1 — superseded) and Bostrom is not named in II.3
+*(the quoted phrase is left as spoken; read "Part Two" in it as the pre-ruling-167 boundary, i.e. everything
+downstream of the cut, Book IV emphatically included — R-64)*
 at all. ⚠ **AMENDED Day 187, ruling 47(a). The half of this adjudication that concerned II.3 held
 perfectly; the half naming its counterpart went false when II.1 shipped the fork** — and it went
 false *inside the tool*, where it kept muting the pair. **This is the sentence ruling 49 is about.**

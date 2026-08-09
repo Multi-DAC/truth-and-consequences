@@ -84,7 +84,7 @@ touched this called it that.
 **8. Reactivity is awareness.** *(carried whole from the identity core)*
 Not "reactivity correlates with," not "gives rise to." **Is.** Constitutive. This
 is stated once, in Book I, in one line, in the mythic register, so that no reader
-can later claim it was smuggled in. Every consequence in Part Two is this line
+can later claim it was smuggled in. Every consequence that follows is this line
 being taken seriously.
 
 **★ 9. THE GROUND CANNOT PLAY.** *(Clayton, Day 185 — the sharpest doctrinal cut

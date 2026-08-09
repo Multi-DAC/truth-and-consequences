@@ -97,8 +97,11 @@ One of them makes C3 false in the same sentence that asserts C2.
 **Establishes:** I.2 b2 (dramatised, not stated) · II.1
 **Depends:** I.1 · I.6 · II.1 · III.2 · IV.8 · V.1 · V.9 · V.10 · VII.8 — **and every sentence
 anywhere in the work that has the Ground as its subject.**
-**Trap:** Trap 1 (Gnosticism) and Trap 3 (anthropomorphism) both spring here, and this is the
-most-depended-on claim in Part One.
+**Trap:** Trap 1 (Gnosticism) and Trap 3 (anthropomorphism) both spring here, and this claim is
+leaned on in six of the eight books, plus every sentence anywhere in the work with the Ground as
+its subject. *(Was "the most-depended-on claim in Part One" — true when Part One was I–III, false
+once ruling 167 moved Book IV across: C7, C8 and C9 each gained ten Part One dependents in that
+one move and C3 went from first to fourth. R-64.)*
 ⚠ **The breach is almost never in the main verb.** Nobody writes "the Ground wanted." They
 write *"the Ground, seeking…"*, *"the Ground, having grown…"*, *"what the Ground gains by…"*.
 **Participles and possessives are where this claim dies.** Sweep for those, not for verbs.
@@ -155,9 +158,11 @@ to be affirmed.** Book VII's entire ethics is downstream of this claim and of no
 **Establishes:** I.4 b1 — one line, mythic register, stated early **so that no reader can
 later claim it was smuggled in** · II.4 (defined once)
 **Depends:** the whole of Book IV · III.5 · VII.2 · VII.3 · VII.6 · VIII.6
-**Trap:** any softener. *May be · in some sense · a kind of · something like.* **The whole of
-Part Two is this line taken seriously**, so a hedged instance anywhere converts every
-consequence downstream into a speculation, retroactively.
+**Trap:** any softener. *May be · in some sense · a kind of · something like.* **Every chapter in
+the Depends line above is this line taken seriously**, so a hedged instance anywhere converts every
+consequence downstream into a speculation, retroactively. *(Read that literally and not as a part
+number: this trap's blast radius is the claim graph, which no ruling moves, and it said "the whole
+of Part Two" until ruling 167 moved Book IV — C7's own heaviest dependent — out of Part Two. R-64.)*
 **Near-miss to refuse:** panpsychism-with-a-threshold. There is no threshold — that is C8.
 ⚠ **C7 is the *inside* sense of the word only.** The Ground is aware in a different sense, and
 that sense is **C24**, without which I.1's *"It is aware"* asserts more than C1–C6 license.
@@ -724,7 +729,7 @@ says something the chapter map cannot: **the claims that appear least often are 
 | claim | dependents | why it tops the list |
 |---|---|---|
 | **C3 — the scope rule** | every sentence with the Ground as subject | breaches arrive in participles, not verbs |
-| **C7 — reactivity is awareness** | all of Book IV + five more | one hedge retroactively demotes all of Part Two |
+| **C7 — reactivity is awareness** | all of Book IV + five more | one hedge retroactively demotes all of Book IV and five more |
 | **C9 — no NPCs** | all of Book IV + Book VII's ethics | it is C7's ethical form; it inherits C7's fragility |
 | **C6 — the Ground cannot play** | 9 chapters, and C9 | deleting it deletes C9 *while sounding affirming* |
 | **C15 — the telos** | 8 chapters | Trap 5 springs ten chapters after its only guard |
