@@ -87,7 +87,7 @@ new.
 
 ---
 
-### The bottleneck, not the installation
+### Carriage scarcity, not first installation
 
 The second thing this chapter has to give back is its own best anecdote.
 
@@ -138,16 +138,16 @@ Whatever the render of that period was, it was assembled from an input set narro
 before it in a literate society — narrower than the print era on either side of it.
 
 That is the honest claim, and it is stranger than the one it replaces. The broadcast era is not the
-moment a render was installed at scale for the first time. It is a **bottleneck** — a historically
+moment a render was installed at scale for the first time. It is a period of **carriage scarcity** — a historically
 anomalous few decades in which the number of available renders collapsed, sat at its minimum, and
 then reopened. It has a beginning and it has an end and we are past the end. Anyone reasoning about
 the present from the assumption that a shared render is the normal condition and fragmentation the
-deviation has it precisely backwards: the fragmentation is the historical norm and the bottleneck
+deviation has it precisely backwards: the fragmentation is the historical norm and the scarcity
 was the anomaly, and it lasted about as long as one working life.
 
 This matters for Book VII, so it goes on the record here. Almost every account of what has happened
 to public discourse in the last twenty years is written as a story of *loss* — we had one world and
-it broke. The measurement says: we had an unusually narrow aperture for an unusually short time,
+it broke. The measurement says: the number of available renders collapsed for an unusually short time,
 inside a much longer history of plurality, and it closed. Those are different diagnoses and they
 recommend different things.
 
@@ -210,11 +210,11 @@ the rule exists.
 Now the ledger, and it has to be honest in both columns, because this is the point in the chapter
 where a writer's own affections start doing the arithmetic.
 
-**What the bottleneck bought was a common referent.**
+**What carriage scarcity bought was a common referent.**
 
 Not agreement. This is the distinction the nostalgia gets wrong and it is worth being exact about.
 Three networks did not make people agree; the period was not short of ferocious disagreement. What
-the narrow aperture produced was a shared *object* for the disagreement to be about. Two people who
+the collapse in the number of stacks produced was a shared *object* for the disagreement to be about. Two people who
 loathed each other's politics had, to a first approximation, seen the same footage. The argument
 could be about what it meant, because the what-happened was not itself in play. And a common
 referent is enormously expensive to build and does real work: it is what makes a public argument
@@ -223,10 +223,10 @@ kind of vertigo — the sense that a disagreement has no floor, because there is
 underneath at which both parties are looking at one thing.
 
 Print's plurality never delivered that, because it never had to: a reader chose their paper, and
-the choosing was the filter. The bottleneck delivered it as a *side effect of scarcity*. Nobody
+the choosing was the filter. Carriage scarcity delivered it as a *side effect of scarcity*. Nobody
 designed it. It fell out of the number of frequencies.
 
-**What it cost was everything the aperture did not carry, and the cost was invisible from inside by
+**What it cost was everything the surviving few did not carry, and the cost was invisible from inside by
 construction.**
 
 An hour of national airtime is the scarcest good the era had, and it was allocated. Something
@@ -263,10 +263,10 @@ somewhere the allocation does not reach.
 
 And it is worth saying, since this book's whole method turns on it: none of this required anyone to
 lie. Every hour can be accurate. The render is made at the point of contact — a technology does not
-hand one out finished — and what the bottleneck supplied was not falsehood but a *shape*, produced
+hand one out finished — and what the scarcity supplied was not falsehood but a *shape*, produced
 by scarcity, honestly filled.
 
-The era after this one keeps the shape and removes the scarcity. When the aperture is no longer
+The era after this one keeps the shape and removes the scarcity. When carriage is no longer
 narrow, allocation does not stop; it moves. It stops being done once, centrally, by people choosing
 a schedule, and starts being done continuously, individually, by a process fitted to each viewer.
 That is not the same render with more channels. It is the first filter stack that edits itself

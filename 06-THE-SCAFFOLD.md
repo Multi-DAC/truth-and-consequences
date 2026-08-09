@@ -2979,9 +2979,92 @@ asked to notice what they are doing, which is available for no other era in Book
 restates the other; VI.6 inherits the embedding and need not re-establish it, VI.4 does not touch
 the ethics.
 
-### VI.5 — ELECTRIC
-**Beats:** simultaneity · the broadcast tunnel — one filter stack installed at scale for the first time ·
-the century when attention became a market · what a shared render costs and what it buys.
+### VI.5 — ELECTRIC ✅ DRAFTED — 4,000 words
+✅ **DRAFTED Day 190 · `book/VI-05-electric.md` · C-LICENSE: C11 · C10 · **C30** · C12.** Four beats,
+carded (`card_sweep VI` **5/5**), six endnotes with publishers and dates, the standing grade note.
+**Committed before the screen ran** (fourth time; the rule holds).
+★★ **THE BEAT SHEET GAVE THE ELECTRIC ERA THREE JOBS PRINT ALREADY DID — and VI.4, drafted the same
+day, is the print chapter.** The pre-draft screen checked each sheeted beat against the standing
+scholarship and **three of four** turned out to assign to electricity an origin the best source
+assigns to print. This is the fifth consecutive chapter whose screen out-found its prose, and the
+reason it is not expectation-driven is that each leg is a **named, checkable source contradicting a
+specific clause**, not a reading: **(a) simultaneity** — Anderson puts *homogeneous, empty time* and
+the felt shared present in **print-capitalism**, the newspaper as a **mass ceremony**, a century
+before the telegraph; **(b) "the century when attention became a market"** — Wu dates the first
+business built on buying attention cheap and reselling it dear to **1833, Benjamin Day's *New York
+Sun***, sold below cost against six-cent rivals: **a newspaper**; **(c) "one filter stack installed
+at scale for the first time"** — the canonical instantiation is the **1938 *War of the Worlds*
+panic**, which **did not happen** (Pooley & Socolow 2013: ~2% ratings, six NYC hospitals with zero
+attributable admissions, Cantril's million produced by counting *frightened/disturbed/excited* as
+*panicked* on a sample he concedes was unrepresentative).
+★★ **AND THE MYTH'S PROVENANCE IS THE BOOK'S OWN THESIS PERFORMING ITSELF UNASKED.** The panic story
+was manufactured by **newspapers**, the morning after, by an industry watching its advertising
+migrate to a competitor it could not follow. **The most-cited demonstration of the broadcast
+render's power over belief is a false belief, held eighty years, installed by the PREVIOUS render's
+owners in defence of the attention market beat 3 is about.** It is not evidence for the claim it is
+always used to support; it is evidence for a better one — a filter stack under competitive threat
+renders its rival as a danger, and the picture outlives everyone who had a motive.
+✅ **EVERY BEAT RE-SPECIFIED RATHER THAN DROPPED, and each survivor is sharper than what it
+replaced.** (1) Not simultaneity but **liveness** — print gives the same **day** about a **settled
+past** and tolerates asynchronous reading; electric gives the same **instant** about an **unsettled
+present**, and the *unresolvedness* is the shared object. The record cannot hold it: watch a
+recorded final knowing the score and everything is present except the only property that was new.
+(2) Not first installation but a **CARRIAGE SCARCITY** — print at height was **plural** (hundreds of
+stacks); broadcast **removed** stacks, on spectrum scarcity, to **three US networks for ~40 years**.
+**The fewest simultaneous renders a literate society has had, with a beginning and an end, and we are past
+the end.** ★ Consequence filed for Book VII: accounts of the last twenty years written as *loss*
+have it backwards — **fragmentation is the historical norm and the scarcity was the anomaly**,
+lasting about one working life. (3) The commodity form: **print sold SPACE, broadcast sold TIME** —
+space non-rivalrous and soft, time **rivalrous, schedulable** (sellable in advance for a future
+interval, which is a financial instrument) and **centrally timed**, so a population's attention
+acquires a shape imposed from outside on a national clock. Simon 1971 supplies the **budget**
+framing rather than the epigram. (4) The ledger: carriage scarcity bought a **common REFERENT — not
+agreement**, and the distinction is what the nostalgia gets wrong; the era was not short of
+ferocious disagreement, it had a shared *object* for it, a floor under the argument.
+✅ **C30 LICENSED AND DECLARED, fourth consecutive instance, and the convergence is real.** Anderson
+reaches organized attention from **nationalism** and calls it a mass ceremony; **Wu** from antitrust
+and communications law and calls it a market; **Debord** from an unrelated tradition and calls it
+the spectacle. Three vocabularies, no shared ancestor, one structure. **Strength is in the
+independence of the routes, not the count** — conclusions taken, **all three programmes declined**
+by name (not Anderson's nationalism, not Wu's remedies, not Debord's revolutionary conclusion).
+⚠ **CORPUS SUPPORT IS BETTER THAN VI.4'S AND FAILS IN A NEW DIRECTION — the inverse defect, and
+worse.** Measured over **3,069** files, **a WIDER scope than R-67's declared 2,550** (`archive/` and
+`_superseded/` not excluded), so every figure is a **ceiling** relative to the declared scope and is
+labelled as such in the chapter: *attention economy* **38** · *simultaneity* **24** · Debord **21** ·
+*Imagined Communities* **13** · Simon **10** · Wu **8** · *penny press* **4** · Anderson **3** ·
+Cantril **1** — against **McLuhan 0 · "global village" 0 · Postman 0 · Innis 0 · Carey 0 · "War of
+the Worlds" 0 · Orson Welles 0.** ★ **VI.4 had the topics present and the sources absent — the
+popularizer defect. Here the LATER DISCOURSE is well attested and its HISTORY is at zero:** the
+vocabulary of the attention economy is everywhere and the entire media-studies canon that produced
+it is missing. **That is a position held without its provenance — more stable than ignorance and
+harder to correct, because it has citations and they are all downstream.**
+**Beats:** the render being *left*, entered from just outside — the last shared unarranged moment ·
+the simultaneity print already made, Anderson given whole, then the cut to **liveness** · the
+carriage scarcity not the installation — *War of the Worlds* demolished, its provenance, and the
+three-network anomaly · attention from **space to time**, Wu's 1833 conceded, Simon's budget,
+Anderson/Wu/Debord convergence under C30 · the ledger — common referent bought, the unshared paid.
+**Card:** THE BROADCAST RENDER — industrialized world c. 1920–1990, narrowest c. 1950–1980; **the
+only render in this book that can be viewed from OUTSIDE**, recent enough to have formed most
+living adults and over recently enough to have a far wall. Complement: the live event, the shared
+instant of an unsettled outcome, a common referent beneath disagreement, the national schedule as a
+structure of the day. Null space: **THE UNSHARED** — the local, the slow, the
+unresolvable-by-segment, the background-dependent, and every population too small to constitute an
+audience, *which is the same sentence as too small to be real*. Mechanism: **the render identifies
+what is the case with what is CARRIED**; carriage is physically scarce and allocated by audience
+size, so failure to be carried is indistinguishable from nonexistence — **and no falsehood is
+required at any point; every carried hour may be accurate.**
+★ **Navigational implication — the harshest in Book VI, and the trap closes one turn tighter than
+its two predecessors.** VI.3: cannot find the error by looking harder, because looking performs the
+reassignment. VI.4: cannot find what was lost by reading more, because reading performs the
+exclusion. **VI.5: cannot discover its exclusions by attending harder, because attention IS the
+resource being allocated — so every increment of ordinary diligence (watch more, stay better
+informed) spends more of the exact good whose allocation constitutes the filter. The conscientious
+viewer is deeper inside this render than the careless one.** The only motion that reaches the null
+space spends attention where the allocation does not run.
+⚠ **SEAM TO VI.6, stated in the closing line:** the next era **keeps the shape and removes the
+scarcity** — allocation does not stop when carriage ceases to be scarce, it moves from *once, centrally, by
+people choosing a schedule* to *continuously, individually, by a process fitted to each viewer*.
+**Not the same render with more channels.**
 
 ### VI.6 — THE ALGORITHMIC TUNNEL
 **Beats:** the render filter that **edits itself against you**, which is genuinely new · not persuasion —
