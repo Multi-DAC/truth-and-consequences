@@ -116,7 +116,16 @@ on the grounds that the framework does not require choosing. It carries a dual-f
 with real care: reports of this kind must be held as *both* possibly literal and possibly
 encounters with stable features of the landscape, because a literal traveller passing through the
 region of a shape would be perceived *through* that shape by anyone whose access runs partly through
-story. It carries an evidence basis with three named grades.
+story. It carries an evidence basis with three named grades, and since a reader who stops at the end
+of this book is otherwise told a tier is missing and handed nothing to weigh it with, here they are.
+**Instrument records** — military sensor data and radar tracks — which are real, few, public in only
+a handful of cases, and which establish an unidentified track and not an occupant. **Testimony at
+scale**, cross-culturally convergent, which is the same grade this census has assigned to testimony
+everywhere else in it and gets no better treatment here for being modern. And **governmental
+acknowledgement** — named offices, hearings on the record, sworn statements — which sounds like the
+strongest of the three and is the weakest for this question, because it is evidence that an
+institution is investigating and testifying, which is a fact about the institution. What the tier is
+worth is the next book's problem. What it contains is this one's, and this is it.
 
 Every one of those problems is a problem this atlas has now solved somewhere else. The refusal to
 collapse two frames prematurely is the exact discipline installed in the non-physical chapter and
