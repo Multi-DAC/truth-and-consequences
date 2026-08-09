@@ -86,6 +86,44 @@ dropped, and it is written as such rather than dressed up.
 
 ---
 
+### R-70 — a trigger set at the wrong boundary is not a late alarm, it is a TRAINED-DOWN one
+
+**Filed Day 190 at VI.3, by the row it describes.** R-52's first group carried the trigger
+**"Before Book VI opens."** The debt it guarded was chapter-level and the row said so in its own next
+clause — *"in the two chapters (VI.3, VI.5) that are about it."* Book VI opened at VI.1. **So the
+trigger fired two chapters before anything owed it, was correctly passed twice, and arrived at the
+chapter that did owe it wearing the appearance of a trigger already cleared.**
+
+★ **The failure mode is not the one this file was built for.** Every other row here guards against a
+deferral with *no* trigger. This is the opposite defect: a trigger that is **present, dated, honest,
+and pointed at the wrong event** — and its damage is that passing it teaches you it is passable.
+Two clean passes are indistinguishable from two verifications. The third reading is the one that
+matters and it is the one arriving with the least attention on it.
+**Same family, different scale:** the WARN that prints at every boot is the WARN nobody reads
+(Day 182, HNSW/schedule); a *"Last Verified"* stamp decays silently while looking fresh (Drift #287).
+**All three are gauges that fire where nothing is wrong, and the cost is paid on the occasion when
+something is.**
+
+⚠ **What makes this findable rather than a story:** the row's own text contains both boundaries — a
+book-level trigger in the trigger field and a chapter-level scope in the body, four words apart, and
+they disagreed for three days. **The contradiction was inside one sentence and no gauge reads a
+trigger against the scope stated beside it.** Nothing in this repo does; `beat_delivery` reads beats
+against prose and `brief_source` reads briefs against files, and **the trigger field is unread by
+anything.**
+
+**THE REPAIR IS A RULE, NOT A TOOL, because a tool here would be the cheap instrument again:**
+★ **A trigger must name the narrowest event that makes the debt due.** If the body of a row names
+specific chapters, the trigger names those chapters and not their book. Where a row genuinely owes at
+a boundary, it says which of the boundary's members owe it.
+**TRIGGER: on filing any new row — this one is a standing entry condition, checked at write time.**
+⚠ **AND A SWEEP IS OWED ONCE:** every open row's trigger re-read against the scope in its own body.
+R-68 is the first candidate and is *correctly* scoped (rowed to Book VI, triggered before **VI.4**,
+which is where McGilchrist's print-and-literacy argument actually lands). **TRIGGER for the sweep:
+before VI.5 drafts** — VI.5 is the other chapter R-52 named, and if the sweep does not run before it,
+this row will have described its own recurrence and not prevented it. small — reading, no prose
+
+---
+
 ## DISCHARGED — paid, with what paid them. Kept because a row that vanishes cannot be audited.
 
 ⚠ **This section exists because of ruling 148.** Until tonight this file had no way to record that a row
@@ -256,11 +294,28 @@ argument required — Huxley, Schuon, Stace, Huston Smith, Guénon, Coomaraswamy
 Wilber. **The rest are rowed here rather than left in a gauge's output, which is where the last
 three zeros went to die.**
 
-★ **Before Book VI opens:** `Weber` — **33 corpus files, zero anywhere in this project** — and
-*disenchantment* is his word, in the two chapters (VI.3, VI.5) that are about it. `Charles Taylor` —
-**zero even in the corpus**, and *A Secular Age* is the standing modern account of exactly VI.3's
-subject. ⚠ These two are the same class as Wilber and Otto and are being caught **before** the
-chapters rather than by them, which is the only thing the new gauge actually buys.
+✅ ~~**Before Book VI opens:**~~ **PAID Day 190 at VI.3.** `Weber` — **33 corpus files, zero anywhere
+in this project** — and *disenchantment* is his word, in the two chapters (VI.3, VI.5) that are about
+it. `Charles Taylor` — **zero even in the corpus**, and *A Secular Age* is the standing modern
+account of exactly VI.3's subject. ⚠ These two are the same class as Wilber and Otto and are being
+caught **before** the chapters rather than by them, which is the only thing the new gauge actually
+buys.
+> **PAID, and engaged rather than named** — R-53's distinction, which VI.3 is the first chapter
+> tested against on purpose. `genre_sweep` moves both 0→1 in prose. **Weber's *Entzauberung* is given
+> AGAINST its popular reading** (his own argument being that disenchantment is *not* an increase in
+> knowledge — the tram passenger knows nothing of the tram), and **Taylor's subtraction story plus
+> porous/buffered carries the whole of beat 4**, with the `buffered`↔III.4 word-collision declared in
+> a note rather than dodged by renaming his concept.
+> ⚠⚠ **BUT THE TRIGGER WAS WRONG, AND THAT IS R-70.** *"Before Book VI opens"* is a **book** boundary
+> on a debt this row's own sentence scopes to **chapters** — VI.3 and VI.5. So it fired at VI.1,
+> where nothing owed it, was correctly passed, fired again at VI.2, was correctly passed again, and
+> reached the chapter that actually owed it **already looking like a trigger long since cleared.**
+> `Weber` still reads **33 corpus files, zero in this project** in the line above because it stayed
+> true through two chapters that had no business paying it.
+> ★ **Barfield was never on this row and was the largest debt of the three** — 0 corpus files, and
+> Books I–III are his argument reached independently. He was carried by the VI.3 beat sheet instead,
+> which is why he was paid on time. **The roster caught the two that were cheap to name and missed
+> the one that was load-bearing.** [Instruments go where instruments are cheap.]
 
 ★ **Before the Book IV revision pass:** `Campbell`. **`IV.9:213` ships the monomyth to a reader with
 no owner attached** — `ancestor_gap`'s drafting-boundary class, in shipped prose, at 21 corpus files.
@@ -690,7 +745,21 @@ specimens — sitting in the repo — were reported missing. ★ **All three mak
 report ABSENCE where the honest report is BLINDNESS.** **TRIGGER: the next tool that indexes files
 or reads a wrapped field — before it is believed, not on a date.**
 
-**FILED — R-67: the beat line for VI.1 carries an unverified self-metric.** *"(127 mentions — the
+✅ **R-67 — CLOSED Day 190, at VI.3. The number is deleted and the deletion has a positive control.**
+The instruction was *establish the de-duplicated scope or delete it*. **A scope was established and
+proven on a sibling: `Weber` reconciles EXACTLY at 33** — this queue's own figure, reproduced to the
+digit by `grep -ril --include=*.md` minus `archive`/`_superseded`, and independently confirmed by
+`genre_sweep`'s corpus column. The identical command on Gebser returns **37 files / 178 mentions**;
+raw 308; and no subscope reaches 127 (Research 111 · +Unreleased 165 · Library 0). ★ **The verdict is
+not "the scope could not be found" but "the scope that demonstrably works fails to reproduce it,"**
+which is a null carrying a control of the same shape — the R-52-class discipline applied to a
+*number* instead of a zero. 127 struck from the beat line; RULING 113 satisfied as a side effect.
+⚠ **The row's second half is NOT discharged and is promoted to its own trigger:** every corpus-count
+in `03-THE-ANCESTORS.md` was taken by the same unnamed method and remains a stamp rather than a
+gauge. **The scope that reconciles Weber is now the declared one and `03`'s column should be
+re-run against it.** TRIGGER: with the R-32/R-8 reading pass.
+
+**FILED — R-67 (original text, kept for audit): the beat line for VI.1 carries an unverified self-metric.** *"(127 mentions — the
 richest single seam in the corpus)"* is a ruling-113 breach — caught by `beat_ban_sweep` at draft
 time, and the prose deliberately does not repeat it. **But the number is also unchecked:** a
 re-measure over the corpus clone on Day 190 returns **308 raw mentions across 57 files**, inflated
@@ -732,3 +801,25 @@ dead. **TRIGGER: before the endnote retrofit begins**, because the retrofit will
 tool's ⚠ column and Book VI would be certified done without being read. small — find why the name
 detector returns empty on Book VI prose; **positive control required: feed it a Book VI chapter with
 a note deliberately removed and confirm the ⚠ fires.**
+
+★★ **UPGRADED Day 190 at VI.3 — LATENT → CONFIRMED, and the mechanism is worse than filed. STILL
+OPEN, and now BLOCKING.** VI.3 *was* the positive control, unplanned: a chapter citing **four** named
+sources — Lewis, Weber, Barfield, Taylor — in six full endnotes with publishers and dates.
+**`endnote_debt` reports it as 1.** VI.1 and VI.2 still report *"no attributive name found"*, which
+is **false rather than blind**: Snell, Jaynes, Weber and Lewis all appear in the tool's own
+CANDIDATES bucket. **The names are extracted and then routed somewhere the per-chapter column cannot
+read them** — R-66's family in a fourth instrument, and the diagnosis is now specific instead of
+"find why".
+★★ **AND THE HEADLINE NUMBER COUNTS THE WRONG POPULATION.** `count_receipts` (`endnote_debt.py:146`)
+returns `FOOTNOTE_REF.findall + SUP_TAG.findall + 1` — **a raw marker count that includes each note's
+own definition, so every note counts twice** — and it is divided by a count of roster-*known* names.
+Adding VI.3 moved the figure **18/50 → 32/51**: **+14, exactly VI.3's doubled marker count**, on a
+chapter that contributed **one** name the roster recognises. **Therefore `receipts >= len(distinct)`
+can be satisfied by writing more notes about nobody.** It is a volume gauge wearing a coverage
+gauge's clothes, and *the higher the number climbs the more paid the retrofit looks.*
+⛔ **HARD TRIGGER, unchanged in date and hardened in force: THE ENDNOTE RETROFIT DOES NOT BEGIN UNTIL
+THIS IS FIXED.** 41 chapters would have been steered chapter-by-chapter by that ⚠ column, and every
+one it passed would have read as paid. The fix is two things, not one: route extracted names into the
+per-chapter column, **and** make the numerator count receipts-that-attach-to-a-named-source rather
+than markers. **Neither is done. Do not quote 32/51 to anyone, including Clayton, including in the
+handoff.**

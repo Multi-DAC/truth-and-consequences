@@ -2789,14 +2789,18 @@ writes *with* notes rather than joining the retrofit, because the debt only grow
 cards, and the card is not decoration here: it is what distinguishes this chapter's claim from
 relativism, since a null space is an assertion that a position is *wrong about something specific*
 and relativism cannot write that line.
-⚠ **The beat line below carries a RULING-113 self-metric** — *"(127 mentions — the richest single
-seam in the corpus)"* — caught by `beat_ban_sweep` at draft time. The prose does not repeat it,
-deliberately. **And the number is unverified: a re-measure over the corpus clone on Day 190 returns
-308 raw mentions across 57 files, inflated by triplicated `_superseded` mirrors.** 127 may well be
-the de-duplicated figure; nothing on the record says which scope produced it. See R-67.
+✅ **R-67 CLOSED Day 190 — the 127 figure is DELETED, and the deletion has a positive control.** The
+row's instruction was *establish the de-duplicated scope or delete the number*. A scope was
+established and it works: **`Weber` reconciles EXACTLY at 33** — the queue's figure, reproduced to
+the digit by `grep -ril --include=*.md` minus `archive`/`_superseded`, and independently confirmed
+by `genre_sweep`. Run the identical command on Gebser and it returns **37 files / 178 mentions**;
+raw returns 308; no subscope reaches 127 (Research 111, +Unreleased 165, Library 0). **The method is
+proven on the sibling and still cannot reproduce the number**, which is the strongest form the
+verdict could take — this is not "we could not find the scope", it is "the scope that works fails
+here". The self-metric leaves the beat line with it, satisfying RULING 113.
 **Beats:** the claim stated as the case, up front · why this is not relativism — **the Perspective cut
 from II.3, cashed at civilisational scale** · what it would take to be wrong about this · Gebser's
-structures of consciousness named (127 mentions — the richest single seam in the corpus).
+structures of consciousness named.
 
 ### VI.2 — THE VOICES ✅ DRAFTED — 3,348 words
 ✅ **DRAFTED Day 190 · `book/VI-02-the-voices.md` · C-LICENSE: C11 · C12.** Four beats, carded,
@@ -2835,10 +2839,41 @@ existed, this render could not have detected it** — the whole population would
 by its own criteria.
 ⚠ **R-68 — McGilchrist is rowed to this BOOK and owed by no CHAPTER.** See the queue.
 
-### VI.3 — THE ENCHANTED WORLD
+### VI.3 — THE ENCHANTED WORLD ✅ DRAFTED — 4,598 words
+✅ **DRAFTED Day 190 · `book/VI-03-the-enchanted-world.md` · C-LICENSE: C11 · C10 · C12.** Four beats,
+all delivered (lowest coverage 0.71, none under the floor), `card_sweep VI` 3/3, six endnotes plus a
+declared word-collision note and the standing grade note. **Committed before the screen ran.**
+★★ **R-52's FIRST GROUP IS PAID HERE, TWO CHAPTERS AFTER ITS TRIGGER SAID SO.** The row read *"Before
+Book VI opens"* — **and Book VI opened at VI.1.** The trigger was set at a BOOK boundary for a debt
+that was always CHAPTER-level (the row's own text names VI.3 and VI.5), so it fired twice where
+nothing owed it, was correctly passed twice, and arrived at the chapter that did owe it already
+wearing the appearance of a trigger long since cleared. **A trigger that fires where nothing owes it
+is a trigger you acclimatise to.** Filed as R-70.
+✅ **WEBER, engaged rather than named** (R-53's distinction, which this is the first chapter to be
+tested against deliberately). *Entzauberung* is given **against its popular reading**: Weber's own
+argument is that disenchantment is *not* an increase in knowledge — the tram passenger knows nothing
+of the tram — but the arrival of a belief that everything would in principle yield to calculation.
+That is a claim about the render, made in 1917, and it is this book's claim.
+✅ **TAYLOR, likewise** — the *subtraction story* named in order to be refused, and porous/buffered
+carrying beat 4. ⚠ **`buffered` collides with III.4's unrelated video-buffer sense; the collision is
+DECLARED in a note rather than dodged by renaming Taylor's concept.**
+★ **BARFIELD IS THE THIRD PHILOLOGIST IN THREE CHAPTERS, and that is the spine of Book VI, not a
+coincidence.** Gladstone counted colour words; Snell counted mind words; Barfield counted *the
+meanings of words as such* — the finding that ancient meaning was undivided and later **split**, so
+that metaphor is a fossil of a former unity rather than a poet's invention. The measured silence is
+real and now double-sourced (hand grep + `genre_sweep`, both 0), and its **positive control has
+teeth: Steiner sits at 7 files and *anthroposoph* at 2** — his own lineage is present in the corpus
+and he is not. ⚠ **The uncomfortable half is on the page: Books I–III are Barfield's argument,
+reached independently, and the chapter says so and then refuses to treat the convergence as
+confirmation.**
 **Beats:** the medieval render, from inside · a world where the numinous was not a category error ·
-Barfield's original participation (0 files — measured silence) · **what was lost was not a belief; it
-was a filter stack**, and losing it was a change in what appeared.
+Barfield's original participation · **what was lost was not a belief; it was a filter stack**, and
+losing it was a change in what appeared.
+**Card:** THE DISENCHANTED RENDER — ours, not the medievals'. Null space: *significance as a property
+of the world*, and the mechanism is stated — any datum presenting as significance-out-there is
+re-filed as a fact about the observer **prior to evaluation**, so no observation could ever populate
+the column. **Navigational implication: this render cannot discover the error by looking harder,
+because looking harder is the operation that performs the reassignment.**
 
 ### VI.4 — PRINT, AND THE INTERIOR
 **Beats:** the silent reader as a technology · the invention of the private interior · linear time,

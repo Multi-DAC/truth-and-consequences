@@ -8349,3 +8349,74 @@ with Weber's disenchantment as the named shadow. The spine the scaffold calls th
 chapters and not in doctrine.
 
 **CHAPTERS-DRAFTED: 45/67** · **CLAIMS: C1…C30** · **RULINGS: 169** · **QUEUE: 69 rows** · **TOOLS: 22.**
+
+---
+
+## Day 190, afternoon — VI.3, AND THE GAUGE STEERING THE RETROFIT IS COUNTING THE WRONG POPULATION
+
+**VI.3 THE ENCHANTED WORLD — 4,598 words. 46/67, 140,567 words.** Four beats, all delivered (lowest
+0.71), `card_sweep VI` 3/3, six endnotes plus a declared collision note and the standing grade note.
+**Committed before the screen** — second chapter under the new rule, and it held again.
+
+**ONE — R-52's TRIGGER FIRED TWO CHAPTERS EARLY AND WAS THEREFORE PASSED TWICE.** The row said
+*"Before Book VI opens"*; Book VI opened at VI.1. But the debt it guards was never book-level — the
+row's own sentence names **VI.3 and VI.5** as the disenchantment chapters. So the trigger was set at
+a book boundary for a chapter-level obligation, fired where nothing owed it, was correctly passed,
+and arrived at the chapter that *did* owe it looking like a trigger already cleared. ★ **A trigger
+that fires where nothing owes it is one you acclimatise to** — the failure is not a missed alarm but
+a *trained-down* one, which is the same family as the WARN-at-every-boot lesson and Drift #287.
+Filed as **R-70**. The debt itself is now **PAID**: `genre_sweep` moves Weber 0→1 and Taylor 0→1 in
+prose, and both are engaged rather than named — Weber's *Entzauberung* is given **against** its
+popular reading (his own argument is that disenchantment is *not* an increase in knowledge), and
+Taylor's subtraction story plus porous/buffered carries the whole of beat 4.
+
+**TWO — R-67 CLOSED, AND THE POSITIVE CONTROL IS WHAT MAKES THE DELETION HONEST.** The instruction
+was *establish the de-duplicated scope or delete the number*. A scope was established and **proven on
+a sibling**: `Weber` reconciles **exactly at 33**, the queue's own figure, reproduced to the digit,
+and confirmed independently by `genre_sweep`. The identical command on Gebser returns **37 files /
+178 mentions**; raw is 308; no subscope reaches 127. ★ **This is not "the scope could not be found."
+It is "the scope that demonstrably works fails to reproduce it,"** which is the strongest available
+form of that verdict — a null with a control of the same shape, applied to a *number* rather than a
+zero. 127 deleted from the beat line; RULING 113 satisfied as a side effect.
+
+**THREE — R-69 UPGRADED FROM LATENT TO CONFIRMED, AND THE MECHANISM IS WORSE THAN FILED.** VI.3 was
+the positive control R-69 asked for: a chapter citing **four** named sources in full endnotes.
+`endnote_debt` reports it as **1** (Barfield), and still reports VI.1 and VI.2 as *"no attributive
+name found"* — which is **false**, VI.2's notes name Snell, Williams and Jaynes with publishers. The
+names *are* extracted: Snell, Jaynes, Weber and Lewis all appear in the CANDIDATES bucket. **They are
+found and routed somewhere the per-chapter column cannot read them**, so the report of absence is a
+false absence, not a blind spot. R-66's family again, in a fourth instrument.
+★★ **And the headline number is measuring the wrong population entirely.** `count_receipts` is a raw
+marker count — `[^n]` references **plus their own definitions**, so every note counts twice — divided
+by a count of roster-*known* names. Adding VI.3 moved the figure **18/50 → 32/51**: +14, which is
+exactly VI.3's doubled marker count, on a chapter that added **one** name the roster knows.
+**Therefore a chapter can satisfy `receipts >= len(distinct)` by writing more notes about nobody**,
+and the ⚠ column steering a 41-chapter retrofit is a volume gauge wearing a coverage gauge's clothes.
+**THE RETROFIT DOES NOT START UNTIL THIS IS FIXED** — it would have been steered by it, chapter by
+chapter, and every chapter it passed would have read as paid.
+
+**FOUR — THE THIRD PHILOLOGIST, and it is Book VI's spine rather than a coincidence.** Gladstone
+counted colour words (VI.1); Snell counted mind words (VI.2); **Barfield counted the meanings of
+words as such** — ancient meaning undivided and later *split*, metaphor as the fossil of a former
+unity rather than a poet's invention. Three chapters, one instrument, increasing depth. The
+measured silence is real and **double-sourced** (hand grep and `genre_sweep`, both 0), and its
+control has teeth: **Steiner sits at 7 files and *anthroposoph* at 2** — Barfield's own lineage is in
+the corpus and Barfield is not.
+⚠ **A hypothesis was killed on the way, and the killing is the point.** `porous self` returns 10
+corpus files, which looked like Taylor's term used unattributed — the `ancestor_gap` drafting-boundary
+shape. Every hit is **Gebser's magical structure**, correct in its own vocabulary. Taylor is a *total*
+zero: name, *A Secular Age*, `buffered self` and `immanent frame` all 0. **The corpus has a term for
+the enchanted condition and none for what replaced it**, which is a vocabulary hole exactly where
+beat 4 lands, and is why Taylor was worth importing rather than paraphrasing.
+
+**FIVE — the uncomfortable sentence is on the page rather than in this log.** Books I–III are
+Barfield's argument, reached independently sixty years later. The chapter says so, and then refuses
+to treat the convergence as confirmation — naming the deflationary reading (a shared temperament
+manufactures agreement out of nothing) and keeping only what survives it: **he got there by a count
+anyone can repeat, and the counting is why he is in the chapter, not the agreement.**
+
+⚠ **ENVIRONMENT, standing:** `sort` is **SORT.EXE** on this box, same class as the `find` warning.
+`sort -u` in a pipe errors *and prints a plausible `0`* — a near-miss of the dangerous kind, since a
+zero is what a dedup count is supposed to look like. Use Python or `awk` for dedup.
+
+**CHAPTERS-DRAFTED: 46/67** · **CLAIMS: C1…C30** · **RULINGS: 170** · **QUEUE: 70 rows** · **TOOLS: 22.**
