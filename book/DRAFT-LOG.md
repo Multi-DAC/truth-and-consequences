@@ -7574,3 +7574,99 @@ IV.10, and keep it shorter than Book IV's shortest tier entry** — ruling 128's
 because an enumeration that outgrows that stopped being a census line.
 
 **CHAPTERS-DRAFTED: 40/67** · **CLAIMS: C1…C30.**
+
+---
+
+## V.9 — THE ROAD BEING WALKED NOW · Day 189, 2026-08-08 evening · 2,750 words
+
+**C-LICENSE: C27 · C30 · C29 · C14.** Book V is 9/11; the book is 41/67, 122,765 words.
+`claim_sweep`: **0 USE-class hits in the chapter** (one caught pre-commit — `PROSE/self-metric` on
+*"reviewed its own historical files"*, `\bfiles\b` unqualified — **reworded to `records` rather than
+exempted.** III.1's `Irenaeus files separately` needed the exemption because the hit was a verb and
+rewording cost the sentence; this one cost one synonym. **An exemption spent on a synonym is a gauge
+relaxed for free.**) `prose_echo`: 52 live hits, of which V.9's are **three deliberate quotations,
+each attributed on the page** — IV.7:588's rule, V.1:131's verdict, and V.8's own closing terms,
+picked up as this chapter's opening. Hedge density 1.82/1k, mid-book-V.
+
+### The screen, and it found more than the chapter did
+
+**① SEVEN SPENT BEATS, FIVE OF THEM POINTING AT LAST NIGHT'S WORK — ruling 157.** `prose_beat_sweep
+--chapter V.9` returned 7 SPENT hits across 5 beats, four at containment 1.00. Five point at **IV.10**
+— the census line drafted the previous night *to unblock this chapter*. ★ **Ruling 128 priced one
+order and shipped as though the other were free.** Its reasoning was sound: draft the reading first
+and the census stays hole-shaped while looking repaired. What it never asked was what the reverse
+order costs, and the answer is that **an enumeration honest enough to be worth having has already
+performed a good deal of the reading.** Naming three frames is most of the way to comparing them.
+**Both orders cost; one was gauged; we ran the other.** Handled on the page — the chapter says the
+reprise out loud and states what IV.10 did not do, which is decide anything — rather than by
+exempting seven pairs.
+
+**② C30 SHIPPED MISSING THE HALF ITS OWN CHAPTER BUILT.** The row names ONE competing explanation for
+convergence — shared human cognitive architecture — and does not name **shared transmission**, which
+is V.1's, which V.6 ran on Luria, and which V.9 turns on entirely. ⚠ **They are not variants.**
+Architecture is universal: it predicts convergence everywhere with no contact and can only ever be
+called insufficient. Transmission is local: it predicts convergence only downstream of a contact or a
+publication date, and it can be **counted, subtracted and paid** — which is exactly what V.1:131 does
+(*"one witness quoted back five times"*) and then improves on at V.1:155, where the axis turns out to
+be **instrument independence, not geography.** ★★ **And the finding is this row's own failure mode
+firing on the row written to escape it.** C30 was the first claim in the project booked ahead of its
+page — ruling 149's whole point — **and the page still got there first with the better half.** For
+every other Book V chapter the two competitors pick the same chapter. **For V.9 they pick opposite
+ones**, because the modern record's nodes have publication dates and the mystics' did not. Row
+amended; the pointer goes to V.1's prose, where the instrument actually lives.
+
+**③ THE "TWO VALLÉE SCANS" ARE VARELA, THOMPSON AND ROSCH — 157(b).** `06`:2046 and R-19 both say
+`Wilber`'s repo hits sit *"inside two Vallée scans in `corpora/tmp/`"*. The files are
+`vtr-ia-1993.txt` and `vtr-monoskop-1991.txt`: **VTR = Varela–Thompson–Rosch, *The Embodied Mind*,**
+MIT Press, which discusses Wilber — four hits per scan, eight not five. **`Vallée` occurs zero times
+in either file and zero times in this repository.** ★ **The error was load-bearing in the worst
+available way.** It made the name look PRESENT-as-foreign-text at the one moment the project needed
+to notice it was **ABSENT** — and the name belongs to the author of two of this chapter's three
+interpretive frames. A misfiled source converted a zero into a non-zero for the exact ancestor
+ruling 141's procedure exists to catch. Also 0 in plan and prose: **Mack, Strieber, Hynek, Keel.**
+`reviewer_gap` has been printing **Mack (4 reviews, 16 corpus, 0 prose, 0 plan)** and **Strieber**
+for as long as it has existed.
+
+**④ R-19's TRIGGER PASSED NINE CHAPTERS AGO AND NOTHING NOTICED — 157(c).** R-19 reads *"the sweep
+before Book V drafts."* Book V is 9/11 in. `Wilber` is still 0 in `03` and in every planning document
+except the one where the finding lives. ★ **The item that existed specifically to stop the project
+discovering its unnamed counterparts one zero at a time was itself discovered late, by tripping over
+the next zero.** **A trigger with a date and no gauge behind it is a reminder somebody has to
+remember** — which is the failure the trigger was written to replace.
+
+**⑤ THE EDITORIAL REVIEWER SOLVED THIS CHAPTER'S HARDEST PROBLEM ON 2026-07-10 AND NO PLANNING
+DOCUMENT CARRIES IT.** `fresh-eyes/perspective-review-CONSOLIDATION`, Editorial #5, verbatim: the
+book *"owns a manufactured-coherence test … and never applies it to its own convergences. Run it →
+the insectoid abduction/DMT 'two independent roads' fails visibly (shared cultural corpus: Strieber,
+Mack = hidden common node)."* **That is V.9's central move, named by an outside reader a month before
+the chapter was scheduled, and it reached the plan nowhere.** ⚠ It is about the PREVIOUS work, which
+is how it went unclaimed — **a finding filed against the old book is not filed against the new one,
+and nothing carries review findings across a repo boundary.** Cheap, unbuilt, and the second gauge
+this week whose absence was found by hand.
+
+### What the chapter concluded, since it is a pick and picks are quotable
+
+Running V.1's test on the modern record **returns a failure, and it is the first time in the book
+that it has.** The testimony arm is one branch with datable nodes inside it (1947, 1961/66, 1987) and
+does not pass. The instrument arm — radar and IR, read by people reading equipment — **does** pass
+V.1's independence test and is very thin, and establishes a track and not an occupant. The three
+frames diverge on one measurable thing: **whether instruments and testimony should converge.** One
+and three say yes; two says no; they have come apart. So by C27 the pick is available and it is made
+— **and then immediately checked, because frame two is ours and the framework hands it over free.**
+The check returns: **frame two and the no-occupants null predict the same thing on every measurement
+in hand**, so by the rule as made they are held together *because they agree*, and every use of frame
+two in this subject is a reading and not a finding. ⛔ Both self-excusing clauses IV.10 refused were
+available and neither is written. No exemption in the other direction either.
+
+### Owed
+
+- **R-50 (NEW) — nothing carries outside-review findings across the repo boundary.** Item ⑤ above.
+  37 documents in `fresh-eyes/`; `reviewer_gap.py` reads them for **names** only. A reviewer's
+  *argument* against the previous book, applying unchanged to this one, has no route in. **The
+  Editorial's manufactured-coherence point had to be found by grepping for a name.**
+- **R-19 — remaining item is the genre-name sweep, retriggered.** Owed **before Book VI opens**, with
+  a gauge attached this time or not at all. 157(c).
+- **R-49, R-48, R-47, R-45, R-46, R-43, R-37, R-38, R-27, R-41, R-42, R-36** — unchanged. R-48 is now
+  load-bearing for a *third* chapter and I am *still* the wrong party to open it.
+
+**CHAPTERS-DRAFTED: 41/67** · **CLAIMS: C1…C30.**

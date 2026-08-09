@@ -1283,7 +1283,7 @@ looked exactly like success. *(DRAFT-LOG §Ruling 38.)*
 
 **DRAFTING. Part One is complete and the Atlas is closed.**
 
-    CHAPTERS-DRAFTED: 40/67
+    CHAPTERS-DRAFTED: 41/67
 
 ⚠ **That slot is a DECLARED number and it WILL rot — it is here so
 `tools/where_the_book_is.py` can fail on it, not so anyone can read it.**

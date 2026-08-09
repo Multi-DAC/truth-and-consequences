@@ -2043,8 +2043,15 @@ change what the chapter concludes, or only warm it?
 ★ **RULING 141 — `Wilber` = 0, AND IT IS THE THIRD ZERO OF THE SAME SHAPE. THE PATTERN IS WORTH MORE
 THAN THE ROW.**
 **Measured: `Wilber` — 0 occurrences across all nine planning documents and all 32 drafted chapters.**
-Five hits exist in the repository, **all in `corpora/tmp/` inside two Vallée scans** — somebody else's
-text, not ours.
+Eight hits exist in the repository, **all in `corpora/tmp/`, inside two scans of ONE book** — somebody
+else's text, not ours. ⚠ **CORRECTED DAY 189, ruling 157(b): this line read *"Five hits … inside two
+Vallée scans"* and BOTH halves were wrong.** The files are `vtr-ia-1993.txt` and
+`vtr-monoskop-1991.txt` — **VTR is Varela, Thompson and Rosch; the book is *The Embodied Mind*,** which
+discusses Wilber, four hits per scan. **`Vallée` occurs ZERO times in either file and zero times in the
+repository.** The error was load-bearing in the worst way available: it made the name *Vallée* look
+PRESENT-as-foreign-text at the one moment the project needed to notice it was **absent**, and the name
+belongs to the author of two of V.9's three interpretive frames. A misfiled source turned a zero into
+a non-zero for the exact ancestor this ruling's own procedure exists to catch.
 The letter's case is correct and is the strongest comparative point it makes: ***Sex, Ecology,
 Spirituality* is structurally the same object** — a total system, a tier map, a supersession claim, all
 traditions read as partial views of one thing — **and it failed by becoming unfalsifiable**, absorbing
@@ -2582,7 +2589,35 @@ again**» · the dead and the visited ·
 hardest case» · OBE-as-proof-of-survival stays out, and the reason on the page is *we do not hold it*,
 never *a skeptic would object*.
 
-### V.9 — THE ROAD BEING WALKED NOW ★ **NEW, Day 188, ruling 125**
+### V.9 — THE ROAD BEING WALKED NOW ✅ DRAFTED — 2,750 words ★ **NEW, Day 188, ruling 125**
+✅ **DRAFTED Day 189 · `book/V-09-the-road-being-walked-now.md` · C-LICENSE: C27 · C30 · C29 · C14.**
+⛔ **The block is lifted:** IV.10's Tier 1.4 census line landed first, in that order, as ruling 128
+required.
+
+★★ **RULING 157 — PAYING THE BLOCKER SPENT THE CHAPTER'S BEATS, AND THAT COST WAS NEVER PRICED.**
+`prose_beat_sweep --chapter V.9` returns **7 SPENT hits across 5 beats**, four of them at containment
+1.00, and **five of the seven point at IV.10** — the census line written the night before *to unblock
+this chapter*. Ruling 128 reasoned in one direction only: draft the reading first and the census stays
+hole-shaped while looking repaired. True, and it is half the ledger. **The other half is that an
+enumeration honest enough to be worth having performs a good deal of the reading** — naming three
+frames is most of the way to comparing them, naming three grades is most of the way to grading. ★ **A
+sequencing ruling priced the cost of ONE order and shipped as though the other were free.** Both
+orders cost; only one was gauged, and the ungauged one is the one we ran. **The chapter's answer is to
+flag the reprise on the page rather than exempt the pair** — `prose_beat_sweep`'s own instruction, and
+the cheaper repair, since a SPENT beat named out loud is a seam and a silent one is a defect.
+
+⚠ **157(b) — the misfiled source, corrected at ruling 141 above.** The "two Vallée scans" are Varela,
+Thompson and Rosch. **`Vallée` = 0 in this repository**, and the name belongs to the author of two of
+this chapter's three frames.
+
+⚠⚠ **157(c) — R-19's TRIGGER READ *"the sweep before Book V drafts"* AND BOOK V IS NINE CHAPTERS IN.**
+The genre-name sweep was specified, dated, and correct; `Wilber` is still 0 in `03` and in every
+planning document but this one. **The item that existed specifically to stop the project finding its
+unnamed counterparts one zero at a time was itself found late, by tripping over the next zero.** A
+trigger with a date and no gauge behind it is a reminder somebody has to remember — which is the
+failure the trigger was written to replace. **The sweep is now R-19's remaining item and it is owed
+before Book VI opens, with a gauge attached this time or not at all.**
+
 **Beats:** the contemporary encounter record read exactly as the preceding eight chapters read older
 ones — **people touching this ground with the instruments of their era, and the era is ours** ·
 what is actually in the record, by grade: sensor and radar returns, physical trace claims, testimony

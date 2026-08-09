@@ -1049,9 +1049,33 @@ institutional and occult roster is a record of attributions — and V.9 will wan
 > ⚠ **The competing explanation is named, not deflected: shared human cognitive architecture would
 > also produce convergence.** This book does not claim that explanation is false. It claims it is
 > **insufficient** — and it owes the reason at the point of use, not here.
+> ⚠⚠ **AND THE SECOND COMPETING EXPLANATION, ADDED DAY 189 BY V.9 — SHARED TRANSMISSION.** Convergence
+> is also produced by the reports being **downstream of one source**, and this one is not a general
+> objection but a **datable, falsifiable, subtractable** one: count the branches, subtract what one
+> branch inherited from another, and say the smaller number. **The two competitors are not variants.**
+> Architecture is *universal* — it predicts convergence everywhere, in every era, with no contact, and
+> can only ever be argued to be insufficient. Transmission is *local* — it predicts convergence only
+> downstream of a contact or a publication date, and it can be **measured and paid**.
 
-**Establishes:** **V.1 (b3, b4) — UNDRAFTED** · V.10 (invariant vs local idiom) · V.11 (the ledger)
-**Depends:** C1 · C5 · C24 · V.1 · V.10 · V.11 · and **every sympathetic reading in Books V and VI**
+⚠⚠ **THE AMENDMENT'S FINDING, AND IT IS THIS ROW'S OWN FAILURE MODE FIRING ON THE ROW WRITTEN TO
+ESCAPE IT.** C30 was booked before its chapter — the first claim in this project registered ahead of
+the page that spends it, and ruling 149's whole point. **It still shipped missing the half its chapter
+went on to build.** V.1:131 states the transmission test in the sentence the book will be quoted on —
+***"That is not independent evidence. It is one witness quoted back five times"*** — then names the
+axis that actually carries the weight, which is **instrument independence, not geography** (V.1:155).
+V.6:45 runs it on Luria. **V.9 turns on it entirely.** None of that is in this row.
+★ **The cost is exact and it is the C27 shape one row over: a drafter working from C30 answers the
+architecture objection and believes the field is clear; a drafter working from V.1:131 counts the
+branches.** For every chapter in Books V and VI those are the same chapter. **For V.9 they are
+opposite chapters** — the modern encounter record is the one tier in the work where the transmission
+explanation is decisive, because the nodes have publication dates on them and the mystics' did not.
+✅ **The row now carries both, and the pointer is to V.1's prose, which is where the instrument lives.**
+
+**Establishes:** **V.1 — DRAFTED**, and it built the transmission test as well as stating the claim ·
+V.6 (run on Luria) · **V.9 (run on the modern record, and it is the first place the test RETURNS A
+FAILURE)** · V.10 (invariant vs local idiom) · V.11 (the ledger)
+**Depends:** C1 · C5 · C24 · V.1 · V.6 · V.9 · V.10 · V.11 · and **every sympathetic reading in Books
+V and VI**
 
 ★★ **THIS ROW IS THE POINT OF THE ACCELERATED TRIGGER, AND IT IS REGISTERED BEFORE ITS CHAPTER
 EXISTS.** Ruling 149 moved R-13 from *before Book V closes* to ***before V.1 drafts*** for one reason:
