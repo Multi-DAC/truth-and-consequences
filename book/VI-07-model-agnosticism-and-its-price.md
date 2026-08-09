@@ -289,7 +289,7 @@ Korzybski, in a paper read to the American Association for the Advancement of Sc
 Orleans in 1931 and reprinted in *Science and Sanity* two years later:
 
 > A map is not the territory it represents, but, if correct, it has a similar structure to the
-> territory, which accounts for its usefulness.
+> territory, which accounts for its usefulness.[^14]
 
 Eleven words of that are among the most famous in the century. The rest is a metaphysics, and it is
 the load-bearing part. II.5 established what the second clause does to the Ground and why the word
@@ -374,6 +374,39 @@ turns out to have a structure — if there is anything there for a render to be 
 *of* — C5 is dead, and the register says so in advance in the same words it would use about
 anybody. The exemption is from **hedging**, not from **being wrong**. Those are different
 exemptions, and only one of them is a privilege.
+
+---
+
+### The shrug, carded
+
+Every chapter of this book has carded its render, and this one has to card a posture, which looks
+like a category error until you notice that the posture behaves exactly like a render and is
+adopted for the same reason: it makes the world easy to be in.
+
+**THE UNIVERSAL MAYBE — no dates, available in every era, at its most attractive in this one.**
+
+*What it renders superbly*, and the complement is real or nobody would buy it: **plurality**. Under
+this filter you see options where other people see one road. Positions that a committed person
+cannot even parse arrive intact and comparable. That is a genuine capacity and most people do not
+have it.
+
+*Its null space:* **THE SETTLED.** Anything that has actually been established — anything that
+named its defeat condition, went and looked, and survived — becomes invisible, because it arrives
+wearing the same *maybe* as everything that never risked anything. Uniform doubt is a constant
+added to every term, and a constant added to every term destroys the ordering. The filter does not
+hide the settled thing. **It delivers it at the same rank as its counterfeit**, which is worse,
+because a hidden thing can be looked for and a flattened one cannot.
+
+*Its boundary:* the point at which a claim would have to be defended. The filter is invisible in
+ordinary conversation, where nothing is being decided, and asserts itself precisely at the moment
+of commitment — which is why its holders experience it as costless.
+
+*Mechanism:* **it identifies what is the case with what nobody has yet committed to.** No falsehood
+is required at any stage. Every individual *maybe* may be perfectly warranted.
+
+*Navigational implication, and it is the one that stings:* the practice most commonly adopted as a
+defence against renders **is a render**, with a null space of its own, and it is harder to detect
+than the ones in VI.3 through VI.6 because it has the shape of the cure.
 
 ---
 
@@ -488,6 +521,14 @@ charges used above — paraphrase in place of quotation for opponents, second-ha
 inaccurate sourcing of paranormal claims, and attacking an organisation whose publication had not
 been read — are theirs. They are used here as a demonstration of the doctrine's failure mode, not as
 a refutation of the doctrine.
+
+[^14]: Alfred Korzybski, "A Non-Aristotelian System and its Necessity for Rigour in Mathematics and
+Physics," a paper read before the American Mathematical Society at the New Orleans meeting of the
+American Association for the Advancement of Science, 28 December 1931; reprinted as Supplement III
+to *Science and Sanity* (Lancaster, PA: International Non-Aristotelian Library, 1933). The dictum is
+quoted in full here, both clauses, for the reason given in the text. II.5 carries the same sentence
+and rules on what its second clause does when applied to the Ground; this chapter takes the other
+half of that ruling — the sense in which the dictum holds undamaged, which is the sense for models.
 
 ---
 

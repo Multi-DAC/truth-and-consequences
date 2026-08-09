@@ -1154,3 +1154,48 @@ back-reference instead of a restatement. ⚠ **Do not fix this before Book VI is
 VI.8 must be written against the pattern as it stands, or the repair gets applied to a shape that is
 still moving. **TRIGGER: revision pass, after VI.8 ships.**
 low individually — medium as a sequence, and the sequence is the thing
+
+---
+
+**FILED — R-79: `endnote_debt` READS ONLY THE FIRST LINE OF EACH ENDNOTE, SO 47% OF EVERY NAME IN
+EVERY NOTE IN THE BOOK IS INVISIBLE TO THE GAUGE THAT STEERS THE RETROFIT.** `scan_notes` iterates
+`NOTE_DEF = ^\[\^([^\]]+)\]:\s*(.*)$` compiled with `re.M`. In `re.M`, `.` still does not match a
+newline, so `group(2)` is **the first physical line of the note and nothing after it.** Every note in
+this manuscript is hard-wrapped at ~98 characters. A full bibliographic receipt — authors, title,
+venue, volume, date, page range, the effect size, the quoted sentence — runs four to six lines, and
+the parser sees line one.
+**Measured Day 190 across every chapter that has notes** (which is Book VI only; the other 41 owe
+receipts): names visible on line 1 **328**, names actually present in the notes **620**, **invisible
+292 — 47%.** Per chapter: VI.1 34 hidden · VI.2 21 · VI.3 12 · VI.4 37 · VI.5 59 · VI.6 41 · **VI.7
+88, the worst in the book.**
+★★ **AND THE DIRECTION IS THE ONE R-71 NAMED, SURVIVING R-71's OWN REPAIR.** The hidden count scales
+with the *thoroughness* of the note: a one-line note hides nothing, a six-line note hides five lines
+of authors. **So the gauge steering the endnote retrofit penalises exactly the sourcing behaviour the
+retrofit exists to produce**, for the second time and by a second mechanism. Day 190's rebuild
+(`78bc127`) replaced the roster and left the parser, because the roster was the diagnosis and the
+parser was never suspected. **A repair aimed at the named cause does not sweep for siblings.**
+⚠ **VI.7 IS THE POSITIVE CONTROL AND IT IS BETTER THAN VI.4's.** VI.7 scores `sources 6 · notes 14 ·
+owed 3 ⚠ Aristotle, Kako, Whorfian`. Of those three: **Aristotle** and **Whorfian** are the tool's
+own declared LIMIT (a historical actor and an adjective, not sources). **Kako is a false positive of
+this defect** — Alice January and Edward Kako are cited in `[^9]`, on line three of it, behind "Lera
+Boroditsky," on line one. The chapter owes nothing and the gauge says three.
+**Repair, derived against the code and NOT APPLIED:** `NOTE_DEF` needs to capture to the next `[^`
+or EOF — `re.compile(r"^\[\^([^\]]+)\]:\s*(.*?)(?=^\[\^|\Z)", re.M | re.S)` — which is the pattern
+the measurement above was taken with, so it is tested rather than proposed.
+⛔ **IT IS DELIBERATELY NOT APPLIED IN THIS BREATH, AND THE REASON IS THE POINT.** This repair
+*exonerates the chapter that found it.* Apply it here and VI.7's `owed 3` becomes `owed 2` by the
+hand of the party it clears. **A repair proposed by the party it exonerates runs cold or it does not
+run.** It belongs to the retrofit block, executed by a pass that is not cashing it, against a
+before/after delta across all drafted files rather than an exit code.
+**TRIGGER: first action of the endnote retrofit block, before any receipt is written** — the retrofit
+cannot be steered by a gauge that is blind to half of what it is producing. Folds into R-69/R-71.
+high — it is the instrument the next block runs on
+
+---
+
+**R-78 — FORWARD TEST CONFIRMED, no change to the row.** R-78 predicted, before VI.7 existed, that
+"on the established pattern VI.7 carries four and VI.8 carries five." **VI.7 carries four** (VI.3
+cannot look harder · VI.4 cannot read more · VI.5 cannot attend harder · VI.6 cannot switch off) and
+adds its own fifth. The prediction was exact. ⚠ **This is a confirmation of the row, not a licence to
+fix it now** — R-78's own instruction was that VI.7 and VI.8 be drafted against the pattern as it
+stands, and VI.7 was. **TRIGGER unchanged: revision pass, after VI.8 ships.**

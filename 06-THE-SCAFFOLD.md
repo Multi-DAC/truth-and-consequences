@@ -3150,17 +3150,133 @@ could never have surfaced the asymmetry that is this chapter's whole finding.
 out of is **to hold no model at all** — which is the next chapter's subject, has a serious tradition
 behind it, and has a price.
 
-### VI.7 — MODEL AGNOSTICISM AND ITS PRICE
+### VI.7 — MODEL AGNOSTICISM AND ITS PRICE ✅ DRAFTED — 6,136 words *(longest in Book VI; the note block and the grade note are ~1,200 of it)*
+✅ **DRAFTED Day 190 · `book/VI-07-model-agnosticism-and-its-price.md` · C-LICENSE: C30 (explicit) ·
+C5 · C10.** Carded (`card_sweep VI` **7/7**), **14 endnotes**. **Committed before the screen ran**
+(sixth time; the rule holds).
+★★ **THE GENEALOGY IN BEAT 2 RUNS TO THE WRONG MAN AND TO A SYSTEM THAT IS NOT THREE-VALUED.** RAW's
+recurring formulation is *"the yes, no and maybe Quantum Logic of von Neumann."* Three-valued logic
+is **Łukasiewicz, 1920**, motivated by Aristotle's sea battle — future contingents. The three-valued
+treatment of QM, with the third value named *indeterminate* and distinguished from *unknown*, is
+**Reichenbach, 1944**, criticised heavily and never standard. And **Birkhoff & von Neumann 1936 is
+two-valued throughout** — what they dropped was **distributivity**, not bivalence: *A or B* can be
+flatly true where neither disjunct is. ★ **The corrected reading is stranger and less comfortable
+than the myth** — von Neumann kept every proposition sharp and changed how propositions *combine*,
+which is a claim about structure, not about how confident anyone should feel. ⚠ **Seventh consecutive
+chapter whose pre-draft screen out-found its prose.**
+★ **THE DIAGNOSTIC THAT GENERALISES, and it is the chapter's own:** in the real practice nothing is
+load-bearing except the checking, so **a citation that adds prestige and no procedure is the
+counterfeit's signature** — detectable without knowing the subject matter.
+✅ **C30 LICENSED EXPLICITLY — R-72's fix, first written down in Book VI rather than performed.**
+Fourth instance and the first on a *friendly* source: VI.2 declined Jaynes's neurology, VI.3 refused
+Barfield's convergence, VI.4 declined McGilchrist's hemispheres, **VI.7 declines the quantum
+mechanics that model agnosticism borrows and keeps the discipline.**
+✅ **E-PRIME MEASURED RATHER THAN ASSERTED, and the experiment is the finding.** Bourland (late 1940s,
+published *General Semantics Bulletin* 1965); Korzybski proposed abolishing only the *is* of identity
+in 1933. **Oltean & David 2020** (N=197, cross-sectional): *to be* frequency vs general rational
+beliefs **r = −.211**, vs preference beliefs **r = −.251** — 4–6% of variance, direction
+unidentifiable by design. ★★ **David 2013, the actual intervention (R-Prime vs R-Standard, anger
+induction, binary model): anger rose from baseline to post-test by the SAME amount in both arms.**
+R-Prime merely added *annoyance* alongside. **The constraint did not remove the identification; it
+added a second response next to it** — which is the general-semantics critics' own objection
+(*identity-in-the-language is not the same as identity-in-reaction*, Lakoff/Murphy/Parkinson/Kenyon/
+French/Lohrey 1992–93) arriving as a measurement.
+✅ **DEMONSTRATED ON THE BOOK'S OWN SENTENCES, at no cost.** C5 in E-Prime — *God names what C1
+describes* — softens nothing. *He is a liar* → *he lies habitually* is the same identification with a
+frequency claim bolted on. Where the ban does work (*I am depressed*), **the work is done by the
+substitution's date and observer — Korzybski's dating-and-indexing, which bans nothing.**
+⚠ **The Whorfian warrant underneath is weak and said so:** strong determinism dead; the showpiece
+(Boroditsky 2001) failed replication in **January & Kako 2007's six experiments**, which also report
+Mandarin speakers using *horizontal* time metaphors more than vertical — cutting at the premise.
+Boroditsky et al. 2011 offers new support. **Contested, not refuted**, and stated that way.
+★★ **THE PRICE OF THE POSITION IS STRUCTURAL: model agnosticism has no gauge on its own symmetry.**
+It says *hold everything loosely* and cannot say *equally loosely*, because looseness is the virtue
+and nothing fires when it is spent in one direction and hoarded in the other. **It happened to the
+man who named it, in the book that names it** — Buxton 1993 collecting Siano/Lippard/Sheaffer:
+opponents paraphrased rather than quoted, paranormal sources second-hand and partly wrong, and an
+organisation attacked whose journal he had not read. ★ **Not a refutation — the doctrine's predicted
+failure mode arriving on schedule in its founding text, undetected by its author. A rule with no
+instrument is a rule that gets credited and not run**, and *uniform doubt is a constant added to
+every term, which changes no ordering.*
+★★ **THE CORRECTION WAS IN THE FOUNDING SENTENCE, IN THE HALF NOBODY QUOTES — and II.5 reserved it
+for here.** *"…but, if correct, it has a similar structure to the territory, which accounts for its
+usefulness."* Quote eleven words and models are equally hopeless, so nothing can be preferred: **the
+shrug.** Keep the clause and **models become rankable by correspondence, checked** — so looseness is
+not the goal, it is *the cost of running the comparison*. **Reduces to one askable question: what
+would make you put this one down?** The discipline has an answer; the shrug has *maybe*.
+⚠⚠ **RULING 156(d) FIRED — `07` ASSIGNS VI.7 A JOB THE BEAT SHEET DID NOT CARRY.** C5's **Depends**
+row reads *III.3 · III.8 · IV.8 · V.1–V.10 · **VI.7***, and the four beats name no claim at all. The
+job: model agnosticism run on this book eats it — if every model is held loosely, the Ground is
+another model held loosely. ✅ **Paid in its own section, with the objection stated in its own
+voice.** The answer is not *except ours*: **C5 is not a model.** A model is a representation-*of*
+with a structure to be compared; II.5 ruled the Ground has none, so the machinery does not engage.
+⚠ **And the chapter says that this is exactly what special pleading sounds like**, and names the only
+thing distinguishing it — C5 ships in the same register at the same exposure, five denials, trap,
+near-miss, and dies if the Ground turns out to have a structure. **The exemption is from HEDGING,
+not from BEING WRONG.**
+**Card:** **THE UNIVERSAL MAYBE** — no dates, every era, most attractive in this one; **a posture
+carded as a render, which is the chapter's thesis in the book's own instrument.** Complement:
+**plurality** — options where committed people see one road, and it is real. Null space: **THE
+SETTLED** — anything that named a defeat condition, went and looked, and survived, **arrives at the
+same rank as its counterfeit.** ★ *The filter does not hide the settled thing; it flattens it, which
+is worse, because a hidden thing can be looked for.* Boundary: the point at which a claim would have
+to be defended — invisible in ordinary talk, asserting itself only at commitment, **which is why its
+holders experience it as costless.** Mechanism: **it identifies what is the case with what nobody has
+yet committed to** — and no falsehood is required; every individual *maybe* may be warranted.
+★ **Navigational implication — fifth rung: YOU CANNOT GET OUT BY HOLDING NOTHING.** VI.3 cannot look
+harder · VI.4 cannot read more · VI.5 cannot attend harder · VI.6 cannot switch off · **VI.7 cannot
+hold nothing.** Refusing to name a model does not put you outside the tunnel, it turns the lights
+off: you keep the whole render and give up the only instrument that ever moved one. ⚠ **And the
+practice adopted as a defence against renders IS a render** — harder to detect than VI.3–VI.6
+because it has the shape of the cure.
+✅ **WHAT THE BOOK DOES INSTEAD, BY RULING:** the register. **A model held with a stated defeat
+condition is held; a model held with a *maybe* and no defeat condition is not held — it is stored.**
+Not confidence: *whether something exists, in writing, in advance, that could take the claim away.*
+★ **And the bill is named: the hedge that protects you from being wrong protects you equally from
+getting better.**
 **Beats:** RAW's model agnosticism as a discipline rather than a shrug · Maybe Logic · E-Prime, and an
 honest account of what it costs · **where model agnosticism becomes a way of never holding anything** —
 and why this book, by ruling, does not do that.
-**Named:** RAW (6 files), and Korzybski upstream (2 files).
+**Source:** Wilson, *The New Inquisition* (1986) + *Quantum Psychology* (1990) · Łukasiewicz 1920 ·
+Reichenbach 1944 · Birkhoff & von Neumann, *Ann. Math.* 37:4 (1936) · Bourland, *Gen. Sem. Bull.*
+(1965) · Korzybski, AAAS New Orleans 1931 / *Science and Sanity* (1933) · Ellis on REBT and E-Prime ·
+Boroditsky 2001 + January & Kako, *Cognition* 104:2 (2007) · **Oltean & David, *JRECBT* 38 (2020)** ·
+**David, *JEBP* XIII:1 (2013)** · the 1992–93 E-Prime critical literature · Buxton 1993.
+**Named:** all of the above, at **VI.6's grade** — bibliographic details, effect sizes and the quoted
+sentences at `[^8]` and `[^11]` retrieved and checked against the publishing venue or the journal's
+own issue page. ⚠ **No full text read**; Birkhoff–von Neumann, Łukasiewicz, Reichenbach, Bourland and
+*The New Inquisition* are all characterised from standard secondary accounts, **declared in-chapter**.
+⚠ **Two gaps declared rather than papered: Oltean & David's remaining outcomes were not retrieved and
+are NOT asserted null**; David 2013's **N was not obtainable** from the journal's issue page, which is
+material for a study carrying this much of the section, and its year reads 2013 in the issue URL and
+2014 in one retrieved field.
+⚠⚠ **CORPUS SUPPORT FAILS IN A FOURTH DIRECTION — AND FOR THE FIRST TIME THE CORPUS IS A SPECIMEN OF
+THE CHAPTER'S OWN SUBJECT.** Over 2,586 live files: *Robert Anton Wilson* **23** · *abstracting* **28**
+· *epistemic humility* **26** · *E-Prime* **16** · *maybe logic* **11** · *Prometheus Rising* **4** ·
+*Cosmic Trigger* **3** · Korzybski **2** · *Quantum Psychology* **1** · Bourland **1** · *model
+agnosticism* **1** · *fallibilism* **1** — against **general semantics 0 · Łukasiewicz 0 · Reichenbach
+0 · quantum logic 0 · linguistic relativity 0 · non-Aristotelian 0 · structural differential 0 · *The
+New Inquisition* 0 · Vaihinger 0 · Pyrrho 0.** And *agnostic* bare: **351**, against **1** for the
+doctrine defined under that name.
+★ **VI.4: topics without sources. VI.5: discourse without its history. VI.6: the indictment without
+the evidence. VI.7: THE PRACTICE WITHOUT ITS WARRANT** — E-Prime sixteen times and Bourland once;
+*maybe logic* eleven times and every logician who built the thing at zero.
+★★ **AND THE SPECIMEN QUOTED IN THE CHAPTER IS OURS.** `Library/Drift/essays/first-contact.md`:33 —
+***"I hold this lightly. Maybe Logic. The certainty that I am something doesn't require certainty
+about what."*** Two words where a warrant belongs, no model named, no alternative, no defeat
+condition — in a sentence that also uses the verb the associated technique exists to remove. ⚠ **Found
+by searching the corpus for the chapter's TERMS, not for the defect** — the derivation is clean.
 ⚠ **AXIS NOTE, ruling 25 — RAW is cut twice: II.5 takes the TERM, VI.7 takes the PRACTICE.** II.5
 defines the reality tunnel and puts *the map is not the territory* beyond negotiation; VI.7 runs model
 agnosticism as a discipline and names its price, including where it becomes a way of never holding
 anything. Neither restates the other. **The reuse gauge was blind to this pair until Day 187** — the
 same person under two spellings, *Robert Anton Wilson* in II.5 and *RAW* here — and it caught
-Korzybski only because he is spelled the same in both places.
+Korzybski only because he is spelled the same in both places. ✅ **Confirmed clean by
+`prose_beat_sweep --brief`: 0 spent beats**, and II.5:144 ranked first on beat 1 with the pair
+**already adjudicated**.
+⚠ **SEAM TO VI.8, stated in the closing line:** if the model has to be named, the honest place to
+start is the one the reader is standing in — **the render they have read this book from, which this
+book has spent fifty chapters editing without asking permission.**
 
 ### VI.8 — THE TUNNEL YOU ARE IN
 **Beats:** the present render, named without flattery · what this book is itself doing to the reader's
