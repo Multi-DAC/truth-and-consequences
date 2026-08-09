@@ -1281,9 +1281,9 @@ looked exactly like success. *(DRAFT-LOG §Ruling 38.)*
 
 ## STATUS — Day 189, 2026-08-08
 
-**DRAFTING. Part One is complete and the Atlas is closed.**
+**DRAFTING. Part One is complete, the Atlas is closed, and BOOK V IS CLOSED — 11/11.**
 
-    CHAPTERS-DRAFTED: 42/67
+    CHAPTERS-DRAFTED: 43/67
 
 ⚠ **That slot is a DECLARED number and it WILL rot — it is here so
 `tools/where_the_book_is.py` can fail on it, not so anyone can read it.**

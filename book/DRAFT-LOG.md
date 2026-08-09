@@ -7781,3 +7781,136 @@ way.
   unchanged. Deliverable is the BEFORE/AFTER DELTA, never the exit code.
 
 **CHAPTERS-DRAFTED: 42/67** · **CLAIMS: C1…C30.**
+
+---
+
+## V.11 — WHAT THE OLD ROADS KNEW THAT WE DO NOT · Day 189, 2026-08-08 night · 3,351 words
+
+**C-LICENSE: C30 · C14 · C27 · C15.** ★★ **BOOK V IS CLOSED — 11/11. The book is 43/67, 129,231
+words.** `claim_sweep`: **0 USE-class hits in the chapter** (21 book-wide, down from 23; two hits
+fired on the draft and both were repaired rather than exempted — see below). `prose_beat_sweep
+--chapter V.11`: **0 spent, 0 trace, 0 exempt.** `beat_delivery`: **4 beats, 0 MISS, 0 under the
+reporting floor.** `order_sweep`: PASS on V.11 -> VI. `vague_allusion` **0.0 — the first zero in the
+book.** `2nd_person` **5.37**, low, reported rather than padded. Forward refs **1**, back **36**.
+
+### R-19 IS PAID, AND IT IS PAID WITH A GAUGE — RULING 162
+
+R-19's third item read: *"a genre-name sweep — list the counterparts the work is positioned against
+and count each once, rather than finding them one zero at a time."* Its retrigger said **with a
+gauge attached this time or not at all.** ✅ **BUILT: `tools/genre_sweep.py`.**
+
+★ **The seed list is deliberately NOT derived from this project's documents, and that is the whole
+design.** `ancestor_gap.py` seeds from `03`'s bold cells and `ancestor_sweep.TERMS` and prints its
+own limit: *"a figure who is in neither is invisible here no matter how load-bearing."* That is
+precisely R-19's class. So the roster here is **70 names hand-authored from outside**, grouped by the
+position each owns, with a RELATION column (RIVAL / GENRE / FAILURE / COUNTER / SOURCE) written at
+the same time as the row so no row is a bare name.
+
+**The result, measured: 60 of 70 have never been named to a reader. 44 have never been written down
+anywhere in this project — not in prose, not in the plan, not in any review document.** Among them,
+by corpus attestation: **Max Weber 33 · Joseph Campbell 21 · John Mack 16 · Strieber 15 · Tegmark 10
+· Teilhard 10 · Steiner 6 · Underhill 5 · Forman 5 · Blavatsky 4 · Katz 3.** And sixteen more sit in
+the plan and never reached the page — Whitehead 57, Kastrup 44, Chalmers 44, Gebser 37, Hoffman 29,
+Vallee 23, Huxley 22, Wilber 10.
+
+### THE GAUGE SHIPPED WITH A FALSE ZERO ON ITS FIRST RUN — RULING 163
+
+`re.escape(pattern)` puts a literal single space between the words of a two-word name. **The
+manuscript is hard-wrapped, so `Peter Carroll` sits with `Peter` ending V.7 line 117 and `Carroll`
+opening line 118, and the row printed 0 in prose for a man who is named, discussed and cut in a
+drafted chapter.**
+
+⚠ **That is R-37's cross-wrap defect, committed inside the gauge built to end one-zero-at-a-time
+discovery, on its first run — and it fails in the worst available direction, because this file's
+entire output IS a list of zeros, so a false zero is indistinguishable from a finding.** It was
+caught by reading V.7 for the four-practices material, which is the discovery mode the gauge exists
+to replace.
+
+✅ Fixed: patterns now join their words with `\s+`. ✅ **And the control was the real repair** —
+`Peter Carroll` is now IN `CONTROLS`, because the first version passed four single-word controls and
+lied anyway. **A positive control that cannot fail the way the tool fails is decoration.**
+★ **Honest damage report: exactly one row moved (44 absent, not 45).** The table was otherwise
+sound, and saying so is the point — the delta is the deliverable, not the exit code.
+
+### THE FINDING THAT BECAME THE CHAPTER — RULING 164
+
+**Book V has been arguing a third position in a two-position debate, and had named neither
+position's owner.**
+
+**(a) The perennialist.** `V.1:234` states it and refutes it — *"The perennialist claim — one truth,
+many languages, the differences merely cultural — is false"* — and names nobody. Measured across 42
+chapters: **Huxley 0 · Schuon 0 · Stace 0 · Huston Smith 0 · Guenon 0 · Coomaraswamy 0.** Rule 5
+says an unhedged assertion with no named opponent is bluster; here the opponent was named as a
+*doctrine* and never as a *person*, in the book whose whole method is naming the owner. ★ **And the
+same defect is already shipped one book earlier: `IV.9:213` names the monomyth and `Campbell` = 0.**
+
+**(b) The constructivist, and this is the expensive one. `Katz` = 0 in prose, 0 in the plan, 3 in the
+corpus.** Steven Katz argued in 1978 that there are no unmediated experiences — the tradition
+constitutes the report, so there is no common core to explain. ⚠⚠ **Ruling 159, made last night, is
+that argument arriving from the procedure side instead of the doctrine side.** The project derived a
+version of a 1978 paper and did not know whose it was. **V.11 says so on the page rather than
+leaving it for a reader**, because a project that insists on named owners does not get to quietly
+re-derive one.
+
+**The cut is C27-shaped and it is narrow, which is what makes it worth anything.** If mediation were
+total it would predict divergence at the structure too, and the structure does not diverge: V.1's
+four propositions arrive from doctrinally incompatible traditions in the same shape. **Mediation
+explains the furniture completely and the empty summit very well and the structure not at all — so
+Katz owns two of ruling 159's three bins and not the third**, and the reason is measurable rather
+than doctrinal. Concession large, cut narrow, and the direction of exposure is the correct one.
+
+**(c) The claim that the traditions have no birthday has one, and it is 1540.** Agostino Steuco,
+*De perenni philosophia*. That is ruling 161's anthology finding one storey down: not just the
+anthology, the category.
+
+### On the page
+
+`prose_echo` returned **V.1 ~ V.11 at 46 on first draft — the highest pairing in the book — with
+THREE sentence-level hits** (*remove the somewhere and there is no one left*; *the bodhisattva
+declines the exit and stays*; *there is no summit to come back from*). That is last night's V.7~V.10
+defect exactly, one night later, against a different chapter. ✅ **Repaired by the same instrument:
+attribution and compression, not exemption.** The summit argument is now one attributed sentence
+saying V.1 made it in full and it does not improve by being made twice; the corrections paragraph
+credits V.1 for the *shape* and spends its own words on **what the error cost a person still on the
+road**, which V.1 never priced; V.5's subtraction sentence is given once, in V.5's words, with V.10's
+prior use named. **V.1 ~ V.11 fell 46 -> 7. V.10 ~ V.11 fell 29 -> 5. All three sentence hits gone.**
+
+⚠ **ONE REPEAT WAS KEPT DELIBERATELY AND IS RECORDED RATHER THAN PASSED SILENTLY: the grade note.**
+V.1 opened a standing *note on grade* form and V.11 carries it. A recurring administrative form
+SHOULD repeat — that is what tells a reader it is not new argument — but it was reworded so the
+identical span is short, and the decision is here rather than in a gauge's exemption table.
+
+⚠ **BACK 36 / FORWARD 1, against V.10's back 8.** A book-closer should be back-weighted and this is
+also the exact shape of a chapter that is only a summary. The defence is specific and checkable: the
+two named parties, the Steuco date, the cost-of-the-error section and the fencing test on Guenon and
+Wilber are all new material, and `prose_beat_sweep` returns 0 spent. **Recorded as a shape to watch
+at the Book V revision pass, not as a clean bill.**
+
+★ **`dyn_range_CV` 0.381 against the SPECIMENS baseline of 0.385.** R-38 established the specimens
+are the right baseline (markdown-free, the register Clayton actually ruled) and that CLAWD-raw at
+0.509 was inflated by the bolding bug. This is the closest any chapter has come. ⚠ **One chapter,
+one metric, no null — it does NOT discharge R-45**, whose deliverable is the shuffle control, and a
+single row that flatters the prose is exactly the row to distrust.
+
+### Owed
+
+- **R-52 (NEW) — the genre roster's zeros that are NOT V.11's job, with triggers.** ★ **Before Book
+  VI opens: `Weber` (33 corpus files, 0 everywhere here) and `Charles Taylor` (0 even in the
+  corpus)** — VI.3 and VI.5 are the disenchantment chapters and *disenchantment* is Weber's word.
+  **Before the Book IV revision pass: `Campbell`**, because `IV.9:213` ships the monomyth unowned.
+  **With the Books I-III pass: Hoffman, Chalmers, Kastrup, Tegmark** — the four living rivals to the
+  render, the game frame, idealism and plenitude respectively, all 0 on the page. **Vallee stays on
+  R-19.**
+- **R-53 (NEW) — presence is not engagement, and nothing measures the difference.** `genre_sweep`
+  reads for a string: a name in a list of names counts 1 and owes as much as a zero. Same shape as
+  R-47, R-49 and R-51 — the fourth in a family, and the family is now the pattern rather than the
+  instances.
+- **R-19 — PAID, with the gauge.** The `03` entry for Wilber and the CODA paragraph remain, and both
+  now have a roster behind them instead of a memory.
+- **R-50 — unchanged. The route across the repo boundary still does not exist**, and the reviewer
+  packet assembled tonight had to be built by hand for the third night running.
+- **R-48 — load-bearing for a FIFTH chapter and I am still the wrong party to open it.**
+- **R-51, R-47, R-45, R-46, R-43, R-37, R-38, R-27, R-41, R-42, R-36** — unchanged. Deliverable is
+  the BEFORE/AFTER DELTA, never the exit code.
+
+**CHAPTERS-DRAFTED: 43/67** · **CLAIMS: C1…C30.**

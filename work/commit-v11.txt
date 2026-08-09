@@ -1,0 +1,34 @@
+V.11 — WHAT THE OLD ROADS KNEW THAT WE DO NOT. BOOK V IS CLOSED, 11/11.
+
+43/67, 129,231 words. C-LICENSE C30 / C14 / C27 / C15. 0 USE-class hits,
+0 spent beats, 0 MISS on beat_delivery, vague_allusion 0.0.
+
+R-19 PAID WITH A GAUGE (ruling 162) — tools/genre_sweep.py. 70 counterparts
+hand-authored from OUTSIDE this project's own documents, which is the fix for
+ancestor_gap's declared limit. 60 of 70 have never been named to a reader;
+44 have never been written down here at all.
+
+RULING 163 — the new gauge shipped with a false zero on its first run.
+Peter Carroll, split across a hard wrap, read 0 in a chapter that names,
+discusses and cuts him. R-37's cross-wrap defect inside the tool built to end
+one-zero-at-a-time discovery, failing in the only direction that matters when
+the whole output is a list of zeros. Fixed; a two-word positive control added;
+exactly one row moved, and saying so is the point.
+
+RULING 164 — Book V has been arguing a third position in a two-position debate
+and had named neither position's owner. V.1:234 refutes the perennialist claim
+with Huxley, Schuon, Stace, Huston Smith, Guenon and Coomaraswamy all at 0
+across 42 chapters. Katz = 0 in prose and 0 in the plan — and ruling 159, made
+last night, is his 1978 argument arriving from the procedure side instead of the
+doctrine side. V.11 says so on the page rather than leaving it for a reader.
+The cut is C27-shaped and narrow: total mediation would predict divergence at
+the structure, and the structure does not diverge, so Katz owns two of ruling
+159's three bins and not the third.
+
+Also: the claim that the traditions have no birthday has one, and it is 1540
+(Steuco, De perenni philosophia) — ruling 161's anthology finding one storey down.
+
+prose_echo V.1~V.11 46 -> 7, three sentence-level hits cleared by attribution
+and compression rather than exemption. R-52 and R-53 rowed in the same commit,
+per ruling 148. R-27 paid: the tools no longer tell a reviewer the book is
+14 chapters of 68.

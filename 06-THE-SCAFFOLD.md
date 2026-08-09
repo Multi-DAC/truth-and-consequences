@@ -1560,7 +1560,7 @@ flatness flag is now two chapters clear.** `meta_textual` **2.46**, the Book IV 
 the Book IV low. `vague_allusion` **0.0**. `named_ref` **17.59/1k**, the Book IV high, which is what a
 chapter that reads two primary texts in two languages should look like.
 
-### IV.10 — WHAT THE CENSUS CANNOT SEE ✅ DRAFTED — 5,246 words
+### IV.10 — WHAT THE CENSUS CANNOT SEE ✅ DRAFTED — 5,398 words
 **Beats:** the atlas's own null space, traced as far as an atlas can trace its own blindness · the
 cryptids and boundary entities, and why they are a *methodological* chapter «rather than a credulous one» ·
 why the catalogue is permanently open · «the handoff to the CODA's» living-book claim.
@@ -2589,7 +2589,7 @@ again**» · the dead and the visited ·
 hardest case» · OBE-as-proof-of-survival stays out, and the reason on the page is *we do not hold it*,
 never *a skeptic would object*.
 
-### V.9 — THE ROAD BEING WALKED NOW ✅ DRAFTED — 2,750 words ★ **NEW, Day 188, ruling 125**
+### V.9 — THE ROAD BEING WALKED NOW ✅ DRAFTED — 2,713 words
 ✅ **DRAFTED Day 189 · `book/V-09-the-road-being-walked-now.md` · C-LICENSE: C27 · C30 · C29 · C14.**
 ⛔ **The block is lifted:** IV.10's Tier 1.4 census line landed first, in that order, as ruling 128
 required.
@@ -2732,7 +2732,18 @@ what is local idiom · the Christian numinous given the same standing as the Ved
 behind us has done, so there is no earlier handling to lean on and the parity must be built here» ·
 **why the reports converge on structure and diverge on furniture.**
 
-### V.11 — WHAT THE OLD ROADS KNEW THAT WE DO NOT — **AND THE ONE THING THEY ALL GOT WRONG**
+### V.11 — WHAT THE OLD ROADS KNEW THAT WE DO NOT — **AND THE ONE THING THEY ALL GOT WRONG** ✅ DRAFTED — 3,351 words
+✅ **DRAFTED Day 189 · `book/V-11-what-the-old-roads-knew.md` · C-LICENSE: C30 · C14 · C27 · C15.**
+★★ **BOOK V IS CLOSED — 11/11.** The chapter's second half named **two parties who have been in this
+book's argument since V.1 and had never been named in it**: the **perennialist** (Huxley 1945, Schuon
+1948, Stace 1960, Huston Smith, Guénon, Coomaraswamy — and Steuco's *De perenni philosophia*, 1540,
+which gives the no-birthday claim a birthday) and the **constructivist** (Steven Katz, 1978). ⚠ **The
+Katz concession is the most expensive sentence in Book V and it is deliberate: ruling 159's
+direction-of-method finding is his argument arriving from the procedure side, and the project
+re-derived it without knowing whose it was.** The cut is C27-shaped and narrow — total mediation
+predicts divergence at the structure, and the structure does not diverge; Katz owns two of the three
+bins and not the third. **Found by `tools/genre_sweep.py`, built the same night** (R-19's third item),
+not by tripping over a zero.
 **Beats:** the honest ledger — where a tradition is ahead of us · practice as a technology we have
 half-lost · the difference between a tradition that mapped the terrain and one that fenced it ·
 ★ «**NEW second half, and it is what makes the chapter two-sided instead of a compliment:**» the error

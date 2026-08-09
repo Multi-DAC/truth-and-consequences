@@ -196,7 +196,9 @@ def main():
             continue
         if b and not show_all:
             continue                        # it landed in the prose
-        # ⚠ THE BOOK IS 14 CHAPTERS OF 68. "Absent from the prose" is the EXPECTED
+        # ⚠ THE BOOK IS 43 CHAPTERS OF 67, MEASURED — R-27, Day 189. This line read
+        # "14 CHAPTERS OF 68" for two months and would have taught an outside reader
+        # the wrong size of the work. "Absent from the prose" is still the EXPECTED
         # state for most names and on its own means nothing. The discriminating
         # column is the PLAN: prose 0 AND plan 0 is a name nobody ever routed
         # anywhere — not scheduled, not deferred, not declined. That is the set

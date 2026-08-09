@@ -221,6 +221,56 @@ beat at containment 1.00, and `06`:2143 still lists it)* · R-20 → Book VII ·
 
 ---
 
+### R-52 — the genre roster's zeros that are not V.11's job, each with its own trigger
+
+**Filed Day 189 at V.11, by `tools/genre_sweep.py` on its first clean run (ruling 162).** The
+roster is 70 counterparts hand-authored from outside this project's documents; **60 have never been
+named to a reader and 44 have never been written down here at all.** V.11 paid the ones its own
+argument required — Huxley, Schuon, Stace, Huston Smith, Guénon, Coomaraswamy, Steuco, Katz, Forman,
+Wilber. **The rest are rowed here rather than left in a gauge's output, which is where the last
+three zeros went to die.**
+
+★ **Before Book VI opens:** `Weber` — **33 corpus files, zero anywhere in this project** — and
+*disenchantment* is his word, in the two chapters (VI.3, VI.5) that are about it. `Charles Taylor` —
+**zero even in the corpus**, and *A Secular Age* is the standing modern account of exactly VI.3's
+subject. ⚠ These two are the same class as Wilber and Otto and are being caught **before** the
+chapters rather than by them, which is the only thing the new gauge actually buys.
+
+★ **Before the Book IV revision pass:** `Campbell`. **`IV.9:213` ships the monomyth to a reader with
+no owner attached** — `ancestor_gap`'s drafting-boundary class, in shipped prose, at 21 corpus files.
+
+★ **With the Books I–III reading pass (R-32 / R-8):** `Hoffman` (29), `Chalmers` (44), `Kastrup`
+(44), `Tegmark` (10) — the four living rivals to, respectively, the render, the game frame,
+idealism, and *possible therefore actual*. ⚠ **Tegmark pairs with R-21**: the actualist opponent row
+names the analytic tradition and not the physicist who holds the strongest version of our own
+premise.
+
+**Vallée stays on R-19.** | **Trigger: as stated per group.** | **cost: small each, reading not prose**
+
+---
+
+### R-53 — presence is not engagement, and nothing in this repo measures the difference
+
+**Filed Day 189 at V.11, against the gauge built the same night.** `genre_sweep` reads for a string.
+**A name appearing once inside a list of names counts 1 and is filed as PRESENT, and it owes exactly
+as much as a zero does.** The gauge prints this limit on every run, which is honest and is not a
+fix.
+
+★ **This is the fourth member of one family and the family is now the finding.** R-47: nothing reads
+a beat against a ruling made after it. R-49: nothing read a brief for a missing field. R-51: nothing
+reads a brief field for CONTENT. R-53: nothing reads a *name* for engagement. **Every one of them is
+the same shape — the cheap structural check exists or gets built, and the check on whether the thing
+is any good does not exist and is not cheap.** [Instruments go where instruments are cheap.]
+
+⚠ **And the one that would bite hardest is already visible: `Jung` is PRESENT** (V.7, IV.9) — and
+V.7's mention is one clause routing past him to the alchemists. Present, and not engaged, in the
+chapter where the archetypal reading is the standing alternative.
+
+**Trigger: with the next outside packet — a reviewer is the instrument for this and no gauge is.**
+| **cost: a decision about scope, then a reading**
+
+---
+
 ### R-37 — `tools/claim_sweep.py`: ruling 103's window was given to one of the two guards
 
 **Filed Day 189 at V.1, by the rule firing on the drafting chapter three times.** The per-rule

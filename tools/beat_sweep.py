@@ -11,7 +11,8 @@ failure mode this book keeps finding in itself.
 Two chapters sharing a thesis sentence is a grep. This is the grep.
 
 WHAT IT CHECKS. Every beat in `06-THE-SCAFFOLD.md` against every other beat in a DIFFERENT
-chapter — 68 chapters, ~350 beats, ~60k pairs, under a second. Reports:
+chapter — 67 chapters, ~300 beats, ~60k pairs, under a second (R-27, Day 189: this said 68/~350
+and the parsed figures were already 69/293). Reports:
 
   ** COLLISION **  a beat pair over the hard threshold, or sharing a distinctive 5-gram.
                    Two chapters are trying to do the same move.
