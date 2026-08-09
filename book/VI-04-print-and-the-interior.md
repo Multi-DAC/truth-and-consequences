@@ -205,6 +205,31 @@ operation is cheap, it becomes the standard of what a serious thought looks like
 cannot lay out in sequence and check begins to look, to a print-rendered reader, not merely
 unproven but *unserious* — not a bad argument, something worse, not an argument at all.
 
+And the same technology does it to **time**, which is the half of this that gets noticed least.
+
+A dated edition is a fixed point. Once you have thousands of them — each stamped with a year, each
+holding still, each comparable against the others — you can lay them end to end and get something no
+oral culture can construct: **a checkable chronology.** Not a sense that the past happened, which
+everyone has always had, but a past with an *order*, in which this came demonstrably before that,
+and the demonstration survives the death of everyone who remembers. History as a discipline is a
+print artefact. So is the archive. So is the footnote, which is a machine for pointing at a
+particular moment in a sequence and saying *there, go and look.*
+
+An oral past does not work that way. It is not disordered — it is ordered by **significance**
+rather than by date, with the load-bearing events pulled close and the rest telescoped, and a
+figure four generations back and a figure forty generations back occupying the same middle distance
+because they matter equally. That is not a defective chronology. It is a different filing system,
+optimised for a different job, and it works so well that cultures using it can carry structures of
+astonishing size.
+
+But once the line is available, the line becomes the shape of everything. Time goes one way.
+Progress becomes thinkable — becomes almost unavoidable — because a sequence of dated improvements
+is what the archive looks like from inside. And then the shape comes home: **a life becomes readable
+as a narrative**, with a beginning and a development and an end, which is a way of understanding
+yourself that is so completely ours that its absence reads as a failure to have understood anything.
+Augustine, of all people, is arguably the first person to write one, in the book we started this
+chapter in — and he had to invent the form to do it.
+
 That is a filter. It is a superb one. It is the reason the last four centuries did what they did,
 and I am not going to pretend to stand outside it, because —
 
@@ -310,9 +335,11 @@ to the untransportable in the only place the render is looking.
 > **Whose:** ours, and the reader's while reading this. Installed unevenly from the sixteenth
 > century, standard by the nineteenth, invisible by the twentieth.
 >
-> **What it renders superbly:** the detachable claim. Anything that can be lifted out of its
-> encounter, held still, compared against another instance of itself, and checked by a stranger.
-> The cumulative correction of error. Argument in sequence.
+> **Complement — what it renders superbly:** the detachable claim. Anything that can be lifted out
+> of its encounter, held still, compared against another instance of itself, and checked by a
+> stranger. The cumulative correction of error. Argument in sequence, and history as a sequence.
+> This is not a weak render. On its own ground it is the most powerful one any human population has
+> ever operated, and the null space below is the price of that power and not an argument against it.
 >
 > **Null space:** the untransportable — anything whose truth does not survive detachment from the
 > one who said it, the moment it was said, or the body that holds it.

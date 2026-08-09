@@ -122,6 +122,67 @@ which is where McGilchrist's print-and-literacy argument actually lands). **TRIG
 before VI.5 drafts** — VI.5 is the other chapter R-52 named, and if the sweep does not run before it,
 this row will have described its own recurrence and not prevented it. small — reading, no prose
 
+**FILED — R-71: `endnote_debt`'s name column is a ROSTER-MEMBERSHIP detector wearing an ATTRIBUTION
+detector's clothes. This is R-69's mechanism, and it is worse than R-69 states.** ⛔ **Still
+BLOCKING.** VI.4 was the second unplanned positive control in two chapters, and a cleaner one. The
+chapter names **eight** sourced authors in **seven full endnotes** with publishers and dates — Knox,
+Gavrilov, Burnyeat, Eisenstein, Johns, McGilchrist, Havelock, Augustine. Live output:
+`VI.4  sources 3  receipts 18  Augustine, Barfield, Plato`. **Three.** And *two of the three are not
+this chapter's sources* — **Barfield** is a back-reference to VI.3 with no note of his own here, and
+**Plato** appears inside Havelock's argument as its subject, not as a cited authority. So the column
+did not merely under-count; **it named the wrong people.**
+★ **The rule it is actually running is now visible, and it was not visible from VI.3 alone.** Every
+name it found is a name `03`/`ancestor_sweep.TERMS` **already knows**. Every name it missed is one
+the roster has never heard of. **It is a roster-membership test.** Which means:
+⛔ **THE GAUGE STEERING THE ENDNOTE RETROFIT IS STRUCTURALLY BLIND TO ORIGINAL SOURCING, AND SCORES
+IT AS ZERO.** A chapter citing five famous rostered names it never opened reports well. A chapter
+that went and found the actual scholarship on its own subject reports **`sources 0 — no attributive
+name found`**. ★★ **The gauge does not merely fail to reward the behaviour the retrofit exists to
+produce — it penalises it**, and it penalises it hardest in exactly the chapters whose receipts
+matter most, because a rostered name is one a reader can check without help and a new one is not.
+✅ **This narrows R-69's repair from "find why the detector returns empty" to a specific change:** the
+per-chapter column must read names **extracted from the prose**, not names matched against a roster.
+**Positive control, and it must be VI.4:** the fixed tool reports ≥7 for VI.4 and does **not** report
+Barfield or Plato. **TRIGGER: unchanged — before the endnote retrofit begins. Still do not quote the
+headline figure to anyone.** small–medium
+
+**FILED — R-72: C30 is licensed nowhere in Book VI, and Book VI is where it does its heaviest work.**
+`C30 — CONVERGENCE IS EVIDENCE, NOT PROOF — AND THE BOOK SAYS WHICH, EVERY TIME` was built at the end
+of Book V (licensed V.9, V.10, V.11) and then **not declared once across VI.1–VI.3**, which license
+C11, C10 and C12 between them. **All three perform it in their central beats:** VI.2 takes what
+Jaynes's evidence bears and insulates the book from the rest; VI.3 observes that Books I–III are
+Barfield's argument reached independently and refuses to treat that as support; VI.4 takes
+McGilchrist's conclusion and declines his neuroanatomy. **Three consecutive executions of a declared
+claim, none of them declared.** ★ **This is the mirror-image of the defect this project keeps
+finding.** The usual shape is a mechanism with no trigger. This is a **claim doing load-bearing work
+off the books** — which means `07`'s picture of what the book rests on under-reports its most
+methodological entry, in the book that leans on it hardest, and a reader auditing C30's usage would
+find it retired after Book V. ✅ **VI.4 licenses it, and names the pattern in its own prose rather
+than leaving it to the apparatus** — the chapter puts the suspicious reader's question on the page
+(*is this book harvesting conclusions while refusing to pay for mechanisms?*) and answers it with
+C30 by name. **OWED: a C-LICENSE correction on VI.1, VI.2 and VI.3.** ⚠ **And a question this row
+does not answer, deliberately: is a licence added afterward a licence, or a reconstruction?** R-13's
+whole finding was that a retrospective manifest records what the drafter *now thinks* they used.
+Three chapters is small enough to re-read rather than reconstruct. **Do that, not the cheap version.**
+**TRIGGER: before VI.5 drafts** — VI.5 will perform it again (the broadcast era's evidence is
+sociological and this book will take conclusions from it), and a fourth undeclared instance makes
+this a habit instead of a lapse. small — three lines, but the re-read is the cost
+
+**FILED — R-73: `genre_sweep`'s corpus column false-positives on short surnames.** `Ong` is reported
+at **corp=1**. The single hit is a bare fragment on line 4 of a research-sources file
+(`Research/sources/2026-05-14-fraser-taliente-anthropic-nla.md`) and **is not Walter Ong.** True count
+**0**. ⚠ **Harmless in this instance and that is the whole reason to file it** — Ong was flagged
+ABSENT-EVERYWHERE anyway, so nothing went wrong, and a defect that costs nothing on the day it is
+found is a defect nobody files. The rule it breaks is real: a three-letter surname word-matched
+across 2,550 files has a **noise floor**, and the tool's own rows are read as counts. A name whose
+noise floor happens to clear the eye's threshold reads as *present, therefore engaged*, which is
+exactly the reading `genre_sweep`'s header warns about in its second declared limit — **presence is
+not engagement** — one level lower than the header anticipated: **not a name in a list, a substring
+in a word.** ✅ Repair: require a word-boundary match **plus** a forename or an initial for any
+surname under five characters, and print the file path for any name whose count is 1 so a singleton
+can be adjudicated instead of trusted. **TRIGGER: before the next packet quotes a `genre_sweep`
+figure to a reader.** small
+
 ---
 
 ## DISCHARGED — paid, with what paid them. Kept because a row that vanishes cannot be audited.
@@ -768,6 +829,23 @@ Barfield re-measures at **0**, which does hold. ⚠ **Every corpus-count in `03-
 taken by the same unnamed method** — the table is a column of numbers with no stated scope, which is
 a stamp, not a gauge. **TRIGGER: before any chapter argues FROM a corpus count rather than merely
 citing one.** small · one script that prints its scope.
+
+~~**FILED — R-68**~~ ✅ **DISCHARGED Day 190 AT VI.4, on the merits and inside its own trigger.**
+McGilchrist has his sentence in `book/VI-04-print-and-the-interior.md`, beat 2, with note [^7]. The
+axis was decided the way the row demanded rather than by reflex: **VI.2 was declined as host** (the
+hemispheric-mechanism adjacency is a lure, and a name spent there is unavailable where it works),
+**VI.4 takes the historical argument** — Reformation, individual scripture-reading, the literal
+sense, and *two modes of attention yielding two worlds rather than two views of one.* **Conclusion
+taken, hemispheric mechanism declined, and the decline is on the page and in the note** rather than
+left to operate quietly. ⚠ **A REAL FINDING FELL OUT OF DISCHARGING IT: the two rosters disagree
+about what he IS.** `03`:616 calls him Book VI's *"closest living cousin"*; `genre_sweep` files him
+**RIVAL**. Neither is wrong — **cousin at the conclusion, rival at the mechanism** — and that
+distinction is now the chapter's, but *nothing reconciles the two rosters*, and a name carrying two
+incompatible relation-tags in two live documents will be read from whichever one the drafter opened.
+⚠ **AND THE CORPUS COUNTS DISAGREE TOO:** `03`:616 says **2** files, `genre_sweep` and a hand grep
+under R-67's declared scope both say **5**. `03`'s column is the odd one out. **Added to R-67's
+second half rather than filed anew — same cause, same fix.**
+*(Original text kept below for audit.)*
 
 **FILED — R-68: McGilchrist is rowed to a BOOK and owed by no CHAPTER.** `03-THE-ANCESTORS.md`:616
 carries **Iain McGilchrist**, 2 corpus files, described in the roster's own words as *"attention as

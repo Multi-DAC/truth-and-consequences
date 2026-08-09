@@ -2875,9 +2875,85 @@ re-filed as a fact about the observer **prior to evaluation**, so no observation
 the column. **Navigational implication: this render cannot discover the error by looking harder,
 because looking harder is the operation that performs the reassignment.**
 
-### VI.4 — PRINT, AND THE INTERIOR
-**Beats:** the silent reader as a technology · the invention of the private interior · linear time,
-linear argument, and the birth of the reader this book is written for · what print made unavailable.
+### VI.4 — PRINT, AND THE INTERIOR ✅ DRAFTED — 5,116 words
+✅ **DRAFTED Day 190 · `book/VI-04-print-and-the-interior.md` · C-LICENSE: C11 · C10 · **C30** ·
+C12.** Four beats, all delivered (lowest coverage 0.80, none under the floor), `card_sweep VI`
+**4/4 — the book is fully carded**, seven endnotes plus an axis note and the standing grade note.
+**Committed before the screen ran** (third time; the rule is settled). Longest chapter in Book VI.
+★★ **THE FIRST BEAT'S PREMISE WAS A REFUTED ANECDOTE, AND THE PRE-DRAFT SCREEN CAUGHT IT BEFORE A
+WORD WAS WRITTEN.** *"The silent reader as a technology"* has exactly one famous instantiation —
+Augustine watching Ambrose read without moving his lips, *Confessions* VI.3 — and the story built on
+it (*silent reading had to be invented*) was demolished by **Knox in 1968** and has been a **zombie
+idea** in popular accounts ever since. Written by reflex, beat 1 would have rested its whole weight
+on it.
+✅ **AND THE CORRECTED READING IS BETTER THAN THE MYTH, which is why this is a finding and not
+merely a save.** Gavrilov's rereading: Augustine was not *amazed*, he was **frustrated** — the
+passage is a young man explaining why he could never get the bishop alone, canvassing hypotheses
+about why a man reading is a man you cannot reach. So the fact underneath is **not a new capacity;
+it is a new significance to an old one** — a man in a crowded room becoming **unreachable**, which is
+**Taylor's buffered self observed and written down in 384, a millennium before the technology
+supposedly responsible.** The beat's thesis moves accordingly: a technology almost never grants a
+power, it makes an expensive one **free**, and *the default* is the story, not the capacity.
+✅ **EISENSTEIN AT FULL STRENGTH, THEN JOHNS AGAINST HER — AND JOHNS IS ADOPTED, NOT CONCEDED.**
+Eisenstein's fixity thesis is given whole (a thousand copies of the same object → comparison,
+cumulative *correction* of error rather than its breeding, reference, a non-face-to-face scientific
+community). Then Adrian Johns: **fixity is transitive, not inherent** — it must be *recognised* to
+exist, and that recognition was manufactured socially across three centuries against a print world
+of piracy and mid-run corrections. ★ **The reason the book needs the correction rather than merely
+surviving it: the strong form is technological determinism, and C10 forbids it.** A render is made at
+the point of contact; a machine cannot hand one out finished. **"Print did not install a render;
+print made a render cheap to install"** is the weak claim, and the weak claim is the one this book's
+own commitments require.
+✅ **R-68 DISCHARGED HERE, on the merits and not by reflex.** McGilchrist gets his sentence: the
+Reformation's individual scripture-reading and literal sense strengthening a rule-bound, text-driven
+mode, and **two modes of attention yielding two worlds rather than two views of one** — which is C11
+in someone else's vocabulary. **Conclusion taken, hemispheric mechanism declined**, and the decline
+is stated in the prose and again in the note rather than left to do quiet work. ⚠ The two rosters
+*disagree about his relation* — `03`:616 calls him Book VI's *"closest living cousin"*, `genre_sweep`
+files him **RIVAL**. Both are right on different axes and the chapter says so: **cousin at the
+conclusion, rival at the mechanism.**
+★★ **AND THE THIRD INSTANCE OF THE SAME MOVE IS NAMED IN THE PROSE, WITH THE OBJECTION TO IT.**
+VI.2 declined Jaynes's bicameral mechanism; VI.3 declined to treat Barfield's convergence as
+confirmation; VI.4 declines McGilchrist's neuroanatomy. The chapter puts the suspicious reader's
+question on the page — *is this book systematically harvesting the conclusions of large historical
+theses while refusing to pay for their mechanisms?* — and answers it in two halves. **The
+comfortable half: yes, deliberately, and C30 is the rule for it.** The uncomfortable half is R-72.
+⚠ **THE THINNEST CORPUS SUPPORT OF ANY CHAPTER YET, and it is the whole SUBJECT that is absent, not
+a name.** Measured under R-67's declared scope over 2,550 research files: **Eisenstein 0 · Havelock
+0 · McLuhan 0 · Gutenberg 0 · "printing press" 0 · "silent reading" 0 · Walter Ong 0.** VI.2's
+Jaynes=0 was one man; this is the topic. **And the topics are present without their sources** —
+*orality* 42 files, *literacy* 14 — which is the popularizer defect (`03` §5) inverted: **the idea in
+hand, the source never named.**
+★ **THE BEAT SHEET NAMED NOBODY, IN THE CHAPTER WHOSE SUBJECT IS THE MOST HEAVILY-SOURCED TOPIC IN
+BOOK VI — and the reason is structural, not an oversight.** The Book VI briefs were built from
+`03`:744, whose Book VI line reads *"Barfield first, then Gebser, Jaynes, McGilchrist, Korzybski,
+Borges' Tlön, RAW."* `03` is a census of names **the corpus already cites**, carrying mention-counts.
+Ong is at 0 and McLuhan at 0, **so neither could ever have entered it** — the roster the chapter about
+print was planned from was structurally incapable of containing the two people who own print.
+`genre_sweep`, hand-authored from *outside* on Day 189, has both, and files Ong's position as
+*"orality and literacy — **print as a change in interiority**"* — **which is this chapter's title.**
+R-19's predicted failure, landing exactly where it said it would. **Eisenstein and Havelock are in
+neither roster**, which is `genre_sweep`'s own declared limit biting in the same chapter.
+**Beats:** the render you are inside *right now*, entered by being asked to notice it — Augustine at
+Milan, the myth, Knox and Gavrilov against it, and the better fact underneath · the private interior
+as a **cost** change, Eisenstein → Johns, and McGilchrist's sentence · **linear argument AND linear
+time** — the checkable chronology as a print artefact, an oral past ordered by significance rather
+than date, and a life becoming readable as a narrative · what print made unavailable.
+**Card:** THE PRINT RENDER — ours, and **the reader's while reading this**. Complement: the
+detachable claim, argument in sequence, history as a sequence. Null space: **the untransportable** —
+whatever's truth does not survive detachment from the one who said it. Mechanism: **the render
+identifies knowledge with the RECORD**, so what cannot be recorded without degradation never enters
+the body of the known, which is what the render inspects when it asks what there is.
+**Navigational implication: this render cannot find what it lost by reading more — reading is the
+operation that performs the exclusion, and every honest additional page moves the ratio the wrong
+way.**
+⚠ **AXIS NOTE, ruling 25 — *the reader is inside this render while reading* is cut twice, and the
+cut is declared in the chapter.** **VI.6 owns the ALGORITHMIC case**, where the point is ethical and
+urgent because the filter edits itself against a particular reader in real time. **VI.4 owns the
+PRINT case**, where the point is **demonstrative** — the reader can be *shown* the render by being
+asked to notice what they are doing, which is available for no other era in Book VI. Neither
+restates the other; VI.6 inherits the embedding and need not re-establish it, VI.4 does not touch
+the ethics.
 
 ### VI.5 — ELECTRIC
 **Beats:** simultaneity · the broadcast tunnel — one filter stack installed at scale for the first time ·

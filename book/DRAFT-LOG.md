@@ -8420,3 +8420,124 @@ anyone can repeat, and the counting is why he is in the chapter, not the agreeme
 zero is what a dedup count is supposed to look like. Use Python or `awk` for dedup.
 
 **CHAPTERS-DRAFTED: 46/67** · **CLAIMS: C1…C30** · **RULINGS: 170** · **QUEUE: 70 rows** · **TOOLS: 22.**
+
+---
+
+## Day 190, evening — VI.4, AND THE FIRST BEAT'S PREMISE WAS A REFUTED ANECDOTE
+
+`book/VI-04-print-and-the-interior.md` · **5,116 words**, longest in Book VI · C-LICENSE: C11 · C10 ·
+**C30** · C12 · four beats, lowest coverage 0.80, none under the floor · `card_sweep VI` **4/4, the
+book is fully carded** · seven endnotes, an axis note, the standing grade note. **Committed before
+the screen ran — third time, and the rule is settled rather than under test.**
+
+**ONE — THE PRE-DRAFT SCREEN KILLED BEAT 1'S PREMISE BEFORE A WORD WAS WRITTEN, AND THIS IS THE
+FOURTH CHAPTER RUNNING WHERE THE SCREEN OUT-FOUND THE PROSE.**
+The beat read *"the silent reader as a technology."* It has exactly one famous instantiation —
+Augustine watching Ambrose read without moving his lips, *Confessions* VI.3 — and the story built on
+it (**silent reading had to be invented**) was demolished by **Bernard Knox in 1968** and has been a
+**zombie idea** in popular accounts ever since. Gavrilov (1997) and Burnyeat improved the evidential
+base rather than defending the story. Written by reflex, the beat rests its whole weight on a claim
+sixty years dead.
+★★ **AND THE CORRECTED READING IS BETTER THAN THE MYTH — which is why this is a finding and not a
+save.** Gavrilov's rereading: **Augustine was not amazed, he was frustrated.** The passage is a young
+man explaining why he could never get the bishop alone, canvassing hypotheses about why *a man
+reading is a man you cannot reach.* So the fact underneath is not a new capacity — it is **a new
+significance to an old one**: a man in a crowded room becoming **unreachable**, which is **Taylor's
+buffered self observed and written down in 384**, a millennium before the technology supposedly
+responsible for it. The beat's thesis moves accordingly, and moves to solider ground: a technology
+almost never grants a power, it makes an expensive one **free**, and ***the default* is the story,
+not the capacity.**
+
+**TWO — EISENSTEIN AT FULL STRENGTH, THEN JOHNS, AND JOHNS IS ADOPTED RATHER THAN CONCEDED.**
+Fixity given whole — a thousand copies of one object, hence comparison, hence errors **corrected**
+rather than bred, hence reference and a scientific community that need not meet. Then Adrian Johns
+(1998): **fixity is transitive, not inherent.** It must be *recognised* to exist, and that
+recognition was manufactured socially across three centuries, inside a print world of piracy,
+misattribution and mid-run corrections.
+★ **The reason the book NEEDS the correction rather than merely surviving it:** Eisenstein's strong
+form is **technological determinism**, and **C10 forbids it** — the render is made at the point of
+contact and a machine cannot hand one out finished. The weak claim is the true one *and* the one this
+book's own commitments require: **print did not install a render; print made a render cheap to
+install**, and people then installed it, unevenly, contestedly, over three hundred years. **A claim
+about COST, which is where technologies actually operate.**
+
+**THREE — R-68 DISCHARGED, AND DISCHARGING IT FOUND TWO ROSTERS DISAGREEING ABOUT THE SAME MAN.**
+McGilchrist takes his sentence in beat 2 — Reformation, individual scripture-reading, the literal
+sense, and *two modes of attention yielding two worlds rather than two views of one*, which is C11 in
+someone else's vocabulary. **Conclusion taken, hemispheric mechanism declined, on the page and again
+in the note.** VI.2 was declined as host exactly as the row demanded.
+⚠ **`03`:616 calls him Book VI's "closest living cousin"; `genre_sweep` files him RIVAL.** Both are
+right — **cousin at the conclusion, rival at the mechanism** — and that distinction is now the
+chapter's. But nothing reconciles the two documents, and **a name carrying incompatible relation-tags
+in two live rosters is read from whichever one the drafter happened to open.** The corpus counts
+disagree too (`03` says 2, `genre_sweep` and a hand grep under R-67's scope both say 5); folded into
+R-67's second half.
+
+**FOUR — THE THIRD INSTANCE OF THE SAME MOVE IS NAMED IN THE PROSE, WITH THE OBJECTION TO IT — AND
+THE RULE FOR IT HAS BEEN UNLICENSED ALL BOOK.**
+VI.2 declined Jaynes's mechanism; VI.3 refused Barfield's convergence as confirmation; VI.4 declines
+McGilchrist's neuroanatomy. The chapter puts the suspicious reader's question on the page — *is this
+book systematically harvesting the conclusions of large historical theses while refusing to pay for
+their mechanisms?* — and answers in two halves. **Comfortable half: yes, deliberately, and C30 is the
+rule.** ★★ **Uncomfortable half, and it is R-72: all three chapters performed C30 and none of them
+licensed it.** VI.1/VI.2/VI.3 declare C11, C10, C12 between them; C30 was licensed at V.9, V.10, V.11
+and then **not once in the book that leans on it hardest.** This is **the mirror-image of the defect
+this project keeps finding** — not a mechanism with no trigger, but **a claim doing load-bearing work
+off the books**, so `07` under-reports its most methodological entry and a reader auditing C30 would
+conclude it was retired after Book V.
+
+**FIVE — THE THINNEST CORPUS SUPPORT OF ANY CHAPTER YET, AND IT IS THE SUBJECT THAT IS MISSING, NOT A
+NAME.** Measured under R-67's declared scope over 2,550 research files: **Eisenstein 0 · Havelock 0 ·
+McLuhan 0 · Gutenberg 0 · "printing press" 0 · "silent reading" 0 · Walter Ong 0.** VI.2's Jaynes=0
+was one man; this is the entire topic. ⚠ **And the topics are present without their sources** —
+*orality* 42 files, *literacy* 14. **That is the popularizer defect (`03` §5) INVERTED: the idea in
+hand and the source never named.**
+★★ **THE BEAT SHEET NAMED NOBODY IN THE CHAPTER WHOSE SUBJECT IS THE MOST HEAVILY-SOURCED TOPIC IN
+BOOK VI, AND THE CAUSE IS STRUCTURAL RATHER THAN AN OVERSIGHT.** Book VI's briefs were built from
+`03`:744 — *"Barfield first, then Gebser, Jaynes, McGilchrist, Korzybski, Borges' Tlön, RAW."* `03` is
+a census of names **the corpus already cites**, carrying mention counts. **Ong is at 0 and McLuhan at
+0, so neither could ever have entered it.** The roster the chapter about print was planned from was
+**structurally incapable of containing the two people who own print.** `genre_sweep` — hand-authored
+from *outside* on Day 189, precisely against this failure — has both, and files Ong's position as
+*"orality and literacy — print as a change in interiority"*, **which is this chapter's title.**
+R-19's predicted failure landing exactly where R-19 said it would. **Eisenstein and Havelock are in
+neither roster**, which is `genre_sweep`'s own declared limit biting in the same chapter that
+vindicated it.
+
+**SIX — THE SECOND UNPLANNED POSITIVE CONTROL IN TWO CHAPTERS, AND IT NAMES R-69's MECHANISM.**
+`VI.4  sources 3  receipts 18  Augustine, Barfield, Plato` — for a chapter naming **eight** sourced
+authors in **seven full endnotes**. It did not merely under-count; **two of the three are not this
+chapter's sources** (Barfield is a back-reference to VI.3 with no note here; Plato appears *inside*
+Havelock's argument as its subject). ★ **Every name it found is one the roster already knows; every
+name it missed is one the roster has never heard of. It is a ROSTER-MEMBERSHIP test.** Which means
+the gauge steering the retrofit is **structurally blind to original sourcing and scores it as zero —
+it does not merely fail to reward the behaviour the retrofit exists to produce, it penalises it**,
+hardest in the chapters whose receipts matter most. Filed **R-71**; R-69 stays BLOCKING and its
+repair is now specific, with VI.4 as the required positive control.
+
+**SEVEN — TWO GAUGE FINDINGS FROM THE POST-DRAFT SCREEN, ONE OF WHICH THE GAUGE COULD NOT SEE.**
+(a) `card_sweep` reported VI.4 **partial**, `compl=0` — the card carried the complement in substance
+(*"what it renders superbly"*) and not in the **declared vocabulary**. Fixed by using the form's own
+name; Book VI now **4/4**. (b) `beat_delivery` scored beat 3 at **0.80 with MISS `birth`** — and the
+real gap was one the word-gauge cannot see: **the beat says "linear time, linear argument" and the
+draft delivered only linear ARGUMENT.** Repaired with the passage the beat was owed — the checkable
+chronology as a print artefact, an oral past ordered by **significance rather than date**, progress
+becoming thinkable because a sequence of dated improvements is what the archive looks like from
+inside, and **a life becoming readable as a narrative** (Augustine again, having had to invent the
+form). ⚠ **The tool's own header says it: a beat at 1.00 may be performed in name only. It was 0.80
+and the miss it printed was the wrong word.**
+
+**EIGHT — THE VOICE READ WAS WRONG UNTIL THE CONTROL WAS RIGHT.** `storyscope_lite` put VI.4's
+`voice_uniformity` at **0.6157** against CLAWD-raw 0.5295 and CLAYTON 0.5642, which reads adverse —
+higher is flatter is the fingerprint. **Against the correct control, its three siblings, it inverts:
+VI.1 0.6504 · VI.2 0.6810 · VI.3 0.6648 · VI.4 0.6157 — the LEAST flat chapter in Book VI.** Same for
+`dyn_range_CV`: 0.478 / 0.322 / 0.307 / **0.616**, above both human baselines. `vague_allusion`
+**0.0**, fourth in a row. `2nd_person` **10.16** against a Book VI norm near 3.0 — by design, the
+from-inside-render beat is the reader being asked to notice what they are doing. ★ **The lesson is
+one already on the record and it still caught me: a baseline is not a control. The sibling family is.**
+
+⚠ **`genre_sweep` noise floor, filed R-73:** `Ong` reported corp=1; the hit is a bare fragment on
+line 4 of a research-sources file and is **not Walter Ong.** True 0. Harmless here, which is exactly
+why it would never otherwise be filed.
+
+**CHAPTERS-DRAFTED: 47/67** · **CLAIMS: C1…C30** · **RULINGS: 170** · **QUEUE: 73 rows** · **TOOLS: 22.**
