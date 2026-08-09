@@ -2650,7 +2650,77 @@ felt reason to go back. **Check the atlas before opening this chapter.**
 **Named:** the demarcation, performed a second time — V.8 takes the method, V.9 takes the case that
 tests it.
 
-### V.10 — THE MYSTICS' REPORT
+### V.10 — THE MYSTICS' REPORT ✅ DRAFTED — 3,115 words
+✅ **DRAFTED Day 189 · `book/V-10-the-mystics-report.md` · C-LICENSE: C30 · C29 · C1 · C27.**
+
+**Source:** ⚠ **ADDED AT DRAFTING, Day 189, and the brief was the thinnest in Book V — 12 lines, over
+half of them the renumber stub, with no `Source:` and no `Named:` (ruling 160's gauge found it).**
+What the chapter was written from: **William James, *The Varieties of Religious Experience*, Lectures
+XVI–XVII** — the four marks, the serial method, the unanimity passage and its five-branch list, all
+quoted from `corpora/james-varieties.txt` · **Emerson's *Essays***, for the Vedas among the
+world-books, `corpora/emerson-essays.txt` · V.1's branch count and deflation, re-run and attributed ·
+V.5:278's subtraction finding, generalised · **Nicholas of Cusa** and **Rudolf Otto**, from general
+knowledge with **no text in this repository** — the evidence grade is named in the log and neither is
+quoted, only stated by doctrine.
+**Named:** **James is the opponent** — he assembled the page this chapter opens with and drew from it
+the perennialist conclusion V.1 declared false, so he is cut on the inference and kept on the
+instrument. **Otto is the second cut**, and a sharper one: his invariant — the *mysterium tremendum et
+fascinans* — is real, universal, and on this book's account **furniture**. **Cusanus is the parity**,
+nominated four times by outside reviewers (`reviewer_gap`) and absent from prose and plan until here.
+
+★★ **RULING 158 — C30 CREDITS V.10 WITH A DIAGNOSTIC V.1 SHIPPED, AND THIS IS THE SECOND TIME THE ROW
+HAS MIS-LOCATED ITS OWN INSTRUMENT, IN THE SAME DIRECTION, INSIDE THE SAME PARAGRAPH RANGE.** C30's
+canonical reads *"the diagnostic is V.10's own, the reports converge on structure and diverge on
+furniture."* **V.1:236 states it flat, as a verdict, nine chapters earlier** — *"What converges is
+structure. What diverges is furniture, and the furniture is not incidental to the people who own
+it."* One night ago V.9 found the row missing the transmission test, which lives at **V.1:131**.
+★ **Both defects point at V.1 and both point away from it: the row credits the chapters that SPEND
+the apparatus and loses the chapter that BUILT it.** The cost is concrete — a drafter reading C30
+believes V.10's job is to *state* the diagnostic, and V.10's actual job is to **earn** one that has
+already been asserted. **The row is corrected and the correction is structural, not a pointer fix:
+`Establishes` now separates BUILT from SPENT.**
+
+★★ **RULING 159 — CONVERGENCE HAS A THIRD EXPLANATION, THE BOOK ALREADY FOUND IT, AND IT IS THE ONLY
+ONE OF THE THREE THAT TELLS YOU WHICH INVARIANTS TO TRUST.** C30 named two competitors — shared
+architecture (universal, arguable-only-as-insufficient) and shared transmission (local, datable,
+subtractable). **The third is shared DIRECTION OF METHOD**, and V.5:278 discovered it in passing and
+never pressed it: *"your instrument removed everything on the way up. The report is honest. The
+instrument selected it."* ⚠ **It breaks V.1's independence test as built.** That test asks whether
+procedures are **unlike** — *"sitting still, spinning, starving, chanting, and drinking a bitter
+decoction … are as unlike as procedures get"* (V.1:167) — and four of those five are alike in the
+only respect that determines the answer: **they all subtract.** ★ **Unlikeness is not independence;
+direction is the axis.** Two single cases, named as single cases and not a trend: the Daoist branch,
+the one whose method is skill rather than subtraction, pays the second-storey tax least (V.5:275);
+and James's anaesthetic subjects, the crudest subtractive instrument available in 1900, return the
+monism in its purest form with no tradition attached. ✅ **The sort is therefore three-way and V.10
+owes it: STRUCTURE survives variation in direction as well as technique · ARTEFACT tracks the
+direction of the method · FURNITURE tracks the doctrine.** C30 amended.
+
+★ **RULING 160 — R-49 NAMED THE MISSING GAUGE AND THEN, IN THE SAME SENTENCE, PRODUCED UNGAUGED THE
+EXACT NUMBER THE GAUGE WOULD HAVE PRODUCED.** The V.8 repair line reads *"this brief was the ONLY one
+in Book V with no `Source:` line."* **Measured: six Book V briefs have none — V.1, V.4, V.5, V.6, V.7,
+V.10 — and V.8 is not among them, because the line asserting the count is the line that fixed it.**
+Book-wide: **47 briefs carry no `Source:`, 24 of them already drafted; 44 carry no `Named:`; and V.3
+was drafted with no `**Beats:**` field at all**, which is why `beat_ban_sweep` screens ten Book V
+chapters and not eleven. ✅ **BUILT: `tools/brief_fields.py`.** ⚠ **And its own limit is printed on
+every run, because it is the limit that matters here: it reads for HOLES, not for TRUTH — a `Source:`
+line that is present and false passes, and R-49's repair line is exactly that.**
+
+★★ **RULING 161 — THE MYSTICAL CORPUS PASSES THE BRANCH TEST AND THE READER FAILS IT. TWO OBJECTS,
+AND THE BOOK HAS BEEN LETTING ONE STAND FOR THE OTHER.** V.1's three branches hold; the traditions
+really did converge. **The modern *impression* of unanimity is downstream of one anthology** — the
+category *mysticism* holding the Upanishads and Suso in one hand is roughly three centuries old, and
+in the form that persuades people it is James 1902. ⚠ **This is V.9's manufactured-coherence test
+(R-50, Editorial #5) run on our own corpus, and it returns a hit at the level of the reader rather
+than the sources.** Two findings inside James, both from `corpora/james-varieties.txt`: **(a) he
+raises the Hindu-inoculation objection against Sufism himself**, twenty pages before counting Sufism
+in the unanimity, and never weighs it; **(b) his fifth branch is *Whitmanism*** — Whitman by way of
+Emerson, and Emerson had the Vedic material in translation. **His most recent independent witness is
+his oldest witness, arriving in Brooklyn by boat at a datable moment.** ⚠ **AND V.9's closing line is
+softened by this and the chapter says so on the page**: V.9 ends *"the mystics got three branches
+because the transmission was old enough to be traced."* There is a second transmission in the
+mystical record and it is 120 years old, not 2,000, and nothing had counted it.
+
 ⚠ **RENUMBER STUB, ruling 139 / R-17 — READ THIS BEFORE CITING V.10.** **This chapter was V.9 until
 Day 188.** Ruling 125 inserted a new V.9 (THE ROAD BEING WALKED NOW) and shifted everything after it:
 old V.9 → **V.10**, old V.10 → **V.11**. The chapter did not change; its number did. ★ **So the summit

@@ -7670,3 +7670,114 @@ available and neither is written. No exemption in the other direction either.
   load-bearing for a *third* chapter and I am *still* the wrong party to open it.
 
 **CHAPTERS-DRAFTED: 41/67** · **CLAIMS: C1…C30.**
+
+---
+
+## V.10 — THE MYSTICS' REPORT · Day 189, 2026-08-08 night · 3,115 words
+
+**C-LICENSE: C30 · C29 · C1 · C27.** Book V is 10/11; the book is 42/67, 125,880 words.
+`claim_sweep`: **0 USE-class hits in the chapter** (six live hits book-wide, all in `DRAFT-LOG.md`
+and `work/`, none in prose). `prose_beat_sweep --chapter V.10`: **0 spent, 0 trace, 0 exempt.**
+`vague_allusion` **0.348 — one hit, and it is James's**, inside the quoted unanimity passage:
+*"as has been said, neither birthday nor native land."* ★ **The metric caught the ancestor hedging
+his own attribution in the sentence claiming the classics have no attribution to hedge.** Kept, as a
+quotation, because it is evidence. `2nd_person` **4.18** — low, and reported rather than fixed by
+padding; the one lift added was a real one (the anthology finding indicts the reader's conviction and
+now says so). Forward refs 1, back 8.
+
+### The screen, and for the fifth chapter running it outweighed the chapter
+
+**① C30 CREDITS V.10 WITH A DIAGNOSTIC V.1 SHIPPED — RULING 158, AND IT IS THE ROW'S SECOND
+MIS-LOCATION IN TWO NIGHTS.** The canonical read *"the diagnostic is V.10's own, the reports converge
+on structure and diverge on furniture."* **V.1:236 states it flat**: *"What converges is structure.
+What diverges is furniture, and the furniture is not incidental to the people who own it."* Last
+night the same row was found missing the transmission test — **V.1:131**. ★ **Both errors point away
+from V.1, and V.1 is the chapter that built every instrument on the row.** A register records where a
+claim is *used* far more naturally than where its instrument was *made*, because use is what a
+chapter announces. `Establishes` is now split BUILT / SPENT, which is the structural fix rather than
+a third pointer correction.
+
+**② CONVERGENCE HAS A THIRD EXPLANATION AND V.5 FOUND IT WITHOUT PRESSING IT — RULING 159.** C30
+named architecture (universal) and transmission (datable). **The third is shared direction of
+method.** V.5:278: *"your instrument removed everything on the way up. The report is honest. The
+instrument selected it."* ⚠ **It breaks V.1's independence test as built.** V.1:167 counts procedures
+as independent when they are *unlike* — *"sitting still, spinning, starving, chanting, and drinking a
+bitter decoction … are as unlike as procedures get"* — and **four of those five subtract.**
+Unlikeness is not independence; direction is the axis. Two single cases, logged as single cases:
+Daoism, the branch whose method is skill, pays the second-storey tax least (V.5:275); James's
+anaesthetic subjects, the crudest subtractive instrument of 1900, return the purest monism with no
+tradition attached. ★ **So the sort has three bins, not two** — structure survives variation in
+direction; artefact tracks the direction; furniture tracks the doctrine. **This is the reason V.10
+can earn a diagnostic V.1 had already asserted: the two-bin version has no slot for the empty summit,
+which converges, is a proposition, is sincerely reported, and is false.**
+
+**③ THE CORPUS PASSES THE BRANCH TEST AND THE READER FAILS IT — RULING 161.** V.1's three branches
+hold. What does not is the *impression* of unanimity, which is roughly 120 years old and runs through
+one anthology. **Two findings inside James, both from a file that has been in this repository since
+Day 187 as a stylometry baseline and had never been read for content:** (a) introducing the Sufis he
+records that *"Sufism must have been inoculated into Islam by Hindu influences"* — then counts Sufism
+in the unanimity, twenty pages later, without weighing it; (b) his fifth branch is **Whitmanism**, and
+Whitman came by way of Emerson, who named the Vedas among the world-books in a text also sitting in
+`corpora/`. **His most recent independent witness is his oldest witness, arriving by boat.** ⚠ This is
+**R-50's Editorial #5 manufactured-coherence test run on our own corpus**, and it returns a hit at the
+level of the reader rather than the sources — which is the level no gauge here looks at.
+⚠ **It also softens V.9's closing line**, and V.10 says so on the page rather than leaving the two
+chapters to disagree quietly: V.9 ends *"the mystics got three branches because the transmission was
+old enough to be traced."* There is a second transmission and it is not old.
+
+**④ R-49 ASSERTED, UNGAUGED, THE EXACT NUMBER ITS OWN MISSING GAUGE WOULD HAVE PRODUCED — RULING
+160.** The V.8 repair line: *"this brief was the ONLY one in Book V with no `Source:` line."* **Six
+Book V briefs have none, and V.8 is not one of them** — the sentence asserting the count is the
+sentence that fixed it. Book-wide: **47 briefs with no `Source:`, 24 already drafted · 44 with no
+`Named:` · and V.3 was drafted with no Beats field at all**, which is why `beat_ban_sweep`
+screens ten Book V chapters and not eleven and nobody noticed. ✅ **BUILT: `tools/brief_fields.py`.**
+Its own limit prints on every run and is the limit that matters: **it reads for HOLES, not for TRUTH.
+A `Source:` line that is present and false passes — R-49's repair line is exactly that, and it
+passes.**
+
+**⑤ V.10's BRIEF WAS THE THINNEST IN BOOK V AND THE GAUGE FOUND IT ON ITS FIRST RUN, MINUTES BEFORE
+DRAFTING.** 12 lines, over half the renumber stub, no `Source:`, no `Named:`. `brief_fields --owed`
+flags *thin and undrafted* as its own class for the reason the chapter proved: **the drafter fills a
+hole from memory, and the memory is the thing being audited.** Book VI is eight briefs of 4–12 lines
+with the same two holes, and it opens next.
+
+### On the page
+
+`prose_echo` returned **V.1 ~ V.10 at 30** on first draft — the highest pairing in the book — and
+**V.7 ~ V.10 at 14**, which was V.1's deflation paragraph being re-run in near-identical words for
+the *third* time with no chapter admitting it. ★ **Fixed by attribution and compression, not
+exemption**: the deflation is now one sentence that says out loud it is V.1's and that V.7 already
+borrowed it; the furniture list, the proposition list and the procedure list are each named as V.1's
+in the act of being used. **V.7 ~ V.10 fell 14 → 3.** V.1 ~ V.10 sits at 26 and every survivor is a
+quotation the page attributes.
+
+⚠ **EVIDENCE GRADE, NAMED BECAUSE THE CHAPTER LEANS ON THEM: Nicholas of Cusa and Rudolf Otto are
+written from general knowledge with NO TEXT IN THIS REPOSITORY.** Neither is quoted; both are stated
+by doctrine only — Cusanus's *learned ignorance* and coincidence of maximum and minimum (1440), and
+Otto's *numinous* / *mysterium tremendum et fascinans* (1917). Everything quoted in the chapter comes
+from `corpora/james-varieties.txt` or `corpora/emerson-essays.txt`, read in full context. **Otto is
+the chapter's second cut and the harder one** — his invariant is real, universal, and on this book's
+account **furniture**, because terror and fascination require an inside at the far end.
+★ **And the parity beat turned out to have a measurement behind it rather than a wish**: V.5 credits
+the East with four things it *saw*; V.2 credits Christianity with three things it *provided*. Nothing
+in Book V had credited the Christian tradition with a **report about what is there** — a scalpel
+sharp for one roster and dull for the other, which is `00`'s founding correction running the opposite
+way.
+
+### Owed
+
+- **R-51 (NEW) — no gauge reads a brief field for CONTENT.** `brief_fields.py` finds holes; the false
+  `Source:` line that produced ruling 160 passes it clean. Same shape as R-47 and R-49 and now
+  demonstrably the *next* one, since the repair for R-49 shipped with the defect R-51 names.
+- **R-19 — the genre-name sweep, and it is now OWED BEFORE V.11, not before Book VI.** Third
+  consecutive chapter to find its own zero by tripping over it: `Wilber` (V.9), then **`Otto` = 0
+  everywhere** in the chapter whose title beat is *the numinous* — a 1917 coinage the project has
+  been using unattributed since IV.8. **Otto and Cusanus are now in the prose; the sweep is not.**
+- **R-50 — unchanged and now cashed once.** Editorial #5's manufactured-coherence point is spent in
+  this chapter. **The route across the repo boundary still does not exist**; it was carried by hand
+  for the second night running.
+- **R-48 — load-bearing for a FOURTH chapter and I am still the wrong party to open it.**
+- **R-49 — PAID, with the gauge. R-47, R-45, R-46, R-43, R-37, R-38, R-27, R-41, R-42, R-36** —
+  unchanged. Deliverable is the BEFORE/AFTER DELTA, never the exit code.
+
+**CHAPTERS-DRAFTED: 42/67** · **CLAIMS: C1…C30.**

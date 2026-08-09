@@ -1283,7 +1283,7 @@ looked exactly like success. *(DRAFT-LOG §Ruling 38.)*
 
 **DRAFTING. Part One is complete and the Atlas is closed.**
 
-    CHAPTERS-DRAFTED: 41/67
+    CHAPTERS-DRAFTED: 42/67
 
 ⚠ **That slot is a DECLARED number and it WILL rot — it is here so
 `tools/where_the_book_is.py` can fail on it, not so anyone can read it.**
@@ -1292,8 +1292,12 @@ Day 189: the tool built to end carrier rot had excluded the stalest carrier in
 the repo, which is the defect it exists to catch, sitting inside its own blind
 spot.)*
 
-Books I (6/6), II (8/8), III (8/8), IV (10/10) drafted. V (2/11), VI (0/8),
-VII (0/9), VIII (0/7) unstarted. **Book V is next.**
+Books I (6/6), II (8/8), III (8/8), IV (10/10) drafted. V (10/11), VI (0/8),
+VII (0/9), VIII (0/7). **V.11 is next, and it closes Book V.**
+⚠ *Read `V (2/11)` until Day 189 night, eight chapters stale, sitting two lines
+under the warning about declared numbers rotting — and the gauge could not see it,
+because `where_the_book_is` checks the `CHAPTERS-DRAFTED:` slot and nothing else in
+this file. **A carrier check that reads one field is a spellcheck for that field.***
 
 ⛔ **THE STRING THAT WAS HERE UNTIL DAY 189, AND WHY ITS REMOVAL IS THE POINT.**
 This block read: *"Planning phase, by Clayton's instruction: 'We will map it out

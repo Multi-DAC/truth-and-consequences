@@ -1044,8 +1044,19 @@ institutional and occult roster is a record of attributions — and V.9 will wan
 > same structural features. **That convergence is evidence for the structure and it is not proof of
 > it**, and every place the book leans on it must say which of the two it is doing.
 > **What the convergence is evidence FOR:** the structural features they share. **What it is NOT
-> evidence for:** the furniture any one of them adds — and the diagnostic is V.10's own, *the reports
-> converge on structure and diverge on furniture.*
+> evidence for:** the furniture any one of them adds. ⚠ **The diagnostic is V.1's — *"What converges
+> is structure. What diverges is furniture"* (V.1:236), stated flat as a verdict.** This row read
+> *"the diagnostic is V.10's own"* until Day 189. **V.10 does not state it; V.10 EARNS it**, and the
+> difference is the whole of that chapter.
+> ⚠⚠ **AND THE THIRD COMPETING EXPLANATION, ADDED DAY 189 BY V.10 — SHARED DIRECTION OF METHOD.**
+> Convergence is also produced by procedures that are wildly unlike in technique and identical in
+> **direction**. V.1's independence test asks only whether the procedures are unlike; sitting still,
+> starving, spinning and drinking a decoction are as unlike as procedures get and **they all
+> subtract**, so their agreement about an empty summit measures the subtraction. **Unlikeness is not
+> independence.** This competitor is neither universal like architecture nor datable like
+> transmission — it is **procedural**, and it is the only one of the three that sorts the report
+> rather than discounting it: **STRUCTURE** survives variation in direction as well as technique;
+> **ARTEFACT** tracks the direction of the method; **FURNITURE** tracks the doctrine.
 > ⚠ **The competing explanation is named, not deflected: shared human cognitive architecture would
 > also produce convergence.** This book does not claim that explanation is false. It claims it is
 > **insufficient** — and it owes the reason at the point of use, not here.
@@ -1071,9 +1082,25 @@ opposite chapters** — the modern encounter record is the one tier in the work 
 explanation is decisive, because the nodes have publication dates on them and the mystics' did not.
 ✅ **The row now carries both, and the pointer is to V.1's prose, which is where the instrument lives.**
 
-**Establishes:** **V.1 — DRAFTED**, and it built the transmission test as well as stating the claim ·
-V.6 (run on Luria) · **V.9 (run on the modern record, and it is the first place the test RETURNS A
-FAILURE)** · V.10 (invariant vs local idiom) · V.11 (the ledger)
+★★ **THE SECOND MIS-LOCATION, DAY 189, V.10 — AND IT IS THE SAME ERROR IN THE SAME DIRECTION, INSIDE
+THE SAME HUNDRED LINES OF THE SAME CHAPTER.** Last night this row was found missing the transmission
+test, which lives at **V.1:131**. Tonight it was found crediting **V.10** with the structure/furniture
+diagnostic, which lives at **V.1:236**. ★ **Twice now the row has named the chapter that SPENDS the
+apparatus and lost the chapter that BUILT it** — and both times the drafter working from the row
+would have done the wrong job: answer the architecture objection and stop (V.9), or state a
+diagnostic that had already shipped (V.10). ✅ **`Establishes` is therefore split into BUILT and
+SPENT below, because a flat list is what made this survivable twice.** ⚠ **The general form, and it
+is worth more than this row: a claims register records where a claim is USED far more naturally than
+where its INSTRUMENT was MADE, because use is what a chapter announces and manufacture is invisible
+by the time anyone cites it.**
+
+**Establishes — BUILT:** **V.1 — DRAFTED.** It states the claim, **builds the transmission test**
+(V.1:131), **names the real axis as instrument independence rather than geography** (V.1:155), and
+**states the structure/furniture diagnostic** (V.1:236). Every instrument on this row is V.1's except
+the third competitor.
+**Establishes — SPENT:** V.6 (transmission run on Luria) · **V.9 (run on the modern record, and the
+first place the test RETURNS A FAILURE)** · **V.10 (earns the diagnostic; adds the third competitor,
+shared direction of method, and the three-way sort)** · V.11 (the ledger)
 **Depends:** C1 · C5 · C24 · V.1 · V.6 · V.9 · V.10 · V.11 · and **every sympathetic reading in Books
 V and VI**
 
