@@ -355,17 +355,10 @@ def main():
     if not brief:
         try:
             import endnote_debt as _ed
-            src = rcp = 0
-            for _p in BOOK.glob("*.md"):
-                _m = _ed.CHAPTER_RE.match(_p.name)
-                if not _m or _m["book"] in _ed.EXEMPT_BOOKS:
-                    continue
-                _t = _p.read_text(encoding="utf-8")
-                src += len({h[0] for h in _ed.find_sites(_t) if h[2]})
-                rcp += _ed.count_receipts(_t)
-            flag = "  ⚠ ruling 9's second half" if rcp < src else "  ✓"
-            print(f"  ENDNOTES: {rcp}/{src} receipts for named sources{flag}"
-                  f"   (tools/endnote_debt.py)\n")
+            src, cov, _notes = _ed.book_totals()
+            flag = "  ⚠ ruling 9's second half" if cov < src else "  ✓"
+            print(f"  ENDNOTES: {cov}/{src} sources carry a receipt{flag}"
+                  f"   (tools/endnote_debt.py — ±, see its LIMIT line)\n")
         except Exception as exc:                      # never block the count
             print(f"  ENDNOTES: gauge unavailable — {exc}\n")
 

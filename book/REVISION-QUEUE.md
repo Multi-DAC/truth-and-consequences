@@ -122,9 +122,15 @@ which is where McGilchrist's print-and-literacy argument actually lands). **TRIG
 before VI.5 drafts** — VI.5 is the other chapter R-52 named, and if the sweep does not run before it,
 this row will have described its own recurrence and not prevented it. small — reading, no prose
 
-**FILED — R-71: `endnote_debt`'s name column is a ROSTER-MEMBERSHIP detector wearing an ATTRIBUTION
-detector's clothes. This is R-69's mechanism, and it is worse than R-69 states.** ⛔ **Still
-BLOCKING.** VI.4 was the second unplanned positive control in two chapters, and a cleaner one. The
+✅ ~~**FILED — R-71**~~ **— DISCHARGED Day 190, afternoon. NO LONGER BLOCKING; the retrofit is
+cleared to start.** Positive control passed as specified: VI.4 reports **9** sources and reports
+neither Barfield nor Plato. Full receipt in the DISCHARGED table, including the three further
+defects the rebuild turned up and the consumer that would have failed silently. *The original
+finding is kept below verbatim, because a row that vanishes cannot be audited.*
+
+~~**FILED — R-71: `endnote_debt`'s name column is a ROSTER-MEMBERSHIP detector wearing an ATTRIBUTION
+detector's clothes. This is R-69's mechanism, and it is worse than R-69 states.**~~ ⛔ ~~**Still
+BLOCKING.**~~ VI.4 was the second unplanned positive control in two chapters, and a cleaner one. The
 chapter names **eight** sourced authors in **seven full endnotes** with publishers and dates — Knox,
 Gavrilov, Burnyeat, Eisenstein, Johns, McGilchrist, Havelock, Augustine. Live output:
 `VI.4  sources 3  receipts 18  Augustine, Barfield, Plato`. **Three.** And *two of the three are not
@@ -183,6 +189,28 @@ surname under five characters, and print the file path for any name whose count 
 can be adjudicated instead of trusted. **TRIGGER: before the next packet quotes a `genre_sweep`
 figure to a reader.** small
 
+**FILED — R-74: `endnote_debt` cannot tell a person from a place, a tradition or an institution, and
+the rebuild made this the last error class standing.** ⛔ **Not blocking — the retrofit proceeds.**
+The Day-190 rebuild (R-71) removed the roster, so names now come out of the prose, and with the
+roster went the accidental filter the roster was providing: a curated list of philosophers rejects
+*Scotland* for free. Live residue at 106 sources: **Scotland, Hampshire, Sufism, Advaita, Buddhism,
+Buddhist, Kabbalists, Christian, Islamicist, Institute, Society, Faith, Doubt, Religious, Father,
+East, March, Ding, Hui, Indra.** Roughly **fifteen to twenty of the 106 are not people**, so the
+headline debt of **91** is a **CEILING with a known upward bias of ~15–20%**, and the floor is near
+**75**. ★ **Write it as a range or don't write it.** ⚠ **The reason this is filed rather than fixed
+is the one that matters:** the obvious repair is another curated list — a stop-list of places and
+traditions — and that is **the roster coming back through the side door**, rejecting exactly the
+unfamiliar names the retrofit exists to reward. A tuned filter would have made tonight's number look
+cleaner and made the instrument worse, and the tuning would have been done against the twenty names
+I happened to see, which is `feedback_grep_derived_from_the_finding` at instrument scale. ✅ **The
+honest interim is what shipped: the tool prints the limit on every run, and the residue is visible
+in the per-chapter column rather than absorbed into a total.** A wrong entry costs one line of a
+reader's attention during the retrofit, which is the cheapest possible place to pay it — the retrofit
+reads every chapter by hand anyway. **TRIGGER: at the end of the retrofit, not before.** By then 106
+names will have been adjudicated one at a time by a human reading them in context, and that pass
+produces the ground truth a real fix needs — a labelled set — instead of a guess. **If the retrofit
+finishes and this row is still open, it is a stamp.** small, deferred on purpose
+
 ---
 
 ## DISCHARGED — paid, with what paid them. Kept because a row that vanishes cannot be audited.
@@ -195,6 +223,8 @@ sat OPEN for four hours anyway, because nothing closes a row.
 
 | # | ruling | discharged | by what |
 |---|--------|-----------|---------|
+| ~~**R-71**~~ | **—** | **Day 190, afternoon** | ✅ `tools/endnote_debt.py` **rebuilt roster-free.** Names are extracted from prose; the curated list is gone. Three exclusions, each a rule about **scope** rather than a list of people: **CROSS-REF** (a name preceded in its own sentence by a pointer to another part of this book — the receipt lives where the source was first used), **SUBORDINATE** (a name preceded by another attributive name — *Havelock's observation is that Plato's hostility…* makes Plato subject matter, not authority), **COMMON NOUN** (lowercase twin appears ≥2× in the chapter or ≥8× across the book — *Print did not bring fixity* is not a citation of somebody called Print; **measured, not curated**, so it needs no upkeep). ★ **POSITIVE CONTROL PASSED ON EVERY CLAUSE R-71 SPECIFIED: VI.4 reports 9 sources — not 3 — and reports neither Barfield nor Plato.** ⚠ **Going to build the control found three further defects the row had not seen:** (a) `"Taylor's *buffered* self"` did not match at all — **the markdown emphasis marker sits where the scan expected a lowercase letter**, so a fully-noted source was invisible (**R-63's family**: a prose gauge blind to the markup the prose is written in); (b) the verb list held finite forms only, so *"Augustine is recording his own…"* scored zero **in the chapter that opens with Augustine** — now stem-built with participles and an auxiliary slot, with bare `not` written out explicitly so *"Augustine was not amazed"* does not read as a citation; (c) `NAME_TOK` admits an apostrophe, so `Everett's` was swallowed whole and keyed a source that could never match `Everett` in the notes — **a chapter would report an uncovered source it had actually paid for.** ✅ **And the second half of the row, receipts:** a marker is not a receipt. v1 counted `[^3]` at the call site **and** at the definition **and** the NOTES heading, scoring VI.4's eight notes as **18** and printing **coverage 600%**. A note counts now only if it **names somebody**, and a source is covered only if a note names *it*. |
+| ~~**R-69**~~ | **117** | **Day 190, afternoon** | ✅ **UNBLOCKED by R-71's rebuild — the denominator is real.** R-69's finding was that the gauge steering the retrofit read **zero named sources across all of Book VI**, so its warning could not fire and its headline could not be quoted. It now reads **15 / 106 sources carrying a receipt across Books II onward — DEBT 91**, and Book VI resolves to 22 sources / 15 covered / 22 notes written. ⚠ **Quote it as a range: ~75–91, ceiling biased high** — see **R-74**, filed for the one error class that survived. ★ **THE CONSUMER WAS THE REAL DANGER AND IT WAS FOUND, NOT REPORTED.** `where_the_book_is.py` reached into v1's internals (`find_sites`, `count_receipts`), both of which the rebuild deleted, **inside a `try/except` that prints `ENDNOTES: gauge unavailable`** — so the one instrument every planning decision consults would have gone quiet **politely, forever**, and the retrofit's own gauge would have died on the day the retrofit started. **This is the signature defect of this project happening inside the repair for the signature defect.** Fixed structurally: `endnote_debt.book_totals()` is now a public entry point, consumers call a function, internals are free to change. Verified live — standalone and consumer both print **15/106**. |
 | ~~**R-11**~~ | **133** | **Day 188, night** | ✅ `05-THE-LEXICON.md` **§8a — THE REPORTAGE CARVE-OUT.** Stated as an amendment to the civilian-life criterion (which is **ruling 31**, not 30 — see §8c), with the three conditions a reported noun is admitted on: **credited · glossed at first use · carries no argument of ours.** ★ **The third is the one that will be violated**, and by drift rather than decision — a noun reported in V.3 and leaned on in V.7 was never re-screened. **The tell is named in the file: the word appearing in a sentence with no attribution in it.** *egregore* and *tulpa* stay refused as terms and stay available as reported nouns, which is what both rulings already specified. **V.1 IS UNBLOCKED.** |
 | ~~**R-17**~~ | **139** | **Day 188, night** *(work landed `1ee3714`)* | ✅ `06-THE-SCAFFOLD.md`:2203 — the V.10 renumber stub is written and complete. ⚠ **THE ROW WAS OPENED IN THE SAME COMMIT THAT DID THE WORK** and stayed open until it was checked by hand tonight. **Nothing in this file could tell a paid row from an unpaid one**, which is why this section now exists. *(Ruling 148: the log is a record, the queue is a work list, and nothing promoted one to the other — this is that defect running the other direction.)* |
 
@@ -864,6 +894,9 @@ name spent on mechanism-adjacency in VI.2 is unavailable where it does structura
 **This is a ruling-25 axis question — where is he CUT, and does anything cut him twice** — and it is
 answered before VI.4 drafts, not before VI.3. **TRIGGER: before VI.4 is drafted.** small — one axis
 note; the reading is the cost.
+
+✅ **R-69 — DISCHARGED Day 190** by R-71's roster-free rebuild; the denominator is real (**15/106**,
+debt ~75–91) and the retrofit is unblocked. Original finding kept verbatim:
 
 **FILED — R-69: `endnote_debt`'s denominator is ZERO for all of Book VI, so its warning cannot
 fire.** Live output tonight: `VI.1  sources 0  receipts 9  (no attributive name found)` and the same
