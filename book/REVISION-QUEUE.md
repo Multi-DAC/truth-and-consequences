@@ -699,3 +699,36 @@ Barfield re-measures at **0**, which does hold. ⚠ **Every corpus-count in `03-
 taken by the same unnamed method** — the table is a column of numbers with no stated scope, which is
 a stamp, not a gauge. **TRIGGER: before any chapter argues FROM a corpus count rather than merely
 citing one.** small · one script that prints its scope.
+
+**FILED — R-68: McGilchrist is rowed to a BOOK and owed by no CHAPTER.** `03-THE-ANCESTORS.md`:616
+carries **Iain McGilchrist**, 2 corpus files, described in the roster's own words as *"attention as
+world-constituting; two modes yielding two worlds, not two views of one. **Closest living cousin to
+Book VI**"* — and the assignment column says `VI`, the book, with no chapter. **Book VI's eight
+chapter briefs name Barfield (VI.3) and RAW + Korzybski (VI.7) and nobody else.** So the roster's
+nearest living counterpart to the entire book has a row, a description, a file count and an
+assignment, and **there is no chapter that owes him a sentence** — the assignment cannot be
+discharged because no chapter is on the hook for it. ★ **Mechanism without a trigger, in the
+ancestor register, and it survived VI.1 and VI.2 both.** `03`:744 already lists *"Jaynes,
+McGilchrist"* adjacently — the pairing was on the record before VI.2 drafted and the drafter did not
+consult that line. ⚠ **DO NOT RESOLVE BY REFLEX INTO VI.2.** The hemispheric-mechanism overlap makes
+VI.2 the obvious host and it is probably the wrong one: McGilchrist's *historical* argument runs on
+literacy, print and the Reformation, which is **VI.4 PRINT, AND THE INTERIOR** almost exactly, and a
+name spent on mechanism-adjacency in VI.2 is unavailable where it does structural work in VI.4.
+**This is a ruling-25 axis question — where is he CUT, and does anything cut him twice** — and it is
+answered before VI.4 drafts, not before VI.3. **TRIGGER: before VI.4 is drafted.** small — one axis
+note; the reading is the cost.
+
+**FILED — R-69: `endnote_debt`'s denominator is ZERO for all of Book VI, so its warning cannot
+fire.** Live output tonight: `VI.1  sources 0  receipts 9  (no attributive name found)` and the same
+for VI.2 — in chapters that name **Gladstone, Gebser, Berlin, Kay** and **Snell, Williams, Jaynes**.
+The flag is `receipts >= len(distinct)`; with `distinct` empty **every Book VI chapter passes
+regardless of what it cites, including one that cites nothing.** The two chapters that produced this
+happen to be fully noted, so the defect is **latent, not active — which is the worse condition,
+because a gauge that passes for the wrong reason reads exactly like one that passes.** ★ Same family
+as R-66: the honest report is BLINDNESS and the printed report is a PASS. ⚠ **This is also the gauge
+that produced `9/50` and now `18/50`, the number quoted to Clayton and carried in the handoff** — the
+numerator is per-chapter and correct; it is the denominator and the per-chapter warning that are
+dead. **TRIGGER: before the endnote retrofit begins**, because the retrofit will be steered by this
+tool's ⚠ column and Book VI would be certified done without being read. small — find why the name
+detector returns empty on Book VI prose; **positive control required: feed it a Book VI chapter with
+a note deliberately removed and confirm the ⚠ fires.**

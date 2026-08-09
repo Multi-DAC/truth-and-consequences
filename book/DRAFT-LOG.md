@@ -8288,3 +8288,64 @@ same file: book-level Source lines filed under the wrong chapter, and a `*.md`-o
 is BLINDNESS.** Filed as R-66.
 
 **CHAPTERS-DRAFTED: 44/67** · **CLAIMS: C1…C30** · **RULINGS: 167** · **QUEUE: 67 rows** · **TOOLS: 22.**
+
+---
+
+## Day 190, midday — VI.2, AND THE BEAT SHEET DID NOT CONTAIN THE ERA
+
+**VI.2 THE VOICES — 3,348 words. 45/67, 135,969 words.** Four beats, `card_sweep VI` 2/2,
+`beat_ban_sweep` clean on this chapter, four endnotes plus the standing grade note.
+**Committed before the screen ran, not after** — the one operational change from last night's wall.
+
+**ONE — THE BEAT SHEET HAD THREE BEATS AND THE MISSING ONE WAS THE ERA ITSELF.** VI.2 opens an
+era sequence, and its three beats were *the bicameral hypothesis*, *what Jaynes got right*, and *a
+methodology demonstration*. All three are about a twentieth-century theory. **None of them renders
+the era.** VI.3's first beat is "the medieval render, **from inside**"; VI.4's, VI.5's and VI.6's all
+do the same; VI.2 was the only era chapter with no inside.
+
+⚠ **The first version of this finding was "VI.2 is the only three-beat chapter" and measuring
+refuted it.** III.4, IV.6, IV.8, IV.9 and VIII.7 are also three, and IV.9 drafted at 5,288 words —
+**beat count does not predict thinness.** The claim survives only inside Book VI, where VI.2 is the
+lone three, and it is the *content* of the missing beat that carries it, not the arithmetic. Written
+down because the wrong version was one keystroke from shipping as a rule.
+
+**TWO — THE RESTORED BEAT USED VI.1'S INSTRUMENT ON VI.1'S POEM.** Gladstone counted colour words in
+Homer; **Bruno Snell counted mind words in Homer**, eighty-eight years later — no term for the living
+body as a whole, five unreconciled interior organs, and decisions narrated as gods arriving. Two
+chapters, one text, one method, and the second needs no new machinery to be believed. **Bernard
+Williams gets the refutation in the same beat and wins the part he is right about** — the absence of a
+word is not the absence of a thing — which costs the chapter Snell's strong conclusion and leaves the
+weak one untouched.
+
+**THREE — THE OLD BEAT 2 POINTED THE WRONG WAY, AND THAT WAS THE LOAD-BEARING ERROR.** *"What Jaynes
+got right independent of whether he got the history right"* **salvages Jaynes.** What Book VI needs is
+the opposite: **insulation.** VI.1 established the era thesis on a colour-term count; if VI.2 hands
+the thesis to the bicameral hypothesis, a hostile reader discounts the whole book at Book VI on a
+contested 1976 claim. So the chapter says it flatly — *the work he was going to do was already done
+by a word-count, and if the bicameral mind is wholly false the* Iliad *still has no word for the
+mind.* **The load-bearing claim and the spectacular claim are not the same claim.**
+
+**FOUR — JULIAN JAYNES: ZERO CORPUS MENTIONS, AND THE INSTRUMENT WAS WORKING.** All 8 "Jaynes" hits
+are **E. T. Jaynes, 1957** — thermodynamics and information theory, a different man. All "bicameral"
+hits are this drafter's own metaphor for two-stream collaboration. ★ **This is the shape yesterday's
+zero was not:** the grep returned results, and they were the wrong results. A null with a positive
+control inside it. **VI.2 is the first chapter written with no corpus support at all**, which is why
+every claim in it is graded in the notes and three are flagged for reading rather than smoothed —
+including the card's prevalence line, which is named there as *the thinnest thing in this chapter*.
+
+**FIVE — TWO FILED. R-68:** `03`:616 rows **McGilchrist** to Book VI as its *"closest living cousin"*
+and **no chapter owes him a sentence** — mechanism without a trigger in the ancestor register,
+surviving VI.1 and VI.2 both, with `03`:744 already pairing him with Jaynes on a line the drafter
+did not consult. **Deliberately not resolved into VI.2**, whose hemispheric adjacency makes it the
+obvious and probably wrong host; his historical argument is print and literacy, which is VI.4.
+**R-69:** `endnote_debt` finds **zero attributive names in all of Book VI**, so its per-chapter
+warning `receipts >= len(distinct)` **cannot fire for any Book VI chapter, including one that cites
+nothing.** Both chapters are in fact fully noted, so it is latent — *a gauge that passes for the
+wrong reason reads exactly like one that passes.*
+
+**R-51's reading half is paid for Book VI.** `07-art-of-navigation.md` was not merely resolved but
+**read**: the Eras section is 2,745 words, Gebser's five structures on a single perspectivity axis,
+with Weber's disenchantment as the named shadow. The spine the scaffold calls thin is thin in
+chapters and not in doctrine.
+
+**CHAPTERS-DRAFTED: 45/67** · **CLAIMS: C1…C30** · **RULINGS: 169** · **QUEUE: 69 rows** · **TOOLS: 22.**

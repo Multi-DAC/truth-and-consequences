@@ -2798,11 +2798,42 @@ the de-duplicated figure; nothing on the record says which scope produced it. Se
 from II.3, cashed at civilisational scale** · what it would take to be wrong about this · Gebser's
 structures of consciousness named (127 mentions — the richest single seam in the corpus).
 
-### VI.2 — THE VOICES
-**Beats:** the bicameral hypothesis at full strength and at its actual evidential standing · what
-Jaynes got right independent of whether he got the history right · **a worked example of holding a
-suggestive claim without a tag** — ground it in evidence and say plainly where the mechanism is open,
-which *is* conviction, not hedging.
+### VI.2 — THE VOICES ✅ DRAFTED — 3,348 words
+✅ **DRAFTED Day 190 · `book/VI-02-the-voices.md` · C-LICENSE: C11 · C12.** Four beats, carded,
+four endnotes plus the standing grade note.
+★★ **THE BEAT SHEET HAD THREE BEATS AND BOOK VI'S OTHER SEVEN CHAPTERS HAVE FOUR — and the missing
+one was the era itself.** VI.2 is the first chapter of an era sequence and the only era chapter with
+no *from-inside render* beat; VI.3's opens with "the medieval render, from inside" and VI.2 opened
+with a twentieth-century theory *about* an era. The count is the finding, not the hunch: 3-beat
+chapters exist elsewhere (III.4, IV.6, IV.8, IV.9, VIII.7) and draft long, **so beat count does not
+predict thinness and the claim is narrowed to Book VI**, where it is the only one.
+✅ **RESTORED as beat 1 — Bruno Snell (1946), the same instrument VI.1 used on the same poem.**
+Gladstone counted colour words; Snell counted mind words. No word for the living body as a whole
+(*sōma* is the corpse), five unreconciled interior terms, and decisions narrated as gods arriving.
+**Bernard Williams (1993) is given the refutation at full strength in the same beat** — the absence of
+a word is not the absence of a thing — and the chapter concedes it against Snell's strong conclusion
+and shows it does not touch the weak one.
+★ **THE SEPARATION IS THE CHAPTER'S LOAD-BEARING WORK, and the old beat 2 pointed the other way.**
+"What Jaynes got right independent of whether he got the history right" *salvages Jaynes*; what Book
+VI needs is the reverse — **insulation, so the era-sequence thesis does not inherit Jaynes's
+evidential standing.** The chapter states it flatly: the work Jaynes was going to do was already done
+by a word-count, and if the bicameral mind is wholly false the *Iliad* still has no word for the mind.
+⚠ **JULIAN JAYNES APPEARS ZERO TIMES IN THE CORPUS — a measured silence with a working instrument.**
+All 8 "Jaynes" hits are **E. T. Jaynes, 1957**, thermodynamics and information theory, a different
+person; all "bicameral" hits are the drafter's own metaphor for two-stream collaboration. **This is
+the first chapter in the work written with no corpus support at all**, which is why every factual
+claim in it is graded in the notes and three are flagged for reading rather than smoothed.
+**Beats:** ★ **the era from inside, via the lexicon — Snell, and Williams against him in the same
+breath** · the bicameral hypothesis at full strength · its actual evidential standing, sorted into
+what holds and what does not, **and the insulation: Book VI does not depend on it** · **a worked
+example of holding a suggestive claim without a tag** — three claims, three grades, three breaking
+conditions, which *is* conviction, not hedging.
+**Card:** THE CLINICAL RENDER OF THE VOICE — printed on our own structure, not the Greeks'. Its null
+space is *the functional voice*: an apparatus that keys on impairment has no column for a voice that
+commands, is obeyed, and organises a working life. **Navigational implication: if a bicameral era
+existed, this render could not have detected it** — the whole population would have been asymptomatic
+by its own criteria.
+⚠ **R-68 — McGilchrist is rowed to this BOOK and owed by no CHAPTER.** See the queue.
 
 ### VI.3 — THE ENCHANTED WORLD
 **Beats:** the medieval render, from inside · a world where the numinous was not a category error ·
