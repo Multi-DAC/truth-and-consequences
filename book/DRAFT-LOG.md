@@ -7236,3 +7236,163 @@ one-chapter move against a one-chapter reading is how noise gets banked as a rep
   the BEATS against the register too, not only the title.**
 
 **CHAPTERS-DRAFTED: 38/67** · **CLAIMS: C1…C30.**
+
+---
+
+## V.7 — MAGIC, OPERATIVE · Day 189, 2026-08-08 · 3,005 words · ✅ landed
+
+**C-LICENSE: C10 · C12.** (C11 touched — a ritual is a filter installation, so an operator's
+world is a tunnel like any other — not spent. C27 NOT touched: the criterion this chapter cashes
+is IV.7's *divergence-from-intent* rule, which is a different sentence from C27's dual-frame rule
+and, as recorded under R-48 below, **has no register row at all.**)
+
+### RULING 156 — THE BEAT SCREEN FIRED ON ITS FIRST OUTING AND FOUND FOUR THINGS, AND THE LARGEST WAS THAT THE BEAT SHEET WAS MISSING THE CHAPTER'S JOB
+
+Ruling 155(c) — *screen the beats against the register and against shipped prose* — is one session
+old. This is its first run. It found four things, and they rank in the inverse order of how loudly
+the carrier announced them.
+
+**(a) The title's load-bearing word is unattested in thirty-eight chapters.** `operative` appears
+**0 times** in the drafted book. `magic` appears **once** (V.1:162, *"Ritual magicians with circles
+and stagecraft"*). This is the inverse of V.6's defect rather than a repeat of it: not a word owned
+by another claim, but a title asserting a **distinction the prose has never drawn.** No collision,
+no ruling-13 axis to run — and still a defect, because the chapter would have opened on a contrast
+the reader has no prior term for. Paid in the first section: *receptive* = pointed at a question,
+returning a reading; *operative* = pointed at an outcome, intending an effect. ⚠ **The title screen
+as written only looks for OWNERSHIP.** A word with no owner passes it while being the wrong word,
+and here it passed while being an undefined one. **Zero attestation should be a flag in its own
+right**, and the step does not have one.
+
+**(b) The chapter may not lean on V.1's result, and the beat sheet gave no sign of that.**
+V.1 admitted ritual magicians to the instrument-independence roster **as witnesses** — unrelated
+instruments returning convergent readings. V.7's beats are entirely about **efficacy**. Convergent
+testimony about the structure of a place is worth exactly nothing toward whether an operation
+performed there works, so the strongest result standing behind this chapter is not available to it.
+Worse, and this is the part a confident drafter skips: **V.1's deflation was left explicitly
+unrefuted** — *"That explanation is not refuted here and it is not going to be. What is claimed is
+that it is insufficient"* — and it arrives here **stronger than it was there**, because an effect
+visible only in the operator's own experience is what an altered nervous system produces unaided.
+The chapter now states that in its second section rather than inheriting a win it never had.
+
+**(c) `prose_beat_sweep --brief` independently ranked the same passage first.** V.1:159 came back
+as top match for the sigil/tarot/alchemy beat and V.1:179 as fifth — the roster and the deflation,
+the two paragraphs the hand-screen had already flagged. ★ **This is the first time the brief and
+the hand-screen have converged on a finding**, and it is worth recording as calibration: the
+instrument is not merely producing plausible neighbours. It does not make R-47 unnecessary — the
+brief ranked *shipped prose*, and the register was still never read by a machine.
+
+**(d) ★★ THE ONE NO INSTRUMENT WAS EVER GOING TO FIND: `06`'S BEAT SHEET DOES NOT CONTAIN THIS
+CHAPTER'S ASSIGNED JOB.** `07`'s C12 row says, in terms: *"V.7 (magic, operative) and VIII.3
+(editing) are where it is either disciplined or lost, and neither chapter can be drafted without
+this line in front of it."* The scaffold's five beats are: the occult message · ritual as
+tunnel-engineering · four practices mechanically · Crowley and Dee operatively · the out-list.
+**The C12 discipline is not among them.** Two carriers, one assignment, and the one a drafter
+actually opens does not have it. A chapter drafted faithfully from `06` alone would have shipped
+without the discipline and read complete — this is *Register of Jobs, Not Components* at the level
+of the book's own planning documents, and it is why (d) is the finding and (a) is the anecdote.
+The discipline now has its own section, and it is the chapter's centre.
+
+### THE THING III.6 ALREADY DID, WHICH ALMOST MADE THIS CHAPTER BOOK VIII
+
+III.6:201 shipped a deferral: *"the mechanics say three things and then stop, because the practice
+is a later book's"*, and then named the book — **VIII**. Read next to `07`'s C12 row, which assigns
+the discipline to **V.7 and VIII.3**, this looks like a contradiction and is not one. III.6 defers
+**the practice** — the reader's own editing. V.7 owes **the reading** — what the old operators were
+doing, at a distance, on their own equipment. The distinction is correct and **it was written down
+nowhere**, which is how a chapter arrives three books early while every carrier reads consistent.
+Stated now, in V.7's closing section and here.
+
+### WHAT THE CHAPTER DOES WITH THE CRITERION, AND THE ONE PLACE IT COMES OUT AGAINST US
+
+IV.7's operational criterion — **the thing does something you did not want**, with difficulty of
+dissolution as the measure of degree — is the chapter's spine, and it is cashed rather than
+re-coined. Run on the operative case it gives the argument its real size: if a practice returns only
+what the operator wanted, the installation reading covers it whole. What the record contains is the
+other thing, **and not as a fringe — as most of its bulk.** The grimoires are by volume *warnings*;
+a literature about wish-fulfilment does not spend its pages on what to do when the thing will not
+depart.
+
+★ **And the same criterion is then pointed at Dee and comes out against him.** Kelley very probably
+deceived him. Divergence from the operator's intent is evidence of a second party; it is not
+evidence that the second party is what it announced itself to be, and the cheapest second party in
+Dee's room was the other man standing in it. **An entry kept because the method was run well, with
+the result declined** — the IV.7 shape, not the IV.10 one.
+
+### THE GAUGES: ONE REAL DEFECT, AND ONLY ONE INSTRUMENT COULD SEE IT
+
+`claim_sweep` read V.7 clean but for **`PROSE/outlist`, which fired on the declaration of the cut
+itself.** That is a genuine collision between two of `00`'s own rules: the out-list convention
+requires the reason to be **on the page** (*we do not hold it*, never *a skeptic would object*),
+which requires naming the item; `PROSE/outlist` bans the name. **A chapter can comply only by going
+silent, and silence is the exact failure the convention exists to prevent.** Enumerated as a named
+line with the reasoning, ⚠ **and deliberately NOT fixed by widening the rule with a `licensed`
+pattern for *is not used in this book*** — that phrasing is cheap to fake and would exempt every
+future chapter that files the words next to the term without doing the work.
+
+★★ **`prose_echo` found the only real defect in the draft, and `claim_sweep` and `storyscope` both
+read the same paragraph clean.** V.7's C12 section had reproduced III.6's closing sentence — *the
+same two-sidedness that made a world available… seen from the side where it costs something* — with
+one phrase altered and **no mark of any kind.** That is V.6's defect recurring one chapter later,
+in the section the chapter exists for. **Rewritten as new prose, not exempted: an unmarked lift has
+no citation to protect.** The two *marked* III.6 citations were then cut down before anything was
+exempted, per the standing convention — **8 live grams → 1**, and the surviving one is the deferral
+quoted in the wording it was made in. One exemption added, not four. **R-46's tax was paid down
+this time rather than up.**
+
+### storyscope — read `named_ref` first, per the standing order
+
+| metric (per 1k) | **V.7** | V.6 | V.5 | V.4 | V.3 | V.2 | V.1 |
+|---|---:|---:|---:|---:|---:|---:|---:|
+| named_ref | 11.31 | 29.89 | 20.72 | 5.17 | 9.24 | 7.47 | 23.59 |
+| 2nd_person | **1.33** | 5.03 | 9.89 | 6.14 | 3.28 | 10.64 | 3.33 |
+| meta_textual | 5.99 | 4.09 | 3.40 | 4.52 | 5.66 | 3.45 | 6.65 |
+| xref | **6.99** | 5.98 | 1.24 | 0.32 | 1.49 | 0.29 | 3.93 |
+| dyn_range_CV | **0.264** | 0.273 | 0.440 | 0.461 | 0.400 | 0.294 | 0.418 |
+| voice_uniformity | 0.7244 | 0.6845 | 0.6556 | 0.6864 | 0.6786 | 0.6848 | 0.6305 |
+
+`named_ref` **11.31** — mid-family (Spare, Carroll, Jung, Crowley, Dee, Kelley, Euclid). No
+composite-figure defect in three chapters.
+
+★★ **THE READING THAT CHANGED TONIGHT, AND IT IS AN EPISTEMIC CHANGE, NOT AN EDIT.** V.6 logged
+`xref` 5.98 and `dyn_range_CV` 0.273 as outliers and **declined to act**, on V.5's ruling that a
+one-chapter move against a one-chapter reading is how noise gets banked as a repair. V.7 comes in
+at **xref 6.99 (a corpus high, forward 1 · back 19)** and **dyn_range_CV 0.264 (a new corpus low)**
+— *both columns further out, in the same direction, in the very next chapter.* **That is no longer
+a one-chapter reading, and the ruling that governed it no longer applies.** ⚠ **What changes is
+NOT the licence to make a one-chapter edit** — that remains exactly as wrong as it was. What
+changes is that **R-45's null is now OWED rather than wanted**, and it is promoted to the top of
+the cold-pass list. The deliverable is a measurement.
+
+⚠ **`2nd_person` 1.33 — the lowest in Book V by a factor of two and a half** (family 3.28–10.64).
+New, and mine: the chapter addresses the reader almost never, because it is written *about other
+people's practice at a distance* — which is exactly the posture (d) and the III.6 deferral pushed
+it into. **The posture is right and the number is a cost of it**, recorded so that V.8, which takes
+the demarcation method and must run it in front of the reader, is not drafted from this one's habit.
+`voice_uniformity` 0.7244 is the highest in Book V; **DEMOTED per Day 189 — reported, not acted on.**
+
+### Owed
+
+- **R-48 (NEW).** IV.7's divergence criterion — *the thing does something you did not want* — is
+  **load-bearing across at least three chapters and has NO row in `07`.** V.7's entire
+  *engagement-not-error* conclusion rests on it; a later chapter contradicting it would take this
+  chapter down and nothing would fire. ⚠ **Deliberately NOT opened tonight.** The register's own
+  rule is that a claim is registered *before* its chapter, and I am the party who benefits from
+  the row existing. **Run cold, by someone who is not cashing it.**
+- **R-47.** Unchanged and now better evidenced: nothing reads a **beat** against the **register**.
+  Finding (d) — the register assigning V.7 a job `06` does not carry — was found by reading `07`'s
+  C12 row by hand. `prose_beat_sweep` reads beats against *shipped prose* and converged with the
+  hand-screen on (b), which is real and is **not this**. ★ **And (a) adds a second missing check to
+  the same gauge: a title/beat word with ZERO attestation in the drafted book should flag.** The
+  title screen looks only for ownership, so an undefined word passes it silently.
+- **R-45 — PROMOTED. Owed, not wanted.** See the storyscope reading above: two consecutive chapters
+  out on both `xref` and `dyn_range_CV`, same direction, further each time. Needs the null (shuffle
+  chapters across books). **No one-chapter move.**
+- **R-46, R-43, R-37, R-38, R-27, R-41, R-42** — unchanged. **Deliverable is the before/after delta
+  across all drafted files, never the exit code.**
+- **V.8 — TRAVEL is next.** It takes the **worked demarcation** — separate the real effect from the
+  unproven mechanism, in public — and V.9 runs it again on the hardest case. ⚠ **Screen the title
+  AND the beats against the register and shipped prose**, per 155(c); ⚠ **and check `07` for a job
+  assigned to V.8 that `06`'s beats do not carry**, per 156(d), which is the step that would have
+  been skipped tonight. ⚠ **`2nd_person`**: V.8 must reach the reader and V.7 did not.
+
+**CHAPTERS-DRAFTED: 39/67** · **CLAIMS: C1…C30.**

@@ -706,6 +706,22 @@ EXEMPTIONS = [
      "after it found the thing recorded. Same principle already on the books for TERM/map-self: "
      "a register that cannot quote the breach it ruled on cannot record the ruling. Named line, "
      "and the line is a citation of `06`:1262, not a use. Day 189."),
+    # --- Day 189, V.7. THE OUT-LIST RULE FIRING ON THE DECLARATION OF THE CUT.
+    ("book/V-07-magic-operative.md", "PROSE/outlist", "The eight-circuit model",
+     "★ THE ONLY EXEMPTION IN THIS TABLE OWED TO A BEAT RATHER THAN TO A QUOTATION, and the "
+     "reason is a real collision between two of `00`'s own rules. The out-list convention says a "
+     "cut item is out **because we do not hold it, never because a skeptic would object** — which "
+     "requires the reason to be ON THE PAGE, which requires NAMING the thing cut. PROSE/outlist "
+     "bans the name. So the rule as written makes the convention it enforces impossible to "
+     "satisfy: a chapter complies by staying silent, and silence is the exact failure "
+     "(`00`:61) the convention exists to prevent — an item dropped with no reason given reads to "
+     "a later editor as an oversight and gets restored. Same shape as the "
+     "DRAFT-LOG/PROSE-manifestation entry: a rule that cannot name a trap cannot record that the "
+     "trap was guarded. NAMED LINE, deliberately not whole-file — any OTHER out-list term in this "
+     "chapter is a fresh breach and must fire. ⚠ AND NOT WIDENED TO A REGEX: the tempting fix is "
+     "a `licensed` pattern for 'is not used in this book', which would silently exempt every "
+     "future chapter that files those words next to the term without doing the work of giving a "
+     "reason. The declaration is cheap to fake; the reason is not."),
 ]
 
 

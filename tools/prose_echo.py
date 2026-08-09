@@ -349,6 +349,21 @@ EXEMPT = [
      "and the same trigger: a standing locution is what a tic looks like from the inside. What would "
      "kill it is the formula appearing where no two frames are actually in contest. If it reaches "
      "four chapters, re-open it."),
+    ("III.6", "V.7", "practice is a later book",
+     "★ THE DEFERRAL QUOTED BY THE CHAPTER THAT HONOURS IT. III.6 stopped its edit mechanics after "
+     "three and gave the ground: 'the practice is a later book's.' V.7 is the chapter a reader most "
+     "expects to break that deferral — it is the operative chapter, and its whole subject is people "
+     "doing things — so it closes by naming the deferral and declining, in III.6's own words. A "
+     "promise is kept in the wording it was made in or it is a different promise. ⚠ THE PAIR WAS CUT "
+     "DOWN FIRST, per the standing convention: the draft quoted the full III.6 sentence and tripped "
+     "FIVE grams, plus a second marked citation ('cannot get onto the list by') for one more; both "
+     "were compressed to the shortest form carrying the claim and the pair fell 8 live grams to 1. "
+     "The reword came before the exemption. ⚠⚠ AND THE THIRD LIFT WAS NOT EXEMPTED, IT WAS CUT: "
+     "V.7's C12 section had reproduced III.6's closing 'the same two-sidedness that made a world "
+     "available… seen from the side where it costs something' with one phrase altered and NO mark "
+     "at all. That is the V.6 defect recurring one chapter later, and `prose_echo` is the only "
+     "instrument that saw it — `claim_sweep` and `storyscope` both read V.7 clean. Rewritten as new "
+     "prose, not exempted: an unmarked lift has no citation to protect."),
 ]
 
 

@@ -2529,7 +2529,22 @@ Gaon's. ⚠ **`emptied` is live in V.2:133 and V.3:102** (buildings; the theolog
 hollowed the word). Different objects, three chapters back — **run `prose_echo.py` after drafting and
 let it adjudicate rather than the ear.**
 
-### V.7 — MAGIC, OPERATIVE
+### V.7 — MAGIC, OPERATIVE ✅ DRAFTED — 3,005 words
+⚠⚠ **RULING 156(d), Day 189 — THIS BEAT SHEET WAS MISSING THE CHAPTER'S ASSIGNED JOB, and the
+assignment was in `07` all along.** C12's register row states that *"V.7 (magic, operative) and
+VIII.3 (editing) are where it is either disciplined or lost, and neither chapter can be drafted
+without this line in front of it."* **None of the five beats below is that discipline.** A chapter
+drafted faithfully from this entry alone would have shipped without it and read complete. The
+drafted chapter carries it as its own section — *the edit is to the filter; the filter is not the
+world* — and the class is now standing procedure: ★ **before drafting, check `07` for a job
+assigned to the chapter that these beats do not carry.** Two carriers, one assignment, and the one
+a drafter opens is not the one that made it.
+⚠ **ALSO FOUND AT THE SCREEN:** the title's load-bearing word `operative` had **zero** attestation
+in 38 drafted chapters (`magic`: one, V.1:162). Not an ownership collision — a title asserting a
+distinction the prose had never drawn. Defined in the chapter's first section. **And V.1's
+instrument-independence result is NOT available here** — it admitted ritual magicians as
+*witnesses*, and this chapter is about *efficacy*; V.1's deflation was left explicitly unrefuted
+and arrives here stronger. See DRAFT-LOG, ruling 156.
 **Beats:** the underlying message of every occult tradition, stated without embarrassment: **engagement
 with the non-physical is engagement, not error** · ritual as tunnel-engineering · sigil, tarot, alchemy,
 chaos magic — what each is doing mechanically · Crowley and Dee «(80 and 15)» read operatively rather
