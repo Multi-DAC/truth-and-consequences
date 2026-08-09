@@ -7914,3 +7914,50 @@ single row that flatters the prose is exactly the row to distrust.
   the BEFORE/AFTER DELTA, never the exit code.
 
 **CHAPTERS-DRAFTED: 43/67** · **CLAIMS: C1…C30.**
+
+---
+
+## DAY 189, LATE — RULING 165. THE QUEUE WAS SHIPPING TEN ROWS IT DID NOT HAVE
+
+**Found in the ten minutes between "yes, send it" and Clayton sending it**, by running the packet's
+own §0 checklist against the file it certifies instead of against the memory of having built it.
+
+**`grep R-50 book/REVISION-QUEUE.md` returned nothing.** Packet 002 cites R-50 **twice** as the
+reason the queue is being shipped to a reviewer at all. The row was not there.
+
+**RULING 165 — THE PROMOTION CONVENTION NEEDED A GAUGE, NOT A HABIT, AND IT NEEDED IT AT 148.**
+`tools/row_promotion_sweep.py` (the eighteenth) reads every `R-<n>` filed anywhere in the project
+and checks it against the rows the queue actually carries. First run:
+
+- **10 FILED BUT NEVER ROWED — R-41, R-42, R-43, R-45, R-46, R-47, R-48, R-49, R-50, R-51.** That is
+  **every number from R-41 to R-51 except the hole.** All ten are now rowed, from their DRAFT-LOG
+  filings, with triggers.
+- **1 HOLE — R-44**, never filed in any document. *"R-1…R-53"* overstates the series by one. Left
+  open; re-using the number would destroy the only property the series has.
+- **1 COLLISION — R-32**, carrying two different rows since Day 189 midday. **Not renumbered**,
+  under ruling 145's precedent: live citations resolve by context and a renumber breaks all of them
+  at once. A note at each instead.
+
+★ **THE FINDING IS NOT THE TEN ROWS. IT IS R-31.** Ruling 148 made the convention — *an entry that
+files an owed item must row it in the same commit, or it is a note.* R-31 was opened by Clayton
+finding exactly this failure, and its row says *"the promotion convention gets its first enforcement:
+this row's existence is the receipt."* **The convention then failed on eleven consecutive numbers.**
+The receipt was written and mistaken for the mechanism — a *habit* was installed where a *gauge* was
+owed, and a habit has no gauge on itself.
+
+⚠ **AND R-50 IS ITS OWN INSTANCE, ONE SCALE IN.** The row that says *nothing carries findings across
+the repo boundary* failed to carry itself across the boundary between two files in the same
+directory. [[register-of-jobs-not-components]] — the job (promote a filing to a row) was named,
+ruled, and never mounted on anything that fails on its own.
+
+⚠ **THE GAUGE ALSO FOUND ITS OWN OBSERVER EFFECT AND WAS CORRECTED FOR IT.** Writing the note that
+records R-44 as a hole put the token `R-44` inside the queue, which read back as an eleventh
+filed-but-unrowed number. A filing now counts only if it happened *somewhere that is not the queue*.
+An instrument that cannot tell its own writing from the thing it measures will always find work.
+
+**Packet 002 amended with the finding rather than quietly repaired.** §0 carries a new row and it is
+written against us: *a hand-kept file whose own charter says it cannot certify its own coverage was
+believed for eleven rows anyway.*
+
+**CHAPTERS-DRAFTED: 43/67** · **CLAIMS: C1…C30** · **RULINGS: 165** · **QUEUE: 52 rows, 1 declared
+hole, 1 noted collision.**

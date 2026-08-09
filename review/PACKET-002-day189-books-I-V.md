@@ -18,6 +18,7 @@ packets have now gone out with the same defect. So the step exists now, and here
 |---|------|----------------------|
 | ✅ | **`07-THE-CLAIMS-REGISTER.md` is in this packet and it runs to C30** | R-13, filed after packet 001 and not done before the midpoint audit. **Both previous readers reported the register as ending earlier than it does** — one said C1–C23 when it ran to C26. If your copy stops before **C30**, you are not looking at the current file. |
 | ✅ | **`book/REVISION-QUEUE.md` is in this packet** | R-50. Outside-review findings have never crossed the repo boundary in either direction; the queue has never been shown to a reviewer. **Everything we already know is wrong is in it.** Please do not spend the read rediscovering rows R-1…R-53. |
+| ⚠✅ | **…and when this checklist was run against the queue, TEN OF ITS LAST ELEVEN ROWS DID NOT EXIST** | ★ **Caught minutes before this packet went out, by the gauge written to catch it** (`tools/row_promotion_sweep.py`, the eighteenth). **R-41…R-51, less R-44, had been filed in `DRAFT-LOG.md` and never written into the queue** — including **R-50 itself, cited twice in this very file as the reason the queue is being shipped to you.** Ruling 148 made the promotion convention and **R-31 stands in the queue as the receipt of its first enforcement; it then failed on eleven consecutive numbers and nothing noticed, because nothing derived the file.** All ten are now rowed. ⚠ **Two defects remain, declared rather than fixed: R-44 is a HOLE** (never filed anywhere — "R-1…R-53" overstates the series by one) and **R-32 is a COLLISION** (two different rows, left unrenumbered under ruling 145's precedent, with a note at each). ★ **The honest reading of this row is not that it was caught. It is that a hand-kept file whose own charter says it "cannot certify its own coverage" was believed for eleven rows anyway.** |
 | ✅ | **The gauges no longer misreport the size of the work** | R-27. Until tonight `reviewer_gap.py` printed *"THE BOOK IS 14 CHAPTERS OF 68"* and three other tools said the same. It is **43 of 67**. |
 | ✅ | **The renumber stub is signposted** | Ruling 139. Old V.9 → V.10 and old V.10 → **V.11** on Day 188. ⚠ **An outside note citing "V.10's summit cut" means V.11.** |
 | ✅ | **Every claim of grade in the new chapters is on the page** | V.10 and V.11 each carry a closing note naming which figures are held at general-knowledge grade with no text in the repository. |
@@ -40,7 +41,9 @@ packets have now gone out with the same defect. So the step exists now, and here
 **The process record, which is where we are most likely to be lying to ourselves:**
 - `book/DRAFT-LOG.md` — every chapter's night, every ruling, every gauge run.
 - `book/REVISION-QUEUE.md` — **R-1…R-53, open, with triggers.** See §0.
-- `tools/` — 17 gauges. All are runnable read-only from the repo root.
+- `tools/` — 18 gauges. All are runnable read-only from the repo root.
+  ⚠ The eighteenth, `row_promotion_sweep.py`, was written **after this packet was first assembled**
+  and is the reason §0's queue row now says what it says. Run it; it exits non-zero on purpose.
 - `review/PRE-REG-002-books-I-V.md` — **our predictions about what you will find, filed before you
   read.** Please do not read it until after you have written your findings; it is scored afterwards
   and its value is entirely in having been written blind.
