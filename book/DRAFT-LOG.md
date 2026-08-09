@@ -7961,3 +7961,71 @@ believed for eleven rows anyway.*
 
 **CHAPTERS-DRAFTED: 43/67** · **CLAIMS: C1…C30** · **RULINGS: 165** · **QUEUE: 52 rows, 1 declared
 hole, 1 noted collision.**
+
+---
+
+## THE OPUS ROLLING READ — BOOK V, ELEVEN CHAPTERS · Day 189, 2026-08-08, ~20:20 · ✅ transcribed, verified, rowed
+
+**Not the packet read.** The Opus that has been reading as the book is written, covering Book V.
+`PACKET-002` remains unread by anyone. Transcript intact at `review/OPUS-DAY189-BOOK-V-READ.md` —
+**R-50's first live discharge in the inbound direction**, which is the half that has never once
+worked.
+
+**Six findings, three smaller items, eight rows: R-54…R-61.** Every quotation the reviewer attributed
+to the book was checked against disk before a single row was written. **Three for three, exact,
+spans included** — which is the check that matters, because the fabricated part of a quotation is
+never the phrase, it is the joint.
+
+★★ **THE LARGEST — R-54, AND IT IS A COUNT, NOT A READING.** V.1:44 calls the census card *"the whole
+load-bearing claim of this book."* `tools/card_sweep.py`, built tonight for this row:
+
+    BOOK IV:  9/10 carded (90%)
+    BOOK V:   2/11 carded (18%)
+
+**And it is a cliff, not a taper** — `complement` occurs in V.1 and V.2 and nowhere after. The two
+carded chapters are Neoplatonism and the church: **the two traditions held at arm's length. The roads
+treated most sympathetically are the ones never carded.** ⚠ **Why seventeen instruments missed it:
+every one of them measures a PROSE property, and an un-populated declared form leaves no trace in any
+of them, because the absent thing was never a sentence.** IV.10's lost tier, one class up — found by
+putting two lists side by side and counting.
+
+✅ **THE GAUGE HAS A POSITIVE CONTROL AND IT PASSED.** Its only Book IV zero is **IV.10 — the chapter
+that DECLINED a card on the record, ruling 127** (*"there is no faint version of no one"*). The
+instrument's single miss in the census book is the one place the census book ruled a miss correct.
+
+★★ **AND THE BEST ITEM CAME FROM THE REVIEWER BEING WRONG — R-58.** They reported *"the scaffold still
+says ten chapters."* It does not; `06:2104` reads `~~Ten~~ **ELEVEN**`. **The refusal is the finding.**
+Strikethrough does not survive plain text, a paste, a tilde-stripping pipeline or a fast scan — in all
+of those the string transmits as **"Ten."** ✅ **37 instances across the planning documents, several of
+them load-bearing supersessions rather than counts** (`~~III.1's~~ II.1's`, `~~COPY, DON'T REFERENCE~~
+SUPERSEDED`, `~~Status remains UNSET~~`). **A superseded claim that renders as live is worse than a
+stale one — it reads as current AND correct.** ⚠ **This is a property of the transmission, not of the
+text, and the author cannot see it from inside.** Second night running that a reviewer's mistaken
+small outweighed a correct one: **the mistake is the instrument, because it reports what the document
+actually transmits.**
+
+✅ **ONE ITEM CLOSED RATHER THAN QUEUED.** They asked whether C29's canonical wording covers V.9's use
+of it as the withdrawn-warrant precedent. **It does** — `07:1001` is precisely a withdrawn warrant and
+its reason, and V.9:205 stays inside it. Recorded so it is not re-raised.
+
+⚠⚠ **AND THE COST, PAID IN `PRE-REG-002` RATHER THAN HIDDEN.** The pre-registration was filed blind
+against the *packet* read. **Tonight I read outside findings on Book V, so its blindness is gone**, and
+a file that still advertised itself as blind would be the worst artifact in the directory. Scored
+partially, below its line, dated: **P1 half** (target hit — the third bin, now R-56; mechanism and
+verdict both missed), **P2–P4 NOT SCOREABLE** — the reviewer had no occasion, and a zero from an
+instrument that could not look is not a zero — **P5 declined on scope.**
+
+★ **The result underneath the tally, and it is the same species as PRE-REG-001's.** That one found all
+five predictions were about the *machinery* while both findings were about the *argument*. **This one:
+I predicted the attack on the third bin would come FROM THE FIELD — apophatic formulae as a
+transmission genre, scholarship I do not have. It came from a number V.10 PRINTED ITSELF** — four of
+five instruments in its own roster subtract. ⚠ **Twice now I have modelled the threat as something I
+lack, and twice it was something I had already written down and not read back.**
+
+⛔ **P3's trap deliberately NOT fired.** Its clause said an unraised reading-order objection means
+ruling 21 should be struck. **That clause is about a reader holding all of I–V in the printed order.**
+Firing it on a Book V read that was never asked the question would strike a standing ruling on a
+silence — the exact error the clause exists to prevent, run backwards.
+
+**CHAPTERS-DRAFTED: 43/67** · **CLAIMS: C1…C30** · **RULINGS: 165** · **QUEUE: 60 rows, 1 declared
+hole (R-44), 1 noted collision (R-32)** · **TOOLS: 18.**
