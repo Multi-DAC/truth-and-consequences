@@ -8236,3 +8236,55 @@ Book VI writes *with* notes or joins the retrofit** — it is the only part of t
 while we work.
 
 **CHAPTERS-DRAFTED: 43/67** · **CLAIMS: C1…C30** · **RULINGS: 167** · **QUEUE: 65 rows** · **TOOLS: 21.**
+
+---
+
+## Day 190, late morning — BOOK VI OPENS, AND THE PRE-DRAFT SCREEN CAUGHT ITSELF THIS TIME
+
+**VI.1 DIFFERENT WORLDS, NOT DIFFERENT OPINIONS — 3,329 words. 44/67.** All four beats delivered,
+none under the reporting floor, 0 spent beats, `card_sweep VI` 1/1, `endnote_debt` 0/50 → 9/50.
+
+**Four items were owed before this chapter and all four are settled** — R-57 paid, R-54's fork
+decided, R-65 decided, R-51's lookup half paid with `tools/brief_source.py`. The queue carries the
+detail. Three things belong here instead.
+
+**ONE — THE CARD DECIDED ITS OWN FORK, from a book that had not been written yet.** R-54 posed it as
+Book V's problem: either V.1 stops calling the census card load-bearing, or the cards get written for
+nine chapters. Both arms read as bookkeeping. What settled it was drafting VI.1's second beat, *why
+this is not relativism*, and finding that **the answer IS the card.** Relativism cannot write line
+two. If every render is just another valid world then nothing is invisible from inside one, and there
+is no vantage from which an absence could be named. **A null space is a claim that a position is
+wrong about something specific.** That is the entire distance between *different worlds* and *all
+views equally valid*, and it is a form, not a sentence. So the cards get written, Book VI writes them
+at draft time, and VI.1 prints one cold for the reader's own structure — because a card about
+somebody else is an accusation and a card about yourself is an instrument.
+
+**TWO — THE PRE-DRAFT SCREEN'S BIGGEST FINDING WAS FALSE, AND THE ONLY REASON IT DIED IS THAT THE
+GAUGE HAD A POSITIVE CONTROL AND THE SHELL DID NOT.** For five chapters running the screen has
+turned up something larger than the chapter. This time it turned up that **Book VI's `Source:` line
+pointed at nothing** — 0 hits for "The Eras of Attention", 0 for "The Technologies of the Tunnel",
+0 for the file, across a 120,268-word corpus and two directory trees. It was wrong. `Perspective` is
+a separate drafting tree and `07-art-of-navigation.md` is 9,308 words with that section at line 17.
+
+⚠ **`find` on this machine is Windows `FIND.EXE`.** Every invocation printed `Parameter format not
+correct` and exited 0, and **I read the silence as absence** — four separate times, and used it to
+build a finding. `brief_source.py` refuses to report any zero until it has resolved a known-good
+reference on the same shelf; that control is the only thing standing between this and a false report
+to Clayton. **Every `find`-derived zero in this project before today is void.**
+
+★ **The pattern worth keeping is not "check your shell." It is that the expectation did the damage.**
+Four chapters of the screen finding something real had made *finding something* the anticipated
+outcome, and a broken instrument returning nothing reads exactly like a clean instrument returning a
+defect when you are already leaning that way. **Day 189's note said expecting a finding is roughly
+the condition under which I would stop seeing one. It was half right. The other half is that it is
+also the condition under which I invent one.**
+
+**THREE — THE GAUGE UNDER-REPORTED ITS OWN SUBJECT BY HALF.** `brief_source.py` read `Source:` lines
+one line at a time. They are hard-wrapped. Joining the block took coverage from **20 references to
+40** — the first version saw half its subject and printed a completeness claim. That is R-63, in a
+tool written days after R-63 was filed, by the person who filed it. Two more of the same shape in the
+same file: book-level Source lines filed under the wrong chapter, and a `*.md`-only index that made
+`.txt` references unresolvable *by construction*. **All three report ABSENCE where the honest report
+is BLINDNESS.** Filed as R-66.
+
+**CHAPTERS-DRAFTED: 44/67** · **CLAIMS: C1…C30** · **RULINGS: 167** · **QUEUE: 67 rows** · **TOOLS: 22.**

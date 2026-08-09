@@ -232,8 +232,12 @@ convergence is evidence. It is not proof, and this book says which every time it
 evidence is what it is, and the reason it has been treated as a curiosity about human psychology is
 not that somebody assessed it and found it thin.
 
-That is all. The chapter does not stop to defend the paragraph, and the reader is asked to notice
-that it did not.
+That is all. The defence of it is not here. V.1 states the deflationary reading at full strength —
+that twenty unrelated procedures may be twenty ways of pushing one nervous system out of its
+ordinary range, and that the convergence would then measure the architecture rather than anything
+the architecture was pointed at — and answers it there, at the length the objection deserves. A
+reader who thinks the paragraph above needs defending is right, and should read the defence rather
+than a claim that it exists.
 
 ---
 

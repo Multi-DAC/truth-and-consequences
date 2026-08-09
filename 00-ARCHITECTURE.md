@@ -1289,11 +1289,13 @@ looked exactly like success. *(DRAFT-LOG §Ruling 38.)*
 
 ---
 
-## STATUS — Day 189, 2026-08-08
+## STATUS — Day 190, 2026-08-09
 
-**DRAFTING. Part One is complete, the Atlas is closed, and BOOK V IS CLOSED — 11/11.**
+**DRAFTING. Part One is complete, the Atlas is closed, Book V is closed — and BOOK VI IS OPEN: 1/8.**
+VI.1 is the first chapter in the work to ship with endnotes (ruling 9's second half, dormant for 43
+chapters) and the first outside Book IV to carry a census card.
 
-    CHAPTERS-DRAFTED: 43/67
+    CHAPTERS-DRAFTED: 44/67
 
 ⚠ **That slot is a DECLARED number and it WILL rot — it is here so
 `tools/where_the_book_is.py` can fail on it, not so anyone can read it.**

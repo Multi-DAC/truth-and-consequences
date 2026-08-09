@@ -1225,7 +1225,14 @@ what would settle it from outside** — including what would settle it *against 
 book's whole architecture (IV.2's rule established at the quartz, where it costs nothing, so no
 special pleading is available when the census reaches the computational) exists to make this page
 payable. **Spending it as a victory would spend IV.2's deposit too.**
-**Source:** ecology Tier 3.7 · `Perspective` 04-the-ecology "the computational dimension."
+**Source:** ecology Tier 3.7 · `Perspective` 04-the-ecology, "the non-physical: the made, the dead,
+and the imagined" (the computational paragraph) · `Perspective` 08-atlas, which is where the phrase
+*the computational dimension* actually lives.
+⚠ **REPAIRED Day 190 by `tools/brief_source.py`, R-51's gauge, on its first honest run.** This line
+read `"the computational dimension."` in quotation marks, as a section of `04-the-ecology`. There is
+no such section in that file; the phrase is in `08-atlas`. The chapter was drafted against it anyway
+and is fine — but the citation named a shelf the material was not on, and **quotation marks in a
+Source line are an assertion that the string is in the cited source.**
 **Named:** IIT and its neighbours (opponent V), who put the gradient in the right place and the
 substrate in the wrong one.
 ⚠ **AXIS NOTE, ruling 25:** **the substrate question is this chapter's and only this chapter's.**
@@ -2773,7 +2780,20 @@ reader's own tunnel.*
 **Source:** `Perspective` 07-art-of-navigation ("The Eras of Attention", "The Technologies of the
 Tunnel") — the spine exists and is thin; the era chapters are largely NEW.
 
-### VI.1 — DIFFERENT WORLDS, NOT DIFFERENT OPINIONS
+### VI.1 — DIFFERENT WORLDS, NOT DIFFERENT OPINIONS ✅ DRAFTED — 3,329 words
+✅ **DRAFTED Day 190 · `book/VI-01-different-worlds-not-different-opinions.md` · C-LICENSE: C11 ·
+C10 · C12.** All four beats delivered, none under the reporting floor. **First chapter in the work
+to ship with endnotes** (ruling 9's second half, dormant for 43 chapters — R-65's decision: Book VI
+writes *with* notes rather than joining the retrofit, because the debt only grows while we draft).
+**First chapter outside Book IV to carry a census card** — R-54's fork decided in favour of the
+cards, and the card is not decoration here: it is what distinguishes this chapter's claim from
+relativism, since a null space is an assertion that a position is *wrong about something specific*
+and relativism cannot write that line.
+⚠ **The beat line below carries a RULING-113 self-metric** — *"(127 mentions — the richest single
+seam in the corpus)"* — caught by `beat_ban_sweep` at draft time. The prose does not repeat it,
+deliberately. **And the number is unverified: a re-measure over the corpus clone on Day 190 returns
+308 raw mentions across 57 files, inflated by triplicated `_superseded` mirrors.** 127 may well be
+the de-duplicated figure; nothing on the record says which scope produced it. See R-67.
 **Beats:** the claim stated as the case, up front · why this is not relativism — **the Perspective cut
 from II.3, cashed at civilisational scale** · what it would take to be wrong about this · Gebser's
 structures of consciousness named (127 mentions — the richest single seam in the corpus).
