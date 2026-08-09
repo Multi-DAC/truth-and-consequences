@@ -2882,3 +2882,13 @@ sentence*) and has never once been executed in its second, because nothing measu
 question: an endnote register plus a gauge counting named sources against receipts per chapter,
 which will read `0/N` on the day it is written — **and that zero is the finding, printed by an
 instrument instead of by a reviewer.**
+
+★ **BUILT Day 190 — `tools/endnote_debt.py`. It reads `0 / 50`, and `where_the_book_is.py` now
+prints that ratio every run.** ⚠ **And the two-day gap is the more useful half of this entry: a
+build order filed without a gauge and without a date is a stamp.** Nothing measured ruling 117, so
+the debt resurfaced on Day 190 the same way it surfaced on Day 188 — by hand-grep — and I reported
+it to Clayton as new. **The ruling that named *mechanism-without-a-trigger* was filed without one.**
+See **R-65**, which also carries what the gauge cannot see: **Book IV is 4.4× thinner in attribution
+per word than Book V** while `00` calls it the most ancestor-dense book in the work — `03`§3.5's
+*doctrine used, owner unnamed*, concentrated in the book with no apparatus, sitting on top of
+accurate but wholly unsourced empirical science.

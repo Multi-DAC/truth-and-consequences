@@ -501,15 +501,20 @@ those are 4 and 6.)*
 
 **LEFT OPEN, ON THE MERITS — two, and neither is mine to close:**
 
-- ⚠ **`00`:1532 — RULING 167 SILENTLY RE-PRICED AN OPEN DECISION, and this is the one to look at
-  first.** The apparatus question offers *"a hybrid — Part One inline-only, Part Two noted."* That
-  option was costed when Part One was I–III. It now assigns **Book IV — the Atlas, the most
-  ancestor-dense book in the work, 46,068 words** — to the *inline* regime instead of the *noted*
-  one. The passage's own next sentence is **"an inline-citation sentence and an endnoted sentence
-  are different sentences, and 67 chapters written under one convention cannot be converted to the
-  other without a rewrite."** So a heading edit moved a third of the drafted book from one
-  irreversible convention to the other, inside an option that is still open and still unpriced.
-  **This is a decision for Clayton, and it should be taken before the apparatus is, not after.**
+- ~~⚠ **`00`:1532 — RULING 167 SILENTLY RE-PRICED AN OPEN DECISION.** The apparatus question offers
+  *"a hybrid — Part One inline-only, Part Two noted,"* and ruling 167 moved **Book IV, 46,068
+  words** across that boundary into an irreversible convention nobody re-costed. **A decision for
+  Clayton, before the apparatus is settled.**~~ ★ **WITHDRAWN Day 190, and the withdrawal is the
+  lesson.** The hybrid **died on Day 186** — ruling 9 answers the apparatus question *uniformly*
+  (*"Everywhere after: the name lives in the sentence; the source lives in an endnote"*), and
+  **"everywhere after" admits no Part One / Part Two split.** It was dead four days before ruling
+  167 existed to re-price it. I read `00`§D's body as live because it says *"Undecided:"* in the
+  present tense **underneath a ✅ RULED header**, and escalated a corpse to Clayton as a live
+  decision. **Correctly shaped alarm, fired on a dead target.** `00`:1531 now marks its own stale
+  body; this row is the second copy of the same corpse and was left standing for four hours after
+  the first was buried — **a supersession applied in one file is not applied.**
+  [[superseded-not-stale]] **What going to check it actually found is R-65, below, and that one is
+  live.**
 - **`07`:340 — "II.8 was the best remaining opportunity in Part One."** A best-of-set justification
   whose set grew by ten chapters and was never re-searched. Still defensible (II.8 names Gnosticism
   and Valentinus states Trap 5 in his own text), but it is now asserted over a set nobody has read
@@ -522,3 +527,93 @@ only place Part Two states a telos"* (a uniqueness claim over a **shrinking** se
 fortiori) · `03`:755 Borges as Part One's epigraph (survives, and arguably strengthens — the Library
 of Babel is a census, and Part One now contains the Atlas) · `00`:1292 *"Part One is complete"* (true
 before, true now: IV is 10/10).
+
+---
+
+### R-65 — ruling 117 ordered a gauge, nothing built it, and the debt resurfaced by hand-grep two days later
+
+**Filed Day 190. The gauge exists now: `tools/endnote_debt.py`. It reads `0 / 50`.**
+
+Ruling 9: *"Book I: nothing. Everywhere after: the name lives in the sentence; the source lives in an
+endnote."* Ruling 117 (Day 188) found the second half had never once been executed, used the words
+**"a mechanism with no trigger,"** and filed the fix **as a build order, not a question** — *"an
+endnote register plus a gauge counting named sources against receipts per chapter, which will read
+0/N on the day it is written."*
+
+★ **Two days later the gauge did not exist, and the way the debt resurfaced was me re-grepping the
+raw fact and reporting it to Clayton as if it were new.** Ruling 117 diagnosed
+mechanism-without-a-trigger **and was itself filed without one.** A build order with no gauge and no
+date is a stamp, and stamps rot silently — Drift #287, inside the ruling written to stop it. The
+repair is not the ruling; the repair is that `where_the_book_is.py` now prints the ratio, so the
+next person to ask where the book is gets told what it owes.
+
+**THE DEBT HAS TWO SHAPES AND ONLY ONE OF THEM IS POLISH.** *(Clayton, Day 190: "during revision we
+will really polish it up." Correct for A. Not available for B.)*
+
+**A — 50 NAMED-BUT-UNRECEIPTED ATTRIBUTIONS. Genuinely a revision job, and cheap by design.**
+Ruling 9 put the name *in the sentence*, so the sentence already carries the attribution and the note
+carries only the receipt. **Retrofitting is additive: a marker and a note, with the prose untouched.**
+This is exactly the case `00`:1547's warning — *"an inline-citation sentence and an endnoted sentence
+are different sentences"* — does **not** cover, because we never wrote inline-citation sentences. We
+wrote the endnoted form and omitted the notes. **The convention was obeyed; only the apparatus is
+missing.** Per book: II 11 · III 9 · IV 7 · V 23.
+
+**B — BOOK IV NAMES ALMOST NOBODY, AND THE SOURCE IS NOT RECORDED ANYWHERE IN THE REPO.**
+**Six of Book IV's ten chapters return zero attributive names.** 46,068 words — 36% of the drafted
+book — carrying **7**. Measured per word against its siblings:
+
+| book | words | named sources | one per |
+|---|---|---|---|
+| II | 19,545 | 11 | 1,777w |
+| III | 22,709 | 9 | 2,523w |
+| **IV** | **46,068** | **7** | **6,581w** |
+| V | 34,593 | 23 | 1,504w |
+
+★ **Book IV is 4.4× thinner in attribution than Book V — and `00` and this queue both call it "the
+most ancestor-dense book in the work."** Both can be true, and that is the finding: **Book IV is
+dense in *doctrine* and starved of *attribution*.** `03`§3.5 already has the name for it — **DOCTRINE
+USED, OWNER UNNAMED**, the fifth kind of silence, the one Clayton named — and it turns out to
+concentrate in the one book with the least apparatus.
+
+⚠⚠ **CHECKED AGAINST THE OBVIOUS REFUTATION, WHICH WAS THAT MY FILTER UNDER-READS BOOK IV.** Re-run
+counting **every roster name anywhere in the chapter**, attributive position or not: II 1-per-902w ·
+III 1-per-1,444w · V 1-per-1,169w · **IV 1-per-4,704w.** The gap is not an artifact of the
+attribution test. **And it is not spread across the book — it is a clean split down the middle of
+it:**
+
+| | words | roster names, raw |
+|---|---|---|
+| **IV.1–IV.5 + IV.10** — census, mineral, plant, animal, collective, and what the census cannot see | **22,262** | **0** |
+| IV.6–IV.9 — computational, non-physical, divine, archetypal | 24,786 | 10 |
+
+**The theological half of the Atlas carries every name in the book. The empirical half carries
+none — not thin, zero, across twenty-two thousand words.** That is where shape B lives, and it is
+the half whose claims are checkable against a literature.
+
+⚠ **And under the doctrine sits unsourced empirical science.** `IV.3` opens on Venus flytrap
+electrophysiology — two action potentials to close, the ~30-second decay window, jasmonate from the
+third, digestive enzymes scaling from the fifth. **Verified Day 190 against the primary literature:
+it is a faithful rendering of Böhm et al., *Current Biology* 26(3):286–295, 2016
+(10.1016/j.cub.2015.11.057).** The prose is *accurate*. **It names nobody, cites nothing, and
+`corpora/` holds four style specimens and no science** — so there is no name in the sentence to hang
+a note on and no record of where it came from. **Retrofitting B is re-research, not polish:
+re-finding what was being read six weeks ago, per claim, from scratch.** The debt is bibliographic,
+not corrective — but it is *research-priced*, and it is invisible to this gauge, which counts names
+and cannot count a claim that has none.
+
+**⚠ THIS ROW'S OWN GAUGE DECLARES ITS BLIND SPOT AND THE BLIND SPOT IS THE EXPENSIVE HALF.**
+`endnote_debt.py` counts roster names in attributive position. That is the *checkable* half.
+**Instruments go where instruments are cheap** — the gauge got built for the half that greps, and
+shape B, which costs more, still has no instrument and no ruling. Its 22 outstanding CANDIDATES are
+printed every run for the same reason: a curated roster cannot certify its own coverage.
+
+**TRIGGER — two, both dated to work rather than to a calendar:**
+1. **Before VI.1 is drafted** *(i.e. now)*: decide whether Book VI drafts **with** notes or joins the
+   retrofit. Every chapter written without them adds to A at ~1.2 notes/chapter and to B at whatever
+   Book VI's empirical density turns out to be. **This is the only part that is urgent, because it is
+   the only part that gets worse while we work.**
+2. **A is paid in the revision pass, with R-8's reading pass**, which is already a whole-book pass
+   with a list in hand. **B wants its own decision from Clayton** — a research budget, or an explicit
+   ruling that the Atlas states its science unattributed and the book says so somewhere.
+
+**Cost: A — small and mechanical, 50 notes. B — unpriced, and the pricing is the first task.**

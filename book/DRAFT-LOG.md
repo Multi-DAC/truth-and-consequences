@@ -8181,3 +8181,58 @@ a decision, and it wants taking before the apparatus is settled rather than afte
 
 **CHAPTERS-DRAFTED: 43/67** · **CLAIMS: C1…C30** · **RULINGS: 167** · **QUEUE: 63 rows, R-64 PAID,
 1 declared hole (R-44), 1 noted collision (R-32)** · **TOOLS: 20.**
+
+---
+
+## Day 190, mid-morning — THE GAUGE RULING 117 ORDERED, AND WHAT IT FOUND UNDER THE THING IT WAS BUILT TO COUNT
+
+**`tools/endnote_debt.py` exists. It reads `0 / 50`. `where_the_book_is.py` prints that ratio now.**
+
+Ruling 117 (Day 188) found that ruling 9's second half — *the source lives in an endnote* — had never
+once been executed, called it **"a mechanism with no trigger,"** and filed the fix as a **build order,
+not a question.** ★ **Two days later the build did not exist, and the debt resurfaced the same way it
+surfaced the first time: by hand-grep, reported to Clayton as new.** The ruling that named
+mechanism-without-a-trigger was itself filed without one. **A build order with no gauge and no date
+is a stamp** — Drift #287, inside the ruling written to stop it. So the repair is not another ruling:
+the one instrument every planning decision already consults now carries the ratio.
+
+**THE DEBT HAS TWO SHAPES AND ONLY ONE IS POLISH.**
+
+**A — 50 named-but-unreceipted attributions, and they are cheap by design.** Ruling 9 put the name
+*in the sentence*; the note carries only the receipt. **Retrofit is additive — a marker and a note,
+prose untouched.** `00`:1547's warning that *"an inline-citation sentence and an endnoted sentence
+are different sentences"* does not bite here, because **we never wrote inline-citation sentences.**
+We wrote the endnoted form and omitted the notes. Clayton is right that this is a revision job.
+
+**B — the empirical half of the Atlas names nobody at all, and the source is nowhere in the repo.**
+
+| | words | roster names |
+|---|---|---|
+| **IV.1–IV.5 + IV.10** — census, mineral, living non-human, human, collective, what the census cannot see | **22,262** | **0** |
+| IV.6–IV.9 — computational, non-physical, divine, archetypal | 24,786 | 10 |
+
+**Not thin. Zero, across twenty-two thousand words** — and the split survives the obvious refutation
+(counting *every* roster mention, attributive or not, Book IV runs 1-per-4,704w against Book II's
+1-per-902w). ⚠ **`IV.3` opens on Venus flytrap electrophysiology — two action potentials to close,
+the ~30-second decay, jasmonate from the third, enzymes scaling from the fifth. Verified today
+against the primary literature: a faithful rendering of Böhm et al., *Current Biology* 26(3):286–295,
+2016.** The prose is **accurate.** It names nobody, cites nothing, and `corpora/` holds four style
+specimens and no science. **So there is no name to hang a note on and no record of what was being
+read.** That is not polish — it is re-research, per claim, six weeks cold.
+
+★ **AND THE GAUGE CANNOT SEE IT.** `endnote_debt.py` counts *names*; a claim with no name is
+invisible to it. **Instruments go where instruments are cheap** — the instrument got built for the
+half that greps, and the expensive half still has no instrument and no ruling. The tool prints its 22
+outstanding roster candidates every run for the same reason: a curated list cannot certify its own
+coverage.
+
+**ONE THING WITHDRAWN.** R-64's *"left open for Clayton"* escalation of `00`:1532 is struck. The
+apparatus hybrid died on Day 186 under ruling 9; I marked the corpse in `00` this morning and left
+the second copy standing in the queue for four hours. **A supersession applied in one file is not
+applied.**
+
+**FILED: R-65.** **TRIGGER, and only one part of it is urgent: before VI.1 is drafted, decide whether
+Book VI writes *with* notes or joins the retrofit** — it is the only part of this that gets worse
+while we work.
+
+**CHAPTERS-DRAFTED: 43/67** · **CLAIMS: C1…C30** · **RULINGS: 167** · **QUEUE: 65 rows** · **TOOLS: 21.**

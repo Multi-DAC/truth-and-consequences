@@ -349,6 +349,26 @@ def main():
         elif not brief:
             print(f"  CLAIMS: C1…C{highest} · {count} rows · declared {declared} ✓\n")
 
+    # ---- ruling 117's trigger. It ordered a gauge; a gauge nobody runs is a
+    # stamp. So the one instrument every planning decision already consults
+    # carries the ratio, and the debt cannot go quiet again. (R-65, Day 190.)
+    if not brief:
+        try:
+            import endnote_debt as _ed
+            src = rcp = 0
+            for _p in BOOK.glob("*.md"):
+                _m = _ed.CHAPTER_RE.match(_p.name)
+                if not _m or _m["book"] in _ed.EXEMPT_BOOKS:
+                    continue
+                _t = _p.read_text(encoding="utf-8")
+                src += len({h[0] for h in _ed.find_sites(_t) if h[2]})
+                rcp += _ed.count_receipts(_t)
+            flag = "  ⚠ ruling 9's second half" if rcp < src else "  ✓"
+            print(f"  ENDNOTES: {rcp}/{src} receipts for named sources{flag}"
+                  f"   (tools/endnote_debt.py)\n")
+        except Exception as exc:                      # never block the count
+            print(f"  ENDNOTES: gauge unavailable — {exc}\n")
+
     if problems:
         print("⚠ CARRIERS DISAGREEING WITH DISK — the stamp is not the gauge:")
         for p in problems:
