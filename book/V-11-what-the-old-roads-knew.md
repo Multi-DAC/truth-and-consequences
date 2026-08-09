@@ -223,8 +223,12 @@ all.
 So the concession is large and the cut is narrow. **Mediation explains the furniture completely and
 the empty summit very well, and it does not explain the structure, and the structure is the only bin
 this book ever claimed as evidence.** Katz owns two of the three bins. He does not own the third,
-and the reason he does not is measurable rather than doctrinal: it is where the reports stop varying
-with the thing that supposedly constitutes them.
+and the reason is the one this chapter has been running all along: **incompatible doctrines are
+producing one structure**, and a mechanism that works by supplying the content cannot supply what
+the content contradicts. That much is established, and it is enough. The stronger version — that
+the structure also stops varying with the *direction* of the method, and not merely with its
+doctrine — is a hypothesis with two cases standing under it and is not yet a measurement. The
+smaller claim is the one being made here, and it defeats mediation on its own.
 
 ---
 

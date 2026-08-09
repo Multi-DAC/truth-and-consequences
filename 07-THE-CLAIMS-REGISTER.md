@@ -1062,6 +1062,16 @@ institutional and occult roster is a record of attributions — and V.9 will wan
 > transmission — it is **procedural**, and it is the only one of the three that sorts the report
 > rather than discounting it: **STRUCTURE** survives variation in direction as well as technique;
 > **ARTEFACT** tracks the direction of the method; **FURNITURE** tracks the doctrine.
+> ⚠⚠ **NARROWED DAY 190 — R-56, AND THE SORT ABOVE IS NOT ALL AT ONE GRADE.** The **doctrine axis**
+> is established and is what defeats mediation: incompatible doctrines producing one structure is a
+> thing a content-supplying mechanism cannot do. The **direction axis** — that the structure also
+> stops varying with the *direction* of the method — is a **hypothesis with two cases under it**
+> (Daoism, least subtraction and least summit; James on nitrous, most and most), and V.10 says in its
+> own text that two points is not a law. **The structure bin rests on the first axis, not the second.**
+> ★ Smaller claim, same conclusion — which is why the narrowing costs nothing and the over-strong
+> form would have cost everything downstream, C30 being `Depends:`-linked to every sympathetic
+> reading in Books V–VIII. *(Found by V.11's own printed number, not from the field — see PRE-REG-002
+> §1, which predicted the third bin would be attacked and predicted the wrong attacker.)*
 > ⚠ **The competing explanation is named, not deflected: shared human cognitive architecture would
 > also produce convergence.** This book does not claim that explanation is false. It claims it is
 > **insufficient** — and it owes the reason at the point of use, not here.

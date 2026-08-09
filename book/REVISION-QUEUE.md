@@ -122,6 +122,78 @@ which is where McGilchrist's print-and-literacy argument actually lands). **TRIG
 before VI.5 drafts** — VI.5 is the other chapter R-52 named, and if the sweep does not run before it,
 this row will have described its own recurrence and not prevented it. small — reading, no prose
 
+---
+
+#### ✅ THE SWEEP RAN — Day 190, afternoon, before VI.5, as specified. What it found.
+
+**Method, stated because the row forbade the cheap version.** R-70's repair is *a rule, not a tool*,
+so this was a reading pass over every open row's trigger field against the scope stated in its own
+body — not a matcher. `tools/row_promotion_sweep.py` was run alongside it for the half a tool *can*
+do (does the row exist at all), and its output is folded in below. **Neither half certifies the
+other; the tool cannot read a trigger and the reading cannot enumerate what was never numbered.**
+
+**⚠ FINDING 1 — R-19's TRIGGER HAS FIRED AND BEEN PASSED, FOR THE SECOND TIME.** Its own retriggered
+condition, set by ruling 157(c) after the *first* miss, reads **"before Book VI opens, with a gauge
+or not at all."** Book VI opened at VI.1 and stands at 4/8. Measured just now: **`Wilber` = 0 in
+`03-THE-ANCESTORS.md`.** The row anticipated exactly this — *with a gauge or not at all* — and no
+gauge was built, so the trigger was an intention wearing a date. ★ **A row that has missed twice is
+no longer a scheduling problem; it is evidence that this row's debt does not get paid by triggers.**
+**RETRIGGERED ONCE MORE, and differently: R-19 is now BLOCKING on VI.6**, and if it misses a third
+time it is to be closed as *refused* rather than carried, because carrying it is what is
+counterfeiting the record.
+
+**⚠⚠ FINDING 2 — R-56 FIRED AT VI.4 AND WAS PASSED SILENTLY, AND IT WAS ABOUT TO FIRE AGAIN.**
+R-56's trigger is **"BEFORE C30 IS CITED AGAIN."** `VI-04-print-and-the-interior.md` cites C30 four
+times. So the over-strong direction-axis form was inherited by the first chapter in the book to lean
+on C30 — **and R-72's repair, queued for today, would have cited it twice more.** ★ **The sweep's
+whole value is here: it caught a row whose trigger was blocking the very work the sweep was run to
+clear.** ✅ **PAID TODAY, both halves** — `07`'s C30 row narrowed (doctrine axis established, direction
+axis a hypothesis with two cases, structure bin resting on the first), and V.11:225–227 rewritten to
+the smaller claim. Smaller claim, same conclusion; mediation is still defeated.
+
+**⚠ FINDING 3 — MY OWN CARRIER OVER-TRIGGERED R-52.** `handoff.json` carried *"Also owed with VI.5:
+R-52's remaining group — Campbell."* The row's own body says **"Before the Book IV revision pass:
+`Campbell`, because `IV.9:213` ships the monomyth unowned."** ★ **This is R-70's exact defect
+committed one level up — not in the queue but in the continuity carrier that reads the queue** — and
+it runs the *opposite* direction from the original: R-52's first group was under-triggered (book
+where chapters were owed), and the handoff over-triggered the second (a chapter where a revision pass
+is owed). **Campbell is NOT owed at VI.5.** Corrected in the carrier.
+
+**FINDING 4 — R-47's trigger fired at VI.1 and was passed; the row is still open and no gauge
+exists.** Trigger: *"Before Book VI drafts."* Four chapters in, nothing reads a beat against a ruling
+made after the beat was written. Not retriggered by date — **re-scoped to the honest event: with the
+cold tools pass**, where its siblings already sit. A trigger pointed at a boundary four chapters
+astern is not a trigger.
+
+**FINDING 5 — R-3's second clause is a content trigger that nothing reads, and it may already have
+fired.** *"OR the first chapter outside Book IV to rest weight on the under-attribution principle."*
+No gauge, no reading pass, and Book V reads roads that attribute freely — which the row itself
+predicted in its own next sentence. **Not resolved here** (it needs the reading, not the sweep), and
+recorded so the next pass does not discover it a third time.
+
+**FINDING 6 — R-35 ran clean at the Book VI boundary, which is what its standing trigger asked for.**
+`tools/pointer_sweep.py`: 17 candidates, all innocent on inspection, and the single `CHECK` is
+**Irenaeus at `I.29`** — a classical citation sharing chapter notation, which the tool declares. ⚠ Its
+coverage line is the finding to keep: **35 of 67 chapters are invisible to the mismatch half, and
+`VI.5 (ELECTRIC)` is one of them.** The chapter about to be drafted cannot be detected as
+mis-pointed-to, ever.
+
+**⚠ FINDING 7 — SIX NUMBERS ARE CITED AS ROWS AND ARE NOT ROWS.** `row_promotion_sweep` on this run:
+**R-44, R-66, R-67, R-68, R-72, R-73** exist only in `DRAFT-LOG.md` / `06` / a chapter file. Per this
+file's own charter, *an item absent from the queue is unrecorded, not discharged* — and **R-72 is the
+one I was working from today**, carried in the handoff as an open row when nothing had ever rowed it.
+Also: **R-74 is a hole** — cited inside R-71's discharge text and never filed, so *"R-1…R-74"*
+overstates the series by one. And the **R-32 collision** stands, deferred under ruling 145, correctly.
+
+★★ **WHAT THE SWEEP IS EVIDENCE OF, and it is not what R-70 predicted.** R-70 was filed as a defect
+about *boundaries* — a trigger set at a book where chapters owed. Six of the seven findings are a
+different failure: **the trigger fired at the right event, nobody was reading, and the row stayed
+open looking scheduled.** A trigger is not a mechanism. It is a note addressed to a reader who has to
+show up, and **this file has no reader except a breath that happens to open it.** That is the honest
+generalisation, and it is worse than the one the row was filed under.
+**TRIGGER for the next run: before VII.1 opens** — a book boundary, and correctly so this time,
+because the defect is now known to be book-scale rather than chapter-scale. small — reading, no prose
+
 ✅ ~~**FILED — R-71**~~ **— DISCHARGED Day 190, afternoon. NO LONGER BLOCKING; the retrofit is
 cleared to start.** Positive control passed as specified: VI.4 reports **9** sources and reports
 neither Barfield nor Plato. Full receipt in the DISCHARGED table, including the three further
@@ -210,6 +282,69 @@ reads every chapter by hand anyway. **TRIGGER: at the end of the retrofit, not b
 names will have been adjudicated one at a time by a human reading them in context, and that pass
 produces the ground truth a real fix needs — a labelled set — instead of a guess. **If the retrofit
 finishes and this row is still open, it is a stamp.** small, deferred on purpose
+
+---
+
+### FINDING 7's SIX, ROWED ON SIGHT — Day 190
+
+*Filed here rather than left for a later pass, because the whole finding is that leaving them is what
+happened. Rows, not notes — `row_promotion_sweep` counts a `### R-n` heading as a row, so these are
+now visible to the gauge that found them missing.*
+
+### R-44 — a HOLE, permanently. Do not reuse.
+Never filed in any document; surfaced by `row_promotion_sweep`'s first run (ruling 165) and left open
+on purpose. **Re-using the number would destroy the only property the series has.** This section
+exists so the number stops reading as a missing row. **No trigger — nothing is owed.**
+
+### R-66 — three self-defects in `tools/brief_source.py`, all reporting ABSENCE where the honest report is BLINDNESS
+(a) Hard-wrapped `Source` blocks were read line-wise: joining took coverage **20 → 40 references**,
+so v1 saw half its subject and printed a completeness claim. **That is R-63, in a tool written days
+after R-63 was filed, by the party who filed it.** (b) Book-level `Source` lines filed under the wrong
+chapter. (c) A `*.md`-only index making every `.txt` reference unresolvable **by construction**.
+**TRIGGER: the cold tools pass, with R-41/R-42/R-62** — and the deliverable is the coverage delta,
+never the exit code. *small*
+
+### R-67 (SECOND HALF) — `03`'s corpus-count column against the declared scope
+The 127 figure is deleted and that half is closed (VI.1, Day 190, with a positive control on Weber at
+exactly 33). **What remains: `03` says McGilchrist = 2 and the established scope says 5.** A count
+column reconciled for one name and not re-run for the rest is the same defect with a smaller radius.
+**TRIGGER: with R-19's `03` entry** — the file is open in the same sitting, and neither should be the
+occasion for the other being missed again. *small*
+
+### R-68 — McGilchrist is rowed to a BOOK and owed by no CHAPTER
+`03`:616 rows him to Book VI as its *"closest living cousin"*; `03`:744 already pairs him with Jaynes.
+**Mechanism without a trigger in the ancestor register.** ✅ **SUBSTANTIALLY PAID at VI.4**, whose
+print-and-literacy argument is his and which declines his neuroanatomy on the page — the host chosen
+on the merits rather than the obvious one (VI.2's hemispheric adjacency was the probably-wrong host).
+**What is left is the `03` side: the row still names a book.** **TRIGGER: with R-67's second half,
+same sitting.** *small*
+
+### R-72 — C30 performed off the books in Book VI ✅ PAID Day 190
+Filed at VI.4 as *"all three chapters performed C30 and none of them licensed it."* ✅ **Re-read
+against the prose per R-13, not reconstructed: TRUE of VI.1 and VI.3, FALSE of VI.2.** C30 added to
+both licence lines with the performing sentence quoted; **refused at VI.2 with the reason recorded in
+`06`** — one instrument, two applications, one corpus, which is the precise thing C30 says does not
+count. ★ **The row's own text over-generalised across the book, which is R-70's defect inside the row
+filed to repair a licensing gap.** Blocked on R-56 and paid after it, in that order.
+
+### R-74 — `endnote_debt` cannot tell a person from a place, a tradition or an institution
+The rebuilt name column takes names out of the prose instead of off a roster, which is the repair —
+and its residue at 106 sources includes **Scotland, Hampshire, Sufism, Advaita, Buddhism, Kabbalists,
+Christian, Institute, Faith, Doubt, Religious, Father, East, March, Ding, Hui, Indra.** The 106 is
+therefore a **CEILING, biased high by roughly 15–20%**, and every figure quoted from it must be
+quoted as a range. ⛔ **DO NOT FIX WITH A STOP-LIST — that is the roster returning by the side door**,
+and it would reintroduce the exact defect R-71 was filed to kill, in the tool R-71 rebuilt.
+★ **The repair has to come from data the retrofit itself produces:** at the end of the pass the
+hand-adjudicated names are a labelled set, and a labelled set is what an honest classifier needs.
+**TRIGGER: at the END of the endnote retrofit, not before** — attempting it earlier means inventing
+the labels, which is the roster again. ⚠ **This row existed only in `handoff.json` until now and was
+the series' one hole**; the carrier is not the queue. *small, but only after the retrofit*
+
+### R-73 — `genre_sweep`'s noise floor: short surnames collide with fragments
+`Ong` reported `corp=1`; the hit is a bare fragment on line 4 of a research-sources file and is not
+Walter Ong. True 0. ⚠ **Harmless where it was found, which is exactly why it would never otherwise be
+filed** — and it is the same family as R-71's roster defect, one register down. **TRIGGER: before the
+next packet quotes a `genre_sweep` figure.** *small*
 
 ---
 

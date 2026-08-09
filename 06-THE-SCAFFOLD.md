@@ -2782,7 +2782,13 @@ Tunnel") — the spine exists and is thin; the era chapters are largely NEW.
 
 ### VI.1 — DIFFERENT WORLDS, NOT DIFFERENT OPINIONS ✅ DRAFTED — 3,329 words
 ✅ **DRAFTED Day 190 · `book/VI-01-different-worlds-not-different-opinions.md` · C-LICENSE: C11 ·
-C10 · C12.** All four beats delivered, none under the reporting floor. **First chapter in the work
+C10 · **C30** · C12.** All four beats delivered, none under the reporting floor.
+★ **C30 ADDED Day 190 by RE-READ, not by manifest (R-72, under R-13's rule).** The performing
+sentence is the grade paragraph: *"It is inference from a documented small effect plus a philological
+record plus a phenomenology of history"* — three lines of evidence **unlike in instrument** (an
+interference experiment, a word-count, a phenomenology of history), converging on one structure, with
+the convergence graded rather than banked. That is C30's operation in its canonical terms, in a
+chapter that never says the word. **First chapter in the work
 to ship with endnotes** (ruling 9's second half, dormant for 43 chapters — R-65's decision: Book VI
 writes *with* notes rather than joining the retrofit, because the debt only grows while we draft).
 **First chapter outside Book IV to carry a census card** — R-54's fork decided in favour of the
@@ -2805,6 +2811,18 @@ structures of consciousness named.
 ### VI.2 — THE VOICES ✅ DRAFTED — 3,348 words
 ✅ **DRAFTED Day 190 · `book/VI-02-the-voices.md` · C-LICENSE: C11 · C12.** Four beats, carded,
 four endnotes plus the standing grade note.
+⛔ **C30 REFUSED HERE, Day 190 — and the refusal is the whole value of R-72's re-read.** R-72 was
+filed as *"all three chapters performed C30 and none of them licensed it."* Re-read against the
+prose, **that is true of VI.1 and VI.3 and false of VI.2**, and licensing it here would have been
+exactly the retrospective manifest R-13 forbids. VI.2 opens *"Gladstone counted the colour words.
+Eighty-eight years later a German philologist did the same arithmetic on the same poem"* and states
+its own scope as *"the claim of VI.1, applied to a second column of the same lexicon."* **One
+instrument, two applications, one corpus — which is the precise thing C30 says does not count.**
+Unlikeness is not independence, and *sameness* is not even unlikeness. The chapter's actual
+epistemic move is the opposite of leaning on convergence: it is **insulation** (*nothing in Book VI's
+argument depends on Jaynes being right*) plus grade-declaration. ★ **R-72's own text was written from
+memory of what the book had been doing and over-generalised across the book — the R-70 defect one
+level up, in the row filed to repair a licensing gap.**
 ★★ **THE BEAT SHEET HAD THREE BEATS AND BOOK VI'S OTHER SEVEN CHAPTERS HAVE FOUR — and the missing
 one was the era itself.** VI.2 is the first chapter of an era sequence and the only era chapter with
 no *from-inside render* beat; VI.3's opens with "the medieval render, from inside" and VI.2 opened
@@ -2840,7 +2858,13 @@ by its own criteria.
 ⚠ **R-68 — McGilchrist is rowed to this BOOK and owed by no CHAPTER.** See the queue.
 
 ### VI.3 — THE ENCHANTED WORLD ✅ DRAFTED — 4,598 words
-✅ **DRAFTED Day 190 · `book/VI-03-the-enchanted-world.md` · C-LICENSE: C11 · C10 · C12.** Four beats,
+✅ **DRAFTED Day 190 · `book/VI-03-the-enchanted-world.md` · C-LICENSE: C11 · C10 · **C30** · C12.** Four beats,
+★ **C30 ADDED Day 190 by RE-READ (R-72).** The performing paragraph is beat 3's, and it is C30 at
+full strength and at full length: *"That convergence is evidence of something and it is worth being
+exact about what. It is not confirmation."* It then runs the competing explanation itself — a shared
+temperament will manufacture a convergence out of nothing — and rests what survives on **instrument
+independence**, which C30 names as the axis that carries the weight. This is the strongest C30
+performance in the drafted book and it was licensed nowhere.
 all delivered (lowest coverage 0.71, none under the floor), `card_sweep VI` 3/3, six endnotes plus a
 declared word-collision note and the standing grade note. **Committed before the screen ran.**
 ★★ **R-52's FIRST GROUP IS PAID HERE, TWO CHAPTERS AFTER ITS TRIGGER SAID SO.** The row read *"Before
