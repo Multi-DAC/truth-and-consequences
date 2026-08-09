@@ -140,7 +140,7 @@ word we are colliding with ourselves. **Screening a term now means answering all
 | **substrate** | **RETIRE** | the simulation hypothesis's word for the hardware; also a synonym for the Ground, so it breaks define-once twice over | Permitted exactly once, in the sentence that denies it. Never as a term. **⚠ Clayton uses this word — see §7.** |
 | **X** | **DEAD** | a formalism's placeholder | Never appears. |
 | **the Focusing** | **KEEP** *(replaces **the Narrowing**, ruling 13, Day 186)* | none serious | The act; the Perspective is its result. **Focusing is specification of something diffuse** *(Clayton's sentence, and it is the definition)* — the Fullness is diffuse, the Perspective is a specification of it, and nothing is subtracted to make one. A lens destroys no light. |
-| ~~**the Narrowing**~~ | **RETIRED** | ⚠ **not a collision — a gradient.** Nobody else owns the word; the word itself prosecutes for Trap 1 and Trap 5 before the argument starts. | **This row read `KEEP \| none serious` until Day 186, and the verdict was not wrong — it was answering a different question.** Every entry in this table was screened for *contamination by another owner*; **no entry was ever screened for its own connotation.** That test was first run on Clayton's ear, and the first term it touched failed. Enforced by `tools/claim_sweep.py` (TERM/narrowing), because Day 186's other lesson is that a lexicon ruling with no gauge behind it survives its own retirement — *map* did, for a full day, in two live chapter titles. |
+| **the Narrowing** | **RETIRED** | ⚠ **not a collision — a gradient.** Nobody else owns the word; the word itself prosecutes for Trap 1 and Trap 5 before the argument starts. | **This row read `KEEP \| none serious` until Day 186, and the verdict was not wrong — it was answering a different question.** Every entry in this table was screened for *contamination by another owner*; **no entry was ever screened for its own connotation.** That test was first run on Clayton's ear, and the first term it touched failed. Enforced by `tools/claim_sweep.py` (TERM/narrowing), because Day 186's other lesson is that a lexicon ruling with no gauge behind it survives its own retirement — *map* did, for a full day, in two live chapter titles. |
 | **the Perspective** | **CAPTURE** | ★ *"that's just your perspective"* — relativism, opinion, taste | **The most dangerous mishearing in the book. See §4.** |
 | **aperture / keyhole / bottleneck** | **DEMOTE** | three names, one thing | *Keyhole* survives as an image in Book I only. *Aperture* and *bottleneck* do not appear. The term is **the Perspective**. |
 | **the Grade** | **CAPTURE** | rank, caste, hierarchy of worth, an elect | A grade is a position on a continuum, **not a gate**. See §4. |
@@ -329,7 +329,7 @@ because a single divine player wearing every face makes every other face a costu
 
 ---
 
-## 7. ~~OPEN — Clayton's to rule~~ → **CLOSED, Day 185.**
+## 7. *(was: OPEN — Clayton's to rule)* → **CLOSED, Day 185.**
 
 **Clayton: *"I trust your judgement on all of these."* The one open item is therefore ruled as
 recommended, and the file has nothing outstanding.**

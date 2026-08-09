@@ -273,8 +273,7 @@ découverte touchant la veüe* — he found the blind spot **in the anatomy firs
 not enter at the centre of the fundus) and then built the demonstration to make it show. Determinate,
 mappable from outside, and from inside not an absence at all. ⚠ *Checked Day 187: there is no Charles
 II demonstration — it was about to go on the page from recall.*
-⚠ **BOUNDARY, ruling 24, both directions:** the definition is II.3's and **the fork is ~~III.1's~~
-II.1's** *(amended Day 187, ruling 47(a) — the fork shipped in II.1's `With no outside.` section;
+⚠ **BOUNDARY, ruling 24, both directions:** the definition is II.3's and **the fork is II.1's, NOT III.1's** *(amended Day 187, ruling 47(a) — the fork shipped in II.1's `With no outside.` section;
 III.1 no longer owns it and III.1 is no longer the answer to "where does the contrast live")* —
 II.3 does not name Bostrom and does not run the his-frame/our-frame contrast. And the Null-Space
 Theorem must be stated **universally and exceptionlessly**, because VII.4 turns it on the contractive
@@ -2101,7 +2100,7 @@ obligations, and sourcing VIII after VII is written means sourcing it to fit wha
 ## BOOK V — **THE OLD ROADS**
 
 *Religion, occult, mysticism, myth — read as people touching this ground with the instruments of their
-era. ~~Ten~~ **ELEVEN** chapters, and the order is inverted against our own corpus on purpose.*
+era. **ELEVEN** chapters (NOT ten — amended), and the order is inverted against our own corpus on purpose.*
 
 ★★ **AMENDED Day 188 BY IV.10, ruling 125 — A NEW V.9, AND THE REASON IS A TIER BOOK IV LOST.**
 The ecology's **Tier 1.4, non-human intelligences (physically manifest)**, is the one entry in the
@@ -3109,8 +3108,8 @@ Book IV is the only substantially quarried book. Book III is new end to end (`vi
 Book VI's era chapters are largely new. The ~167,900 atlas words are real, and they are *one book of
 eight*.
 
-**2. ~~Three~~ FOUR chapters carry the whole work, and none of them is Book I.**
-- **~~III.1~~ II.1** — lose the reader here by being agreed with, and nothing after it lands.
+**2. FOUR chapters — not three — carry the whole work, and none of them is Book I.**
+- **II.1, NOT III.1** — lose the reader here by being agreed with, and nothing after it lands.
   ⚠ **AMENDED Day 187, ruling 47(a): this load moved, and it moved onto a chapter that is already
   drafted.** The Bostrom separation ships in II.1's `With no outside.` section. **A load-bearing
   chapter that is already written is not a solved problem — it is an unaudited one**, and II.1 was
@@ -3137,9 +3136,9 @@ is the only chapter set that can falsify the rest.
 
 ## NEXT — the queue, revised by this file
 
-1. ~~Book II's vocabulary~~ → **DONE**, `05-THE-LEXICON.md`.
-2. ~~Per-book chapter maps~~ → **DONE**, this file.
-3. ~~**III.1 in full** — the highest-priority single paragraph in the plan~~ → **SUPERSEDED Day 187,
+1. Book II's vocabulary → ✅ **DONE**, `05-THE-LEXICON.md`.
+2. Per-book chapter maps → ✅ **DONE**, this file.
+3. *(was: **III.1 in full** — the highest-priority single paragraph in the plan)* → **SUPERSEDED Day 187,
    ruling 47(a).** The urgency was real and it was discharged in II.1 rather than here. III.1 in full
    is still queued, but as **the demiurge chapter**, and it is no longer the thing everything
    downstream forks on — II.1 is, and II.1 shipped.

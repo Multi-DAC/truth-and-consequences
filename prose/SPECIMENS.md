@@ -15,7 +15,7 @@ Four specimens, from the four registers most likely to fail differently:
 | # | where | words | the failure it is an instrument for |
 |---|---|---:|---|
 | 1 | **I.1 — The Fullness** (opening of the work) | ~700 | myth going decorative; a static Ground described in verbs that move |
-| 2 | ⚠ **~~III.1 — The Wrong Game~~ → the material shipped as II.1** | ~860 | bluster; and the specific loss of being *agreed with* by a reader holding Bostrom |
+| 2 | ⚠ **III.1 — The Wrong Game (SUPERSEDED) → the material shipped as II.1** | ~860 | bluster; and the specific loss of being *agreed with* by a reader holding Bostrom |
 
 ⚠ **SPECIMEN 2'S ADDRESS CHANGED UNDER IT, Day 187, ruling 47(a).** The Bostrom cut is no longer
 III.1's — it shipped inside **II.1**, and III.1 is now the demiurge chapter. **The specimen is not
@@ -246,7 +246,8 @@ is the reason it works.
 
 *~190 words — grew from ~165 when C17 was set. Not a register test — a sentence test. Ruled to land
 unhedged in the first paragraph with no throat-clearing. "Energy cannot be destroyed" is banned; this
-is what replaces it. ~~The failure mode being instrumented is not bluster but **comfort**.~~*
+is what replaces it. (CORRECTED — see below; the retracted line read: "The failure mode being
+instrumented is not bluster but **comfort**.")*
 
 *★ **Corrected Day 186 ~21:00 (Clayton): the instrumented failure mode is CONSOLATION, not comfort.**
 Comfort is a property of the structure; consolation is addressed to someone. The first is permitted —

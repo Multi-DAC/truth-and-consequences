@@ -442,8 +442,9 @@ describes: *sharp for mystics, dull for materialists, inside a framework that is
 idealist.* The reason three million words filtered the woo at the book boundary
 is that we kept a New-Atheist referee in our heads and wrote to him.
 **This opponent is not only in the reader's history. It is in ours, and it wrote
-our editorial policy for four books.** ~~Naming it plainly, once, in the front
-matter is the most honest thing this volume can do about its own predecessors.~~
+our editorial policy for four books.** *(STRUCK Day 189 — see immediately below.
+The retracted recommendation read: "Naming it plainly, once, in the front matter
+is the most honest thing this volume can do about its own predecessors.")*
 
 ⚠⚠ **STRUCK AND RE-RULED DAY 189 — R-39's SECOND LIVE INSTANCE, and it is the
 first one found by looking rather than by colliding.** Three separate problems,

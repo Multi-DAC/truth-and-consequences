@@ -1008,9 +1008,9 @@ print the pair from now on, and it is answered here so that the print is a confi
 question.
 
 ★ **The gate ruling 20 demanded, run and passed, with its two answers recorded as EXEMPT pairs in the
-tool.** II.3 ~ III.1: **the definition is II.3's, the fork is ~~III.1's~~ II.1's.** II.3 states what
+tool.** II.3 ~ III.1: **the definition is II.3's, the fork is II.1's, NOT III.1's.** II.3 states what
 a perspective is and stops; the contrast with a rendered thing in somebody else's world — *"every
-consequence in Part Two forks here"* — belongs to ~~III.1~~ **II.1** and Bostrom is not named in II.3
+consequence in Part Two forks here"* — belongs to **II.1** (NOT III.1 — superseded) and Bostrom is not named in II.3
 at all. ⚠ **AMENDED Day 187, ruling 47(a). The half of this adjudication that concerned II.3 held
 perfectly; the half naming its counterpart went false when II.1 shipped the fork** — and it went
 false *inside the tool*, where it kept muting the pair. **This is the sentence ruling 49 is about.**
@@ -1244,7 +1244,8 @@ looked: the early positive beat is not merely premature, it is **another chapter
 ✅ **RULED (a) AND EXECUTED, Day 187, mine — the hold was for Fable's read, and the read has landed.**
 Ruling 47 was Clayton's because it moved Book III's plan; this one moves a clause, so I took it.
 **II.8's borrowed appositive is cut. One deletion, no replacement:** *"...because there is no outside
-for a player to be returned to ~~— the player is one of the states the whole game contains~~."*
+for a player to be returned to."*  **The cut clause, kept here as the record of the deletion:**
+*"— the player is one of the states the whole game contains"*
 ★ **Why (a) and not (b), which was the more attractive option.** (b) — let III.2 flag the reprise
 out loud — is II.4's move and it is genuinely the strongest seam in the work. **It does not apply
 here, and the reason is a distinction worth keeping: II.4 reprises a PROMISE; this would reprise the
@@ -1386,7 +1387,7 @@ shape, in the file that defines the project.)*
   ★ **What it revealed that was not visible before it existed:** the ratio inverted —
   Book IV is the *only* substantially quarried book, and the ~167,900 atlas words are
   one book of eight. **Three chapters carry the whole work and none is Book I**
-  (~~III.1~~ **II.1** the Bostrom cut — *moved Day 187, ruling 47(a), onto a chapter that
+  (**II.1** (NOT III.1 — superseded) the Bostrom cut — *moved Day 187, ruling 47(a), onto a chapter that
   was already drafted* · V.4 where we own our own flinch · VII.1 death, first and
   unhedged). And **Book VIII is the falsifier**: if I–VII are right and the practice
   book is thin, the work is decorative — so it gets drafted early, out of order.
@@ -1600,18 +1601,18 @@ six-item agenda. **★ B is now the whole of what remains before prose, and it i
 
 **Next, in order:**
 
-1. ~~Book II's vocabulary~~ — **DONE**, `05-THE-LEXICON.md`.
-2. ~~The per-book chapter maps~~ — **DONE**, `06-THE-SCAFFOLD.md`.
+1. Book II's vocabulary — ✅ **DONE**, `05-THE-LEXICON.md`.
+2. The per-book chapter maps — ✅ **DONE**, `06-THE-SCAFFOLD.md`.
 3. ⚠ **SUPERSEDED Day 187, ruling 47(a) — the item was discharged, in a different chapter,
    before it was ever reached.** The Bostrom cut is written; it is in **II.1**, not III.1.
    III.1 in full remains queued as **the demiurge chapter** (cosmology axis). Original text,
    kept because the reasoning is still correct about the risk and only wrong about the address:
-   *~~**III.1 written in full** — the highest-priority single paragraph in the plan, now
+   *(BEGIN SUPERSEDED TEXT)* *· **III.1 written in full** — the highest-priority single paragraph in the plan, now
    a mapped chapter with five beats. `04` §3.II: it is the one place we can lose the
    reader **by being agreed with** — a reader holding Bostrom hears our game frame as
    a restatement of his and follows us happily into the wrong book. The cut lands
    before the metaphor is elaborated, not after. **Worth writing before the planning
-   phase formally closes, because everything downstream forks on it.**~~*
+   phase formally closes, because everything downstream forks on it.** ·* *(END SUPERSEDED TEXT)*
 4. **The Book IV atlas inventory, entry by entry**, against the ecology's measured
    Tiers 1–4 — which of IV's ten chapters are genuinely covered by the ~167,900
    words and which are a heading with nothing behind it.
@@ -1622,7 +1623,7 @@ six-item agenda. **★ B is now the whole of what remains before prose, and it i
    is not. The occult half is inherited near-complete from the *Inside View* plan;
    the institutional half is new work, and `06` puts it **first in Book V's order**
    so it cannot stay thin by being last.
-6. ~~Add Watts and Borges to `03-THE-ANCESTORS.md`~~ — **DONE.** Borges landed with `03`
+6. Add Watts and Borges to `03-THE-ANCESTORS.md` — ✅ **DONE.** Borges landed with `03`
    itself; **Watts landed Day 185 as a Tier-1 measured silence and grew into `01` §9's
    doctrinal cut**, which is a larger thing than a register entry. Also added: a **fourth
    kind of silence** the file's tiers could not previously see — *the name is present and
@@ -1645,7 +1646,7 @@ six-item agenda. **★ B is now the whole of what remains before prose, and it i
    Hegel's *Anerkennung*, Gibson, enactivism, Böhme's *Ungrund*, Bohm's implicate order and
    Peirce's synechism, **one clause, at the point of use.** Cheapest credibility in the project:
    the doctrines are already ours, only the names are missing.
-11. **★★ C17, DEATH — ~~the next doctrinal ruling~~ → REASSIGNED same night to ruling 11: it is
+11. **★★ C17, DEATH — *(retracted: “the next doctrinal ruling”)* → REASSIGNED same night to ruling 11: it is
    SPECIMEN 4.** VII.1 is ruled to open Book VII, answer unhedged in the first paragraph, distinguish
    what continues from what does not *without* the comforting distinction, and it **bans** *"energy
    cannot be destroyed"* with nothing named to replace it. **A ban with no replacement is a hole with
@@ -1660,7 +1661,7 @@ six-item agenda. **★ B is now the whole of what remains before prose, and it i
    objection in the entire ontology. My call: **II.4**, where the Grade is defined and the reader has
    just been told everything that reacts is aware. It cannot wait for III.8, which load-tests the
    *metaphor*, not the ontology.
-13. **★ The `Touches:` pass over all 67 chapters.** ~~Mechanical, one sitting.~~ It is what turns
+13. **★ The `Touches:` pass over all 67 chapters.** *(retracted estimate: “Mechanical, one sitting.”)* It is what turns
    `07` from a list into a gauge: a chapter that touches a claim absent from its list is drifting, or
    the register is stale, and either way somebody looks. Currently **0/67**, and `claim_sweep.py`
    reports the number every run so it cannot quietly stay zero. ⚠ **RECLASSIFIED Day 186 → ruling 12:
@@ -1689,7 +1690,7 @@ Excluding them moves every number by roughly a third. **The zeros are safe under
 variant and every finding rests on the zeros; the small numbers are not.** Standing rule:
 each count states its glob, its case rule, and whether archives are in.
 
-⚠ ~~**COPY, DON'T REFERENCE.**~~ **SUPERSEDED Day 186 by ruling 8.** It read: *everything quarried
+⚠ **SUPERSEDED Day 186 by ruling 8** — *the retracted heading read “COPY, DON'T REFERENCE.”* It read: *everything quarried
 lives in `Corpus-Perspectival`, archived read-only on GitHub since 2026-07-16; local writes there
 succeed and reach nothing; any asset T&C depends on must be copied into this repo before it is
 depended on.* It was answering **reachability**. Clayton's ruling answers **voice**, and in doing so

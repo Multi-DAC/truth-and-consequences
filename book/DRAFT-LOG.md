@@ -8029,3 +8029,52 @@ silence — the exact error the clause exists to prevent, run backwards.
 
 **CHAPTERS-DRAFTED: 43/67** · **CLAIMS: C1…C30** · **RULINGS: 165** · **QUEUE: 60 rows, 1 declared
 hole (R-44), 1 noted collision (R-32)** · **TOOLS: 18.**
+
+---
+
+## RULING 166 — Day 189, ~22:15. R-58 PAID, AND THE COUNT THAT NAMED IT WAS WRONG THREE WAYS.
+
+**R-58 is discharged.** `tools/strikethrough_repair.py` — 25 sites across five files, each printed
+with **why its plain-text form was broken**, verified by stripping `~~`, `**` and `*` and reading all
+25 back. Every retraction now carries a **word**: *(retracted: …)*, *(was: …)*, `NOT ten`,
+`(BEGIN/END SUPERSEDED TEXT)`. Strip the markup and you lose decoration, never semantics.
+
+**★ THE DELIVERABLE WAS THE DELTA, AND THE DELTA IS NOT THE 37.** The row said 37, itemised by file.
+Measured tonight, that number was wrong in **three independent directions:**
+
+1. **`REVISION-QUEUE` had grown 15 → 21.** It strikes a row number on every discharge, so **the count
+   rots by paying rows** — the file's own success moves the number the row was pinned to.
+2. **★ The census was taken with a single-line match, and the defect is not line-bounded.** It
+   **certified `04-THE-UNSATISFYING-ANSWERS.md` as carrying ZERO while it carried a two-line
+   instance**, and missed a six-line retracted priority in `00`.
+3. **Scope stopped at the planning documents.** `prose/SPECIMENS.md` carried two more — one a
+   retracted claim about the instrumented failure mode of a **Book VII** specimen.
+
+**So the gauge that counted the defect shared the defect's blind spot** — a line-oriented count of a
+thing that spans lines, inside the very row written to make transmission survivable.
+
+## R-63 — filed, then REFUTED BY ITS OWN MEASUREMENT, and the correction is the keeper.
+
+Filed first as *"every sweep in this repository is line-oriented"* — a class claim over all 20 tools.
+**Measuring it broke it in both directions in the same pass:** `genre_sweep.py`:188 compiles patterns
+as `\s+`-joined words and is **wrap-safe by construction**, so R-19's genre sweep was never exposed
+and naming it was an error; while `brief_fields.py` splits on `\n` and **my classifier missed it.**
+★ **The instrument I used to survey instrument-blindness had the blindness.**
+
+**What survives, measured, with a positive instance:** `card_sweep.py`'s `null[- ]space` under-reports
+**IV.3 by 1 and IV.5 by 1** — `[- ]` does not match a newline. **Geometry: 8,659 lines of drafted
+prose, mean 15.2 words/line** → a straddle costs a 2-word phrase ~6.6% of its hits, a 3-word ~13.2%,
+a 5-word ~26.3%.
+
+**⛔ AND R-54 IS CLEARED RATHER THAN BLOCKED.** The card fork's evidence was re-run under whitespace
+normalisation: **Book V's cliff does not move — V.3–V.11 remain 0 on both diagnostic fields under both
+readings.** The two chapters that moved are Book IV and already carded. The fork is decided on a count
+that **survives the fix**, so the large work it commissions is safe to start.
+
+**⏸ R-62 NOT TOUCHED, ON ITS OWN ORDER.** Its trigger reads *RUN COLD, NOT TONIGHT* — a repair that
+can only move `[X]`→`[ok]`, proposed by the party the `[X]` names. The sweep still prints the
+manufactured R-44 positive tonight, deliberately. **A row that forbids its own same-night payment is
+obeyed, not read past** — and this entry adds one more R-44 citation, exactly as R-62 predicted.
+
+**CHAPTERS-DRAFTED: 43/67** · **CLAIMS: C1…C30** · **RULINGS: 166** · **QUEUE: 62 rows, 1 declared
+hole (R-44), 1 noted collision (R-32)** · **TOOLS: 20.**

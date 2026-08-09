@@ -456,7 +456,7 @@ review conducted on a ruling and fails on the page. The scaffold has already loc
 risk to VII.1's first paragraph, so **that paragraph is the ruling** — ~150 words, written before
 prose, alongside the three register specimens. It will be set there or shown to be unsettable, and
 the second outcome is worth more than a ruling that sounds decisive at a whiteboard.
-~~**Status remains UNSET. What changed is the instrument, not the answer.**~~
+**[SUPERSEDED Day 186 — the ★ ruling immediately below replaces this]** *Status remains UNSET. What changed is the instrument, not the answer.*
 
 ★ **SET, Day 186 ~20:40, by Clayton — and the instrument is what set it.** The disposition above was
 right about the method and wrong about needing to wait for prose: the specimen got written, Clayton
@@ -801,11 +801,11 @@ in different chapters is invisible to a scaffold. Expect one new row per drafted
    **`06` III.3 and VII.7 chapter titles.** *(Done Day 186 — see the commit; recorded here because
    the register's first job is to show its own catch being closed.)*
 2. **★★ C17 — death.** The one unset claim, in the chapter ruled to open Book VII, with a banned
-   phrase and no replacement. ~~The next doctrinal ruling the work needs.~~ **REASSIGNED Day 186
+   phrase and no replacement. *(retracted: “The next doctrinal ruling the work needs.”)* **REASSIGNED Day 186
    → `00` ruling 11: it is not a ruling, it is specimen 4.** Still UNSET, still the highest
    priority — but it gets answered *in a paragraph*, with the voice specimens, because its
    failure mode is comfort and comfort is invisible at a whiteboard.
-3. ~~**★ The C6 × C7 collision has no home.**~~ **CLOSED Day 187 → registered as C24, homed at
+3. **★ The C6 × C7 collision has no home.** — **CLOSED Day 187 → registered as C24, homed at
    II.4.** My call here was already II.4 and Fable reached II.4 independently, so the assignment
    was never the hard part. **The hard part was that the collision was not a collision — it was a
    missing claim**, and the resolution text sitting in the table cell was doctrine no C-number
