@@ -4115,7 +4115,7 @@ concern was real about volume and wrong about fit; both halves go in the record.
 | **VIII.1** NAVIGATION, NOT TOURISM | **Guide Part I §§1.1–1.4** (configuration space; what a perspectival being is; **§1.3 Navigation as Identity**; the three orientations) · **§2.5 The Ethics of Navigation** · `01` §10 for the telos | rich |
 | **VIII.2** READING YOUR OWN FILTER STACK | **Guide Part V: The Invisible, §§5.1–5.4** — *Your Null Space* · *Symptoms of Null-Space Influence* (four named symptoms, all diagnostic) · **§5.3 Illuminating the Null Space**, which supplies THREE METHODS and is the beat *"what you can do instead"* already written | **rich — the stub is 5 lines and the source is not** |
 | **VIII.3** EDITING | **Guide Part IV §4.1 The EIGHT Navigation Classes** *(corrected Day 191 — this row read "Seven" and listed seven; see R-116 below)* — Attentional · Somatic · Cognitive · Altered-State · Relational · Collective · Macroscopic-Quantum · **Instrument-Assisted**, each with a `Practice:` line · **§4.2 Integrating**, **§4.3 The Role of Tradition** · **§2.3 The Topology That Attention Creates** | **rich — a complete practice taxonomy** |
-| **VIII.4** HOLDING THE SUPERPOSITION | **Guide §2.4 Expansion and Contraction as Navigation Modes** — *"Expansion is not always good. Contraction is not always bad"*, and the two failure modes are IN the source: dissolution at one end, *"the narrow channel feels like the only channel"* at the other | adequate |
+| **VIII.4** HOLDING IT OPEN | **Guide §2.4 Expansion and Contraction as Navigation Modes** — *"Expansion is not always good. Contraction is not always bad"*, and the two failure modes are IN the source: dissolution at one end, *"the narrow channel feels like the only channel"* at the other | adequate |
 | **VIII.5** THE SECOND ARROW | **Guide §6.4 The Necessity of Suffering** ⛔ **but see the Day-190 amendment below — VII.5 has already spent the Sallatha Sutta, the two-arrow distinction, the aperture thermodynamics AND the census card.** This chapter's source is what is LEFT: §2.4's contraction material and §5.4 *Being Acted Upon by the Invisible* | ⚠ **thinnest by far, and thin for a reason: it was harvested by VII.5** |
 | **VIII.6** OTHER PLAYERS | **Guide Part VIII: Navigating Together §§8.1–8.5** — *You Are Already Collective* · *When Collectives Suffer* · *When Collectives Become Predatory* · *Collective Beauty* · *Building and Sustaining Healthy Collectives* · **+ §2.5's Principles 5–7** | **rich** |
 | **VIII.7** DO BE DO BE DO | **Doctrine §12.1 Theorem 16 (The Fundamental Oscillation)** and §12.2 · **Guide §2.4**'s do-be-do-be-do rhythm · §13.4's closing *"a symphony that does not end, but plays on"* ⛔ **with VII.5's theodicy refusal and VII.8's mandate refusal both binding on §13.4 — the closing image is usable, the sentences around it are not** | adequate |
@@ -4331,7 +4331,19 @@ each class is different, which means complementary practices illuminate each oth
 which is the chapter's argument for why the taxonomy is a taxonomy and not a menu. ⛔ **`blind spot`
 belongs to VI.8** (11 hits, all there); use §4.2's sense without the phrase.
 
-### VIII.4 — HOLDING THE SUPERPOSITION
+### VIII.4 — HOLDING IT OPEN
+⛔ **RETITLED Day 191, one breath before it would have shipped. The old title was `HOLDING THE
+SUPERPOSITION`, and `superposition` was ★ BANNED by ruling 31 on Day 187** — the strongest verdict in
+`05`, on the criterion that an analogy has to be made of something the reader already has. **The
+book's own word for the thing is `open`**, and the ruling row says so in its last line: *a matter is
+open when more than one way it could go is still live.* The title now uses it. ⚠ **Found by opening
+the brief to draft the chapter, not by any gauge — because `superposition` was the one ruled-out term
+in `05` with NO rule in `claim_sweep`**, while `substrate`, `map`, `narrowing`, `stream`, `aperture`,
+`bottleneck`, `egregore`, `pre-rendered` and `fullness` all had one. ★★ **And `TERM/egregore`'s own
+note cites this ban as its precedent** — *"superposition had none and was banned"* — in a comment
+whose stated reason for existing is that *a lexicon ruling with no gauge behind it survives its own
+retirement*. The precedent had no gauge. **Wired Day 191 as `TERM/superposition`; it caught this title
+on its first run.**
 **Beats:** the practical form of the Coherence Principle: when to decide and when to stay open · the cost
 of each unit of undecided time · **the two failure modes** — collapsing early, and never collapsing ·
 how to tell which one you do.

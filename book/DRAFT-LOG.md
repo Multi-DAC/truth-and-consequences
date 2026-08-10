@@ -10124,3 +10124,49 @@ prints **18 USE-class hits in five rules: `aperture` ×10, `self-metric` ×3, `n
 **The row was filed with the diagnosis complete and the repair named as a diff, and the diff was
 never run.** [[diagnosis-without-a-hand]]: R-101 now has the hand it was missing, and the work it was
 filed to do is still owed. → **R-101 stays OPEN and is now RUNNABLE**, which it was not before.
+
+---
+
+⛔⛔ **THE ★ BAN WAS THE ONE RULED-OUT TERM WITH NO GAUGE, AND IT HAD ALREADY TAKEN A CHAPTER TITLE.**
+
+Opened VIII.4's brief to draft it. **Its title was `HOLDING THE SUPERPOSITION`** — and
+`superposition` was **★ BANNED by ruling 31 on Day 187**, the strongest verdict in `05`, four days
+earlier.
+
+**Measured, not inferred.** `claim_sweep` carried `TERM/` rules for **substrate · map · map-self ·
+narrowing · stream · aperture · bottleneck · egregore · pre-rendered · fullness**. It carried **none
+for `superposition`.** The one term in the table marked ★ BAN rather than RETIRE or DEMOTE was the
+one term with nothing watching it.
+
+★★ **AND `TERM/egregore`'S OWN COMMENT IS THE INDICTMENT, WORD FOR WORD.** It reads: *"Wired the
+same day it was ruled, because a lexicon ruling with no gauge behind it survives its own retirement —
+`the map` proved it in two live chapter titles."* It then names this ban as its own precedent:
+*"`superposition` had none and was banned."* **The rule that exists because rulings rot cites, as its
+authority, the ruling that was left to rot** — and the failure mode it names verbatim, *a term
+surviving in a live chapter title*, is exactly where this one was found.
+
+⚠ **AND THE REASON THE GAP OPENED IS THE GENERALISABLE PART, because it is not laziness.**
+`superposition` was **measured at 0 in prose on the day it was banned.** There was nothing to sweep.
+So no rule was written, because a rule with no hits looks like a rule with no job. **Every term that
+got wired is one that recurs in ordinary drafting and is therefore cheap to check.**
+[[instruments-go-where-instruments-are-cheap]], in the lexicon: **a rule's value is not in the hits it
+has, it is in the hits it will have, and a term measured at 0 is precisely the one a gauge is for.**
+
+**REPAIRED, both halves:**
+- **`TERM/superposition` wired** into `claim_sweep`, scope `all`. The mention classifier already
+  suppresses the ruling rows in `00`/`05`/`06` and II.8's banned-words roster unaided. **Two live
+  hits on the first run: `04`:507 (the source's central sentence, quoted — exempted by named line,
+  with the note that it licenses the quotation and not `04`'s own prose) and `06`:4334, THE TITLE.
+  The rule caught the true positive on its first run.**
+- **VIII.4 retitled `HOLDING IT OPEN`** — the book's own word, taken from the last line of the ruling
+  that banned the other one: *a matter is open when more than one way it could go is still live.*
+  Both sites in `06` updated; the chapter is undrafted, so nothing shipped.
+
+✅ **SWEPT, not spot-fixed.** All **69 scaffold titles** and all **63 shipped prose H2 heads** checked
+against every retired and banned term in `05` — `superposition`, `aperture`, `bottleneck`,
+`substrate`, `the map`, `narrowing`, `stream`, `egregore`, `pre-rendered`, `base reality`.
+**1 hit, and it was this one.** [[repair-scoped-to-named-cause]] — the sibling sweep ran before the
+repair was called done, and this time it came back empty, which is a result rather than a relief.
+⚠ **No new tool was built for the title class, deliberately: `claim_sweep` already reads `06`, so the
+missing rule WAS the missing gauge.** A title-sweep tool would have been a second instrument for a
+job the first one already had.

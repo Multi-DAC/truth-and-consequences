@@ -194,6 +194,33 @@ RULES = [
      "in IV.5, exempted by pair below. ⚠ Wired the same day it was ruled, because a lexicon ruling "
      "with no gauge behind it survives its own retirement — `the map` proved it in two live chapter "
      "titles and `magic circle` proved it as an un-carried-out INSTRUCTION (ruling 101)."),
+    # ⛔⛔ WIRED DAY 191, FOUR DAYS LATE, AND THE ROW ABOVE IS THE INDICTMENT.
+    # `TERM/egregore`'s own note reads: *"Wired the same day it was ruled, because a lexicon
+    # ruling with no gauge behind it survives its own retirement."* It then cites this ban
+    # as its precedent — *"superposition had none and was banned"* — and this ban had no
+    # gauge. Ruling 31 (Day 187, at II.7) is a ★ BAN, the strongest verdict in `05`, and it
+    # was the ONLY ruled-out term in the table with no rule: substrate, map, narrowing,
+    # stream, aperture, bottleneck, egregore, pre-rendered and fullness all had one.
+    # ⛔ AND IT HAD ALREADY COST A TITLE. `06`'s VIII.4 stood as **HOLDING THE
+    # SUPERPOSITION** for four days after the word was banned — the same failure `the map`
+    # made in two live chapter titles, which is the failure the egregore note cites as its
+    # reason for existing. Found by a drafter opening the brief to write the chapter, one
+    # breath before the title would have shipped in prose.
+    # ★ The pattern of the gap is worth more than the gap: every wired term is one that
+    # recurs in ordinary drafting and is therefore CHEAP to check. `superposition` was
+    # measured at 0 in prose when it was banned, so there was nothing to sweep, so nothing
+    # was built — and a rule's value is not in the hits it has, it is in the hits it will
+    # have. A term at 0 is exactly the one a gauge is for.
+    ("TERM/superposition", "all", r"\bsuperpositions?\b", None,
+     "05 §3a — RULING 31 (Day 187), at II.7. ★ BANNED. It is the load-bearing noun of the "
+     "source's central sentence and it is not ours: the criterion is ruling 30's — AN "
+     "ANALOGY HAS TO BE MADE OF SOMETHING THE READER ALREADY HAS. *Collapse* has a civilian "
+     "life (a lung, a bridge, a market, a negotiation) and kept its word; *superposition* "
+     "has no life outside the formalism, so borrowing it transfers AUTHORITY rather than "
+     "MEANING. **Book's word: `open`.** A matter is open when more than one way it could go "
+     "is still live. LICENSED: the banned-words roster in II.8, which names it; the ruling "
+     "rows in `00`/`05`/`06`; and `04`'s quotation of the source sentence. All exempted by "
+     "pair below — never by widening this pattern."),
     ("TERM/fullness", "book-after-one", r"\bthe Fullness\b|\bthe still\b", None,
      "05 §3a — RULING 14 (Day 187). *The Fullness* and *the still* are Book I's mythic names for "
      "the Ground, and they are RETIRED at the I/II boundary. I.6's closing move — 'they will not "
@@ -385,6 +412,14 @@ RULES = [
 #   (path suffix, rule_id, substring that must be on the line — None means whole file, why)
 # ---------------------------------------------------------------------------
 EXEMPTIONS = [
+    ("04-THE-UNSATISFYING-ANSWERS.md", "TERM/superposition",
+     "systems holding structural superposition",
+     "THE SOURCE'S OWN CENTRAL SENTENCE, QUOTED. `04` is where the corpus's positions are set "
+     "out in their own words before the book rules on them, and a ban that forbids quoting the "
+     "sentence the ban was made about destroys the evidence for the ruling — the same argument "
+     "that exempts DRAFT-LOG's quotation of the struck beat. Named-line, never whole-file: any "
+     "other TERM/superposition hit in `04` is a fresh decision. ⚠ Note what this exemption is "
+     "NOT: it does not license the word in `04`'s own prose, only inside the quotation marks."),
     ("book/IV-08-the-divine-and-the-hierarchies.md", "TERM/map-self",
      "a structure that maps",
      "THE DECLARED FALSE POSITIVE OF TERM/map-self, and it is exempted rather than regexed "
