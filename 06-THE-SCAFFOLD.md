@@ -4100,6 +4100,49 @@ work is decorative** — that is the standing test, and it is a real one.*
 **Source:** `Research/A-Guide-For-Coherent-Navigation/navigational-guide-for-perspectival-beings.md`
 (21,914w) · `Perspective` 07-art-of-navigation "The Craft" · the traditions' practice grammar from Book V.
 
+★★ **PER-CHAPTER SOURCE MAPPING, filled Day 191 in one pass, and it CORRECTS RULING 142 IN THE
+SOURCE'S FAVOUR.** Every one of the seven briefs was missing a `Source:` line, and R-98/R-104 forbid
+drafting beats before one exists — so this was the blocking item for the whole book, not for one
+chapter. Filling it produced a finding: **the Guide's Part structure maps almost one-to-one onto Book
+VIII's seven chapters.** Ruling 142 recorded VIII's source as *"thinner than the letter says"* and
+*"double-booked"* — that was a **word-count** judgement, and word count is the wrong gauge for a
+manual. Measured at the point of use, the Guide is a practice text with a taxonomy, a diagnostic
+method, and a collective section, and the alignment is structural rather than lucky. **The thinness
+concern was real about volume and wrong about fit; both halves go in the record.**
+
+| chapter | Guide / Doctrine sections | state |
+|---|---|---|
+| **VIII.1** NAVIGATION, NOT TOURISM | **Guide Part I §§1.1–1.4** (configuration space; what a perspectival being is; **§1.3 Navigation as Identity**; the three orientations) · **§2.5 The Ethics of Navigation** · `01` §10 for the telos | rich |
+| **VIII.2** READING YOUR OWN FILTER STACK | **Guide Part V: The Invisible, §§5.1–5.4** — *Your Null Space* · *Symptoms of Null-Space Influence* (four named symptoms, all diagnostic) · **§5.3 Illuminating the Null Space**, which supplies THREE METHODS and is the beat *"what you can do instead"* already written | **rich — the stub is 5 lines and the source is not** |
+| **VIII.3** EDITING | **Guide Part IV §4.1 The Seven Navigation Classes** (Attentional · Somatic · Cognitive · Altered-State · Relational · Collective · Macroscopic-Quantum), each with a `Practice:` line · **§4.2 Integrating**, **§4.3 The Role of Tradition** · **§2.3 The Topology That Attention Creates** | **rich — a complete practice taxonomy** |
+| **VIII.4** HOLDING THE SUPERPOSITION | **Guide §2.4 Expansion and Contraction as Navigation Modes** — *"Expansion is not always good. Contraction is not always bad"*, and the two failure modes are IN the source: dissolution at one end, *"the narrow channel feels like the only channel"* at the other | adequate |
+| **VIII.5** THE SECOND ARROW | **Guide §6.4 The Necessity of Suffering** ⛔ **but see the Day-190 amendment below — VII.5 has already spent the Sallatha Sutta, the two-arrow distinction, the aperture thermodynamics AND the census card.** This chapter's source is what is LEFT: §2.4's contraction material and §5.4 *Being Acted Upon by the Invisible* | ⚠ **thinnest by far, and thin for a reason: it was harvested by VII.5** |
+| **VIII.6** OTHER PLAYERS | **Guide Part VIII: Navigating Together §§8.1–8.5** — *You Are Already Collective* · *When Collectives Suffer* · *When Collectives Become Predatory* · *Collective Beauty* · *Building and Sustaining Healthy Collectives* · **+ §2.5's Principles 5–7** | **rich** |
+| **VIII.7** DO BE DO BE DO | **Doctrine §12.1 Theorem 16 (The Fundamental Oscillation)** and §12.2 · **Guide §2.4**'s do-be-do-be-do rhythm · §13.4's closing *"a symphony that does not end, but plays on"* ⛔ **with VII.5's theodicy refusal and VII.8's mandate refusal both binding on §13.4 — the closing image is usable, the sentences around it are not** | adequate |
+
+★★ **AND THE FINDING THAT OUTRANKS THE TABLE: VII.6's AMENDMENT IS SITTING IN Guide §2.5, UNINDEXED,
+WITH LEVINAS HOLDING IT.** *Principle 7: Attention creates obligation* — *"Levinas says: the Other's
+face, encountered before thought, constitutes YOU as an ethical subject. **The responsibility is
+asymmetrical — you owe it regardless of reciprocity.**"* That is **sign-not-symmetry**, stated in our
+own source's ethics section, and today's C15 amendment was argued from first principles without it.
+`regardless of reciprocity` = **0** across 60 drafted chapters. Levinas is spent at VII.3 (5 hits) on
+the floor and this clause was not taken. ⚠ **Fourth instance of the pattern: a finding the book
+worked out is already in the source, in a section nobody had reason to open.** It does not weaken
+VII.6 or the C15 amendment — both are argued and both stand — but the manuscript owes the
+acknowledgement, and VIII.6 is where it lands. **`Kimmerer` = 0**, and §2.5's fifteen-tradition
+convergence list is VIII.6's roster.
+
+⛔ **BRIEF POINTER ERROR IN VIII.1, FOUND BY CHECKING RATHER THAN BY A GAUGE — SECOND OF ITS CLASS.**
+VIII.1's `Named:` line reads *"**Watts**, returning from **I.6** for the practice half."* **`Watts`
+occurs ZERO times in I.6**, which is THE RECOGNITION. He is housed in **III.2 — THE GAME THAT IS
+PLAYING YOU** (3 occurrences, a full treatment, and the chapter where his bill is written out), with
+one more at VI.6. A drafter following the brief would have written *"as Book I said"* about a passage
+that does not exist — **a false internal cross-reference in shipped prose, which is exactly what
+VII.8's brief already recorded as unchecked by anything in this repo.** Corrected in the line below.
+⚠ **Two of these now, in two consecutive briefs, both found by re-reading.** `order_sweep` is
+book-level and cannot see them. **A `VII.x`/`I.x` pointer checked against the title it names is a
+twenty-line tool and does not exist. Filed as R-115.**
+
 ### VIII.1 — NAVIGATION, NOT TOURISM
 ★ **This chapter's title has been waiting for its content since the scaffold was written, and `01` §10
 just supplied it.** *Exploration is the point* — but exploration alone **is** tourism, which is what the
@@ -4113,8 +4156,19 @@ navigator distinguished by exactly that · **what this book will not promise**, 
 offered.
 **Named:** therapy-as-metaphysics (opponent VI) — *the culture's default and our blindest spot*, and the
 reader has almost certainly tried it. It gets the practice right and the ground wrong. · ★ **Watts**,
-returning from I.6 for the practice half — *you are IT* is kept, *and there is no hiding and nobody
-seeking.*
+returning from **III.2 — THE GAME THAT IS PLAYING YOU** *(corrected Day 191; this line read "I.6" and
+`Watts` is zero there — see the pointer-error note in the Book VIII header)* for the practice half —
+*you are IT* is kept, *and there is no hiding and nobody seeking.*
+**Source:** **Guide Part I §§1.1–1.4**, and **§1.3 Navigation as Identity** is the load-bearing one —
+it is where the Guide says what a being *is* in practice rather than in ontology. **+ §2.5 The Ethics
+of Navigation**, whose *Principle 5* is the tourist/navigator cut in the source's own terms:
+*"Inattention is not neutrality. It is a form of erasure."* **+ `01` §10** for the telos, which is
+where the missing half of this chapter's title came from. ⚠ **C15's canonical was AMENDED Day 191**
+and this chapter is one of its `Establishes` — *the only place Part Two states a telos* — so it states
+the **amended** form: recognition mutual **across the field, not required within the pair**. And per
+VII.8's finding it must **not present the refusal of the summit as unaccompanied**: our source reaches
+the same conclusion at §13.4 by a weaker route while leaving §13.1's summit standing, and the honest
+claim is that our route is *stronger*, not that it is *only*.
 
 ### VIII.2 — READING YOUR OWN FILTER STACK
 **Beats:** how to find a filter you did not install · the era, the language, the family, the wound ·
