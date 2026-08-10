@@ -642,6 +642,34 @@ EXEMPTIONS = [
     #     generous-sounding inversion, and the register requires it named HERE because III.5 is
     #     where the reader first has the thought. Line by line, not whole-file, for the III.2 reason:
     #     the chapter that refuses a claim is exactly where a real breach would read as the refusal.
+    # ⚠ THE RULE'S OWN WARNING CAME TRUE ON SCHEDULE, DAY 191. C6/godplayer's NOTE has named
+    # VIII.6 a licensed site since the note was written, and VIII.6 had no exemption pairs
+    # because it was UNDRAFTED. The moment it was drafted the rule reported four USE-class hits
+    # at a site its own text calls legitimate. That is verbatim what the ⚠ appended to the rule
+    # predicts: "a licence list that is only checked against the chapters already written is a
+    # list that ages into a false positive on schedule." Filed here rather than fixed
+    # structurally, because the per-line form is the point — a licence granted to a CHAPTER
+    # would let any future sentence in it through, and the cut has to be made line by line.
+    ("book/VIII-06-other-players.md", "C6/godplayer",
+     "divine player is removed, the other players become real",
+     "★ THE CUT AS THIS CHAPTER'S PREMISE. VIII.6 was promoted to half the telos on exactly this "
+     "sentence: remove the divine player and the other players become real. Naming the removal is "
+     "the licensed act, and it is the first line of the chapter the rule's NOTE licenses."),
+    ("book/VIII-06-other-players.md", "C6/godplayer",
+     "The warm failure: everyone is God in a mask",
+     "The section heading under which the trap is stated and refused — same shape as III.5's "
+     "entry, which quotes the trap at full warmth so the paragraphs beneath can decline it."),
+    ("book/VIII-06-other-players.md", "C6/godplayer",
+     "puts a doctrine in the seat the person was in",
+     "★ The census card's finding, and the reason the cut is MADE here rather than referred to "
+     "III.2: the mask reading and the empathy reading are the SAME recognition failure — "
+     "something of yours in the seat the other person was in. That equation needs the trap "
+     "named beside its secular twin or it cannot be stated."),
+    ("book/VIII-06-other-players.md", "C6/godplayer",
+     "the other players became real when the divine player was removed",
+     "The closing recapitulation of the chapter's own premise, in the what-this-leaves-you "
+     "section. Named-line like the other three; a whole-file licence here would exempt every "
+     "future sentence in the chapter most likely to need the guard."),
     ("book/III-05-there-are-no-npcs.md", "C6/godplayer",
      "*Everyone is God in a mask.*",
      "★ THE TRAP STATED, in the reader's own words and at full warmth, so that it can be refused in "

@@ -4446,7 +4446,7 @@ chapter's most important content is the region where that instrument **fails**. 
 preference for a tidier chapter, and the party proposing that repair is the party who benefits.**
 Same discipline as R-101's on `aperture`. → revision pass.
 
-### VIII.6 — OTHER PLAYERS
+### VIII.6 — OTHER PLAYERS ✅ DRAFTED — 5,206 words
 ★ **Promoted Day 185: this is no longer one practice among seven. It is half the telos** (`01` §10),
 and the book's ethics is downstream of the §9 cut and of nothing else — **remove the divine player and
 the other players become real.** Consider moving it earlier in Book VIII; it currently sits sixth,
@@ -4456,6 +4456,43 @@ through, not over — as a practice, not a principle · attention as the thing y
 on people · encounter across a grade-difference, in ordinary rooms · **why "everyone is God in a mask"
 is the failure mode here and not the insight** — it is warm, it is Watts, and it dissolves the person
 in front of you · the collective you are inside, and what you owe it and what it owes you.
+**Source:** **Guide §§8.1–8.5** — *You Are Already Collective* (Mead, Ubuntu, the family as a
+collective with its own exclusions) · *When Collectives Suffer* (Erikson's Buffalo Creek; **the two
+arrows at collective scale, with the complication that changes everything — the collective's second
+arrow is fired by multiple agents, often strategically, often for power**; the collective has no
+single observer, so its contemplative practice is *distributed reflexive capacity*) · *When
+Collectives Become Predatory* (**Goffman's total institution and the monastery/prison identity — same
+architecture, opposite orientation**; five warning signs; Santos's epistemicide) · *Building and
+Sustaining Healthy Collectives* (Ostrom's eight; **seventh-generation thinking**; the **Two Row
+Wampum** as the inter-collective I-Thou). **+ §2.5 Principles 5–7.**
+⚠ **SOURCE-STRUCTURE CORRECTION, minor and recorded rather than silently fixed: there is no `Part
+VIII` in the Guide.** Its Part headings stop at **Part VI**; §§7.x and 8.x are bare H2 sections with
+no Part above them. The section titles and content this row cites are all present and exact — the
+defect is in the source's own heading structure, not in our mapping — but *"Guide Part VIII:
+Navigating Together"* names a heading that does not exist, and the R-116 class is precisely
+**external** pointers, which `pointer_title_check` states it cannot see.
+★★ **PRE-DRAFT SCREEN, Day 191 — THE ROSTER IS ALMOST ENTIRELY UNSPENT, WHICH IS RARE THIS LATE.**
+**0** across 65 drafted chapters: `Michels` · `Goffman` · `Santos` · `Du Bois` · `Fanon` · `Erikson` ·
+`Solnit` · `Mead` · `Kimmerer` · `Hirschman` · `Gramsci` · `Foucault` · `epistemicide` · `double
+consciousness` · `total institution` · `seventh generation` · `Wampum` · `mutual aid`. **Spent, refer
+don't re-argue:** `Weber` 27 · `Illich` 15 · `Ostrom` 14 · `Levinas` 10 · `Arendt` 10 · `Zuboff` 7 ·
+`Murdoch` 5 · `Ubuntu` 5 · `Watts` 28.
+★★★ **AND THE CARD IS A ZERO THAT SHOULD NOT BE: `empathy` = 0 ACROSS SIXTY-FIVE DRAFTED CHAPTERS.**
+A book whose stated telos is half *recognition among travellers* has never once used the culture's own
+word for the thing, and the word is the reader's first and only instrument for it. **Its exclusion is
+a NINTH distinct mode: proxy substitution — it is a simulation instrument, so its reading is of YOUR
+MODEL of them, and its confidence tracks the fluency of the simulation rather than its accuracy.**
+Distinct from VIII.2's (sample frame identical to the object): here the frame and the object are
+different things and one is silently reported as the other. ⚠ **And it is the same failure as this
+chapter's named opponent** — *everyone is God in a mask* replaces the person with a doctrine, empathy
+replaces them with a model, and **both are recognition failures in which something of yours occupies
+the seat the other person was in.** That symmetry is the chapter's spine and it was not in the beats.
+⛔ **THE OWED ACKNOWLEDGEMENT LANDS HERE, per the Book VIII header:** §2.5 **Principle 7** contains
+VII.6's amendment already — *"the responsibility is asymmetrical — you owe it regardless of
+reciprocity"* — and `regardless of reciprocity` = **0**. VII.6 and the C15 amendment are argued and
+stand; the manuscript owes the note that the source had it, uninindexed, in a section nobody opened.
+**+ §2.5's fifteen-tradition convergence list is this chapter's roster**, and `Kimmerer` = 0 is the
+gap in it that matters most, because hers is the entry that extends the scope past human faces.
 
 ### VIII.7 — DO BE DO BE DO
 **Beats:** the oscillation as the practical whole — doing and being, radiance and contraction, turning
