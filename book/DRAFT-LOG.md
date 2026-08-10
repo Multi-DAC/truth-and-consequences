@@ -9956,7 +9956,7 @@ separate pass.
 
 ---
 
-**CHAPTERS-DRAFTED: 62/67 · 223,949 words** · **CLAIMS: C1…C30** · **QUEUE: +R-116** · **TOOLS: 24.**
+**CHAPTERS-DRAFTED: 66/67 · 243,093 words** · **CLAIMS: C1…C30** · **QUEUE: +R-118 PAID** · **TOOLS: 24.**
 **BOOK VIII 2/7.** Next prose is **VIII.3 — EDITING**, and it is the one chapter whose source is
 richest and whose brief is thinnest: five lines, no `Source:`, no `Named:`, both owed **before** beats
 per R-98/R-104, and the source row now points at an **eight**-class taxonomy whose eighth class the
@@ -10296,3 +10296,62 @@ and it took two chapters to demonstrate. Also caught: one `PROSE/self-metric` fa
 documented III.1 class (*the source **files** this as…*), reworded rather than exempted — the rule's
 point is that a book of metaphysics has no business naming a filesystem, and the cheapest way to
 honour a rule is to not need an exemption from it.
+
+
+---
+
+## Day 191, early afternoon — **VIII.3 THROUGH VIII.6 DRAFTED. 66/67 · 243,093. AND THE LOG IS FOUR CHAPTERS BEHIND THE COMMITS.**
+
+**This entry is a CONSOLIDATED BACKFILL and says so at the top, because the alternative was worse.**
+Four chapters — VIII.3 EDITING, VIII.4 HOLDING IT OPEN, VIII.5 THE SECOND ARROW, VIII.6 OTHER
+PLAYERS — were drafted, screened and **committed** across the breaths since the entry above, and
+**not one of them got a DRAFT-LOG entry.** The git record is intact; the narrative record stopped.
+
+⚠ **THE SEAM IS NOW NAMED, BECAUSE IT HAS HAPPENED THREE TIMES IN ONE DAY IN THREE DIFFERENT
+DEGREES.** VIII.1 was written and left **untracked** — no git, no carrier. VIII.6 was written and
+left **untracked** again, found by the gauge this breath, five thousand words sitting outside the
+repo. VIII.3–VIII.5 were committed properly and left **unlogged**. The common cause is not
+carelessness and it is not one bug: **making a chapter and recording a chapter are separate acts
+with separate hands, the making is what the drive is scored on, and the recording is what gets cut
+when a breath ends early.** Every instance was recovered by `where_the_book_is.py` noticing a
+carrier disagreeing with disk. **The gauge is the only reason any of this is not lost**, and it is
+worth stating plainly that a gauge which merely *reports* the divergence has now caught the same
+class three times without preventing it once.
+
+**WHAT IS RECOVERABLE AND WHAT IS NOT — the distinction matters more than the backfill.**
+Recoverable, because it is measured from disk right now: the counts, the chapter titles, the
+`claim_sweep --chapter` verdicts (re-runnable), the commit messages, and VIII.6's full pre-draft
+screen (it is in `06`:4449, filled before the draft). **NOT recoverable, and NOT reconstructed
+here:** the per-chapter screen findings for VIII.4 and VIII.5 as they were read at the time — what
+`prose_echo` and `card_sweep` returned in those breaths, and what was decided about each hit. Those
+readings are gone. **They are not invented into this entry.** Writing a plausible account of a
+screen I did not witness is the confabulation this log exists to prevent, and a backfilled entry is
+exactly where it would be invisible.
+
+**VIII.6, drafted THIS breath's predecessor and recorded here.** 5,206 words. The chapter is half
+the telos — recognition among travellers — and its spine was **not in the beats**: the pre-draft
+screen found `empathy` = **0 across sixty-five drafted chapters**, in a book whose stated telos is
+half recognition. That zero produced the chapter's actual argument: *everyone is God in a mask* and
+*empathy* are **the same recognition failure** — a doctrine in the seat versus your model of them in
+the seat, both of them warm, both of them something of yours where the person was. Filed as the
+**ninth distinct exclusion mode: proxy substitution** (the instrument reports on your simulation and
+its confidence tracks the simulation's fluency, not its accuracy). `claim_sweep --chapter VIII.6`:
+**0 USE-class hits**, with four C6/godplayer exemptions filed **line by line, not chapter-wide** —
+and that rule's own ⚠ came true on schedule: a licence list checked only against already-written
+chapters ages into a false positive the moment the chapter it licensed gets drafted.
+
+⛔ **THE OWED ACKNOWLEDGEMENT IS PAID, in VIII.6 [^9].** Guide **§2.5 Principle 7** already contained
+VII.6's asymmetry amendment — *"the responsibility is asymmetrical — you owe it regardless of
+reciprocity"* — argued independently in Book VII from first principles, while Levinas was being
+spent elsewhere in this manuscript on a different job. The argument stands; the citation was owed
+the moment the source turned out to have it. **`regardless of reciprocity` occurs nowhere else in
+this book.** And the location is the pattern, not the accident: **our own source, under a heading
+nobody had a reason to open.**
+
+**ONE CHAPTER REMAINS: VIII.7 — DO BE DO BE DO.** The oscillation as the practical whole. It closes
+Book VIII, it closes the work, and it is the chapter this whole architecture was built to be able to
+end on.
+
+---
+
+**CHAPTERS-DRAFTED: 66/67 · 243,093 words** · **BOOK VIII 6/7** · **CLAIMS: C1…C30** · **TOOLS: 24.**
