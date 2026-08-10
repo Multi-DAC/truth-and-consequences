@@ -9428,3 +9428,67 @@ inherited-base-plus-delta, direct count still 78, gap still R-85** · **TOOLS: 2
 prose is **VII.6 — LOVE**, whose brief is five lines with `Source` and `Named` both empty, and which
 inherits from this chapter a claim it must not soften: in the place where love matters most, it is not
 *for* anything.
+
+---
+
+## DAY 190, NIGHT (second pass) — R-108's SIBLING SWEEP, AND THE 2.7% THAT IS NOT GOOD NEWS
+
+`review/SWEEP-001-day190-edition-scheme.md` · `tools/edition_scheme_sweep.py` · rulings 173–175 ·
+R-109, R-110, R-111 filed.
+
+R-108 closed with a clause nobody could act on — *"check the same pair everywhere the book cites a
+critical edition by a standard-scheme number"* — which is a sweep with no hand, i.e. a stamp. Built
+the hand. **Built it from the general form, not from Irenaeus**, because a grep derived from the
+defect just found returns its own reflection, not its siblings.
+
+**Result: 10 exposed loci across 56 chapters.** One is R-108 itself; two verified (`V-06` tonight,
+`III-02` under R-30); seven remain unchecked and are listed by name.
+
+★ **THE SPAN CHECKED: *Nefesh HaChayim*, Gate III ch. 4, in V.6 — a block quotation in a book with
+no endnotes.** Locus correct (all fourteen chapters of the gate pulled, so the anchor's distribution
+is known and not assumed — the R-30 lesson, applied on its first opportunity). Translator correct
+**and verified rather than trusted**: Sefaria's English is Moskowitz's, checked in the version
+metadata, because had it been anyone else's a word-perfect match would have *proved the attribution
+false*. **32 of 32 words exact, diffed in code.** Two silent cuts inside the quotation marks —
+`[emphatic]` and `(blessed be He)` — and `Ein Sofe` normalised to *Ein Sof*. One-witness, `Rev. 1.5`,
+**not** two-digitisation, and the record says so.
+
+★ **R-109 — the citation's third element is wrong.** *"Volozhin, published 1824"* sits in the imprint
+slot; the *editio princeps* is **Vilna (with Grodno), 1824**. Volozhin is where Chaim *lived*.
+**R-108's general form one notch over: an author's toponym and a place of imprint, collapsed into one
+string that reads as a single correct citation.**
+
+★★ **THE FINDING THAT OUTRANKS ALL THE ROWS — R-110.** 10 exposed loci **out of 368 distinct cited
+works. 2.7%.** That is not a book with few edition-bound citations; **it is a book with almost no
+citations yet.** Books II–V carry zero endnotes across 37 chapters and name Śaṅkara, the Zohar,
+Plotinus, Irenaeus, the *Brahma Sūtra* and *Nefesh HaChayim* with no locus at all. **The most
+edition-sensitive material in the volume is in exactly the region with nothing to check, so a clean
+result here is a false negative by construction.** The endnote retrofit does not *reveal* this
+population — it **creates** it, ~90 citations at once, written fast against open sources: the exact
+condition that produced R-108. **The sweep is therefore not closeable; it is a mandatory step inside
+R-2, per book, recorded in the row, the docstring and the printed LIMIT line.**
+**Third instance of the same law: the instrument goes where the instrument is cheap.**
+
+⚠ **THREE DEFECTS IN MY OWN INSTRUMENT, FOUND MID-RUN.** (a) The numeric pass could not see
+`Gate III, chapter 4` — a locus whose scheme is spelled in words — and that single blind spot is
+where the night's best finding came from; found by hand, not by gauge. (b) `JOURNALISH` listed six
+journals and let one through on its opening word. (c) **The internal-pointer filter ate four of five
+real hits** — `Confessions VI.3`, `Adversus haereses II, 7`, `De Rerum Natura III, 832` are
+shape-identical to this book's own chapter pointers — cutting the list 11 → 5, **and the shorter list
+looked cleaner.** Same family as the anchor that found the wrong passage six hours earlier: *an
+over-eager filter produces a result shaped exactly like a good result.*
+
+★ **R-111 — the packets have no return date, so they have no deadline that can be missed.**
+`PACKET-002` (Day 189) and `PACKET-003` (Day 190) are both out and unreturned while the handoff calls
+the outside read the binding item. A dependency with no dated trigger stalls **invisibly**, because
+every check returns the same true answer — *still out* — and that answer never becomes an alarm.
+**Dates set tonight, by me, not routed to Clayton: Day 194 and Day 195, with live reminders behind
+them and a pre-committed action if the date passes** (draft on, and mark every C9-downstream Book VII
+claim PROVISIONAL rather than let silence read as consent). Deferral wearing deference's clothes,
+closed on the merits.
+
+---
+
+**CHAPTERS-DRAFTED: 56/67 · 193,646 words** · **CLAIMS: C1…C30** · **RULINGS: 175** · **QUEUE: 86 +
+R-98…R-111 = 100 (R-30 paid; R-108's sibling clause discharged, its main clause still owed)** ·
+**TOOLS: 24.** No prose this pass, by choice. Next prose remains **VII.6 — LOVE**.

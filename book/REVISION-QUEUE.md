@@ -2205,4 +2205,91 @@ receipt-level and it is the receipt the retrofit exists to write. ⚠ **And chec
 everywhere the book cites a critical edition by a standard-scheme number** — this is one instance and
 the sweep has never run. small.
 
+> ✅ **SIBLING CLAUSE DISCHARGED, Day 190 night — `review/SWEEP-001-day190-edition-scheme.md`,
+> `tools/edition_scheme_sweep.py`.** The sweep ran: **10 exposed loci across the 56 drafted
+> chapters.** One is this defect; two are verified (`V-06` tonight, `III-02` under R-30); seven
+> remain `◻`. **The main clause above — the `IV-09` clause itself — is still OWED.** ⚠ And the
+> sweep's own result forbids reading it as a clean bill: see R-110. Three defects in the instrument
+> were found mid-run, one of which cut the hit list 11 → 5 and made it look *better*.
+
+---
+
+**FILED — R-109: A BARE TOPONYM IN THE IMPRINT SLOT, AND THE IMPRINT IS SOMEWHERE ELSE.**
+
+`V-06-the-room-that-was-never-emptied.md`:103 cites the block quotation as *"**Nefesh HaChayim**,
+Gate III, chapter 4. Volozhin, published 1824, in Leonard Moskowitz's translation."* Everything in
+that string checks out except the third element. **The *editio princeps* is Vilna (with Grodno),
+1824** — brought to press by the author's son R. Yitzchak and his nephew R. Avraham Simcha of
+Mstsislaw. **Volozhin is where Chaim lived**, and he is named *Chaim of Volozhin* two paragraphs
+above.
+
+In the slot `Title, locus. Place, year, translation.` a bare toponym reads as **place of
+publication**, and under that reading the citation is false. ★ **This is R-108's general form one
+notch over: two different facts — an author's toponym and a place of imprint — collapsed into one
+string that reads as a single correct citation.** Nothing in `tools/` can see this either, and
+`edition_scheme_sweep.py` cannot: it locates the pair, it does not adjudicate it.
+
+**Also owed on the same line, and smaller: two unmarked elisions inside the quotation marks.** The
+32 quoted words are Moskowitz's exactly, diffed in code — but `[emphatic]` and `(blessed be He)` are
+both cut with no ellipsis, and `Ein Sofe` is silently normalised to *Ein Sof*. Dropping the
+translator's apparatus mark is defensible; cutting running text without a mark is not. **The mild
+form of the Day-188 Irenaeus finding — an abridgement wearing an unabridged quotation's clothes.**
+
+⚠ **The verification behind this row is ONE-WITNESS, not two-digitisation** — Sefaria's Moskowitz is
+marked `Rev. 1.5`, a revised digital text rather than the 2012 print. Recorded as such rather than
+rounded up.
+
+**Owed:** `Vilna, 1824` (or drop the imprint and let the translation carry the citation); an ellipsis
+or a restoration at the two cuts. **TRIGGER: with the Book V endnote pass (R-2), or the next time
+V.6 is opened for any reason, whichever is first.** small.
+
+---
+
+**FILED — R-110: THE EDITION SWEEP'S CLEAN RESULT IS A FALSE NEGATIVE BY CONSTRUCTION, AND R-2 IS
+WHAT MAKES IT TRUE.**
+
+`edition_scheme_sweep.py` reports **10 exposed loci / 368 distinct cited works — 2.7%.** That is not
+a book with few edition-bound citations. **It is a book with almost no citations yet.** Books II–V
+carry **zero endnotes across 37 chapters**; they name Śaṅkara, the Zohar, Plotinus, Irenaeus, the
+*Brahma Sūtra* and *Nefesh HaChayim* in the sentence and give no locus, so there is no pair to
+inspect. **The most edition-sensitive material in the volume sits in exactly the region with nothing
+to check.**
+
+★ **The endnote retrofit does not reveal this population — it CREATES it**, roughly ninety citations
+at once, written fast against sources held open. That is precisely the condition that produced
+R-108.
+
+★★ **The general form, and it is the third instance: the instrument goes where the instrument is
+cheap.** A gauge clusters on the checkable region and reports its silence there as health. The
+number `2.7%` is a statement about the apparatus, not about the citations.
+
+**Owed:** not a fix — a **standing obligation**. `edition_scheme_sweep.py` is a **mandatory step
+inside R-2**, re-run per book as each book's notes are written, with the delta recorded. Written in
+three places so it cannot go silent: this row, the tool's docstring, the tool's printed LIMIT line.
+**TRIGGER: the first book of R-2, whenever R-2 starts — and R-2 may not be declared complete for any
+book until this has run against that book.** medium.
+
+---
+
+**FILED — R-111: THE TWO REVIEWER PACKETS HAVE NO RETURN DATE, WHICH MEANS THEY HAVE NO DEADLINE
+THAT CAN BE MISSED.**
+
+`PACKET-002` (Books I–V) went out **Day 189**. `PACKET-003` (Book VI) went out **Day 190 afternoon**.
+Both are unreturned, and the handoff has named the outside read as **the binding item** for two days
+running while the drafting lane kept moving.
+
+**Neither packet carries a date.** A dependency with no dated trigger does not stall loudly; it
+stalls **invisibly**, because every check of it returns the same true answer — *still out* — and that
+answer never becomes an alarm. Book III in particular has had **no outside read at all** and holds
+**C9**, the hinge every Book VII obligation sits downstream of.
+
+★ **This is [[deferral-wearing-deference]] exactly: a decision I own, routed to someone else with no
+dated trigger, stalls forever and looks like patience.** The remedy is not to chase — it is to make
+the silence expire.
+
+**Owed:** a dated check on each packet, and a pre-committed action for the case where the date passes
+unanswered *(the honest default: draft on, and mark every C9-downstream Book VII claim PROVISIONAL in
+the register rather than pretending the read happened)*. **TRIGGER: `PACKET-002` — Day 194.
+`PACKET-003` — Day 195.** Both set tonight, by me, not by Clayton. small.
+
 ---
