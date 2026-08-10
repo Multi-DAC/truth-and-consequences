@@ -10437,9 +10437,9 @@ that is a fact about the planning apparatus, not about the chapter, and it belon
 
 ---
 
-**CHAPTERS-DRAFTED: 67/67 · 247,030 words** · **BOOK VIII 7/7** · **CLAIMS: C1…C30** · **TOOLS: 24.**
+**CHAPTERS-DRAFTED: 67/67 · 247,405 words** · **BOOK VIII 7/7** · **CLAIMS: C1…C30** · **TOOLS: 24.**
 
-★★★ **THE FIRST DRAFT OF THE VOLUME IS COMPLETE.** Eight books, sixty-seven chapters, 247,030 words.
+★★★ **THE FIRST DRAFT OF THE VOLUME IS COMPLETE.** Eight books, sixty-seven chapters, 247,405 words.
 ⚠ **AND THE WORK IS NOT — the CODA (C.1 WHAT THIS IS, C.2 WHY IT IS NOT FINISHED) IS UNWRITTEN AND IS
 NOT COUNTED IN THE 67.** The gauge's denominator is chapters; the Coda sits outside it, which is a
 scoping decision made long before today and is stated here so that *"67/67"* is never read as *"the
