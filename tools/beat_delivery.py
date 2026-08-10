@@ -80,7 +80,7 @@ import sys
 sys.path.insert(0, str(pathlib.Path(__file__).resolve().parent))
 
 from beat_sweep import chapters, beats, words                      # noqa: E402
-from prose_beat_sweep import (SCAFFOLD, paragraphs, drafted,       # noqa: E402
+from prose_beat_sweep import (SCAFFOLD, paragraphs, drafted, PROSE_HEAD, FILE_ID,       # noqa: E402
                               house, contain, read_disk, embedder, MIN_BEAT)
 
 # The floor is a REPORTING threshold, not a verdict, and it was chosen after the distribution
@@ -147,7 +147,8 @@ def beat_text(raw):
     return DRAFTER.sub(" ", text).strip(), cut, marked
 
 
-def measure(scaffold_text, dr, focus=None):
+def measure(scaffold_text, dr, focus=None, ch_source=None):
+    ch_source = ch_source or {}
     hv, _ = house(dr)
     chs = {cid: body for cid, _, body in chapters(scaffold_text)}
     rows, truncated, short, marked = [], 0, 0, 0
@@ -162,6 +163,22 @@ def measure(scaffold_text, dr, focus=None):
         chap_words = set()
         for _, p in paras:
             chap_words |= set(words(p))
+        # ★ RULING 114 (Day 191) — THE STRIPPED-REGION MISS.
+        # `paragraphs()` excludes headings and rules ON PURPOSE, and the purpose is right:
+        # a beat performed only in a section heading has not been performed. But the MISS
+        # line then prints the word bare, and a bare MISS reads as ABSENT FROM THE CHAPTER.
+        # Those are different facts and they call for opposite repairs — one says write the
+        # move, the other says move it out of the heading into prose. VII.8 shipped a MISS
+        # on `grounded` that was sitting at line 346 in a `###`. The gauge's DESIGN was
+        # correct and its OUTPUT was wrong, which is the disclaimer-not-coupled-to-verdict
+        # shape: the limit is stated honestly in `paragraphs()`'s docstring, at a place no
+        # runtime reader sees, and the printed verdict contradicts it.
+        heading_words = set()
+        for line in ch_source.get(cid, "").splitlines():
+            t = line.strip()
+            if t.startswith("#") or (t and set(t) <= set("-*_ ")):
+                heading_words |= set(words(t.lstrip("# ")))
+        heading_only = heading_words - chap_words
 
         for kind, raw in beats(body):
             text, cut, mk = beat_text(raw)
@@ -184,9 +201,11 @@ def measure(scaffold_text, dr, focus=None):
             missing = [w for w in bw if w not in chap_words]
             cov = len(present) / len(bw)
             near = {w: n for w in missing if (n := near_form(w, chap_words))}
+            in_heading = [w for w in missing if w in heading_only]
             anchor = max(paras, key=lambda lp: contain(bw, words(lp[1])))
             rows.append({"ch": cid, "kind": kind, "text": text, "cov": cov,
                          "missing": missing, "near_forms": near, "anchor": anchor,
+                         "in_heading": in_heading,
                          "short": len(bw) < MIN_BEAT})
     return rows, truncated, short, marked
 
@@ -219,7 +238,10 @@ def report(rows, truncated, short, marked=0, floor=FLOOR):
         print(f"  {flag} {r['ch']:>6} ({r['kind']})  coverage {r['cov']:.2f}{tag}")
         print(f"        BEAT  {r['text'][:150]}")
         nf = r.get("near_forms", {})
-        miss = ", ".join(f"{w}→{nf[w]}" if w in nf else w for w in r["missing"])
+        hd = set(r.get("in_heading", []))
+        miss = ", ".join(
+            f"{w}[heading-only]" if w in hd else (f"{w}→{nf[w]}" if w in nf else w)
+            for w in r["missing"])
         print(f"        MISS  {miss or '—'}")
         ln, para = r["anchor"]
         print(f"        NEAR  {r['ch']}:{ln}  {para[:130]}")
@@ -303,7 +325,21 @@ def main():
 
     text = SCAFFOLD.read_text(encoding="utf-8")
     dr = drafted(read_disk)
-    rows, truncated, short, marked = measure(text, dr, focus=a.chapter)
+    # Raw chapter source, keyed the same way `drafted()` keys it, so the MISS line can tell a
+    # word that is ABSENT from one that is present ONLY in a stripped region (ruling 114).
+    src = {}
+    for name, body in read_disk():
+        head = None
+        for line in body.splitlines():
+            m = PROSE_HEAD.match(line)
+            if m:
+                head = m.group(1)
+                break
+        fm = FILE_ID.match(name)
+        cid = head or (f"{fm.group(1)}.{int(fm.group(2))}" if fm else None)
+        if cid:
+            src[cid] = body
+    rows, truncated, short, marked = measure(text, dr, focus=a.chapter, ch_source=src)
     if not rows:
         print("  nothing measured — is the chapter drafted and present in 06?")
         return 1

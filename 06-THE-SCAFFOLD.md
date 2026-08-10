@@ -3975,13 +3975,64 @@ Whitehead, Kauffman, Hegel are all 0 and all optional — the chapter does not n
 exists · why this is not fatalism and why the difference is checkable · **the one place we say plainly
 what is lost** — something *is* lost here, and pretending otherwise is the hedge in its most tempting form.
 
-### VII.8 — MEANING WITHOUT A MANDATE
+### VII.8 — MEANING WITHOUT A MANDATE ✅ DRAFTED — 6,146 words
+✅ **DRAFTED Day 191 · `book/VII-08-meaning-without-a-mandate.md`.** All six beats land. The two
+sub-1.0 coverages are inflections and one `grounded[heading-only]` — which is **ruling 114**, found
+here: `beat_delivery` strips headings by design and printed the stripped word as a plain absence,
+so 12 beats across 8 chapters have been reporting false MISSes, four of them fully delivered. Tool
+fixed and the sweep run book-wide. See DRAFT-LOG Day 191.
 ⚠ **AMENDED Day 185 by Clayton, and the amendment reverses this chapter's verdict.** It read: *"why
 this is not 'make your own meaning,' which is the reader's failed prior and which we are refuting, not
 restating."* Clayton: *"I do think it's partially a make your own meaning thing, though not completely,
 obviously."* **We are not refuting it. We are completing it** — which is harder to write and much
 better, because the reader who tried it and failed does not need to be told he was wrong; he needs to
 be told **which half was load-bearing.**
+**Source:** *(filled Day 191, pre-draft, R-98/R-104 — and the filling produced the chapter's largest
+finding, below.)* The positive statement is the **Atlas's universal-null-space entry on MEANING**:
+*"Shannon information theory explicitly excludes meaning. Physics has no concept of purpose.
+Mathematics has no concept of significance. Every framework treats meaning as either epiphenomenal
+or as a category error. DoPI's navigational framework … is the assertion that **meaning is a real
+feature of configuration space, not a projection onto it**."* That last clause is C16 in the source's
+own words and is the chapter's spine. **+ Doctrine §12.1–12.2** (Theorem 16, the Fundamental
+Oscillation, and *Resolving the Mystic-Existentialist Debate* — *"the existentialist is right: the
+boundaries are generative"*), which is where the **half-right** verdict comes from and where the
+source itself says which half. **+ §13.4 Culmination: The Ongoing Oscillation** — with the warning
+below. **+ Atlas #61 (Existential Philosophy of Suffering: Kierkegaard, Heidegger, Frankl, Weil)**
+for Frankl's three pathways and — ★ the gift — for the source's own card on the tradition, whose
+first listed null space is *"communal suffering (existentialism is almost entirely individualist —
+Kierkegaard's 'single individual,' Heidegger's Dasein, Sartre's pour-soi, Camus's rebel all face
+their crises alone)."* **The source has already diagnosed the exact half of the existentialist that
+collapses at 3am, on its own census card, and this book has never cited it.**
+⛔⛔ **THE FINDING, AND IT IS BIGGER THAN THIS CHAPTER: THE SOURCE STATES BOTH HORNS C16 REFUSES, IN
+TWO DIFFERENT SECTIONS, AND HAS NEVER BEEN CAUGHT AT EITHER.** C16 refuses *issued* (a mandate — C3
+forbids it, there is no intender) and *invented* (make-your-own, half right). **§13.4 issues it**:
+*"Every finite experience, no matter how painful or contracted, possesses ultimate meaning and value.
+It contributes a unique and irreplaceable quality to the cosmic totality, **imbuing all of existence
+with profound and inalienable purpose**."* That is a mandate, in the source's culminating paragraph,
+in the register C3 forbids. **§5.2 invents it**, via the Sartrean project, and VII.7 has just shown
+the source keeps a telos Sartre would have called bad faith. ★ **So beat 1 — *no summit, no author,
+no assignment* — is not a DESCRIPTION of the source. It is a CORRECTION of it**, on two counts, and
+the brief did not say so until this pass.
+⚠ **AND THE SAME PARAGRAPH IS ALREADY SPENT ONCE, ON A DIFFERENT CHARGE.** VII.5 quotes §13.4 in full
+and refuses it as a **theodicy** (C21). VII.8 must refuse it again as a **mandate** — same sentences,
+two separable defects, and only one has been paid. **Do not re-argue the theodicy; point at VII.5 and
+prosecute the other charge.** That the passage carries two independent failures is itself worth
+saying: a culminating paragraph that has to do consolation *and* purpose *and* closure in six
+sentences is where a framework's unpaid bills all come due at once.
+⛔ **THE SOURCE ALSO CONTRADICTS ITSELF ON C15's SUMMIT, ONE SECTION APART, AND THE BOOK HAS BEEN
+QUOTING ONLY THE HALF IT AGREES WITH.** **§13.1** states the telos as *"to overcome the very
+limitations that define its individuality and **return to a state of integrated unity with its
+source**"* — Trap 5, in the source's voice, under a heading reading *Reintegration*. **§13.4** then
+reverses it: *"The culmination is **not** a terminal state of static reintegration."* The source
+knows it is amending — it says §13.4 *"refines the traditional teleological account"* — but §13.1's
+thesis sentence and the section heading both stand unrepaired. ★ **What this costs us is honesty
+about originality, not correctness:** C15's refusal is *right*, and it is **less novel than the
+manuscript has implied**, because the source got to the same conclusion at §13.4 by a weaker route
+(the Promethean impulse is eternal, so the oscillation never terminates). **C15's route is the
+stronger one and should be said to be stronger rather than said to be the only one:** a metaphysics
+in which being-the-case requires a vantage cannot name the elimination of vantage as its goal.
+**Filed for the Book VIII pass on C15's establishing chapters — VIII.1 states the telos and must not
+present the refusal as unaccompanied.**
 **Beats:** no summit, no author, no assignment · ★ **neither issued nor invented** — the terrain is
 not yours and what you meet on it is not yours, **but the path is**: meaning is *found by traversal,
 and the traversal is authored* · why the existentialist is **half right**, and why the half he gets
