@@ -231,6 +231,130 @@ def carrier_claim(path, label, total_plan):
     return hits[-1], f"{label}: no CHAPTERS-DRAFTED slot — fell back to scraping prose, which reads corrections as errors"
 
 
+def carrier_words(path, label):
+    """
+    Pull the WORD-COUNT half of a carrier's progress claim — and it is a separate
+    function because for 56 chapters it was a separate, ungauged number sitting
+    inside the very sentence this tool certified.
+
+    ★ WHY THIS EXISTS (Day 190, evening). Every carrier writes the two figures
+    together — "56/67 · 193,656 words" — and this tool checked the first and
+    printed `✓ every carrier agrees with disk`, an unqualified sentence, directly
+    beneath a word count nothing had compared to anything. Measured at three
+    commits:
+
+        c3464cc  54/67  logged 183,182  disk 183,182   ✓
+        b1b9005  55/67  logged 188,754  disk 188,622   ✗ off by +132
+        3ca6376  56/67  logged 193,656  disk 193,646   ✗ off by +10
+
+    ⚠ THE FIRST DIAGNOSIS WRITTEN IN THIS DOCSTRING WAS WRONG, AND THE MEASUREMENT
+    THAT KILLED IT TOOK FIVE LINES. It said both errors were one accident —
+    measure, repair, publish the pre-repair number. Then the per-chapter figures
+    were swept against both counting methods:
+
+        VII.2  logged 8,376   prose 8,499   raw 8,690    neither
+        VII.3  logged 5,540   prose 5,450   raw 5,568    neither
+        VII.4  logged 5,572   prose 5,440   raw 5,572    RAW  ← exact
+        VII.5  logged 5,137   prose 5,024   raw 5,137    RAW  ← exact
+
+    TWO causes, not one. VII.4 and VII.5 hit raw `.split()` on the nose: those
+    chapters were counted with `wc -w`, which eats headings, `**`, table rows and
+    `---` as words — the exact hazard the comment at the top of this file already
+    warns about. And 183,182 + 5,572 = 188,754 exactly, so the 132 is not a
+    timing slip at all: it is a raw chapter figure ADDED to a gauge-true
+    cumulative instead of the gauge being re-run. VII.2 and VII.3 match neither
+    count, which IS the timing story — measured, then edited after.
+
+    Four of the last five per-chapter figures are wrong, by two mechanisms, and
+    the tidy single-cause story would have been committed as a comment and
+    believed. Both mechanisms produce numbers that look exactly as plausible as
+    the right one.
+
+    This is the local form of a standing lesson: instruments cluster on what is
+    cheap to check. Chapter count is a set of filenames — trivial. Word count
+    needs the prose loader, so it went unguarded, and it is the figure that gets
+    quoted to Clayton in the first line of every report.
+
+    The slot is an EXTENSION, not a replacement — `CHAPTERS-DRAFTED: 56/67`
+    still parses, so no carrier breaks by being old. Carrying no word figure is
+    a problem, not a pass: an unaudited number that gets read aloud is exactly
+    the state that produced the 132.
+    """
+    if not path.exists():
+        return None, None            # the chapter-count audit already reports MISSING
+    text = path.read_text(encoding="utf-8", errors="replace")
+    # ⚠ The separator class is deliberately wide, and v1's was not. v1 accepted
+    # `· 193,646 words` and nothing else — so it read handoff.json, which had
+    # declared `56/67 (193,656w)` all along, as carrying NO word figure. A check
+    # that misses the field reports "ungauged" and moves on, which is strictly
+    # worse than not checking: the real +10 error was sitting in the one carrier
+    # that had done the right thing, and the audit's own narrow regex hid it
+    # behind a complaint about the format.
+    slot = re.findall(
+        r"CHAPTERS-DRAFTED:\s*\d+\s*/\s*\d+\s*[·|,;(\[]?\s*([\d,]+)\s*(?:w\b|words)", text
+    )
+    if not slot:
+        return None, (
+            f"{label}: CHAPTERS-DRAFTED carries no word figure — but the carrier "
+            f"prints one in prose, so the number that gets quoted is ungauged. "
+            f"Extend the slot: `CHAPTERS-DRAFTED: N/M · W words`."
+        )
+    return int(slot[-1].replace(",", "")), None
+
+
+def status_prose(disk):
+    """
+    Audit the PER-BOOK prose in 00-ARCHITECTURE.md — `V (11/11), VI (8/8), VII (5/9)` —
+    against disk. The declared slot is one number; this is the sentence a human
+    actually reads, and until now nothing checked it.
+
+    ★ This function is the hand for a sentence that had none. 00-ARCHITECTURE.md
+    has said, since Day 189: *"A carrier check that reads one field is a
+    spellcheck for that field."* It said so because the per-book line had gone
+    eight chapters stale two lines under the warning about declared numbers
+    rotting. The diagnosis was exactly right, it was written in the file it
+    described — and it produced no instrument, so on Day 190 the same file's
+    prose was fourteen chapters stale again and the gauge still said everything
+    agreed.
+
+    Only Roman-numeral book claims are read, and only where the denominator
+    matches that book's planned length, so a chapter-local `(2/3)` in unrelated
+    prose is not mistaken for a progress claim.
+
+    ⚠ BACKTICKED SPANS ARE STRIPPED FIRST, and that is not tidiness — it is this
+    tool's oldest lesson arriving on schedule. `carrier_claim` above exists
+    because prose-scraping reads a CORRECTION as an ERROR: a document honest
+    enough to name its own stale number has to quote that number, and the quote
+    is written after the thing it corrects, so "last match wins" returns the
+    error every time. This function was written on Day 190 and failed on its
+    very first run for that reason — it flagged `V (2/11)`, which appears in
+    this file only inside the Day-189 note explaining that V (2/11) was wrong.
+    The repo's own convention already draws the line: a number being QUOTED goes
+    in backticks, a number being ASSERTED does not. So that is the rule here.
+    The cost is real and accepted — a live claim written in backticks is
+    invisible to this check.
+    """
+    if not ARCHITECTURE.exists():
+        return []
+    text = ARCHITECTURE.read_text(encoding="utf-8", errors="replace")
+    text = re.sub(r"`[^`]*`", " ", text)          # quoted ≠ asserted; see above
+    plan, _marked = planned()
+    out = []
+    for b, have, want in re.findall(
+        r"\b(I|II|III|IV|V|VI|VII|VIII)\s*\((\d+)\s*/\s*(\d+)\)", text
+    ):
+        have, want = int(have), int(want)
+        if want != len(plan.get(b, ())):
+            continue                      # not a book-progress claim; leave it alone
+        if have != len(disk.get(b, ())):
+            out.append(
+                f"00-ARCHITECTURE.md prose says Book {b} ({have}/{want}), "
+                f"disk says {len(disk.get(b, ()))} — the sentence a human reads, "
+                f"stale under a slot that passes"
+            )
+    return out
+
+
 def sync_scaffold(disk):
     """
     Rewrite 06-THE-SCAFFOLD.md's ✅ marks FROM DISK, so they are derived rather
@@ -332,6 +456,22 @@ def main():
                 f"{label} claims {claim[0]} of {claim[1]}, disk says {total_disk} "
                 f"(off by {claim[0] - total_disk:+d})"
             )
+
+        # The other half of the same sentence — see carrier_words. Exact, no slack:
+        # both sides are computed by the same prose loader, so any gap is a stamp
+        # taken before the last repair, which is precisely the 132.
+        wclaim, werr = carrier_words(path, label)
+        if werr:
+            problems.append(werr)
+        if wclaim is not None and wclaim != total_words:
+            problems.append(
+                f"{label} claims {wclaim:,} words, disk says {total_words:,} "
+                f"(off by {wclaim - total_words:+,d}) — check BOTH known causes: a "
+                f"raw `wc -w` count added to a gauge-true cumulative, or a figure "
+                f"measured before the last edit. Re-run this tool; do not hand-add."
+            )
+
+    problems.extend(status_prose(disk))
 
     reg = register_claims()
     if reg:

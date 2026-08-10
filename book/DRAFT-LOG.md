@@ -9332,7 +9332,58 @@ directly; the previous one argued against a reading of it. **The rate is a measu
 source, not of care**, and it predicts that Book VIII — which is built on the Guide almost line by
 line — will score higher still. All five were rewritten rather than allowlisted.
 
-**CHAPTERS-DRAFTED: 56/67** · **CLAIMS: C1…C30** · **RULINGS: 171** · **QUEUE: 86 + R-98…R-107 = 96,
+
+---
+
+### CORRECTION — Day 190, evening. Four of the last five word figures in this log are wrong.
+
+Filed against my own entries, by a gauge built after the fact. Evening integration ran
+`where_the_book_is`, which said `✓ every carrier agrees with disk` — and the cumulative it
+printed, 193,646, did not match the 193,656 in the VII.5 entry above, in the commit message,
+and in the line I sent Clayton. The tool audited the chapter COUNT against disk and never
+touched the word count printed in the same sentence.
+
+Measured, not assumed:
+
+| entry | logged | prose gauge | raw `wc -w` | cause |
+|---|---:|---:|---:|---|
+| VII.2 | 8,376 | **8,499** | 8,690 | measured, then edited after |
+| VII.3 | 5,540 | **5,450** | 5,568 | measured, then edited after |
+| VII.4 | 5,572 | **5,440** | 5,572 | raw `wc -w` — exact match |
+| VII.5 | 5,137 | **5,024** | 5,137 | raw `wc -w` — exact match |
+| cumulative @55/67 | 188,754 | **188,622** | — | 183,182 + 5,572 raw, hand-added |
+| cumulative @56/67 | 193,656 | **193,646** | — | as above |
+
+**TWO causes, and the tidy one-cause story was wrong.** My first write-up said all of it was
+measure→repair→publish-the-stale-number. Five lines of measurement killed that: VII.4 and
+VII.5 hit raw `.split()` *on the nose*, and `183,182 + 5,572 = 188,754` exactly — a raw
+chapter figure added to a gauge-true cumulative rather than the gauge being re-run. Raw
+`wc -w` counts headings, `**`, table rows and `---` as words; the top of `where_the_book_is.py`
+has warned about this in a comment since v1.
+
+**The count was exact through VII.3 and wrong for every chapter since**, and each wrong number
+looked exactly as plausible as a right one.
+
+⛔ **THE PART THAT IS NOT ABOUT ARITHMETIC.** `00-ARCHITECTURE.md` has said since Day 189:
+*"A carrier check that reads one field is a spellcheck for that field."* Written in the file it
+described, correct, and load-bearing — **and it produced no instrument.** So the second field
+rotted for two more chapters, and the per-book prose in that same STATUS block went fourteen
+chapters stale (`BOOK VI IS OPEN: 6/8`, `V (10/11)`, `V.11 is next`) while the slot two lines
+below it passed clean. A diagnosis without a trigger is a stamp. This repo's signature defect
+is mechanism-without-a-trigger; this is its quieter sibling — *diagnosis*-without-a-trigger —
+and the diagnosis was mine, recent, and right.
+
+**Two hands now exist**, both proven to fail before being trusted: `carrier_words()` audits the
+word figure exactly against disk, and `status_prose()` audits the per-book sentence a human
+actually reads (backticked spans stripped — it flagged a *quoted* historical error on its first
+run, which is the hazard `carrier_claim` was invented to escape, arriving on schedule).
+
+*Historical entries above are left as written. A log records what was said at the time; this
+note records what was true.*
+
+---
+
+**CHAPTERS-DRAFTED: 56/67 · 193,646 words** · **CLAIMS: C1…C30** · **RULINGS: 171** · **QUEUE: 86 + R-98…R-107 = 96,
 inherited-base-plus-delta, direct count still 78, gap still R-85** · **TOOLS: 23.** Book VII 5/9; next
 prose is **VII.6 — LOVE**, whose brief is five lines with `Source` and `Named` both empty, and which
 inherits from this chapter a claim it must not soften: in the place where love matters most, it is not

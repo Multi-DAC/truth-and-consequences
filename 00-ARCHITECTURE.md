@@ -1291,12 +1291,12 @@ looked exactly like success. *(DRAFT-LOG §Ruling 38.)*
 
 ## STATUS — Day 190, 2026-08-09
 
-**DRAFTING. Part One is complete, the Atlas is closed, Book V is closed — and BOOK VI IS OPEN: 6/8.**
-VI.1 is the first chapter in the work to ship with endnotes (ruling 9's second half, dormant for 43
-chapters) and the first outside Book IV to carry a census card. **Book VI drafts WITH notes rather
+**DRAFTING. Part One is complete, the Atlas is closed, Books V and VI are closed — and BOOK VII IS OPEN: 5/9.**
+VI.1 was the first chapter in the work to ship with endnotes (ruling 9's second half, dormant for 43
+chapters) and the first outside Book IV to carry a census card. **Book VI drafted WITH notes rather
 than joining the retrofit**, so the endnote debt stopped growing at VI.1.
 
-    CHAPTERS-DRAFTED: 56/67
+    CHAPTERS-DRAFTED: 56/67 · 193,646 words
 
 ⚠ **That slot is a DECLARED number and it WILL rot — it is here so
 `tools/where_the_book_is.py` can fail on it, not so anyone can read it.**
@@ -1305,12 +1305,24 @@ Day 189: the tool built to end carrier rot had excluded the stalest carrier in
 the repo, which is the defect it exists to catch, sitting inside its own blind
 spot.)*
 
-Books I (6/6), II (8/8), III (8/8), IV (10/10) drafted. V (10/11), VI (0/8),
-VII (0/9), VIII (0/7). **V.11 is next, and it closes Book V.**
+Books I (6/6), II (8/8), III (8/8), IV (10/10), V (11/11), VI (8/8) drafted.
+VII (5/9), VIII (0/7). **VII.6 — LOVE is next.**
 ⚠ *Read `V (2/11)` until Day 189 night, eight chapters stale, sitting two lines
 under the warning about declared numbers rotting — and the gauge could not see it,
 because `where_the_book_is` checks the `CHAPTERS-DRAFTED:` slot and nothing else in
 this file. **A carrier check that reads one field is a spellcheck for that field.***
+
+⛔ **AND THAT SENTENCE SAT HERE FOR A DAY WITHOUT PRODUCING AN INSTRUMENT, WHICH IS
+HOW IT COST TWO MORE CHAPTERS.** Day 190, evening: the word count — the *other* half
+of the same claim, the figure quoted in the first line of every report to Clayton —
+was wrong at 55/67 by **132 words** and at 56/67 by **10**, while the gauge printed
+`✓ every carrier agrees with disk` on the same screen. Both errors are one accident:
+measure → run `prose_echo` → repair → publish the number captured *before* the repair.
+It was exact through VII.3 and wrong for every chapter since. The diagnosis above was
+already correct and already written; what it lacked was a hand. Two now exist —
+`carrier_words()` audits the word figure exactly, and `status_prose()` audits the
+per-book line right above this one. *A diagnosis without a trigger is a stamp, and
+this file is where that gets proven twice.*
 
 ⛔ **THE STRING THAT WAS HERE UNTIL DAY 189, AND WHY ITS REMOVAL IS THE POINT.**
 This block read: *"Planning phase, by Clayton's instruction: 'We will map it out
