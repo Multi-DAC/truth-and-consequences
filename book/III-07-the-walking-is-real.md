@@ -102,7 +102,7 @@ in 1917. The first edition of five years earlier does carry the series, and its 
 twenty-seven:
 
 > Caminante, no hay camino,
-> se hace camino al andar.
+> se hace camino al andar.[^1]
 
 *Walker, there is no road; the road is made by walking.* It is the most quotable thing anyone has
 said about this, and it is also, read flat, the denial of everything Book III has established. We
@@ -143,7 +143,7 @@ you what a lived history is like, and reaching for a road to do it with. They li
 to hang their final chapter on it — *Laying Down a Path in Walking*, chapter eleven, the last thing
 in the book. They do not say where it came from. Machado is not in that book anywhere. The
 attribution circulates confidently and it lives in the commentary about the text rather than in the
-text, which is a different address and worth knowing the difference between.
+text, which is a different address and worth knowing the difference between.[^2]
 
 Their sentence is ours with one word moved. Lived histories exist only as they are laid down in
 walking, and that is exactly the claim: **the laying down is not the manufacture of the ground, it
@@ -162,7 +162,7 @@ writing about games, in *Philosophy of Science*, in 1967. **Bernard Suits:**
 > To play a game is to engage in activity directed toward bringing about a specific state of
 > affairs, using only means permitted by specific rules, where the means permitted by the rules are
 > more limited in scope than they would be in the absence of the rules, and where the sole reason
-> for accepting such limitation is to make possible such activity.
+> for accepting such limitation is to make possible such activity.[^3]
 
 Read the last clause twice. The limitation is not a tax on the activity, not the price of admission,
 not what is left after the referees have had their share. **It is what makes the activity exist.**
@@ -182,7 +182,7 @@ without a signature.
 constitute, Carse shows what freedom is doing inside a game in the first place:
 
 > It is an invariable principle of all play, finite and infinite, that whoever plays, plays freely.
-> Whoever must play, cannot play.
+> Whoever must play, cannot play.[^4]
 
 He is not offering that as consolation and neither are we. It is a remark about what the word can
 mean. An activity from which the freedom has been removed is not a constrained version of that
@@ -192,7 +192,7 @@ the walking for a hidden ingredient. Take the freedom out and there is nothing l
 still walking and merely unfree.
 
 His book opens on a distinction that gets its work much later: *a finite game is played for the
-purpose of winning, an infinite game for the purpose of continuing the play.* It is left standing
+purpose of winning, an infinite game for the purpose of continuing the play.*[^5] It is left standing
 here, unspent, because the telos it names is stated in Book VIII and not before. But it earns one
 line now. **The suspicion that a traversal with no summit must be a consolation prize is a finite
 player's suspicion**, and it has been named as such since 1986 by somebody who was not defending us.
@@ -255,3 +255,56 @@ a conclusion.
 
 You will stand up from this page and cross a room, and every state of that crossing is already in
 the whole, and none of it is happening anywhere but under your feet.
+
+---
+
+## Notes
+
+[^1]: Antonio Machado, *Proverbios y cantares* XXIX. ⚠ **The citation almost always given for this
+is wrong and the body's is the corrected one.** The poem is routinely cited to *Campos de Castilla*
+(Madrid: Renacimiento, 1912); the *Proverbios y cantares* series is in that first edition, but it
+**ends at XXVII**, and XXIX enters with *Poesías completas* in 1917. Checked against the
+archive.org scan of the 1912 printing: the series is there, XXVII is there, XXIX is not, and *no
+hay camino* returns nothing. ⚠ **A first pass at that scan reported the series itself absent, and
+that zero was an artifact of the search rather than a fact about the book** — the scan sets the
+title in unaccented capitals, so a lowercase query missed a heading that is plainly on the page.
+The null was corrected by looking; it is recorded here because a null nobody re-runs is
+indistinguishable from a finding. ⚠ **The two lines quoted are the only two the available witnesses
+agree on word for word.** Two digitisations of the poem differ in punctuation throughout (*el
+camino, y nada más* / *el camino y nada más*; *no hay camino:* / *no hay camino,*) and in line 5
+(*Al andar se hace camino* / *se hace el camino*). Neither is a scholarly edition. Line 5 is the
+tempting one and is left out on purpose. The English under the Spanish is this book's plain
+rendering, not a published translation.
+
+[^2]: Varela, Thompson and Rosch, *The Embodied Mind* (Cambridge, Mass.: MIT Press, 1991), closing
+the argument of ch. 9; the title of ch. 11 is "Laying Down a Path in Walking." Both verified in two
+independent digitisations. ★ **This note exists because of what the sentence loses when it is cut,
+and the cut version is the one in general circulation.** *Paths that exist only as they are laid
+down in walking* is a real substring, verbatim, in that order — and it is a **simile** whose
+subject is *histories that are lived*. Excising it removes *much like* and the subject, and the
+fragment then reads as a thesis about paths, which is nearly the opposite of what the sentence
+says. ⚠ **The ordinary check — is every word theirs, in this order — passes, and the quotation is
+still wrong.** ⚠ **And the attribution to Machado is not in the book.** Measured across both
+digitisations: *Machado* 0, *caminante* 0, *camino* 0, *huellas* 0, *estelas* 0, *Wanderer* 0. They
+name no source for the image. A widely repeated claim that Varela credits Machado for it in this
+book is false; whether he does so elsewhere is a separate question and is not asserted here.
+
+[^3]: Bernard Suits, "What Is a Game?", *Philosophy of Science* 34, no. 2 (1967), 148–156; the
+definition quoted is from §7, "The Definition," p. 156, and is also the paper's abstract. Verified
+word for word in three places: the abstract, the section, and the publisher's own text layer.
+★ **The famous six-word version — *the voluntary attempt to overcome unnecessary obstacles* — is
+from *The Grasshopper: Games, Life and Utopia* (Toronto: University of Toronto Press, 1978), and
+this chapter deliberately does not quote it.** The one digitisation of that book reachable here is
+lending-restricted and its text layer could not be opened; the slogan is available only from
+tertiary sources, which **disagree with each other on the bracketing of the fuller definition**. So
+the earlier paper is quoted instead — the same doctrine before Suits coined *lusory*, and better
+suited to the argument, because *the sole reason for accepting such limitation is to make possible
+such activity* states constraint-as-constitutive without a term needing to be defined first.
+
+[^4]: James P. Carse, *Finite and Infinite Games: A Vision of Life as Play and Possibility* (New
+York: Free Press, 1986), §3. Verified in two digitisations; the second carries OCR damage in the
+surrounding lines (*infnite*, *held* for *field*) and the quoted sentences are identical in both.
+
+[^5]: *Finite and Infinite Games*, §1 — the book's opening distinction, quoted here and deliberately
+left unspent. ⚠ The body's "twenty years later" is round: Suits's paper is 1967 and Carse's book is
+1986, which is nineteen.

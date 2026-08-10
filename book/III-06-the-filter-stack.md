@@ -55,12 +55,12 @@ had been through cognitivism and through the emergence programme, putting the sa
 each, and when their turn came they answered the first one like this:
 
 > Question 1: What is cognition?
-> Answer: Enaction: A history of structural coupling that brings forth a world.
+> Answer: Enaction: A history of structural coupling that brings forth a world.[^1]
 
 A history. Not a mechanism, not an architecture, not a stock of representations — a history, with the
 weight on the word. What a system meets, it meets with what its previous meetings made of it, and
 what it is, its milieu has had a hand in. The relation runs both directions and they are exact about
-which two things are doing it: *organism and medium mutually specify each other.* Nothing was fixed in
+which two things are doing it: *organism and medium mutually specify each other.*[^2] Nothing was fixed in
 advance for the other to adapt to. That is co-constitution, run backwards along the whole length of
 the thing.
 
@@ -68,7 +68,7 @@ And the timescales come in one clause of theirs, which is the sentence this chap
 Writing about colour categories — red, green, yellow, blue, and also *yellow-with-green*, which they
 report as an otherwise rare basic category encoded by many Native American languages of the Pacific
 Northwest — they call the lot of them *experiential, consensual, and embodied*, and then say what they
-rest on: *they depend upon our biological and cultural history of structural coupling.*
+rest on: *they depend upon our biological and cultural history of structural coupling.*[^3]
 
 Biological *and* cultural. One clause, two clocks, and no seam between them. The distinction the five
 recited items keep implying — that the deep filters are the ones you were born with and the installed
@@ -78,7 +78,7 @@ only one of them is short enough to have happened where you could watch.
 
 There is more in their account than a slogan, and the part that matters here is what the history does
 *not* do. Under coupling, the medium *triggers (but does not specify)* — their parenthesis, in the
-middle of a numbered list about evolution. What you meet does not dictate what gets laid down. It sets
+middle of a numbered list about evolution.[^4] What you meet does not dictate what gets laid down. It sets
 off a process whose outcome is decided by what the thing already is. That is the mechanics of
 installation stated in five words, and it is why two people can be in one era and come out of it
 carrying different filters: an era is a perturbation, not an instruction.
@@ -96,7 +96,7 @@ becomes an "odd sequence recognizer."* A distinction that exists for that ring a
 never designed, laid down by what it went through.
 
 They then say, plainly and without being asked, that they do not intend to suggest such a simple
-closure and coupling is *sufficient for a system to experience a world.* Take the disclaimer at face
+closure and coupling is *sufficient for a system to experience a world.*[^5] Take the disclaimer at face
 value; they were being careful, and being careful is the reason their book is worth this much of a
 chapter. But note what it is a disclaimer about. It is about experience. **The machinery of
 installation was demonstrated on a ring of Boolean cells, and it worked there.** Whatever is true
@@ -144,7 +144,7 @@ confused with
 > the more commonplace view that different perceiving organisms simply have different perspectives on
 > the world. This view continues to treat the world as pregiven; it simply allows that this pregiven
 > world can be viewed from a variety of vantage points. The point we are making, however, is
-> fundamentally different.
+> fundamentally different.[^6]
 
 *Different perspectives on the world* keeps the world and hands out seats around it. It is the
 generous-sounding version and it concedes nothing, because the thing every seat is a seat on is still
@@ -156,7 +156,7 @@ the histories that produced them are *vastly different*; and the conclusion they
 chapter needs. Our perceived world of colour, they write, *should not be considered to be the optimal
 "solution" to some evolutionarily posed "problem."* It is *one possible and viable phylogenic pathway
 among many others.* And of coupling histories in general: *not optimal; they are, rather, simply
-viable.*
+viable.*[^7]
 
 There is the rank ordering of worlds, refused — not on metaphysical grounds, and not by us. Viable is
 a floor and optimal is a summit, and the difference between those two words is the difference between
@@ -231,3 +231,51 @@ There is no such person and never was one. The strata are not covering a witness
 witness. And that is not a smaller thing to be than the one who would have seen it plain — it is the
 only thing there has ever been to be, and it is the only thing that can be worked on, which is
 precisely why the work is available at all.
+
+---
+
+## Notes
+
+[^1]: Francisco J. Varela, Evan Thompson and Eleanor Rosch, *The Embodied Mind: Cognitive Science
+and Human Experience* (Cambridge, Mass.: MIT Press, 1991), the enactive answers to the book's three
+standing questions, ch. 9, p. 206. ★ **Every quotation from this book in this chapter was checked
+against two independent digitisations of the 1991 text and agrees in both**, which is the grade
+this project calls two-digitisation and does not claim without running it. ⚠ **The page numbers,
+however, are a weaker thing than the spans.** They are read off the page markers of those
+digitisations, not off a printed copy, so they should be treated as locating the passage rather
+than as certifying a line. The chapter numbers are certain.
+
+[^2]: *The Embodied Mind*, ch. 9, p. 197, in the account of structural coupling. The reciprocity is
+theirs and is the reason the chapter takes their history whole rather than in part: it is not a
+claim that the milieu shapes the organism, which nobody disputes, but that neither term is fixed in
+advance of the other.
+
+[^3]: *The Embodied Mind*, ch. 8, around p. 171, on colour categories. The *yellow-with-green*
+category the body mentions is theirs, reported as an otherwise rare basic category found in a
+number of Native American languages of the Pacific Northwest. The clause the chapter needs is the
+conjunction — *biological and cultural* — because it is what collapses the distinction between the
+filters one is born with and the filters one acquires.
+
+[^4]: *The Embodied Mind*, ch. 9, p. 197. The parenthesis is theirs and is quoted with its brackets
+intact, which matters: *triggers (but does not specify)* is doing the work, and a version of the
+sentence without the parenthetical would say the opposite of what the body takes from it.
+
+[^5]: *The Embodied Mind*, ch. 8, pp. 151–157, for Bittorio and the odd-sequence recogniser; the
+disclaimer quoted at the end is at p. 156. ⚠ **One span, and only this one, failed the
+two-digitisation check** — *sufficient for a system to experience a world* appears in one of the two
+texts and not in the other. It is an OCR loss rather than a variant: the surrounding sentence is
+present in both, and the shorter text drops a line there. Recorded rather than smoothed, because a
+one-of-two result is not a two-of-two result and the difference is the whole point of running the
+check.
+
+[^6]: *The Embodied Mind*, ch. 9, pp. 202–203. This is the passage the chapter most needs, because
+it is the authors themselves refusing the friendly misreading — that enaction amounts to different
+creatures having different views of one world — and refusing it in their own words rather than
+under our pressure.
+
+[^7]: *The Embodied Mind*, ch. 8, p. 183, for the colour argument and *one possible and viable
+phylogenic pathway among many others*; the general statement, *not optimal; they are, rather,
+simply viable*, is ch. 9, p. 205. Their spelling *phylogenic* is retained above rather than
+corrected to *phylogenetic*. The rejection of a rank ordering of perceptual worlds is theirs, made
+on evolutionary grounds and not on the metaphysical grounds this chapter would otherwise have had
+to supply — which is why it is quoted rather than argued.
