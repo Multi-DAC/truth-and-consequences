@@ -356,6 +356,69 @@ def status_prose(disk):
     return out
 
 
+CARRIER_SLOT = re.compile(
+    r"(CHAPTERS-DRAFTED:\s*)(\d+)(\s*/\s*)(\d+)(\s*[·|,;(\[]?\s*)([\d,]+)(\s*(?:w\b|words))"
+)
+
+
+def sync_carriers(total_disk, total_plan, total_words):
+    """Write the measured figures BACK into the four carriers. The hand this file
+    spent four hundred lines diagnosing and never grew.
+
+    ★ WHY THIS EXISTS, and it is this tool's own standing lesson turned on itself.
+    `--sync` has existed for some time and syncs ONE thing: the scaffold's
+    headings. Headings are a set of strings — cheap. The word count needs the
+    prose loader, drifts on EVERY edit including the one that adds an endnote,
+    and is the figure quoted aloud in the first line of every report. So the
+    flag named `--sync` synced the cheap carrier and left the expensive one to be
+    retyped by hand, every time, forever. *Instruments cluster on what is cheap
+    to check* is written in `carrier_words`'s own docstring, forty lines up, as a
+    diagnosis. This is the same sentence with a hand on it.
+
+    ⛔ SCOPE, STATED SO IT IS NOT OVER-READ. This rewrites the numeric fields of
+    the `CHAPTERS-DRAFTED:` slot and NOTHING ELSE. It does not touch the per-book
+    prose in 00-ARCHITECTURE.md — `status_prose` audits that, and a sentence
+    needs judgement to rewrite, not a regex. A carrier can be synced by this and
+    still be flagged by that, which is correct and not a contradiction.
+
+    Every rewrite is printed with its before and after, on the same argument the
+    exclusion lists are printed on: a wrong write must be legible in the output
+    on the first run, not discovered later by a number that disagrees.
+    """
+    for path, label in ((HANDOFF, "handoff.json"), (DRAFT_LOG, "DRAFT-LOG.md"),
+                        (ARCHITECTURE, "00-ARCHITECTURE.md"),
+                        (WORKING_MEMORY, "carapace working_memory.json")):
+        if not path.exists():
+            print(f"  ⚠ {label}: MISSING — not synced")
+            continue
+        text = path.read_text(encoding="utf-8", errors="replace")
+        hits = list(CARRIER_SLOT.finditer(text))
+        if not hits:
+            print(f"  ⚠ {label}: no CHAPTERS-DRAFTED slot to sync — the audit below"
+                  f" will say so too")
+            continue
+
+        # ⛔ THE LAST SLOT ONLY, and this is not a detail. DRAFT-LOG.md is a LOG:
+        # it carries one CHAPTERS-DRAFTED line per entry, and the first version of
+        # this function rewrote ALL of them — 60/67 and 66/67 became 67/67 and the
+        # drafting history was gone, silently, in a function whose whole purpose is
+        # to stop carriers lying. Caught on a COPY, by standing order, before it
+        # touched a real file. `carrier_words` reads `slot[-1]`; the writer must
+        # target exactly what the reader reads or the two disagree by construction.
+        m = hits[-1]
+        was = f"{m.group(2)}/{m.group(4)} · {m.group(6)} words"
+        now = f"{total_disk}/{total_plan} · {total_words:,} words"
+        if was.replace(",", "") == now.replace(",", ""):
+            print(f"  · {label}: already agrees with disk")
+            continue
+        fixed = (f"{m.group(1)}{total_disk}{m.group(3)}{total_plan}"
+                 f"{m.group(5)}{total_words:,}{m.group(7)}")
+        stale = len(hits) - 1
+        tail = f"   ({stale} earlier slot(s) left alone — log history)" if stale else ""
+        print(f"  ✎ {label}: {was}  →  {now}{tail}")
+        path.write_text(text[:m.start()] + fixed + text[m.end():], encoding="utf-8")
+
+
 def sync_scaffold(disk):
     """
     Rewrite 06-THE-SCAFFOLD.md's ✅ marks FROM DISK, so they are derived rather
@@ -403,6 +466,15 @@ def main():
     if "--sync" in sys.argv:
         sync_scaffold(disk)
     plan, marked = planned()
+    if "--sync" in sys.argv:
+        # AFTER planned(), because sync_scaffold rewrites the file planned() reads
+        # and the denominator must come from the post-sync scaffold. BEFORE the
+        # audit prints, so the report below is post-sync truth rather than a
+        # complaint about a file this same run just repaired.
+        sync_carriers(sum(len(v) for v in disk.values()),
+                      sum(len(v) for v in plan.values()),
+                      sum(words.values()))
+        print()
 
     total_disk = sum(len(v) for v in disk.values())
     total_plan = sum(len(v) for v in plan.values())
