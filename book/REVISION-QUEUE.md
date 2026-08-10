@@ -1315,3 +1315,40 @@ real labelling defect underneath the subject-matter floor. **Establishing that n
 same shape** — a passage by a human writer whose subject is also grief — and the project has no such
 control. **TRIGGER: before any Book VII chapter's storyscope output is read as evidence.** Until
 then the column is a description of the topic. small (the declaration) + medium (the control corpus)
+
+**FILED — R-83: `dyn_range_CV` AND `voice_uniformity` DISAGREE ABOUT THE SAME FILE, SO R-81 IS
+MEASURING TWO THINGS AND PRESCRIBING ONE REPAIR.** `storyscope_lite`'s own footer reads both columns
+as one fingerprint — *`dyn_range_CV` LOWER = flatter = the Claude fingerprint · `voice_uniformity`
+HIGHER = flatter = the Claude fingerprint.* **VII.2 scores non-Claude on the first and
+most-Claude-in-the-sample on the second, in the same 8,499 words:** `dyn_range_CV` **0.550** —
+above Clayton's 0.493 and above my raw prose's 0.505, the highest figure this project has measured —
+while `voice_uniformity` is **0.6943**, the highest of every chapter sampled. ⚠ **A text cannot be
+simultaneously the least flat and the most flat.** At most one of those columns is measuring the
+fingerprint. ★ **And the house band is not what R-81 assumed:** VII.1 0.6884 · IV.5 0.6827 · III.5
+0.6077 · VII.2 0.6943. VII.1's pre-repair **0.771 was the outlier**; its repaired 0.713 and VII.2's
+0.6943 are ordinary for this manuscript. R-81 read a repair that "closed roughly half the gap" as a
+fingerprint surviving — **the alternative reading, which the row did not consider, is that the repair
+moved the text to the house norm and the house norm is where it already was.** ⚠ **This does not
+refute R-81** — the death-chapter dynamic range really was low (0.345) and really did resist repair.
+It refutes the row's *scope*: whatever `voice_uniformity` tracks, VII.2 shows it is not escalation
+dynamics, so escalation repair was never going to move it and its failure to move is not evidence of
+anything surviving. **TRIGGER: before R-81's repair is attempted anywhere.** Establishing which
+column is the real one needs the two run against a text of KNOWN authorship and known register — the
+same control R-82 already asks for and the project already lacks. **Do not spend a repair on a
+composite signal.** small (the declaration) + medium (shared with R-82's control corpus)
+
+**FILED — R-84 (DISCHARGED ON ARRIVAL, recorded for the size of what it did NOT change):
+`endnote_debt.py` READ ONLY THE FIRST LINE OF EVERY RECEIPT.** `NOTE_DEF` compiles with `re.M` and
+not `re.S`, so `(.*)$` stops at the newline; every note in this book is wrapped to ~80 columns, so
+**any authority credited on line 2 or later of a note was invisible to `scan_notes` and the chapter
+reported it as an unpaid source.** Found at VII.2, where Kant is credited in the second line of
+`[^17]` and the chapter still printed `⚠ Kant` after the receipt was written. **Fixed** — the scanner
+now splits on the note marker and reads each note's whole body. ⚠ **And the honest size, because the
+temptation is to call this a mismeasured backlog and it is not one:** book-wide coverage moved
+**30/124 → 34/124** (24% → 27%), four sources, all in Book VI. **Books II–V have zero notes at all**,
+and a first-line reader and a whole-body reader agree exactly on zero — so the 41-chapter retrofit
+queue was never mismeasured. ★ **The defect was sized to the work not yet done: it would have
+under-credited every receipt written from the retrofit onward, and it was found by the last chapter
+before that retrofit begins.** The fix also widens the tool's standing LIMIT — it cannot tell a cited
+authority from a name that merely appears, and it now cannot tell across a longer window. Recorded in
+the docstring rather than left for the next reader to rediscover. done

@@ -8951,3 +8951,63 @@ deliberately left unfilled · `vague_allusion` **0.0** · `somatic` **0.0** · `
 0.041.
 
 **CHAPTERS-DRAFTED: 52/67** — the declared slot. Book VII opens; 15 chapters left.
+
+---
+
+## DAY 190 — VII.2, WHAT THE NO-NPC RULE COSTS
+
+**`book/VII-02-what-the-no-npc-rule-costs.md` · 8,376 words · 53/67 · 177,280 words.** The findings
+live in `06`'s VII.2 entry and are not duplicated here; what follows is the log's own half.
+
+**The chapter ran long and did not split — R-33 held**, and it ran longer than R-33 anticipated
+(6–7k briefed, 8,376 delivered). Eleven beats plus the section 156(d) added. It is the longest
+chapter in Book VII and the fourth-longest in the manuscript.
+
+**Tenth consecutive chapter out-found by its own pre-draft screen, and 156(d) fired a fifth time.**
+The finding: **C19 lists VII.2 in its `Depends` and no beat carried it**, and the job hidden there
+was that the asymmetric-cost argument has a terminus at *each* end — the stingy one is C19's
+contractive terminal doctrine, the generous one is Naess's Self-realization, and the Null-Space
+Theorem kills both by the same route. ★ **The one that had no guard was the generous end, and it
+fails in the direction that looks like virtue**, which is exactly why eleven beats and two rewrites
+had not seen it. C6's Watts trap is breached by the same sentence.
+
+**R-34 was the largest missing-ancestor block in the work and it is paid.** Nine names read to the
+point where each could be cut at a different joint rather than cited. **The corpus screen's finding is
+the shape of the hole:** the quarry says *obligation* 96 times, *asymmetric* 224 times, and *Jonas*
+zero — Stone, Leopold, Regan, Midgley, French, Naess, Schweitzer, `land ethic`, `animal rights`,
+`moral circle` all zero, Korsgaard 14 and book-zero. **This chapter was not missing an ancestor. It
+was missing a literature**, and `ancestor_gap` says why: Levinas 39 book-zero, `I-Thou` 16, Buber 5.
+**The archive collected the ancestors of the face and none of the ancestors of the faceless.** Second
+consecutive chapter with that shape, so it is a property of the archive, not of a chapter.
+
+⚠ **`corpus_support` REFUSED THE FIRST RUN AND WAS RIGHT TO.** I passed `Schweitzer` — a known zero —
+in `--controls`, the slot for terms that cannot honestly be absent, and the tool suppressed every
+count rather than print a null with no positive control. **Logged because a suppressed run looks
+exactly like a broken tool**, and the next person to see `⛔ RUN INVALID` should know the first
+suspect is the invocation.
+
+⚠ **`endnote_debt.py` HAD READ ONLY THE FIRST LINE OF EVERY RECEIPT SINCE IT WAS WRITTEN.** `NOTE_DEF`
+compiles `re.M` without `re.S`; every note in this book wraps at ~80 columns; so any authority
+credited on line 2 of a note was invisible and printed as an unpaid source. Found because VII.2 kept
+reporting `⚠ Kant` after Kant was credited in `[^17]`. **Fixed** (split on the note marker, read the
+whole body). **Book-wide coverage 30/124 → 34/124.** ★ **The honest size is the point: Books II–V
+have no notes at all, so a first-line reader and a whole-body reader agree exactly on zero and the
+41-chapter retrofit backlog was never mismeasured.** The defect was sized to the work not yet done —
+it would have under-credited every receipt written *from the retrofit onward* — **and it was found by
+the last chapter drafted before that retrofit begins.** → R-84.
+
+⚠ **THE PROSE-ECHO ALARM WAS 33 GRAMS AND THE DEFECT WAS TEN OF THEM.** IV.7 ~ VII.2 came back the
+heaviest pair in the manuscript; 31 of 33 were `[q]`-marked quotation and legitimate. The real find
+was three sentences lifted verbatim from IV.5 and IV.7 and set in **bold** or plain text instead of
+as quotation. **A count would have sent me to cut the quotations and leave the unmarked reuse.**
+Read the column, not the number — the tool's own footer says so and this is the first time it
+mattered.
+
+⚠ **AND ONE ROW WAS WITHDRAWN BEFORE IT WAS FILED.** `named_ref` 18.36/1k against human baselines of
+~44 read as *this chapter argues too abstractly*. Measured first: VII.1 13.79, IV.5 11.43, III.5
+9.70. **VII.2 is the highest of the four.** The baselines are correspondence; the chapters are
+chapters, and the column was comparing genres. `meta_textual` 3.65 fell the same way — below VII.1's
+5.41. **Two findings killed by running the control before writing the row**, which is cheaper than
+the alternative and does not feel like progress at the time.
+
+**CHAPTERS-DRAFTED: 53/67** — Book VII is 2/9; 14 chapters left.

@@ -3442,7 +3442,115 @@ That application is **new here and is not in III.4**, which is why the endnote s
 **Why it is first:** it is the question the ruled reader most often arrived with, and every prior
 answer they tried was either a promise or a shrug.
 
-### VII.2 — WHAT THE NO-NPC RULE COSTS
+### VII.2 — WHAT THE NO-NPC RULE COSTS ✅ DRAFTED — 8,376 words
+✅ **DRAFTED Day 190 · `book/VII-02-what-the-no-npc-rule-costs.md`.** All 11 beats land, plus the
+C19 section 156(d) added. **R-33 held: it ran long and did not split** (Book IV scale, and longer
+than the 6–7k the ruling anticipated). `claim_sweep` **0 USE-class hits** — the first new chapter in
+Book VII to ship clean. `card_sweep` **null=7 bound=7 compl=1 navig=0 ✓ CARDED** against VII.1's
+`partial`. `vague_allusion` **0.0**. `endnote_debt` **square, 7/7**, after the gauge itself was
+repaired (R-84). `order_sweep` unchanged: 0 false handoffs.
+⚠⚠ **156(d) FIRED A FIFTH TIME, AND WHAT IT FOUND WAS THE LIMITER THIS BRIEF HAD WRONG.** Six claims
+list VII.2 in `Depends` — C6, C7, C8, C9, C18, C19. C8 and C9 are carried by the beats and C7 is
+carried implicitly. **C19 — the asymmetry, exactly bounded — was carried by nothing**, and its trap
+is *widening it*. ★ The job it hides: **the asymmetric-cost argument has a terminus at EACH end and
+the brief's limiter only guards one of them.** The stingy terminus is C19's contractive terminal
+doctrine (*I am the totality; nothing is not mine*) in ordinary clothes. The generous terminus is
+**Naess's Self-realization** — widen the circle until the boundary dissolves and the sentence becomes
+true with warm affect instead of predatory affect — **and the Null-Space Theorem kills it for exactly
+the same reason.** A position that has absorbed everything has no outside, therefore no null space,
+therefore is not a position. ⚠ **Two separate claims are breached by the same sentence:** C19 by the
+terminal doctrine, and **C6** (*the Ground cannot play*, trap: Watts's *the One wearing every face*)
+by the identification move, which is Watts's hide-and-seek in ecological costume. **The brief's
+limiter is epistemic** (*the asymmetry bites on the steep uncertain stretch*) **and it is right and
+it is not sufficient** — it bounds where the argument applies and says nothing about where the
+argument's own conclusion goes if followed to the end. Both are in the chapter, in that order.
+★ **The failure this caught fails in the direction that looks like virtue**, which is why no beat had it.
+⚠ **R-32 SETTLED, AND THE REGISTER SETTLED IT RATHER THAN TASTE.** Reading **(a)** — different
+premises, order fine. **`07` states it outright: C18 (THE FLOOR) is *Establishes:* VII.3 and
+*Depends:* VII.2.** VII.2 is downstream of a claim established one chapter later, which is the
+ordinary shape of state-it-here / secure-it-next and is not an error. ★ **But (b) is not simply
+wrong, and the honest verdict is a split**: the *scope* crossing is VII.2's and is fine; the
+asymmetric-cost argument's force is **borrowed** from the floor (it presupposes that atrocity is bad,
+which VII.3 secures) and had to be marked as borrowed rather than spent. The chapter therefore
+carries a section — *What this chapter is not allowed to borrow* — naming **both** forward debts, C18
+and C19, in conditional voice. **The failure was never ordering. It was that a chapter stating the
+scope premise in unconditional voice looks identical to one that has secured validity.**
+⚠ **A FOURTH PROMISE SITE, MADE AFTER THE BRIEF THAT COUNTED THEM.** The brief says the promise was
+made **twice** (II.4 §158, III.5 §344) and was rewritten Day 189. **VI.6:272 makes it a third time
+and was drafted Day 190** — the day after. It is not a duplicate: VI.6 names this chapter by number
+and then turns the other way, to *what is owed to a position that CAN register it, is registering it
+now, and cannot see the mechanism from inside.* That case is VI.6's and is not reopened here.
+★ **The register of forward promises is written by hand and the prose outruns it by construction** —
+a promise made in a chapter drafted after the count is invisible to the count. All three are quoted
+in the opening paragraph, and the third is footnoted as evidence the book kept noticing the debt on
+its own. ⚠ `06` and `07` have no gauge for this; `reviewer_gap`/`pointer_sweep` do not count promises.
+★★ **THE CORPUS SCREEN'S FINDING IS THAT THE CHAPTER IS MISSING A LITERATURE, NOT AN ANCESTOR — AND
+IT IS THE SECOND TIME IN TWO CHAPTERS THAT THE ARCHIVE HAS THIS SHAPE.** Run on `corpus_support.py`,
+root `C:\Users\mercu\clawd\repo-staging\Corpus-Perspectival`, HEAD `8dcc440f`, **3,069 `.md`/`.txt`
+scanned**, controls Levinas=61 · Whitehead=81. ⚠ **The first run was REFUSED by the tool** — I passed
+`Schweitzer` as a control and it is a known zero, and `corpus_support` suppressed every count rather
+than print a null with no positive control. **The instrument caught my misuse of it**; recorded
+because a suppressed run reads like a broken tool. **Measured:** `obligation` **96** · `asymmetric`
+**224** · `sentience` 15 · `deep ecology` 12 · `precautionary` 9 · `moral patient` 6 · `what is owed`
+5 · `richness gradient` 3 · `moral standing` 2 · `intrinsic value` 1 · **`moral circle` 0** — the
+chapter's central argument is *the asymmetric cost of the circle*, and the archive has the adjective
+224 times and the noun never. **Against: Jonas 0 · Stone 0 · Leopold 0 · Regan 0 · Midgley 0 ·
+French 0 · Naess 0 · Schweitzer 0 · `land ethic` 0 · `animal rights` 0 · `inherent value` 0 ·
+`corporate personhood` 0 · `guardianship` 0 · `speciesism` 0 · `capabilities approach` 0.** Singer 1,
+Nussbaum 1. **Korsgaard 14 and she is the sixth silence** — known in the research, dropped at the
+drafting boundary. ★ **The vocabulary is saturated and the field is empty: 96 files say *obligation*
+and not one says *Jonas*.** ★★ **And `ancestor_gap` supplies the reason, one row up: Levinas 39
+book-zero (61 corpus), `I-Thou` 16, Buber 5 — the archive collected the ancestors of THE FACE and
+none of the ancestors of THE FACELESS**, in a chapter every one of whose four cases is faceless.
+**Same shape as VII.1's *ancestors for the VOID and none for the LOSS*, twice running, in Book VII —
+which makes it a property of the archive rather than a fact about one chapter.** → the reading is
+owed and was done here rather than deferred.
+⚠ **R-34 PAID, ON PRIMARY DESCRIPTION, AND EACH ANCESTOR IS CUT AT A DIFFERENT JOINT** — no name is
+decoration and none is introduced as a lump. **Jonas** (*Das Prinzip Verantwortung* 1979): reciprocity
+refused as a precondition, the **newborn** as archetype — and the analogy is cut in three named
+places (the infant *becomes* a reciprocator; the child's independence is the goal and here it is the
+problem; you chose the child's existence but not its nature, and here the reverse). ⚠ **His imperative
+is stated for the permanence of *genuine human life*** by the philosopher whose biology extended
+inwardness far down the chain — noted, not scored. **Stone** (45 S. Cal. L. Rev. 450, 1972; Douglas
+dissenting in *Sierra Club v. Morton*, 405 U.S. 727): the three jural criteria and **guardianship** —
+**refused, because a guardian is an invented addressee and the mineral chapter's rule forbids exactly
+that convenience**, and refused *as ontology only*, not as law. **Leopold** (1949): the holistic
+criterion **relocates rather than answers** — the river gets standing as a member, and a holism can
+sacrifice the member, which is this chapter's own §2 sorting wearing green. **Regan** (1983): met
+head-on rather than avoided, because **his reason for refusing degrees is correct** — a graded value
+is one that can be outweighed. ★ **Our answer is a distinction and it is the chapter's hardest
+paragraph: grade bears on the CONTENT of the obligation and never on its EXISTENCE.** **Korsgaard**
+(*Fellow Creatures* 2018) is the **strongest opponent and is given the strongest form**: obligation
+requires a *good-for*, a point of view from which things go well or badly — **which cuts the river off
+cleanly** — and is refused on the premise §2 put in public precisely so it could be refused back.
+**French** (APQ 16, 1979, 207–15): the CID structure is IV.5's same flowchart read as the deciding
+organ. ★ **The cut is exact and it is not a disagreement about facts: French read the pass-band; IV.5
+read the stop-band.** **Midgley**'s mixed community stands behind the four-shapes structure.
+⚠ **THE PROSE-ECHO RUN FOUND UNMARKED VERBATIM REUSE AND IT WAS THE CHAPTER'S OWN QUOTATIONS.**
+First draft: **IV.7 ~ VII.2 = 33 grams**, the heaviest pair in the manuscript (against VI.5 ~ VI.6's
+18) — but **the tool marks quoted spans `[q]`, and 31 of the 33 were marked.** The two that were not,
+plus **8 of IV.5's 13**, were sentences I had lifted *exactly* and set in bold or plain text rather
+than as quotation: IV.5's *moves off the entity's character…*, its *fluency is supplied by human
+beings…*, and IV.7's *a thought-form is, by construction, something somebody assigned.* **All three
+are now marked as quotation and attributed in the sentence that carries them.** ★ **Reuse marked as
+reuse is a discipline; reuse unmarked is the book repeating itself in the voice of new argument** —
+and the sentence-arm's single hit (II.4 ~ VII.2) was the deliberate promise quote, which is what the
+arm is for. **The gauge could not have caught this by count**: 33 looked alarming and was mostly
+legitimate, and the real defect was 10 grams hiding inside it.
+⚠ **STORYSCOPE, AND THE TWO COLUMNS DISAGREE — → R-83.** `dyn_range_CV` **0.550**, the highest
+figure this project has measured, **above Clayton's 0.493 and my raw 0.505**; `voice_uniformity`
+**0.6943**, the highest of any chapter sampled. **A text cannot be both the least flat and the most
+flat**, so at most one column is the fingerprint. ★ **And the house band is 0.61–0.69** (VII.1 0.6884
+· IV.5 0.6827 · III.5 0.6077) — **VII.1's pre-repair 0.771 was the outlier, not the norm**, which
+means R-81's *"the fingerprint survived a repair"* has an unconsidered rival reading: the repair moved
+the text to the house norm, and the house norm is where every chapter already sits. **R-81 is not
+refuted** (the death chapter's 0.345 dynamic range was real and did resist) — **its scope is.**
+⚠ **AND THE `named_ref` READING I ALMOST FILED WAS A CALIBRATION ERROR.** VII.2 reads **18.36/1k**
+against both human baselines at ~44, and the first read was *this chapter argues too abstractly.*
+**Measured before filing: VII.1 13.79 · IV.5 11.43 · III.5 9.70. VII.2 is the HIGHEST of the four.**
+The baselines are correspondence and essays; the chapters are chapters. **The column is comparing two
+genres and the row was withdrawn before it was written.** `meta_textual` 3.65 likewise sits *below*
+VII.1's 5.41 and III.5's 4.61 — also withdrawn.
 ⚠⚠ **A BEAT `02` ROUTES HERE AND THIS LIST DID NOT CARRY — found Day 187, tracing III.5's quarried
 sentence to its source.** `02`'s supersession entry sends *The Inside View* ch. 8–9 to **Books IV and
 VII**, and names the argument by name: **the asymmetric cost of the circle** — *generous error = kind

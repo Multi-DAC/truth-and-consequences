@@ -138,6 +138,14 @@ CHAPTER_PTR = re.compile(
 )
 
 NOTE_DEF = re.compile(r"^\[\^([^\]]+)\]:\s*(.*)$", re.M)
+# NOTE_DEF captures ONE LINE. Every receipt in this book is wrapped to ~80
+# columns, so a name paid on the second line of a note was invisible to
+# scan_notes and the chapter reported it as an unpaid source. Found Day 190 at
+# VII.2, where Kant is credited on line 2 of [^17] and the chapter still read
+# `⚠ Kant`. This splitter takes the WHOLE body of each note. It widens the
+# window, so it also widens the tool's standing LIMIT (it cannot tell a cited
+# authority from a name that merely appears) by however long the note is.
+NOTE_SPLIT = re.compile(r"^\[\^[^\]]+\]:", re.M)
 NOTES_HEAD = re.compile(r"^#{1,4}\s*(?:NOTES?|ENDNOTES?)\b", re.I | re.M)
 SENT_SPLIT = re.compile(r"(?<=[.!?])\s+(?=[A-Z“\"*★⚠—])")
 
@@ -257,8 +265,7 @@ def scan_notes(notes_block):
     a bare marker is not a receipt."""
     named = set()
     n = 0
-    for m in NOTE_DEF.finditer(notes_block):
-        body = m.group(2)
+    for body in NOTE_SPLIT.split(notes_block)[1:]:
         toks = re.findall(r"\b[A-Z][a-zA-ZÀ-ſ'’-]{2,}\b", body)
         real = [t for t in toks if t not in OPENERS]
         if real:
