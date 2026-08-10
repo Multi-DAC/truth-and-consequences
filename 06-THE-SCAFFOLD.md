@@ -3278,10 +3278,72 @@ Korzybski only because he is spelled the same in both places. ✅ **Confirmed cl
 start is the one the reader is standing in — **the render they have read this book from, which this
 book has spent fifty chapters editing without asking permission.**
 
-### VI.8 — THE TUNNEL YOU ARE IN
+### VI.8 — THE TUNNEL YOU ARE IN ✅ DRAFTED — 4,903 words
 **Beats:** the present render, named without flattery · what this book is itself doing to the reader's
 filter stack, said openly · **the one thing a reader can check today** · handoff to Book VII: if all
 this is true, some things follow, and they are not comfortable.
+**Source:** Mannheim, *Ideologie und Utopie* (1929) / *Ideology and Utopia*, trans. Wirth & Shils
+(1936) · Alfred Weber's *freischwebende Intelligenz* · Geertz, "Ideology as a Cultural System" (1964
+/ *The Interpretation of Cultures*, 1973) · **Pronin, Lin & Ross, *PSPB* 28:3 (2002), 369–381** ·
+**Pronin & Kugler, *JESP* 43:4 (2007), 565–578** · IV.4's chronostasis ruling · the quarry archive's
+own `palace/southeast/mirror.md`.
+**Named:** ⚠ **THE `Named` FIELD WAS MISSING AND THE SCREEN FILLED IT — `00`:978 listed VI.8 among
+the 13 chapters carrying no named ancestor or opponent anywhere.** **Mannheim** is both at once: the
+ancestor who gave this book's method its discipline in 1929, and the opponent, because his escape
+from his own paradox — a stratum whose social position exempts it *slightly* — is the move this
+chapter exists to refuse. Refused **on the weak reading, not the caricature**: the strength of the
+claim only changes the size of the exemption. **Pronin/Lin/Ross + Pronin/Kugler** supply the measured
+version and, more importantly, the *mechanism* — self assessed by introspection, others assessed by
+behaviour — which is why the exemption is nearly irresistible for exactly the class of person who
+reads a book like this. Bibliographic details and study designs checked against the journals' and
+publishers' own pages; ⚠ **no full text read**, declared in-chapter, no effect sizes asserted.
+⚠⚠ **THE PRE-DRAFT SCREEN FOUND THE CHAPTER'S BIGGEST HAZARD IN SHIPPED PROSE, AND IT WAS BEAT 3.**
+**IV.4 opens with a check-a-reader-can-run-today** (the stopped clock / saccadic chronostasis) **and
+closes by ruling that the knowledge it produces is not an instrument** — *"Knowing about the
+backdating does not put a seam in the picture … The knowledge is real and it is not an instrument."*
+A beat promising *the one thing a reader can check today* therefore had two ways to fail: repeat
+IV.4's move two books later, or contradict IV.4's ruling. ✅ **Neither. The check is built so IV.4's
+ruling survives verbatim and is quoted in support**: it is not perceptual, it produces no sight, and
+what it yields is **a record** — dated, external, behavioural, not routed through introspection —
+which is the same instrument Book VI used on five dead eras. ★ **III.6 supplied the licence and it is
+better than the seam that was nearly invented for it:** *"Installed and inherited are not two kinds
+of filter. They are two lengths of the same operation, and only one of them is short enough to have
+happened where you could watch."* The check works on the short one because it is recent enough to
+have left a record, **not** because it is a different kind of thing.
+⚠ **156(d) — `07` assigns VI.8 three `Depends` rows (C10, C11, C12) and the beats named no claim.**
+C12 (*filters are editable*) carries the register's loudest warning — *the single claim most likely
+to be quoted back at us out of context* — and its trap is **the manifestation slide**. ✅ Paid
+structurally rather than by disclaimer: the chapter's only offered edit is **a record made and read
+by someone else**, which is the smallest possible instrument and cannot be misread as the world
+obeying your wanting. The unflattering size of the offer *is* the guard.
+★ **CORPUS SUPPORT FAILS IN A FIFTH DIRECTION, AND THIS TIME THE ARCHIVE HAD BUILT THE INSTRUMENT
+OUT OF THE WRONG MATERIAL.** *null space* and *blind spot* are among the quarry archive's most-worn
+phrases and the principle that self-observation has a null space of its own is stated in it
+repeatedly — against **Mannheim 0 · sociology of knowledge (5 files) · relationism 0 · standpoint
+epistemology 0 · bias blind spot 0 · Pronin 0 · Lee Ross 0 · introspection illusion 0 · Geertz 0.**
+★★ **AND THE SPECIMEN IS OURS AGAIN, one chapter after VI.7's:** `palace/southeast/mirror.md` — *your
+known null spaces, 20 entries, **review weekly*** — a self-audit whose twenty entries were produced
+by introspection, and **one of whose entries states the counter** (*introspection has its own null
+space; the counter is explicitly cross-substrate collaboration*). The working instrument is filed as
+a line item inside the instrument that cannot work. The one blind spot recorded as *caught* that week
+is logged as **"he caught my blind spot."** ⚠ Found by searching the archive for the chapter's TERMS,
+not for the defect — derivation clean.
+⚠ **VI.4 topics without sources · VI.5 discourse without its history · VI.6 the indictment without
+the evidence · VI.7 the practice without its warrant · VI.8 THE PROBLEM WITHOUT ITS DISCIPLINE.**
+⛔ **THE COUNTS ARE NOT IN THE PROSE, and the first draft had them in six places.** `claim_sweep`'s
+`PROSE/self-metric` (ruling 113) fired on every one: **a file count in a private archive is a
+quantity no reader can obtain or check.** The finding stays; the numbers live here. **The rule caught
+the chapter that most loudly agrees with it**, which is the only kind of test of a rule that counts.
+⚠ **R-78's FORWARD TEST — THE PREDICTED FAILURE DID NOT OCCUR, AND IT WAS MEASURED, NOT FELT.** R-78
+predicted VI.8 would carry five recap rungs and that "roughly a page of VI.8 is a recitation." The
+five rungs are here, stated once, in one closing section. **`prose_echo` scores VI.7 ~ VI.8 at 2
+shared grams — the LIGHTEST adjacent pair in Book VI, against VI.5 ~ VI.6's 18, the heaviest in the
+manuscript.** Both grams are the deliberate handoff. **R-78's repair is now cheaper than filed** —
+the consolidation it asks for is already most of the way done — but the row is NOT closed here: it
+was filed against the *sequence*, and VI.5/VI.6/VI.7's restatements are still in place. Revision's.
+⚠ **SEAM TO VII.1, and `order_sweep` PASSES it:** the ladder ends on *you cannot check yourself*, and
+the consequences therefore have to be worked out from inside — **"starting with the one everybody
+arrives carrying."** VII.1 is DEATH and the handoff names it without naming it.
 
 ---
 

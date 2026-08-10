@@ -722,6 +722,19 @@ EXEMPTIONS = [
      "a `licensed` pattern for 'is not used in this book', which would silently exempt every "
      "future chapter that files those words next to the term without doing the work of giving a "
      "reason. The declaration is cheap to fake; the reason is not."),
+    # --- Day 190, VI.8. A VERBATIM SPECIMEN QUOTED AGAINST OURSELVES.
+    ("book/VI-08-the-tunnel-you-are-in.md", "TERM/substrate",
+     "Introspection has its own null space",
+     "★ THE FIRST EXEMPTION OWED TO A QUOTATION OF **OUR OWN** MATERIAL, and it is a MENTION the "
+     "mention/use window cannot reach BY DESIGN. `PLANNING_MENTION` treats a blockquote as a "
+     "citation only when `not is_prose` — correct, because in a prose chapter a blockquote is "
+     "often the book's own voice raised, not somebody else's words. Here it is somebody else's "
+     "words and the somebody is us: the line is quoted verbatim from the archive this book was "
+     "quarried from, as the chapter's specimen, and the chapter's whole argument is that the "
+     "archive stated the right principle and built the wrong instrument. **Tidying the quotation "
+     "into the current vocabulary would destroy the evidence** — this table's opening paragraph, "
+     "arriving at its own first case. NAMED LINE, not whole-file: any un-quoted use of the term "
+     "in this chapter is a fresh breach and must fire."),
 ]
 
 

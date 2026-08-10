@@ -1,0 +1,68 @@
+  wrap self-test: PASS — needles survive a hard wrap
+  prose self-test: PASS â€” needles survive a hard wrap, headings excluded
+
+PROSEâ†’BEAT SWEEP â€” book/ against 06-THE-SCAFFOLD.md Â· chapter VI.8
+
+  âš  REVISION-QUEUE.md: no chapter id in heading or filename â€” NOT SWEPT
+
+  50 drafted chapter(s) Â· 2545 paragraphs Â· 19 undrafted Â· 0 spent Â· 0 trace(s) Â· 0 exempt
+  4 beat(s) below the 6-distinct-word floor â€” NOT dropped: reachable
+  by the 5-gram discriminator only, which is what a beat that IS a phrase needs.
+  house vocabulary discounted, measured at df â‰¥ 0.66: 60 word(s) â€” about, after, against, already, anything, available, back, because, before, between, book, cannotâ€¦
+
+READING BRIEF â€” VI.8, before drafting
+  BAAI/bge-m3 Â· 4 beat(s) Ã— 2014 shipped paragraph(s) Â· top 5 each, RANKED, no verdict
+
+  VI.8 (beat): the present render, named without flattery
+    1. II.2:61  cos 0.683
+       In the game: the render is not the picture on the screen. There is no screen, and nobody sitting in front of one.
+    2. VI.3:190  cos 0.599
+       Now the honest sentence, and it is uncomfortable in a way worth recording rather than smoothing.
+    3. VI.6:186  cos 0.596
+       Which brings us to the thing in this era that genuinely has no precedent, and it is not the one the popular story names.
+    4. IV.2:162  cos 0.585
+       **The third is to flatten it inward,** and almost nobody names this one, so it goes unrefused.
+    5. II.5:13  cos 0.580
+       Three words, all borrowed. One was settled in II.2 and needs nothing further: a render is what is the case at a position. The other two arrive carrying things that have to come off
+
+  VI.8 (beat): what this book is itself doing to the reader's filter stack, said openly
+    1. VI.2:243  cos 0.637
+       That is not obviously a gain, and the chapter will not call it one. It is a change in the filter stack, and every change in a filter stack buys sight with blindness. What was bough
+    2. IV.9:314  cos 0.620
+       That is this book's own engine, seen from outside and wearing somebody else's clothes.
+    3. VI.7:438  cos 0.619
+       Which leaves exactly one thing to do, and it is uncomfortable in the way this whole book has been promising to become. If the model has to be named, then the honest place to start
+    4. VI.3:256  cos 0.615
+       And by this book's own rule, every change in a filter stack buys sight with blindness, so the accounting has to be run in both columns.
+    5. VI.5:118  cos 0.611
+       Sit with the shape of that for a second, because it is this book's own thesis performing itself without being asked. The single most-cited demonstration of the broadcast render's p
+
+  VI.8 (beat): **the one thing a reader can check today**
+    1. III.3:185  cos 0.670
+       **Now the objection, which every reader has been holding since the second paragraph.**
+    2. III.8:198  cos 0.647
+       **And it takes one exception, stated here in public rather than discovered later by a reader who would be right to feel misled.**
+    3. IV.8:184  cos 0.621
+       It is worth going and reading it, because the author says something first.
+    4. III.3:61  cos 0.614
+       **And now the man who wrote this down eighty-five years ago, in fiction, correctly.**
+    5. IV.6:334  cos 0.604
+       **Before the entry, the two ways it gets misread — because both are available on this page, and both are made from the same evidence.**
+
+  VI.8 (beat): handoff to Book VII: if all this is true, some things follow, and they are not comfortable.  ---
+    1. II.4:156  cos 0.677
+       What a difference in grade *licenses* is not settled here. Whether more of the world being the case at a place makes what happens there weigh more; what may be eaten, used, built u
+    2. III.5:347  cos 0.675
+       What is settled is the shape of the room the argument now has to happen in. The exemption is gone. Whatever is decided in Book VII will have to be decided with everyone present.
+    3. VI.6:240  cos 0.641
+       This book files its ethics in Book VII. One piece of it has to arrive now, out of order, and the reason is not thematic convenience: **the reader is inside this render while readin
+    4. IV.8:50  cos 0.641
+       And the discipline from the previous chapter carries at full strength: **every card printed here states what would make it wrong.** Not what would make it uncomfortable. What would
+    5. V.2:183  cos 0.640
+       A reader who has followed this far will reach, at about this point, for the obvious repair: that there are insides everywhere, that nothing you meet is a prop, that you are met con
+
+  READ THESE. No verdict is offered and none is available: the measurement that
+  built this arm showed no statistic separates a true repeat from the floor â€”
+  ruling 33's own pair ranks 3rd of 390 at a cosine of 0.489, under a top match
+  of 0.498. RANK is the signal and SCORE is not. The brief narrows the book to a
+  page; the adjudication is a person's, exactly as it was the day it was caught.
