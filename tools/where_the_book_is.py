@@ -118,6 +118,7 @@ BOOK = ROOT / "book"
 SCAFFOLD = ROOT / "06-THE-SCAFFOLD.md"
 DRAFT_LOG = BOOK / "DRAFT-LOG.md"
 HANDOFF = Path("C:/Users/Wasch/carapace/Architecture/handoff/handoff.json")
+WORKING_MEMORY = Path("C:/Users/Wasch/carapace/memory/working_memory.json")
 
 # ★ ADDED DAY 189 (R-22), AND THE OMISSION IS THE POINT.
 # This tool was built to end carrier rot and it excluded the STALEST CARRIER IN
@@ -444,6 +445,11 @@ def main():
         (HANDOFF, "handoff.json"),
         (DRAFT_LOG, "DRAFT-LOG.md"),
         (ARCHITECTURE, "00-ARCHITECTURE.md"),  # R-22, Day 189
+        # Day 190 evening. Found holding "32/67 — 94,486 words, V-VIII unstarted" —
+        # 24 chapters stale, the FOURTH carrier caught with that rot in one sitting.
+        # Added the same hour it was found, because the lesson being written up in
+        # that same hour was that a diagnosis without a hand changes nothing.
+        (WORKING_MEMORY, "carapace working_memory.json"),
     ):
         claim, err = carrier_claim(path, label, total_plan)
         # A missing slot is a warning AND the scraped number still gets checked —
