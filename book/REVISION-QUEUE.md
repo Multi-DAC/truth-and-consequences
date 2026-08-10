@@ -1393,3 +1393,173 @@ different objects; the sweep must learn to say which it found.
 **TRIGGER: before `row_promotion_sweep.py` is cited in another packet — it has been run exactly twice
 in its life, both times during packet assembly, and it was wrong the second time.** small (the
 matcher) + small (the control) — and the class it belongs to is not small.
+
+---
+
+**FILED — R-86: BOOK VI CHANGES INSTRUMENT AT VI.4 AND NOTHING IN THE BOOK SAYS SO. THIS IS THE
+PARENT OF R-87, R-88 AND R-89, WHICH ARRIVED AS THREE SEPARATE FINDINGS.**
+
+★★ **Filed Day 190 from the outside read of `PACKET-003`.** The reviewer returned three findings
+against Book VI prose, ranked by weight, and treated them as three. **They are one.** Every one of
+them has its origin at the same chapter boundary:
+
+- **VI.1–VI.3** print a five-line blockquote card: SEES · NULL SPACE · COMPLEMENTS · BOUNDARY ·
+  NAVIGATIONAL IMPLICATION. **VI.4 prints a different card** — named CENSUS CARD, six fields,
+  `Whose` added, `SEES` deleted, `BOUNDARY` replaced by `Mechanism of the exclusion`.
+- **VI.1–VI.3 print no corpus count of any kind.** VI.4 is the first chapter in the book to print
+  one.
+- **VI.1–VI.3 perform C30 and license none of it** — VI.4 says so itself and rules that *"the
+  earlier three owe a correction."* **VI.4 is the first chapter to license it.**
+
+Three instruments changed at one seam, in one chapter, and the chapter declares exactly one of the
+three changes. **The declared one is the only one that made the book look worse.**
+
+⚠ **The mechanism, which is the part worth keeping.** This was read at first as *the fast-drafted
+chapters carry the defects* — `PRE-REG-003`'s P5 said so in as many words. That is wrong, and it is
+wrong in a way that flatters. VI.4 is not sloppier than VI.3. **VI.4 is where the apparatus was
+upgraded, and an upgrade with no declaration is indistinguishable downstream from an
+inconsistency.** Everything after VI.4 inherits three unmarked changes and then argues across the
+seam as though nothing moved. **A book that improves its instrument mid-run and does not date the
+change cannot later tell its own revisions from its own contradictions.**
+
+✅ **Repair: a single declared instrument-change note, in VI.4, covering all three** — with the
+version before and after each, and a forward pointer from `00-ARCHITECTURE.md`. Then R-87/88/89
+become consequences of one declared event rather than three separate defects.
+⛔ **Do not repair the three children independently first.** Fixing them one at a time removes the
+evidence that they are one event, and the evidence is the finding.
+
+**TRIGGER: before Book VII closes.** Book VII is drafting now, from the VI.8 card form, and the same
+seam is being crossed again unmarked. medium.
+
+---
+
+**FILED — R-87: FOUR CHAPTERS PRINT CORPUS COUNTS ON FOUR DIFFERENT DENOMINATORS AND THEN RUN A
+COMPARATIVE ARGUMENT ACROSS THEM. VI.8 ALREADY RULES THAT THE COUNTS ARE RHETORIC.**
+
+★★ **The outside read's first-weighted finding, verified against disk Day 190.** The denominators:
+
+| chapter | denominator | declared? |
+|---|---|---|
+| VI.4 | **2,550** `.md`, R-67 scope | yes |
+| VI.5 | **3,069** `.md` + `.txt` | yes — *"a wider scope than R-67's declared 2,550"*, every figure a ceiling |
+| VI.6 | *"the same corpus"* | **no — and there are two corpora it could mean** |
+| VI.7 | **2,586** live files | **no — matches neither** |
+
+The four chapters then run a **comparative** argument across those four bases —
+topics-not-sources · discourse-not-history · indictment-not-evidence · practice-not-warrant. **The
+four shapes are a real finding. The comparison is across four incompatible denominators, and VI.6
+does not even say which of two it used.**
+
+⚠⚠ **And VI.8 convicts all four in its own footnote 9, which is why this row is not merely a
+consistency defect.** Fn 9 keeps its tallies off the page, reasoning that *"a file count in somebody
+else's archive is a quantity no reader can obtain or check, which makes it rhetoric wearing a
+number's clothes."* **That reasoning is correct and it is fatal to VI.4–VI.7, which print exactly
+those numbers, in bold, as evidence.** From the reader's side this project's corpus *is* somebody
+else's archive; the distinction VI.8 draws does not exist for anyone outside the repository.
+**Four chapters do the thing the fifth rules is rhetoric — and the fifth is the one the author
+thought was the most self-critical chapter in the book.**
+
+✅ **Repair, and the honest one is the expensive one.** Either (a) VI.4–VI.7's counts come off the
+page and the four shapes are argued from named specimens the reader can check, which is what VI.8
+already does; or (b) VI.8's fn-9 rule is narrowed on the page to say why a count is admissible in
+VI.4–VI.7 and not in VI.8 — **and no such reason has yet been produced.** (a) is almost certainly
+right. ⛔ **Do not repair by re-measuring all four on one denominator.** That fixes the arithmetic
+and leaves the rhetoric-wearing-a-number's-clothes charge exactly where VI.8 put it.
+
+**TRIGGER: before the endnote retrofit reaches Book VI.** large.
+
+---
+
+**FILED — R-88: VI.5 AND VI.7 BOTH CLAIM TO BE C30's FOURTH INSTANCE, AND VI.7's OWN ENUMERATION
+SKIPS VI.5.**
+
+★★ Verified against disk Day 190. Three chapters, three incompatible accounts of one register event:
+
+- **VI.4:** *"This chapter licenses it. The earlier three owe a correction."*
+- **VI.5:** *"…declared here rather than performed quietly, **which is the fourth time in this
+  book**."*
+- **VI.7:** *"C30 is licensed here explicitly, **for the fourth time in this book** and the first
+  time in Book VI that it is written down rather than merely performed"* — and then enumerates its
+  prior three as **VI.2, VI.3, VI.4**.
+
+Both cannot be fourth. **VI.7's enumeration omits VI.5, which is in the same book, doing the same
+move, saying so explicitly.** VI.7's second clause also contradicts VI.4 outright: VI.4 licensed it
+first, VI.5 invoked it by number, and VI.7 claims to be the first in Book VI to write it down.
+
+⚠ **The root cause is that "instance" is never defined** — *performed*, *licensed*, and *declared by
+number* are three different countable events and all three chapters count in different units without
+saying which. **The register has no field for it**, which is why nothing caught this.
+
+⚠⚠ **This is precisely the class `07-THE-CLAIMS-REGISTER.md` exists to catch, occurring in the book
+where the register's methodological claim does the most work** — and the register ran C1…C30 before
+Book VI opened and runs C1…C30 now. **A register that tracks which claims exist and not where they
+fire cannot see a miscount of firings.**
+
+✅ **Repair:** define the unit (recommend: *licensed* uses only, since that is what C30 governs),
+recount from the text, correct all three chapters, and **add a per-claim use-log to `07`** so the
+next miscount is caught by the file rather than by a reader. **The use-log is the actual repair; the
+three corrections are its first output.** medium + medium.
+
+**TRIGGER: with R-86.**
+
+---
+
+**FILED — R-89: THE CENSUS CARD CHANGES FORM FIVE TIMES IN EIGHT CHAPTERS AND IS NEVER ONCE
+DECLARED — AND IT IS THE BOOK'S CENTRAL INSTRUMENT.**
+
+★ Verified Day 190, all eight chapters read for card form:
+
+| chapters | form | name | object carded |
+|---|---|---|---|
+| VI.1–VI.3 | blockquote, 5 fields | *(unnamed)* | a render |
+| VI.4 | blockquote, 6 fields | **CENSUS CARD — THE PRINT RENDER** | a render |
+| VI.5 | `###` heading, not a blockquote | **CENSUS CARD — THE BROADCAST RENDER** | a render |
+| VI.6 | `###` heading | **Card: THE ALGORITHMIC RENDER** | a render |
+| VI.7 | `###` heading, italic field labels | **The shrug, carded** | **a posture, not a render** |
+| VI.8 | `###` heading, italic field labels | **The present, carded** | an era, from inside |
+
+Form, name, field set and **object** all drift. VI.7's is the largest change and the least marked:
+the card was built to characterize a *render* and is turned on a *posture* with one line of
+acknowledgement and no ruling on whether the instrument transfers.
+
+⚠ **The field deletions are the load-bearing part.** `SEES` disappears after VI.3 and `BOUNDARY`
+after VI.3 — **`BOUNDARY` is where a render's limit was stated, which is the whole point of carding
+one.** Its replacement, `Mechanism of the exclusion`, answers a different question. Nothing says the
+question was changed.
+
+✅ **Repair:** one canonical card spec in `06-THE-SCAFFOLD.md`, a declared version bump at VI.4 and
+at VI.7 (with the posture-vs-render ruling written), and **a gauge — `tools/card_shape.py` — that
+reports the field set of every card in the book and fails on an undeclared field change.** ⛔ **Do
+not normalize the eight cards to one form silently.** The drift is evidence for R-86 and the
+normalization would erase it; declare the versions instead.
+
+**TRIGGER: before Book VII's first card ships** — VII.1 and VII.2 are already carding from the VI.8
+form. small (spec) + small (gauge) + medium (the VI.7 ruling).
+
+---
+
+**FILED — R-90: VI.6 ASSERTED A RANDOMIZATION DESIGN THAT DOES NOT EXIST, INSIDE A CHAPTER WHOSE OWN
+GRADE NOTE SAYS NO FULL TEXT WAS READ. ✅ TEXT FIXED DAY 190; THE CLASS IS THE ROW.**
+
+VI.6 said the Gauthier et al. trial was *"stratified by which feed they were already using"* — body
+text and footnote 4. **It was not.** Assignment was simple randomization at equal probability;
+initial feed setting is a covariate — *"All specifications control for respondents' initial feed
+settings."* The paper reports a **two-point imbalance in exactly that variable across arms (77% vs
+75%)**, which a stratified design forecloses by construction, and contains **no instance of
+"stratif-" in any form.** Verified against the PMC full text (PMC13061628), not the abstract.
+
+★★ **The class, which is why this is a row and not just an edit.** The chapter's grade note said
+plainly: *"What has **not** been done: no full text has been read."* **That disclosure was accurate
+and it did not stop the chapter making a specific methodological assertion about the design.** A
+grade note describes the *sourcing* and places no constraint on the *claims* — so a chapter can
+correctly declare it has read only abstracts and then print a detail obtainable only from the
+methods section, and nothing anywhere objects. **Honest labelling with no coupling to what may be
+asserted.** ⚠ **Found by an outside reader, not by the label.**
+
+✅ **Repair:** the grade note gets a second half — *claims licensed at this grade* — and abstract-only
+sourcing licenses effect sizes, N and direction and **not** design internals (randomization
+structure, blinding, stratification, exclusion rules). Sweep Book VI's other abstract-only sources
+for the same overreach. ⛔ **Do not treat this as closed because the sentence is fixed.** The
+sentence was one instance; the row is the missing coupling. medium.
+
+**TRIGGER: with the endnote retrofit, which is the pass that reads full texts.**

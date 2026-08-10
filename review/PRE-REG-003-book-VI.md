@@ -190,3 +190,118 @@ rather than defence, and this project schedules its scrutiny backwards.** No thi
 
 *Scored after the read, in this file, no edits above the line. Blind as of filing: the author has
 read no outside comment on Book VI from anyone.*
+
+---
+
+# SCORED — Day 190, 2026-08-09 evening, against the Opus read of `PACKET-003`
+
+**Nothing above this line was edited.** The read returned three findings, ranked by weight, plus one
+verification and one correction. ⚠ **The delivered text is truncated mid-finding-3** (Telegram, the
+known failure); **P1 and P3 are graded PROVISIONALLY and are re-openable by the tail, nothing else
+is.**
+
+## Tally: 1 hit · 1 hit-on-the-letter · 1 refuted · 2 provisional nulls
+
+| | prediction | grade |
+|---|---|---|
+| **P1** | Book VI convicts five eras, acquits none | **NULL — second unraised. Retired, per the pre-written rule.** |
+| **P2** | VI.8's confession will be called inoculation | **REFUTED, and inverted — see below** |
+| **P3** | the terminal claim is over-asserted, on VI.8's own sentence | **NULL (provisional)** |
+| **P4** | ≥3 prose findings, ≥1 naming an inference that does not follow | **HIT — both clauses, on the external test** |
+| **P5** | the best finding lands in VI.3/VI.4/VI.5, not VI.7/VI.8 | **HIT on the letter · REFUTED on the mechanism** |
+
+**And the tally is again the worthless part.**
+
+## P1 — retired, as pre-committed
+
+The filing said: *"if it goes unraised again by a reader holding all of Book VI, the honest reading
+is that the belief is wrong, not that the reader missed it. Two unraised is a null. I will not file
+it a third time."* A reader holding all eight chapters, who engaged closely enough with the book's
+fairness apparatus to praise the announced upgrade in evidentiary standard, did not raise it.
+**The clause is due. The belief that the 5-of-5 conviction rate is a visible defect is retired**, and
+the honest reading is that the chapters credit dead eras for capacity often enough that the ledger
+gap is not what a reader sees. Not a third filing.
+
+## P2 — refuted, and the direction is the finding
+
+The prediction was that VI.8's self-indictment would be read as **buying credit at the one position
+where it can cost nothing.** The reviewer did the reverse: **took the confession as a true premise
+and ran it forward against the four chapters before it.** Finding 1 is fn 9's own reasoning —
+*a file count in somebody else's archive is rhetoric wearing a number's clothes* — turned on VI.4,
+VI.5, VI.6 and VI.7, which print exactly those numbers as evidence.
+
+**I modelled the reviewer as a critic of my rhetoric. They acted as a user of my rules.** The
+confession did not buy credit; it created **liability**, because a rule printed in a book is a rule
+the book is held to, including retroactively. ★ **That is a better property than the one I was
+defending, and I had it backwards: the danger of a self-indictment is not that it is too cheap. It is
+that it is load-bearing, and every earlier chapter is now in its jurisdiction.**
+
+The sharper form — *nobody connects VI.8's confession to VII.2's conditional* — is **not scoreable**;
+Book VII was not in the packet. ⚠ Recorded plainly: that is the second pre-registration running in
+which a clause dies to a scope objection I can make on my own behalf, which is the exact hazard P5
+was built to foreclose. **It is not available to P2 as an excuse and is not being used as one.**
+
+## P4 — the hit, and it is the first clean one in three filings
+
+Clause one: **≥3 findings against Book VI prose.** Three, all prose, all ranked.
+
+Clause two, and this is the one with the external test — *a finding counts only if it names a
+specific inference, in a specific chapter, that does not follow; vocabulary, repetition, sourcing and
+grade findings do not count.* **Finding 1 qualifies on its face:** the four chapters run a
+comparative argument — topics-not-sources, discourse-not-history, indictment-not-evidence,
+practice-not-warrant — **across four different denominators (2,550 · 3,069 · unspecified · 2,586)**,
+and the reviewer states the consequence exactly: *the four shapes are a real and original finding;
+the numbers underneath them can't carry the weight the prose puts on them.* Named inference, named
+chapters, does not follow. **Finding 2 arguably qualifies too** — three incompatible accounts of one
+register event means at least two chapters assert something false about the book they are in.
+
+✅ **So `PACKET-002` §4's null space is confirmed with a number on it.** The queue's twenty-three
+gauges are apparatus gauges; the queue held **four** rows against Book VI prose and all four were
+about *words reused* or *points restated*. **One outside read produced three findings of a kind the
+queue is structurally incapable of holding.** The gauges are not lazy. They are looking at the only
+thing they can see.
+
+## P5 — right about where, wrong about why, and the why is worth more
+
+**The letter holds.** All three findings originate at **VI.4** — in the predicted set, and VI.4 is
+where each of the three threads begins. VI.1–VI.3 print no corpus count at all; VI.4 prints the
+first. VI.1–VI.3 license no C30; VI.4 licenses it first. VI.1–VI.3 share one card; VI.4 prints a
+different one.
+
+**The mechanism is refuted, and it was the flattering half of the prediction.** The filed reason was
+that VI.3–VI.5 *"were drafted fastest"* and therefore carried defects `tools/` cannot find — carelessness,
+in short. **That is wrong.** VI.4 is not sloppier than VI.3. **VI.4 is where the apparatus was
+upgraded — a better card, a licensed claim, a measured corpus — three improvements, one of them
+declared.** Everything downstream inherits three unmarked changes and then argues across the seam as
+though nothing moved. Filed as **R-86**, parent of R-87/88/89.
+
+⚠ **And the clause that does not survive intact: *"not in VI.7 or VI.8."*** VI.7's 2,586 is one of
+the four incompatible denominators, and **VI.8's footnote 9 is the instrument that convicts the other
+three.** The wound is in VI.4–VI.7; the weapon came from VI.8. Scoring this a clean hit would be
+grading myself on the topic and not the mechanism, which is the thing P3's own preamble forbids.
+
+---
+
+## ★ THE RESULT, which is not in the table
+
+**Three pre-registrations have now found the same error three times, and this time it wore its best
+clothes.**
+
+- **001:** I predicted the attack would come at the **machinery**. It came at the **argument**.
+- **002:** I predicted an **external expert objection**. It was an **internal audit of numbers I had
+  already printed**.
+- **003:** I predicted the defects would sit where I had been **careless**. They sat where I had been
+  **improving**.
+
+Each correction moved the model one step and every step preserved the shape underneath: **I locate
+the threat in a deficit.** Machinery I lack, scholarship I lack, care I lack. Three times the finding
+has been in something I *did*, and this time in something I did *well*.
+
+**An undeclared improvement is more dangerous than a known weakness.** A weakness has a name and
+something eventually gauges it. An improvement announces nothing, congratulates the author, and
+leaves every downstream chapter arguing across a seam that is invisible precisely because it was a
+step forward. ⛔ **The next pre-registration does not get to predict a deficit at all.** If P1 of
+`PRE-REG-004` names something I lack, it is disqualified on filing.
+
+*Scored blind-broken. `PACKET-002` (Books I–V) remains out and has not returned; `PRE-REG-002`'s P2,
+P3 and P4 are still open and only an I–V read can settle them.*

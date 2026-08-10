@@ -70,9 +70,10 @@ inference drawn is that the algorithm was not doing anything.
 
 In February 2026, Germain Gauthier, Roland Hodler, Philine Widmer and Ekaterina Zhuravskaya
 published a field experiment on X that ran *both* directions.[^4] Just under five thousand active
-American users, seven weeks, randomized — and stratified by which feed they were already using. So
-one arm took chronological users and switched the algorithm **on**. The other took algorithmic
-users and switched it **off**. Two experiments, opposite in sign, in one population, at one time.
+American users, seven weeks, randomized with equal probability to either feed, and the analysis
+conditions throughout on which feed each participant was already using. So one arm took
+chronological users and switched the algorithm **on**. The other took algorithmic users and
+switched it **off**. Two experiments, opposite in sign, in one population, at one time.
 
 The off-arm reproduced the earlier nulls. "Remarkably," the authors write, "none of the political
 attitudes were affected by the reverse switch from the algorithmic to the chronological feed, that
@@ -362,9 +363,19 @@ intervention — off only — which is the limitation [^4] identifies.
 [^4]: Germain Gauthier, Roland Hodler, Philine Widmer and Ekaterina Zhuravskaya, "The political
 effects of X's feed algorithm," *Nature* 652, no. 8109 (2026): 416–423,
 doi:10.1038/s41586-026-10098-2. Field experiment, N = 4,965 completing both surveys (from 13,265
-contacted), fieldwork July–September 2023, mean duration 7 weeks. Both directions run, stratified
-by baseline feed. All effect sizes quoted in this chapter are from this paper, as are the three
-quoted sentences.
+contacted), fieldwork July–September 2023, mean duration 7 weeks. Both directions run. All effect
+sizes quoted in this chapter are from this paper, as are the three quoted sentences. ⚠ **Corrected
+Day 190, on an outside read, and the correction is worth more than the word it changes.** This note
+and the body text said the trial was *stratified by baseline feed*. It was not: assignment was
+simple randomization with equal probability, and initial feed setting enters as a covariate — *"All
+specifications control for respondents' initial feed settings."* The paper's own balance table
+proves it, reporting a two-point imbalance in exactly that variable across arms (77% vs 75%), which
+a stratified design forecloses by construction. **The paper contains no instance of "stratif-" in
+any form.** Verified against the PMC full text (PMC13061628) rather than the abstract, which is the
+first full text read for this chapter and revises the grade note below by one source. The error ran
+in the safe direction — controlling is weaker than stratifying, so the chapter had *over*-credited
+the design — but it was an invented methodological detail, which is the defect class this book
+spends VI.7 diagnosing in other people.
 
 [^5]: Jennifer Allen, Baird Howland, Markus Mobius, David Rothschild and Duncan J. Watts,
 "Evaluating the fake news problem at the scale of the information ecosystem," *Science Advances* 6,
