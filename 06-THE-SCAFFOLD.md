@@ -3881,7 +3881,7 @@ source's vocabulary pulled straight through** — this chapter quotes the source
 chapter works to it the more retired vocabulary arrives with the material. VII.4 scored 6 raw at
 1.08/1k; VII.5 scored 9 at 1.76/1k, and the difference is a measurement of proximity, not of care.
 
-### VII.6 — LOVE ✅ DRAFTED — 5,029 words
+### VII.6 — LOVE ✅ DRAFTED — 5,117 words
 **Source:** `Perspective` **03 §3.5 Mutual crystallisation and parasitic dissolution** — taken
 entire; this chapter is its only housing, and `mutual crystallisation`, `parasitic dissolution`,
 `E+`/`E−` were all **0 across 56 drafted chapters** before it. **+ 03 §3.4 Orientations in practice**
@@ -3912,7 +3912,7 @@ appears once in fifty-seven chapters**, in one bounded section, carrying the cou
 forced the amendment — Clayton and Finnley, on the merits, with the self-serving reading declared
 rather than concealed.
 
-### VII.7 — FREEDOM WHEN EVERY PATH ALREADY EXISTS ✅ DRAFTED — 6,769 words
+### VII.7 — FREEDOM WHEN EVERY PATH ALREADY EXISTS ✅ DRAFTED — 6,792 words
 ✅ **DRAFTED Day 191 · `book/VII-07-freedom-when-every-path-already-exists.md`.** All four beats land,
 0 misses. The pre-draft screen found the ⛔ span defect above **in this brief** — Theorem 6’s gloss quoted
 one clause short, in a direction that overcharged the source. Card written after `instrument_sweep` caught
@@ -4186,6 +4186,10 @@ just supplied it.** *Exploration is the point* — but exploration alone **is** 
 title already named as the failure without yet knowing what the alternative was. The missing half is
 **mutual recognition**: perspectives recognising each other *as perspectives*. Tourism is exploration
 with the other players treated as scenery.
+⛔ **SUPERSEDED Day 191 — the wording above is the pre-amendment one and is kept as the record of what
+the chapter was drafted from.** *Each other* was the reciprocal construction; C15 and `01` §10 were both
+amended to **recognition mutual across the field, not required within the pair.** The drafted chapter
+carries the amended form; this scaffold note does not, and is not to be quoted forward.
 **Beats:** the difference between knowing the map and moving on it · why cosmology without practice is a
 hobby · ★ **the telos, plainly, and it is the only place Part Two states one**: not a summit, not
 dissolution, not arrival — **traversal, and recognition among travellers** · the tourist and the
@@ -4262,7 +4266,7 @@ cannot see or the model you are seeing with.** · ⛔ **`blind spot` = 11, all i
 VI.8's and the retinal analogy goes with it. · **Dunning** = 0 and stays 0: the competence framing is a
 different claim and importing it would put an empirical dispute under a structural one.
 
-### VIII.3 — EDITING ✅ DRAFTED — 6,173 words
+### VIII.3 — EDITING ✅ DRAFTED — 6,442 words
 ✅ **DRAFTED Day 191 · `book/VIII-03-editing.md`.** All four beats 1.00, card v3-canon 6 fields,
 `instrument_sweep` PASS. **R-116 PAID** — Class VIII is the chapter's census card, not a mention, and
 its failure mode is the first in the series that is not a defect of perception: **exact about what it

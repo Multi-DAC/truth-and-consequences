@@ -2682,3 +2682,141 @@ the beat sweep, `instrument_sweep` and an outside read by a reader looking at th
 immediately.** small (fix) / free (fixture).
 
 ---
+
+**FILED — R-131: THE ONE EMPIRICAL CLAIM IN BOOK VIII CITED THE PROJECT'S OWN DOCUMENT. ✅ FIXED.**
+
+Book VIII outside read, finding 4. VIII.3's Class VIII complement makes a claim about what happens in
+tissue — two kHz carriers, an envelope at the difference frequency, focal modulation six to eight
+centimetres deep — and footnote [^4]'s only citation was `Perspective` Guide §4.1. The grade note said
+*"the physics of the interference envelope is established"* **without saying by whom**, which is an
+assertion in a graded note's clothes, in the chapter whose whole subject is instruments that are exact
+about the input and silent about the warrant.
+
+⛔ **The reviewer named Grossman 2017 as the anchor. It is the right paper and it is one paper short.**
+Grossman *et al.*, *Cell* 169:6 (2017), doi:10.1016/j.cell.2017.05.024, validated the envelope by
+modeling and physics experiments and demonstrated focal hippocampal stimulation **in living mice**.
+The body's claim is about a **human** head at 6–8 cm. That is a separate result with its own paper:
+Violante *et al.*, *Nat Neurosci* 26 (2023), doi:10.1038/s41593-023-01456-8 — modeling plus **human
+cadaver measurement** for focality, then fMRI and behaviour in living subjects. Wessel *et al.*,
+doi:10.1038/s41593-023-01457-7, is the independent human striatal demonstration published alongside.
+Demchenko *et al.*, *Brain Stimulation* (2025), doi:10.1016/j.brs.2025.10.023, is the systematic review
+of human tTIS as a class. **So the top tier was not one grade, it was two — mechanism (rodent, 2017)
+and human depth focality (2023) — and the chapter's three-tier grade should have been four.**
+
+✅ **FIXED ON THE SPOT, Day 191.** All four sources added to [^4] **without renumbering**, since VIII.3's
+markers are already out of sequence (queue item: [^7] before [^5]/[^6]) and renumbering against a broken
+order scrambles live references. ✅ **AND ONE CORRECTION THE SOURCES FORCED ON THE BODY:** it said the
+envelope permits focal modulation *"without touching the cortex above it."* Violante's finding is
+**minimal exposure**, not none. Body now reads *"with only minimal exposure of the cortex above it."*
+The stronger word was not in the evidence and it was the first word a reader would check.
+
+★ **The general lesson, and it is a gauge request:** `endnote_debt.py` extracts **persons**, and this
+citation had a source — it just had the wrong *kind* of source. **A self-citation for an external
+empirical claim passes every gauge the project owns**, because every gauge asks *is there a receipt*
+and none asks *is the receipt ours*. **TRIGGER: R-2, Book VIII — the fix is landed, the gauge is not.**
+free (done) / small (gauge).
+
+---
+
+**FILED — R-132: THE FAILURE-MODE SERIES ORPHANS VII.6, AND ITS LABEL SET COLLIDES WITH ITS OWN UMBRELLA.**
+
+Book VIII outside read, finding 5. Two defects, and the reviewer's account of each needs a correction
+that changes what the fix is.
+
+**(a) The orphaning is real and it does not start where the reviewer says.** They wrote that *"VIII.1
+restarts the count at VII.7."* Measured: **the restart is at VII.9**, one chapter earlier — `VII-09:197`
+reads *"the third distinct failure mode in three consecutive chapters"* and enumerates VII.7, VII.8,
+VII.9. VIII.1 inherits it. That matters, because the sentence to edit is in VII.9 and the reviewer would
+have sent me to VIII.1.
+
+⛔ **And the contradiction is sharper than one line.** VII.7:310 calls itself *"the second instrument in
+Book VII to fail by returning a confident negative"* and names VII.6 as the first. VII.8:251 goes
+further: *"Same family as VII.6's and VII.7's."* **Two consecutive chapters put VII.6 in the family and
+the third silently drops it.** VII.6's mechanism — *identifies mutuality with symmetry, cannot
+distinguish an asymmetry of capacity from an asymmetry of sign* — is genuinely distinct from all nine
+carded modes, so inclusion is defensible on the merits and **would renumber nine ordinals across six
+chapters** (VII.9 third→fourth … VIII.6 ninth→tenth, plus VIII.3's *"five before it"* and VIII.5's
+*"previous seven"*). ✅ **The cheap fix is available and is also the true one:** VII.6's own card says
+*"It was the gloss that went wrong"* — the defect is in the received gloss, not in the instrument — so
+VII.9 gains a clause stating why VII.6 is named as kin by VII.7/VII.8 and not counted in the mechanism
+series. **Not "one sentence in either direction": one sentence in VII.9, and only in that direction.**
+
+**(b) The label set is worse than a miscount.** The reviewer flagged VIII.5:202 — *"the previous seven
+fail at seeing, at aim, at objective, at frame, at the loop, at resolution"* — as six categories for
+seven modes. True. ⛔ **But the count is the symptom.** VIII.3:315 uses **seeing as the umbrella for the
+first five** (*"are all failures at seeing"*). VIII.5 then uses **seeing as a sibling label alongside
+aim/objective/frame** — i.e. it demotes VIII.3's umbrella into one of the things underneath it. Mapping
+the labels that are unambiguous — objective=VIII.1, frame=VIII.2, the loop=VIII.3, resolution=VIII.4 —
+leaves *seeing* and *aim* to cover VII.7, VII.8 and VII.9, and **VII.8's mode has no label at all**: it
+is *binary in a three-valued domain*, which is a resolution failure, and VIII.4 has claimed
+*"the first that fails on resolution."* **Fixing the arithmetic without fixing the collision produces a
+seven-item list with two different senses of *seeing* in it.**
+
+★ **The reviewer's closing observation is the sharpest thing in the batch and it is correct:** the
+chapter counts are right every time (fifty-seven … sixty-five, all verified) and the ordinal
+self-references have now collided in **three consecutive books** (VI's C30 *"fourth time"*, VII's
+*"third failure mode"*, this). **The arithmetic that gets checked is right and the arithmetic that does
+not, isn't** — `where_the_book_is.py` counts chapters and nothing counts series. ⛔ **The gauge they ask
+for is R-126, already top of queue and already specced for exactly this** (family 2, COUNT/NEGATION).
+**This is R-126's third fixture, and the first that is a *series* rather than a single claim** — the
+gauge must reconcile an ordinal across chapters, not just check one sentence against the corpus.
+**TRIGGER: R-2, Book VII (a) — and (b) belongs with it, not with Book VIII, because the taxonomy is
+VII's.** medium.
+
+---
+
+**FILED — R-133: C15's AMENDMENT WAS SWEPT ACROSS THE REGISTER AND NOT ACROSS ITS OWN SOURCE. ✅ FIXED.**
+
+Book VIII outside read, finding 6. The reviewer wrote that the register was swept and *"sixty-odd
+chapters of prose weren't,"* naming V.11:255 as the exposure. ⛔ **Measured, and the estimate is wrong
+in both directions at once — the prose is nearly clean and the apparatus is not.**
+
+**The chapters are acquitted, both of them.** V.11:255 (*"Book I named the telos as exploration and
+mutual recognition"*) is an accurate **report of what Book I said**, using the phrase as a name; it does
+not assert the reciprocal reading. VII.6:177 is not an inheritor at all — it is **the chapter performing
+the amendment** (*"'mutual' in that phrase has been carrying the same unexamined symmetry… It should
+not"*), and VII.6:351 records it. A full sweep for the reciprocal construction across all sixty-seven
+chapters returns **exactly one live hit: VIII.1:100, which quotes the defective wording in order to
+repair it.**
+
+⛔ **The two real breaches are in the apparatus, and one of them is the origin of the wording.**
+`01-THE-GROUND.md:165` — the document that **defines** the telos — read *"Mutual recognition —
+perspectives recognising each other as perspectives."* `06-THE-SCAFFOLD.md:4187` carried the same into
+VIII.1's planning note. **VIII.1 quotes `01` to repair it and `01` still said it.** The Day-191 sweep
+read the thirty canonicals in `07` and correctly found C15 the only inheritor — **and the frame it swept
+never included the file C15 inherited *from*.**
+
+✅ **FIXED ON THE SPOT, Day 191.** `01` §10 rewritten to the amended form with a dated ★ note naming the
+defect and the frame error; `06`'s note marked ⛔ SUPERSEDED and kept as the record of what VIII.1 was
+drafted from, explicitly not to be quoted forward.
+
+★★ **The shape is worth keeping, because the book already carded it.** A sweep certified a claim by
+reading a set that excluded the claim's source — **the sample frame drawn from inside the region under
+survey, which is VIII.2's own failure mode**, committed by the gauge that was checking VIII.1. The note
+in `01` says so and points at the card. free (done).
+
+---
+
+**R-134 — NOT A FINDING. Book VIII outside read, finding 7, both halves already accounted for.**
+
+**(a) VIII.3's markers out of sequence** — [^7] at body line 333 before [^5] at 342 and [^6] at 363.
+**Verified true.** Already an open item, filed by the chapter itself inside [^3] and carried on the
+handoff. No new row; noted here so the two records agree.
+
+**(b) The first-person claim in VII.6 — the quoted sentence no longer exists.** The reviewer quotes
+*"broken once, deliberately, and then put back"* and calls it false in both directions. ⛔ **That phrase
+was deleted in commit `560287b` — the previous batch of this same reviewer's findings, R-121, fixed on
+their own instruction.** `git log -S` confirms it: present at 58d9c6a (VII.6 drafted), gone at 560287b.
+VII.6:314 now reads *"This is where that stops being a leak and gets declared,"* which is exactly the
+reframing finding 7 asks for and is forward-compatible with the *I* recurring in VII.7, VIII.4 and
+VIII.5 — it declares the register, it does not forswear it. ✅ **And R-121's second clause — *"check the
+matching claim in `07`/the card"* — is now discharged by measurement:** `07` and `08` carry no sibling
+first-person claim. R-121 closes complete.
+
+★ **Worth recording as a property of outside reads, not as a fault:** a reviewer working from a
+manuscript snapshot **re-reports fixes made after the snapshot**, and the re-report is indistinguishable
+in form from a new finding. The tell was cheap — `git log -S` on the quoted phrase, four seconds. **Run
+it on any finding that arrives with an exact quotation before spending anything on the finding.**
+free.
+
+---

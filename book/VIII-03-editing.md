@@ -282,8 +282,8 @@ that a restriction with a physical implementation can be adjusted at the impleme
 **Complement:** what it does that nothing else does — **selectivity**. Two kilohertz-frequency currents
 delivered at the scalp produce an interference envelope where they cross, oscillating at the
 difference between them; neurons at the intersection respond and neurons elsewhere do not, which
-permits focal modulation of a structure six to eight centimetres deep without touching the cortex
-above it. The consequence for navigation is that the frequency band, the target, the depth and the
+permits focal modulation of a structure six to eight centimetres deep with only minimal exposure of
+the cortex above it. The consequence for navigation is that the frequency band, the target, the depth and the
 duration are separately specifiable. Suppress alpha at the posterior cingulate and the enforcement
 mechanism of the restriction relaxes — neural entropy up, self-referential processing down, more
 accessible. Enhance it and the restriction tightens: more focus, firmer sense of self, less
@@ -482,6 +482,24 @@ prediction.** Those are three different evidence grades in one paragraph of the 
 does not average them. Nothing in this chapter should be read as a recommendation to run a protocol;
 what is recommended is the safety sequence, which is the part with the strongest warrant and the least
 appeal.
+★ **PRIMARY SOURCES, added Day 191, and the top grade splits in two.** The paragraph above was the
+one empirical claim in Book VIII about a real technology and its only citation was this project's own
+guide, which is an assertion wearing a grade's clothes. The mechanism — two kHz-range fields, an
+envelope amplitude-modulated at the difference frequency, focal response at the intersection — is
+Grossman *et al.*, "Noninvasive Deep Brain Stimulation via Temporally Interfering Electric Fields,"
+*Cell* 169:6 (2017), 1029–1041, doi:10.1016/j.cell.2017.05.024; validated by modeling and physics
+experiments, and demonstrated in the hippocampus of **living mice** without recruiting overlying
+cortex. ⚠ **That is not the same claim as the one in the body.** *Six to eight centimetres deep in a
+human head* is a separate result and it has its own paper: Violante *et al.*, "Non-invasive temporal
+interference electrical stimulation of the human hippocampus," *Nature Neuroscience* 26 (2023),
+doi:10.1038/s41593-023-01456-8 — field modeling plus **human cadaver measurement** for the focality,
+then fMRI and behaviour in living subjects. Wessel *et al.*, doi:10.1038/s41593-023-01457-7, is an
+independent human demonstration at the striatum published alongside it. For how much is established
+across human applications as a class, Demchenko *et al.*, *Brain Stimulation* (2025),
+doi:10.1016/j.brs.2025.10.023, is a systematic review. ⛔ **One correction the sources forced on the
+body text, and it is made above rather than noted here.** It read *"without touching the cortex above
+it."* Violante's finding is **minimal exposure**, not none, so the body now says minimal exposure. The
+stronger word was not in the evidence and it was the word a reader would have checked first.
 
 [^5]: `Perspective` **Guide §5.3, Method 2 (tradition-switching)**, deferred to this chapter by the
 previous one's screen on the grounds that taking it there would strand this one. §4.3, **The Role of

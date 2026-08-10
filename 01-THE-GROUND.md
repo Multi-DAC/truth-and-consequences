@@ -162,10 +162,21 @@ So the telos is inside, and it has two halves, and dropping either one breaks it
   no graduation, no elect. *(Clayton, 2026-06-25, already on the record: "There's no
   need for unity or dissolution, no need to extremely individuate or congregate, the
   experience itself is the gift, from whatever perspective is taken.")*
-- **Mutual recognition** — perspectives recognising *each other as perspectives*.
-  Without this half, exploration is **tourism**, which `06`'s VIII.1 already names as
-  the failure mode without yet having this as its content. The no-NPC rule stops
-  being a metaphysical curiosity and becomes the practice.
+- **Mutual recognition** — perspectives being recognised *as perspectives*. The
+  recognition is **mutual across the field, not required within the pair**: what the
+  telos asks is that the regard be correct about its object, not that its object
+  return it. Without this half, exploration is **tourism**, which `06`'s VIII.1
+  already names as the failure mode without yet having this as its content. The
+  no-NPC rule stops being a metaphysical curiosity and becomes the practice.
+  ★ **AMENDED Day 191.** This bullet read *"perspectives recognising each other as
+  perspectives"* — the reciprocal construction VII.6 found in the source's definition
+  of love and C15 inherited from here. It is the same defect and it was paid the same
+  way: *each other* smuggles in a symmetry requirement that C9 forbids, since
+  grade-differences are everywhere and a reciprocal telos would exclude every
+  asymmetric relation from counting. C15's amendment was made in `07` on Day 191 and
+  the sweep that certified it read the thirty canonicals, **which did not include this
+  document — the origin of the wording.** The sample frame excluded the source; see
+  VIII.2's card, which is about exactly that.
 
 **And the meaning ruling, amended by Clayton in the same breath:** *"I do think it's
 partially a make your own meaning thing, though not completely, obviously."* This
