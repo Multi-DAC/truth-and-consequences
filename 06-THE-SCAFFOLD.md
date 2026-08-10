@@ -241,7 +241,7 @@ be on a NEW axis:** II.1 already spent the *elsewhere* axis (a copy has a room, 
 II.2's is the **economy** — a game generates procedurally because storage costs money, and a reader
 handed that has a machine with an accounts department.
 
-### II.3 — THE PERSPECTIVE ✅ DRAFTED — 2,364 words
+### II.3 — THE PERSPECTIVE ✅ DRAFTED — 2,737 words
 **Beats:** **the most dangerous mishearing, killed first** — *a perspective is not an opinion about
 the world; it is a place where the world happens* · in-game: not your review of the game, the instance
 it runs in · the Null-Space Theorem in plain words, no symbols · **blindness is patterned, determinate,
@@ -310,7 +310,7 @@ yet stated.* **VII.2 STATES THE PREMISE AND CROSSES** — and the grade then bea
 not a contradiction of the rule but its content. The caste error is not that it reaches a conclusion
 about worth; it is that it crosses with no premise stated, so there is no step anyone can refuse.
 
-### II.5 — THE TUNNEL ✅ DRAFTED — 2,342 words
+### II.5 — THE TUNNEL ✅ DRAFTED — 2,665 words
 **Beats:** a reality tunnel is a **persistent render filter** · installed by era, language, ritual,
 trauma, choice · editable, and the edit is Book VIII's · **the map is not the territory** — and this
 is the chapter that makes `05`'s retirement of "map" as a name for the Ground non-negotiable.

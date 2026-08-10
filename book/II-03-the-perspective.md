@@ -29,7 +29,7 @@ met him.
 **Protagoras of Abdera, fifth century BC:** *of all things the measure is man — of the things that
 are, that they are; of the things that are not, that they are not.* The sentence opened a book called
 *Truth*, most of which is gone. It survives because Plato took it seriously enough to spend a
-dialogue on it, which is the best evidence we have of how hard it was to answer.
+dialogue on it, which is the best evidence we have of how hard it was to answer.[^1]
 
 He was first, by twenty-four centuries, at the part that matters most: the having is always
 somebody's having. There is no report from nobody. Every account of what is the case comes from
@@ -41,7 +41,7 @@ other, and a verdict passing between them — which makes each person the arbite
 and an arbiter is exactly somebody with an opinion who is entitled to it. That is the mishearing, in
 its original and strongest form, and Plato's reply has kept for two and a half thousand years: if
 every opinion is true, then the widely-held opinion that Protagoras is wrong is also true, and the
-doctrine eats itself.
+doctrine eats itself.[^2]
 
 Ours does not have that shape, and it is worth saying why with some care, because the reader who has
 met the self-refutation objection will be waiting to spring it. We are not claiming that every
@@ -87,7 +87,7 @@ fifty years ago by a French priest who was not thinking about any of this.
 noticed something the prevailing account of vision had no place for: the optic nerve does not enter
 at the middle of the back of the eye. It enters higher, and toward the nose. From which it follows
 that there is a patch of the retina with nothing on it to receive anything, and therefore a patch of
-the visible world that never arrives at all.
+the visible world that never arrives at all.[^3]
 
 He found it in the anatomy first. Then he built the demonstration to make it show itself: two small
 white marks on a dark ground, one eye covered, the open one fixed on the first mark — and walk
@@ -128,7 +128,7 @@ came to him late, and by a road that did not run through him.
 **José Ortega y Gasset**, 1923, *El tema de nuestro tiempo*. Perspectivism, as a doctrine, with the
 sentence this chapter is built on already in it: reality is such that it can only be had from a
 particular place, and a perspective is therefore not a *deformation* of reality but a **component**
-of it. He said that into the teeth of a century that thought objectivity meant subtracting the one
+of it.[^4] He said that into the teeth of a century that thought objectivity meant subtracting the one
 who was looking. He was not hedging, and he was not being modest on behalf of human knowledge — he
 was making a claim about what reality is like.
 
@@ -157,7 +157,7 @@ The most careful modern version is also the most famous, and it gets nearer than
 your own standpoint, include it as one among many, and what you get is less yours and more the
 world's. Nagel is not naive about this and the book's honesty is its subject — he holds that some
 things are not reachable that way at all, having argued twelve years earlier that no amount of
-stepping back gets you what it is like to be a bat, and he never claims the direction terminates.
+stepping back gets you what it is like to be a bat, and he never claims the direction terminates.[^5]
 
 The cut is one word: **direction**. Stepping back is not movement toward a view from nowhere. It is
 movement to another place. Every act of standing back is performed by something with a shape —
@@ -193,3 +193,38 @@ Two things follow from that and neither is settled here. What to *do* about a bl
 see from inside is a practice, and the practices are Book VIII's. What it costs when perspectives
 with different null spaces have to share a room — when the thing one of them cannot register is
 another one — is Book VII's, and it is the harder of the two.
+
+---
+
+## Notes
+
+[^1]: Protagoras of Abdera, fr. B1 Diels–Kranz, reported as the opening sentence of the work called
+*Alētheia* (*Truth*), which survives only in quotation. The two principal witnesses are Plato,
+*Theaetetus* 152a, and Sextus Empiricus, *Adversus Mathematicos* VII.60. Nothing in the chapter above
+rests on a reconstruction of the lost book: the claim made for him is the one the surviving sentence
+carries by itself.
+
+[^2]: Plato, *Theaetetus*, roughly 170e–171c, for the self-refutation — the move commonly called the
+*peritropē*, the turning of the tables. The argument is reported here in its short form and is worth
+one qualification the chapter does not have room for: it is Socrates who runs it, and Plato is
+careful enough to let Protagoras answer back at 166a–168c before it lands.
+
+[^3]: Edme Mariotte, *Nouvelle découverte touchant la veüe* (Paris, 1668). The anatomical priority is
+the load-bearing part of the story above and it is Mariotte's own account: he reasoned from the
+insertion of the optic nerve to a receptorless patch, and then built the two-mark demonstration to
+make it visible. The figures given — some six degrees across, about fifteen degrees temporal — are
+the standard modern measurements of the same gap rather than his, and the crossover (nerve nasal,
+gap temporal) follows from the inversion of the retinal image.
+
+[^4]: José Ortega y Gasset, *El tema de nuestro tiempo* (Madrid, 1923), translated as *The Modern
+Theme*. Perspectivism is set out in the essay "La doctrina del punto de vista," where the
+perspective is called a component of reality rather than a deformation of it, and where the absolute
+truth is identified with the integrated articulation of all perspectives — the position the chapter
+credits and then declines. That he held the sum to be permanently incomplete, the set of
+contributors being open, is his own qualification and not a charity extended here.
+
+[^5]: Thomas Nagel, *The View from Nowhere* (New York: Oxford University Press, 1986), and, twelve
+years earlier, "What Is It Like to Be a Bat?", *Philosophical Review* 83, no. 4 (1974), 435–450. The
+objection above is aimed at one word — *direction* — and not at the book's honesty about its own
+limits, which the chapter says outright because Nagel says it first and it would be cheap to take
+credit for noticing.

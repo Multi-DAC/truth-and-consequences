@@ -92,7 +92,7 @@ discriminated them the way they discriminated the sounds of their own language, 
 months there is no such thing as the sounds of their own language. By eleven to twelve months they
 did not. Infants of the same age learning Hindi, and infants learning Nthlakapmx, still heard theirs.
 Four-year-olds performed like adults, which is to say they heard one sound where a Hindi speaker
-hears two. Not a difficult distinction. Not a subtle one. One sound.
+hears two. Not a difficult distinction. Not a subtle one. One sound.[^1]
 
 Nothing was removed from those children. Nobody damaged anything, nothing was lost that a better
 upbringing would have kept, and no deficit was incurred. A year of one language ran, and afterwards
@@ -101,7 +101,7 @@ there, and it has it as flatly and unarguably as this room has one ceiling.
 
 That is a null space with a date on it, and the date is what makes it a different animal from the
 one II.3 established. Mariotte's hole was in the anatomy before anything happened to him; it is the
-shape of having eyes at all, and it would be there in any life he had lived. This one was installed.
+shape of having eyes at all, and it would be there in any life he had lived.[^2] This one was installed.
 It could have been otherwise, and in Delhi it was.
 
 **So null spaces come in two kinds, and only one of them is anybody's business.** There is the
@@ -121,7 +121,7 @@ The term belongs to somebody, and so does the sentence under it.
 it into something a reader could use, which is the harder half of the job and the reason the term
 exists outside a seminar at all. His statement of it is direct: each of us is trapped in the
 reality-tunnel our brain has manufactured; we do not sense it as a model our brain has made, we
-sense it automatically and mechanically as being out there, apart from us, and we call it objective.
+sense it automatically and mechanically as being out there, apart from us, and we call it objective.[^3]
 
 Credit at full strength, because he got the parts that are hardest to get. He saw that this is not
 opinion — not a set of beliefs held at a distance and revisable by argument, but the thing arguments
@@ -151,7 +151,7 @@ Upstream of him is the sentence this chapter exists to put beyond negotiation, a
 almost exclusively in half.
 
 **Alfred Korzybski, 1931**, in a paper read at the New Orleans meeting of the American Association
-for the Advancement of Science and reprinted two years later in *Science and Sanity*:
+for the Advancement of Science and reprinted two years later in *Science and Sanity*:[^4]
 
 > A map is not the territory it represents, but, if correct, it has a similar structure to the
 > territory, which accounts for its usefulness.
@@ -202,3 +202,33 @@ invisible from inside. It is editable, because repetition has not stopped being 
 nothing that was installed that way is finished being installed.
 
 How it is edited is Book VIII's, and it is not a technique for getting out.
+
+---
+
+## Notes
+
+[^1]: Janet F. Werker and Richard C. Tees, "Cross-language speech perception: Evidence for perceptual
+reorganization during the first year of life," *Infant Behavior and Development* 7 (1984), 49–63. The
+two contrasts are the Hindi retroflex/dental *t* and a glottalized velar–uvular contrast from
+Nthlakapmx — the paper's own spelling; the language is Interior Salish and is now generally written
+Nlaka'pamux, or called Thompson River Salish. The age figures given above are the paper's: infants
+from English-speaking homes discriminated both at six to eight months and no longer did at eleven to
+twelve, while same-age infants acquiring each language still did. The chapter takes the result as a
+*date on an installation* and nothing more; the mechanism of perceptual reorganisation is a live
+question in that literature and none of it is settled here.
+
+[^2]: Mariotte's blind spot is II.3's, with the source given in full there. It is recalled here only
+as the contrast case — a null space that is the shape of having eyes, against one with a date on it —
+and no new claim is made about it.
+
+[^3]: Robert Anton Wilson, *Prometheus Rising* (Phoenix: Falcon Press, 1983). The sentence is given
+above in a close paraphrase rather than as a quotation and should be read as one. Wilson attributes
+the term *reality tunnel* to Timothy Leary and says so himself; what is his is the working-out, which
+is why the credit above is for the harder half rather than for the coinage.
+
+[^4]: Alfred Korzybski, "A Non-Aristotelian System and its Necessity for Rigour in Mathematics and
+Physics," a paper read before the American Mathematical Society at the American Association for the
+Advancement of Science meeting, New Orleans, 28 December 1931, and reprinted in *Science and Sanity*
+(Lancaster, Pa.: International Non-Aristotelian Library, 1933) as Supplement III. The full sentence
+is quoted above because the second clause is the load-bearing one and is almost always dropped; the
+eleven famous words are the first clause alone.
