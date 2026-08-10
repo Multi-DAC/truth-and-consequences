@@ -420,10 +420,20 @@ def book_totals():
     files = chapter_files()
     corpus = Counter()
     parsed = []
+    flats = []
     for p in files:
         prose, notes_block = split_prose_notes(p.read_text(encoding="utf-8"))
-        corpus += common_noun_counts(strip_furniture(prose))
+        flat = strip_furniture(prose)
+        corpus += common_noun_counts(flat)
+        flats.append(flat)
         parsed.append((p, prose, notes_block))
+    # ⛔ MECHANISM-WITHOUT-A-TRIGGER, MINE, CAUGHT WITHIN THE HOUR. The given-name
+    # guard was built in main() only, so THIS path -- the one every planning
+    # decision actually consults, via where_the_book_is -- ran with GIVEN_NAMED
+    # empty and re-excluded McGilchrist. The two entry points disagreed by 2
+    # sources and nothing errored: 62/139 here, 61/137 there. A guard installed
+    # on one caller is not installed.
+    build_given_named(flats)
 
     src = cov = notes = 0
     for p, prose, notes_block in parsed:
