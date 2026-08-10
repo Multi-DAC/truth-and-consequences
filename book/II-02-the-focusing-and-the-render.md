@@ -25,7 +25,7 @@ in a picture nobody improves on. We say *the lightning flashes*, and we have sai
 twice — there is the flash, and then language, needing a subject for its verb, sets a lightning
 behind the flash to be the one who flashed it. The doubling is free, it is automatic, and once the
 doer is there it can be praised, or blamed, or addressed. He was right about the mechanism, and he
-was right that the strength of the intuition is evidence about grammar rather than about the world.
+was right that the strength of the intuition is evidence about grammar rather than about the world.[^1]
 
 He takes it one scope too far, and the scope is *everywhere*. He wanted the doer gone from every
 sentence, the subject itself a fiction, and the inside dissolved along with it. That is not
@@ -76,7 +76,7 @@ in each, every one with a name, an economy and a government. None of that was on
 no list of two thousand systems anywhere in the code, and there was no room for one. There was a
 number and a procedure, and the systems were what the procedure came to. They had generated far more
 than eight galaxies and cut it down because the quantity was thought absurd — the cutting down was a
-decision about taste, not about space.
+decision about taste, not about space.[^2]
 
 And the part that matters more than the size: it was the same galaxy for everyone. Lave was Lave, in
 every copy, in every country, for every player who ever started there — not because a canonical Lave
@@ -144,7 +144,7 @@ seven degrees. And a texture, to find bare skin by. Three signals, and that is n
 tick's world — it is the world, entire. Uexküll insisted on the point that costs the most: this is
 not an impoverished version of ours. Nothing is missing from it, because there is nothing there to
 be missed. He reported a tick kept alive at Rostock for eighteen years without a meal, and eighteen
-years is not a long wait in a world where nothing happens between one signal and the next.
+years is not a long wait in a world where nothing happens between one signal and the next.[^3]
 
 He did not intuit any of this. He worked it out from the animal's organs, one receptor at a time,
 which is what makes him a measurement rather than a metaphor.
@@ -160,7 +160,7 @@ worlds, and the one that claims to be it is a tick's branch with better funding.
 He would not have minded the correction being aimed at him in these terms, because he named the
 source himself: he called his biology Kantian, and he meant it. Kant's thing-in-itself is the world
 as it stands apart from any encounter with it — real, and unknowable in principle, which is a
-strange pair of properties to assert of the same object. The *Umgebung* is that, with fur on it.
+strange pair of properties to assert of the same object.[^4] The *Umgebung* is that, with fur on it.
 There is no unrendered original standing behind the render, waiting for a creature with better
 organs to reach it at last.
 
@@ -170,3 +170,41 @@ So: nobody focuses. Nothing is stored. Nothing is spent.
 
 There is a position, and what is the case at it, and what you brought — and what you are in is what
 those come to, every time, the same for anyone who brings the same.
+
+---
+
+## Notes
+
+[^1]: Friedrich Nietzsche, *Zur Genealogie der Moral* (1887), First Essay, §13, for the lightning and
+the flash: "there is no 'being' behind the deed... the deed is everything." The mechanism is taken
+whole; the scope is not. Nietzsche's target in that section is moral responsibility — the doer is
+posited so that the strong can be *held accountable* for their strength — and the argument's reach in
+his hands is to the subject as such. What this chapter keeps is the narrower and, it argues, better
+claim: that the intuitive force of "an act takes somebody doing it" is evidence about the demands of
+grammar, not about the furniture of the world.
+
+[^2]: *Elite* (Acornsoft, 1984), David Braben and Ian Bell, written for the BBC Micro in roughly 22
+kilobytes. The eight galaxies of 256 systems each are generated from a seed rather than stored, and
+the reduction reported above is documented: the design originally ran to some 282 trillion galaxies,
+and it was the publisher who pressed for the cut to eight on the grounds that the larger number was
+unmanageable and meaningless to a player. That is what fixes the cut as an editorial judgement rather
+than a memory constraint — which matters here, because the whole use this chapter makes of the game
+turns on separating *determinate without being stored* from *cheaper than storing*. Lave's identity
+across every copy follows from the same seed meeting the same procedure; no canonical Lave was ever
+shipped.
+
+[^3]: Jakob von Uexküll, *Streifzüge durch die Umwelten von Tieren und Menschen* (1934), translated
+by Joseph D. O'Neil as *A Foray into the Worlds of Animals and Humans: With a Theory of Meaning*
+(Minneapolis: University of Minnesota Press, 2010). The tick opens the book, and the three signals —
+butyric acid, thirty-seven degrees, and a tactile search for hairless skin — are given there as the
+whole of its *Umwelt* rather than as a summary of it. The eighteen-year fast is Uexküll's own report
+of ticks held at the Zoological Institute at Rostock. The claim that he worked outward from the
+receptors is not a compliment added here; it is his method, and it is why the account is offered
+above as a measurement rather than as a metaphor.
+
+[^4]: Immanuel Kant, *Kritik der reinen Vernunft* (1781; 2nd ed. 1787), for the thing-in-itself. The
+attribution of the *Umgebung* to it is not an outside diagnosis: Uexküll described his own biology as
+Kantian, and the introduction to the *Foray* says so in those terms. The objection made above is
+therefore made on his own ground — the *Umgebung* is a thing-in-itself that has been granted a
+standpoint from which it can be surveyed, which is precisely the combination Kant's own distinction
+was built to forbid.

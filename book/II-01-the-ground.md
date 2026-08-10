@@ -22,7 +22,7 @@ no runtime. Nothing is being computed and nothing is queued.
 The strongest prior version of that is David Lewis's, and the half he got right is the expensive half:
 he held that the other ways things could have gone are not stories, not abstractions, not manners of
 speaking — they are concrete, exactly as real as this one, and he took thirty years of ridicule for
-saying so and did not move. Take that half whole. The cut is one word, and it is his own:
+saying so and did not move.[^1] Take that half whole. The cut is one word, and it is his own:
 **plurality**. Each of his worlds is sealed off from the others, each is somewhere, and *somewhere else* does
 load-bearing work in the picture. These are not elsewhere. There is no elsewhere for them to be in.
 Separation is one of the arrangements; it is not the room the arrangements are kept in.
@@ -37,7 +37,7 @@ they were generated.
 
 Here is the most useful opponent this book has, and he comes with a name and a date. Nick Bostrom,
 2003: an argument that we are very probably living in a computer simulation, put not as a mood but as
-a trilemma with numbers in it, in a philosophy journal. He deserves the credit the people who enjoy
+a trilemma with numbers in it, in a philosophy journal.[^2] He deserves the credit the people who enjoy
 the idea rarely give him. He made the thing checkable, and he was right about the part everyone
 remembers — that a world can be generated rather than found and lose not one gram of its solidity for
 it.
@@ -84,7 +84,7 @@ is not a way of having one.
 
 There is a name for what is left when the player is taken out, and the name is not ours. Paul Tillich,
 first volume of the *Systematic Theology*, 1951: God is *the ground of being*, and he meant it at full
-strength. Not a being among beings. Not the highest entry on a list of entries. Not something that
+strength.[^3] Not a being among beings. Not the highest entry on a list of entries. Not something that
 could be an object at all, to be inspected or argued about from a position beside it. What everything
 that is, is, by participating in it. That is this book's central term, in his words, half a century
 before anyone was worried about simulations — and an unnamed borrowing from a famous theologian is
@@ -97,9 +97,9 @@ faith. Ours cannot be addressed. Addressing takes an inside at the far end of it
 position to receive — and there is none. Not deaf, not silent, not declining. Tillich took away God's
 face and kept the direction of prayer. The face and the direction go together.
 
-He did not invent the phrase either. It reaches him through Schelling, and behind Schelling stands
+He did not invent the phrase either. It reaches him through Schelling,[^4] and behind Schelling stands
 Jakob Böhme, a shoemaker in Görlitz who from 1612 wrote about the *Ungrund* — the unground, the
-groundless, prior to all distinction and prior to God-as-a-person. The town council forbade him to
+groundless, prior to all distinction and prior to God-as-a-person.[^5] The town council forbade him to
 write again. He stopped for seven years, and then wrote it again. His word is the precise one, it has
 been missing from this vocabulary, and it is here now.
 
@@ -145,7 +145,7 @@ claim, and the distance between the two is what the rest of this chapter is for.
 
 The correction was made in Japanese in 1911, by a man who stands outside the argument this book is
 otherwise having. Nishida Kitarō opened *An Inquiry into the Good* with **pure experience**:
-experience as it is *before* the split between the one experiencing and the thing experienced. Not a
+experience as it is *before* the split between the one experiencing and the thing experienced.[^6] Not a
 subject with an object in front of it. Not a mind meeting a world. The split is real, and it comes
 later, and both of its sides are abstractions from something that was there before either of them —
 which is to say that *mind* and *matter* are not two ingredients but two ways of cutting one thing,
@@ -204,3 +204,49 @@ moving apparatus of a world — and a reader who has met the Ground first will w
 doing all of that. It is not doing any of it. It has no verbs.
 
 It is the whole game. The playing happens inside.
+
+---
+
+## Notes
+
+[^1]: David Lewis, *On the Plurality of Worlds* (Oxford: Blackwell, 1986). Modal realism — that the
+other ways things could have gone are concrete and no less real than this one — is stated first in
+*Counterfactuals* (Oxford: Blackwell, 1973), §4.1, and defended at length in the 1986 book, where
+Lewis answers what he himself calls the "incredulous stare" and declines to trade the thesis for
+respectability (§2.8). What this chapter takes from him is the concreteness and the refusal to soften
+it. What it cuts is the *plurality*, which is his own word and the title of that book. The
+disagreement is over whether the arrangements are separate places, not over whether they are real.
+
+[^2]: Nick Bostrom, "Are You Living in a Computer Simulation?", *Philosophical Quarterly* 53, no. 211
+(2003), 243–255. The argument is a trilemma — that almost no civilisation reaches technological
+maturity, or that almost none that does runs ancestor-simulations, or that we are almost certainly in
+one — and it is reported here by its structure rather than quoted. *Base reality* is not Bostrom's
+phrase; it belongs to the popular reception, and it is refused above on its own account rather than
+attributed to him.
+
+[^3]: Paul Tillich, *Systematic Theology*, vol. 1 (Chicago: University of Chicago Press, 1951), where
+God is "the ground of being" and explicitly not a being among beings. *Ultimate concern* is his term
+for the correlate of faith and receives its shortest full statement in *Dynamics of Faith* (New York:
+Harper, 1957). The step this chapter declines to take with him is **address** — Tillich's ground
+stands in a relation a person can turn toward, and that is a structural commitment rather than a
+devotional one, which is why refusing it costs something.
+
+[^4]: The phrase reaches Tillich through F. W. J. Schelling, *Philosophical Investigations into the
+Essence of Human Freedom* (1809), which takes Böhme's *Ungrund* into German idealism. Tillich's route
+to it is direct and documented rather than inferred: both of his doctoral dissertations were on
+Schelling — *The Construction of the History of Religions in Schelling's Positive Philosophy*
+(Breslau, 1910, in philosophy) and *Mysticism and Guilt-Consciousness in Schelling's Philosophical
+Development* (Halle, 1912, in theology).
+
+[^5]: Jakob Böhme. Two facts are compressed into one clause above and are separated here, because the
+compression would otherwise read as a claim about the word. *Aurora* (*Morgen Röte im Auffgang*) was
+written in 1612 and brought the Görlitz council's prohibition and the roughly seven-year silence that
+followed. *Ungrund* as a technical term belongs to the late works — *De Signatura Rerum* (1622),
+*Mysterium Magnum* and *Von der Gnadenwahl* (1623) — and not to *Aurora*. "From 1612" therefore dates
+the writing life and the ban, not the appearance of the word this chapter is borrowing.
+
+[^6]: Nishida Kitarō, *Zen no kenkyū* (1911), translated by Masao Abe and Christopher Ives as *An
+Inquiry into the Good* (New Haven: Yale University Press, 1990). *Pure experience* (*junsui keiken*)
+opens Part I, defined as experience prior to the distinction between the one experiencing and the
+thing experienced. The claim that mind and matter are both abstractions from it is Nishida's; the use
+of it to hold the fourth clause clear of idealism is this book's, and he is not responsible for it.
