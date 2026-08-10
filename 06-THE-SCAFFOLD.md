@@ -3916,6 +3916,44 @@ rather than concealed.
 ⚠ **Retitled Day 186**, same cause as III.3 — and this title had additionally been carried
 forward into `00`'s macro-structure, which is how a retired word in a heading propagates.
 The new title is C14's own canonical language and states the objection in the title.
+**Source:** the chapter is built from a **pair split across the source's two Parts**. The **objection**
+is `Perspective` **04 §4.1 The Static Totality Problem** — *"if all configurations already exist, why is
+there experience at all?"*, the title's own question, asked by the source against itself — with **§4.2 The
+Self-Separating Whole** (Theorem 5) and **§4.3 Boundaries as Generative Constraints** for why boundary is
+generative rather than privative: *"the keyholes are not a limitation. They are the generative constraint
+that makes navigation — and therefore experience — possible."* The **answer** is **05 §5.2 Dramaturgy**,
+holding **Theorem 6 (Navigational Freedom)** — *"free will is the capacity of a stream to navigate toward
+or away from its own coherence"* — and **§5.2.2 The Teleology-Existentialism Synthesis**, where the *what*
+is inherited and the *how* is authored. **+ Guide 06 §6.1 The Price of Being Someone** and **§6.2 The
+Dissolution Limit** for beat 4; §6.2 is **0 across 57 drafted chapters**, §6.1 named once at II.3 in a
+different register.
+⚠ **R-98's mechanism, second NON-CLAIM instance — and a harder one than VII.6's.** There the definition
+and its reason sat four hundred lines apart with **no cross-reference in either direction**. Here §4.3
+**does** carry a See-also — *"Guide §4.4 … Guide §6.3 … Atlas #73"* — and **not one of the three points at
+§5.2, which is where the answer is.** An absent signpost leaves you still looking; a present one that
+routes past the answer tells you that you are done. Assume no signpost is a receipt.
+⛔ **THE SOURCE TAKES THE HEDGE BEAT 4 FORBIDS, and this must be settled before a word is drafted.**
+Theorem 6's own gloss: *"This sidesteps the classical free will debate (libertarianism vs. compatibilism
+vs. hard determinism) by reframing the question entirely. The issue is not whether a stream's navigation
+is causally determined. The issue is whether navigation feels directed."* That is the metaphysical
+question declined and the phenomenological one kept. **The manuscript has done the same for 57 chapters**
+— `compatibilis*` **0**, `libertarian` **0**, `Laplace` **0**, `free will` **1** and that one incidental
+at IV.8. The bill arrives here. The tempting draft is the one that restates the sidestep in better prose
+and reads as an answer; beat 4 exists to make that draft unwritable.
+**Named:** **Sartre**, *Being and Nothingness* (1943) — the "project", *existence precedes essence*, the
+declared engine of §5.2 (*"deeply informed by the existentialist philosophy of Jean-Paul Sartre"*). ⚠
+**`Sartre` = 0 across 57 drafted chapters**, with `dramaturgy` **0** and `existence precedes essence`
+**0**: **the fifth zero-count of ruling 141's shape and the largest yet**, because this is not an
+ornament the book declined to use — it is the source's named mechanism for this chapter, unnamed through
+a whole Book on traditions. Found by looking, second chapter running; the schedule ruling 141 left open
+is still open. · **Frankfurt** (1971), *Freedom of the Will and the Concept of a Person*, hierarchical
+theory — **second appearance one chapter after his first, on a different work and in the reversed role**:
+VII.6 spent him as the **foil** whose conferral half C9 refuses, VII.7 leans on him as **support**. The
+turn is declared on the page or it reads as inconsistency. · **Heidegger** (1927) landed at VII.5; not
+re-spent. · **Plotinus** and **Tzimtzum** carry §4.1's emanation parallel and are **already housed in
+Book V** (18 hits across V.1/V.3/V.6/V.9/V.10; Tzimtzum at V.6) — **POINT, do not re-spend**, ruling
+169's discipline, third application. **Promethean** likewise part-spent at IV.9 and VII.6. · Bergson,
+Whitehead, Kauffman, Hegel are all 0 and all optional — the chapter does not need four new names.
 **Beats:** III.7's answer, taken further than a metaphor chapter could · what choosing is if every path
 exists · why this is not fatalism and why the difference is checkable · **the one place we say plainly
 what is lost** — something *is* lost here, and pretending otherwise is the hedge in its most tempting form.
