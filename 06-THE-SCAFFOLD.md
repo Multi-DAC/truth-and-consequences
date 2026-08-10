@@ -3881,7 +3881,7 @@ source's vocabulary pulled straight through** — this chapter quotes the source
 chapter works to it the more retired vocabulary arrives with the material. VII.4 scored 6 raw at
 1.08/1k; VII.5 scored 9 at 1.76/1k, and the difference is a measurement of proximity, not of care.
 
-### VII.6 — LOVE
+### VII.6 — LOVE ✅ DRAFTED — 5,029 words
 **Source:** `Perspective` **03 §3.5 Mutual crystallisation and parasitic dissolution** — taken
 entire; this chapter is its only housing, and `mutual crystallisation`, `parasitic dissolution`,
 `E+`/`E−` were all **0 across 56 drafted chapters** before it. **+ 03 §3.4 Orientations in practice**

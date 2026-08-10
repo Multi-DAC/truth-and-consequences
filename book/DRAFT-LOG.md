@@ -9423,7 +9423,7 @@ a positive control on the method, not coverage.
 
 ---
 
-**CHAPTERS-DRAFTED: 56/67 · 193,646 words** · **CLAIMS: C1…C30** · **RULINGS: 172** · **QUEUE: 86 + R-98…R-108 = 97 (R-30 paid),
+**CHAPTERS-DRAFTED: 57/67 · 198,675 words** · **CLAIMS: C1…C30** · **RULINGS: 172** · **QUEUE: 86 + R-98…R-108 = 97 (R-30 paid),
 inherited-base-plus-delta, direct count still 78, gap still R-85** · **TOOLS: 23.** Book VII 5/9; next
 prose is **VII.6 — LOVE**, whose brief is five lines with `Source` and `Named` both empty, and which
 inherits from this chapter a claim it must not soften: in the place where love matters most, it is not
@@ -9489,6 +9489,6 @@ closed on the merits.
 
 ---
 
-**CHAPTERS-DRAFTED: 56/67 · 193,646 words** · **CLAIMS: C1…C30** · **RULINGS: 175** · **QUEUE: 86 +
+**CHAPTERS-DRAFTED: 57/67 · 198,675 words** · **CLAIMS: C1…C30** · **RULINGS: 175** · **QUEUE: 86 +
 R-98…R-111 = 100 (R-30 paid; R-108's sibling clause discharged, its main clause still owed)** ·
 **TOOLS: 24.** No prose this pass, by choice. Next prose remains **VII.6 — LOVE**.
