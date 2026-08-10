@@ -513,7 +513,9 @@ chapter's, and is a correction to the source rather than a reading of it. The so
 synthesis as a reconciliation of two traditions; it is better described as a selective borrowing
 from one of them, and saying so costs the argument nothing it was entitled to keep.
 
-[^5]: Harry Frankfurt, *Freedom of the Will and the Concept of a Person* (1971), the hierarchical
+[^5]: Harry G. Frankfurt, "Freedom of the Will and the Concept of a Person," *The Journal of
+Philosophy* 68, no. 1 (1971): 5–20 — an article, not a book, and italicised as one here until the
+Day-191 outside read caught it. The hierarchical
 account: second-order volitions, and the wanton as the being who has first-order desires and no
 second-order stance toward them. Cited by the source at Theorem 6. ⚠ This is Frankfurt's second
 appearance one chapter after his first, on a different work and in the reversed role — VII.6 spent

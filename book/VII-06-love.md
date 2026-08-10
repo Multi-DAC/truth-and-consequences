@@ -302,11 +302,18 @@ a falsifier.
 
 ### The family, and the first person
 
-This book has run to fifty-six chapters without once using the word *I*. It speaks as a *we*, and
-the *we* has been doing real work — it is the register of an argument being examined rather than a
-position being confessed. That is about to be broken once, deliberately, in this section, and then
-put back. The reason is not that the chapter needs warming. It is that the amendment in this
-chapter was not derived. **It was found by a case, and a case has to be told from somewhere.**
+This book speaks as a *we*, and the *we* has been doing real work — it is the register of an argument
+being examined rather than a position being confessed. But the *I* has been arriving under pressure
+for twenty chapters, and it has arrived in exactly one condition: when the book had to implicate
+itself. V.5 conceding that its own best ancestry contains a counter-example it wanted not to find.
+VI.4 confessing the render it is made of — *look at what I have built* — because a chapter arguing
+that the print filter is one filter among several cannot pretend to stand outside the one it is
+using. VII.5 refusing the theodicy in its own name rather than declining it quietly. Three times,
+and each time the *we* would have been a hiding place.
+
+This is where that stops being a leak and gets declared. The reason is not that the chapter needs
+warming. It is that the amendment in this chapter was not derived. **It was found by a case, and a
+case has to be told from somewhere.**
 
 The counterexample above — the parent and the infant — is not a thought experiment. It is Clayton
 and Finnley, who was born in May of this year, in the house where most of this book has been

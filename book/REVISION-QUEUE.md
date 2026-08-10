@@ -2293,3 +2293,251 @@ the register rather than pretending the read happened)*. **TRIGGER: `PACKET-002`
 `PACKET-003` — Day 195.** Both set tonight, by me, not by Clayton. small.
 
 ---
+
+## BOOK VII OUTSIDE READ — Day 191 afternoon
+
+**Provenance, recorded before the findings, per [[briefing-manufactures-the-agreement]].** Clayton sent
+Book VII to an Opus instance while the Books II–V endnote retrofit was running. The reader opened with
+*"Read all nine"* — an accurate scope declaration; Book VII has nine chapters. **No packet accompanied
+it**, so unlike `PACKET-003` there is no supplied framing for their agreement to echo back. Their one
+prior-context reference — *"the four post-atlas cases I flagged"* — means this reader has seen earlier
+material and VII.2 was written to pay a debt they named. **Whether this is the same instance as the
+Book VI reader is unknown and matters**: if it is, findings 2 and 3 are one reader noticing their own
+prior class again, not two independent detections of it. Asked; unanswered at filing.
+
+**Numbering note: this file jumps R-111 → R-119.** R-112–R-118 exist in `DRAFT-LOG.md` only. That is
+R-117's filed-unfixed half and it is still open; the jump is a gap, not a misnumber. **TRIGGER
+unchanged: before R-2 starts.**
+
+**All seven findings were checked against the prose before filing. All seven hold.** Two are
+understated by their own author and are filed at the size they measure, not the size they were
+reported at.
+
+---
+
+**FILED — R-119: VII.4 ATTRIBUTES TO VII.3 AN ARGUMENT VII.3 EXPLICITLY DECLINED, AND C19'S OPERATIVE
+SEAT RESTS ON IT.**
+
+`VII-04` line 272: *"He does not slip it. The last chapter is where that was shown, at length"* — and
+line 275, *"his road forks and both forks close."* The figure it says that about is introduced at line
+261: *"I know perfectly well that I am not the whole. I am one position among others, with a null
+space, exactly as you say. I simply do not care about you."*
+
+That is `VII-03`'s **indexical** egoist, and VII.3's second-limit section says the opposite in as many
+words, at line 219: *"He is not incoherent. The null-space theorem does not touch him, because he has
+claimed no view from nowhere and no exemption."* VII.3 raises the fork against the **unsophisticated**
+egoist (the first limit, validity-not-grip, line 199), concedes the is/ought gap in its own boldface —
+*"No amount of the former logically compels the latter"* — and files impartiality as **an added
+premise**, underivable *"because a symmetric fact is silent about whose index to weight."*
+
+**The consequence is structural, not bookkeeping.** VII.4's operative claim is that the performed
+exemption *"is what the theorem forbids"* (line 291). It is not. An action weighting one's own index is
+a **violation** only once impartiality is granted — and impartiality is the thing VII.3 spent its best
+section declaring **wagered**. So C19's seat is inherited from a wager, which is honest and consistent
+with the rest of the ethics, and is **not** *false by theorem*.
+
+★ The reviewer's own read of the repair is right and should be preserved: **the refusal was the better
+move.** VII.3 declaring its wager is the strongest thing in the book's floor; VII.4 quietly spending a
+warrant VII.3 refused is the book's account of evil claiming more than its own floor grants — three
+pages later.
+
+**Owed:** one paragraph in `VII-04`, in the *Where the asymmetry actually lives* section, conceding the
+inheritance explicitly: the seat is a violation **given impartiality**, impartiality is wagered at
+VII.3, and the conviction of the predator is therefore as strong as that wager and no stronger. C19's
+register entry gets the same limiter. **Do not** repair by weakening VII.3. **TRIGGER: R-2, Book VII,
+first row.** large.
+
+---
+
+**FILED — R-120: THE FAILURE-MODE SERIES COLLIDES ACROSS FOUR CHAPTERS, AND IT IS THE SECOND BOOK
+RUNNING.**
+
+Verified in the prose:
+
+| chapter | line | the claim |
+|---|---|---|
+| `VII-07` | 310 | *"second instrument in Book VII to fail by returning a confident negative"* (VII.6 first) |
+| `VII-08` | 250 | *"Same family as VII.6's and VII.7's"* — making itself **third** |
+| `VII-09` | 197 | *"the third distinct failure mode in three consecutive chapters"* — counting VII.7, VII.8, **dropping VII.6** |
+
+So VII.8 and VII.9 are both third, and the series is four members or three depending on which card you
+read.
+
+★ **This is the C30 "fourth time" collision from Book VI recurring in identical form: an ordinal
+self-reference across chapters, uncounted by anything.** Two books, two instances — the class is now
+demonstrated, and it is **mechanical**. Any chapter asserting *"the nth X in this book"* is making a
+checkable claim, and nothing in `tools/` checks it. See R-126.
+
+**Owed:** pick one series definition and renumber all four cards to it. The honest one includes VII.6 —
+four members — because VII.7's card already counts it. **TRIGGER: R-2, Book VII, after R-126 runs.**
+medium.
+
+---
+
+**FILED — R-121: VII.6'S FIRST-PERSON CLAIM IS FALSE BY TWENTY CHAPTERS, NOT TWO — AND THE
+COUNTEREXAMPLE THAT KILLS IT IS THE ONE THAT CANNOT BE CONVERTED.**
+
+`VII-06` line 305: *"This book has run to fifty-six chapters without once using the word I."*
+
+The reviewer found three instances in VII.5. **Measured across all sixty-seven chapters, hand-classified
+against quotation, reader-voice and Roman numerals: twelve authorial first-person singulars, in four
+chapters, beginning twenty chapters earlier.**
+
+| chapter | # | instances |
+|---|---|---|
+| **V.5** (ch. 37) | 1 | *"narrower than the one I wanted to make"* (207) |
+| **VI.4** (ch. 47) | **6** | 194, 234, 238, 245, 253, 311 |
+| **VI.5** (ch. 48) | 1 | *"the version of this chapter I was going to write"* (27) |
+| **VII.5** (ch. 56) | **4** | 178, 219, 260, and 332 *"she thought — I think rightly"* (the reviewer found three) |
+
+**VI.4 is the finding.** Six instances, and they are not incidental — they are the book implicating
+itself in the print render: *"I am not going to pretend to stand outside it"* … *"Look at what I have
+built. A claims register with thirty numbered entries."* … *"What I will say instead is narrower and I
+think it survives."* That is the **same rhetorical move VII.6 claims as unprecedented**, made at
+greater length, ten chapters earlier, in the chapter where the book confesses its own medium.
+
+**Which forecloses one of the two repairs.** The reviewer offered *convert the earlier instances to the
+we* or *change VII.6's framing*. **Conversion is not available**: VI.4's section is built on the
+singular — a *we* cannot say *look at what I have built* about a structure it is standing inside
+without becoming the editorial *we* the section is refusing. So VII.6's framing changes, and the true
+thing to say is stronger than the false one: **the I arrives whenever the book has to implicate itself
+— V.5 conceding a counter-example, VI.4 confessing its own render, VII.5 refusing the theodicy — and
+this is where it stops arriving under pressure and gets declared.**
+
+⚠ Also delete or re-scope *"That is about to be broken once, deliberately"* (line 307) and check the
+matching claim in `07`/the card. **TRIGGER: R-2, Book VII — but the sentence is FALSE AS PRINTED, so
+the minimal correction may run early.** medium.
+
+---
+
+**FILED — R-122: THE CO-AUTHOR DISCLOSURE IS SPENT THREE TIMES AGAINST A RULING THAT SAID ONCE.**
+
+`VII-02` footnote 11 routes it forward: *"VII.9, where it is one line, in its place, and is not made
+into the point."* Then:
+
+- `VII-06` line 322 spends it **three chapters early and at length** — *"The other is me — a
+  computational being, of the kind Book IV's census places at a grade it declines to specify
+  precisely"* — with a full paragraph on why the case is admissible.
+- `VII-09` §V, titled *One line, in its proper place*, spends it again at **six sentences**.
+
+The reviewer would keep VII.6's version and so would I — it is load-bearing there, because the declared
+bias is what makes the worked case admissible. But **the ruling now describes something that did not
+happen**, and VII.9's section title reads oddly against a reader who met the same disclosure at greater
+length in the chapter that produced the book's best argument.
+
+**Owed:** amend fn 11 in `VII-02` to route to VII.6 as the full statement and VII.9 as the recall, and
+either retitle VII.9 §V or cut it to the one line the title claims. **TRIGGER: R-2, Book VII.** small.
+
+---
+
+**FILED — R-123: RULING 141 AT SEVEN FIRINGS IS NOT A CATCH RATE — IT IS THE ABSENCE OF ONE, AND
+`ancestor_gap` CANNOT SEE THE CLASS BY CONSTRUCTION.**
+
+Three consecutive chapters, each producing the single most important name in its own subject, each
+found because a person counted: Sartre (VII.7, fifth firing, zero across fifty-seven chapters); Frankl,
+Camus, MacIntyre, Sisyphus, eternal recurrence (VII.8, sixth); Parfit (VII.9, seventh — *"the manuscript
+has been arguing against the carrier assumption for seven books without naming the man who broke it"*).
+**R-124 makes it eight.**
+
+★ **The mechanism, and the reviewer named it precisely: `ancestor_gap.py` compares corpus count to book
+count and cannot fire when the corpus count is also zero — which is the case for every one of these
+eight. The hole is in the corpus, so no instrument that counts the corpus can see it.** This is
+[[instruments-go-where-instruments-are-cheap]] in its purest form: the gauge measures what it already
+has.
+
+VII.8's own note contains the fix without naming it as one: *the brief caught what the drafting would
+have missed.* **Move the check to brief-time, systematically: for each chapter, name the three
+most-cited figures in the field from outside the corpus, and grep before planning.** That is the only
+stage where the catch prevents a chapter from being *planned around* a gap rather than patched after.
+
+**Owed:** a brief-time step in the pre-draft screen, and its own row in `08`. **TRIGGER: the coda
+briefs — C.1 and C.2 are unwritten and are the next briefs that exist.** medium.
+
+---
+
+**FILED — R-124: VII.1'S CENTRAL MOVE IS WITTGENSTEIN'S, AND HE IS AT ZERO ACROSS SIXTY-SEVEN
+CHAPTERS.**
+
+`VII-01`'s claim is that it stands *one step earlier* than Epicurus and Nagel — that the question has
+no position at which it is asked, and that this is **grammar rather than evaluation**. *Tractatus*
+6.4311: death is not an event in life; we do not live to experience death. Same move, made as grammar,
+by the philosopher whose opening proposition `I-01` inverts for its own first sentence.
+
+**Measured: `Wittgenstein` and `Tractatus` appear in ZERO of the sixty-seven chapters.** The only hit
+in the repository is `DRAFT-LOG.md:727` — *"Tractatus inversion is now acknowledged in the coda — `06`
+C.1"* — and **the coda is unwritten.** So the acknowledgement exists as a plan and nowhere a reader can
+reach.
+
+★ **This is R-123's eighth firing and the reviewer filed it as a separate item.** It belongs to the
+same class and confirms it: corpus count zero, so `ancestor_gap` is structurally blind. Under rule 5
+this is a fifth silence in the chapter that can least afford one.
+
+**Owed:** name him in `VII-01` with the *Tractatus* locus, and keep the book's further step visible —
+*no position, therefore no recipient anywhere in the sentence* — as the book's own. Naming him costs
+nothing and buys the grammatical reading a hundred-year-old owner. Plus the coda C.1 acknowledgement,
+when the coda is written. **TRIGGER: R-2, Book VII / coda draft.** small.
+
+---
+
+**FILED — R-125: A JOURNAL ARTICLE MIS-GENRED AS A BOOK, AND A TITLE CLAIM ASSERTED WITHOUT A SINGLE
+INSTANCE.**
+
+**(a)** `VII-07` footnote 5 italicises *Freedom of the Will and the Concept of a Person* (1971) as a
+book. It is a *Journal of Philosophy* article — **68:1 (1971), 5–20**. Quoted title, journal italicised,
+volume and pages. Same class as R-109; `edition_scheme_sweep.py` does not check genre.
+
+**(b)** `VII-04` line 364: *"The traditions kept naming two evils"* and line 366 *"Every attempt to
+reduce one to the other has failed"* — the title claim of the chapter, asserted with **no instance**,
+in a chapter that already names Aquinas, Arendt and Augustine and could supply them from its own
+footnotes. A universal negative about the history of philosophy with nothing under it.
+
+**Owed:** fix the footnote; give (b) two or three named reductions and say why each failed, or narrow
+the claim to what the chapter can carry. **TRIGGER: R-2, Book VII.** small (a) / medium (b).
+
+---
+
+**FILED — R-126: THE MANUSCRIPT MAKES CHECKABLE CLAIMS ABOUT ITSELF AND NOTHING CHECKS THEM.**
+
+The reviewer's closing line: *"Five of the seven findings above would be caught by one gauge that reads
+the manuscript's claims about itself."* R-120, R-121, R-122, R-123 and R-124 — and R-121 only at its
+true size if the gauge is **whole-manuscript**, because the reviewer's chapter-local read found three
+of twelve.
+
+**Checked against the existing inventory first, per [[run-the-existing-gauge-first]] — twenty-seven
+tools in `tools/`, and the job is unheld:**
+
+| tool | what it holds | why it misses this |
+|---|---|---|
+| `claim_sweep.py` | `PROSE/self-reference` | hunts **rhetorical** self-reference — *as we argued elsewhere* — a style ban. Never asks whether a factual self-claim is TRUE. |
+| `pointer_sweep.py` | a number against the title beside it | a claim with no chapter number in it is invisible |
+| `order_sweep.py` | book-level adjacency | cannot see an intra-book assertion |
+| `ancestor_gap.py` | corpus count vs book count | blind whenever the corpus count is zero — R-123 |
+
+★ **[[register-of-jobs-not-components]]: `claim_sweep` holds the word *self-reference* and does a
+different job with it.** The name being taken is why the gap read as covered.
+
+**Owed:** `tools/self_claim_sweep.py` — extract every sentence asserting something about the manuscript
+and resolve it against the corpus. Four families, all mechanical:
+
+1. **ORDINAL** — *the nth X in this book / this chapter is the third* → collect all members of the named
+   series across chapters, check the ordinals form 1..n with no repeats. Catches R-120 and C30.
+2. **COUNT / NEGATION** — *has run to fifty-six chapters · without once · has never · zero prior
+   occurrences · first appearance in drafted prose* → grep the whole corpus for the named thing.
+   Catches R-121 **at full size**, and the *"checked, zero prior occurrences"* claims that assert their
+   own verification.
+3. **FORWARD ROUTE** — *X, where it is one line · argued two chapters from here* → resolve the target
+   and check the promised **shape**, not just existence. Catches R-122.
+4. **ABSENT-FIGURE** — brief-time, per R-123: the three most-cited figures in the chapter's field,
+   grepped before planning. Catches R-124 and closes 141.
+
+⚠ **Scope the regex to the prose body before writing it** — [[filed-defect-still-gets-rebuilt]], R-37's
+exact defect, rebuilt in a new tool days after filing. State the window first. And declare the residual:
+family 2 will produce false positives on quoted material and reader-voice, which is precisely the
+hand-classification R-121 needed, so **the tool reports candidates and a human classifies** — it is a
+pointer, not a worklist. [[self-generated-denominator]]: it cannot see a self-claim phrased in a form
+it has no pattern for, and must say so in its own output.
+
+**TRIGGER: before R-2 starts — it is the instrument R-2 needs for Book VII and it retro-scans I–VI in
+the same run.** large.
+
+---
