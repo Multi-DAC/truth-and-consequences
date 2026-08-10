@@ -282,9 +282,19 @@ finding.** Any count sourced from it before that root is fixed is unsourced.
 
 ## I4 · THE GRADE NOTE
 
-**What it is.** The per-chapter disclosure of what was consulted versus what was recalled. It works —
-the outside read called it the best-sourced work in the project, by a distance, and named the grade
-notes as the reason.
+**What it is.** The per-chapter disclosure of what was consulted versus what was recalled. It works,
+and the evidence for that is a **defect it caught**, not praise: VI.6's grade note declared
+abstract-only sourcing on the page — which is how the `stratified by` error below became findable at
+all. An instrument earns its slot by what it makes checkable, not by what it scores.
+
+⛔ **WITHDRAWN, Day 190, kept beside its replacement rather than deleted** *(R-96)*: this line read
+*"It works — the outside read called it the best-sourced work in the project, by a distance."* **The
+reader was a separate instance whose first three words were `Read all eight` — eight chapters of
+fifty-three drafted.** The comparison was also handed to it by `PACKET-003` §1 before the read, and
+measures a distance from **zero** (Books I–V: 0 notes across 43 chapters). On coverage rate the
+winner is **Book VII at 100%**, which that packet put out of scope in writing. **The register whose
+fifth field is *what a reading licenses* certified its own fourth instrument on an unlicensed
+reading.**
 
 **Unit.** One source.
 

@@ -1804,3 +1804,67 @@ is the reflex that produced five undeclared versions.
 binding is live now. small (recorded) + medium (revision).
 
 ---
+
+**FILED — R-96: THE OUTSIDE READ'S ONE CROSS-BOOK CLAIM IS UNLICENSED, `08` CITES IT AS I4's
+EVIDENCE OF WORKING, AND THE READER DECLARED ITS OWN SCOPE IN ITS FIRST THREE WORDS.**
+
+Clayton, Day 190 evening: the Book VI notes came from **a separate instance** — not the reader
+holding `PACKET-002`, and not one that has read Books I–V. The packet's §0 anticipated exactly this
+case and gave it a reading order. It was not taken, which is a reader's prerogative and not a fault.
+**The fault is downstream, and it is mine.**
+
+⚠ **The read opened `Read all eight.` Book VI has eight chapters; the project has fifty-three
+drafted.** The reader stated its scope accurately, in the first line, before any finding — and I
+read a scope declaration as a completeness claim, then carried the one sentence that reaches past it
+into a register.
+
+⛔ **`08-THE-INSTRUMENTS.md` I4 · THE GRADE NOTE opens: *"It works — the outside read called it the
+best-sourced work in the project, by a distance."* That is the only cross-book claim in the notes,
+it is the load-bearing sentence of I4's `What it is`, and it is sourced from a reader who saw one
+book of eight.** The register whose fifth field is *what a reading licenses* certifies its own
+fourth instrument on an unlicensed reading.
+
+⚠⚠ **And the claim was not the reader's to begin with — the packet handed it over before the read.**
+`PACKET-003` §1, checklist row three, states: *"Book VI carries endnotes. It is the first book that
+does. Books II–V: 0 notes across 37 chapters."* **The reader was given the comparison as context,
+agreed with it, and the agreement came back reading as independent confirmation.** Circular, in the
+same shape as R-62's self-amplifying citation, one layer out: the packet fed the finding it then
+received as evidence.
+
+⚠⚠⚠ **Measured tonight, the superlative is trivially true on one axis and FALSE on the other.**
+`tools/endnote_debt.py`:
+
+| book | sources | notes | covered | rate |
+|---|---|---|---|---|
+| I–V (43 ch) | 83 | **0** | **0** | — |
+| **VI** (8 ch) | 32 | 59 | 25 | **78%** |
+| **VII** (2 ch) | 9 | 20 | 9 | **100%** |
+
+**"By a distance" is a distance from zero** — any receipt at all wins it. And on coverage rate the
+book that beats Book VI is **Book VII**, which `PACKET-003` §0 declared **out of scope** in writing.
+The reader could not have seen it. **So the sentence is a comparison across a field the speaker was
+shown one member of, and the member it was not shown is the one that wins.**
+
+✅ **WHAT IS NOT AFFECTED, stated so this is not read as voiding the read.** Every finding resting on
+the eight chapters in front of the reader stands untouched — the card forms from VI.4 (R-88/R-89),
+the C30 seam, the VI.6 `stratified by` assertion against an abstract-only grade note (the finding
+that put I4 in the register at all), R-92, R-93. **Those are licensed by exactly what was read.** One
+sentence reached past the scope; the rest did not. *(Ruling: an adjacent defect does not suspend the
+decisions its instrument informed — it obliges a re-test. Re-tested; they hold.)*
+
+✅ **Repair, done tonight, not deferred:** I4's `What it is` no longer cites the superlative. It cites
+**VI.6** — a defect found *inside* the read's scope — which is better evidence for I4 existing than
+praise was, and is the reason the instrument was written.
+
+⛔ **FORWARD BINDING, live now, no gauge built tonight** *(promoting a field on the day it is
+discovered is the reflex that produced five undeclared card versions — R-95)*: **a packet must
+record the read-scope its reader declares, and no claim may be cited beyond it.** `PACKET-004`
+carries a `SCOPE DECLARED` line, filled from the reader's own words, before any finding is filed.
+
+⚠ **`PACKET-002` (Books I–V) IS STILL UNREAD AND NOTHING TONIGHT TOUCHED IT.** `PRE-REG-002` P2, P3
+and P4 remain open and settleable only by an I–V read. The Day-190 read is a **fourth** outside read,
+not the return of the second. Do not consolidate.
+
+**TRIGGER: `PACKET-004`, before it ships** — the scope line. small.
+
+---
