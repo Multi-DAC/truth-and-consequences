@@ -47,20 +47,20 @@ everything you have ever seen.
 
 Irenaeus of Lyon, writing to refute them, reports the office as they defined it: *they affirm,
 therefore, that he was constituted the Father and God of everything outside of the Pleroma, being
-the creator of all animal and material substances.* Father, God, creator — every title a religion
-gives to the highest thing, held by a functionary who is not it.
+the creator of all animal and material substances.*[^1] Father, God, creator — every title a
+religion gives to the highest thing, held by a functionary who is not it.
 
 And then the detail that makes the whole system unforgettable, in the same report, one section on:
 *he formed the heavens, yet was ignorant of the heavens; he fashioned man, yet knew not man; he
 brought to light the earth, yet had no acquaintance with the earth.* He is not malicious. He is not
 even negligent. He is working with his eyes shut and does not know that his eyes are shut. *The
 Demiurge imagined that he created all these things of himself, while he in reality made them in
-conjunction with the productive power* of the thing that produced him.
+conjunction with the productive power* of the thing that produced him.[^2]
 
 He is, in short, a middle manager who believes he owns the company. Irenaeus records the sentence
 they put in his mouth for it — and it is a sentence out of Isaiah, which is the part that got
 everyone killed: *being incapable of recognising any spiritual essences, imagined himself to be God
-alone, and declared through the prophets, I am God, and besides me there is none else.*
+alone, and declared through the prophets, I am God, and besides me there is none else.*[^3]
 
 Now set that beside the same claim from a school Irenaeus files separately, in a book found in a jar
 in 1945 rather than in a prosecutor's summary. The *Apocryphon of John* has its own name for the
@@ -70,8 +70,8 @@ reason for it attached: *for he said, "I am God and there is no other God beside
 ignorant of his strength, the place from which he had come.*
 
 And then, because this is a text with a sense of theatre, the correction. *A voice came forth from
-the exalted aeon-heaven: "The Man exists and the son of Man."* Something above him tells him he is
-not alone up there, and he is the last to know.
+the exalted aeon-heaven: "The Man exists and the son of Man."*[^4] Something above him tells him he
+is not alone up there, and he is the last to know.
 
 Two schools who agreed on very little, and the hostile witness who wanted both of them erased. All
 three describe the same figure. A maker who is not the highest thing, a world that is second-rate
@@ -175,3 +175,44 @@ were never his in the first place, and a constraint does not need an author in o
 What changes is not how tight the game is. What changes is whose it is.
 
 That question has one answer left, and the next chapter is what it costs.
+
+---
+
+## Notes
+
+[^1]: Irenaeus of Lyon, *Adversus haereses* I.5.2, Ante-Nicene Fathers translation
+(Roberts–Rambaut), **Massuet's numbering** — the scheme ANF follows and the one used at every
+Irenaeus citation in this book, stated each time rather than assumed, because Harvey's edition
+divides the text differently and a reader carrying one scheme into the other edition does not find
+the passage. The claim in the body that the system survives largely through its prosecutors is
+true of the state of knowledge before 1945 and is qualified by the next-but-one note; Irenaeus
+writes c. 180 and the Valentinian material he reports is his own summary of a school, not a
+quotation from it.
+
+[^2]: *Adv. haer.* I.5.3, same translation and scheme. Both sentences quoted above sit in that one
+section. ⚠ **One phrase in the second quotation is not Irenaeus's.** He writes "in conjunction with
+the productive power of **Achamoth**"; the body prints *the productive power* inside the quotation
+marks and then continues "of the thing that produced him" outside them. That is a gloss, correctly
+placed outside the italics, and it is flagged here because a reader skimming will not see where the
+quotation stops — Achamoth is the fallen Sophia of the previous section, and naming her would cost
+the sentence a paragraph of apparatus the chapter does not want. The substitution is a compression,
+not a correction: it says what Irenaeus's clause says.
+
+[^3]: *Adv. haer.* I.5.4. The boast the Valentinians place in the Demiurge's mouth is Isaiah's —
+compare Isaiah 45:5 and 46:9 — and the body's remark that this is "the part that got everyone
+killed" is a claim about what the ascription *means*, not a claim that Irenaeus says so. It is the
+God of Israel's own self-declaration reassigned to an ignorant functionary, which is why the system
+could not be tolerated as an eccentric reading and had to be prosecuted as an attack.
+
+[^4]: *The Apocryphon of John*, Nag Hammadi Codex II,1, translated by Frederik Wisse in James M.
+Robinson (ed.), *The Nag Hammadi Library in English* (Leiden: Brill, 1977; rev. edn San Francisco:
+HarperCollins, 1990). The three quoted spans are Sophia's unauthorised production, Yaltabaoth's
+boast with its stated cause, and the voice from above. ⚠ **The first is compressed and the
+compression is unmarked in the body.** Wisse prints: "She wanted to bring forth a likeness out of
+herself without the consent of the Spirit, — he had not approved — and without her consort, and
+without his consideration." The chapter drops the parenthetical *he had not approved*. The omission
+removes an emphasis and adds nothing, but it is recorded here because an unmarked elision inside a
+quotation is the ordinary route by which a paraphrase acquires a quotation's authority. The codex
+was one of the thirteen recovered near Nag Hammadi in December 1945; *Apocryphon of John* survives
+in four copies, in a long and a short recension, which is why the body says "its own version" —
+there is no single text to cite.

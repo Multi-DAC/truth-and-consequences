@@ -77,7 +77,7 @@ books in the Library are identical. From those two premises he deduces the thing
 > those catalogues, the demonstration of the fallacy of the true catalogue, the Gnostic gospel of
 > Basilides, the commentary on that gospel, the commentary on the commentary on that gospel, the
 > true story of your death, the translation of every book in all languages, the interpolations of
-> every book in all books.
+> every book in all books.[^1]
 
 Read the list for what it declines to do. It does not select. The true catalogue is in there, and so
 are the thousands of false ones, and so is the proof that the true one is false. Completeness is not
@@ -87,7 +87,7 @@ let in, so nothing was kept out.
 And the principle itself, the one this chapter has been circling, Borges puts in a footnote — the
 smallest print in the story, appended to an aside about ladders:
 
-> I repeat: it suffices that a book be possible for it to exist. Only the impossible is excluded.
+> I repeat: it suffices that a book be possible for it to exist. Only the impossible is excluded.[^2]
 
 That is not an image of our claim. It is our claim, in eighteen words, from 1941. The last chapter
 reached the same sentence from the other end — *what can be, in a totality with nothing outside it,
@@ -105,7 +105,7 @@ ally. Here is the first of the librarian's axioms, entire:
 > eternity of the world, cannot be placed in doubt by any reasonable mind. Man, the imperfect
 > librarian, may be the product of chance or of malevolent demiurgi; the universe, with its elegant
 > endowment of shelves, of enigmatical volumes, of inexhaustible stairways for the traveler and
-> latrines for the seated librarian, can only be the work of a god.
+> latrines for the seated librarian, can only be the work of a god.[^3]
 
 Two sentences. *It has no origin* — and *it was made.* The Library is from eternity, which is to say
 that nothing stands before it; and the shelving is so elegant that only a god could have put it up.
@@ -134,7 +134,7 @@ circumference, and to have one at all is to be the sort of thing that is on the 
 Then Borges gives the furniture away himself, in the last footnote of the story, in somebody else's
 voice. Letizia Alvarez de Toledo observes that the vast Library is useless: strictly speaking a
 single volume would suffice, of ordinary format, containing an infinite number of infinitely thin
-leaves. **The shelves were never load-bearing.** They were a way of seeing it, and taking them out
+leaves.[^4] **The shelves were never load-bearing.** They were a way of seeing it, and taking them out
 costs you the room and nothing else.
 
 So the metaphor keeps what it is for — totality, no author, no admissions policy — and drops the
@@ -151,7 +151,7 @@ visitor what the incoherent novel of the visitor's own great-grandfather actuall
 
 > In all fictional works, each time a man is confronted with several alternatives, he chooses one
 > and eliminates the others; in the fiction of Ts'ui Pên, he chooses — simultaneously — all of them.
-> He creates, in this way, diverse futures, diverse times which themselves also proliferate and fork.
+> He creates, in this way, diverse futures, diverse times which themselves also proliferate and fork.[^5]
 
 Then the case, and the case is this chapter's. Fang has a secret; a stranger calls at his door; Fang
 resolves to kill him. The intruder can die. Fang can die. Both can escape, both can die. *In the work
@@ -168,14 +168,14 @@ scene. *We do not exist in the majority of these times; in some you exist, and n
 and not you; in others, both of us.* And then the last thing Albert says, minutes before he is shot
 in the back by the visitor he has been explaining it to — offered kindly, with a smile, as the
 correction of a compliment: *Time forks perpetually toward innumerable futures. In one of them I am
-your enemy.*
+your enemy.*[^6]
 
 The complete structure and the particular evening, in one sentence. That is what this book means by
 a walker, and it is why the frame is a game and not a diagram.
 
 One more thing from that story, because it is a warning about this one. Ts'ui Pên's novel is about
 time and never once uses the word — *in a riddle whose answer is chess, what is the only prohibited
-word?* *The word chess.* This chapter has the same trouble with *already*, and has been paying the
+word?* *The word chess.*[^7] This chapter has the same trouble with *already*, and has been paying the
 tax in periphrasis since its first line: not pending, not queued, not waiting. The tense is not
 available. Every English sentence about a totality that is not in time has to be built out of words
 that are.
@@ -212,7 +212,7 @@ exists — is the hardest question in this book, and it is not answered here. It
 four along. Settling it in a paragraph is how a book earns a reputation for having settled it badly.
 
 There is also a cost, and Borges states it better than any opponent of ours has managed: the
-certitude that everything has been written *negates us or turns us into phantoms*. He is not wrong
+certitude that everything has been written *negates us or turns us into phantoms*.[^8] He is not wrong
 about how it feels from inside, and nothing here disarms it. That reply is Book VII's and it takes
 the whole of Book VII. He is the strongest thing anyone has said against us, and he is filed with
 the ancestors rather than the opponents.
@@ -230,3 +230,58 @@ complete. What arrives is one room, at one moment, at one grade of detail, and i
 much world as there is somebody standing in it. That is not a smaller copy of the whole game.
 
 It is what the whole game is like where something has met it, and that meeting is the next chapter.
+
+---
+
+## Notes
+
+[^1]: Jorge Luis Borges, "The Library of Babel" (*La biblioteca de Babel*), first collected in *El
+jardín de senderos que se bifurcan* (Buenos Aires: Sur, 1941). ★ **The English throughout this
+chapter is *Labyrinths*, ed. Donald A. Yates and James E. Irby (New York: New Directions, 1962) —
+"The Library of Babel" in Irby's translation, "The Garden of Forking Paths" in Yates's. The
+identification is not decorative and was checked rather than assumed**, because Andrew Hurley's
+later version (*Collected Fictions*, New York: Viking, 1998) renders every load-bearing phrase this
+chapter leans on differently: Hurley has *ab æternitate* for Irby's *ab aeterno*, *demiurges* for
+*demiurgi*, *unattainable* for *inaccessible*, *pointless* for *useless*, *pages* for *leaves*, and
+"In order for a book to exist, it is sufficient that it be possible" for the eighteen words the
+chapter calls the principle. Both texts were pulled and diffed against the quoted spans; the
+chapter is on Irby throughout, and a reader checking it in Hurley will conclude, wrongly, that the
+quotations are loose. ⚠ One apparent discrepancy in the body is the story's own and not an error:
+the block quote says *twenty-odd orthographical symbols* while the sentence introducing it says
+twenty-five. Borges's narrator says both — the librarian of genius enumerates "the space, the
+period, the comma, the twenty-two letters of the alphabet," which is twenty-five, and the narrator
+states the figure as twenty-five elsewhere.
+
+[^2]: "The Library of Babel," footnote 3, Irby. Quoted whole; the footnote continues past the quoted
+span with an example about ladders, which changes nothing and is omitted for length.
+
+[^3]: "The Library of Babel," the first of the librarian's axioms, Irby. Quoted whole and in
+sequence — the two sentences the body sets against each other are consecutive in the source, not
+assembled from separate places, which matters because the charge is that Borges holds both at once.
+
+[^4]: "The Library of Babel," footnote 4, Irby — reported above rather than quoted, and accurately:
+Irby's Letizia Álvarez de Toledo says the vast Library is *useless*, that a single volume of
+ordinary format "printed in nine or ten point type" would be sufficient, "containing an infinite
+number of infinitely thin leaves." The clause about type size is dropped in the body because it is
+doing no work there. The footnote's own parenthesis credits the geometry to Cavalieri.
+
+[^5]: Borges, "The Garden of Forking Paths" (*El jardín de senderos que se bifurcan*), 1941,
+translated by Donald A. Yates; first in English in the *Michigan Alumnus Quarterly Review*, spring
+1958, then in *Labyrinths*. Stephen Albert's exposition. Quoted verbatim, including the dashes
+around *simultaneously*, which carry the sentence.
+
+[^6]: Same story: the *We do not exist in the majority of these times* passage and Albert's last
+line, *"Time forks perpetually toward innumerable futures. In one of them I am your enemy."* ⚠ The
+body's *shot in the back* is exact rather than atmospheric — the text is "for the moment his back
+was to me. I had readied the revolver. I fired with extreme caution." ⚠ **The two spans are not
+adjacent**: the first is from Albert's account of Ts'ui Pên's cosmology, the last line comes at the
+close of the scene, and Yu Tsun's sight of Madden approaching falls between them. The body's
+"minutes before" is a claim about that gap and is the right size for it.
+
+[^7]: Same story: the chess riddle, Albert's, in the exchange about Ts'ui Pên's refusal to use the
+word *time*. The body's application of it to *already* is this chapter's own and is marked as such.
+
+[^8]: "The Library of Babel," Irby. The sentence is the narrator's, not Borges's in his own voice —
+it belongs to the same devout librarian whose first axiom is refused above, which is worth saying
+because the body calls it "the strongest thing anyone has said against us" and a reader is entitled
+to know it is spoken in character. Its force does not depend on who says it, which is the point.

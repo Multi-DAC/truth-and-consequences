@@ -34,7 +34,8 @@ ours. If the highest thing lacks nothing, it cannot be doing anything *for* a re
 reason is a lack with a direction. Then either nothing happens, or what happens is not for anything.
 The *Brahma Sūtra* takes the second horn in four words — *lokavat tu līlākaivalyam*, II.1.33 — which
 Thibaut renders **"but (Brahman's creative activity) is mere sport, such as we see in ordinary
-life,"** and Vireśvarānanda, working from the same line, **"mere pastime, as is seen in the world."**
+life,"** and Vireśvarānanda, working from the same line, **"mere pastime, as is seen in the
+world."**[^1]
 
 Śaṅkara's commentary on it does the thing this book keeps asking of an argument, which is to supply
 the case rather than assert the principle. He notes that *certain doings of princes or other men of
@@ -42,7 +43,7 @@ high position who have no unfulfilled desires left have no reference to any extr
 proceed from mere sportfulness* — their recreations, their amusements, the activity of someone with
 nothing left to want. And then, in the same passage, a second analogy that is much better than the
 first and that almost nobody quotes: *the process of inhalation and exhalation is going on without
-reference to any extraneous purpose, merely following the law of its own nature.*
+reference to any extraneous purpose, merely following the law of its own nature.*[^2]
 
 Hold onto the breath. We will come back for it.
 
@@ -59,7 +60,7 @@ He then does something scrupulous that his admirers rarely copy: he gives it bac
 at all,* he writes, *for any student of the history of religions will know that it comes from ancient
 India.* And the thing he was carrying is genuinely the thing this book is carrying. You are not a
 fragment posted here from somewhere better. You are not a spark in a jar. You are the whole of it,
-having an inside — *the taboo of taboos*, in his phrase, *you're IT.*
+having an inside — *the taboo of taboos*, in his phrase, *you're IT.*[^3]
 
 None of that is in dispute. This book says it harder than he did.
 
@@ -111,7 +112,7 @@ place where saying so has consequences. The word *person*, he notes, comes from 
 ancient stage. *In death we doff the persona, as actors take off their masks and costumes in the
 green room behind the scenes.* One's friends should gather, as friends gather backstage, **to applaud
 the show.** Earlier, the same claim without the kindness: the universe of seemingly separate things
-is *real only for a while, not eternally real.*
+is *real only for a while, not eternally real.*[^4]
 
 That is the sentence to refuse, and not because it is bleak. It is trying to console, which is worse
 — because what it consoles you about is the reality of the one who is gone. Under it, the person you
@@ -121,7 +122,7 @@ said here.)*
 
 The second cost is in the next four sentences of the same children's story, and it is the destination:
 *when the game has gone on long enough, all of us will wake up, stop pretending, and remember that we
-are all one single Self.* The many are a phase. The plot resolves by their ending.
+are all one single Self.*[^5] The many are a phase. The plot resolves by their ending.
 
 **That is refused too, and not on taste.** A picture in which being the case at all requires a vantage
 cannot then name the abolition of vantage as the point of the story. Whatever the ending is, it is not
@@ -183,3 +184,49 @@ from?* If no one authored these states and no one is dealing them out, what put 
 
 Nothing put them there. They are already there — all of them, at once, walked and unwalked alike —
 and what that means mechanically is the next chapter.
+
+---
+
+## Notes
+
+[^1]: *Brahma Sūtra* II.1.33, *lokavat tu līlākaivalyam*. The English is George Thibaut, *The
+Vedânta-Sûtras with the Commentary by Śaṅkarâkârya*, Sacred Books of the East vol. 34 (Oxford:
+Clarendon, 1890), p. 357, and Swāmī Vireśvarānanda, *Brahma-Sūtras* (Calcutta: Advaita Ashrama,
+1936), on the same sūtra. **Both renderings were checked against scans rather than quoted from
+memory** — Thibaut against the archive.org digitisation `vedntasutrastr01bdar` at the printed p.
+357, exact including the parenthesis and both joints; Vireśvarānanda against two agreeing
+reproductions. ⚠ **The grades differ and are not rounded up:** Thibaut is *scan-verified*,
+Vireśvarānanda is *two-witness but not two-digitisation.* Note also that the sūtra is quoted here
+in four words because it is four words; the parenthetical *(Brahman's creative activity)* is
+Thibaut's supplement and is printed in his parentheses above, not silently absorbed.
+
+[^2]: Śaṅkara's commentary on the same sūtra, Thibaut's translation, p. 357 — the two analogies
+quoted above are consecutive sentences there. ⚠ **Two things about the second one.** First, the
+punctuation: the printed text reads "…any extraneous purpose, but proceed from mere sportfulness,"
+where the body prints a semicolon; the span crosses a page break in the scan and the joint is
+therefore where an OCR running head sits. Second, and it is the substantive one, **Śaṅkara does not
+leave the Lord out.** The sentence immediately following the breath analogy is "Analogously, the
+activity of the Lord also may be supposed to be mere sport, proceeding from his own nature, without
+reference to any purpose." The body says so — *with the Lord lifted out of it* — and the lifting is
+this book's operation on his text, not a report of it. That is the whole cut of the chapter, and it
+is stated as an amputation rather than as a reading.
+
+[^3]: Alan Watts, *The Book: On the Taboo Against Knowing Who You Are* (New York: Pantheon, 1966),
+ch. 1, "Inside Information," where the hide-and-seek story is told and where Watts gives it back:
+"In fact, it isn't my story at all, for any student of the history of religions will know that it
+comes from ancient India, and is the mythical way of explaining the Vedanta philosophy." *The taboo
+of taboos: you're IT!* is the same chapter. All spans quoted from this book in this chapter were
+checked against the text rather than recalled.
+
+[^4]: The deathbed passage is *The Book*, ch. 2, "The Game of Black-and-White" — the *persona* as
+the megaphone-mouthed mask of the ancient stage, death as doffing it, and friends gathering "as
+their friends come behind the stage," "to applaud the show." *Real only for a while, not eternally
+real* is earlier, in ch. 1, in Watts's own statement of the Vedānta position. The chapter's charge
+is that the second sentence licenses the first, and the two are given from their two places so a
+reader can check whether the licensing is really there.
+
+[^5]: *The Book*, ch. 1, continuing the children's story: "But when the game has gone on long
+enough, all of us will wake up, stop pretending, and remember that we are all one single Self — the
+God who is all that there is and who lives for ever and ever." Taken above at full strength and as
+the story's destination, which is what it is — it is the last movement of the passage the chapter
+has been quoting throughout, not a stray sentence recruited from elsewhere in the book.
