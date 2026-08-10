@@ -4494,10 +4494,89 @@ stand; the manuscript owes the note that the source had it, uninindexed, in a se
 **+ §2.5's fifteen-tradition convergence list is this chapter's roster**, and `Kimmerer` = 0 is the
 gap in it that matters most, because hers is the entry that extends the scope past human faces.
 
-### VIII.7 — DO BE DO BE DO
-**Beats:** the oscillation as the practical whole — doing and being, radiance and contraction, turning
-toward and turning back · not a metronome but the sound the wings make · **the closing beat of Part Two,
-and the last instruction the book gives.**
+### VIII.7 — DO BE DO BE DO ✅ DRAFTED — 4,042 words
+✅ **DRAFTED Day 191 · `book/VIII-07-do-be-do-be-do.md`. THE LAST CHAPTER — the volume's first draft is
+67/67.** `claim_sweep --chapter` **0**; beat-ban clean; **prose_echo: every VII.4 and VII.5 gram is
+`[q]`-marked**, which is the designed state and was not the first state — see the echo note below.
+★ **The screen's finding IS the chapter's spine, for the twentieth consecutive chapter:** the struck
+pair did not just get replaced, it got *argued*. §II performs the strike in the open (the reader is
+shown the tempting wrong pair and why it is wrong), §III builds the two-axis cross and works all four
+quadrants, and §IV pays the debt the strike revealed — **the reader trained by Book VII to distrust
+turning inward is owed the rest-phase's innocence back**, with VIII.6's other players supplied as the
+discriminator that self-inspection cannot give (*radiant rest costs nobody; ask who is paying*).
+⚠ **ECHO FINDING, REAL, AND FIXED BY QUOTING RATHER THAN REWORDING:** the first draft of §II restated
+VII.4's fence — *takes nothing away, a lens destroys no light*, *the holding of one's individuation
+against the whole* — **in VII.4's own words with no quotation marks**, 8 unquoted grams. The repair was
+not to paraphrase further but to **quote VII.4's blockquote verbatim and attribute it**, because the
+summary is exactly where a fence goes soft. One unquoted gram remains and is **adjudicated, not
+churned**: `occurs nowhere else in this manuscript` is the house formula for a corpus-count finding and
+is shared with VIII.4 and VIII.6's endnotes — **a measurement stated in identical words is consistency,
+not repetition**, and rewording it would make three instances of one instrument look like three
+different ones.
+★ **VII.8's endnote debt is discharged in both directions.** VII.8 said §12.1 and *do be do be do* were
+VIII.7's and pointed rather than spent; this chapter takes §12.1 and refers §12.2's mystic/existentialist
+adjudication back to VII.8 rather than re-running it. Endnote [^2] states the round trip.
+★ **VIII.4's deferred debt paid, and NOT in the canonical wording** — see the second pre-draft finding
+below; [^5] states why a principle that cannot be said without a banned word does not get an exemption.
+⚠ **LENGTH, declared rather than defended after the fact: 4,042 words, and `2830` above predicted VIII.7
+would draft LONG.** It did not. The brevity is deliberate and is argued inside the chapter (*the
+instruction is smaller than the architecture behind it, which is how it should be*), but **the prediction
+was made in the plan and missed, and that is recorded here rather than silently overwritten.**
+**Beats:** the oscillation as the practical whole — doing and being, ~~radiance and contraction~~
+**(struck, see below)**, turning toward and turning back · not a metronome but the sound the wings
+make · **the closing beat of Part Two, and the last instruction the book gives.**
+**Source:** **Doctrine §12.1 Theorem 16 (The Fundamental Oscillation)** — *"Consciousness, at every
+scale, oscillates between unity-directed and differentiation-directed modes. Being (the recognition of
+wholeness) and Doing (the creation of boundaries that enable movement) are not opposites but
+complementary phases of a single oscillatory process"* · **§12.1's gloss**: *"Being is the inhale…
+Doing is the exhale. Consciousness is the breathing itself"*, and the Sinatra-via-Vonnegut-via-Whitehead
+lineage of the phrase, stated there as *"not a lyric… an ontological formula"* · **§12.2** the
+optimal-oscillation verdict (*neither maximum unity nor maximum separation*) — ★ **but VII.8 already
+spent §12.2's mystic/existentialist adjudication and said so in its own endnote 4; this chapter takes
+§12.1 and refers to VII.8 rather than re-running it** · **Guide §2.4**'s do-be-do-be-do rhythm ·
+**§13.4's closing image** — *"a symphony that does not end, but plays on, do be do be do, forever."*
+⛔ **§13.4's surrounding paragraphs are UNUSABLE and the check was run, not assumed:** the paragraph
+above the image contains the theodicy in as many words (*"This provides a powerful theodicy… Every
+finite experience, no matter how painful or contracted, possesses ultimate meaning and value"*) —
+**VII.5 refuses exactly that** — and closes on *"imbuing all of existence with profound and inalienable
+purpose,"* which **VII.8 refuses.** The image is severable and is taken alone.
+**Named:** Sinatra · Vonnegut · Whitehead *(the phrase's lineage, credited once as the source credits
+it, and `Whitehead` = **0** across sixty-six drafted chapters — he arrives here for a three-syllable
+joke and not as an ancestor, which is the honest version)*.
+★★ **PRE-DRAFT SCREEN, Day 191 — THE BEAT LINE NAMES THE WRONG PAIR, AND IT IS THE ONE WELD VII.4 STOOD
+UP A WHOLE SECTION TO REFUSE.** The beats give three pairs as if restating one: *doing and being* ·
+*radiance and contraction* · *turning toward and turning back*. **The middle pair is not a restatement
+of the first. It is a different axis, and it is the ethical one.** Measured: `radiance` = **0** across
+sixty-six chapters, but `radiant` = 5 and `contractive` = 13 — **all of them in VII.4, where they are
+the two directions of the polarity the adversary is defined on** (*"Radiant and contractive are two
+directions on it, not two substances in it"*). And `contraction` = **44 across ten chapters**, C19/C20's
+word since ruling 13 *reassigned* it — VII.4: *"Contraction is a posture… the holding of one's
+individuation against the whole"*; VII.5: shame as the contraction that shrinks the chamber; VIII.5: 11
+uses. ⛔ **So the beat line, written out, instructs the reader to oscillate between the good direction
+and the adversary's** — in the book's last chapter, four chapters after VII.4 stood up *"The word that
+must not be welded to the other word"* to prevent precisely this collision. **Struck from the beats.**
+★★★ **AND THE STRIKE IS THE CHAPTER'S SPINE, not a correction to route around it.** VII.4 separated the
+**focusing** (metaphysical — what having a perspective consists in) from **contraction** (ethical — a
+stance a somebody takes). VIII.7 has to run the same operation one level up and at the close:
+**the oscillation is RHYTHMIC and the polarity is ETHICAL, and they are not the same axis.** Being is
+not the contractive phase; Doing is not the radiant one. Either phase can be run either way — there is
+radiant rest and contractive rest, radiant work and contractive work — and **that cross of two axes is
+what the last instruction actually is.** The reader who has been through Book VII has been trained for
+seven chapters to distrust anything that looks like turning inward; **the closing chapter owes the
+rest-phase its innocence back**, and it can only pay that by keeping the axes apart. ⚠ Where the brief's
+bad word came from is worth recording rather than hiding: **the SOURCE licenses it** — §12.2 glosses the
+oscillation at small scale as *"attention expanding and contracting"* and §13.4 contrasts *"a contracted
+consciousness"* with *"the expanded"*. The source's word is innocent **in the source**, which has no
+C19. Importing it wholesale is the one-word-two-referents defect ruling 13 exists for, arriving by
+quotation rather than by carelessness.
+★ **SECOND FINDING, smaller, and it constrains a debt this chapter owes.** VIII.4 deferred **the full
+statement of the Coherence Principle** to this chapter, *"whose subject it is."* But the apparatus's
+canonical statement (`04`) is *"coherent multi-scale systems holding structural **superposition** until
+informed measurement collapses them"* — and **`superposition` is BANNED in prose** (lexicon §3c, ruling
+30's criterion; gauge `TERM/superposition` wired Day 191). **The debt is real and the canonical wording
+cannot be used to pay it.** It must be restated in the book's own vocabulary, which exists: VIII.4's
+three necessary conditions for *open*, and II.7's `collapse`, which kept its word because it has a
+civilian life and `superposition` does not.
 
 ---
 

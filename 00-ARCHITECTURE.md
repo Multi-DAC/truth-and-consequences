@@ -1291,12 +1291,14 @@ looked exactly like success. *(DRAFT-LOG §Ruling 38.)*
 
 ## STATUS — Day 191, 2026-08-10
 
-**DRAFTING. Part One is complete, the Atlas is closed, Books V, VI and VII are closed — BOOK VIII IS THE LAST: 6/7.**
+**FIRST DRAFT COMPLETE — ALL EIGHT BOOKS CLOSED, BOOK VIII 7/7.** ⚠ **The CODA (C.1, C.2) is UNWRITTEN
+and is NOT in the denominator**, so `67/67` means *every chapter*, not *the whole work*. Next: the Coda,
+the endnote debt (56/154), then R-2.
 VI.1 was the first chapter in the work to ship with endnotes (ruling 9's second half, dormant for 43
 chapters) and the first outside Book IV to carry a census card. **Book VI drafted WITH notes rather
 than joining the retrofit**, so the endnote debt stopped growing at VI.1.
 
-    CHAPTERS-DRAFTED: 66/67 · 243,093 words
+    CHAPTERS-DRAFTED: 67/67 · 247,030 words
 
 ⚠ **That slot is a DECLARED number and it WILL rot — it is here so
 `tools/where_the_book_is.py` can fail on it, not so anyone can read it.**
@@ -1306,7 +1308,10 @@ the repo, which is the defect it exists to catch, sitting inside its own blind
 spot.)*
 
 Books I (6/6), II (8/8), III (8/8), IV (10/10), V (11/11), VI (8/8) drafted.
-VII (9/9), VIII (6/7). **VIII.7 — DO BE DO BE DO is next, and it is the last chapter of the work.**
+VII (9/9), VIII (7/7). **VIII.7 — DO BE DO BE DO landed Day 191 and closed the drafting.** The pre-draft
+screen struck its own beat line — *radiance and contraction* is the ethical polarity, not the
+oscillation — and the strike became the chapter's spine: the rhythm and the polarity are two axes, and
+the closing instruction is to run the first and check the second separately.
 ⚠ *Read `V (2/11)` until Day 189 night, eight chapters stale, sitting two lines
 under the warning about declared numbers rotting — and the gauge could not see it,
 because `where_the_book_is` checks the `CHAPTERS-DRAFTED:` slot and nothing else in

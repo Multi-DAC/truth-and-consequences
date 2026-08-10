@@ -10354,4 +10354,94 @@ end on.
 
 ---
 
-**CHAPTERS-DRAFTED: 66/67 · 243,093 words** · **BOOK VIII 6/7** · **CLAIMS: C1…C30** · **TOOLS: 24.**
+## VIII.7 — DO BE DO BE DO ✅ — **THE LAST CHAPTER. FIRST DRAFT COMPLETE, 67/67.**
+
+    C-LICENSE: C1 C5 C19 C20 C25 · new: none
+
+**4,042 words** (storyscope reads 3,937 of them; 96% paragraph coverage). `claim_sweep --chapter
+VIII.7`: **0 USE-class hits.** Beat-ban: clean — the four standing beat breaches are III.2, III.5,
+VII.3, VIII.6 and this chapter added none. Register, against Book VIII: `voice_uniformity` **0.6574**
+(4th of 7, mid-band; VIII.3's 0.7165 is the book's flattest) · `dyn_range_CV` **0.466** — **second-
+lowest in Book VIII, above only VIII.1's 0.45, and below Clayton's 0.475**, recorded because it is
+the metric that runs toward the fingerprint and this is the chapter with the most reason to flatten ·
+`2nd_person` **8.38/1k, the lowest in Book VIII by a wide margin** (the rest run 12.9–29.3) and almost
+exactly Clayton's 8.28 — **worth noticing because a chapter whose whole job is to give an instruction
+used the second person least**, which was not a decision, and is either the right restraint or the
+place a reviewer starts. `xref` back 18 · forward **0**, which is correct for a closing chapter: it
+ends the promissory paper rather than issuing more.
+
+★★ **THE PRE-DRAFT SCREEN FOUND THE SPINE FOR THE TWENTIETH CONSECUTIVE CHAPTER, AND THIS TIME IT
+FOUND A DEFECT IN THE BRIEF ITSELF.** The beat line read *"doing and being, radiance and contraction,
+turning toward and turning back"* — three pairs offered as one restated. **The middle pair is a
+different axis, and it is the ethical one.** Measured before drafting: `radiance` = **0** across 66
+chapters, but `radiant` = 5 and `contractive` = 13, **all of them in VII.4**, where they are the two
+directions of the polarity the adversary is defined on; and `contraction` = **44 across ten
+chapters**, C19/C20's word since ruling 13 reassigned it. ⛔ **Written out, the beat instructs the
+reader to oscillate between the good direction and the adversary's** — as a life practice, in the
+book's last chapter, four chapters after VII.4 stood up *"The word that must not be welded to the
+other word"* to prevent exactly that collision. **Struck.**
+
+★★★ **AND THE STRIKE BECAME THE CHAPTER RATHER THAN A CORRECTION ROUTED AROUND.** VII.4 separated the
+**focusing** (metaphysical) from **contraction** (ethical). VIII.7 runs the same operation one level up
+and at the close: **the oscillation is rhythmic, the polarity is ethical, and they are not the same
+axis.** §III crosses them and works all four quadrants — radiant doing, contractive doing, radiant
+being, **contractive being**, the last of which the single-axis version cannot see at all, because on
+one axis *stillness* and *goodness* return the same reading. §IV pays the debt the strike exposed:
+**the reader trained by seven chapters of Book VII to distrust turning inward is owed the rest-phase's
+innocence back**, and VIII.6's other players supply the discriminator self-inspection cannot —
+*radiant rest costs nobody; the question is not how you feel, it is who is paying.*
+
+⚠ **WHERE THE BAD WORD CAME FROM, recorded rather than hidden: the SOURCE licenses it.** Doctrine §12.2
+glosses the oscillation as *"attention expanding and contracting"* and §13.4 contrasts *"a contracted
+consciousness"* with the expanded — a third distinct sense, one paragraph from the image this chapter
+closes on. The source's word is innocent **in the source**, which has no C19 for it to collide with.
+**This is the one-word-two-referents defect arriving by quotation rather than by carelessness**, and it
+is the general form worth keeping: *a borrowed word carries whatever it is attached to at the far end,
+and the far end is not visible from the borrowing side.*
+
+⚠ **ECHO FINDING, REAL, AND THE REPAIR WAS TO QUOTE — NOT TO REWORD.** The first pass at §II restated
+VII.4's fence in VII.4's own sentences with no quotation marks: 8 unquoted grams including *takes
+nothing away, a lens destroys no light* and *the holding of one's individuation against the whole*.
+Fixed by **quoting VII.4's blockquote verbatim and attributing it**, on the ground stated in the prose
+— *the summary is where the fence goes soft*. Post-fix: every VII.4 and VII.5 gram is `[q]`-marked.
+**One unquoted gram remains and is ADJUDICATED, not churned:** `occurs nowhere else in this manuscript`
+is the house formula for a corpus-count finding, shared with VIII.4's and VIII.6's endnotes. **A
+measurement stated in identical words is consistency; rewording it would make three readings of one
+instrument look like three instruments.**
+
+★ **TWO DEBTS DISCHARGED, both filed by earlier chapters against this one.** (1) **VII.8's**, in both
+directions — VII.8's endnote 4 said §12.1's Theorem 16 and the *do be do be do* formulation were
+VIII.7's and pointed rather than spent; this chapter takes §12.1 and refers §12.2's mystic/existentialist
+adjudication *back* to VII.8 rather than re-running it, and [^2] states the round trip. (2) **VIII.4's**
+— the full statement of the Coherence Principle. ⛔ **It could not be paid in the canonical wording**:
+`04`'s version routes the claim through **`superposition`, which is banned in prose** under ruling 30's
+criterion. **A principle that cannot be said without a banned word does not get an exemption**; §VI
+restates it as the structure/process coupling in vocabulary the reader has had since Book II, and [^5]
+says so out loud. `balance` and `harmony` are both refused in the text for the same reason — every
+static metaphor smuggles in a resting point this account does not have. The bicycle stays.
+
+⛔ **THE §13.4 SEVERANCE IS DECLARED, NOT PERFORMED SILENTLY.** The closing image — *"a symphony that
+does not end, but plays on, do be do be do, forever"* — is taken alone. The paragraph immediately above
+it contains the theodicy in as many words (*"Every finite experience, no matter how painful or
+contracted, possesses ultimate meaning and value"*), which **VII.5 refuses**, and closes on *"imbuing
+all of existence with profound and inalienable purpose,"* which **VII.8 refuses.** [^4] states the cut
+and why the image survives it: *the music does not stop* is not *the music is for something.* ★ The
+reason to declare it rather than just do it: **lifting a good image out of a paragraph whose argument
+you rejected is exactly how an unearned consolation gets back into a book at the end.**
+
+⚠ **A PREDICTION IN THE PLAN MISSED, and it is recorded rather than overwritten.** `06` line 2830
+listed VIII.7 among the chapters that *"draft long."* It drafted at 4,042 — shortest in Book VIII after
+VIII.1. The brevity is argued inside the chapter (*the instruction is smaller than the architecture
+behind it*), and the argument is good, **but the plan made a falsifiable prediction and it was false**;
+that is a fact about the planning apparatus, not about the chapter, and it belongs in the record.
+
+---
+
+**CHAPTERS-DRAFTED: 67/67 · 247,030 words** · **BOOK VIII 7/7** · **CLAIMS: C1…C30** · **TOOLS: 24.**
+
+★★★ **THE FIRST DRAFT OF THE VOLUME IS COMPLETE.** Eight books, sixty-seven chapters, 247,030 words.
+⚠ **AND THE WORK IS NOT — the CODA (C.1 WHAT THIS IS, C.2 WHY IT IS NOT FINISHED) IS UNWRITTEN AND IS
+NOT COUNTED IN THE 67.** The gauge's denominator is chapters; the Coda sits outside it, which is a
+scoping decision made long before today and is stated here so that *"67/67"* is never read as *"the
+book is done."* **What remains, in the order the record already sets it: the Coda · the endnote debt
+(56/154) · then R-2, the audit pass.**
