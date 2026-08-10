@@ -4331,7 +4331,8 @@ each class is different, which means complementary practices illuminate each oth
 which is the chapter's argument for why the taxonomy is a taxonomy and not a menu. ⛔ **`blind spot`
 belongs to VI.8** (11 hits, all there); use §4.2's sense without the phrase.
 
-### VIII.4 — HOLDING IT OPEN
+### VIII.4 — HOLDING IT OPEN ✅ DRAFTED — 4,051 words
+✅ **DRAFTED Day 191 · `book/VIII-04-holding-it-open.md`.** All four beats 1.00, card v3-canon 6 fields, `claim_sweep --chapter` **0**, zero echo pairs. ★ **The screen's finding is the chapter's spine:** the beats said *stay open* and never defined *open*; C25 defines it with **three necessary conditions** (contact · could-have-come-out-otherwise · lands) and lists this chapter as a dependent. Section I runs the three as a test on a case, and what falls out is that most of what sits in a person's *undecided* pile fails the first condition — **not open, closed and being mourned.** C1's dependence rebuilt beat 2: there is no runtime, so undecided time is not the world waiting, and the whole bill is a standing allocation of attention (§2.3 Principle 2). **C25's physics trap held — no quantum vocabulary in the chapter.** ⚠ **A second finding, about the manuscript rather than this chapter: `the Coherence Principle` is the planning apparatus's name for the book's most-repeated structural claim (`03`, `04`, `06`) and had occurred ZERO times in sixty-three drafted chapters.** Named here once, minimally; the full statement is left to VIII.7, whose subject it is.
 ⛔ **RETITLED Day 191, one breath before it would have shipped. The old title was `HOLDING THE
 SUPERPOSITION`, and `superposition` was ★ BANNED by ruling 31 on Day 187** — the strongest verdict in
 `05`, on the criterion that an analogy has to be made of something the reader already has. **The
@@ -4347,6 +4348,47 @@ on its first run.**
 **Beats:** the practical form of the Coherence Principle: when to decide and when to stay open · the cost
 of each unit of undecided time · **the two failure modes** — collapsing early, and never collapsing ·
 how to tell which one you do.
+**Source:** **Guide §2.4 Expansion and Contraction as Navigation Modes** — *"Expansion is not always
+good. Contraction is not always bad"*, with both failure modes named in the source: dissolution at the
+open end (the completeness-dissolution corollary), and at the closed end *"the narrow channel feels
+like the only channel, and the being forgets that the wider landscape exists."* **+ §2.2's repulsor
+mechanism** (contracted attention generates a restoring force) and **§2.3 Principle 3**, both already
+cited at VIII.3 and used here for a different job. ⛔ **§4.4 Beauty is VIII.7's, and §2.5's ethics are
+VIII.6's.**
+★★ **PRE-DRAFT SCREEN, Day 191 — THE BEATS SAY *STAY OPEN* AND NEVER DEFINE *OPEN*, AND THE REGISTER
+DEFINES IT, WITH THIS CHAPTER LISTED AS A DEPENDENT.** `07` C25 carries the definition verbatim —
+*"a matter is **open** when more than one way it could go is still live"* — with **three necessary
+conditions** on the closing of one: **contact** (something not already inside the asking part reaches
+it) · **it could have come out otherwise** · **it lands** (it changes what is now the case for the one
+who took it). **VIII.4 is a registered `Depends` of C25, of C1 and of C13**, and none of the four
+beats carries any of the three. A chapter drafted from the beats alone would have used *open* as a
+mood — a feeling of not having made up one's mind — and the register has it as a **three-condition
+test that can be run on a particular case.** That test is the whole of beat 4 and it was not in the
+brief. **Second firing of V.7's procedure in two chapters, and it found a definition rather than a
+firewall this time.** ⛔ **AND C25'S TRAP BINDS HERE: *needing the physics*.** C25 is graded
+PUBLICLY EXPENSIVE — *"nothing in this book rests on the physics"* — so this chapter gets the
+practice of holding a matter open **without one sentence of quantum vocabulary**, which is also why
+its title could not stay as it was.
+⛔ **C1's DEPENDENCE PAYS BEAT 2 AND CORRECTS ITS PREMISE.** *There is no runtime* — the configurations
+are not being generated while you deliberate. **So the cost of undecided time is not that the world is
+waiting.** It is entirely yours: attention held on an open matter is attention not spent, per §2.3
+Principle 2, and that is the only ledger this chapter may bill to. ⚠ Trap: the past tense. Undecided
+time may not be described as the world *pausing*.
+**Named:** ★ **Keats, negative capability** (`Keats` = **0**, `negative capability` = **0**) — *being
+in uncertainties, mysteries, doubts, without any irritable reaching after fact and reason* — which is
+this chapter's whole content, stated in 1817 by someone who was describing a working condition rather
+than a virtue. · ★ **Kruglanski and Webster's need for closure**, and it is the **census card**: the
+axis is one dimension with the two failure modes at its ends — *seizing* (taking the first available
+answer) and *freezing* (holding it against new information). `Kruglanski` · `need for closure` ·
+`seizing` all **0**. **Its exclusion is the seventh distinct instrument failure mode and a new
+kind: a TRAIT instrument answering a STATE question** — it samples across situations and therefore
+averages out the situational information a particular decision needs. Reliable about *which failure is
+yours*, which is exactly beat 4, and worthless as a verdict on a case. · **Buridan's ass** (`Buridan`
+= 0) as the refused model: real indecision is not symmetric, and treating it as symmetric is what
+makes the never-collapsing failure look like a paradox instead of a habit. ⛔ **`Epictetus` and the
+dichotomy of control are VIII.5's** (already 1 and 2 hits, both planning) and **Herbert Simon is spent
+in VI.5** (10 hits, the attention-economics passage) — so *satisficing* and bounded rationality are
+not available here without re-opening his bill.
 
 ### VIII.5 — THE SECOND ARROW
 **Beats:** the practice for the only arrow whose loop-gain is partly yours · the dichotomy of control read

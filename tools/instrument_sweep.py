@@ -199,8 +199,29 @@ def detect_cards(lines: list[str]) -> list[tuple[str, list[str], int]]:
                 continue
             near = {f for i, f in hits if start <= i < start + WINDOW}
             if len(near) >= MIN_FIELDS:
+                # ⛔ DAY 191: THE WINDOW WAS REPORTING A PRESENT FIELD AS ABSENT.
+                # VIII.3's card runs 276→323 — 47 lines, because its mechanism field
+                # carries the whole failure-mode series — so `Navigational implication`
+                # fell one line outside a fixed 40 and the card printed `5 fields
+                # [bound compl mech null whose]`. Every field was there, in canonical
+                # order, contiguous, with no other card between them. **A gauge that
+                # says a field is missing when it is present is worse than one that
+                # says nothing**: the repair it invites is to add a field that already
+                # exists. The window is a heuristic for *these labels belong to one
+                # card*, and a long card is still one card.
+                # So: look one further window out, and if the remaining canonical
+                # labels are there with no new `Whose:` between, count them and SAY
+                # the span was long. The card is reported complete; the length is
+                # reported as a fact rather than as a missing field.
+                far = {f for i, f in hits if start + WINDOW <= i < start + 2 * WINDOW}
+                extra = far - near
+                if extra:
+                    reopen = [i for i, f in hits
+                              if f == "whose" and start < i < start + 2 * WINDOW]
+                    if not reopen:
+                        near = near | extra
                 out.append((name, sorted(near), start + 1))
-                used = start + WINDOW - 1
+                used = start + 2 * WINDOW - 1 if extra and not reopen else start + WINDOW - 1
     # A block can match two versions (v2 is a subset of v3-canon's vocabulary in places);
     # keep the richest match per line region, preferring the more specific version.
     out.sort(key=lambda t: (t[2], -len(t[1])))

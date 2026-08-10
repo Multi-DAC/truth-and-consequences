@@ -10170,3 +10170,68 @@ repair was called done, and this time it came back empty, which is a result rath
 ⚠ **No new tool was built for the title class, deliberately: `claim_sweep` already reads `06`, so the
 missing rule WAS the missing gauge.** A title-sweep tool would have been a second instrument for a
 job the first one already had.
+
+---
+
+**VIII.4 — HOLDING IT OPEN · DRAFTED Day 191 · `book/VIII-04-holding-it-open.md` · 4,051 words.**
+**64/67, 234,048 words.** All four beats 1.00, card v3-canon 6 fields, `claim_sweep --chapter VIII.4`
+**0**, zero echo pairs.
+
+*** THE SCREEN'S FINDING IS THE CHAPTER'S SPINE, AND IT WAS A DEFINITION RATHER THAN A FIREWALL.**
+The four beats instruct a practice of **staying open** and **never say what *open* means.** `07` C25
+says it exactly — *"a matter is open when more than one way it could go is still live"* — with
+**three necessary conditions** on a settling: **contact** (something not already inside the asking
+part reaches it) · **it could have come out otherwise** · **it lands**. **VIII.4 is a registered
+`Depends` of C25, of C1 and of C13.** A chapter drafted from the beats alone would have used *open*
+as a mood; the register has it as a **test that can be run on a particular case**, and running it is
+now Section I. What falls out of running it: most of what sits in an *undecided* pile fails the
+**first** condition — no contact is available and the deliberation is recirculating. **That matter is
+not open. It is closed, and being mourned.**
+
+**C1's dependence rebuilt beat 2 and corrected its premise.** *There is no runtime* — so undecided
+time is **not the world waiting**, which is the intuitive cost model, is false on our own premises,
+and is separately the engine of most bad urgency. The bill is entirely a **standing allocation of
+attention**, per Guide 2.3 Principle 2, charged per open matter per day whether or not it is being
+worked on. The continuous-draw claim is the load-bearing one and is graded in the footnote as
+**argued, not demonstrated**.
+
+**C25's TRAP HELD: no quantum vocabulary in the chapter**, and the footnote states the direction of
+dependence rather than assuming it — nothing in the chapter rests on the identification; if it were
+withdrawn tomorrow every instruction stands. That trap is also why the title could not stay as it was.
+
+**THE TWO FAILURE MODES ARE ONE DIAL, and the chapter's contribution is naming what the dial
+measures:** not decisiveness — **tolerance for a loss you have to watch yourself take.** Which is why
+the same person collapses early on one thing and holds another open for nine years, and why that is
+not inconsistency. **Buridan's ass refused rather than used**: the symmetric-tie picture is the
+default image of indecision and is wrong about nearly every real case, and it sends people hunting a
+tiebreaker instead of asking what they are refusing to give up.
+
+**The card is the need-for-closure scale**, and the exclusion is a **seventh** mode the census keeps
+separate and the first that fails on **resolution**: a **trait** instrument answering a **state**
+question. The averaging that makes the number a trait is exactly what removes the situational
+information a case turns on — asking it about Thursday is asking a climate record what to wear.
+Grade named, not buried: the unidimensionality of the scale has been contested since the late 1990s
+and **the card does not need that reading** — the exclusion follows from the trait/state distinction
+alone. And its boundary has a direction: **the instrument is most misleading exactly where it is most
+personally interesting**, because the reading enters a decision as a consideration and the reading was
+never about a decision.
+
+**A SECOND FINDING, ABOUT THE MANUSCRIPT RATHER THAN THIS CHAPTER: `the Coherence Principle` HAD
+OCCURRED ZERO TIMES IN SIXTY-THREE DRAFTED CHAPTERS.** It is the planning apparatus's name for the
+book's most-repeated structural claim and it is used freely in `03`, `04` and `06`. **The claim is
+everywhere in the prose and its name is nowhere** — a different defect from a claim that went missing,
+and harder to see, because nothing is absent so nothing reads as absent. Named here **once**,
+minimally, in `05`'s own definition of Coherence; **the full statement is VIII.7's and was not
+taken**, since pre-spending that chapter's subject to satisfy a word in this one is exactly what the
+source-mapping screens exist to catch.
+
+**AND `instrument_sweep` WAS REPORTING A PRESENT FIELD AS ABSENT — FOUND BECAUSE VIII.3's REPAIR
+TRIPPED IT.** After the retired-term repair, VIII.3's card printed **5 fields, no `navig`**. The field
+is there, at L323, in canonical order, contiguous, with no other card between. The card simply runs
+**47 lines** and `WINDOW` is a fixed **40**. **A gauge that reports a field missing when it is present
+is worse than one that says nothing: the repair it invites is to add a field that already exists.**
+Fixed — the sweep now looks one further window out and counts the remaining canonical labels if no
+new `Whose:` intervenes. **Verified non-expansive: all eleven v3-canon cards unchanged except VIII.3,
+which returns to 6.** The shape is worth keeping: the constant was fine for every card written before
+the one whose mechanism field carries a cumulative series. **A threshold tuned on the corpus that
+existed when it was written** — the denylist lesson wearing a number instead of a list.
