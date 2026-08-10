@@ -10519,3 +10519,54 @@ Neither reviewer error was invention — they were estimates presented in the re
 **An outside read is a pointer, not a worklist**, exactly like `endnote_debt` and `self_claim_sweep`,
 and for the same reason: the reader's denominator is what the reader happened to count.
 [[self-generated-denominator]], arriving from outside the process for the first time.
+
+---
+
+## Day 191 — R-2, BOOK II CLOSED: II.6, II.7, II.8 GET THEIR APPARATUS
+
+**Book II is now 8/8 chapters paid — 18 notes tonight, 31 across the book.** `endnote_debt`:
+receipts **68/139 → 75/139**, debt **71 → 64**, notes written **194 → 212**. II.4 remains genuinely
+sourceless and is square at zero.
+
+**The chapters and what they owed.** II.6 — Spinoza (*Ethics* E3p6/E3p7, E2p7s, E4p20), Letter 32 to
+Oldenburg, the Emerald Tablet, Descartes' *Principia* II.37 — 5 notes. II.7 — Aristotle
+(*Metaphysics* Θ, *De Anima* III.2), von Neumann 1932, Wigner 1961, the Wigner retraction, Rovelli
+1996, QBism, Everett 1957 — 8 notes, the densest apparatus outside Book VII. II.8 — Irenaeus
+I.21.4, two *Gospel of Truth* spans, Colossians/Jung on *pleroma*, Ladyman and Ross — 5 notes.
+
+★ **ONE PROSE CORRECTION, AND IT IS THE KIND R-110 PREDICTED THE RETROFIT WOULD MANUFACTURE.** II.6
+called *as above, so below* "the Hermetic formula, **fifteen centuries older than Spinoza**." That
+dates it to the second century, which is the date of the *Corpus Hermeticum* — **a different body
+of texts that does not contain the line.** The Emerald Tablet's earliest attestation is Arabic: the
+*Kitāb sirr al-khalīqa*, late eighth or early ninth century, Latin only from the twelfth, no
+surviving earlier Greek witness. Corrected in prose to "older than Spinoza by the better part of a
+millennium," with the error recorded in the note rather than quietly repaired.
+
+**The general form is worth more than the fix: a formula inherits the age of the tradition it is
+filed under.** Nothing in the sentence was checkable before tonight, because there was no citation
+in it — the claim was carried entirely by the word *Hermetic*, and an adjective has no locus to
+audit. **This is what R-110 meant by the retrofit CREATING the population rather than revealing it.**
+
+**R-110's mandatory step, run and recorded.** `edition_scheme_sweep` after Book II's notes:
+**exposed pairs 10 → 22**, of which five are new tonight (*De Anima* III.2 425b26–426a26; *Physics*
+III.1 201a10–11; *Adv. haer.* I.21.4 **with Massuet named**; *Gospel of Truth* NHC I,3 at pages 24
+and 25). Distinct cited works 368 → 527. The coverage bound moved 2.7% → 4.2% and is still a
+statement about the apparatus.
+
+**Two notes declare their own standing rather than asserting a check that was not run.** (a) The
+Wigner retraction — the 1982 solipsism repudiation and the 1984 admission — is **one witness
+reading the primary** (Esfeld, *SHPMP* 30B, 145–154, with Collected Works page refs at 73–74, 230),
+not a check of the Wigner volume. Said in the note. (b) The *Gospel of Truth* citations give the
+**codex page and not the line range**, because the lines were not checked against a critical
+edition; not printed rather than guessed. Both are [[a-zero-needs-a-positive-control]] discipline
+applied to a citation instead of a result.
+
+★ **AND ONE CHECK THAT COULD HAVE GONE WRONG SILENTLY.** II.8 quotes the *Gospel of Truth* twice.
+The two spans were verified to come from **the same translation (Grant)** rather than assumed —
+two English versions of one Coptic text in one chapter would have made a translator's vocabulary
+shift read as a shift in the source. The Attridge–MacRae rendering of the second span is given in
+the note so the difference is visible instead of latent.
+
+⚠ **Residual:** II.7 still shows one owed name, `Certification` — a sentence-initial common noun,
+the known filter class. Not chased; **R-74 says the filter repair runs at the END of the retrofit,
+off the labelled set the retrofit produces**, not off a guess made mid-pass.

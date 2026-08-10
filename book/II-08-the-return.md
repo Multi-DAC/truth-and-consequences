@@ -49,11 +49,11 @@ predicament, because the predicament was only ever ignorance.
 Second century, mostly. Valentinus and the schools after him. For eighteen hundred years the system
 was known mostly through the men who wrote it out in order to attack it, and Irenaeus of Lyon reports
 the doctrine like this: *since both defect and passion flowed from ignorance, the whole substance of
-what was thus formed is destroyed by knowledge.* Then in 1945 a jar came out of the ground at Nag
+what was thus formed is destroyed by knowledge.*[^1] Then in 1945 a jar came out of the ground at Nag
 Hammadi with their own books inside it, and the sentence that makes this the hardest cut in the book
 can be read without a prosecutor standing in the room. The *Gospel of Truth* — very possibly
 Valentinus's own hand — puts it: *since this incompleteness came about because they did not know the
-Father, so when they know the Father, incompleteness, from that moment on, will cease to exist.*
+Father, so when they know the Father, incompleteness, from that moment on, will cease to exist.*[^2]
 
 **Read that again with our vocabulary in your hand. It is the Return.** Not a distant relative of it
 — the same claim, in the same shape, with the same cure. They are not the opponent who thinks the
@@ -73,7 +73,7 @@ And there is a further consequence, past the cosmology, which is the one this bo
 hardest — because it is the one that will be quoted back to us as agreement. **Their knowledge does
 not only end a predicament. It dissolves the many.** The *Gospel of Truth* says so without flinching:
 by knowledge the knower *purifies itself of diversity with a view towards unity, devouring matter
-within itself like fire.* Multiplicity is the impurity; oneness is the cure. **Ours runs the other
+within itself like fire.*[^3] Multiplicity is the impurity; oneness is the cure. **Ours runs the other
 way and has to.** The many are not a contamination to be burned off on the way home — they are what
 there is to be, and the whole of what the walking is for. A destination with no perspective left
 standing in it is not the fullest state available to anything. **It is the one state in which nothing
@@ -94,7 +94,8 @@ There is one more thing owed on this, and it is a debt of ours rather than an ar
 **Their name for the divine fullness was the *pleroma*, and the standard English for it is the
 Fullness.** It is also Paul's word — *in him all the fullness of God was pleased to dwell* — so a
 reader raised in a church has met it in a hymn rather than a heresy, and a reader who has met it in
-Jung or in the Nag Hammadi library has met it in the heresy. It is a contested word with two owners.
+Jung or in the Nag Hammadi library has met it in the heresy.[^4] It is a contested word with two
+owners.
 
 **Book I used it as the name of the plenum, and took it knowingly from neither.**
 
@@ -173,7 +174,7 @@ enough to be wrong.
 That claim has a neighbour, and it is close enough that the book owes you the seam. James Ladyman
 and Don Ross, in *Every Thing Must Go* (2007), argue for ontic structural realism: the world's
 objective modal structure is the fundamental thing, and an object's identity is not something it
-brings to its relations but something it gets from them. Self-subsistent things go. They came to it
+brings to its relations but something it gets from them.[^5] Self-subsistent things go. They came to it
 from physics and this book comes to it from contact, and they were there first — and the half they
 have right is the half readers find hardest, which is that a world with no things in it is not a
 world with less in it.
@@ -201,3 +202,52 @@ What follows is what the words are for.
 
 And the first thing they are turned on is the other half of the account this chapter has spent its
 length refusing. Not how it ends. Who made it.
+
+---
+
+## Notes
+
+[^1]: Irenaeus of Lyon, *Adversus haereses* I.21.4, in the Ante-Nicene Fathers translation
+(Roberts–Rambaut). ⚠ **The numbering is Massuet's**, which is the scheme ANF and nearly all English
+citation follow; Harvey's edition divides the same text differently, and a reader sent to Harvey
+with a Massuet locus will not find the passage. This book has been bitten by exactly that once
+already and the scheme is therefore stated at every Irenaeus citation rather than assumed. The
+context matters and is not visible in the quoted clause: Irenaeus is reporting the Marcosian
+doctrine of redemption in order to attack it, and the sentence is his summary of an opponent, which
+is what makes the *Gospel of Truth* corroboration in the next note worth having.
+
+[^2]: *The Gospel of Truth*, Nag Hammadi Codex I,3, page 24, in Robert M. Grant's translation. The
+codex was among the thirteen recovered near Nag Hammadi in December 1945. The attribution to
+Valentinus himself is not settled and the body's *very possibly* is doing real work: the text is
+Valentinian beyond serious dispute, and Valentinus's own authorship is a strong minority position
+resting largely on Irenaeus's report (*Adv. haer.* III.11.9, Massuet) that the Valentinians had a
+gospel of that name. ⚠ The reference here is to the **codex page**, which is what the standard
+citation format gives together with a line range; the line numbers have **not** been checked
+against a critical edition for this note and are therefore not printed rather than guessed.
+
+[^3]: *Gospel of Truth*, NHC I,3, page 25, Grant translation — the same translation as the previous
+note, checked rather than assumed, because two quotations from one text in one chapter taken from
+two different English versions would make the shift in vocabulary between them look like a shift in
+the Coptic. The full clause continues past where the body cuts it: "…devouring matter within itself
+like fire and darkness by light, death by life." The cut is marked here because the omitted half
+strengthens the chapter's point rather than weakening it, and a reader is entitled to know which
+direction an ellipsis runs. Attridge and MacRae render the same passage "purify himself from
+multiplicity into Unity, consuming matter within himself like fire," which is the more common
+English and says the same thing.
+
+[^4]: Paul, Colossians 1:19 — *in him all the fullness of God was pleased to dwell* — with the
+cognate statement at 2:9. *Pleroma* (πλήρωμα) is the same word in both the epistle and the
+Valentinian system, which is the whole of the difficulty: it is not a Gnostic coinage borrowed by a
+church, nor the reverse, but a term with two developed uses and no arbitrator. C. G. Jung's use is
+the third route by which a modern reader meets it — *Septem Sermones ad Mortuos* (privately
+printed, 1916), written in the Basilidean voice and opening on the Pleroma; Jung's later Gnostic
+reading runs through *Aion* (1951) and *Answer to Job* (1952).
+
+[^5]: James Ladyman and Don Ross, with David Spurrett and John Collier, *Every Thing Must Go:
+Metaphysics Naturalised* (Oxford: Oxford University Press, 2007). Ontic structural realism as taken
+above: relational structure is fundamental, individual objects are not, and a thing's identity is
+conferred by its position in the structure rather than brought to it. The break stated in the body
+is a break about *realism* and not about structure — their structure is what the mathematics
+quantifies over and is fully itself unobserved, which is precisely what makes their position a
+realism and this account not one. Attributing the position to the two named authors follows their
+own division of the book; the volume has four.

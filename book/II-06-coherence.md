@@ -168,7 +168,8 @@ alongside its essence but *as* its essence — the striving is not something the
 the thing is. And in the same work he made the move this chapter has just made, in his own
 vocabulary and with far more machinery behind it: thought and extension are not two things that keep
 company, they are one substance comprehended now under this attribute and now under that. The inside
-and the outside of one condition, three hundred and fifty years early, argued rather than asserted.
+and the outside of one condition, three hundred and fifty years early, argued rather than
+asserted.[^1]
 
 He also had the scale problem, and had it in an image nobody has improved on. Writing to Henry
 Oldenburg in November of 1665, he asks what the world would look like to a little worm living in the
@@ -176,11 +177,11 @@ blood — a worm able to see the particles of lymph and chyle, and to watch each
 be repelled or pass on some of its motion. Such a worm, he says, would live in the blood as we live
 in our part of the universe, and would take each particle of blood for a whole rather than a part.
 The worm is not making an error of reasoning. It is occupying a level, and from that level the
-blood's own nature is not visible.
+blood's own nature is not visible.[^2]
 
 **The cut is at what the striving is for.** Spinoza fixes it in the fourth part of the *Ethics*: the
 more each thing strives, and is able, to seek its own advantage — that is, to preserve its being —
-the more it is endowed with virtue. Persistence is the criterion. And persistence is exactly the
+the more it is endowed with virtue.[^3] Persistence is the criterion. And persistence is exactly the
 quantity that comes apart across levels, because by that measure the tumour is the most virtuous
 cell in the body. It strives harder, preserves its being more successfully, and seeks its own
 advantage with fewer inhibitions than anything around it. So perseverance cannot be what coherence
@@ -198,8 +199,8 @@ examined.
 
 The same thing is true of the oldest version of the structural claim, and the repetition is worth
 naming rather than leaving to look like coincidence. *As above, so below* — the Hermetic formula,
-fifteen centuries older than Spinoza and the slogan this whole picture has been walking around
-without crediting — says the levels *resemble* each other. Resemblance is stronger than agreement
+older than Spinoza by the better part of a millennium and the slogan this whole picture has been
+walking around without crediting — says the levels *resemble* each other.[^4] Resemblance is stronger than agreement
 and cheaper, because it makes divergence not pathological but impossible. Neither the formula nor
 the philosopher can say what is wrong with a tumour. Both bought the harmony of the levels in
 advance, and what you buy in advance you cannot lose, and what cannot be lost was never a claim.
@@ -208,7 +209,7 @@ One link upstream, because the striving is not Spinoza's either. It is Descartes
 part of the *Principles of Philosophy* — that each thing, so far as it is in its power, remains
 always in the same state. Spinoza had worked through the *Principles* closely enough to write his
 own exposition of them, and when the phrase reappears in the *Ethics* it is carried over word for
-word, moved out of motion and into essence. **The persistence sense of going-well arrives from
+word, moved out of motion and into essence.[^5] **The persistence sense of going-well arrives from
 physics.** It is the law of inertia in ethical clothing, which is why it feels self-evident that a
 thing's good is to keep on being what it is, and why the intuition is so difficult to put down. It
 is also why it is the wrong shape for this. Inertia has no levels in it. A law about one body
@@ -227,3 +228,58 @@ One of the four conditions has been named and not defined, and it is the one hol
 *measurement*, the contact that could have come out otherwise. That is the next chapter, and it is
 the chapter where the most expensive borrowed word in the book gets taken away from the people who
 own it.
+
+---
+
+## Notes
+
+[^1]: Benedict de Spinoza, *Ethics* (1677), cited throughout by the standard part/proposition
+numbering. The striving is E3p6 — each thing, *quantum in se est*, strives to persevere in its being
+— and the identification of that striving with the thing's essence is the proposition immediately
+following, E3p7: the striving is "nothing but the actual essence of the thing itself." The two are
+separated here because the chapter's use depends on the second and not the first; a thing that
+merely *has* a striving is not what is being borrowed. The one-substance-two-attributes move is
+E2p7s — thinking substance and extended substance are one and the same substance, comprehended now
+under this attribute and now under that. Translations quoted in paraphrase; the standard English is
+Edwin Curley, *The Collected Works of Spinoza*, vol. 1 (Princeton: Princeton University Press,
+1985).
+
+[^2]: Spinoza to Henry Oldenburg, Letter 32, 20 November 1665. The worm is *vermiculus in sanguine*
+— able to distinguish by sight the particles of blood, lymph and chyle, and to observe how each,
+on meeting another, is repelled or communicates a part of its motion. Spinoza's own conclusion is
+the one used above: such a worm "would live in this blood as we live in this part of the universe,
+and would consider each particle of the blood as a whole, not as a part." What the letter is
+*doing*, in its own context, is answering Oldenburg on the coherence of the parts of Nature, and it
+concludes toward the harmony the chapter goes on to refuse — which is why it is taken here for its
+image and not for its moral.
+
+[^3]: *Ethics* E4p20: "The more each one strives, and is able, to seek his own advantage, i.e., to
+preserve his being, the more he is endowed with virtue." Read with E4d8, where a thing's virtue
+simply *is* its power, the criterion is unambiguous and is the one the chapter cannot use. The
+tumour objection is not raised against Spinoza here as though he had missed it — E4p18s and the
+whole apparatus of agreement-in-nature are his answer to something adjacent — but the answer runs
+through the guarantee named in the next paragraph, and a criterion that needs the guarantee is not
+available to an account that has refused it.
+
+[^4]: *As above, so below.* The formula is the second sentence of the *Tabula Smaragdina*, the
+Emerald Tablet, and its dating needs stating rather than gesturing at, because the loose version of
+this sentence is wrong. The Tablet's earliest known attestation is Arabic: an appendix to the
+*Kitāb sirr al-khalīqa* (*Book of the Secret of Creation*) attributed to Balīnās, pseudo-Apollonius
+of Tyana, compiled in the late eighth or early ninth century and certainly complete by the
+caliphate of al-Maʾmūn (813–833). It reaches Latin in the twelfth century. There is no surviving
+Greek witness earlier than the Arabic. ⚠ **An earlier draft of this sentence said "fifteen
+centuries older than Spinoza," which would date the formula to the second century — that is the
+date of the *Corpus Hermeticum*, a different body of texts that does not contain this line.** The
+correction is recorded rather than quietly made, because the error is the ordinary one: a formula
+inherits the age of the tradition it is filed under. Julius Ruska, *Tabula Smaragdina* (Heidelberg,
+1926), is the study that established the Arabic transmission; Kevin van Bladel, *The Arabic Hermes*
+(Oxford: Oxford University Press, 2009), is the current account of how Hermes reached Arabic at
+all.
+
+[^5]: René Descartes, *Principia philosophiae* (Amsterdam, 1644), Part II, art. 37 — the first law
+of nature, that each thing, *quantum in se est*, always remains in the same state. The claim above
+that the phrase is carried over word for word is literal and not a figure of speech: *quantum in se
+est* is Descartes' Latin at II.37 and Spinoza's Latin at E3p6, unchanged, moved from a law about
+bodies in motion to a proposition about essence. Spinoza's own close working-through of the text is
+*Renati des Cartes Principiorum philosophiae pars I et II, more geometrico demonstratae*
+(Amsterdam, 1663), the only book he published under his own name.

@@ -71,13 +71,13 @@ Aristotle owns this ground and should be paid for it before anything is taken. P
 actuality — *dynamis* and *energeia* — are his, and the half he got right is the half most moderns
 get wrong: that possibility is a real feature of the world and not merely a name for our ignorance.
 The acorn's oak is not a fact about what we have failed to find out. It is a fact about the acorn.
-An age that hears *possible* and reaches straight for *unknown* has lost something he had.
+An age that hears *possible* and reaches straight for *unknown* has lost something he had.[^1]
 
 And in one place he had the whole of it. In the psychology, not the metaphysics: the activity of the
 sensible object and the activity of the percipient sense, he says, are one and the same activity,
 though what it is to be each of them stays distinct. The sounding of the thing and the hearing of
 the animal are not two events that meet. They are one event described from its two ends. That is a
-measurement in this book's sense, exactly, stated twenty-three centuries early.
+measurement in this book's sense, exactly, stated twenty-three centuries early.[^2]
 
 **The cut is that he never let it out of the room.** In the metaphysics, actualisation is a thing's
 own form arriving — the potential is a power *in* the acorn, and the oak is what happens when it
@@ -109,7 +109,7 @@ permits the collapse to be placed anywhere along the chain. Particle to apparatu
 photographic plate, plate to retina, retina to whatever comes after — the formalism gives the same
 predictions wherever the division is placed — the *Heisenberg cut*, in the standard name — and
 offers no way to find where it truly goes. He drew no conclusion about minds. He reported that the
-location was unfixed.
+location was unfixed.[^3]
 
 That result is usually presented as an embarrassment. It is not evidence for anything in this
 chapter — a gap in a formalism is not a shape pressed into that formalism from outside, and von
@@ -119,7 +119,7 @@ question — *whose* settling is being asked about — and the formalism was nev
 It is silent about the location of the cut in the same way a map is silent about who is holding it,
 which is a remark about what maps are.
 
-Wigner, in 1961, took the unfixed cut and fixed it: consciousness. Where the chain reaches an aware
+Wigner, in 1961, took the unfixed cut and fixed it: consciousness.[^4] Where the chain reaches an aware
 being, he proposed, the possibilities become one outcome, and the awareness is what does it. Credit
 where it is owed, because he saw the real problem — the chain has to stop somewhere and the stopping
 is not in the mathematics. **The cut is that he made the perspective a cause.** A special power,
@@ -132,7 +132,7 @@ And his version failed, on the record, by his own hand. In a 1982 lecture he sai
 should be criticised as solipsism. In 1984 he wrote that he had been argued out of it by Dieter
 Zeh's 1970 work on decoherence — the demonstration that a system with several live outcomes stops
 having them by leaking into its surroundings, continuously, everywhere, with nobody watching and
-nothing aware anywhere near it.
+nothing aware anywhere near it.[^5]
 
 **That is the whole shape of the objection this chapter exists to kill.** *It's all just quantum* is
 not too speculative. It is too old. The one distinguished physicist who ever held the position was
@@ -148,7 +148,8 @@ physical system, all systems are equivalent, there is no observer/observed disti
 privileged observer, and what the theory describes is the information systems have about each other.
 Wigner's own thought experiment is the clean case — the friend sealed in the laboratory who has seen
 the outcome, Wigner outside who has not — and Rovelli declines to adjudicate between them. The
-outcome is definite relative to the friend and not relative to Wigner, and neither of them is wrong.
+outcome is definite relative to the friend and not relative to Wigner, and neither of them is
+wrong.[^6]
 
 That is this chapter's claim about the same matter being closed for one perspective and open for
 another, arrived at from the formalism rather than from an argument about measurement, and arrived
@@ -169,7 +170,7 @@ a photon, a bat, a person, and whatever it is that Book VII will be made to adju
 **The near miss worth cutting at is QBism** — Fuchs, Mermin and Schack. From a distance it is
 indistinguishable from the above, and it is the opposite. QBism also refuses the
 observer-independent outcome; it relativises to an *agent*, and takes the quantum state to be that
-agent's own expectation about that agent's own future experience. That is the subjectivism this
+agent's own expectation about that agent's own future experience.[^7] That is the subjectivism this
 chapter has spent itself refusing. A photon holds no expectations and has no future experience to
 hold them about, and what happens when it meets an electron is not somebody's belief being brought
 up to date. **Relative is not subjective.** More weight rests on that distinction than on any other
@@ -179,7 +180,7 @@ Two pieces of honesty are owed here, and they cost nothing. First, decoherence d
 measurement problem; it explains why nobody ever sees the smear, and there is live, serious
 disagreement about whether it explains why exactly one outcome is the one that happened. Everett's
 answer, since 1957, is that none did — every branch is actual, nothing ever settles, and a single
-outcome is what being inside one branch is like. That is coherent, and it cannot be taken here,
+outcome is what being inside one branch is like.[^8] That is coherent, and it cannot be taken here,
 because *the possible becoming actual for somebody* is the entire engine of this account and
 Everett's world contains no such event anywhere. The argument is open; this is the side of it this
 book stands on. Second, and more important: none of the above is evidence for anything claimed here.
@@ -245,3 +246,81 @@ happens at a place, and the places are everywhere, and there are nothing but pla
 The vocabulary is now complete. What remains is to say plainly what this book will not do with it,
 and which words it has declined to use on the way here — because a reader who has been sold this
 territory before is owed the list, and owed it before the arguments start rather than after.
+
+---
+
+## Notes
+
+[^1]: Aristotle, *Metaphysics* Θ (Book IX), where *dynamis* and *energeia* are worked out as a
+paired doctrine, with the definition of motion as the actuality of the potential *qua* potential at
+*Physics* III.1, 201a10–11. The half credited above is the realist half: potentiality is a
+determination of the thing, not a name for the observer's ignorance about it. The half refused is
+in the same books — actualisation there is a thing's own form arriving, with no second party in the
+account, which is exactly what makes the *De Anima* passage in the next note an anomaly inside his
+own system rather than a summary of it.
+
+[^2]: Aristotle, *De Anima* III.2, 425b26–426a26. The load-bearing sentence is that the activity of
+the sensible object and the activity of the sense are one and the same activity, though their being
+is not the same — stated of sound and hearing, then generalised. The chapter's claim is about the
+*shape* of that structure and not about Aristotle's intention: he is solving a problem about
+perception, not proposing that settling is relational, and nothing in the passage is a doctrine of
+measurement. It is used here as a case of the structure appearing and not being carried out of the
+room, which is a claim about the *De Anima*'s relation to the *Metaphysics* and is the chapter's
+own.
+
+[^3]: John von Neumann, *Mathematische Grundlagen der Quantenmechanik* (Berlin: Springer, 1932),
+ch. VI; English as *Mathematical Foundations of Quantum Mechanics*, trans. Robert T. Beyer
+(Princeton: Princeton University Press, 1955). The result reported above is the arbitrariness of
+the placement of the boundary between observed system and observer: the predictions are unchanged
+wherever the division is drawn. ⚠ *Heisenberg cut* is the standard later name for it and is not von
+Neumann's own term; the chapter says so in the sentence rather than in this note, and it is
+repeated here because a borrowed name is the ordinary route by which a later reading gets
+attributed to an earlier author. The reading of von Neumann as *concluding* something about minds
+belongs to London and Bauer, *La théorie de l'observation en mécanique quantique* (Paris: Hermann,
+1939), and to Wigner after them — not to the 1932 book, whose silence is the whole of what is
+claimed above.
+
+[^4]: Eugene P. Wigner, "Remarks on the Mind-Body Question," in I. J. Good (ed.), *The Scientist
+Speculates: An Anthology of Partly-Baked Ideas* (London: Heinemann, 1961), 284–302; reprinted in
+Wigner, *Symmetries and Reflections* (Bloomington: Indiana University Press, 1967), and in *The
+Collected Works of Eugene Paul Wigner*, Part B, vol. 6, *Philosophical Reflections and Syntheses*,
+ed. Jagdish Mehra, annot. Gérard G. Emch (Berlin: Springer, 1995). The friend sealed in the
+laboratory is introduced there.
+
+[^5]: The retraction, which is the chapter's load-bearing historical claim and is therefore given in
+full. **(a)** In a lecture of 1982 Wigner treats solipsism as sufficient reason to repudiate his
+earlier position on measurement — Collected Works vol. 6, pp. 73–74, and again p. 230. **(b)** In a
+paper of 1984 he writes: "This writer's earlier belief that the role of the physical apparatus can
+always be described by quantum mechanics […] implied that 'the collapse of the wave function' takes
+place only when the observation is made by a living being — a being clearly outside the scope of
+our quantum mechanics." **(c)** The argument that moved him is Zeh's, cited across the volume at
+pp. 66, 75, 215–216, 271, 334, 338, 341, 583, 606 and 615. The underlying paper is H. D. Zeh, "On
+the Interpretation of Measurement in Quantum Theory," *Foundations of Physics* 1 (1970), 69–76.
+⚠ **Standing of this note:** the three findings above are taken from Michael Esfeld, "Essay Review:
+Wigner's View of Physical Reality," *Studies in History and Philosophy of Modern Physics* 30B
+(1999), 145–154, whose page references are to the Collected Works volume. That is **one witness
+reading the primary**, not a check of the primary — the volume itself has not been opened for this
+note. The chapter's sentence in the body is safe at that grade, because Esfeld quotes Wigner
+directly and gives loci; a reader wanting the primary should go to pp. 73–74 and 230.
+
+[^6]: Carlo Rovelli, "Relational Quantum Mechanics," *International Journal of Theoretical Physics*
+35 (1996), 1637–1678. The three moves used above are all his: that *observer-independent state* is
+the notion doing the damage; that all physical systems are equivalent, with no privileged observer
+and no observer/observed distinction; and that Wigner's friend is not a paradox to be resolved but
+a case where the outcome is definite relative to one system and not to another. What is *not* his
+is anything about grades, about what a perspective is, or about what any of it licenses — the
+paragraph after this marker states that debt in the body, and it is stated there rather than here
+because a cut that only appears in an endnote is a cut the reader is not being shown.
+
+[^7]: Christopher A. Fuchs, N. David Mermin and Rüdiger Schack, "An Introduction to QBism with an
+Application to the Locality of Quantum Mechanics," *American Journal of Physics* 82, no. 8 (2014),
+749–754. The relativisation there is to an *agent* and the quantum state is that agent's degree of
+belief about that agent's own future experience — which is why the position is near this chapter's
+in form and its opposite in content. The distinction the body insists on, *relative is not
+subjective*, is a distinction QBism does not need to make and this account cannot survive without.
+
+[^8]: Hugh Everett III, "'Relative State' Formulation of Quantum Mechanics," *Reviews of Modern
+Physics* 29, no. 3 (1957), 454–462. Taken above at its own strength rather than as a foil: on
+Everett's account no outcome is selected, every branch is actual, and the appearance of a single
+result is what occupying one branch is like. The chapter's refusal is a refusal to pay a price, not
+a refutation, and it is marked as such in the body.
