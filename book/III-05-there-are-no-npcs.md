@@ -125,7 +125,7 @@ brought along.
 ⚠ The debt to them is not cancelled by this. Their history of structural coupling is the best
 existing account of how a particular animal comes to have the seed it has, and it is taken up whole
 in the next chapter, where that is the subject. The cut is at where they put the render, not at what
-they know.
+they know.[^1]
 
 ---
 
@@ -144,7 +144,7 @@ Teofilo has just said this:
 > of spiritual substance which, if it finds a suitable subject, becomes plant, becomes animal, and
 > receives the members of one or other of the bodies that are commonly called animate; for spirit is
 > found in all things and there is not the least corpuscle that doesn't contain internally some
-> portion that may become alive.
+> portion that may become alive.[^2]
 
 And Polihimnio pounces, in the schoolroom Latin he never drops:
 
@@ -158,14 +158,14 @@ that finding it ends the conversation.
 
 Teofilo's answer is one line, and it is the whole of what this chapter has to say to that objection:
 
-> Not all things that possess soul are called animate.
+> Not all things that possess soul are called animate.[^3]
 
 Then, pressed by the second interlocutor — *then, at least, all things have life?* — he draws the
 distinction exactly where it has to be drawn:
 
 > I grant that all things have soul in them, have life, according to the substance they possess; but
 > I do not hold that they are alive in terms of the act and operation recognisable as life by all
-> the Peripatetics and those who define life and soul in a certain over-gross fashion.
+> the Peripatetics and those who define life and soul in a certain over-gross fashion.[^4]
 
 **The kettle is not a person. Nothing in it is nobody.** Those two sentences are compatible, they
 have been compatible since the sixteenth century, and the appearance that they are not is produced
@@ -209,7 +209,7 @@ this is the load-bearing absence — no sentiment. The conduct is not recommende
 compassion is admirable. It follows from a claim of fact about somebody else's inside, and the
 sentence that comes a few lines later says which fact:
 
-> The Self is the knower (or experiencer), and the knower is the Self.
+> The Self is the knower (or experiencer), and the knower is the Self.[^5]
 
 The parenthesis is the translator's, and it is our word.
 
@@ -221,7 +221,7 @@ than any Western position has ever gone — and its argument is a simile:
 > As somebody may cut or strike a blind man, as somebody may cut or strike the foot, the ankle, the
 > knee, the thigh, the hip, the navel, the belly, the flank, the back, the bosom, the heart, the
 > breast, the neck, the arm, the finger, the nail, the eye, the brow, the forehead, the head, as
-> some kill openly, as some extirpate secretly.
+> some kill openly, as some extirpate secretly.[^6]
 
 The list is long on purpose. It is doing what a list does — making a reader stay in a sentence long
 enough for it to work on them — and what it works toward is the point that the absence of a signal
@@ -244,7 +244,7 @@ of ethics on is this:
 From which:
 
 > Ethics consist, therefore, in my experiencing the compulsion to show to all will-to-live the same
-> reverence as I do to my own.
+> reverence as I do to my own.[^7]
 
 That is our structure exactly — a fact about what is the case in the other, and the obligation
 following from the fact rather than from a feeling about it. And Schweitzer keeps a floor too, in
@@ -285,7 +285,7 @@ any of it, and an account that pretended otherwise would be refuted by the first
 day. Schweitzer, who was living inside this problem in a hospital in Gabon rather than writing about
 it from a study, was blunt about the shape of it: the conflicts do not resolve, the decisions stay
 subjective, no one can tell you where your own limit is — *the good conscience is an invention of
-the devil.*
+the devil.*[^8]
 
 What is removed is not an action. It is a **premise**.
 
@@ -364,3 +364,72 @@ There is no scenery. There never was any. The middle distance is full.
 
 And what it is like from inside one of those rooms — why two of them, standing in the same street,
 are standing in two different streets, and why both are right — is the next chapter.
+
+---
+
+## Notes
+
+[^1]: Francisco J. Varela, Evan Thompson and Eleanor Rosch, *The Embodied Mind: Cognitive Science
+and Human Experience* (Cambridge, Mass.: MIT Press, 1991), cited in full at III.4 note 5, where the
+enactive position and this book's first cut against it are set out. The floor at issue here is the
+autopoietic one they inherit from Maturana and Varela — *Autopoiesis and Cognition: The Realization
+of the Living* (Dordrecht: Reidel, 1980) — and the argument above is that the floor is imported
+rather than derived. That is a claim about the *structure* of their account and not about anything
+they say; no passage is quoted for it, because there is none to quote. **The absence is the
+finding.**
+
+[^2]: Giordano Bruno, *De la causa, principio et uno* (London, 1584), second dialogue. ★ **The
+English is Jack Lindsay's, *Cause, Principle and Unity* (Castle Hedingham: Daimon Press, 1962), and
+the identification matters exactly as it did at III.3.** The standard scholarly English now is
+Robert de Lucca's (Cambridge: Cambridge University Press, 1998), and it renders this passage
+differently at every joint: de Lucca has "the table is not animated as table" for Lindsay's *the
+table as table is not animated*; "disposes itself to be plant, or to be animal" for *becomes plant,
+becomes animal*; and "there is not the least corpuscle that does not contain within itself some
+portion that may **animate it**" where Lindsay has *some portion that may become alive*. A reader
+checking this chapter against the Cambridge edition will find the quotations do not match, and the
+reason is the translator, not the chapter. ⚠ **Grade, stated rather than rounded up:** the de Lucca
+text was pulled and diffed span by span; the attribution to Lindsay is an **inference from the
+divergence pattern and the idiom** — the British *recognisable*, the compound *over-gross* — and
+has **not** been checked against a copy of Lindsay. It is the best-supported attribution, not a
+verified one.
+
+[^3]: Same dialogue, same translation. Polihimnio's Latin and Teofilo's reply are consecutive in the
+source, and the bracketed English of the Latin is the translator's.
+
+[^4]: Same dialogue, same translation, in reply to Dicsono. De Lucca's rendering of the same speech
+— "All things that have a soul are animated, in terms of substance, but their life is not
+recognizable to the Peripatetics, who define life too strictly and grossly" — carries the same
+sense and none of the same words, which is note 2's point arriving a third time on one page of one
+chapter.
+
+[^5]: *Ācārāṅga Sūtra*, Book I, Lecture 5, Lesson 5, verses 4 and 5, translated by Hermann Jacobi
+in *Jaina Sūtras*, Part I, Sacred Books of the East vol. 22 (Oxford: Clarendon, 1884). The body's
+remark that the parenthesis *(or experiencer)* is the translator's is correct and is Jacobi's own
+convention: he brackets what the Prakrit does not say in so many words. The *Ācārāṅga* is
+generally taken as the oldest surviving text of the Śvetāmbara canon, which is what "earliest"
+means above; a date around the fourth or third century BCE is the usual estimate for its oldest
+strata and is what the body's "roughly twenty-four centuries" rests on.
+
+[^6]: *Ācārāṅga Sūtra*, Book I, Lecture 1, Lesson 2, Jacobi, on earth-bodies. ⚠ **The quotation
+strips the translator's parentheses and that is worth saying, because Jacobi's parentheses are the
+mark of what he has supplied.** He prints "As somebody may cut or strike a blind man **(who cannot
+see the wound)**," and "as some kill **(openly)**, as some extirpate **(secretly)**." The chapter
+prints all three without brackets, which turns three of Jacobi's supplements into the text. It
+changes no meaning and it is inconsistent with the previous note, where the chapter is careful to
+say a parenthesis is the translator's — **the same convention observed in one note and silently
+dropped in the next**, which is how a house rule stops being one.
+
+[^7]: Albert Schweitzer, *Civilization and Ethics*, being Part II of *The Philosophy of
+Civilization*, the Dale Memorial Lectures delivered at Mansfield College, Oxford, in 1922 and
+published in 1923; both sentences are at p. 246 of the English edition. The Schopenhauer debt the
+body names is Schweitzer's own and he pays it at length — *Wille zum Leben* is Schopenhauer's, and
+ch. XV, "Schopenhauer and Nietzsche," pp. 165ff., is the chapter the body refers to.
+
+[^8]: *Civilization and Ethics*, p. 256, in the section on the unresolved conflicts of reverence for
+life, immediately before the discussion of men and animals. ★ **This one was run down rather than
+quoted, and the result is worth recording.** The line circulates almost entirely at second hand —
+Rachel Carson quotes it in *Silent Spring* (1962), p. 17, and reference works that track
+attributions list its source in Schweitzer's own writing as unlocated. **It is in
+*Civilization and Ethics*, on the page given above.** ⚠ One divergence, in the book's favour and
+against the chapter: Schweitzer's text reads "The good conscience is an invention of the
+**devil's**." The possessive is his; the body drops it, as the popular circulation does.
