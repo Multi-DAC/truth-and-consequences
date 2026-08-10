@@ -4141,7 +4141,19 @@ that does not exist — **a false internal cross-reference in shipped prose, whi
 VII.8's brief already recorded as unchecked by anything in this repo.** Corrected in the line below.
 ⚠ **Two of these now, in two consecutive briefs, both found by re-reading.** `order_sweep` is
 book-level and cannot see them. **A `VII.x`/`I.x` pointer checked against the title it names is a
-twenty-line tool and does not exist. Filed as R-115.**
+twenty-line tool and does not exist. Filed as R-115.** ✅ **PAID the same day it was second-instanced
+— `tools/pointer_title_check.py`, Day 191.** Two arms: **A** checks a pointer that carries a title
+against the canonical title, **B** checks a bolded name asserted at a chapter against that chapter's
+actual text — the Watts/I.6 defect verbatim. It ships with a **positive control** (`--selftest`
+rebuilds both errors and requires them CAUGHT, plus the corrected line as a negative control), because
+a zero from a new gauge is worth nothing until something of the same shape has made it fire. Cold run:
+**0 / 0 / 0, one adjudicated exemption printed with its reason.** ⚠⚠ **AND ITS FIRST COLD RUN CAUGHT A
+DEFECT IN ITSELF THAT IS R-37 EXACTLY.** Arm B was **line-scoped**, and all seven of its surviving
+hits were two unrelated assertions sharing a row — `…5, all in VII.2… · ★ **Darwall** —` read as
+*Darwall is in VII.2*. **R-37 is the open queue item that says `claim_sweep`'s licence guard is
+line-scoped**, it has been on the queue for days, and I rebuilt it from scratch in a new tool having
+read that row. **A defect you have filed is not a defect you have stopped making.** Arm B is now
+clause-scoped on the manuscript's own separators (`·` and the table pipe).
 
 ⛔ **THIRD OF THE CLASS, FOUND THE SAME WAY AND ONE DAY LATER — AND THIS ONE WAS IN THE TABLE ABOVE,
 WHICH WAS FILLED YESTERDAY TO PREVENT EXACTLY THIS. FILED AS R-116.** VIII.3's row read **"Guide Part
@@ -4160,7 +4172,11 @@ the party that made it is the one relying on it.** Found by opening §4.1 to dra
 chapter, not by any gauge; `card_sweep`, `brief_fields` and `order_sweep` are all structurally unable
 to see it, since a `Source:` line that is present and **false** passes every one of them — which
 `brief_fields` says about itself, in its own footer, and which has now been demonstrated twice in two
-days. ⚠ Also noted while filing: **R-114 was never issued** — the queue runs R-113 → R-115. A gap, not
+days. ⛔ **AND `pointer_title_check.py`, WRITTEN TODAY FOR THIS EXACT CLASS, CANNOT SEE IT EITHER, BY
+DESIGN AND BY ITS OWN LIMIT LINE:** it checks pointers *into this manuscript*. R-116's pointer is at
+an **external** source, and a gauge with an off-tree dependency fails silently the day the tree moves.
+**The internal half of the class now has a hand; the external half is still caught by re-reading, and
+that is the honest state of it.** ⚠ Also noted while filing: **R-114 was never issued** — the queue runs R-113 → R-115. A gap, not
 a collision; recorded rather than silently reused, because reusing it would make two findings share a
 number and neither would be findable by it.
 
