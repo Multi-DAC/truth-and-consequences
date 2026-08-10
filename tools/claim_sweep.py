@@ -1008,6 +1008,101 @@ def check_touches(scaffold: pathlib.Path):
     return len(chapters), missing
 
 
+# --- R-118: THE PER-CHAPTER DELTA ARM -------------------------------------------
+#
+# ⛔ WHY THIS EXISTS, and it is not because a rule was missing. Every rule worked.
+# R-101 filed the real defect and left it unpaid: *"a rule that fires into an unread
+# report is functionally identical to one that does not exist, and it is more dangerous,
+# because the register can point at it and say the word is gauged."* On Day 191 VIII.3
+# shipped a first draft carrying 21 occurrences of `aperture` — a term `05` §3 RETIRED
+# and `05` rule 5 names by name — plus 3 `substrate` and 1 `map`. `TERM/aperture` fired
+# on every one of them, instantly, correctly, into a 124-line book-wide report.
+#
+# The drafter found them by grepping that report for the chapter's own filename. That is
+# a discipline, not a gauge, and a discipline is exactly what fails at 3am on chapter 63.
+#
+# So this arm answers the only question a drafter has at the keyboard — WHAT DID THE FILE
+# I JUST WROTE ADD? — and it prints it FIRST, above the book-wide report, because the
+# position in the output is the whole repair. A number at line 60 of 124 has already lost.
+#
+# ⚠ DECLARED LIMIT: this is a FILTER, not a diff. It reports what the named chapter
+# currently carries, not what changed since the last commit. A chapter that shipped with
+# five hits and still has five reports five, and cannot say whether they are the same
+# five. That is deliberate — a git-diff arm would go silent the moment the file is
+# uncommitted, which is precisely when a drafter needs it. Coverage over cleverness.
+def chapter_file_re(chapter: str):
+    """`VIII.3` -> a pattern matching `VIII-03-slug.md`. Allowlist, never a denylist:
+    R-117's lesson, one tool over. A file is a chapter because it is NAMED like one."""
+    book, _, num = chapter.strip().partition(".")
+    if not num.isdigit():
+        return None
+    return re.compile(rf"^{re.escape(book.upper())}-0*{int(num)}-.*\.md$")
+
+
+def report_chapter_delta(chapter: str, all_uses) -> int:
+    """Print the named chapter's own USE-class load, first, before the wide report."""
+    pat = chapter_file_re(chapter)
+    if pat is None:
+        print(f"  ⛔ --chapter wants the form `VIII.3`, not `{chapter}`.\n")
+        return 2
+    mine = [h for h in all_uses if pat.match(h[1].name)]
+    print(f"  ╔═ THIS CHAPTER — {chapter} " + "═" * 46)
+    if not mine:
+        print(f"  ║  0 USE-class hit(s) in {chapter}.")
+        print("  ║  ⚠ A ZERO HERE IS NOT A CLEAN CHAPTER. It means no rule in the table")
+        print("  ║    fired on this file. The table does not cover doctrine, and the")
+        print("  ║    book-wide report below is still the one that has to be read.")
+    else:
+        by_rule = {}
+        for rule_id, path, n, line, why in mine:
+            by_rule.setdefault(rule_id, []).append(n)
+        print(f"  ║  {len(mine)} USE-class hit(s) in {chapter} — "
+              f"{len(by_rule)} rule(s):")
+        for rule_id, lns in sorted(by_rule.items(), key=lambda kv: -len(kv[1])):
+            shown = ",".join(str(x) for x in lns[:12])
+            more = f" (+{len(lns) - 12} more)" if len(lns) > 12 else ""
+            print(f"  ║    [{rule_id}]  ×{len(lns)}  L{shown}{more}")
+        print("  ║  ⛔ A RETIRED TERM DOES NOT PRESENT AS A VIOLATION AT THE KEYBOARD.")
+        print("  ║    It presents as the right word — aptness is why it was retired.")
+        print("  ║    See `05` rule 5. Every line is printed in full below.")
+    print("  ╚" + "═" * 62 + "\n")
+    return 0
+
+
+def delta_selftest() -> int:
+    """R-118's positive control. A new gauge's zero is worth nothing until something of
+    the same shape has made it fire — so the arm is run against a fixture that CONTAINS
+    the defect it was built for, and against a neighbour that must NOT be swept in."""
+    Fake = pathlib.Path
+    uses = [
+        ("TERM/aperture", Fake("book/VIII-03-editing.md"), 43, "x", "y"),
+        ("TERM/aperture", Fake("book/VIII-03-editing.md"), 88, "x", "y"),
+        ("TERM/substrate", Fake("book/VIII-03-editing.md"), 129, "x", "y"),
+        ("TERM/aperture", Fake("book/VII-03-the-floor.md"), 10, "x", "y"),
+        ("TERM/aperture", Fake("book/DRAFT-LOG.md"), 9195, "x", "y"),
+    ]
+    pat = chapter_file_re("VIII.3")
+    mine = [h for h in uses if pat.match(h[1].name)]
+    checks = [
+        ("fires on the chapter it was built for", len(mine) == 3),
+        ("does not sweep in a neighbouring chapter",
+         all("VII-03-the-floor" not in h[1].name for h in mine)),
+        ("does not sweep in the register that is not a chapter",
+         all("DRAFT-LOG" not in h[1].name for h in mine)),
+        ("zero-pad tolerant: VIII.3 finds VIII-03",
+         chapter_file_re("VIII.3").match("VIII-03-editing.md") is not None),
+        ("book letters do not cross: VII.3 misses VIII-03",
+         chapter_file_re("VII.3").match("VIII-03-editing.md") is None),
+        ("a bad argument is refused, not silently zeroed",
+         chapter_file_re("VIII") is None),
+    ]
+    bad = [name for name, ok in checks if not ok]
+    print("  chapter-delta self-test:",
+          "PASS — fires on the real defect, and on nothing adjacent"
+          if not bad else "** FAIL ** " + "; ".join(bad))
+    return 0 if not bad else 2
+
+
 def selftest() -> int:
     """Ruling 103's classifier, enforced. FOUR cases, and the two NEGATIVES matter most.
 
@@ -1056,12 +1151,15 @@ def main() -> int:
                     help="print suppressed mentions, to audit the mention/use classifier")
     ap.add_argument("--selftest", action="store_true",
                     help="the mention/use classifier test only")
+    ap.add_argument("--chapter",
+                    help="R-118: print THIS chapter's own load first, e.g. VIII.4. "
+                         "The wide report still runs underneath it.")
     args = ap.parse_args()
 
     # ALWAYS FIRST, never optional. A clean sweep produced by a broken classifier is
     # indistinguishable from a clean manuscript — that is the whole failure this tool keeps
     # having, and the only defence is a gauge on the gauge that runs before the verdict.
-    rc = selftest()
+    rc = selftest() or delta_selftest()
     if rc:
         print("  refusing to report a verdict from a classifier that fails its own test.")
         return rc
@@ -1082,6 +1180,12 @@ def main() -> int:
 
     print(f"CLAIM SWEEP — {len(files)} files · prose root: "
           f"{prose_root.relative_to(REPO) if prose_root.exists() else '(none yet)'}\n")
+
+    # R-118: FIRST, above everything. The position in the output IS the repair.
+    if args.chapter:
+        bad = report_chapter_delta(args.chapter, all_uses)
+        if bad:
+            return bad
 
     if all_uses:
         print(f"!! {len(all_uses)} USE-class hit(s) — read every one, then fix or allowlist:\n")

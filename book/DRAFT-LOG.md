@@ -10095,3 +10095,32 @@ presents as *the right word*, because it was retired for being apt. **Every one 
 retired terms is a word that fits**, which is why the rule exists and why it has now failed twice at
 the same site. The gauge is not the problem. **The delivery of the gauge's output at the moment of
 writing is the problem**, and that is a different repair from a better pattern.
+
+---
+
+✅ **R-118 PAID, SAME BREATH IT WAS FILED — `claim_sweep --chapter VIII.4`.**
+
+The arm answers the only question a drafter has at the keyboard — **what did the file I just wrote
+add?** — and prints it **first, above the book-wide report**, because *the position in the output is
+the whole repair.* A correct number at line 60 of 124 has already lost.
+
+**Allowlist, not denylist** (`^BOOK-0*N-.*\.md$`) — R-117's lesson carried one tool over on purpose,
+so the register files can never be swept in as chapters. Ships with a **positive control**
+(`delta_selftest`, wired into the mandatory pre-verdict selftest, not behind a flag): six checks,
+four of them negative — it must fire on the VIII.3 fixture, and must **not** catch the neighbouring
+chapter, the DRAFT-LOG, a different book's same ordinal, or a malformed argument. A zero from a new
+gauge is worth nothing until something of the same shape has made it fire.
+
+⛔ **DECLARED LIMIT, in the code and here: it is a FILTER, not a diff.** It reports what the chapter
+carries now, not what changed since the last commit, and cannot tell five old hits from five new
+ones. Deliberate — a git-diff arm goes silent on an uncommitted file, which is exactly when a drafter
+needs it. And its **zero is explicitly not a clean bill**: the banner says so, because a per-chapter
+zero is the most inviting place in this repo to stop reading.
+
+★★ **AND ITS FIRST REAL RUN RE-SURFACED R-101'S OWN EVIDENCE, INTACT AND UNPAID.** `--chapter VII.3`
+prints **18 USE-class hits in five rules: `aperture` ×10, `self-metric` ×3, `narrowing` ×2, `stream`
+×2, `substrate` ×1.** That is R-101's finding *verbatim* — *"VII.3 shipped carrying 2 `narrowing` +
+2 `stream` + 10 `aperture`, all live, none adjudicated"* — still shipped, still live, four days on.
+**The row was filed with the diagnosis complete and the repair named as a diff, and the diff was
+never run.** [[diagnosis-without-a-hand]]: R-101 now has the hand it was missing, and the work it was
+filed to do is still owed. → **R-101 stays OPEN and is now RUNNABLE**, which it was not before.
