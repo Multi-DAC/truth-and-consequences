@@ -3655,7 +3655,14 @@ and **Schweitzer 0, reproducing `06`'s own recorded zero** (sees absence). But *
 here against `ancestor_gap`'s canonical 14** — the methods differ. ★ **So only the ORDERING survives:
 the zeros are zeros, and the magnitudes are not this file's to quote.**
 
-### VII.3 — THE FLOOR
+### VII.3 — THE FLOOR ✅ DRAFTED — 5,540 words
+✅ **DRAFTED Day 190 · `book/VII-03-the-floor.md`.** All seven beats land, including both amended
+ones. **First v3-canonical card in the book** — `instrument_sweep` PASS on all three forward
+bindings at their first live run. Card subject: **the indexical egoist**, not the framework's own
+position. Endnotes square 4/4. The Halden/Bastøy note declares its own weakness in its own text: the
+cross-national recidivism comparison is weaker than it is usually made to look, and the claim rests
+on the structural argument instead.
+
 ⚠ **BRIEF AMENDED Day 190 by its own pre-draft screen — eleventh consecutive chapter. It was six
 lines with `Source` and `Named` both missing, and `brief_fields` had flagged it THIN AND UNDRAFTED:
 *"a short brief with holes is the one that costs, because the drafter fills a hole from memory and
