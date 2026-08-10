@@ -2541,3 +2541,144 @@ it has no pattern for, and must say so in its own output.
 the same run.** large.
 
 ---
+
+**FILED — R-127 through R-130 · BOOK VIII OUTSIDE READ, Day 191.** Nine chapters read; three findings
+returned. All three verified against the prose before filing. Two carry wrong numbers and the
+corrections change what the fix is. **R-130 is mine, found while correcting R-129's arithmetic.**
+
+⚠ **DECLARED SCOPE, recorded per [[briefing-manufactures-the-agreement]] — and it closes an open
+question.** The reviewer opens *"the foreclosure worry I raised at Book VI is answered."* **This is the
+same instance that read Book VI**, self-declared. The Day-191 handoff carried that as unanswered and
+material, and it is now answered: findings 2 and 3 here are **one reader continuing their own frame**,
+not two independent detections — finding 3 explicitly re-applies V.4's silent-filter organ, which is
+that reader's own prior lens. Continuity is worth more than independence for a *structural* read and
+worth less for a *corroborating* one. Weight accordingly: R-128 and R-129 are one witness, twice.
+
+---
+
+**FILED — R-127: THE BOOK'S MOST-REPEATED CLAIM HAS NO NAME IN ITS PROSE, NO C-NUMBER, AND A CANONICAL
+WORDING THE BOOK IS FORBIDDEN TO PRINT.** *(Reviewer finding 1. Holds, and is worse in one limb and
+weaker in another than stated.)*
+
+**Verified.** `the Coherence Principle` occurs **twice in 67 chapters** — `VIII-04:324` and
+`VIII-07:334` — and **both are footnotes.** VIII.4's notes begin at line 278; the occurrence is at
+324. ★ **So the name has been printed in the argument exactly zero times.** It exists only in the
+apparatus talking about its own absence. VIII.4's *"named here once, minimally"* is true of the
+footnote, and the footnote is not the chapter.
+
+**The banned-word limb is exact.** `04`:506 states it canonically — *"coherent multi-scale systems
+holding structural superposition until informed measurement collapses them"* — and `superposition` is
+★ BAN, `05` §3c ruling 31, the strongest verdict in the lexicon, on the criterion that it has **no
+civilian life** and so transfers authority rather than meaning. `06`:4573 already found this and said
+so. The debt is real and the canonical wording cannot pay it.
+
+⛔ **AMENDED — the third limb is wrong, and the correction changes the fix.** The reviewer says the
+working formulation *"exists only in VIII.7 and has no C-number."* It does not exist only in VIII.7:
+`05` §3a's **Coherence** row carries it — *"the structural agreement of a thing's levels with one
+another and the felt rightness of going the way one goes — the claim is that these are one thing, met
+from its two sides"* — and VIII.4's note quotes it verbatim. **The formulation is registered; it is
+registered in the wrong file.** A lexicon row defines a word. A C-number carries a claim, with
+dependents, a breach test and a trap. The book's central structural claim is being held by a
+vocabulary table, which is why nothing in `07` lists its dependents and why no chapter can breach it.
+
+**Owed:** promote §3a's wording to a **C-number in `07`** with its dependents enumerated (II.6 and
+IV.5's four conditions both run on it), rule the structure/process wording canonical in `04`, and
+**decide whether the name enters the prose at all** — it may not need to, and a claim that works
+unnamed for 67 chapters is evidence that it does not. ⛔ **Do not fix this by exempting
+`superposition`.** VIII.7's note states the rule: *a principle that cannot be said without a banned
+word has a problem, and the fix is not an exemption.*
+
+★ **[[diagnosis-without-a-hand]] again, twice.** VIII.4 and VIII.7 each diagnose this correctly in a
+footnote and neither repaired it, because a footnote *feels* like discharge. Two accurate diagnoses,
+zero rows, zero register edits — until this one. **TRIGGER: R-2, before Book VIII.** large.
+
+---
+
+**FILED — R-128: BOOK VIII SPENDS V.2's BILL AND NEVER RETURNS TO IT — AND V.2 NAMED THE VOLUME IT
+WOULD BE SPENT IN.** *(Reviewer finding 2. Holds, and is larger than filed.)*
+
+**V.2:242 verified exact:** *"Practices can be written down. A rota cannot, because a rota is not a
+practice — it is other people, and a book cannot supply other people."*
+
+★ **The reviewer underread it.** V.2 does not merely incur the debt in passing — it points **forward at
+Book VIII by name**, four lines earlier: *"There is a volume at the end of this one about what to do on
+a Tuesday, and it is worth saying now, at the point where it would be most useful to imply otherwise,
+what that volume will not contain: a list with a three-week column on it, and somebody who has kept the
+list for nineteen years."* The debt was filed **with a pointer at its own due date.**
+
+**And the due date passed silently. Measured: `rota` = 0 and `parish` = 0 across all nine Book VIII
+chapters.** Meanwhile the leverage is exactly where V.2 said the book could not go — VIII.2's Method 1
+(hand your week to someone who is not you), VIII.5's card (ask the second question out loud), VIII.5's
+third and *most reliable* test (do the people who knew you before recognise you), VIII.6 (let the answer
+differ from the simulation), VIII.7's contractive-rest test (*who is currently paying for this*).
+**VIII.5:215 states the finding in its own words** — *"why the answer keeps turning out to require
+somebody else"* — and does not connect it to V.2. Both halves are in the book, three volumes apart,
+with nothing linking them.
+
+**This is not a defect to repair; V.2 was right.** It is an unsettled account. **Owed:** the chapters
+that most depend on another person say so **in V.2's own terms**, and the coda settles it rather than
+leaving it implied. ⛔ The coda is unwritten — **so this one is cheap now and expensive later. Write
+C.2's paragraph before C.1.** **TRIGGER: coda drafting, and R-2 Book VIII.** medium.
+
+---
+
+**FILED — R-129: THE CARD CRITERION WAS RUN ON ONE CLASS AND NOT THE OTHER, AND THE UNRUN ONE IS THE
+EXPENSIVE ONE.** *(Reviewer finding 3. Diagnosis survives; the numbers do not.)*
+
+⛔ **AMENDED — the arithmetic is off by roughly sevenfold and I am not filing it at the reviewer's
+size.** *"Class IV gets four sentences"*: measured, Class IV gets **seven sentences / 147 words** in the
+taxonomy **plus 167 words** in §V's *Whole-restriction operations* = **314 words**, and it holds the
+mechanism sentence the whole of beat three runs on. *"Roughly fifteen hundred words"* for Class VIII:
+measured **923** (68 taxonomy + 20 dial-operations + 835 card). The disparity is **~3:1, not ~20:1.**
+*"`psychedelic` is at zero"* is true of the sixty-two preceding chapters, not of this one, where it
+occurs three times and is load-bearing.
+
+**But the reviewer is right about the thing under the numbers, and it is sharper than the ratio.** The
+card has a **stated criterion** — a failure mode the census has not yet kept separate. Class VIII is
+tested against it and passes (sixth failure mode, first non-perceptual). ★ **Class IV was never run
+against that criterion at all.** Not declined — never asked. And Class IV has an obvious candidate
+sitting in plain view: it is the same open loop, with a *less* instrumented input.
+
+**That is V.4's mechanism operating exactly as V.4 says it does** — *"A silent filter takes the most
+expensive material first… not the weakest material… whatever costs the most to be seen holding"*, and
+*"it produces no record… the hole has the same shape as a topic nobody happened to think of."* The
+reputationally expensive class got no card and no note saying why not. **There is no gauge that reads
+absence-with-no-author** — V.4:198, in the volume that named the organ, three books before it operated.
+
+**Owed:** run the card criterion on Class IV **out loud** and either card it or print the refusal with
+its reason. **TRIGGER: R-2, Book VIII.** medium.
+
+---
+
+**FILED — R-130: VIII.3:133 CLAIMS AN EXCLUSIVITY ITS OWN CARD DISPROVES.** *(Mine, found while
+correcting R-129. Not in the outside read.)*
+
+VIII.3:132–134, introducing Class VIII: *"it has a failure mode that none of the other seven have."*
+That is an exclusivity claim over the whole taxonomy, and the card at 274–337 defines the failure mode
+as **exact about what it did and blind to whether it worked** — instrumented input, uninstrumented
+output, an open loop.
+
+⛔ **Class IV has the same structure.** Its inputs are specifiable and the chapter names them as
+inputs — *"set, setting, intention and integration… are the navigational parameters"*. Its output is
+entirely uninstrumented: the only report of where you arrived is first-person, which is the identical
+missing half. Classes II and VI are arguably the same shape again — a posture and a duration, a rite
+and a procedure, no read on arrival. **On the open-loop criterion Class VIII is not first, it is
+fourth.**
+
+**The card's real distinctive claim is one line further down and is sound:** *"both halves are
+delivered by the same session and the second one arrives wearing the first one's credibility."* **The
+credibility transfer is what no other class has** — Class IV's input measurement does not arrive with
+an EEG trace attached. The card's own ★ sentence is correctly hedged to *"the sixth failure mode the
+census has kept separate"*, which is a claim about the **carded set** and is true. **Line 133 restates
+it as a claim about the eight classes, and at that width it is false.**
+
+✅ **FIXED ON THE SPOT, Day 191.** Line 133-134 now reads *“because its failure mode arrives
+disguised as its own instrumentation, which is a difficulty none of the other seven present.”* The
+exclusivity is retained where it is true (the disguise) and dropped where it was false (the open loop).
+`beat_delivery` VIII.3 re-run after the edit: **4 beats, coverage 1.00, zero MISS.** ★ **And this is a live positive control for R-126 family 2** (COUNT / NEGATION: *none of the
+other seven*): a self-claim, mechanically detectable, false, and it sat through the pre-draft screen,
+the beat sweep, `instrument_sweep` and an outside read by a reader looking at this exact section.
+**Add it to R-126's test fixtures before the gauge is written.** **TRIGGER: R-2, Book VIII; fixture
+immediately.** small (fix) / free (fixture).
+
+---

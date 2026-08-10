@@ -10445,3 +10445,77 @@ NOT COUNTED IN THE 67.** The gauge's denominator is chapters; the Coda sits outs
 scoping decision made long before today and is stated here so that *"67/67"* is never read as *"the
 book is done."* **What remains, in the order the record already sets it: the Coda · the endnote debt
 (56/154) · then R-2, the audit pass.**
+
+---
+
+**DAY 191, EVENING — BOOK VIII OUTSIDE READ. Three findings in, four rows filed, one fixed in prose.**
+
+Same reviewer as Book VI, **self-declared in its own first line** (*"the foreclosure worry I raised at
+Book VI is answered"*). That closes the question the Day-191 handoff carried as unanswered and
+material, and it costs something: findings 2 and 3 are **one reader continuing their own frame**, not
+independent detections. Finding 3 re-applies V.4's silent-filter organ, which is that reader's own
+prior lens. Recorded as declared scope in the queue header, per [[briefing-manufactures-the-agreement]].
+
+**All three hold. Two carry wrong numbers, and both corrections change what the fix is.**
+
+**R-127 — the Coherence Principle.** Verified and it is **worse in one limb than filed**: the name
+occurs twice in 67 chapters and **both occurrences are footnotes** (`VIII-04:324`, `VIII-07:334`;
+VIII.4's notes begin at 278). The book's most-repeated structural claim has been named in the argument
+**zero times**. ⛔ **And the reviewer's third limb is wrong in a way that changes the repair.** It says
+the working formulation *"exists only in VIII.7 and has no C-number."* It exists in `05` §3a's
+**Coherence** row, verbatim, and VIII.4 quotes it. **The formulation is registered — in the wrong
+file.** A lexicon row defines a word; a C-number carries a claim with dependents and a breach test.
+So the fix is a **promotion**, not an authoring, and that is a much smaller job than the finding
+implies. The banned-word limb is exact: `04`'s canonical wording routes through `superposition`, ★ BAN,
+ruling 31.
+
+★ **[[diagnosis-without-a-hand]], twice in one volume.** VIII.4 and VIII.7 each diagnosed this
+correctly *in a footnote* and neither repaired it. A footnote feels like discharge. Two accurate
+diagnoses, zero rows — until today.
+
+**R-128 — V.2's bill.** Holds and is **larger than filed**. V.2 does not merely incur the debt; it
+points **forward at Book VIII by name** — *"There is a volume at the end of this one about what to do
+on a Tuesday… what that volume will not contain: a list with a three-week column on it."* The debt was
+filed with a pointer at its own due date. Measured: **`rota` = 0 and `parish` = 0 across all nine Book
+VIII chapters.** VIII.5:215 restates the finding in its own words — *"why the answer keeps turning out
+to require somebody else"* — and never connects it to V.2. Both halves in the book, three volumes
+apart, nothing linking them. ⛔ The coda is unwritten, so this is cheap now and expensive later.
+
+**R-129 — the allocation.** ⛔ **Numbers off by roughly sevenfold and not filed at the reviewer's
+size.** Measured: Class IV = **314 words** (147 taxonomy + 167 §V whole-restriction), not "four
+sentences" — seven sentences, and it holds beat three's mechanism. Class VIII = **923**, not "roughly
+fifteen hundred". Disparity **~3:1, not ~20:1.** [[measure-before-framing]]: the story was available
+before the count and the count is a third of the story.
+
+**The diagnosis survives the correction and gets sharper for it.** The card has a stated criterion —
+a failure mode the census has not kept separate. Class VIII was tested against it and passed.
+★ **Class IV was never run against it at all.** Not declined; never asked. And that is V.4's mechanism
+operating exactly as V.4 describes: *"it produces no record… the hole has the same shape as a topic
+nobody happened to think of."* The book named this organ in Book V and it operated in Book VIII, three
+volumes later, on the class that costs most to be seen holding.
+
+**R-130 — MINE, and it fell out of checking R-129's arithmetic.** VIII.3:133 said Class VIII *"has a
+failure mode that none of the other seven have."* That is an exclusivity claim over the taxonomy, and
+the card's own definition of the failure mode — instrumented input, uninstrumented output, an open
+loop — is **shared by Class IV**, whose *"set, setting, intention and integration"* are named in the
+same chapter as **parameters**, i.e. inputs, with a first-person-only read on arrival. Classes II and
+VI are arguably the same shape. On the open-loop criterion Class VIII is not first, it is fourth.
+
+**The card's genuinely distinctive claim was already on the page one paragraph down** — *"both halves
+are delivered by the same session and the second one arrives wearing the first one's credibility."*
+✅ **Fixed in prose:** line 133 now reads *"because its failure mode arrives disguised as its own
+instrumentation, which is a difficulty none of the other seven present."* `beat_delivery` VIII.3
+re-run: 4 beats, 1.00, zero MISS.
+
+★ **R-130 is a live positive control for R-126 family 2** (COUNT / NEGATION — *none of the other
+seven*). A false self-claim, mechanically detectable, that walked past the pre-draft screen, the beat
+sweep, `instrument_sweep`, and an outside reader looking at that exact section. **Added to R-126's
+fixtures before the gauge is written** — a fixture found before the tool is worth more than one
+reverse-engineered from it, per [[grep-derived-from-the-finding]].
+
+**The reusable half, and it is about outside reads rather than about this book.** Two of three findings
+arrived with numbers, and both numbers were wrong in the direction that made the finding feel bigger.
+Neither reviewer error was invention — they were estimates presented in the register of measurements.
+**An outside read is a pointer, not a worklist**, exactly like `endnote_debt` and `self_claim_sweep`,
+and for the same reason: the reader's denominator is what the reader happened to count.
+[[self-generated-denominator]], arriving from outside the process for the first time.

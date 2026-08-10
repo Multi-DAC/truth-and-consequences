@@ -131,7 +131,8 @@ have been undetectable, which is precisely what makes it worth refusing.
 restriction: temporal interference stimulation, transcranial magnetic stimulation, neurofeedback,
 brain-computer interfaces. It gets its own section, because it is the only class our own century
 built, because it is the one a reader in this decade arrives already holding opinions about, and
-because it has a failure mode that none of the other seven have.
+because its failure mode arrives disguised as its own instrumentation, which is a difficulty none of
+the other seven present.
 
 ---
 
