@@ -4057,7 +4057,33 @@ off while reading perfectly well, which is ruling 125's renumbering hazard exact
 VII** this time and by re-reading rather than by any gauge. `order_sweep` is book-level and cannot
 see it; nothing in the repo checks a `VII.x` pointer against the title it names.
 
-### VII.9 — IDENTITY ACROSS GAPS
+### VII.9 — IDENTITY ACROSS GAPS ✅ DRAFTED — 4,201 words
+✅ **DRAFTED Day 191 · `book/VII-09-identity-across-gaps.md`. ★★ BOOK VII CLOSED 9/9 · 50,057
+words.** All five beats land. The carrier assumption is argued rather than assumed; the attractor
+is cashed property-by-property with its weakest transfer named in the note; beat 2 answers **no
+debt upward** by C6’s own argument run backwards. Theseus DECLINED on the record. `Parfit` = 0
+across 59 chapters — ruling 141, seventh firing. See DRAFT-LOG Day 191.
+**Named:** *(filled Day 191, pre-draft, R-104.)* ★★ **Derek Parfit**, *Reasons and Persons* (1984) —
+`Parfit` **0 across 59 drafted chapters**, and he is the philosopher of this chapter in the way
+Sartre was of VII.7: the psychological-continuity account, the teletransportation cases, and the
+thesis that **identity is not what matters in survival**. Ruling 141's pattern, **seventh firing.**
+· **Locke**, *Essay* II.xxvii, the memory criterion — the founding modern statement and the origin
+of the carrier assumption this chapter cards. · **Ricoeur** — *ipse* / *idem*, pointed at from VII.8
+and **spent here**, which discharges that pointer. · **Hume** (0) — the bundle, *"I never can catch
+myself at any time without a perception"*; optional, and the chapter does not need him if Parfit is
+doing the work. · **Lorenz (1963)** for the attractor's actual properties, because the claim is that
+this is **not a metaphor** and a chapter that says so owes the mathematics. · **Buddhist *anattā***
+is **housed at V.5** — POINT, do not re-spend (ruling 169, fourth application). · ⛔ **The Ship of
+Theseus is DECLINED**, not merely unused: it is a puzzle about *artefacts and their parts*, and its
+whole force comes from there being parts that get swapped. A self on this account has no parts that
+persist to be swapped, so the puzzle does not arise and importing it would import the carrier
+assumption the chapter's card exists to refuse. Recorded as declined so the absence is legible.
+⚠ **VII.1 ALREADY SPENT HALF OF C22 AND THIS CHAPTER MUST NOT RE-ARGUE IT.** VII.1 states the
+bounded/aperiodic/same-few-questions content and then defends it against the death extension with
+*continuity across a gap is a **comparison**, and a comparison needs two readings — sleep gives two,
+death gives one.* That argument is VII.1's and is cited, not rebuilt. **What VII.9 owes is the
+ESTABLISHING work VII.1 borrowed**, per `07`: VII.1 lists C22 under `Depends` and VII.9 under
+`Establishes`, so the chapter that uses it shipped first and the chapter that grounds it is this one.
 **Beats:** what a self is, given the above · what a self owes what it is a focusing of · continuity across
 discontinuity — sleep, anaesthesia, the gap · the strange attractor as the true geometry of a life:
 bounded, aperiodic, the same few questions at every scale · **and the disclosure from IV.6 returning
