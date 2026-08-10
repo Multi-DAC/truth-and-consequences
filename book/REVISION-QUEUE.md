@@ -2820,3 +2820,35 @@ it on any finding that arrives with an exact quotation before spending anything 
 free.
 
 ---
+
+**FILED — R-135: THE CODA SHOULD NAME THE VOLUME'S SHAPE, BECAUSE AN OUTSIDE READER HAD TO FIND IT.**
+
+Book VIII outside read, the standing-test paragraph — **not a defect, an instruction, and it is the
+most useful thing in the batch that is not a correction.** The reviewer ran the standing test on Book
+VIII (*is it empty*) and passed it, and then said why in a sentence the book has never said about
+itself:
+
+> nearly every practice is subtractive or diagnostic rather than generative — stop paying for a closed
+> matter, stop asking introspection *why*, stop overriding the rhythm, decline the shame arrow, notice
+> which failure is yours before applying any of the advice.
+
+⛔ **That is a true description of Book VIII and it appears nowhere in Book VIII.** Checked: each of the
+five practices names its own subtraction, and no chapter names the pattern across them. The volume's
+distinctive property is currently **available only to a reader who has finished it and then reflected**
+— which is precisely the reader who least needs telling.
+
+★ **And it is the correct shape, derivable from the argument rather than a stylistic preference.** Book
+VIII sits downstream of *attention is the only lever*. A lever that is the only one licenses **stopping
+the misapplications** and licenses almost nothing generative, so a practice book honest about its own
+premise **has to come out thin and negative**. The thinness was the identified risk of the whole
+volume; the reviewer's reading converts it from a risk that was survived into **a consequence that was
+predicted**, and VIII.3's closing line already argues it explicitly — *a true account of a restriction
+should produce modest instructions.* The coda can say that in its own voice instead of hoping it lands.
+
+**TRIGGER: C.1 WHAT THIS IS — but ⛔ R-128 still governs the order, so C.2's V.2 rota paragraph is
+written first.** ⚠ **And the constraint that makes this hard:** the coda must state the shape **without
+converting it into a boast about restraint**, which is the same move as the modesty it is describing,
+performed one level up and therefore not modest. The test is C.1's own: does a reader who disliked the
+book find the sentence honest? small.
+
+---
