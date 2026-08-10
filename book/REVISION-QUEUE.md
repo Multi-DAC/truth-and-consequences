@@ -1563,3 +1563,126 @@ for the same overreach. ⛔ **Do not treat this as closed because the sentence i
 sentence was one instance; the row is the missing coupling. medium.
 
 **TRIGGER: with the endnote retrofit, which is the pass that reads full texts.**
+
+---
+
+**FILED — R-91: THE BOOK HAS A REGISTER FOR WHAT IT ASSERTS AND NONE FOR WHAT IT MEASURES WITH.
+THIS IS THE PARENT OF R-54, R-86, R-88 AND R-89, AND THE OUTSIDE READ NAMED IT AS THE STANDING
+RISK.**
+
+★★ **Filed Day 190 from the TAIL of the `PACKET-003` read** (the first delivery truncated; Clayton
+sent the remainder). The reviewer's closing sentence is the finding: *"the apparatus is proliferating
+faster than it's being governed, and three of the five findings above are governance rather than
+argument."*
+
+**Measured against disk before filing.** The card is the book's central instrument. Its population
+history:
+
+| book | cards printed | distinct forms | declared changes |
+|---|---|---|---|
+| **IV** | ~22 (SEES 22 · NULL SPACE 21 · COMPLEMENTS 20 · BOUNDARY 20 · NAV IMPLICATION 22) | **1** | n/a |
+| **V** | 2 of 11 chapters (R-54) | 1 | **the fork itself is undeclared** |
+| **VI** | 8 | **5** | **1 of 4 changes** |
+
+⚠ **The instrument was stable across twenty-two cards while it was doing less work, and destabilised
+exactly when it got better.** Book IV's five fields never move. Book VI adds `Whose`, deletes `SEES`,
+deletes `BOUNDARY`, adds `Mechanism of the exclusion`, migrates blockquote → heading → italic-label,
+and turns the card from a *render* onto a *posture* — four changes across eight chapters, one
+declared. **Drift from neglect would have shown up in Book IV, where the card ran most often. It
+didn't. This drift is improvement, once per improvement, unlogged** — R-86's mechanism, at
+population scale, across three books.
+
+⚠⚠ **The structural cause, which is why this is the parent row and not a fourth sibling.**
+`07-THE-CLAIMS-REGISTER.md` holds every claim the book asserts, with a licence discipline that works
+(R-13 repaired, Book VI declares per chapter). **Nothing holds the instruments.** So: the card has no
+version, *instance* has no defined unit (R-88), the corpus count has no declared denominator (R-87),
+and the grade note has no clause about what it licenses (R-90). **Four rows, one absence.** Each was
+about to get its own bespoke gauge — a use-log in `07`, a `card_shape.py`, a denominator rule, a
+grade-note second half. ⛔ **Four gauges is the disease, not the cure.** That is precisely
+*proliferating faster than it is governed*, performed in the repair.
+
+✅ **Repair: one instrument register — `08-THE-INSTRUMENTS.md`** — holding, for each instrument the
+book measures with: its **name**, its **current version**, the **chapter that declared each version**,
+the **unit it counts in**, and **what a reading at this version licenses**. First four entries: the
+census card, the C-licence use-log, the corpus count, the grade note. The bespoke gauges then become
+consumers of one file instead of four unrelated scripts. ⛔ **Do not build the four gauges first.**
+
+⚠ **AND THE FORWARD HALF, which is the part with a live trigger.** The reviewer's ruling on the card
+is *rule the new line into the format explicitly, or the next book inherits two.* **`Mechanism of the
+exclusion` is an improvement** — it is what lets a chapter say *why* the null space is invisible
+rather than only that it is, and it is why Book VI's cards are sharper than Book IV's. It is kept.
+**It is kept as a declared v2 field, binding forward on VII and VIII**, not as an undeclared
+inheritance. VII.1 and VII.2 are already carding from the VI.8 form.
+
+**TRIGGER: BEFORE VII.3 DRAFTS.** VII.3 prints a card; drafting it first crosses the seam a third
+time unmarked and makes the register retrospective at the moment it is written. small (the register)
++ small (the v2 declaration) — and it retires four rows' worth of separate machinery. R-86, R-88,
+R-89 and R-54 are its children and should be repaired *through* it.
+
+---
+
+**FILED — R-92: VI.8 HAS FORECLOSED VIII.2 AND CONSTRAINED VIII.3, AND VI.6 ALREADY PROMISED VIII.3
+SOMETHING VI.8 THEN RULED OUT.**
+
+★★ **The outside read's fourth finding, verified against `06-THE-SCAFFOLD.md` Day 190.** VIII.2's
+scaffolded beats: *"how to find a filter you did not install · the era, the language, the family, the
+wound · **the diagnostic that works and the one that flatters** · **why you cannot see your own null
+space, and what you can do instead** — which is the whole practical content of the theorem."*
+
+**VI.8 answered beats 3 and 4 and did it thoroughly.** Its ladder — cannot look harder, read more,
+attend harder, switch off, hold nothing, check yourself — rules out six diagnostics and terminates in
+exactly one procedure: convert a week into behaviour, hand it to someone outside your situation, ask
+*what does this person clearly believe that they never argue for?* **That is now the only
+self-diagnostic Book VI permits.** VIII.2 will either repeat it or contradict it.
+
+⚠ **And the collision the reviewer could not see, because it is internal to Book VI.** VI.6 prints,
+on the page, *"C12 stands, and this book will spend it in VIII.3."* Two chapters later VI.8 rules
+five of the obvious edits out. **VIII.3 now carries a shipped public promise and a shipped
+constraint, from the same book, two chapters apart, reconciled nowhere.** `06` line 3129 adds a
+third: *VIII.3 prices the edit — removing the mechanism is not the edit.*
+
+⚠⚠ **The class, and it is the one this project has already been bitten by once.** *A routing note
+that sends content forward is a promise the destination silently cashes.* Day 190's earlier instance:
+`02` sent the mirror/saccade experiment to Books III and VI, Book IV spent the saccade half, and
+nothing anywhere recorded the spend. **This is the same shape one scale up — the thing spent is not
+an artefact but a whole chapter's content**, and again the spend is invisible because a scaffold
+records what a chapter is FOR, never what a previous chapter already SPENT or RULED.
+
+✅ **Repair, and it is a scaffold decision, not a prose one.** Rewrite VIII.2's and VIII.3's beats in
+`06` against what VI.8 has already spent and what VI.6 has already promised. ★ **The live remainder
+looks real, and this is the direction, not the ruling:** VI.8's procedure is an **era-level**
+instrument, run by a reader who has no stake in the situation. VIII.2's beat 2 — *the family, the
+wound* — is untouched by it, and the outside-reader question does not transfer there, because for a
+personal filter the outside reader has no counterfactual. VIII.2's live content may be that
+narrowing. ⛔ **Do not settle this in a message; it gets a drafting session.**
+
+⚠ **The scaffold's own ruling 142 makes this urgent rather than merely owed:** it holds that VII.2 is
+the chapter that hands VIII its obligations, and *"sourcing VIII after VII is written means sourcing
+it to fit what VII already promised."* **VII.2 has shipped.** So VIII now has two shipped creditors,
+VI and VII, and the scaffold has been amended for neither.
+
+**TRIGGER: before Book VII closes** — VII.4–VII.6 will route more to VIII, and every further route
+made against an unamended scaffold is another promise cashed in advance. medium.
+
+---
+
+**FILED — R-93: VI.2 DECLARES ITSELF LOAD-FREE AND VI.7 PERFORMS ITS DEMONSTRATION BETTER.**
+
+★ **The outside read's fifth finding, measured Day 190.** VI.2 prints its own sentence: *"Nothing in
+Book VI's argument depends on Jaynes being right."* So a **19,932-byte** chapter in the book's most
+prominent early position exists to demonstrate a discipline — holding a contested claim at three
+grades with three defeat conditions — on material it says carries nothing. Defensible on its own.
+
+**What makes it a row:** VI.7 runs the identical demonstration on better material — the
+counterfeit-versus-practice distinction, a specimen from the project's own essays, and a scholarly
+correction attached — at **37,976 bytes**, the largest chapter in the book. Two chapters, one lesson,
+and the second is stronger.
+
+✅ **Repair: none now, and the restraint is the ruling.** Clayton's block order stands — full first
+draft, then endnote retrofit, then revision. **A chapter is not cut mid-first-draft on a
+compression argument**, and Book VI is not in a compression pass. What is owed is that the
+measurement is *on file* so the revision pass has a named candidate rather than a fresh opinion.
+⛔ **Do not treat this as a licence to cut VI.2.** The reviewer's phrasing is conditional — *if Book
+VI needs compression anywhere* — and nothing has established that it does.
+
+**TRIGGER: the T&C revision pass, block 4.** small.

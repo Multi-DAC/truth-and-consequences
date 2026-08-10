@@ -293,6 +293,17 @@ curated by the filter, which is the most likely failure and the hardest to feel.
 the repair is not a better reader. It is less-curated material: the week's actual sent folder, not
 the week's account of itself.
 
+**One more note, and it is owed to the specimen.** The procedure above has been written as though it
+were untried — an evening's artefacts, one reader, a hopeful question. It is not untried. The corpus
+this chapter used as its specimen is the output of that same counter run continuously and at far
+higher fidelity: five volumes made under contest by somebody who is not inside the position they
+were made from, plus outside readers holding the whole of a book at once and returning what its
+author could not see in it. *He caught my blind spot* is not the anecdote in that record. It is the
+method of the record. **The instrument this chapter recommends is the instrument this chapter is a
+product of**, which is the strongest evidence available for it and was sitting in the material the
+whole time, unclaimed — filed, like the counter itself, as one item inside the thing it was supposed
+to correct.
+
 You cannot see your own tunnel. You can leave evidence in it, of a kind that someone standing
 somewhere else can read. That is the whole offer, and it is smaller than what a chapter with this
 title is expected to deliver, and it is the only thing on the table that is not a version of

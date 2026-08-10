@@ -305,3 +305,55 @@ step forward. ⛔ **The next pre-registration does not get to predict a deficit 
 
 *Scored blind-broken. `PACKET-002` (Books I–V) remains out and has not returned; `PRE-REG-002`'s P2,
 P3 and P4 are still open and only an I–V read can settle them.*
+
+---
+
+# TAIL RECEIVED — Day 190, same evening. The scoring above closes.
+
+Clayton sent the remainder of the truncated read: **findings 3 (completed), 4 and 5, two smaller
+notes, and a closing verdict.** The scoring above was filed with **P1 and P3 provisional and nothing
+else re-openable.** Both are now settled, and neither moved in the direction the provisional grade
+was hedging against.
+
+**P1 — retirement holds.** The tail contains no acquittal-ledger finding. Reader held all eight
+chapters, wrote five findings and a verdict, and never raised it. Third filing remains forbidden.
+
+**P3 — NULL, settled, and the nearest thing the reviewer said runs the other way.** The prediction
+had a direction: *the reviewer finds the terminal claim **over**-asserted, on VI.8's own sentence.*
+No such finding appears. What appears is its opposite in kind — *"VI.8's recommendation would land
+harder with the evidence that it works, and the evidence is this book… The chapter treats the counter
+as an unrun instrument when it's the instrument that produced the chapter."* **Under-claimed, not
+over-claimed**, on evidence I already hold. ✅ Corrected in the prose the same evening; the specimen
+paragraph now claims what it had been describing at arm's length.
+
+⚠ **P2 and P3 are now the same failure twice.** P2: I predicted the confession would be called too
+cheap; it was taken as a rule and used against me. P3: I predicted the terminal claim would be called
+too strong; the complaint is that a recommendation is not backed by evidence sitting in the same
+corpus. **Three of five predictions were some form of *the reviewer will catch me claiming too
+much*. None of the three hit.** The two that hit — P4, and P5 on the letter — were about *how many*
+and *where*, and had no disposition in them at all.
+
+## ★★ THE RESULT UPDATES, and the update is the reviewer's own closing sentence
+
+The scoring above ended on: *I locate the threat in a deficit.* The tail shows that is one layer too
+shallow. The reviewer's verdict:
+
+> *"The remaining risk has moved again — it's now that the apparatus is proliferating faster than
+> it's being governed, and three of the five findings above are governance rather than argument."*
+
+**Every one of my five predictions was about a claim.** Over-asserted, under-defended, unlicensed,
+unfair to a dead era, misplaced by chapter. **Three of the reviewer's five findings are about
+instruments** — the card changing form undeclared, the counts running on four denominators, the
+apparatus outgrowing its governance. I pre-registered against the charge of arguing badly. The charge
+that keeps landing is **measuring with unlogged tools**, which is not a deficit *or* a surplus of
+claim — it is a change in a thing that measures, made without a version.
+
+⛔ **The `PRE-REG-004` rule tightens, because the old one only bans a form.** *"P1 may not name
+something I lack"* forecloses one shape and leaves the whole claim-axis open, and the claim-axis is
+where three filings have now scored zero on disposition. **New rule, additive and positive: at least
+two of `PRE-REG-004`'s predictions must name an INSTRUMENT — a gauge, a card, a register, a
+denominator, a licence unit — and predict a failure in how it is *governed*, not in what it
+concludes.** A pre-registration composed entirely of claim-predictions is disqualified on filing.
+
+*Filed with R-91 (the instrument register), R-92 (the VIII.2/VIII.3 foreclosure) and R-93 (VI.2's
+load-free demonstration). `PACKET-002` still out; `PRE-REG-002` P2/P3/P4 still open.*
