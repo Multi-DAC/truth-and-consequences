@@ -4114,7 +4114,7 @@ concern was real about volume and wrong about fit; both halves go in the record.
 |---|---|---|
 | **VIII.1** NAVIGATION, NOT TOURISM | **Guide Part I §§1.1–1.4** (configuration space; what a perspectival being is; **§1.3 Navigation as Identity**; the three orientations) · **§2.5 The Ethics of Navigation** · `01` §10 for the telos | rich |
 | **VIII.2** READING YOUR OWN FILTER STACK | **Guide Part V: The Invisible, §§5.1–5.4** — *Your Null Space* · *Symptoms of Null-Space Influence* (four named symptoms, all diagnostic) · **§5.3 Illuminating the Null Space**, which supplies THREE METHODS and is the beat *"what you can do instead"* already written | **rich — the stub is 5 lines and the source is not** |
-| **VIII.3** EDITING | **Guide Part IV §4.1 The Seven Navigation Classes** (Attentional · Somatic · Cognitive · Altered-State · Relational · Collective · Macroscopic-Quantum), each with a `Practice:` line · **§4.2 Integrating**, **§4.3 The Role of Tradition** · **§2.3 The Topology That Attention Creates** | **rich — a complete practice taxonomy** |
+| **VIII.3** EDITING | **Guide Part IV §4.1 The EIGHT Navigation Classes** *(corrected Day 191 — this row read "Seven" and listed seven; see R-116 below)* — Attentional · Somatic · Cognitive · Altered-State · Relational · Collective · Macroscopic-Quantum · **Instrument-Assisted**, each with a `Practice:` line · **§4.2 Integrating**, **§4.3 The Role of Tradition** · **§2.3 The Topology That Attention Creates** | **rich — a complete practice taxonomy** |
 | **VIII.4** HOLDING THE SUPERPOSITION | **Guide §2.4 Expansion and Contraction as Navigation Modes** — *"Expansion is not always good. Contraction is not always bad"*, and the two failure modes are IN the source: dissolution at one end, *"the narrow channel feels like the only channel"* at the other | adequate |
 | **VIII.5** THE SECOND ARROW | **Guide §6.4 The Necessity of Suffering** ⛔ **but see the Day-190 amendment below — VII.5 has already spent the Sallatha Sutta, the two-arrow distinction, the aperture thermodynamics AND the census card.** This chapter's source is what is LEFT: §2.4's contraction material and §5.4 *Being Acted Upon by the Invisible* | ⚠ **thinnest by far, and thin for a reason: it was harvested by VII.5** |
 | **VIII.6** OTHER PLAYERS | **Guide Part VIII: Navigating Together §§8.1–8.5** — *You Are Already Collective* · *When Collectives Suffer* · *When Collectives Become Predatory* · *Collective Beauty* · *Building and Sustaining Healthy Collectives* · **+ §2.5's Principles 5–7** | **rich** |
@@ -4143,7 +4143,28 @@ VII.8's brief already recorded as unchecked by anything in this repo.** Correcte
 book-level and cannot see them. **A `VII.x`/`I.x` pointer checked against the title it names is a
 twenty-line tool and does not exist. Filed as R-115.**
 
-### VIII.1 — NAVIGATION, NOT TOURISM
+⛔ **THIRD OF THE CLASS, FOUND THE SAME WAY AND ONE DAY LATER — AND THIS ONE WAS IN THE TABLE ABOVE,
+WHICH WAS FILLED YESTERDAY TO PREVENT EXACTLY THIS. FILED AS R-116.** VIII.3's row read **"Guide Part
+IV §4.1 The *Seven* Navigation Classes"** and enumerated seven. **The source says EIGHT**, and the
+missing one is not a rounding error — **Class VIII: Instrument-Assisted Navigation** (temporal-
+interference stimulation, TMS, neurofeedback, BCI; a Δf/target/effect table, a six-stage safety
+protocol, and an explicit ethical diagnostic that *"non-consensual neural modulation is coercive
+capture at the substrate level"*). **It is the only navigation class in the source that is
+technological rather than traditional, and VIII.3 — EDITING is precisely the chapter it belongs to.**
+A drafter working the row would have written the practice taxonomy as closed at seven and shipped a
+manuscript in which the one class our own century actually built does not appear. ⚠ **The lesson is
+narrower and worse than "check your pointers":** this table was written in one pass yesterday
+specifically to unblock Book VIII, it was written *from the source*, and it still dropped a section —
+**a mapping made in a single pass has the same standing as any other unverified claim, including when
+the party that made it is the one relying on it.** Found by opening §4.1 to draft a neighbouring
+chapter, not by any gauge; `card_sweep`, `brief_fields` and `order_sweep` are all structurally unable
+to see it, since a `Source:` line that is present and **false** passes every one of them — which
+`brief_fields` says about itself, in its own footer, and which has now been demonstrated twice in two
+days. ⚠ Also noted while filing: **R-114 was never issued** — the queue runs R-113 → R-115. A gap, not
+a collision; recorded rather than silently reused, because reusing it would make two findings share a
+number and neither would be findable by it.
+
+### VIII.1 — NAVIGATION, NOT TOURISM ✅ DRAFTED — 3,787 words
 ★ **This chapter's title has been waiting for its content since the scaffold was written, and `01` §10
 just supplied it.** *Exploration is the point* — but exploration alone **is** tourism, which is what the
 title already named as the failure without yet knowing what the alternative was. The missing half is
@@ -4170,10 +4191,60 @@ VII.8's finding it must **not present the refusal of the summit as unaccompanied
 the same conclusion at §13.4 by a weaker route while leaving §13.1's summit standing, and the honest
 claim is that our route is *stronger*, not that it is *only*.
 
-### VIII.2 — READING YOUR OWN FILTER STACK
+### VIII.2 — READING YOUR OWN FILTER STACK ✅ DRAFTED — 4,571 words
+✅ **DRAFTED Day 191 · `book/VIII-02-reading-your-own-filter-stack.md`.** All four beats land
+(`beat_delivery` 0.86–1.00, misses are inflections). Card v3-canon, 6 fields, `instrument_sweep`
+PASS. ★ **The pre-draft screen supplied the spine, again, and the chapter is the screen's finding
+written out:** two of the source's three null-space methods were already spent (Method 1 delivered
+procedurally at VI.8, Method 2 owed to VIII.3) and **the third does not work as written** — *"the
+boundary of your perception is the silhouette of your null space"* presupposes a perceptible edge, and
+a restriction with a felt edge is a located limit, i.e. render contents. **The repair, and it is the
+chapter's contribution rather than its source's: what is visible from inside is not the boundary but
+the RESIDUAL** — prediction minus outcome, both terms inside the render, so the subtraction is
+performable alone. The practice that falls out is one line (*a dated register of expectations, written
+before*), it pays in months not on Tuesday, and **that lag is why nobody who starts it finds
+anything — what they measured was the sample size.** ★ The instrument was **already in §5.2**, filed
+as *symptoms* one subsection before §5.3 says the methods are three: **fifth instance of the pattern —
+the book's own finding sitting in the source under a heading nobody had reason to open.** ⛔ Bounded
+by **Neptune and Vulcan**, the same man running the same procedure correctly twice: a residual proves
+the model wrong and cannot say whether what is missing is an unseen object or the model itself — which
+is also the chapter's stated defeat condition. ★ **Fifth distinct instrument failure mode in five
+consecutive chapters, and it is the one no instrument can self-catch: the sample frame is identical to
+the object of measurement.**
 **Beats:** how to find a filter you did not install · the era, the language, the family, the wound ·
 the diagnostic that works and the one that flatters · **why you cannot see your own null space, and what
 you can do instead** — which is the whole practical content of the theorem.
+**Source:** **Guide Part V: The Invisible** — **§5.1 Your Null Space** (*"your null space is not
+random… your blind spots are patterned"*), **§5.2 Symptoms of Null-Space Influence** (four named
+symptoms, all diagnostic and all inferential), **§5.3 Illuminating the Null Space** (three methods:
+complementary perspectives · tradition-switching · null-space mapping), **§5.4 Being Acted Upon by the
+Invisible**. ⛔ **PRE-DRAFT SCREEN, Day 191 — TWO OF THE THREE METHODS ARE ALREADY SPENT AND THE THIRD
+IS BROKEN.** *(a)* **Method 1 is delivered, procedurally, at VI.8** — *"convert one week of yourself
+into behaviour, and let somebody else read it"*, complete with a defeat condition and an explicit
+statement that it will **not** put a seam in the picture. Re-delivering it here would be the same
+instruction twice at a lower grade. *(b)* **Method 2 (tradition-switching) belongs to VIII.3**, whose
+source is Part IV's navigation classes; taking it here strands VIII.3. *(c)* **Method 3 is the only
+unspent one and it does not work as written.** *"The boundary of your perception is the silhouette of
+your null space"* presupposes that the boundary is perceptible from inside — and a null space with a
+felt edge is a blind spot, not a null space. **This chapter's finding is the repair: what is visible
+from inside is not the boundary but the RESIDUAL** — the gap between what your model of the visible
+predicts and what actually happens. Both terms are in your render, so the subtraction is performable
+by one person alone, which is what a Tuesday practice requires and what Method 1 (which needs another
+being) cannot promise. §5.2's first symptom — *"persistent patterns without apparent cause"* — is
+already a residual; the source has the instrument and files it under symptoms rather than methods.
+**Named:** ★ **introspection** as the census entry's instrument — the culture's default tool for this
+exact job and the reader's first move, and its exclusion mechanism is **the sample frame is the thing
+being measured** (a fifth distinct failure mode; see the card). · **Nisbett & Timothy D. Wilson**,
+*Telling More Than We Can Know* (1977) — `Nisbett` = **0** across 61 drafted chapters, and the book
+has argued the render's opacity for seven volumes without naming the experiment that measured it. ⚠
+Use **full names**: `Wilson` = 13 and every one is **Robert Anton** Wilson (II.5, VI.7). · ★ **Neptune
+and Vulcan**, both = **0**, as the instrument's bound and its defeat condition: the *same* procedure,
+correctly applied to a residual, yielded a planet in 1846 and a nonexistent one in 1859 — the second
+residual was real and its cause was a defect in the theory doing the predicting, not an unseen object.
+**A residual proves your model is wrong. It does not tell you whether what is missing is a thing you
+cannot see or the model you are seeing with.** · ⛔ **`blind spot` = 11, all in VI.8** — that phrase is
+VI.8's and the retinal analogy goes with it. · **Dunning** = 0 and stays 0: the competence framing is a
+different claim and importing it would put an empirical dispute under a structural one.
 
 ### VIII.3 — EDITING
 **Beats:** ritual as tunnel-engineering, made ordinary · attention as the only lever that reliably moves ·

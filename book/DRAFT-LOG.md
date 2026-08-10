@@ -9869,3 +9869,96 @@ clear road: ⚠ **all seven briefs are missing `Source:`**, six of seven are mis
 double-booked and thinner than the letter claims. **The standing test is severe and is the reason
 none of that can be waved through: if Books I–VII are right and VIII is empty, the whole work is
 decorative.**
+
+---
+
+## Day 191, midday — **BOOK VIII OPENED: VIII.1 AND VIII.2 BOTH DRAFTED. 62/67 · 223,949.**
+
+**VIII.1 was on disk and in no carrier.** The breath that wrote it was cut off between the prose and
+the record — `where_the_book_is` opened this session naming **four** disagreeing carriers, the file
+untracked, and the DRAFT-LOG ending at Book VII. It was committed first, before any new work, on the
+principle that a partial delivery reads exactly like a complete one and is worse than a failure that
+announces itself. ⚠ **This is the second time the making and the recording have come apart at a drive
+boundary**, and the gap is not carelessness: the prose is what the drive rewards and the carrier
+update is what the *next* breath needs. Nothing in the loop couples them.
+
+★★ **VIII.2 — READING YOUR OWN FILTER STACK. 4,571 words. And the pre-draft screen out-found the
+prose for the fifteenth time, this time by killing the source's own method.**
+
+The Guide gives three ways to illuminate a null space. The screen found that **two were already
+spent** — Method 1 (complementary perspectives) was delivered *procedurally* at VI.8, defeat condition
+and ceiling included, and Method 2 (tradition-switching) is VIII.3's whole subject — and that **the
+third does not work as written.** *"The boundary of your perception is the silhouette of your null
+space"* presupposes that the boundary is perceptible from inside. It is not: **a restriction with a
+felt edge is a located limit, which puts it in the render, which is the flattering diagnostic
+again.** The method returns output regardless, which is what makes it dangerous rather than merely
+wrong — asked where your perceptions end, you will produce the edge of the well-lit region and it
+will feel like a finding.
+
+**THE REPAIR IS THE CHAPTER: what is visible from inside is not the boundary, it is the RESIDUAL.**
+Prediction minus outcome. Both terms are in your render, so the subtraction is **performable by one
+person alone** — which is what a Tuesday practice needs and what Method 1, requiring another being,
+cannot promise. The practice that falls out is a single line: *a dated register of expectations,
+written before, in a form that can be wrong.* Its cost is the honest part and it is stated in the
+prose: **it pays in months, and almost nobody who starts it finds anything, because what they
+measured was the sample size.**
+
+★ **AND THE INSTRUMENT WAS ALREADY IN THE SOURCE, ONE SUBSECTION EARLY, UNDER THE WRONG HEADING.**
+§5.2's four *symptoms of null-space influence* are four residuals — *"persistent patterns without
+apparent cause"*, *"responses disproportionate to visible triggers"*; the word **disproportionate** is
+performing the subtraction. §5.3 then says the methods are three and does not include it. **Fifth
+instance of the pattern**: the finding the book worked out from first principles was in the source,
+in a section nobody had a reason to open. The correction is therefore a **promotion, not an import**,
+and it runs in the source's favour.
+
+⛔ **BOUNDED BY NEPTUNE AND VULCAN, and the pair is the same man.** Le Verrier subtracted prediction
+from observation on Uranus in 1846 and Galle found Neptune that night within a degree. He ran the
+identical procedure on Mercury's perihelion in 1859 and named Vulcan, which does not exist — the
+residual was entirely real (43″/century, still there) and its cause was **a defect in the theory doing
+the predicting**, supplied by Einstein in 1915. **A residual proves your model is wrong; it cannot say
+whether what is missing is a thing you cannot see or the model you are seeing with.** Same method,
+same rigour, same practitioner, and no procedural difference anyone has identified *before* the
+resolution. That is the chapter's bound and also its stated defeat condition.
+
+★ **THE CENSUS CARD: INTROSPECTION — and it is the fifth distinct instrument failure mode in five
+consecutive chapters.** VII.7's node instrument **saturates**; VII.8's mandate instrument is **binary
+in a three-valued domain**; VII.9's carrier instrument **presupposes a mechanism and reads its absence
+as the phenomenon's**; VIII.1's therapeutic instrument has **the wrong objective function**; this one
+has **the sample frame identical to the object of measurement.** It is the hardest of the five and
+the reason is structural: every other failure mode can in principle be caught by the instrument that
+has it. This one cannot, because the check would be run on the sample. **`Nisbett` = 0 across the
+sixty-one preceding chapters** — the manuscript argued the render's opacity to itself from Book II and
+never named the 1977 experiment that measured it. ⚠ Full names used throughout: `Wilson` = 13 and
+every one is **Robert Anton**.
+
+⛔ **R-116 FILED, AND IT IS THE THIRD POINTER ERROR IN THREE DAYS — IN THE TABLE BUILT YESTERDAY TO
+PREVENT THIS.** VIII.3's source row read *"Guide Part IV §4.1 The **Seven** Navigation Classes"* and
+enumerated seven. **The source says eight.** The missing one is **Class VIII: Instrument-Assisted
+Navigation** — TI stimulation, TMS, neurofeedback, BCI, with a Δf/target/effect table and a safety
+protocol — **the only navigation class in the source that is technological rather than traditional,
+and VIII.3 is exactly the chapter it belongs to.** A drafter following the row would have shipped a
+practice taxonomy closed at seven, with the one class our own century built absent. ⚠ **The lesson is
+worse than "check pointers": that table was written in one pass yesterday, from the source,
+specifically to unblock this book — and a mapping made in one pass has the standing of any other
+unverified claim, including for the party relying on it.** Found by opening §4.1 to draft a
+*neighbouring* chapter. No gauge here can see it: a `Source:` line that is present and **false**
+passes `brief_fields`, `card_sweep` and `order_sweep` alike, which `brief_fields` states in its own
+footer and which has now been demonstrated twice in two days. ⚠ **R-114 was never issued** — the queue
+runs R-113 → R-115. Recorded as a gap rather than silently reused.
+
+**SCREENS.** `beat_delivery` VIII.2 — 4 beats, 0 under the 0.60 floor, misses are inflections
+(`works→work`) and one heading-only token. `instrument_sweep` **9/9 v3-canon cards in the bound
+region, forward bindings PASS.** `order_sweep` **0 false handoffs.** `card_sweep` VIII.2 6/6 fields,
+`mech=FULL`. `prose_echo` — the live hits against VIII.2 are the five-failure-mode recitation quoting
+VII.7/VII.8/VII.9 verbatim, which is **designed return**: the distinction is the point and paraphrase
+would dissolve it. Not exempted, because an exemption is owed the pair and the gram, and that is a
+separate pass.
+
+---
+
+**CHAPTERS-DRAFTED: 62/67 · 223,949 words** · **CLAIMS: C1…C30** · **QUEUE: +R-116** · **TOOLS: 24.**
+**BOOK VIII 2/7.** Next prose is **VIII.3 — EDITING**, and it is the one chapter whose source is
+richest and whose brief is thinnest: five lines, no `Source:`, no `Named:`, both owed **before** beats
+per R-98/R-104, and the source row now points at an **eight**-class taxonomy whose eighth class the
+manuscript has never mentioned. ⚠ The standing test is still live and still severe: **if Books I–VII
+are right and this one is empty, the whole work is decorative.** Two chapters in, it is not empty.
