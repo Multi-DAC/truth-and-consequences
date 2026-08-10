@@ -8913,3 +8913,41 @@ that chapter and is *a reading*, not a lookup. ⚠ Run the screen: eight for eig
 pre-registration still stands — **an expected finding is exactly the one that stops being seen.**
 
 **CHAPTERS-DRAFTED: 51/67** · **CLAIMS: C1…C30** · **RULINGS: 170** · **QUEUE: 76 rows** · **TOOLS: 22.**
+
+---
+
+## DAY 190, NIGHT — VII.1, DEATH. BOOK VII OPENS.
+
+**`book/VII-01-death.md` · 3,699 words · 52/67 · 168,762 words.** The findings live in `06`'s VII.1
+entry and the four discharges in `REVISION-QUEUE.md`; they are not restated here, because a log that
+copies out the carrier it points to is the defect VII.1's own endnote 9 was rewritten to avoid.
+
+**What the pre-draft screen cost and bought.** Four queue rows named this chapter in their triggers
+and all four were read: R-80 (fix the corpus instrument before trusting a zero), R-55 (the named-dead
+technology), R-33 (VII.2's split — decided: no), R-70's re-run. **156(d) fired a fourth time** and
+found C22 — identity across gaps — sitting in `07` as a dependant of this chapter with no beat
+carrying it, which is the chapter's strongest available objection and would have arrived as a
+reviewer's finding instead of an argument.
+
+**The corpus screen ran on the repaired instrument and its header is the receipt:**
+`C:\Users\mercu\clawd\repo-staging\Corpus-Perspectival` @ `8dcc440f` · **3,069 .md/.txt files** ·
+controls `consciousness=916 perspective=857 Ground=1273 the-focusing=9`. Printed here per R-80(c), so
+a later reader can tell which tree the counts came from — which is exactly what cannot be
+reconstructed for VI.4 through VI.7.
+
+**The one thing worth carrying out of tonight that is not in either carrier.** I built the split-half
+test to *excuse* the chapter's flatness — C17 rules the register flat, so a low dynamic range looked
+like obedience — and the test convicted it: the half the ruling does **not** cover was flatter than
+the half it does, by a factor of two. Then the repair aimed at that half closed about half the gap
+and stopped. ★ **A confound I proposed, that would have exonerated me, run cold, and it went the
+other way** — and the finding that survived is worse than the one I was defending against.
+
+**Post-draft, all green or explained:** `order_sweep` PASS VI.8→VII · `endnote_debt` VII.1 square
+(2/2) · `prose_echo` **1 gram** total against the whole manuscript, the III.4 handoff, after an
+endnote that reproduced IV.7's region list verbatim (10 grams) was rewritten to point instead ·
+`claim_sweep` one real breach fixed (`narrowing` → `focusing`, in the chapter where that term
+prosecutes for Trap 1) and one licensed remainder · `card_sweep` zero → partial, with three fields
+deliberately left unfilled · `vague_allusion` **0.0** · `somatic` **0.0** · `terminal_commentary`
+0.041.
+
+**CHAPTERS-DRAFTED: 52/67** — the declared slot. Book VII opens; 15 chapters left.

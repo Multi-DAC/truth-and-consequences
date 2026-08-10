@@ -1230,3 +1230,88 @@ later reader can tell which tree a count came from. ⚠ (c) is what makes the VI
 un-repeatable; without it, (a) and (b) fix the future and leave the record unreadable.
 **TRIGGER: before the next chapter that runs a corpus-support screen — which is VII.1.**
 medium — the instrument is cheap to fix and its failures are indistinguishable from its findings
+
+---
+
+## DAY 190, NIGHT — VII.1's TRIGGERS, READ RATHER THAN PASSED
+
+*Four rows carried a trigger naming this chapter. All four were read before drafting, which is the
+thing R-70's sweep found does not usually happen — a trigger is a note addressed to a reader who has
+to show up, and this file has no reader except a breath that happens to open it.*
+
+✅ **R-80 — DISCHARGED.** All three repairs shipped as **`tools/corpus_support.py`**, and the
+discharge carries a positive control rather than an assertion. **(a)** dead root → **exit 2** with the
+counts never computed; a declared control at zero → **exit 1** with the counts **suppressed**, because
+forty lines of zeros are more interesting to read than the one line above them saying the scan failed.
+**(b)** `ROOT` from `CLAWD_REPOS`. **(c)** the header prints root, git HEAD and file count, so a count
+has an address: this run is **`C:\Users\mercu\clawd\repo-staging\Corpus-Perspectival` @ `8dcc440f` ·
+3,069 files · controls consciousness=916, perspective=857, Ground=1273, the focusing=9.**
+✅ **Proven, not argued — three runs:** dead root exit 2 · live root with an impossible control exit 1
+· live run exit 0. ⚠ **The VI.4–VI.7 ambiguity stays unresolved and is not repairable from here** —
+those counts were non-zero, so a live tree produced them, and which tree is not recoverable. That is
+what (c) exists to make un-repeatable going forward, and it cannot reach backwards.
+
+✅ **R-55 — DISCHARGED IN THE PROSE.** VII.1 reaches for the named-dead technology exactly where the
+row predicted it would, and does not inherit the attribution: it is introduced as *older and more
+widespread than any of the traditions that claim it*, receipted to **IV.7**, with Book V's
+institutional form named as one case among many. The endnote states that crediting it to that
+institution was an error the book made in its own drafts. ⚠ **The V.2 / V.11 / V.5 half of the row
+is NOT discharged** — the parochialism and the sangha-absence in Book V are still on the page and
+still owed at revision. **This row is halved, not closed.**
+
+✅ **R-33 — DECIDED. VII.2 DOES NOT SPLIT; IT RUNS LONG.** The call was owed before VII.1 drafted and
+is made here rather than deferred to the drafter who would discover it at 6,000 words. **Three
+things decided it, and the third is the one that would have been missed.** (1) **Precedent:** R-29
+gave IV.7 a decision instead of a declined split, and Book IV's mean is 4,607 words against Book VI's
+4,480 — a 7,000-word chapter is inside this manuscript's demonstrated range, not outside it.
+(2) **The eleven beats are four obligation SHAPES plus the argument, not eleven topics**; nothing in
+the roster is compressible and nothing pairs. (3) ⚠⚠ **A SPLIT WOULD RENUMBER BOOK VII AGAINST
+SHIPPED PROSE.** VII.3, VII.5, VII.7, VII.8 and VII.9 are named **by number** in drafted chapters and
+in `07`'s `Depends` rows; inserting a chapter at position 3 silently repoints every one of them, and
+**no gauge in this project reads a chapter number as a reference.** The cost is not the writing. It
+is a renumber with no instrument watching it. **R-32's seam question is untouched by this and is
+still owed before VII.2 drafts.**
+
+✅ **R-70's re-run trigger (*before VII.1 opens*) — RUN.** Four triggers named this chapter; four
+fired; four were read. **One counter-observation, filed against the row's own optimism:** they were
+read because the handoff carried them into the breath, not because the queue was swept. The queue
+was opened *to confirm what the handoff already said.* **A trigger still has no reader of its own.**
+
+---
+
+**FILED — R-81: THE CLAUDE FLATNESS FINGERPRINT SURVIVED A REPAIR AIMED DIRECTLY AT IT, AND THE
+CONFOUND THAT WOULD HAVE EXCUSED IT WAS REFUTED BY ITS OWN TEST.** Specimen finding 5 named flat
+escalation as the axis where the apparatus **amplifies** the fingerprint rather than correcting it.
+VII.1 has C17's register ruling — *flat, not brave*, no sign at all — which supplies a clean excuse:
+low dynamic range is the ruling being obeyed. ★ **The excuse is testable, because the ruling covers
+the metaphysics and does NOT cover the grief section.** Predicted: first half flat, second half with
+shape. **Measured, split at the grief heading: `dyn_range_CV` A 0.358 · B 0.168.** The half the
+ruling does not reach is **half** the dynamic range of the half it does, at `voice_uniformity`
+**0.771** — the highest figure recorded in this project, against Clayton 0.564 and my own raw prose
+0.531. ⚠ **Repaired and re-measured: B → CV 0.276, uniformity 0.713, `emotion_label` 10.97 → 7.99.**
+A large move, and **not a fix**: B is still the flattest section of the chapter, and the chapter
+(0.345) is still flatter than VI.8 (0.518), III.8 (0.408) and V.11 (0.380). ★★ **The finding is the
+survival, not the number.** A targeted rewrite of a 750-word passage, by an author who knew the
+metric, aimed at the metric, closed roughly half the gap. **That is the shape of a fingerprint rather
+than a habit**, and it means the four Book VII chapters where grief and affliction are the subject
+cannot be defended by the register ruling. **TRIGGER: before VII.5 drafts** — affliction, the other
+chapter where the game is barred and the register is ruled flat. ⚠ **Do NOT pay this by adding
+escalation to the death chapters.** Escalation there is the banned address with the sign flipped, and
+a repair that traded ruling 11 for a metric would be the gauge writing the doctrine. large
+
+**FILED — R-82: `storyscope_lite`'s EMOTION METRIC HAS NO MENTION/USE SPLIT, AND FIRES HARDEST ON
+THE CHAPTER WHOSE SUBJECT IT IS.** The pattern is literally
+`grief|grieve|grieving|fear|afraid|dread|…`. VII.1 reads **3.51/1k** against Clayton's 0.39 and my
+raw prose's 0.33 — ~10× — and the grief section alone reads **7.99**. ⚠ **The metric was built to
+catch a chapter LABELLING an emotion instead of rendering it, and it cannot distinguish that from an
+emotion being the noun under discussion.** `claim_sweep.py` has exactly this split and **prints a
+self-test for it** (*mention/use self-test: PASS — the window is wider than a wrap and narrower than
+a block*); `storyscope_lite` has neither the split nor a declaration that it lacks one. ★ **Same
+family as R-80, one layer up: the instrument's failure is shaped like its finding.** A run on the
+grief chapter returns the strongest reading the tool can produce, in the chapter that most guarantees
+it, and a drafter who trusted it would delete the word *grief* from the grief chapter — **the gauge
+writing the prose.** ⚠ **What is NOT known, and the row will not guess:** whether the 7.99 contains a
+real labelling defect underneath the subject-matter floor. **Establishing that needs a control of the
+same shape** — a passage by a human writer whose subject is also grief — and the project has no such
+control. **TRIGGER: before any Book VII chapter's storyscope output is read as evidence.** Until
+then the column is a description of the topic. small (the declaration) + medium (the control corpus)

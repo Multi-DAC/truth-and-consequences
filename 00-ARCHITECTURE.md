@@ -1296,7 +1296,7 @@ VI.1 is the first chapter in the work to ship with endnotes (ruling 9's second h
 chapters) and the first outside Book IV to carry a census card. **Book VI drafts WITH notes rather
 than joining the retrofit**, so the endnote debt stopped growing at VI.1.
 
-    CHAPTERS-DRAFTED: 51/67
+    CHAPTERS-DRAFTED: 52/67
 
 ⚠ **That slot is a DECLARED number and it WILL rot — it is here so
 `tools/where_the_book_is.py` can fail on it, not so anyone can read it.**

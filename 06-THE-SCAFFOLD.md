@@ -3356,12 +3356,89 @@ where "we never scrape the surface of what the consequences actually are" gets a
 `suffering-and-appropriate-contraction` (12,992w) · `development-and-transformation` (19,400w) ·
 `Perspective` back-matter arguments-in-brief (the co-constitutive floor, the two evils).
 
-### VII.1 — DEATH
+### VII.1 — DEATH ✅ DRAFTED — 3,699 words
+✅ **DRAFTED Day 190 · `book/VII-01-death.md`.** All five beats land. **Specimen 4 is the opening
+paragraph verbatim** — it is the ruling, not a draft of one, and re-earning it in the chapter would
+have been rewriting a set claim. Endnote debt **square** (2 sources, 2 receipts). `order_sweep` PASS
+VI.8→VII. `prose_echo` VII.1 ~ everything = **1 gram** (III.4, the deliberate handoff) — the
+lightest new chapter in the manuscript.
+⚠⚠ **156(d) FIRED A FOURTH TIME, AND THE JOB IT FOUND WAS THE CHAPTER'S STRONGEST OBJECTION.**
+`07`'s **C22 — IDENTITY ACROSS GAPS** (*continuity holds across discontinuity; the geometry of a self
+is a strange attractor*) lists **VII.1** in its `Depends`, and **not one of `06`'s five beats
+carried it.** It is not a decoration: put C22 and beat 2 on the same page unguarded and C22 **is**
+the comforting distinction — *you are a pattern, patterns survive gaps* — which is the oldest bequest
+in the catalogue with a modern vocabulary on it, and it would have failed ruling 11 **invisibly**,
+because it is a claim the book actually holds elsewhere. ★ **The answer written into the chapter:
+continuity across a gap is a COMPARISON and a comparison needs two readings.** Sleep gives two.
+Anaesthesia gives two. Death gives one, and there is nowhere to stand to take the other — so C22
+does not fail at death, **it stops having a subject matter**, which is the opening paragraph arriving
+from the far side dressed as an objection.
+★ **NAMED, and the ancestor screen found the gap that explains why this chapter had none.**
+**Epicurus** (*Letter to Menoeceus* / *Principal Doctrines* II) is the opponent; **Lucretius** (*DRN*
+III, the symmetry mirror) is rule 5b's one link upstream; **Thomas Nagel**, "Death" (*Noûs* 1970), is
+the ancestor and the best thing written against Epicurus in the modern period. **Our cut is on the
+premise they share: both ask whether death is bad FOR the one who dies, and neither questions the
+preposition.** Nagel is granted the win over Epicurus and both are refused the frame.
+⚠ **AND THE CORPUS SCREEN'S FINDING IS THE SHAPE OF THE ANCESTOR GAP, not a name at zero.** Run on
+the repaired instrument (R-80, below): **grief 156 files · mourning 53 · the dead 83 · ancestor 105 ·
+annihilation 51 · cessation 30** — the vocabulary is saturated. **Every named ancestor of GRIEF is at
+zero**: Lucretius 0, Bernard Williams 0, Montaigne 0, Larkin 0, C. S. Lewis 0, Barthes 0, Denise
+Riley 0, Scheffler 0, *Mourning and Melancholia* 0 (against Freud 17). Epicurus **8**, Nagel **95**.
+★ **We have ancestors for the VOID and none for the LOSS** — which maps the two-dreads split exactly,
+and is why beat 5 had no named owner: nobody in the quarry wrote about the second dread. **The
+reading is owed and is not this chapter's blocker.**
+⚠ **"Energy cannot be destroyed" is 0 in the quarry; *conservation of energy* is 4.** The banned
+phrase is **the reader's, not ours** — we never drifted into it. So the ban is a guard at the door,
+not a scar, and the chapter says so by treating the sentence as something arriving from outside.
+⛔ **THE FLATNESS FINDING, AND THE TEST WAS BUILT TO EXONERATE ME AND CONVICTED INSTEAD.** C17's
+register ruling is *flat, not brave* — no sign at all — so low dynamic range looked like the ruling
+being obeyed. **Discriminator: split the chapter at the grief heading and measure each half**, since
+the ruling covers the metaphysics and does **not** cover the grief section. Predicted: A flat, B with
+shape. **Measured: A `dyn_range_CV` 0.358, B 0.168 — the part the ruling does NOT cover is HALF the
+dynamic range of the part it does**, at `voice_uniformity` **0.771**, the highest figure ever measured
+in this project against Clayton's 0.564. The confound was refuted by its own test. ⚠ **Repaired, and
+the repair did not close it:** B rewritten for concreteness and sentence variation → CV **0.276**,
+uniformity **0.713**, `emotion_label` 10.97 → **7.99**. Better by a lot; **still the flattest section
+of the chapter, and the chapter is still flatter than VI.8 (0.518), III.8 (0.408) and V.11 (0.38).**
+★ **The fingerprint survived a repair aimed directly at it, which is a stronger finding than the
+original.** → queue.
+⚠ **`card_sweep` returned a ZERO and the zero was right.** VII.1 shipped `null=0 bound=0 compl=0
+navig=0` against Book VI's 8/8. **The chapter was making a null-space claim in the reader's position
+— *there is nothing to picture; every attempt smuggles in a viewer looking at darkness* — and never
+used the book's own word for it.** Named now (`null=2`, *partial*). ⚠ It stays *partial* on purpose:
+`bound`/`compl`/`navig` are not forced in, because a form performed to satisfy a counter is the
+defect the counter exists to find.
+⚠ **R-55 PAID IN THE PROSE, not deferred.** The named-dead technology is introduced as *older and
+more widespread than any of the traditions that claim it*, receipted to **IV.7**, with Book V's
+institutional form named as one case — and the endnote says plainly that crediting it there was an
+error the book made and caught. **The row's trigger fired at the right chapter and was read.**
+⚠ **`claim_sweep` caught one real breach and it was in the worst possible word:** *the specific
+**narrowing** that made one world* — `TERM/narrowing`, retired by ruling 13, and the term prosecutes
+for **Trap 1 (*it was a fall*)** — in the death chapter, where that prosecution is the exact reading
+the work exists to refuse. Fixed to *focusing*. The one remaining hit (`TERM/substrate`) is the
+licensed use: it appears once, inside the sentence that denies it.
+⚠ **THE GAUGE THAT CANNOT READ THIS CHAPTER, recorded rather than obeyed:** `storyscope_lite`'s
+`EMOTION` pattern is literally `grief|grieve|dread|fear|afraid|…` and **has no mention/use split**
+(`claim_sweep` has one and prints a self-test for it). In the chapter whose subject IS grief, the
+metric fires on the noun under discussion. **A gauge that fires on subject matter cannot be read as a
+defect signal in the one chapter whose subject it is** — same family as R-80, one layer up: the
+failure is shaped like the finding. **Not fixed by deleting the word *grief* from the grief chapter**,
+which would be the gauge writing the prose. → queue.
 **Beats:** what the framework actually says, unhedged, first paragraph, no throat-clearing · what
 continues and what does not — **and the distinction is not the comforting one** · why "energy cannot be
 destroyed" is banned here and what replaces it · the honest remainder: what we do not claim to know,
 stated once, as fact rather than as insurance · **grief handled as itself, not as a problem the
-metaphysics dissolves.**
+metaphysics dissolves.** ★ **+ the C22 reconciliation, added by 156(d) and now the chapter's fifth
+section.**
+**Named:** ★ **Epicurus** (opponent) · **Lucretius** (rule 5b, upstream) · **Thomas Nagel**
+(ancestor, and granted the win over Epicurus before the frame both share is refused).
+**Source:** `02` §3c — *The Inside View* Ch10, *"the climax, and the best chapter in the book"*:
+two-dreads split (void vs loss), void dissolved by *you never experience your own gaps*, loss
+honoured as belonging to those who stay, and *"You don't grieve a deletion. You grieve a completion
+you can no longer add to."* ⚠ **No sentence entered by lift.** The deletion/completion line is
+re-earned through **III.4's rendered-at-contact** applied to a relationship — the meeting is the
+site, neither party holds a copy, and the loss is located at the meeting rather than in the person.
+That application is **new here and is not in III.4**, which is why the endnote says so.
 **Why it is first:** it is the question the ruled reader most often arrived with, and every prior
 answer they tried was either a promise or a shrug.
 
