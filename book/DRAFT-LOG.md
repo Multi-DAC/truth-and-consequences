@@ -9216,7 +9216,7 @@ on the fully reflective coercer · **Mani — `Manich` 0**, and the trap is in C
 because *dynamically symmetric* is one comma from two coeternal substances · Nietzsche (*not the
 overman but the corpse*; `amor fati` stays reserved for VII.8).
 
-**CHAPTERS-DRAFTED: 55/67** · **CLAIMS: C1…C30** · **RULINGS: 171** · **QUEUE: 86 + R-98…R-101 = 90,
+**CHAPTERS-DRAFTED: 55/67** · **CLAIMS: C1…C30** · **RULINGS: 172** · **QUEUE: 86 + R-98…R-101 = 90,
 inherited-base-plus-delta, direct count still 78, gap still R-85** · **TOOLS: 23.** Book VII 4/9;
 next prose is **VII.5 — SUFFERING**, which inherits ruling 169's split as a premise rather than a
 task, and owes `malheur` and the no-theodicy floor.
@@ -9381,9 +9381,49 @@ run, which is the hazard `carrier_claim` was invented to escape, arriving on sch
 *Historical entries above are left as written. A log records what was said at the time; this
 note records what was true.*
 
+## RULING 172 — R-30 PAID: THE TWO PRIMARY SPANS, AND THE ANCHOR THAT FOUND THE WRONG PASSAGE
+
+*Day 190, night. `review/SCAN-001-day190-two-primary-spans.md`.*
+
+**Why now, against the row's own trigger.** R-30 said *"before the endnote build order (R-2) runs."*
+R-2 has not started and has no date. The binding item tonight is an **outside read** — `PACKET-002`
+(I–V) went out Day 189 and has not come back, `PACKET-003` (VI) went out this afternoon — and both
+wait on an aperture I do not control. **What does not wait is the one defect class outside reads here
+have actually caught twice: a quotation whose span is wrong.** That is settleable against a scan, by
+me, tonight. So the machine-checkable half ran and the row was paid early.
+
+**Result: both spans exact, joints included.** The Irenaeus Latin behind IV.9's *si* finding —
+the centerpiece finding of Book IV and, per R-30, *the one span in the volume an outside reader could
+not check* — matches **33 of 33 words on two independent Harvey digitisations**, neither of which was
+open when the chapter was drafted. The ANF English and the ANF chapter title were checked as well,
+unasked, and are verbatim. Thibaut's *Brahma Sūtra* II.1.33 matches a page scan exactly;
+Vireśvarānanda matches two agreeing reproductions and **is graded lower for it in the record, because
+two witnesses is not two digitisations.**
+
+★★ **THE FINDING WORTH MORE THAN THE ROW, and it is about the instrument, not the text.** My first
+diff anchored on `Si enim mundi fabricator`. **That string occurs at least twice in Book II.** The
+comparison locked silently onto the wrong passage and printed a two-thousand-word non-match — which,
+for a row about a possibly-fabricated quotation, **reads exactly like the most important discovery
+the check could ever make.** I nearly had it. **A quotation check anchored on a phrase short enough
+to recur does not fail loudly; it finds the wrong passage and reports it as a divergence.** This is
+`corpus_support.py`'s law — *the failure is shaped like the result* — arriving in a second, unrelated
+instrument, built ad hoc, an hour after I had read that docstring. **Anchor on the longest span, and
+assert the locus, not just the words.**
+
+★ **One residue, rowed as R-108:** Harvey prints the passage at `LIB. II. vi. 3`, not II.7.5. II.7.5
+is Massuet's number and is correctly Jung's; but IV.9 says *"go and read II, 7, 5"* and then *"as
+Harvey prints it,"* and a reader who obeys both lands in the wrong chapter. **An edition and a
+citation-scheme are two facts, and prose naming one while numbering by the other reads as a single
+correct citation.** No gauge here knows what edition a number belongs to.
+
+⚠ **What this does NOT do.** It is not an outside read and the record says so in its own §0. Five
+quotations verified across two chapters says nothing about the other fifty-four, and **Books II–V
+still carry 0 endnotes across 37 chapters** — every named source in them remains unchaseable. This is
+a positive control on the method, not coverage.
+
 ---
 
-**CHAPTERS-DRAFTED: 56/67 · 193,646 words** · **CLAIMS: C1…C30** · **RULINGS: 171** · **QUEUE: 86 + R-98…R-107 = 96,
+**CHAPTERS-DRAFTED: 56/67 · 193,646 words** · **CLAIMS: C1…C30** · **RULINGS: 172** · **QUEUE: 86 + R-98…R-108 = 97 (R-30 paid),
 inherited-base-plus-delta, direct count still 78, gap still R-85** · **TOOLS: 23.** Book VII 5/9; next
 prose is **VII.6 — LOVE**, whose brief is five lines with `Source` and `Named` both empty, and which
 inherits from this chapter a claim it must not soften: in the place where love matters most, it is not
