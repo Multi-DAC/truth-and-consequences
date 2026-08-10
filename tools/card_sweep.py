@@ -98,16 +98,36 @@ def main():
         tallies[bk][0] += 1
         tallies[bk][1] += 1 if carded else 0
         cells = "  ".join(f"{k}={counts[k]}" for k in FIELDS)
-        mark = "✓ CARDED" if carded else ("· partial" if any(counts.values()) else "  none")
+        # ⚠ THE VERDICT NOW OBEYS THE DOCSTRING. This column used to read "✓ CARDED" for
+        # any chapter with one `null space` and one `complement` ANYWHERE in the file, in
+        # any context — so VII.2, which prints no card and merely QUOTES Book IV's cards
+        # four times, scored CARDED, and that false positive reached handoff.json. The
+        # header above has always said "trusted DOWNWARD only: a zero is evidence, a small
+        # positive is a read-order." The output asserted the opposite. Honest label, no
+        # coupling to what may be asserted — R-90's defect, in a gauge. (R-94, Day 190.)
+        # For the structural check that CAN license a positive, see instrument_sweep.py.
+        mark = (
+            "? vocab-only — read it" if carded
+            else ("· partial" if any(counts.values()) else "  none")
+        )
         print(f"    {bk}.{n:<2} {cells}   {mark}")
 
+    # The aggregate carried the same overclaim as the per-chapter column, and it is the
+    # string that produced the "2 of 11" headline. That headline SURVIVES — it rests on the
+    # ZEROS, which is the direction this instrument is valid in. So the summary now states
+    # the licensed reading (the absences) and refuses the unlicensed one (the deliveries).
     print()
     for bk, (total, carded) in tallies.items():
-        pct = 100.0 * carded / total
+        absent = total - carded
         flag = ""
-        if carded and carded < total:
-            flag = f"   ⚠ the form is declared and delivered in {carded} of {total}"
-        print(f"  BOOK {bk}: {carded}/{total} carded ({pct:.0f}%){flag}")
+        if absent:
+            flag = f"   ⚠ {absent} of {total} carry NO card vocabulary — that count is evidence"
+        print(
+            f"  BOOK {bk}: {carded}/{total} have card vocabulary "
+            f"({100.0 * carded / total:.0f}%) — NOT a delivery count{flag}"
+        )
+    print("\n  ⛔ This tool cannot license a positive. For delivered form, run:")
+    print("       python tools/instrument_sweep.py --cards")
     return 0
 
 

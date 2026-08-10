@@ -1686,3 +1686,121 @@ measurement is *on file* so the revision pass has a named candidate rather than 
 VI needs compression anywhere* — and nothing has established that it does.
 
 **TRIGGER: the T&C revision pass, block 4.** small.
+
+---
+
+**FILED — R-94: `card_sweep.py` REPORTS `VII.2 ✓ CARDED`. VII.2 PRINTS NO CARD. THE TOOL'S OWN
+DOCSTRING FORBIDS THE VERDICT IT PRINTS. ✅ GAUGE FIXED DAY 190; THE CLASS IS THE ROW.**
+
+★★★ **Found Day 190 while building `08-THE-INSTRUMENTS.md` for R-91 — by running the existing gauge
+instead of writing the new one.** R-91 said four rows were each about to grow a bespoke gauge and
+named `card_shape.py` as one of them. **`card_sweep.py` already existed.** It ran, it was believed,
+and it was wrong.
+
+**The mechanism, one line of its own source:**
+
+```python
+carded = all(counts[f] for f in DIAGNOSTIC)      # DIAGNOSTIC = ("null", "compl")
+```
+
+Threshold **one**, anywhere in the file, any context, **no mention/use filter — though its sibling
+`claim_sweep.py` has exactly that, written for exactly this reason.** VII.2 scores because it *quotes
+Book IV's cards* four times (VII.2:486 *"The census card for the spirit of a place reads…"*, :337,
+:341, fn 8 at :652) and uses `complement` once in ordinary English (:570, *"the person is precisely
+the complement of a watershed"*).
+
+⚠⚠ **The tool declared this limit correctly, in advance, in its own header:** *"the strong signal here
+is the ZERO, never the small positive… A chapter with a 2 has possibly written one and must be read.
+The instrument is trusted downward only, and that limit is declared rather than discovered later."*
+**And then the output column printed `✓ CARDED`.** An accurate disclaimer in the docstring and an
+unlicensed verdict in the output, with nothing coupling the second to the first. **That is R-90's
+defect exactly — honest labelling with no constraint on what may be asserted — occurring in a gauge
+instead of in a grade note.** The label was right. Nothing made the verdict obey it.
+
+⚠⚠⚠ **AND IT IS R-62 FOR THE THIRD TIME IN ONE DAY.** *Nothing this project owns distinguishes prose
+that ASSERTS from prose that DESCRIBES.* `where_the_book_is.py` read a sentence *quoting* a stale goal
+title as a claim and reported the carrier 33/67 against a disk truth of 43. `card_sweep.py` reads a
+chapter *quoting* cards as a chapter printing one. **Three instruments, one blind spot, three
+unrelated routes, same day.** ⛔ **Book VII is where this bites hardest, because Book VII's job is to
+spend Book IV's findings** — every Book VII chapter will cite cards, and under the old rule every one
+would have scored as printing one.
+
+**WHAT IT COST, and this is the part that is not hypothetical.** `Architecture/handoff/handoff.json`
+asserted *"VII.1 and VII.2 are already carding from the VI.8 form."* **False, both chapters.** That
+sentence was read off this tool's output — a disclaimer I had read and a verdict I trusted anyway.
+The handoff then used it to justify R-91's ordering (*"drafting VII.3 first crosses the seam a third
+time unmarked"*). **The trigger was right and its stated reason was fabricated by a gauge.** The seam
+has *not* been crossed a third time; the register was written **prospectively**, which is strictly
+better than the retrospective declaration R-91 thought it was racing.
+
+✅ **DONE Day 190.** (a) `card_sweep.py`'s verdict now reads `? vocab-only — read it`, and its summary
+states the licensed reading (the absences) instead of the unlicensed one (the deliveries), and points
+at the structural tool. (b) `tools/instrument_sweep.py` written — structural, field-label based,
+requiring 3+ distinct labels inside a 40-line window, so a citation cannot score.
+
+✅ **WHAT SURVIVES, re-tested rather than assumed.** Book V's **2/11** — R-54's and the outside read's
+headline — rests entirely on the **zeros**, the direction the instrument is valid in. **It stands.**
+Book IV's 9/10 and Book VI's 8/8 were positives the tool could not license; both re-verified by hand
+against field labels. Both correct. **The numbers were right and the method could not license them.**
+A defect in an instrument does not void the decisions it informed — it obliges a re-test, and the
+re-test passed.
+
+**TRIGGER: NONE — closed.** The remaining assert-vs-describe class is the standing R-62.
+
+---
+
+**FILED — R-95: THE CARD FORKED IN BOOK IV TOO. R-89's AND R-91's CENTRAL CAUSAL CLAIM — "STABLE
+UNTIL IT GOT BETTER" — IS FALSE, AND THE `Mechanism of the exclusion` FIELD SURVIVED UNDER ITS OWN
+NAME FOR EXACTLY ONE CHAPTER.**
+
+★★★ **Both halves found by `instrument_sweep.py` within twenty minutes of the register existing —
+i.e. the register caught its own author, which is the only evidence that it is a gauge and not a
+stamp.** Measured, `TOTAL 32 cards` across 55 drafted chapters:
+
+| ver | cards | chapters | declared? |
+|---|---|---|---|
+| v1 | 25 | IV.1–IV.8 · V.1 · V.2 · VI.1–VI.3 | ✅ IV.1 |
+| **v1b** | **2** | **IV.9** | ❌ |
+| v2 / v2a / v2b | 3 | VI.4 · VI.5 · VI.6 | ❌ |
+| v3 | 2 | VI.7 · VI.8 | ❌ |
+
+⚠ **(a) IV.9 FORKS.** Its two cards drop **SEES, NULL SPACE, COMPLEMENTS and BOUNDARY** — four of
+five — mark the subject *(contour)*, and add a field occurring **nowhere else in the book: `What
+would make this wrong`.** The fork is arguably *principled* — an archetypal contour is not an entity
+and has no null space in the census's sense — and it is **undeclared in exactly the way VI.4's is.**
+
+⚠⚠ **So the causal story in R-86, R-89 and R-91 does not survive.** All three say: the card was stable
+across ~22 cards while doing less work and destabilised *when it got better*. **It did not. The card
+forks whenever the SUBJECT CLASS changes** — entity → contour at IV.9, being → era at VI.4 — and has
+never once declared a fork. **That is worse, because the drift is not a Book VI phenomenon that Book
+VI discipline would have prevented. It is a standing property of the instrument, present in the book
+the project holds up as its stable case.** Book VI is where it was *noticed*, which is not where it
+started.
+
+⚠⚠⚠ **(b) `Mechanism of the exclusion` is printed under its declared name EXACTLY ONCE — VI.4:347.**
+VI.5, VI.6, VI.7 and VI.8 all print the shortened `Mechanism:`. **So the field the outside read called
+*the improvement* — the new line Book IV never had, the reason Book VI's cards beat Book IV's, the
+field R-91 ruled must be kept — had already collapsed one chapter after it was introduced, and was
+being praised in the collapsed form.** R-89 and the register's first draft both dated the shortening
+to VI.7; it is **VI.5.**
+
+⛔ **And the shortening is not cosmetic: it is what made the collapse invisible.** `mechanism` is
+ordinary English in this book — VII.2 alone uses it five times in running prose. A label
+indistinguishable from prose cannot be found by any gauge. **The full label is the only checkable
+version of the field**, which is why `08` now forbids the short form from VII.3 forward.
+
+*Also corrected: R-91's "~22 cards" for Book IV is a chapter count wearing a card count's clothes.
+IV.3 and IV.7 print four cards each; IV.6 prints two plus one deliberately incomplete. True Book IV
+population: **22** (20 v1 + 2 v1b) — coincidentally close, arrived at by a different route, and the
+unit was undeclared. Third denominator in R-91's own population table.*
+
+✅ **Repair: RECORDED, NOT REPAIRED.** `08-THE-INSTRUMENTS.md` carries v1b in the version table, the
+withdrawn causal claim on the page beside the claim it replaces, and the ruling that a non-entity
+subject **may** card as v1b **but only by saying so.** ⛔ `What would make this wrong` is a good field
+and is **not** promoted into the canonical six today — promoting a field on the day it is discovered
+is the reflex that produced five undeclared versions.
+
+**TRIGGER: the revision pass** for the back-conversion and the promotion decision. The forward
+binding is live now. small (recorded) + medium (revision).
+
+---

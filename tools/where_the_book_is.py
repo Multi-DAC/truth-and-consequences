@@ -349,6 +349,29 @@ def main():
         elif not brief:
             print(f"  CLAIMS: C1…C{highest} · {count} rows · declared {declared} ✓\n")
 
+    # ---- 08-THE-INSTRUMENTS.md, same discipline, same reason (R-91, Day 190). A register
+    # that only its own dedicated tool checks is a register nothing checks, because the tool
+    # gets run on the day it is written and then not again. This is the instrument every
+    # planning decision already consults, so the slot rides here too.
+    instruments = ROOT / "08-THE-INSTRUMENTS.md"
+    if instruments.exists():
+        itext = instruments.read_text(encoding="utf-8", errors="replace")
+        m = re.search(r"INSTRUMENTS-REGISTERED:\s*(\d+)", itext)
+        headings = len(re.findall(r"^## I\d+ ", itext, re.M))
+        if not m:
+            problems.append(
+                "08-THE-INSTRUMENTS.md: no INSTRUMENTS-REGISTERED slot — the heading's range "
+                "is a stamp with nothing behind it."
+            )
+        elif int(m.group(1)) != headings:
+            problems.append(
+                f"08-THE-INSTRUMENTS.md declares {m.group(1)} instruments, "
+                f"{headings} I-headings present. The title and the file disagree."
+            )
+        elif not brief:
+            print(f"  INSTRUMENTS: I1…I{headings} · declared {m.group(1)} ✓")
+            print("    ⛔ forward bindings live from VII.3 — run tools/instrument_sweep.py\n")
+
     # ---- ruling 117's trigger. It ordered a gauge; a gauge nobody runs is a
     # stamp. So the one instrument every planning decision already consults
     # carries the ratio, and the debt cannot go quiet again. (R-65, Day 190.)

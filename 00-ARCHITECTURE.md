@@ -1403,7 +1403,21 @@ shape, in the file that defines the project.)*
   was already drafted* · V.4 where we own our own flinch · VII.1 death, first and
   unhedged). And **Book VIII is the falsifier**: if I–VII are right and the practice
   book is thin, the work is decorative — so it gets drafted early, out of order.
-- `07-THE-CLAIMS-REGISTER.md` — **★★ NEW, Day 186. C1…C23**, each with its canonical sentence, the
+- `08-THE-INSTRUMENTS.md` — **★★★ NEW, Day 190. I1…I4.** The register for what the book **measures
+  with**, as `07` is the register for what it **asserts**. Name · current version · where each
+  version was declared · unit · **what a reading at this version licenses.** Built from R-91, which
+  is the parent of R-54, R-86, R-88, R-89 and R-90 — five rows whose single shared cause was that
+  nothing held the instruments. ⛔ **Four bespoke gauges were the alternative, and four gauges is the
+  disease performed in the repair.** Carries the census card's **six** versions (v1 · v1b · v2 · v2a ·
+  v2b · v3, one declared), the v3-canonical ruling binding from VII.3, and the two forward
+  bindings live today: **no ordinal without a use-log** (I2 is v0) and **no corpus count on the page**
+  (I3 suspended by VI.8's own footnote 9). Ships with `tools/instrument_sweep.py`, which caught two
+  errors in this file's own first draft — see R-94, R-95.
+- `07-THE-CLAIMS-REGISTER.md` — **★★ NEW, Day 186. C1…C30** *(this line read "C1…C23" until Day 190,
+  while the file itself ran to C30 and said so in its own heading — the same stamp-rot that made the
+  Day-188 halfway letter report the register as "unchanged since Day 186" to a reviewer. Two
+  reviewer packets, one stale prose count, in the file that declares the register. R-13's gauge
+  watches `07`; nothing was watching `00`'s description OF `07`.)* — each with its canonical sentence, the
   chapter that establishes it, every chapter that depends on it, and the trap it springs if stated
   loosely. Built on Clayton's endorsement; the answer to "an unhedged book cannot absorb a
   contradiction." Carries the **dependency-load** table, the **collision-pair** table, and the
