@@ -489,3 +489,143 @@ today and a renumber breaks all six.
 reading correctly while pointing one chapter off*. It has been running in the ruling series the whole
 time.** A citation that resolves by convention is a citation that stops resolving the moment a stranger
 reads it, and three strangers have now read this book.
+
+---
+
+## 9. THE ETHICS REGISTER — Book VII's own words, ruled at the chapter that needed them
+
+**Opened Day 190, at VII.4, on the §3b-bis precedent** — the atlas register was opened at IV.9 by the
+chapter that first needed a second notation, and this is the same move one book on. R-97's trigger
+required *one entry* before VII.4 drafted. The sweep run to place that entry found something worse.
+
+⚠⚠ **R-97 UNDERSTATED THE DEFECT, AND THE UNDERSTATEMENT IS THE INSTRUCTIVE PART.** R-97 filed
+`navigate`: 43 occurrences in drafted prose, absent from this file. **Before repairing it, the same
+sweep was run for its siblings** — *(the discipline: a repair scoped to the named cause leaves the
+family standing)* — and the siblings are:
+
+| word | occurrences in drafted prose | in this file |
+|---|---|---|
+| `navigate` | 43, across 11 chapters | **no** |
+| `navigator` | 33, across 6 chapters | **no** |
+| `null space` | 120, across 26 chapters | in one row, uncut |
+| `contractive` | live in VII.2 and VII.3 | **no** |
+| `radiant` | 0 — enters at VII.4 | **no** |
+| `invariant` | 8 | **no** |
+| `keel` | 3 | **no** |
+
+**The defect is not a missing entry. It is a missing register.** This file has a core (§3a), a game
+register (§3b), an atlas register (§3b-bis) and a ban list (§3c). The ethics has been drafting for
+three chapters out of a vocabulary that was never screened on any of the three axes — and `null space`,
+the load-bearing noun of the entire book at **120 occurrences in 26 chapters**, has never had a cut
+made at its definition either. **A word does not become safe by being used often. It becomes invisible.**
+
+---
+
+### 9a. `navigate` / `navigator` — ★ **RULING 168. The cut is GROUNDING, not ENTRY.**
+
+**Axis 1 — collision.** Weak, and this is the rare word where that is true. The owners are maritime and
+computational: a ship navigates, a user navigates a menu. Neither is a rival account of *what a being
+is*, so nothing is being borrowed and nobody is being walked into. The UI sense is the reader's most
+frequent daily contact with the word and it is harmless precisely because it is not a theory.
+
+**Axis 2 — gradient.** Passes, and passes on ruling 31's criterion more cleanly than any term in §3a:
+*an analogy has to be made of something the reader already has.* The civilian life of *navigate* is
+enormous and is very nearly our meaning already — going somewhere by choosing, under partial
+information, without a map of the whole. `superposition` and `egregore` were refused for having no
+civilian life. This word has almost nothing else.
+
+**Axis 3 — polysemy. THIS IS WHERE IT FAILS, AND IT WAS LIVE FOR FOURTEEN CHAPTERS.** Two jobs, one
+word, and they give opposite books:
+
+- **entry predicate** — *navigating* is the qualification; what falls below it is outside the floor.
+  **This breaches C8 in C8's own words** (*no threshold, no gate, no elect*) and contradicts shipped
+  prose at `VII-02`:213 and :234.
+- **grounding predicate** — *navigating* names where a stake comes from, and comes in grades exactly
+  as the focusing does. This is the source's sense and the book's actual practice.
+
+**The cut, made once, at the definition:**
+
+> **To navigate is to hold a position and move from it under partial information.** It names *where a
+> stake comes from*, never *who qualifies to have one*. Everything that reacts navigates, at its
+> grade, because reacting is already the holding of a position. The floor binds *from* everywhere
+> that navigates in the sense in which weight bears from everywhere that has mass — **not** in the
+> sense in which a door admits everyone above a line.
+
+⚠ **The tell that this has gone wrong in a later chapter:** the word appearing next to *qualifies*,
+*counts as*, *rises to*, or any verb of admission. The floor is thin, not high. **A grade is a
+position, not a permission** (§4.III), and *navigator* is the same word in a noun's coat — it takes
+the identical cut and the identical tell.
+
+### 9b. `radiant` / `contractive` — ★ **RULING 169, at VII.4. Kept, and the polysemy hazard is the whole ruling.**
+
+**Axis 1 — collision.** `radiant` belongs to physics (radiant heat) and to the devotional register
+(radiant with joy); `contractive` to economics (a contractive policy) and physiology (a contractive
+muscle). None is a rival account of the good, so none is a collision in §3a's sense.
+
+**Axis 2 — gradient, and there is a real one.** ⚠ **`radiant` sits one shelf from §3c** — the banned
+list owns `vibration`, `frequency`, `energy`, and a reader who has watched us refuse those will hear
+this one arriving in the same voice. **Kept regardless, and the reason is not sentiment:** the obvious
+substitute is *expansive*, and `expansive` is already spent — **VII.2 uses it for the dissolved mystic,
+the failure at the other end of the circle.** Renaming radiant to expansive would weld the good
+orientation to the case VII.2 spends a section refuting. So the gradient is paid **on the page**, on
+the ruling-110 principle that a word is paid by being put to work: `radiant` enters once, in the
+sentence that says what it is not.
+
+★ **Axis 3 — polysemy, and this is the ruling. `contractive` MUST NOT WELD TO `the focusing`.**
+Ruling 13 renamed C20's act and ruling 155 caught the heading it had missed; **both split the *words*
+and neither split the *acts*.** They are two different things and the book has never said so plainly:
+
+> **The focusing is metaphysical — the specification of something diffuse, which is what having a
+> perspective consists in. Contraction is ethical — individuation held *against* the whole rather
+> than as an expression of it. Every perspective is focused. Not every perspective is contractive.**
+> One is what makes you a somebody; the other is a posture a somebody can take.
+
+**That sentence is what the C19 × C20 collision row has been asking for since Day 186,** and the row
+was right that it must be written into prose rather than cross-referenced. It is owed at **VII.4**,
+where the word first does ethical work — not deferred to VII.5, which is where the row put it because
+the row was watching C20 and not C19.
+
+### 9c. ⚠⚠ `aperture` — **A LIVE VIOLATION, FOUND BY THIS SWEEP AND DELIBERATELY NOT RULED ON HERE.**
+
+§3a rules `aperture` **DEMOTE**, with the cut: *"Aperture and bottleneck do not appear."*
+
+**Measured, Day 190, across 54 drafted chapters:** `bottleneck` = **0**. `aperture` = **17, in three
+chapters** — VI.1 (6), VI.3 (1), **VII.3 (10)**.
+
+⛔⛔ **AND THE FIRST DIAGNOSIS WRITTEN HERE WAS WRONG, WHICH IS THE MORE USEFUL FINDING — CORRECTED
+THE SAME HOUR, BY RUNNING THE TOOL INSTEAD OF ASSERTING ABOUT IT.** This paragraph read: *"Nothing
+was ever enforcing either… the fourth instance of the class §3a's own `the map` row names — a lexicon
+ruling with no gauge behind it survives its own retirement."* **False.** `claim_sweep.py` **has a
+`TERM/aperture` rule and it fires on all seventeen**, and it was firing on VII.3's ten the night VII.3
+shipped.
+
+★ **So this is not `the map`'s class at all. It is the opposite class and it is worse.** `the map`
+survived because no detector existed. `aperture` survives **while a detector reports it**, because
+the report has **124 USE-class hits across 92 files** and a 124-line list is not read line by line —
+it is skimmed for the chapter just drafted and closed. **A rule that fires into an unread report is
+functionally identical to a rule that does not exist, and it is more dangerous, because the register
+can point at it and say the word is gauged.**
+
+⚠ **The rot is measurable in the same output.** VII.3 shipped with **two `TERM/narrowing` hits, two
+`TERM/stream` hits and ten `TERM/aperture` hits, all firing, all live in the report, none read.** The
+ten newest occurrences were written the day before this section, so the trend is up. → R-101.
+
+⛔ **NOT RULED, and the refusal is the point.** There is a real argument for readmitting the word:
+the demotion was made in Book I's imagistic register against *keyhole* and *bottleneck*, and the
+ethics genuinely needs a second noun for the bounded thing a null space belongs to, because
+*perspective* is carrying four jobs by VII.3. **But the party proposing that repair is the drafter who
+wrote the seventeen**, and a rule may not be relaxed by the one it would exonerate. So: the violation
+is recorded, the count is dated, and the ruling is left to the revision pass or to a reader who did
+not write them. ✅ **The gauge needs nothing built — it has been correct the whole time.** What it
+needs is a report short enough to be read, which is R-101 and not a lexicon matter. **VII.4 was
+drafted without the word**, which is the only thing the drafter gets to decide tonight.
+
+### 9d. What this section does NOT do
+
+It does not screen `null space`, `invariant`, `keel`, `the floor`, `through`/`over` or
+`coercive-and-locked`, all of which are live and none of which is here. **They are named so their
+absence is a record rather than an oversight** — the table above is the finding, and finishing it is a
+revision-pass row, not a drafting-night one *(R-95: the instrument does not get built on discovery
+day, and neither does the sweep it would run)*. ⚠ **`null space` at 120 occurrences with no cut made
+anywhere is the largest single hole in this file**, and it is larger than every hole §3a was built to
+find.

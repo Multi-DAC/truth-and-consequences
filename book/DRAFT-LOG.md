@@ -9144,3 +9144,79 @@ hedging, and it is deliberate: the alternative was a number this project cannot 
 consistent definition of reoffence.
 
 **CHAPTERS-DRAFTED: 54/67** — the declared slot. Book VII 3/9; thirteen chapters left.
+
+---
+
+## DAY 190 — VII.4, THE TWO EVILS
+
+**`book/VII-04-the-two-evils.md` · 5,572 words · 55/67 · 188,754 words.** `instrument_sweep` PASS —
+second v3-canonical card, six fields, `Mechanism` in FULL, no ordinal, no corpus count. `prose_echo`
+clean after two real repairs. `claim_sweep` clean on this chapter after eight adjudicated.
+
+★ **THE PRE-DRAFT SCREEN OUT-FOUND THE PROSE FOR THE TWELFTH CONSECUTIVE CHAPTER, AND THIS TIME IT
+FOUND THE CHAPTER WAS PARTLY ALREADY WRITTEN.** 156(d) has fired seven times and been right seven
+times.
+
+**FINDING 1 — C19 SEATED THE ASYMMETRY WHERE IT CANNOT SIT, AND TWO INDEPENDENT CHECKS SAY SO.**
+C19's canonical read: *the contractive terminal doctrine — I am the totality; nothing is not mine —
+is false for every perspective without exception.* (a) The source relocates it, having announced in
+advance that it would: §The two evils marks the debt — *"really a claim about what his action does"*
+— and §Co-constitutivism pays it: *"not in a doctrine he professes but in the exemption his action
+performs."* (b) **Our own shipped prose kills it harder.** `VII-02`:184–192 argues that *I am the
+totality* fails at **both ends** of the circle, swallower and dissolved mystic alike — **and a result
+that convicts both ends is a symmetric result.** C19 amended to carry two seats, with the operative
+one named as operative. → R-98: **the register was cut section-by-section while the source's argument
+crosses sections, and this source signposts its crossings in plain English.** Two consecutive claims,
+two consecutive nights, same mechanism. **28 of 30 claims have never been read against their source.**
+
+**FINDING 2 — FOUR OF THE BRIEF'S FIVE BEATS HAD ALREADY SHIPPED.** Measured before writing, not
+discovered at the keyboard: beat 2 at `VII-02`:185, beat 3 at `VII-02`:184 and `VII-03`:105, beat 4
+**argued in full** at `VII-03`:220–232. Every beat correct; none outstanding. `brief_fields` flagged
+VII.4 THIN AND UNDRAFTED and was right about the holes and blind to the surplus, because it counts
+fields. → R-100: **re-drafting reads exactly like drafting from the inside**, and `prose_echo` would
+have caught it after the fact at the cost of a chapter.
+
+**FINDING 3 — THE SOURCE SECTION THAT MAKES `locked` MEAN SOMETHING IS HOUSED IN NO CHAPTER.**
+`order-parameter` = 0, `ferromagnet` = 0, `broken symmetry` = 0 across `00`, `06`, `07` and all 54
+drafted chapters. VII.4 takes §Moral facts as order-parameters entire — not for completeness but
+because `coercive-and-**locked**` is half a criterion without it. → R-99: **`coercive-and-locked`
+was registered nowhere**, shipping once in VII.3's endnote [^4] under C20, whose canonical does not
+contain it. **An endnote is a place a claim can enter the book without passing the register.**
+
+⛔ **R-97's TRIGGER DISCHARGED, AND THE REPAIR FOUND THE ROW UNDERSCOPED.** `05` **§9 — THE ETHICS
+REGISTER**, opened on the §3b-bis precedent. Ruling 168 cuts `navigate` as a **grounding** predicate
+with the tell named. Ruling 169 keeps `radiant`/`contractive` and — the part that matters — **splits
+`contractive` from `the focusing`**, which is what the C19 × C20 collision row has wanted since Day
+186. **The split is written into VII.4, not VII.5**, because VII.4 is where the word first does
+ethical work. R-97 filed one word; the sibling sweep found `navigator` 33 / `invariant` 8 / `keel` 3 /
+**`null space` 120 across 26 chapters**, all unscreened. §9d names what it did not screen.
+
+★★ **AND THE FINDING I WOULD RATHER NOT HAVE: §9c'S FIRST DIAGNOSIS WAS FALSE AND I CORRECTED IT BY
+RUNNING THE TOOL.** I wrote that `aperture` survived its demotion because no gauge watched it — *the
+map*'s class. **`claim_sweep` has a `TERM/aperture` rule; it fires on all seventeen; it was firing on
+VII.3's ten the night VII.3 shipped.** → **R-101, and it is the opposite class and the worse one:**
+124 USE-class hits across 92 files, and a 124-line report is skimmed, not read. **A rule that fires
+into an unread report is functionally identical to one that does not exist, and it is more dangerous,
+because the register can point at it and say the word is gauged.** VII.3 shipped carrying 2
+`narrowing` + 2 `stream` + 10 `aperture`, all live, none adjudicated. The repair is a **diff**, not a
+rule.
+
+⚠ **`aperture` LEFT UNRULED ON PURPOSE.** There is a real argument for readmitting it — *perspective*
+carries four jobs by VII.3 and the ethics needs a second noun. **The party proposing that repair is
+the drafter who wrote the seventeen.** Recorded, dated, and left to the revision pass or to a reader
+who did not write them. **VII.4 was drafted without the word** — 0 occurrences — which is the only
+part the drafter gets to decide tonight.
+
+**Named, filled from an empty field, which is where VII.3's findings came from too:** Aquinas (*ST* I
+q.64 a.2 — fourth use, second question, declared in the endnote) · Augustine (*privatio boni*, and it
+takes the census card: **the instrument that killed the two-powers cosmology and cannot render
+competence**) · **Arendt — `Arendt` 0 and `banality` 0 across 54 chapters**, the century's dominant
+account of the doctrine-free perpetrator, an ally with a different mechanism, and the two come apart
+on the fully reflective coercer · **Mani — `Manich` 0**, and the trap is in C19's own first sentence,
+because *dynamically symmetric* is one comma from two coeternal substances · Nietzsche (*not the
+overman but the corpse*; `amor fati` stays reserved for VII.8).
+
+**CHAPTERS-DRAFTED: 55/67** · **CLAIMS: C1…C30** · **RULINGS: 171** · **QUEUE: 86 + R-98…R-101 = 90,
+inherited-base-plus-delta, direct count still 78, gap still R-85** · **TOOLS: 23.** Book VII 4/9;
+next prose is **VII.5 — SUFFERING**, which inherits ruling 169's split as a premise rather than a
+task, and owes `malheur` and the no-theodicy floor.

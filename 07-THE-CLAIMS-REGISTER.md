@@ -497,14 +497,62 @@ chapters.** The premise was never printed, not merely unregistered. *(R-96's sib
 whose fifth field is what a reading licenses, licensing more than it read.)*
 
 ### C19 — THE ASYMMETRY, EXACTLY BOUNDED
-> **Canonical:** Radiant and contractive are symmetric dynamics. The asymmetry is precisely this:
-> the contractive terminal doctrine — *I am the totality; nothing is not mine* — is false for
-> every perspective without exception.
+> **Canonical:** Radiant and contractive are **dynamically symmetric** — both navigable, both
+> coherent, each perceiving itself as the good; no fact about the dynamics ranks them, and on that
+> loop the relativist is right. The asymmetry is real and enters **once**, and it has **two seats,
+> not one.** **(1) At the limit:** the contractive terminal doctrine — *I am the totality; nothing
+> is not mine* — is false for every perspective without exception, by the Null-Space Theorem;
+> the radiant terminal — *I am an expression of that which is* — is a wager on a truth, so one path
+> is a wager against a theorem and the other is not. **(2) Where it actually bites, and this is the
+> operative seat:** almost no real predator holds the terminal doctrine in words. **The asymmetry
+> lives not in a doctrine professed but in the exemption an action performs** — the standing claimed
+> for one's own navigating and withheld from another's — **and it convicts the predator who has
+> never once thought the words.** The mark of evil in its settled form is neither direction nor
+> intensity but the conjunction **coercive-and-locked**: run *over* another's navigation rather than
+> *through* it, **and** frozen at the point rather than cycling on the axis. Both conditions, or it
+> is not the mark.
 
 **Establishes:** VII.4
 **Depends:** VII.2 · VII.5 · VIII.5 · VIII.6
 **Trap:** widening it. *Contraction = bad* is one careless sentence away and it is false — see C20.
 **No wider, and no narrower.**
+**Second trap, and the source pre-empts it before any critic does:** *the worst are diminished.*
+Dimensionlessness is the contractive path's **asymptote — it describes the destination, not the
+traveller.** The century's finished atrocities were appallingly *capable*, and an account that filed
+them under "lessened" would mislocate the very thing it most needs to name. What is lessened is the
+**pole steered for**, not the one steering; the organiser of a horror is dreadful precisely because
+he is *not* there yet — still on the open axis, still able to turn, culpable for exactly the
+coherence that makes him effective.
+
+⛔ **AMENDED Day 190 by VII.4's pre-draft screen — 156(d) again, one row below C18, and the same
+defect with a different face.** The canonical read only the first sentence and clause (1). **Two
+independent checks say clause (1) cannot carry the asymmetry alone:**
+
+**(a) The source relocates it, in advance and in writing.** §The two evils marks the debt — *"the
+asymmetry that looks, at the limit, like a claim about what the adversary believes is really a claim
+about what his action does"* — and says it will be paid *"two sections on."* §Co-constitutivism pays
+it: *"That is where the asymmetry actually lives — not in a doctrine he professes but in the
+exemption his action performs."* ★ **The mechanism is now nameable, because it is the second
+consecutive claim to suffer it: C19 was extracted from §The two evils and inherited only that
+section. Its correction lives two sections later, in the section C18 was extracted from.** The
+register was cut section-by-section, so **a claim whose source flags a forward payment loses exactly
+the payment.** The source signposted it both times. → R-98.
+
+**(b) Our own shipped prose kills it independently, and this is the sharper of the two.** `VII-02`:184–192
+argues that *I am the totality* fails at **both ends of the circle** — the swallower and the
+dissolved mystic, *"the same logical shape and the same defect"* — and concludes in its own voice
+that *"the asymmetry between the errors is a claim about the middle of the range and not about the
+ends."* **A result that convicts both ends equally is a symmetric result.** It is true, it is
+load-bearing, and it is not the asymmetry.
+
+⚠ **And the conjunction was registered NOWHERE.** `coercive-and-locked` is the source's actual mark
+of evil in its settled form; it appears once in the whole book, in **VII.3's endnote [^4]**, filed
+under **C20** — whose canonical is *"sometimes the focusing is the care"* and contains no such thing.
+A criterion shipped in a footnote, attributed to a claim that does not hold it, forward-bound to a
+chapter whose claim did not hold it either. The *over/through* half was at least in C18; **the
+locked half was in no claim at all**, and §9b now says why it could not be: the vocabulary that makes
+*locked* mean something — the order-parameter account, where a frozen axis is a phase and not a
+metaphor — has never been housed in any chapter. → R-99.
 
 ### C20 — THE FOCUSING CAN BE CARE
 > **Canonical:** Sometimes the focusing is the care.

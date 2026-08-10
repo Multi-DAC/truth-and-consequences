@@ -3730,11 +3730,77 @@ across the drafted book and does NOT appear in `05-THE-LEXICON.md`.** Filed as *
 not VII.3's to fix, but VII.3 is where the cost lands, because it is the chapter that makes the word
 decide something.
 
-### VII.4 — THE TWO EVILS
-**Beats:** radiant and contractive as symmetric dynamics · the contractive terminal doctrine — *I am the
-totality; nothing is not mine* · why the Null-Space Theorem makes it false for every perspective without
-exception · the mid-range predator who professes no totality but *acts* the exemption · **the asymmetry
-is real and exactly bounded — no wider, and no narrower.**
+### VII.4 — THE TWO EVILS ✅ DRAFTED — 5,572 words
+⚠⚠ **REBUILT Day 190 by its own pre-draft screen, and the old brief's problem was the opposite of
+thin: FOUR OF ITS FIVE BEATS HAD ALREADY SHIPPED.** Measured against drafted prose before a word was
+written — beat 2 (*I am the totality; nothing is not mine*) is printed at `VII-02`:185; beat 3 (the
+Null-Space refutation of it) at `VII-02`:184–186 and `VII-03`:105; beat 4 (the predator who professes
+no totality but acts the exemption) is **argued in full** at `VII-03`:220–232 and :295, where it does
+duty for C18. **A six-line brief listed a chapter's worth of work that four hundred shipped lines had
+already done**, and the drafter would have discovered it at the keyboard, mid-paragraph, with the
+obvious repair being to say it all again slightly differently. → R-100.
+
+★ **And the same measurement found the hole the brief could not see, because a brief only knows what
+it lists.** `order-parameter` = **0**, `ferromagnet` = 0, `broken symmetry` = 0, across `00`, `06`,
+`07` **and all 54 drafted chapters.** The source's second section — *Moral facts as order-parameters*,
+which says what a moral fact structurally **is**, and is the direct antecedent of the two evils — is
+**housed in no chapter of this book.** VII.5 is suffering and VII.6 is love; there is nowhere else for
+it to go. **VII.4 is its only home, and the chapter needs it for a reason beyond tidiness: it is the
+account that makes `locked` mean something** — a frozen order-parameter is a phase, not a metaphor,
+and without it *coercive-and-**locked*** is half a criterion resting on an image.
+
+**Source:** `Perspective` **05 §Moral facts as order-parameters** (unhoused — VII.4 takes it entire)
+**+ §The two evils, unified** (the chapter's own section) **+ §Co-constitutivism ¶4** for the
+relocation only, **NOT** for the fork itself — VII.3 shipped the fork and this chapter does not
+re-argue it. ⚠ **The one-sentence statement of the division of labour, because it is the whole risk:
+VII.3 argued the exemption to answer the *shmagent*; VII.4 does not argue it again — it NAMES that
+same move as the seat of the asymmetry, which is a thing VII.3 could not do because VII.3 does not
+hold C19.** Anything longer than a paragraph of re-derivation here is the failure.
+
+**Beats:** what a moral fact **is** — a local order-parameter, and the truce it ends: morals *feel*
+like law (from inside an ordered phase) **and** morals *vary* (phases differ), both veridical about
+their positions, neither about the ground · **the limit case that defines the vocabulary** — Aquinas
+on why the fallen angels cannot repent, read as a phase description: an axis frozen solid · **the
+correction the source makes before any critic does — a being locked wholly at a pole has not
+*maximised* it, it has lost the axis** · radiant and contractive as **dynamically** symmetric, and
+the relativist right about the loop · the two terminal doctrines, one a wager on a truth and one a
+wager against a theorem · ⛔ **and immediately the limiter: that falsity is NOT the asymmetry** —
+`VII-02`:184–192 already showed *I am the totality* fails identically at both ends of the circle, so
+it convicts the swallower and the melter alike, and **a result that convicts both ends is symmetric**
+· ★ **the operative seat, named not re-argued: the asymmetry lives in the exemption an action
+performs, not the doctrine a mouth professes — which is why it reaches the predator who has never
+once thought the words** · **the mark, and it is a conjunction: coercive-**and**-locked — over rather
+than through, AND frozen at the point rather than cycling on the axis. Both, or it is not the mark**
+· evil-as-event on the open loop, evil-as-state as the loop's corpse · **the asymmetry is real and
+exactly bounded — no wider, and no narrower.**
+
+**Named:** **Aquinas** — *ST* I q.64 a.2, the angelic will as non-discursive, chosen once and entire.
+⚠ Fourth appearance (V.1, V.2, V.3); the first three are all *actus purus* / the God without a face,
+so this is a **different Aquinas on a different question** and the endnote declares the reuse the way
+VII.1's Nagel note does · **Augustine** — *privatio boni*, the nearest classical rival to our account
+of what evil *is*, and the cut is sharp: privation says evil is a **lack of being**; we say it is a
+**loss of dimension on an axis that stays real**, which is why our version can convict the capable
+and his has always struggled to · ★ **Arendt** — *Eichmann in Jerusalem* (1963). **`Arendt` = 0 and
+`banality` = 0 across 54 chapters**, and this is the most consequential ancestor gap the book has
+left open: hers is the twentieth century's dominant account of how the worst is done by someone
+professing no doctrine at all, which is *exactly* this chapter's operative seat arrived at from
+outside. She is **an ally with a different mechanism** — thoughtlessness where we say performed
+exemption — and the difference is worth a paragraph, not a citation · ★★ **Mani** — **`Manich` = 0
+across every drafted chapter, and the trap is in C19's own first sentence.** *Radiant and contractive
+are dynamically symmetric* is one careless comma from two co-equal cosmic substances, which is the
+oldest and most respectable way to get this wrong. **Say it out loud once:** ours are two orientations
+on one axis in one plenum, not two powers; the symmetry is **dynamical**, and the whole chapter is the
+argument that it does not go all the way up · **Nietzsche** — the source's own line, *beyond good and
+evil not as the overman but as the corpse*, and it is the sharpest sentence in the section. ⚠ Second
+appearance (II.2); VII.8 reserves *amor fati*, which is a **different** Nietzsche and must stay
+available.
+
+**Lexicon obligations, both due on the page (`05` §9b, ruling 169):** `radiant` enters **once**, in
+the sentence that says what it is not (the §3c gradient is paid by work, not by announcement) — and
+**`contractive` is split from `the focusing` here, not in VII.5.** The C19 × C20 collision row has
+required that sentence since Day 186 and put it in VII.5 because it was watching C20; **VII.4 is
+where the word first does ethical work, so VII.4 is where the split is owed.** *Every perspective is
+focused; not every perspective is contractive.*
 
 ### VII.5 — SUFFERING
 **Beats:** the two arrows — the world's, and the one you add · appropriate contraction: sometimes the

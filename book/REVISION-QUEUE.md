@@ -1907,3 +1907,122 @@ stops being one word and becomes a position. **The gauge is the revision pass.**
 small (gauge).
 
 ---
+
+**R-97 — PARTIALLY DISCHARGED, Day 190, and the repair found the row was scoped too narrowly.**
+✅ **The entry is written** — `05` **§9a, ruling 168**, the grounding-vs-entry cut, with the tell
+named (*the word next to a verb of admission*). ⛔ **But the sweep run to place it found the actual
+defect: R-97 filed ONE WORD and the ethics has NO REGISTER.** `navigator` 33 occurrences / 0 entries ·
+`contractive` live in two shipped chapters / 0 · `radiant` entering at VII.4 / 0 · `invariant` 8 / 0 ·
+`keel` 3 / 0 · **`null space` 120 occurrences across 26 chapters with no cut made anywhere, which is
+the largest single hole in `05`.** `05` §9 is opened on the §3b-bis precedent (a register is opened by
+the chapter that needs it) and §9d **names what it did not screen so the absence is a record rather
+than an oversight.** ⚠ **The lesson is the one the queue keeps re-learning: a repair scoped to the
+named cause leaves the family standing.** R-97's own text said *book-wide* and then specified one
+word; the word was the instance, not the class. **REMAINDER OPEN — §9d's list, and the two-direction
+lexicon↔prose gauge, both revision-pass.** small (done) + medium (remainder).
+
+---
+
+**FILED — R-98: THE CLAIMS REGISTER WAS CUT SECTION-BY-SECTION, SO A CLAIM WHOSE SOURCE FLAGS A
+FORWARD PAYMENT LOSES EXACTLY THE PAYMENT. TWO CONSECUTIVE CLAIMS, TWO CONSECUTIVE NIGHTS.**
+
+C18 (Day 190, VII.3's screen): canonical carried limit (1), the source carried two, and the missing
+one lived in a paragraph further down §Co-constitutivism. C19 (Day 190, VII.4's screen): canonical
+seats the asymmetry in the terminal doctrine, and **the source relocates it two sections on, having
+announced in advance that it would** — *"we mark the debt here and pay it two sections on."*
+
+★ **That is a mechanism and not a coincidence.** C19 was extracted from §The two evils; its correction
+lives in §Co-constitutivism. C18 was extracted from §Co-constitutivism; its missing limit lives later
+in that same section. **Both are the same operation: extraction that respects the source's section
+boundaries while the source's ARGUMENT crosses them** — and this source signposts its crossings in
+plain English, which means the defect was findable by reading for *two sections on*, *pays in full
+below*, *the debt marked here*, and nothing looked.
+
+⚠ **THE SCOPE, AND IT IS THE UNCOMFORTABLE PART: 30 claims were cut this way and 2 have been checked.**
+The two checked are the two most recently needed, which is not a sample — it is the chapters arriving
+in order. **28 claims have never been read against their source at all.**
+
+**TRIGGER: the next chapter's pre-draft screen checks its `Establishes` claim against the source
+BEFORE the beats** — that is now three for three and it is cheap. **And a batch sweep of the source's
+forward-payment signposts against all 30 canonicals, at the revision pass**, which is the only way
+the 28 get read without waiting for 28 chapters. medium.
+
+---
+
+**FILED — R-99: A CRITERION SHIPPED IN A FOOTNOTE, ATTRIBUTED TO A CLAIM THAT DOES NOT HOLD IT.**
+
+`coercive-and-locked` is the source's mark of evil in its settled form. It occurs **once** in the
+drafted book — `VII-03`:447, endnote [^4] — filed under **C20**, whose canonical is *"sometimes the
+focusing is the care."* C20 does not contain the conjunction. Neither did C19 until tonight. The
+*over/through* half was at least registered, under C18; **the *locked* half was in no claim at all.**
+
+★ **And §9b found why it could not be registered: the vocabulary that makes `locked` mean something
+was never housed.** A frozen order-parameter is a phase description; without the order-parameter
+account, *locked* is an image, and an image cannot be half of a criterion. **The unregistered clause
+and the unhoused section are one defect seen from two ends.** ✅ Both repaired at VII.4 — C19 now
+carries the conjunction, VII.4 takes the section.
+
+⚠ **The class, which is what makes this a row rather than a fix: an endnote is a place a claim can
+enter the book without passing the register.** `07` is the gate for canonical text and nothing gates
+a footnote. **TRIGGER: revision pass — sweep every endnote in 54 chapters for load-bearing criteria
+that appear in no claim.** No gauge does this and the shape is not obvious; it may have to be read.
+medium.
+
+---
+
+**FILED — R-100: A BRIEF CAN BE OBSOLETE BY DELIVERY RATHER THAN BY ERROR, AND NOTHING MEASURES THAT.**
+
+VII.4's brief listed five beats. **Four had already shipped** — two in VII.2, two in VII.3 — because
+a chapter that argues a claim well necessarily spends the neighbouring claims' material getting
+there. Every beat was *correct*. None was *outstanding*. `brief_fields` flagged VII.4 as THIN AND
+UNDRAFTED and was right about the holes and blind to the surplus, because it counts fields and lines.
+
+⛔ **The failure mode is specific and would not have announced itself:** the drafter opens the file,
+writes beat 2, feels the familiarity, and resolves it as *this needs saying properly this time* rather
+than as *this is already on page 185 of the book*. **Re-drafting reads exactly like drafting from the
+inside.** `prose_echo` would have caught the verbatim overlap after the fact, at the cost of a
+chapter — which is the expensive place to find it.
+
+**The check that found it costs nothing and is now the screen's first move:** grep each beat's
+load-bearing noun against `book/*.md` before writing. **TRIGGER: every pre-draft screen, starting
+VII.5** — and a `beat_delivered` sweep at the revision pass, since 13 undrafted briefs were written
+before the chapters that would spend their material. small (the habit) + small (the gauge).
+
+---
+
+**FILED — R-101: `claim_sweep` REPORTS 124 USE-CLASS HITS ACROSS 92 FILES, AND A 124-LINE REPORT IS
+NOT READ. THE RULE THAT FIRES AND THE RULE THAT DOES NOT EXIST HAVE THE SAME EFFECT, AND THE FIRST
+ONE IS WORSE.**
+
+Found Day 190 while writing `05` §9c — **by the correction of a false claim I had just written.** §9c
+first said `aperture` had survived its demotion because *"a lexicon ruling with no gauge behind it
+survives its own retirement,"* citing `the map`. **Running the tool refuted it in one command:
+`claim_sweep.py` has a `TERM/aperture` rule, it fires on all seventeen occurrences, and it was firing
+on VII.3's ten the night VII.3 shipped.**
+
+⛔ **That is the opposite class from `the map` and it is the worse one.** `the map` survived because
+nothing watched. `aperture` survives **while being watched and reported**, because the report is 124
+lines and 124 lines get skimmed for the chapter just drafted. **And the register can then point at the
+rule and say the word is gauged** — a detector nobody reads is an alibi, which is a thing an absent
+detector cannot be.
+
+**Measured, same output, same night:** VII.3 shipped carrying 2 `TERM/narrowing` · 2 `TERM/stream` ·
+10 `TERM/aperture`, all live, none adjudicated. VII.4's own 8 `TERM/narrowing` hits were caught only
+because this screen grepped the output for the new chapter's filename by hand.
+
+★ **The repair is not a new rule. It is a diff.** `claim_sweep` should report **hits in files changed
+since the last commit** at the top, in their own block, with the book-wide total kept below as a
+standing figure. A drafter reads eight lines. Nobody reads 124. ⚠ **And the second half, which is the
+part that would actually have caught this:** the tool has no notion of *adjudicated* — every hit is
+new every run, forever, so the pile can only grow and the growth carries no signal. An
+`ADJUDICATED.md` keyed on file+line+rule, with anything unmatched printed loud, converts the report
+from a wall into a delta.
+
+⚠ **Do not read this as licence to allowlist.** The 17 `aperture` hits stay open and stay unruled
+(`05` §9c, and the reason is that the drafter who wrote them may not exonerate them).
+
+**TRIGGER: before the next packet cites `claim_sweep` for anything** — R-85's trigger has the same
+shape and the same cause, and it is the second gauge in this book found to be reporting truthfully
+into nobody's hands. medium.
+
+---

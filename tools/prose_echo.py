@@ -95,6 +95,29 @@ one two i you he she they we us them him her his their our your my me
 #   pairs, printing because the table could not reach them. An exemption that cannot fire is
 #   worse than no exemption: it reads as coverage.
 EXEMPT = [
+    # ── v3-canonical census-card field glosses ─────────────────────────────────
+    # ★ ADJUDICATED Day 190, at VII.4, and the reason is structural rather than
+    # convenient: `instrument_sweep` ENFORCES that a v3-canonical card carry these
+    # six field names with these glosses, and it PASSES on both cards. A form that
+    # one gauge mandates cannot be a repeat the next gauge convicts. Left unexempted
+    # this pair grows quadratically — every future canonical card against every
+    # prior one — which is R-101's disease exactly: a true report nobody can read.
+    # ⚠ SCOPED TO THE GLOSSES, NOT THE CONTENT. The words after each colon are the
+    # chapter's own and are NOT covered here; a second card that repeated another
+    # card's *analysis* would still print, which is the hit worth having.
+    ("VII.3", "VII.4", "boundary where it goes from reliable",
+     "v3-canonical card field gloss, mandated by instrument_sweep. See header note."),
+    ("VII.3", "VII.4", "null space what it structurally cannot",
+     "v3-canonical card field gloss, mandated by instrument_sweep. See header note."),
+    ("VII.3", "VII.4", "space what it structurally cannot render",
+     "v3-canonical card field gloss, mandated by instrument_sweep. See header note."),
+    ("VII.3", "VII.4", "complement what it renders superbly",
+     "v3-canonical card field gloss, mandated by instrument_sweep. See header note."),
+    ("VII.3", "VII.4", "mechanism of the exclusion what the render identifies with what",
+     "v3-canonical card field gloss, mandated by instrument_sweep. See header note."),
+    ("VII.3", "VII.4", "navigational implication what to do about the other five",
+     "v3-canonical card field gloss, mandated by instrument_sweep. See header note."),
+    # ───────────────────────────────────────────────────────────────────────────
     ("II.5", "III.6", "error does not need a territory",
      "★ ADJUDICATED AND KEPT, ruling 90. II.5 STATES the shape and hands it forward explicitly "
      "('the answer is Book III's'); III.6 CASHES it with the argument under it. The returning "
