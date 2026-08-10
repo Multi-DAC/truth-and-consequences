@@ -9011,3 +9011,61 @@ chapters, and the column was comparing genres. `meta_textual` 3.65 fell the same
 the alternative and does not feel like progress at the time.
 
 **CHAPTERS-DRAFTED: 53/67** — Book VII is 2/9; 14 chapters left.
+
+---
+
+## DAY 190, evening — PACKET-003 (BOOK VI) ASSEMBLED, AND THE ASSEMBLY STEP CAUGHT THE QUEUE LYING FOR THE SECOND PACKET RUNNING
+
+**`review/PACKET-003-day190-book-VI.md` + `review/PRE-REG-003-book-VI.md`, at `fd37971`.** Book VI,
+eight chapters, 35,844 words, out for outside read at Clayton's ask. **The pre-registration was
+written FIRST and the packet second**, deliberately, so the packet could not be shaped to make the
+predictions come true.
+
+**ONE — IT IS A SUPPLEMENT, NOT A REPLACEMENT, AND THAT IS A DECISION WITH A REASON.** `PACKET-002`
+(Books I–V) went out Day 189 and **has not come back.** Two blinds are now running at once. A
+consolidated I–VI packet would have been cleaner to read and would have destroyed `PRE-REG-002`'s
+three still-open predictions (P2, P3, P4), which only an I–V read can settle. The supplement is safe
+under both branches: if the reviewer has not started, they read I–VI in order anyway; if they are
+mid-read, VI lands after their I–V findings are filed. §0 says so in the first paragraph.
+
+**TWO — THE PACKET'S HEADLINE CLAIM WAS FALSE AND DIED IN THE CHECK, NOT IN THE READ.** §4 was
+drafted as *"75 queue rows, 23 gauges, zero rows scoped to the argument of a Book VI chapter"* — the
+`PACKET-002` §4 null space with a number on it at last. **It is wrong.** The queue holds **83 rows**
+(84 with R-85), R-1…R-84, and **four are scoped to Book VI prose**: R-75/76/77 (the
+`aperture`/`keyhole`/`bottleneck` retirements breached twenty times across VI.1, VI.3, VI.5 — one
+occurrence inside **C11's own formulation**) and R-78 (the recap ladder, three rungs to five).
+
+**THREE — R-85, AND IT IS R-80's DEFECT CLASS ONE LEVEL UP.** `row_promotion_sweep.py` — built after
+`PACKET-002` caught ten unpromoted rows, precisely so this would not recur — matches `| **R-n** |`
+and `### R-n`. **Every row filed since R-72 uses a third format, `**FILED — R-n**`.** So it reported
+74 rows, **nine FILED-BUT-NEVER-ROWED**, and **one permanent HOLE at R-82**. All ten exist.
+★★ **A broken run is shaped exactly like the tool's strongest finding** — its whole output vocabulary
+is *filed but never rowed*, so a stale pattern emits nine citations-attached catches into the step
+that most wants one. **Nine rows were minutes from being re-promoted as duplicates** into the file
+whose charter is that it cannot certify its own coverage. And the real gap in the series is **R-24**,
+undocumented, which the sweep did not report — while **R-44**, the hole the project knows about, has
+a row saying so and therefore counts as present.
+
+**FOUR — THE PART THAT IS ABOUT ME.** I ran my own grep before the gauge, got **73** against its 74,
+and read the near-agreement as corroboration. **My grep used the same two patterns.** The independent
+check reproduced the instrument's blind spot exactly and then certified it. The question that would
+have caught it — *how many distinct ways does a row begin in this file?* — is one line and never
+occurred to me, because it only occurs to someone who does not already know the answer. **Three:
+59 table · 15 heading · 17 FILED. None declared.** This is
+`feedback_grep_derived_from_the_finding` at full strength, and it is the first instance where the
+reflection came back with a *different* number and the small disagreement made it more convincing.
+⚠ **Four counts for the queue's size were in circulation tonight — 74 (gauge), 75 (packet draft), 76
+(this log at VI.8), 80 (handoff). The true one, 83, was in none of them.**
+
+**FIVE — `PRE-REG-003`'s P4 WAS BUILT ON THE FALSE COUNT AND IS STRUCK AND REPLACED, PRE-READ,
+IN THE FILE, WITH THE ORIGINAL PRESERVED.** Corrected roughly forty minutes after filing and before
+the reviewer opened anything. **A pre-registration that quietly repairs itself is not one.** The
+replacement is narrower and harder: all four Book VI prose rows are about **words and repetition**,
+none about whether an argument holds — so the prediction now requires **at least one finding that
+names a specific inference in a specific chapter that does not follow**, with vocabulary, repetition,
+sourcing and grade findings explicitly excluded from that clause. ⚠ Second hatch named too: having
+just been caught miscounting, I could grade any finding as "the kind no row is" and score a hit. The
+test is external for that reason.
+
+**CHAPTERS-DRAFTED: 53/67** · **CLAIMS: C1…C30** · **RULINGS: 170** · **QUEUE: 84 rows** ·
+**TOOLS: 23.** Book VI out for review; Book VII 2/9; next prose is **VII.3 — THE FLOOR.**

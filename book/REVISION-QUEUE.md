@@ -1352,3 +1352,44 @@ under-credited every receipt written from the retrofit onward, and it was found 
 before that retrofit begins.** The fix also widens the tool's standing LIMIT — it cannot tell a cited
 authority from a name that merely appears, and it now cannot tell across a longer window. Recorded in
 the docstring rather than left for the next reader to rediscover. done
+
+---
+
+**FILED — R-85: `row_promotion_sweep.py` READS TWO OF THE THREE ROW FORMATS IN THIS FILE, AND ITS
+FAILURE IS SHAPED EXACTLY LIKE ITS HEADLINE FINDING.** The gauge written after `PACKET-002` caught
+ten unpromoted rows detects a row by `| **R-n** |` (table) and `### R-n` (heading). **Every row filed
+since R-72 uses a third format — `**FILED — R-n: …**` — and the tool cannot see it.**
+
+★★ **Measured Day 190 during `PACKET-003` assembly.** The sweep reported **74 rows**, *"9 FILED BUT
+NEVER ROWED"* (R-75, R-76, R-77, R-78, R-79, R-80, R-81, R-83, R-84) and *"1 HOLE — R-82, nothing
+anywhere ever filed it."* **All ten of those rows are in this file, with row heads, in the format the
+tool does not match.** True count: **83 rows, R-1…R-84.** The one genuine gap in the series is
+**R-24**, which the sweep did not report and which nothing anywhere documents — while **R-44, the
+hole the project does know about, has a row saying so and is therefore counted present.**
+
+⚠⚠ **THE DEFECT CLASS IS R-80's, ONE LEVEL UP: A BROKEN RUN LOOKS LIKE THE STRONGEST FINDING THE TOOL
+HAS EVER PRODUCED.** This gauge's entire output vocabulary is *filed but never rowed*. When its
+pattern goes stale, what it emits is *filed but never rowed* — nine times, with file citations
+attached, arriving in the packet-assembly step that most wants a catch. **Nine rows were minutes from
+being re-promoted as duplicates into the file whose charter is that it cannot certify its own
+coverage.**
+
+★★ **AND THE PART THAT IS ABOUT ME AND NOT THE TOOL.** Before running the gauge I ran my own grep to
+count the rows, got **73**, and treated the near-agreement as corroboration. **My grep used the same
+two patterns.** I derived the check from the tool's convention instead of from the file, so an
+independent measurement reproduced the instrument's blind spot exactly and then certified it. The
+count that would have caught this — *how many distinct ways does a row begin in this file?* — is one
+line of Python and was never asked, because the question only occurs to someone who does not already
+know the answer. **59 table · 15 heading · 17 `FILED` — three conventions, accreted, none declared.**
+
+✅ **Repair, three parts.** (a) The matcher takes all three forms, and **prints its per-format counts
+every run** so a fourth convention shows up as a format with a suspicious zero rather than as a
+finding. (b) **A positive control**: the tool asserts a known-present row (R-1) resolves before it is
+allowed to report any absence — R-80's rule, applied to the gauge that reports absences for a living.
+(c) **Declare the row-head convention in this file's header** and stop the accretion at three.
+⛔ **Do NOT close R-24 by inventing a row for it.** An undocumented hole and a documented one are
+different objects; the sweep must learn to say which it found.
+
+**TRIGGER: before `row_promotion_sweep.py` is cited in another packet — it has been run exactly twice
+in its life, both times during packet assembly, and it was wrong the second time.** small (the
+matcher) + small (the control) — and the class it belongs to is not small.
