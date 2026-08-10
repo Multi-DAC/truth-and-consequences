@@ -3656,10 +3656,72 @@ here against `ancestor_gap`'s canonical 14** — the methods differ. ★ **So on
 the zeros are zeros, and the magnitudes are not this file's to quote.**
 
 ### VII.3 — THE FLOOR
-**Beats:** co-constitutivism — norms that bind from everywhere that navigates · through and over: the
-distinction the whole ethics turns on · the argument in five steps, in plain words · **and its exact
-limit, stated by us**: it secures the norm's validity, not its motivational grip. One who follows it
-and shrugs is shown inconsistent, not refuted.
+⚠ **BRIEF AMENDED Day 190 by its own pre-draft screen — eleventh consecutive chapter. It was six
+lines with `Source` and `Named` both missing, and `brief_fields` had flagged it THIN AND UNDRAFTED:
+*"a short brief with holes is the one that costs, because the drafter fills a hole from memory and
+the memory is the thing being audited."* Three findings below, and the first is the largest thing the
+screen has produced in this book, because it is in `07` rather than in a beat.**
+
+**Source:** `Perspective` **05-polarity-ethics-metaethics** §*Co-constitutivism: the spine* (lines
+31–53) + §*The ethics of attention* (57–59). ✅ RESOLVED — read, not recalled; the five-step argument,
+both limits, the two prisons and the formation case are all on the page there.
+
+**Beats:** co-constitutivism — norms that bind from everywhere that navigates, **because they concern
+what navigation *is*** · through and over: the distinction the whole ethics turns on · the argument
+in five steps, in plain words · ★ **NEW — the grounding predicate is not a gate** (C8): *navigates*
+names where the stake comes from, not who qualifies for protection; the stake is graded exactly as
+the focusing is, so the floor has no threshold and this chapter must say so before a reader arriving
+from Book IV's census reads its title as one · **and its limits — PLURAL, stated by us:** (1) it
+secures the norm's validity, not its motivational grip — one who follows it and shrugs is shown
+inconsistent, not refuted; ★ **(2) NEW — the impartiality premise is WAGERED, not derived.** Against
+the indexical egoist, who claims no privileged standpoint and only weights his own index, the step
+from *I am co-constituted* to *I owe others the standing I claim* is an added premise. Nagel's
+pressure and Darwall's second-person address make the wager reasonable; **neither closes the gap, and
+the book files the bet in daylight rather than smuggling it** · the two prisons (Halden, Bastøy) as
+the cut a keel-thin ethics can still make · the formation case — *the line is a gradient and not a
+gate* · the candour: a floor, not a code.
+
+**Named:** ★ **Korsgaard** — the *shmagent* objection, and what the **co-** adds that her solitary
+legislator cannot supply (corpus 14 · book **5, all in VII.2, and `shmagent` 0**) · ★ **Darwall** —
+the second-person standpoint (corpus 6 · book **0**) · **Nagel** — the view from nowhere as
+*pressure*, not proof (corpus 95 · book 8, none in Book VII's ethics) · ★★ **Ubuntu** — *a person is
+a person through other persons*, which is beat 1 already stated as an ethics by a living tradition
+(corpus **114** · book **0**) · ★ **Levinas** — the strongest rival account of where bindingness
+comes from, and he grounds it in the one thing this book cannot use, the asymmetric priority of the
+Other (corpus 61 · book **0**) · **Aquinas** — the locked angelic will, already in V.1–V.3.
+
+*Corpus screen receipt (R-80(c)):* `C:\Users\mercu\clawd\repo-staging\Corpus-Perspectival` @
+`8dcc440f` · 3,069 .md/.txt · controls `consciousness=916 perspective=857 Ground=1273
+the-focusing=9`.
+
+⛔ **FINDING 1 — 156(d), AND IT IS `07` THAT IS WRONG, NOT A BEAT. C18's CANONICAL TEXT STATES ONE
+LIMIT; THE SOURCE STATES TWO; AND THE MISSING ONE IS C18's OWN DECLARED TRAP, PERFORMED IN THE ROW
+THAT DECLARES IT.** C18 reads: *"It secures the norm's validity, not its motivational grip."* Full
+stop. The source's §Co-constitutivism spends a paragraph on a **second** admission — impartiality is
+underivable, *"not a theorem-corollary; it is an added premise,"* filed *"in the open, as the wager
+it is."* **C18's Trap is the quiet upgrade: *"the risk is that a later chapter needs more grip than
+the floor supplies and takes it without saying so."*** It is written pointing at VIII.6. ★ **But the
+upgrade has already happened, upstream, in C18 itself — a floor stated without its wager reads as
+derived, and every one of C18's four dependants inherits the stronger floor.** ⚠ **`impartiality`
+occurs ZERO times in 53 drafted chapters; `constitutivism` zero in chapter prose.** The register did
+not lose the premise — the book has never once printed it. **C18's canonical line is owed the second
+clause before VII.3 ships**, because VII.3 is C18's `Establishes` and a chapter cannot honestly
+establish a claim its register states too strongly.
+
+⚠ **FINDING 2 — C7 AND C8 LIST VII.3 IN `Depends` AND NO BEAT CARRIED EITHER; C8 IS THE LIVE ONE.**
+C8: *"There is no threshold, no gate, and no elect."* VII.2 has already shipped that sentence in
+prose (`VII-02`:213) and added *"There is no line to draw"* (:234). **VII.3's title is THE FLOOR and
+its scope phrase is *everywhere that navigates* — a gate-shaped word in a chapter whose dependants
+forbid gates.** The source resolves it and the brief did not carry the resolution: *navigates* is a
+**grounding** predicate (*what every navigator has a stake in simply by being one*), not an
+**entry** predicate, and FLOOR means **thin — *a floor, not a code*, thin as a keel** — not
+*minimum grade admitted*. **Both jobs were being done by one word.** New beat above. *(This is not
+R-32 — that seam is SETTLED and is not re-opened here.)*
+
+⚠ **FINDING 3 — THE LOAD-BEARING WORD OF THE ENTIRE ETHICS IS UNDEFINED. `navigate` occurs 43 times
+across the drafted book and does NOT appear in `05-THE-LEXICON.md`.** Filed as **R-97** — book-wide,
+not VII.3's to fix, but VII.3 is where the cost lands, because it is the chapter that makes the word
+decide something.
 
 ### VII.4 — THE TWO EVILS
 **Beats:** radiant and contractive as symmetric dynamics · the contractive terminal doctrine — *I am the

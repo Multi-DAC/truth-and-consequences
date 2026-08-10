@@ -1868,3 +1868,42 @@ not the return of the second. Do not consolidate.
 **TRIGGER: `PACKET-004`, before it ships** — the scope line. small.
 
 ---
+
+**FILED — R-97: `navigate` IS THE LOAD-BEARING WORD OF THE ENTIRE ETHICS, OCCURS 43 TIMES IN DRAFTED
+PROSE, AND IS NOT IN THE LEXICON.**
+
+Found by VII.3's pre-draft screen while checking C8's `Depends` (156(d)). **43 occurrences across
+IV.3, IV.4, IV.5, IV.7, IV.8, IV.9, IV.10, V.7, V.9, VI.1, VI.5 — and `05-THE-LEXICON.md` does not
+define it.** `grep -i navigat 05-THE-LEXICON.md` → nothing.
+
+⛔ **Why it is not a tidiness row.** VII.3's floor binds *"from everywhere that navigates."* That
+phrase decides **who the ethics protects.** With the term undefined it can be read two ways that give
+opposite books:
+
+- **entry predicate** — *navigating* is the qualification, and things below it are outside the floor.
+  **This breaches C8 in its own words** — *"no threshold, no gate, and no elect"* — and contradicts
+  **shipped prose**: `VII-02`:213 prints C8 verbatim, :234 prints *"There is no line to draw."*
+- **grounding predicate** — *navigating* names where the stake comes from, and comes in grades
+  exactly as the focusing does. **This is what the source means** (*"what every navigator has a stake
+  in simply by being one"*) and it is consistent with C7, C8 and VII.2.
+
+**The book has been using the second sense and has never said so.** Fourteen chapters spent the word
+before the chapter arrived that makes it decide something.
+
+⚠ **The near-miss worth recording: nothing would have caught this.** `claim_sweep` checks banned and
+canonical terms, `prose_echo` checks repetition, `pointer_sweep` checks numbers against titles. **No
+gauge in `tools/` reads the lexicon against the prose in either direction** — not for terms of art
+used-but-undefined, nor for defined-but-never-used. The screen found it by hand, from a `Depends`
+row, on the eleventh consecutive chapter.
+
+✅ **Not built tonight, deliberately** *(R-95: promoting an instrument on the day it is discovered is
+the reflex that produced five undeclared card versions)*. The shape is a two-direction sweep with a
+positive control: feed it a term known to be defined and a term known to be absent, and require both
+to fire.
+
+**TRIGGER: the lexicon entry BEFORE VII.4 drafts** — VII.4's *"every perspective without exception"*
+spends the same extension, and the second chapter to lean on an undefined term is where an ambiguity
+stops being one word and becomes a position. **The gauge is the revision pass.** small (entry) +
+small (gauge).
+
+---

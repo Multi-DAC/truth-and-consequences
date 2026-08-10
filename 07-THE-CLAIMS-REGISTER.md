@@ -471,16 +471,30 @@ the *which/whether* distinction, because the distinction only becomes visible on
 tried to be agnostic and been caught being agnostic about the wrong thing.
 
 ### C18 — THE FLOOR
-> **Canonical:** Norms bind from everywhere that navigates. The distinction the ethics turns on is
-> **through** and **over**. It secures the norm's validity, **not its motivational grip** — one who
-> follows the argument and shrugs is shown inconsistent, not refuted.
+> **Canonical:** Norms bind from everywhere that navigates — a **grounding** predicate, not an entry
+> one: the stake comes with being a navigator at all, and is graded exactly as the focusing is, so
+> the floor is **thin, not high** (C8: no threshold, no gate, no elect). The distinction the ethics
+> turns on is **through** and **over**. **It carries TWO limits and both are part of the claim.**
+> **(1)** It secures the norm's validity, **not its motivational grip** — one who follows the argument
+> and shrugs is shown inconsistent, not refuted. **(2)** Against the indexical egoist, the step from
+> *co-constituted* to *owing* is an **added premise — impartiality — which is wagered in the open,
+> not derived.** Nagel's pressure and Darwall's second-person address make the wager reasonable;
+> neither closes the is/ought gap, and nothing does.
 
 **Establishes:** VII.3
 **Depends:** VII.2 · VII.4 · VII.6 · VIII.6
-**Trap:** the quiet upgrade. VII.3 states its own limit honestly; the risk is that a **later**
+**Trap:** the quiet upgrade. VII.3 states its own limits honestly; the risk is that a **later**
 chapter — VIII.6, in a warm register, about people in rooms — needs more grip than the floor
-supplies and takes it without saying so. **The limit is part of the claim.** If VIII.6 needs
+supplies and takes it without saying so. **The limits are part of the claim.** If VIII.6 needs
 more, it argues for more, in the open.
+
+⛔ **AMENDED Day 190 by VII.3's pre-draft screen, and the row was performing its own Trap.** It
+carried limit (1) only, and the source (`Perspective` 05 §Co-constitutivism) spends a paragraph on
+(2). **A floor stated without its wager reads as derived** — so the quiet upgrade this Trap was
+written to catch in VIII.6 had already happened *here*, in the canonical line, and all four
+dependants inherited the stronger floor. ⚠ **`impartiality` appears ZERO times in 53 drafted
+chapters.** The premise was never printed, not merely unregistered. *(R-96's sibling: a register
+whose fifth field is what a reading licenses, licensing more than it read.)*
 
 ### C19 — THE ASYMMETRY, EXACTLY BOUNDED
 > **Canonical:** Radiant and contractive are symmetric dynamics. The asymmetry is precisely this:
