@@ -4262,7 +4262,20 @@ cannot see or the model you are seeing with.** · ⛔ **`blind spot` = 11, all i
 VI.8's and the retinal analogy goes with it. · **Dunning** = 0 and stays 0: the competence framing is a
 different claim and importing it would put an empirical dispute under a structural one.
 
-### VIII.3 — EDITING
+### VIII.3 — EDITING ✅ DRAFTED — 6,048 words
+✅ **DRAFTED Day 191 · `book/VIII-03-editing.md`.** All four beats 1.00, card v3-canon 6 fields,
+`instrument_sweep` PASS. **R-116 PAID** — Class VIII is the chapter's census card, not a mention, and
+its failure mode is the first in the series that is not a defect of perception: **exact about what it
+did and blind to whether it worked**, an open loop whose verification runs through the first-person
+instrument VIII.2 carded as losing its warrant at exactly `why`. **Class VII named and priced.** The
+C10 × C12 firewall is in the body twice. ⛔⛔ **AND THE DRAFT SHIPPED 21 OCCURRENCES OF `aperture` —
+a term `05` §3 RETIRED and `05` rule 5 names by name** — four days after R-101 recorded that *the
+party proposing to readmit it is the drafter who wrote the seventeen*, and that VII.4 was drafted
+without it. `claim_sweep` fired on every one; the hits went into a 124-line book-wide report and were
+found by grepping it for this chapter's filename, which is a discipline and not a gauge. **All 25
+retired-term hits repaired; → R-118, a per-chapter delta arm for `claim_sweep`, trigger before
+VIII.4.** ★ A retired term does not present as a violation at the keyboard. It presents as *the right
+word*, because aptness is why it was retired.
 **Beats:** ritual as tunnel-engineering, made ordinary · attention as the only lever that reliably moves ·
 what actually changes a filter and what only feels like it does · the traditions' techniques, stripped of
 their cosmologies and named as the mechanics they are.

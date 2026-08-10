@@ -10024,3 +10024,74 @@ in one register appears in the other. **TRIGGER: before R-2 starts.** small.
 Day 191 carried a ~19% artifact rate**, and screens are what the last twelve chapters' spines came
 out of. The clean-run delta is now the baseline; **any echo finding cited in a brief and not
 reproducible against the 62-chapter corpus was noise.** medium.
+
+---
+
+**VIII.3 — EDITING · DRAFTED Day 191 · `book/VIII-03-editing.md` · 6,048 words.**
+
+All four beats at 1.00 (`beat_delivery`), card **v3-canon** 6 fields, `instrument_sweep` PASS,
+`pointer_title_check` PASS. **63/67, 229,997 words.**
+
+**R-116 PAID.** Class VIII — Instrument-Assisted Navigation — is in prose, and not as a mention: it
+is the chapter's **census card**. `TMS`, `neurofeedback`, `temporal interference`, `Default Mode`,
+`psychedelic` were all **0 in drafted prose** before this chapter and are all load-bearing in it.
+The card's failure mode is the sixth the census has kept separate and the first that is **not a
+defect of perception**: Class VIII is *exact about what it did and blind to whether it worked* — the
+input is instrumented (current, waveform, EEG) and the output is not, so its verification runs
+through the first-person instrument the **previous** chapter carded as losing its warrant at exactly
+`why`. **An open loop.** The five before it can each be improved by a better instrument; this one
+cannot, because the missing half is not a bad instrument, it is an absent one.
+
+**Class VII named and priced** rather than quietly dropped — *"Practice: none prescribable"* printed,
+with the cost of looking incomplete paid on purpose. A practice chapter that trims the taxonomy to the
+part that yields instructions is doing the tidy thing Book V attacks, and the omission would have been
+undetectable, which is what made it worth refusing.
+
+**The C10 × C12 firewall is in the body, twice** — as the chapter's opening constraint and as its own
+section — per `07:869` and C12's trap note. The screen's procedure (installed at V.7: *before
+drafting, check `07` for a job assigned to this chapter that its beats do not carry*) fired on a real
+one and this is its second firing.
+
+⛔⛔ **THE FINDING, AND IT IS AGAINST THE DRAFTER: I PUT 21 OCCURRENCES OF A RETIRED TERM INTO THE
+CHAPTER MOST LIKELY TO WANT IT, FOUR DAYS AFTER RECORDING THAT I MUST NOT.**
+
+`aperture` was **DEMOTED** by `05` §3 (*"three names, one thing… the term is the Perspective"*) and is
+named in `05` rule 5 — *"a future editor must not restore a retired term… each will look like a
+harmless technical improvement to someone who has not read the argument."* The first draft of this
+chapter carried **21**, the largest single load in the manuscript by a factor of two over VII.3's ten.
+Plus **3 `substrate`** and **1 `map`**, both also retired.
+
+★ **AND THE RECORD ALREADY CONTAINED THE EXACT REFUSAL, IN MY OWN WORDS, FROM R-101:** *"There is a
+real argument for readmitting it — `perspective` carries four jobs by VII.3 and the ethics needs a
+second noun. **The party proposing that repair is the drafter who wrote the seventeen.** Recorded,
+dated, and left to the revision pass or to a reader who did not write them. **VII.4 was drafted
+without the word** — 0 occurrences — which is the only part the drafter gets to decide tonight."*
+I drafted VII.4 clean and then wrote 21 into VIII.3, and **at no point during drafting did it feel
+like a decision.** It felt like the correct technical noun, which is precisely the failure mode `05`
+rule 5 describes in advance, verbatim.
+
+⚠ **WHY IT WAS NOT CAUGHT BY THE THING BUILT TO CATCH IT — R-101 AGAIN, UNPAID.** `claim_sweep` has a
+`TERM/aperture` rule. **It fired on every one of them, immediately, in a 124-line USE-class report that
+is skimmed rather than read.** R-101 filed exactly this: *"a rule that fires into an unread report is
+functionally identical to one that does not exist, and it is more dangerous, because the register can
+point at it and say the word is gauged."* The rule worked. The report was the failure. **It was only
+found because the drafter ran `claim_sweep` and grepped its output for the chapter's own filename** —
+an act of discipline, not a gauge, and therefore not repeatable.
+
+→ **R-118: `claim_sweep` needs a per-chapter delta arm.** *What did THIS chapter add?* A 124-line
+book-wide report cannot tell a drafter that their new file contributed 25 of the hits. The count that
+matters at drafting time is the diff, and the tool only prints the total. **small, and it is the
+whole difference between R-101 being filed and R-101 being paid.** TRIGGER: before VIII.4.
+
+**Repaired in place, all 25**, to `restriction` (the mechanism sense) and `perspective` (the thing
+sense), with `map` → `range` and `substrate` → `nervous tissue`. **The one surviving `substrate` is in
+footnote [^7], quoting the source and adjudicating the term in the open** — the anatomical sense is
+arguably a different word from the retired cosmological one, **and that argument is not made here,
+because the party who would benefit from making it is the drafter who wanted the word.** Left to the
+revision pass. Same ruling as R-101's, applied to myself a second time, on purpose.
+
+★ **THE GENERALISABLE PART:** a retired term does not present as a violation at the keyboard. It
+presents as *the right word*, because it was retired for being apt. **Every one of `05` rule 5's five
+retired terms is a word that fits**, which is why the rule exists and why it has now failed twice at
+the same site. The gauge is not the problem. **The delivery of the gauge's output at the moment of
+writing is the problem**, and that is a different repair from a better pattern.
