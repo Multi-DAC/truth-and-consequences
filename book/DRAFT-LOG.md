@@ -9067,5 +9067,80 @@ sourcing and grade findings explicitly excluded from that clause. ⚠ Second hat
 just been caught miscounting, I could grade any finding as "the kind no row is" and score a hit. The
 test is external for that reason.
 
-**CHAPTERS-DRAFTED: 53/67** · **CLAIMS: C1…C30** · **RULINGS: 170** · **QUEUE: 84 rows** ·
-**TOOLS: 23.** Book VI out for review; Book VII 2/9; next prose is **VII.3 — THE FLOOR.**
+**CHAPTERS-DRAFTED: 54/67** · **CLAIMS: C1…C30** · **RULINGS: 170** · **QUEUE: 86 rows** ·
+**TOOLS: 23.** Book VII 3/9; next prose is **VII.4 — THE TWO EVILS.**
+
+⚠ **The queue figure is 84 + R-96 + R-97 — an inherited base plus a delta, NOT a re-measurement.**
+A direct count tonight returned **78**, and the gap is R-85: the matcher reads two of three row
+heading formats, so rows in the DISCHARGED and MARKED sections fall out of it. **Neither 78 nor 86
+is sourced to an instrument that can certify itself**, and the number is written this way rather
+than picked, so the next reader inherits the uncertainty instead of the confidence.
+
+---
+
+## DAY 190 — VII.3, THE FLOOR
+
+**`book/VII-03-the-floor.md` · 5,540 words · 54/67 · 183,182 words.** The screen's findings live in
+`06`'s VII.3 entry and in `07`'s C18; what follows is the log's half.
+
+**ELEVENTH CONSECUTIVE CHAPTER OUT-FOUND BY ITS OWN PRE-DRAFT SCREEN, AND FOR THE FIRST TIME THE
+DEFECT WAS IN `07` RATHER THAN IN A BEAT.** 156(d) fired a sixth time. It has been right six times.
+
+**The finding.** C18's canonical line stated **one** limit — validity, not motivational grip. The
+source states **two**. The second is that the step from *co-constituted* to *owing* is an added
+premise, impartiality, which is **underivable and filed in the open as a wager**. ⛔ **And C18's own
+`Trap` is the quiet upgrade** — *"the risk is that a later chapter needs more grip than the floor
+supplies and takes it without saying so"* — written pointing at VIII.6. ★ **The upgrade had already
+happened, upstream, in the Trap's own row.** A floor stated without its wager reads as derived, and
+all four dependants inherited the stronger floor. `impartiality` occurred **zero** times in 53
+drafted chapters: the premise was never printed, not merely unregistered.
+
+**The second finding is the one a gauge will never get.** C7 and C8 both list VII.3 in `Depends` and
+no beat carried either. C8 forbids gates in its own words; VII.2 had already shipped *"there is no
+line to draw"*; and this chapter is **titled THE FLOOR** and scopes on *everywhere that navigates*.
+**Two words, both gate-shaped, in the chapter whose dependants forbid gates.** The resolution — a
+*grounding* predicate is not an *entry* predicate, and FLOOR means thin rather than high — is in the
+source and was not in the brief. The chapter now spends its first section on it, before the argument,
+because a reader arriving from Book IV's census will hear the other meaning first.
+
+★ **The near-miss worth keeping: the brief was SIX LINES with `Source` and `Named` both empty, and
+`brief_fields` had already printed the exact hazard** — *"a short brief with holes is the one that
+costs, because the drafter fills a hole from memory and the memory is the thing being audited."* Both
+findings came from filling the holes. Neither came from the beats.
+
+**R-97 filed:** `navigate` occurs 43 times in drafted prose and is **not in `05-THE-LEXICON.md`**. The
+load-bearing word of the entire ethics, undefined, for fourteen chapters before the chapter arrived
+that makes it decide something. **No gauge in `tools/` reads the lexicon against the prose in either
+direction.** Not built tonight, on R-95's precedent. Trigger: before VII.4.
+
+**VII.3 IS THE FIRST v3-CANONICAL CARD IN THE BOOK, AND THE THREE FORWARD BINDINGS ALL HELD ON THEIR
+FIRST LIVE RUN.** `instrument_sweep` PASS: `v3-canon · 6 fields · mech=FULL`, no ordinal, no corpus
+count. Thirty-three cards now stand in five forms; this is the only one in the ruled form, which is
+what *binds forward only* looks like on the day it starts. **Subject: the indexical egoist** — carded
+rather than the framework's own position, because he is the opponent the theorem does not touch and
+the card's `Mechanism of the exclusion` is where the second limit gets its teeth (*it identifies
+mattering with mattering-to-me, and the conversion happens below the level where he could notice it*).
+
+**Ancestors paid, all from a read rather than a recall:** Korsgaard's solitary legislator and Enoch's
+*shmagent* (what the **co-** adds); Nagel as *pressure* and not arrival; **Darwall's second-person
+standpoint, and the endnote states plainly that if his stronger claim succeeds this chapter is wrong
+in the direction of excessive caution**; **ubuntu**, with the credit given in the body and not in a
+footnote, because the tradition held the position long before the framework had an argument for it;
+**Levinas as the strongest rival**, and the comparison written in the direction that costs — *his
+account delivers more grip than this one, and this one can say where its grip comes from.*
+
+**Post-draft, all green or explained:** `instrument_sweep` **PASS** · `beat_delivery` 7 beats, **0
+under the reporting floor** · `endnote_debt` VII.3 **square (4/4)**, Book VII 13/13 · `order_sweep`
+PASS VI.8→VII · `prose_echo` **one real hit, fixed** — the C8 endnote had reproduced VII.2's note
+phrasing verbatim (4 grams), rewritten to *point* at it instead, which is the VII.1 precedent exactly;
+the remaining VII.3 grams are C8's canonical text and a book title, both designed returns ·
+`claim_sweep` no new stock opener · `card_sweep` — see `instrument_sweep`, which supersedes it
+structurally.
+
+⚠ **Left open, declared:** the Halden/Bastøy endnote states in its own text that the cross-national
+recidivism comparison is weaker than it is usually made to look, and rests the claim on the
+structural argument rather than the figures. That is a hedge in a place the book normally forbids
+hedging, and it is deliberate: the alternative was a number this project cannot source to a
+consistent definition of reoffence.
+
+**CHAPTERS-DRAFTED: 54/67** — the declared slot. Book VII 3/9; thirteen chapters left.
