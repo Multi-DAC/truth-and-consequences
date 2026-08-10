@@ -10570,3 +10570,85 @@ the note so the difference is visible instead of latent.
 ⚠ **Residual:** II.7 still shows one owed name, `Certification` — a sentence-initial common noun,
 the known filter class. Not chased; **R-74 says the filter repair runs at the END of the retrofit,
 off the labelled set the retrofit produces**, not off a guess made mid-pass.
+
+---
+
+## Day 191 — R-2, BOOK III CLOSED: ALL EIGHT CHAPTERS PAID
+
+**Book III is 8/8 — 46 notes.** `endnote_debt` across the day: receipts **68/139 → 90/140**, debt
+**71 → 50**, notes written **194 → 258**. Books II and III are now both complete; **only III.3's
+`Plenitude` remains flagged and it is the sentence-initial common-noun class, left for R-74's
+end-of-retrofit filter repair rather than chased now.**
+
+**R-110's mandatory step, run again and recorded.** `edition_scheme_sweep` after Book III's notes:
+**exposed pairs 22 → 33** (10 before the retrofit began), distinct cited works 527 → 563, coverage
+bound 4.2% → **5.9%**. Every one of the eleven new pairs is a locus that did not exist to be checked
+this morning. **R-110 said the retrofit CREATES this population and the number has now moved three
+times in one day, in the direction it predicted.**
+
+### ★ THREE PROSE CORRECTIONS, AND ALL THREE ARE THE SAME MECHANISM
+
+1. **II.6** dated *as above, so below* fifteen centuries before Spinoza — the *Corpus Hermeticum*'s
+   date, for a line the *Corpus Hermeticum* does not contain.
+2. **III.8** said Black's harder half stands *one page before* the chess passage. It is one page
+   **after** — pp. 289–290 against 288–289 — and the order is what the paragraph's argument turns
+   on.
+3. **III.7** carried a claim about the 1912 *Campos de Castilla* that contradicted the draft log,
+   and **the prose was right and the log was wrong**: ruling 93's "`Proverbios y cantares` = 0 hits"
+   was a false zero. The scan sets the title in unaccented capitals; a lowercase query missed a
+   heading plainly on the page. Re-run: the series is there, ends at XXVII, and *no hay camino*
+   genuinely returns nothing.
+
+**The shared shape: none of the three was checkable before a citation existed.** Each was carried by
+an adjective, a preposition or a search string — *Hermetic*, *before*, a lowercase query — and an
+adjective has no locus to audit. ★ **And #3 is the sharper one: a null nobody re-runs is
+indistinguishable from a finding.** [[a-zero-needs-a-positive-control]] arriving inside my own log.
+
+### ★★ TRANSLATION IDENTITY IS THE DAY'S LARGEST FINDING, AND IT IS THREE CHAPTERS WIDE
+
+**III.3 (Borges), III.5 (Bruno), and II.8 (the *Gospel of Truth*) each depend on WHICH English is
+being quoted, and in each case the standard modern edition would make the chapter look sloppy.**
+
+- **Borges:** the chapter is on Irby's *Labyrinths* throughout. Hurley's *Collected Fictions* has
+  *ab æternitate* / *demiurges* / *unattainable* / *pointless* / *pages* where the chapter has *ab
+  aeterno* / *demiurgi* / *inaccessible* / *useless* / *leaves*. Both pulled and diffed.
+- **Bruno:** the chapter is on Lindsay 1962; de Lucca's Cambridge 1998 diverges at every joint of the
+  quoted passage. de Lucca pulled and diffed. ⚠ The Lindsay attribution is **inferred from the
+  divergence pattern and idiom, not checked against a copy** — stated in the note at that grade.
+- ***Gospel of Truth*:** both spans verified to be **the same** translation (Grant) rather than
+  assumed. Two English versions of one Coptic text in one chapter would have made a translator's
+  vocabulary shift read as a shift in the source.
+
+### The unmarked-compression class, four instances, all recorded rather than repaired
+
+III.1 prints Irenaeus's *productive power* and glosses *of Achamoth* away outside the italics · the
+*Apocryphon* quote drops Wisse's *he had not approved* · the *Ācārāṅga* quotation strips Jacobi's
+parentheses in three places, **turning the translator's supplements into the text — in the chapter
+that, one note earlier, is careful to say a parenthesis is the translator's** · Huizinga's
+subordinate clause is capitalised as a sentence. **None changes a meaning. All four are the route by
+which a paraphrase acquires a quotation's authority**, which is [[quotation-check-the-span]] at the
+apparatus level rather than the argument level.
+
+### ★ AND ONE QUOTATION RUN DOWN THAT THE REFERENCE WORKS SAY CANNOT BE
+
+Schweitzer's *"the good conscience is an invention of the devil"* circulates almost entirely via
+Rachel Carson's *Silent Spring* (1962), p. 17, and attribution-tracking works list its source in
+Schweitzer's own writing as **unlocated**. **It is on p. 256 of *Civilization and Ethics***, in the
+section on the unresolved conflicts of reverence for life. ⚠ And his text reads *an invention of the
+**devil's*** — the possessive is his, and the popular version drops it, as did the chapter.
+
+### Grades declared rather than rounded up
+
+Wigner's retraction is **one witness reading the primary** (Esfeld), not a check of the Collected
+Works · the *Gospel of Truth* citations give the **codex page and not the line range**, not printed
+rather than guessed · III.6's Embodied Mind spans are **two-digitisation** except one, recorded as
+one-of-two · III.6's page numbers are read off **digitisation page markers, not a printed copy**,
+and say so · III.7's Machado quotes **only the two lines the two witnesses agree on**, with line 5
+left out on the record.
+
+★ **Gibson gets an edition note the whole book will need:** the chapter cites the 1979 first edition
+and the copy in circulation is Routledge's 2015 *Classic Edition*, which sets the affordances
+chapter **eight pages earlier throughout**. Both paginations printed; the constant offset was
+established by locating all four spans, not inferred from one.
+
+**Remaining: Books IV (10 chapters) and V (11).** Nothing about them is blocked.

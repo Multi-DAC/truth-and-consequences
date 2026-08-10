@@ -70,7 +70,7 @@ something you could have said plainly. His counter-view is that the metaphor's o
 whole system of implications with it, and that the system does work on the thing being described.
 One link upstream and he says so himself: the interaction he is describing he takes from **I. A.
 Richards**, *The Philosophy of Rhetoric*, 1936 — Richards' two ideas *active together* — and Black's
-contribution is to say what they are active *with*.
+contribution is to say what they are active *with*.[^1]
 
 His example is not a poem. It is this chapter's problem, arriving seventy years early:
 
@@ -78,7 +78,7 @@ His example is not a poem. It is this chapter's problem, arriving seventy years 
 > vocabulary of chess. These latter terms determine a system of implications, which will proceed to
 > control my description of the battle. The enforced choice of the chess vocabulary will lead some
 > aspects of the battle to be emphasized, others to be neglected, and all to be organized in a way
-> that would cause much more strain in other modes of description.
+> that would cause much more strain in other modes of description.[^2]
 
 *Control* is his word and it is the load-bearing one. Not *colour*, not *suggest*. The vocabulary is
 not a set of labels laid over a description that was going to happen anyway; it decides which
@@ -114,7 +114,7 @@ exist. It is close to being the definition, and the man who made it one was **Jo
 > sphere of activity with a disposition all of its own.
 
 > All play moves and has its being within a play-ground marked off beforehand either materially or
-> ideally, deliberately or as a matter of course.
+> ideally, deliberately or as a matter of course.[^4]
 
 He is right about every instance he had. The chess board has an edge, the pitch has a line painted
 round it, the ritual has a threshold you cross to enter, and inside that **bounded space** the rules
@@ -142,12 +142,12 @@ be brought into the open and made to answer.
 
 **The other half is not refusable, and it is the one place this frame genuinely strains.**
 
-Black saw it, one page before the passage everyone quotes, and put it in a subordinate clause:
+Black saw it, one page after the passage everyone quotes, and put it in a subordinate clause:
 
 > …the vocabulary of chess has its primary uses in a highly artificial setting, where all expression
 > of feeling is formally excluded: to describe a battle as if it were a game of chess is accordingly
 > to exclude, by the choice of language, all the more emotionally disturbing aspects of warfare.
-> (Similar by-products are not rare in philosophical uses of metaphor.)
+> (Similar by-products are not rare in philosophical uses of metaphor.)[^3]
 
 Read the mechanism in that: *by the choice of language*. Not by anything asserted. The game register
 excludes feeling the way a room excludes weather — not by ruling on it, by being indoors. Nobody
@@ -245,3 +245,40 @@ The frame is a lens. You have now been handed the lens and the list of what it d
 time and in the same voice, which is the only arrangement under which a reader can use one safely.
 
 What comes next takes the census: everything that has an inside, counted, one grade at a time.
+
+---
+
+## Notes
+
+[^1]: Max Black, "Metaphor," *Proceedings of the Aristotelian Society* 55 (1954–55), 273–294;
+reprinted in Black, *Models and Metaphors: Studies in Language and Philosophy* (Ithaca: Cornell
+University Press, 1962), ch. 3. Page references below are to the 1954–55 journal printing, which is
+what was checked. The upstream debt is Black's own and he states it: I. A. Richards, *The Philosophy
+of Rhetoric* (London: Oxford University Press, 1936), for the interaction view and for two ideas
+*active together*. The body's characterisation of Black's contribution — saying what they are
+active *with* — is this chapter's summary of his argument, not a phrase of his.
+
+[^2]: Black, "Metaphor," pp. 288–289; the quoted passage runs across the page break. It continues
+past where the body cuts it — "The chess vocabulary filters and transforms: it not only selects, it
+brings forward aspects of the battle that might not be seen at all through another medium" — and
+the continuation strengthens the body's point rather than qualifying it, which is stated here
+because a reader is entitled to know which direction a cut runs.
+
+[^3]: Black, "Metaphor," pp. 289–290, in the discussion of the shifts in attitude that follow from
+metaphorical language. ⚠ **The body used to say this passage stood *one page before* the chess
+passage; it is one page after, and the correction was made by looking.** The order matters to the
+body's argument — Black states the hazard and then, a page on, notices the harder half in a
+subordinate clause, which is the shape the chapter is pointing at. ⚠ A smaller variant, recorded
+rather than resolved: the 1954–55 printing consulted here reads *bye-products*, and the body
+prints the modern *by-products*, which is the form the 1962 reprint is generally quoted with. The
+reprint has not been opened for this note, so which spelling belongs to which printing is stated as
+an open question and not as a fact.
+
+[^4]: Johan Huizinga, *Homo Ludens*, first published in Dutch (Haarlem: Tjeenk Willink, 1938); both
+passages are from ch. 1, "Nature and Significance of Play as a Cultural Phenomenon," in the standard
+English translation. Verified word for word against that text. ⚠ In the original, the first
+quotation is a subordinate clause — *"…that play is not 'ordinary' or 'real' life"* — and is
+capitalised above as a freestanding sentence; nothing turns on it, and it is noted because the
+chapter's whole subject is what a quotation carries that its author did not put there. The body's
+claim that Huizinga *made* boundedness definitional is a claim about the book's influence, not
+about a sentence in it.
