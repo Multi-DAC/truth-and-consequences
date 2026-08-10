@@ -4390,7 +4390,8 @@ dichotomy of control are VIII.5's** (already 1 and 2 hits, both planning) and **
 in VI.5** (10 hits, the attention-economics passage) — so *satisficing* and bounded rationality are
 not available here without re-opening his bill.
 
-### VIII.5 — THE SECOND ARROW
+### VIII.5 — THE SECOND ARROW ✅ DRAFTED — 3,839 words
+✅ **DRAFTED Day 191 · `book/VIII-05-the-second-arrow.md`.** All four beats 1.00, card v3-canon 6 fields, `claim_sweep --chapter` **0**, zero echo pairs. ★★ **The screen's finding IS the chapter, and it is a subtraction: the distinction VII.5 established is real and is NOT AVAILABLE AT THE TIME.** The two arrows arrive as one sensation, the classifying instrument is the injured party, and asking the question is itself a pass around the loop. So the standard instruction requires exactly the classification the sufferer does not have — and the practice that is left is §5.4's four responses, every one of which is **performable without a diagnosis.** ★ Beat 3's discriminator made **behavioural** rather than introspective, on §2.4's own line, with three checkable questions, the last of which needs somebody who knew you before. ⛔ **Beat 2 delivered in its AMENDED form** — the cut is chosen-versus-imposed and *the imposed term is not on the contraction axis*; the chapter's own addition is that a teaching which bills the imposed to the chosen installs a shame arrow, which is the most common injury this tradition does. **Card = the clinical pain scale**, picked up from VII.5's own card (*'not the top of a scale that begins with a stubbed toe'*): an **eighth** mode, and the first in which the exclusion is not a defect but the **operating principle** — the compression is what makes it useful, so there is no better scale, only a second question. ★ **The chapter ends addressed to somebody other than its reader**, which no other chapter does: if social degradation is constitutive of affliction, the only reliable countermeasure is another person staying, and that is not an instruction the sufferer can carry out.
 **Beats:** the practice for the only arrow whose loop-gain is partly yours · the dichotomy of control read
 as chosen-versus-imposed · **the focusing as care**, and how to tell it from contraction as
 damage · what to do when it is malheur and there is nothing to do.
@@ -4406,6 +4407,44 @@ Sallatha Sutta, the two-arrow distinction, the aperture thermodynamics and the c
 two-arrow instrument.** This chapter is the **practice**, and its brief's first two beats are the
 doctrine VII.5 now holds. **Filed forward rather than discovered at the keyboard, which is R-100's
 whole point.**
+**Source:** **Guide §5.4 Being Acted Upon by the Invisible** (L410) — the genuinely unspent half of
+this chapter's material, with **four responses in order of depth**: *acknowledge the limitation* ·
+*develop sensitivity to indirect signals* (body, emotion, dream, impulse — sub-perspectives with
+**different** restrictions and therefore different exclusions) · *build navigational alliances* (the
+discomfort of genuine disagreement **is** the feeling of an exclusion being lit) · *accept irreducible
+mystery*. **+ §2.4's contraction material**, whose closing-end failure — *"the narrow channel feels
+like the only channel, and the being forgets that the wider landscape exists"* — is beat 3's
+**practical discriminator**. ⛔ **§6.4 is SPENT: VII.5 holds the two arrows, Frankl, Weil, malheur and
+suffering-fills-the-chamber.** ⛔ **§5.5 The Invisible Others is unusable: `egregore` is BANNED by
+ruling 109** and credited once in IV.5 only.
+★★ **PRE-DRAFT SCREEN, Day 191 — MEASURED, and the brief's warning understates it.** In VII.5:
+`second arrow` **7** of the book's 8 · `two arrows` **4** of 5 · `dichotomy of control` **2** of 2 ·
+`Epictetus` **1** of 1 · `Stoic` **3** of 3 · `affliction` **20** of 33. **The doctrine is entirely
+gone.** So the practice cannot be *learn the distinction and apply it* — that is VII.5 read twice.
+★ **THE JOB THAT IS LEFT, and it is the real one: THE DISTINCTION IS NOT AVAILABLE AT THE TIME.**
+VII.5 established that the two arrows are really two. It did not claim they are **separable in the
+moment**, and they are not — which makes the standard instruction (*receive the first, do not fire
+the second*) require exactly the classification the sufferer does not have. **This chapter's
+contribution is a practice that works WITHOUT the classification**, and §5.4's four responses are
+precisely that shape: every one of them is a move you make while still unable to see what is acting on
+you. ⛔ **Beat 3's discriminator must therefore be behavioural, not introspective** — a focusing that
+is care leaves the wider field intact and reversible; one that is damage makes the narrow channel feel
+like the only channel. §2.4 supplies the test and it is checkable from outside.
+**Named:** ★ **the clinical pain scale** — the 0-to-10 numeric rating — as the **census card**, and it
+is a designed pick-up rather than a fresh import: **VII.5's own card says its instrument's boundary
+*"is not the top of a scale that begins with a stubbed toe"*** and then does not card the scale. All
+**0** in prose: `pain scale`, `numeric rating`, `visual analogue`, `McGill`, `triage`. **Its exclusion
+is an EIGHTH distinct mode and a new kind: the instrument's dimensionality is lower than its object's,
+and the compression is exactly what makes it useful** — first-arrow pain, added suffering and
+affliction all report as a 7. Distinct from VII.5's card (missing relatum, null reading inverts) and
+from VIII.4's (trait answering a state). ⛔ **`Epictetus`, `Stoic` and the dichotomy of control are
+spent at VII.5 and may be referred to, not re-argued.**
+⚠ **TITLE CONSIDERED AND KEPT, with the reason recorded rather than the decision hidden.** `second
+arrow` occurs 7 times in VII.5, so this title names an instrument another chapter owns, and the
+chapter's most important content is the region where that instrument **fails**. A retitle is arguable.
+**It is not made here, because unlike VIII.4's it has no ruling behind it — only the drafter's
+preference for a tidier chapter, and the party proposing that repair is the party who benefits.**
+Same discipline as R-101's on `aperture`. → revision pass.
 
 ### VIII.6 — OTHER PLAYERS
 ★ **Promoted Day 185: this is no longer one practice among seven. It is half the telos** (`01` §10),

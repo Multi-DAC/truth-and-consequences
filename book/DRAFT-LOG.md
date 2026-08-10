@@ -10235,3 +10235,64 @@ new `Whose:` intervenes. **Verified non-expansive: all eleven v3-canon cards unc
 which returns to 6.** The shape is worth keeping: the constant was fine for every card written before
 the one whose mechanism field carries a cumulative series. **A threshold tuned on the corpus that
 existed when it was written** — the denylist lesson wearing a number instead of a list.
+
+---
+
+**VIII.5 — THE SECOND ARROW · DRAFTED Day 191 · `book/VIII-05-the-second-arrow.md` · 3,839 words.**
+**65/67, 237,887 words.** All four beats 1.00, card v3-canon 6 fields, `claim_sweep --chapter VIII.5`
+**0** after repair, zero echo pairs.
+
+**THE SCREEN'S FINDING IS THE CHAPTER, AND IT IS A SUBTRACTION.** Measured first: VII.5 holds
+`second arrow` 7 of the book's 8, `two arrows` 4 of 5, `dichotomy of control` 2 of 2, `Epictetus` 1 of
+1, `Stoic` 3 of 3, `affliction` 20 of 33. The doctrine is gone, so the practice cannot be *learn the
+distinction and apply it* — that is VII.5 read twice.
+
+**What is left is the real job: the distinction is real and is NOT AVAILABLE AT THE TIME.** The two
+arrows arrive as one sensation; the instrument that would classify them is the injured party and is
+contracted, which is the state that most prevents a wide survey; and asking the question is itself a
+pass around the loop, usually with shame attached. So the standard instruction — receive the first,
+decline the second — **requires exactly the classification the sufferer does not have**, and is
+delivered as though the classification were the easy part. **The consequence is the useful part: it
+takes the blame off the classification.** A person who has not stopped adding to it has not failed at
+discipline; the instruction was miscalibrated.
+
+**The practice that survives having no diagnosis is Guide 5.4's four responses**, and the property
+this chapter uses is one the source does not name: **every one of them is performable without knowing
+what is acting on you.** That is why they are the right material here and why the chapter could be
+written at all.
+
+**Beat 3's discriminator is BEHAVIOURAL, not introspective**, and had to be, for Section I's reasons.
+The test is 2.4's own line promoted from description to instrument — does the rest of the landscape
+still exist for you, even unvisited — with three checkable questions, the last of which requires
+somebody who knew you before, because the two are conspicuous from outside and identical from inside.
+
+**Beat 2 delivered in its AMENDED form.** The cut is chosen-versus-imposed; **the imposed term is not
+on the contraction axis**, because affliction is not a focusing done wrong. The chapter's own addition:
+**a teaching that instructs a person to sort the up-to-me from the not-up-to-me, delivered to someone
+whose sorting apparatus is what has been compressed, bills the imposed to the chosen** — and the
+conclusion that follows (*the sorting was available and I did not do it*) is a shame arrow installed
+by good advice. The most common injury this tradition does, done by its best material.
+
+**The card is the clinical pain scale**, and it is a designed pick-up rather than an import: VII.5's
+own card says its instrument's boundary *is not the top of a scale that begins with a stubbed toe* and
+then does not open the scale. **Eighth mode, and the first in which the exclusion is not a defect but
+the operating principle** — the instrument's dimensionality is lower than its object's, and the
+compression is exactly what makes it useful, so there is no improved version. First-arrow pain, added
+suffering and affliction all report as a seven. **The transferable practice is not a better scale. It
+is a second question, asked by somebody, out loud.**
+
+**AND THE CHAPTER ENDS ADDRESSED TO SOMEBODY OTHER THAN ITS READER, which no other chapter in this
+book does.** If social degradation is constitutive of affliction rather than incidental to it — Weil's
+third condition — then the only reliable countermeasure is another person staying, and **that is not
+an instruction the sufferer can carry out.** Every other practice in Book VIII can be run alone on a
+Tuesday. This one has a floor under it that cannot be installed from inside, and the honest form is to
+say so and address the people who can.
+
+**R-118's ARM PAID FOR ITSELF ON ITS SECOND USE.** `claim_sweep --chapter VIII.5` printed
+**`TERM/narrowing` ×3** the moment the draft landed — a term ruling 13 RETIRED — and a fourth appeared
+in the beat-2 section written to repair the first three. **Caught at the keyboard, in four lines, not
+by grepping a 180-line report for a filename.** That is the whole difference the arm was built for,
+and it took two chapters to demonstrate. Also caught: one `PROSE/self-metric` false positive of the
+documented III.1 class (*the source **files** this as…*), reworded rather than exempted — the rule's
+point is that a book of metaphysics has no business naming a filesystem, and the cheapest way to
+honour a rule is to not need an exemption from it.
