@@ -115,7 +115,7 @@ invent:
 > either for good or ill. The verb *to afford* is found in the dictionary, but the noun *affordance*
 > is not. I have made it up. I mean by it something that refers to both the environment and the
 > animal in a way that no existing term does. It implies the complementarity of the animal and the
-> environment.
+> environment.[^1]
 
 A surface affords walking on — to this animal, at this weight, with these legs. Not to a beetle,
 which finds a plain where you find a stair; not to a cat, which finds a road. The affordance is not
@@ -126,7 +126,7 @@ an ancestor rather than a source of quotable atmosphere:
 > both if you like. An affordance cuts across the dichotomy of subjective-objective and helps us to
 > understand its inadequacy. It is equally a fact of the environment and a fact of behavior. It is
 > both physical and psychical, yet neither. An affordance points both ways, to the environment and
-> to the observer.
+> to the observer.[^2]
 
 *Both physical and psychical, yet neither.* That is this book's central claim about what is the case
 at a place, made in 1979 by an experimental psychologist who got there from stairs and cliffs and
@@ -136,7 +136,7 @@ is the best sentence anybody outside this frame has written for it.
 And then, in the same section, he settles which way it really points.
 
 > The organism depends on its environment for its life, but the environment does not depend on the
-> organism for its existence.
+> organism for its existence.[^3]
 
 Those two passages do not contradict each other, and their compatibility is the whole problem. He
 can hold both, easily, and the price of holding both is fixed: the two-sidedness has to live in the
@@ -158,7 +158,7 @@ letter-posting only when you have a letter — Gibson drew the line exactly wher
 > or may not perceive or attend to the affordance, according to his needs, but the affordance, being
 > invariant, is always there to be perceived. An affordance is not bestowed upon an object by a need
 > of an observer and his act of perceiving it. The object offers what it does because it is what it
-> is.
+> is.[^4]
 
 **He is right about Koffka and he pays for it with the world.** The correction we would make to
 Koffka is the same one — a render is not solely yours, wanting does not put anything in it, and the
@@ -191,7 +191,7 @@ scientific literature to the sentence this chapter exists to make:
 
 > cognition is not the representation of a pregiven world by a pregiven mind but is rather the
 > enactment of a world and a mind on the basis of a history of the variety of actions that a being
-> in the world performs.
+> in the world performs.[^5]
 
 **The half that gets dropped when that line is quoted is *and a mind*.** It is not a claim that the
 knower makes the known; it is a claim that both terms come up together, and that neither of them was
@@ -278,3 +278,51 @@ half of it.
 There is a distance, and it is a real one, and it is what a body of this size standing in this place
 comes to. That is not less than a world. It is the only form a world has ever taken, and the
 question of what it is to be one of the many who are standing in one is where this book goes next.
+
+---
+
+## Notes
+
+[^1]: James J. Gibson, *The Ecological Approach to Visual Perception* (Boston: Houghton Mifflin,
+1979), ch. 8, "The Theory of Affordances," p. 127 — the chapter's opening page and the coinage.
+⚠ **Page numbers here are the 1979 first edition's, and the edition in general circulation is not
+that one.** The Routledge *Classic Edition* (2015) sets the same chapter eight pages earlier: the
+coinage at p. 119, the objective/subjective passage at p. 121, the Koffka passage at p. 130. The
+offset is a constant 8 across every span this chapter uses, and it was established by locating all
+four passages in the Classic Edition text rather than assumed from one. **All Gibson quotations
+below were checked against that text, span by span.** The biography is the National Academy of
+Sciences memoir: Gibson entered the Army Air Forces in 1942 and directed the Motion Picture
+Research Unit of the Aviation Psychology Program, whose first assignment was visual aptitude tests
+for screening pilot applicants; he was made lieutenant colonel in 1946 and died 11 December 1979,
+the year the book appeared.
+
+[^2]: *Ecological Approach*, p. 129 (Classic Edition p. 121). Quoted whole and unbroken; the four
+sentences run consecutively in the source.
+
+[^3]: *Ecological Approach*, p. 129 (Classic Edition p. 121). ★ **The body's "four sentences after"
+is a count, and it is exact.** Between *An affordance points both ways, to the environment and to
+the observer* and *The organism depends on its environment for its life…* stand precisely four
+sentences — on the niche and the phenomenal environment, on the "private world," and on behaviour
+depending on perception without depending on a private environment. The sentence the body objects
+to is also **the last sentence of that section**, immediately before the heading "Man's Alteration
+of the Natural Environment," which is what the body means by *leaves it there*. The related claim
+that the environment as a whole existed prior to animals and had to be invariant for animals to
+evolve is at p. 128 (Classic Edition p. 120).
+
+[^4]: *Ecological Approach*, pp. 138–139 (Classic Edition p. 130), in the section on the concept's
+antecedents. Gibson is arguing against the gestalt account of *demand character* — Koffka,
+*Principles of Gestalt Psychology* (New York: Harcourt, Brace, 1935), whose postbox that "invites"
+the mailing of a letter Gibson quotes at his p. 353. ⚠ **A small attribution the body compresses:**
+the term Gibson is really contending with is *Aufforderungscharakter*, and that is **Kurt Lewin's**
+coinage, not Koffka's; Koffka's own word is *demand character*, and Gibson treats them together.
+The body names Koffka because the postbox is Koffka's example. Lewin is the coiner and is named
+here so the compression does not read as an error.
+
+[^5]: Francisco J. Varela, Evan Thompson and Eleanor Rosch, *The Embodied Mind: Cognitive Science
+and Human Experience* (Cambridge, Mass.: MIT Press, 1991). The rebuttal is p. 204, in ch. 9; the
+statement of the enactive position quoted second is p. 9, in the book's opening argument, and the
+*viable history of structural coupling* the body objects to is p. 205. ★ **The body's claim that
+they "quote the invariance passage and answer it in a line" is literal:** the Gibson passage
+reproduced at note 4 above appears on p. 204 of *The Embodied Mind*, as their note 38, with the
+rebuttal directly beneath it. The two books are quoting the same sentence, and this chapter's
+disagreement with each of them is staged on that one page.
