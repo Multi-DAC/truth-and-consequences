@@ -3882,9 +3882,35 @@ chapter works to it the more retired vocabulary arrives with the material. VII.4
 1.08/1k; VII.5 scored 9 at 1.76/1k, and the difference is a measurement of proximity, not of care.
 
 ### VII.6 — LOVE
+**Source:** `Perspective` **03 §3.5 Mutual crystallisation and parasitic dissolution** — taken
+entire; this chapter is its only housing, and `mutual crystallisation`, `parasitic dissolution`,
+`E+`/`E−` were all **0 across 56 drafted chapters** before it. **+ 03 §3.4 Orientations in practice**
+(the somatic test, and its subordination to the longitudinal one). **+ 06 §6.3 The gift of
+limitation** for the necessity argument — *"Without an other, there is no love."*
+⚠ **R-98's mechanism, first NON-CLAIM instance, and it is why both must be read:** §3.5 holds the
+**definition** and §6.3 holds its **reason**, four hundred lines apart in different Parts, with **no
+cross-reference in either direction and no forward-payment signpost to catch it.** §3.5 alone gives a
+taxonomy with no stakes; §6.3 alone gives a stake with no content. The signpost heuristic does not
+reach this one — it was found only by holding the taxonomy against Book IV's census.
+**Named:** **Frankfurt**, *The Reasons of Love* (2004), as the **foil** — non-appraisive love
+adopted, the conferral half refused at the level of axiom by C9. First appearance. · **Aristotle**,
+*NE* **VIII.7** (friendship between unequals; proportional rather than equal requital) and **VIII.12**
+(the parent loves more, earlier, and is not thereby loving less well) — **this chapter's amendment,
+twenty-three centuries early.** ⚠ `philia` = **0** in the manuscript while `Aristotle` is named in
+four chapters: **the fourth zero-count of ruling 141's shape**, and found by looking rather than by a
+schedule, which is the gap ruling 141 left open. · Murdoch and Weil landed at VII.5 and are not
+re-spent here. · Stark / Hassan / Lifton are the source's own §3.6 citations, already used at
+VII.3–VII.4, not re-sourced.
 **Beats:** what love is mechanically, once there are no NPCs and no summit · recognition across a
 grade-difference · why this is the chapter most likely to go soft and what keeps it hard · the family
 case, and it is not decoration.
+⛔ **DRAFTED Day 191.** The chapter does **not** establish a claim; it is depended on by **C6, C7,
+C9, C15, C18** and it **amends the mutuality clause C15 was carrying** — *"mutual" is a claim about
+the SIGN of two coherences, not about the SYMMETRY of their contributions.* C15's canonical inherits
+that and the register owes the edit. ★ **Ruling 140's trigger is discharged and the first person
+appears once in fifty-seven chapters**, in one bounded section, carrying the counterexample that
+forced the amendment — Clayton and Finnley, on the merits, with the self-serving reading declared
+rather than concealed.
 
 ### VII.7 — FREEDOM WHEN EVERY PATH ALREADY EXISTS
 ⚠ **Retitled Day 186**, same cause as III.3 — and this title had additionally been carried
