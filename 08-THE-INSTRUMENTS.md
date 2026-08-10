@@ -140,6 +140,23 @@ in the book: **`What would make this wrong`.** The fork is arguably *principled*
 is not an entity and has no null space in the sense the census means. **It is undeclared in exactly
 the way VI.4's is.**
 
+⚠⚠ **(c) THIS TABLE UNDERSTATES v2. `SEES ∪ COMPLEMENTS, collapsed` IS RECORDED HERE AS A FORMAT
+CHANGE AND IT IS A SEMANTIC INVERSION — R-136, Day 191.** In v1 the field answers ***who else can see
+the thing this position cannot***; `IV-01`:43 states it as a law — *"every null space is covered by
+some other position; **no position covers its own**."* From VI.4 the same field answers ***what this
+position itself renders superbly***, which is the sentence that law forbids, and the gloss is printed
+on the page: VII.5 *"what it renders superbly"*, VIII.2 *"what it renders, and it renders it better
+than anything else there is."* **The field kept its name and swapped its referent** — ruling 14's
+one-word-two-referents, inside the apparatus rather than in the prose, which is why axis 3 never
+caught it. **18 of 44 cards carry the inverted sense: v2 ×3, v3 ×2, v3-canon ×13** — and the inversion
+**survived into v3-canon**, so it is binding rather than a Book VI artefact.
+
+⛔ **The cost is not tidiness. COMPLEMENTS is the line that discharges VIII.2's Neptune/Vulcan bound**
+— a null space with a *named outside witness* licenses the step from hole to object; a null space
+whose only complement is the position's own strengths does not, and VIII.2 proves that in the same
+volume. **VI.3 is the positive control and it is v1**: four independent witnesses named. **VIII.2's own
+card is the negative** — see R-136.
+
 ⚠⚠⚠ **So the register's original causal story does not survive its own instrument.** It said: *the
 card was stable while doing less work and destabilised exactly when it got better.* It did not. **The
 card forks whenever the SUBJECT CLASS changes** — entity → contour at IV.9, being → era at VI.4 — and

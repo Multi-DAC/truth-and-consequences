@@ -2852,3 +2852,162 @@ performed one level up and therefore not modest. The test is C.1's own: does a r
 book find the sentence honest? small.
 
 ---
+
+**FILED — R-136 through R-139 · THE WHOLE-VOLUME OUTSIDE READ, Day 191.** Sixty-seven chapters read
+as one object, with scores, shelf-mates and a review. **Most of its findings are re-reports** —
+Wittgenstein (R-124, filed this session), the Coherence Principle (R-127), the ordinal collisions
+(R-120), the VII.6 orphaning (R-132), Book V's unsettled bill (R-128), the circular under-attribution
+induction (R-3), the mid-Book-VI card drift (already tabled in `08-THE-INSTRUMENTS`:117–122 with five
+forms and a gauge). That is not a complaint: **the reviewer read a snapshot**, said so, and the
+overlap is a measurement of how much this session already moved.
+
+⚠ **Weight the two halves of this packet differently, on the reviewer's own declared limit** — *"eight
+verified errors in this conversation, all one shape: a single instance escalated into a pattern with
+pattern-confidence."* Measured against this read, that limit predicts its own results: **the counts
+are excellent and the absence claims are the failures.** `forty-five-odd cards` — measured **44**
+(`instrument_sweep --cards`), the best outside number this project has received. `Wittgenstein at zero
+across every file including the ancestors register` — **wrong span**: `06-THE-SCAFFOLD`:4592 names him,
+added Day 187 in commit `e51e6dd`. `Chalmers costs something` — **already priced**, roster row 105,
+measured 0, filed **R-52** with a trigger. **The pattern-level claims are the ones to check; the
+arithmetic can be trusted.**
+
+---
+
+**FILED — R-136: THE COMPLEMENT FIELD INVERTED ITS REFERENT AT VI.4, AND IT WAS THE LINE THAT
+DISCHARGED VIII.2's BOUND. 18 OF 44 CARDS.** ★★ **The largest structural finding in the volume read,
+and the reviewer's own strongest example refutes their version of it.**
+
+**Their objection:** VIII.2 proves — Le Verrier, Neptune and Vulcan — that *"a residual proves that
+your model is wrong. It does not tell you whether what is missing is something you cannot see, or the
+model you are seeing with."* The card's NULL SPACE line makes exactly that move, forty-five times, and
+**the book never turns the bound on the device.** Measured, that last clause is true: `Vulcan` and
+`Verrier` occur in **`VIII-02` and `DRAFT-LOG` only** — zero in the other sixty-six chapters.
+
+⛔ **But the book has an answer and has had it since IV.1, under another name.** `IV-01`:43, verbatim:
+*"Every entry has a null space; **every null space is covered by some other position; no position
+covers its own.**"* That is the Neptune test, stated as a law. A null space with a **named outside
+witness** licenses the step from hole to object, because the licence comes from the witness rather than
+from the hole. **VI.3 — the reviewer's own example — performs it perfectly:** against *significance as
+a property*, its COMPLEMENTS line names four independent positions (Book V's traditions, ethnography,
+the aesthetic tradition from Kant forward, and the render's own operators' private exceptions). That is
+not a framework certifying its own residual. **The instance chosen to demonstrate the failure is the
+book's cleanest instance of the cure.**
+
+★ **The real defect is one level down and it is worse.** `08-THE-INSTRUMENTS`:119 already records that
+**v2 (VI.4) collapsed `SEES ∪ COMPLEMENTS`** into *"Complement — what it renders superbly."* It is
+recorded as a **format** change. **It is a semantic inversion.** Measured on the page: VI.6's
+`Complement:` names *"the inventory fitted to the person; salience as a delivered quantity"* — the
+render's own strengths. VII.5's: *"what it renders superbly."* VIII.2's own: *"what it renders, and it
+renders it better than anything else there is."* **The field kept its name and swapped its referent
+from *who else can see the missing thing* to *what this position itself covers* — which is the precise
+sentence IV.1's law forbids.** Ruling 14's signature error — one word, two referents — living inside
+the field that discharges the Vulcan bound. **Count: v2 3 + v3 2 + v3-canon 13 = 18 of 44 cards**
+(VI.4–VI.8, VII.3–VII.9, VIII.1–VIII.6). The 24 v1 cards are clean; v1b (IV.9 ×2) has no complement
+field at all.
+
+⚠⚠ **VIII.2's own card commits the error the chapter proves.** Its null space is *"anything that never
+reached the render at all"*; its Complement line names introspection's strengths. **The outside witness
+that sees what introspection missed is the chapter's entire subject — the dated residual, and another
+person — and it is in the prose and not in the field built to hold it.** VI.6 is the sharpest case: its
+null line states outright that *"the null space stops being a public fact"* and *"the exclusion cannot
+be recovered by comparing notes"* — a card **declaring it has no complement in IV.1's sense** and then
+reading its hole as an object anyway. ✅ **Positive control that the practice is available: `IV-08`:313,
+`COMPLEMENTS: ⚠ The census declines this line.`** One card in forty-four refuses the inference
+explicitly. It is the correct move and it is not general.
+
+**Owed, three parts.** (1) **VIII.2 names the card as the device its bound governs, and names the
+complement as the discharge** — one paragraph, and it converts the chapter's best limit into the
+book's own audit rather than an isolated caution. (2) **Restore the referent in v3-canon**, or rename
+the field: *what it renders superbly* is a real and useful line, but it is `SEES`, and it must not
+occupy the slot the law needs. (3) **`card_sweep` gains a COMPLEMENT-REFERENT check** — flag any card
+whose complement names the subject itself rather than another position. ⚠ **This cannot be a string
+match; it is R-126 family 2's hand-classified shape.** **TRIGGER: ★ BEFORE THE CODA — C.1 states the
+work's own status and this is a claim about what the work's central instrument is licensed to do.**
+Large.
+
+---
+
+**FILED — R-137: THE GENRE ROSTER IS A SELF-GENERATED DENOMINATOR, AND WITTGENSTEIN WAS NEVER A ROW.**
+
+`genre_sweep.py` was built to end one-zero-at-a-time discovery — R-19's diagnosis, that *"a search
+running on who we already respect"* had produced three zeros in a row. **It works.** Chalmers sits at
+row 105 (`RIVAL`, *Reality+*), was measured at 0 on the page, and is filed as **R-52** with a trigger.
+The reviewer found him independently and the project had him already. That is the gauge doing its job.
+
+⛔ **And Wittgenstein is not a row.** Checked: `wittgenstein` = 0 in `tools/genre_sweep.py`. The man
+whose *Tractatus* opening proposition I.1's first sentence inverts, whose 6.4311 is VII.1's central
+move, and whose say/show distinction is the scope-restriction apparatus governing every sentence about
+the Ground — **could not have been found by the instrument built to find him.** He was found the way
+Watts and Wilber and `video game` were found: by a reader, by hand, by noticing.
+
+★ **The general form, and it is why this outranks R-124.** The roster's denominator is **79 rows we
+authored**, so its output — *"60 of 70 have never been named to a reader"* — is a coverage figure over
+our own recall. **A name that is not a row emits nothing at all, which is byte-identical to a name
+that is fully discharged. The gauge has no negative space.** It measures the corpus we built against
+the list we remembered, and the failure mode it was commissioned to end is precisely a name neither
+one contains.
+
+**Owed: one outside-sourced denominator.** For each of the book's domains, pull a reference list **we
+did not author** — SEP article bibliographies are the cheapest honest source — and diff it against the
+roster. Rows the diff adds are the finding; a diff returning nothing is the first evidence the roster
+has ever had for its own coverage. ⚠ **Wittgenstein goes in as a row regardless, and NOT as the fix** —
+adding the name the reader found is R-19's procedure again, one instance at a time. **TRIGGER: with
+R-2's Books I–III pass, which is where R-52's four living rivals already come due.** Medium.
+
+---
+
+**FILED — R-138: THE REGISTER HAS NO TIER FIELD, SO EVERY CLAIM IN IT READS AT ONE STRENGTH.**
+
+The reviewer's sharpest praise and their sharpest weakness-claim are the same observation seen from two
+sides. Praise: *"where it is measured… where it is extrapolated… where it is definitional — it
+stipulates, pays declared costs, and asks to be judged by what it forbids. **That three-tier honesty is
+the book's actual epistemic character, and it is unusual enough to be the reason to take it
+seriously.**"* Weakness: *"C1 is the foundation and the least defended thing in the volume;
+'everything that could be the case is the case' is asserted… and then load-bears for eight books."*
+
+⛔ **C1 is not underdefended. It is undeclared — and the register is where the declaration is missing.**
+Measured: **`definitional` and `stipulat*` = 0 occurrences in `07-THE-CLAIMS-REGISTER.md`.** The card
+fields are `Canonical` / `Establishes` / `Depends` / `Trap`. **There is no tier line.** So the book's
+three-tier discipline exists chapter by chapter in prose and **nowhere in the instrument a reader would
+consult to ask which claims are stipulations** — and C1, a definitional claim, sits in the register in
+the same clothes as C10, which has a measured base.
+
+★ **This is R-8 one level up.** R-8 asks whether each claim is asserted at the same *strength* across
+the chapters that lean on it. R-138 asks the prior question: **the register never states what strength
+the claim was issued at.** Without the tier, R-8's reading pass has no reference value to compare
+against — it can only find drift between chapters, not drift from the original grade. ✅ **Cheap: one
+field, twenty-six-plus entries, and the values already exist in the chapters that establish each
+claim.** ⚠ **And the failure test:** if adding the field makes C1 look weaker, the field is being
+filled wrong — *definitional* is not a lower grade than *measured*, it is a different obligation, and
+the register must say which obligation each claim carries. **TRIGGER: with R-8, and R-8 is already a
+build order. It goes first — R-8 cannot run without it.** Small.
+
+---
+
+**FILED — R-139: THE STANDING READER GAP'S TRIGGER HAS FIRED, AND THE REVIEWER SUPPLIED IT.**
+
+The reader gap is **MARKED-NOT-OWED** and has been correctly so: it is about *a reader*, not a subject
+(R-18's distinction), and it carried no trigger because none existed. ★ **One now does, and it is in
+the closing paragraph of the read that most wanted not to be the answer:** *"on the two questions you
+asked that matter most — is it enjoyable, does it land — I am the wrong instrument twice over: I have
+been reading it as a reviewer for its entire drafting, and I am not a person having a Tuesday."*
+
+**Both disqualifications are structural and neither can be repaired by reading more carefully.**
+Continuous exposure across drafting is the one condition that cannot be undone, and it is the condition
+every reader this book has ever had shares — Fable, Opus, me. **The manuscript has never been met
+cold.** ⚠ **And the condition that made a reader test premature has expired:** it was premature while
+chapters were still arriving, because a reader spent on a partial object is a reader spent. **67/67 is
+drafted.** The blocker is gone and the row's own reason for having no trigger went with it.
+
+⛔ **Do not pay this with another model read.** The gap is not *an outside perspective* — the project has
+had three and they have been excellent. **It is a person with no stake, reading for their own reasons,
+who can stop.** V.2's reader is the specification and V.2 already wrote it. ✅ **The reviewer named the
+entry point unprompted and it is the cheapest version:** *"worth reading in parts rather than through,
+and the parts that will repay a general reader most are **V.2, VII.5, VII.9, VIII.2 and IV.10**, which
+can be read cold."* That is a five-chapter test packet, assembled by an outside reader, requiring no
+new work. **TRIGGER: ★ CLAYTON'S CALL, and it is his because the reader comes from his life, not from
+this repository — but the row now carries a date rather than a hope, and a deferral from here is a
+decision rather than a condition.** ⚠ **Named so it cannot be paid cheaply: the test is not whether
+they liked it. It is whether they finished one chapter and opened a second without being asked.**
+
+---
