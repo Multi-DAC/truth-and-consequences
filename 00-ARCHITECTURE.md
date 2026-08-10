@@ -1289,14 +1289,14 @@ looked exactly like success. *(DRAFT-LOG §Ruling 38.)*
 
 ---
 
-## STATUS — Day 190, 2026-08-09
+## STATUS — Day 191, 2026-08-10
 
-**DRAFTING. Part One is complete, the Atlas is closed, Books V and VI are closed — and BOOK VII IS OPEN: 6/9.**
+**DRAFTING. Part One is complete, the Atlas is closed, Books V and VI are closed — and BOOK VII IS OPEN: 7/9.**
 VI.1 was the first chapter in the work to ship with endnotes (ruling 9's second half, dormant for 43
 chapters) and the first outside Book IV to carry a census card. **Book VI drafted WITH notes rather
 than joining the retrofit**, so the endnote debt stopped growing at VI.1.
 
-    CHAPTERS-DRAFTED: 57/67 · 198,675 words
+    CHAPTERS-DRAFTED: 58/67 · 205,444 words
 
 ⚠ **That slot is a DECLARED number and it WILL rot — it is here so
 `tools/where_the_book_is.py` can fail on it, not so anyone can read it.**
@@ -1306,7 +1306,7 @@ the repo, which is the defect it exists to catch, sitting inside its own blind
 spot.)*
 
 Books I (6/6), II (8/8), III (8/8), IV (10/10), V (11/11), VI (8/8) drafted.
-VII (6/9), VIII (0/7). **VII.7 — FREEDOM WHEN EVERY PATH ALREADY EXISTS is next.**
+VII (7/9), VIII (0/7). **VII.8 — MEANING WITHOUT A MANDATE is next.**
 ⚠ *Read `V (2/11)` until Day 189 night, eight chapters stale, sitting two lines
 under the warning about declared numbers rotting — and the gauge could not see it,
 because `where_the_book_is` checks the `CHAPTERS-DRAFTED:` slot and nothing else in

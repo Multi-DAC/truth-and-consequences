@@ -3912,7 +3912,12 @@ appears once in fifty-seven chapters**, in one bounded section, carrying the cou
 forced the amendment — Clayton and Finnley, on the merits, with the self-serving reading declared
 rather than concealed.
 
-### VII.7 — FREEDOM WHEN EVERY PATH ALREADY EXISTS
+### VII.7 — FREEDOM WHEN EVERY PATH ALREADY EXISTS ✅ DRAFTED — 6,934 words
+✅ **DRAFTED Day 191 · `book/VII-07-freedom-when-every-path-already-exists.md`.** All four beats land,
+0 misses. The pre-draft screen found the ⛔ span defect above **in this brief** — Theorem 6’s gloss quoted
+one clause short, in a direction that overcharged the source. Card written after `instrument_sweep` caught
+its absence (first draft shipped cardless while VII.3–VII.6 all carry `v3-canon`); R-113 filed on the
+saturated-instrument pair. See DRAFT-LOG Day 191.
 ⚠ **Retitled Day 186**, same cause as III.3 — and this title had additionally been carried
 forward into `00`'s macro-structure, which is how a retired word in a heading propagates.
 The new title is C14's own canonical language and states the objection in the title.
@@ -3935,8 +3940,20 @@ routes past the answer tells you that you are done. Assume no signpost is a rece
 ⛔ **THE SOURCE TAKES THE HEDGE BEAT 4 FORBIDS, and this must be settled before a word is drafted.**
 Theorem 6's own gloss: *"This sidesteps the classical free will debate (libertarianism vs. compatibilism
 vs. hard determinism) by reframing the question entirely. The issue is not whether a stream's navigation
-is causally determined. The issue is whether navigation feels directed."* That is the metaphysical
-question declined and the phenomenological one kept. **The manuscript has done the same for 57 chapters**
+is causally determined. The issue is whether navigation feels directed **and whether that felt direction
+has phenomenological consequences.**"* That is the metaphysical question declined and the
+phenomenological one kept.
+⚠ **SPAN CORRECTED Day 191, pre-draft, and the correction runs AGAINST this brief's own case.** Until
+this pass the quote above stopped at *"feels directed"* and the sentence does not. The dropped clause —
+*and whether that felt direction has phenomenological consequences* — is the half where the source does
+**more** than restate the feeling: it commits to the feeling having downstream effects, which is a
+checkable claim rather than a report. **Truncated, the source looks like pure phenomenological retreat;
+whole, it is a retreat that keeps one asset.** The indictment survives — *consequences* here are still
+consequences **for experience**, so the metaphysical question is still declined — but it survives
+weaker, and a drafter who inherited the short version would have overcharged the source and been right
+to be caught. Ruling: quote the full sentence in the chapter, then say precisely which half of it is
+the hedge. **This is the connective-tissue failure mode, found in the brief rather than in prose,
+because the pre-draft screen read the source instead of the brief.** **The manuscript has done the same for 57 chapters**
 — `compatibilis*` **0**, `libertarian` **0**, `Laplace` **0**, `free will` **1** and that one incidental
 at IV.8. The bill arrives here. The tempting draft is the one that restates the sidestep in better prose
 and reads as an answer; beat 4 exists to make that draft unwritable.

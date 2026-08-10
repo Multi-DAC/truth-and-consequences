@@ -334,13 +334,48 @@ form** — a hedge that runs *toward* boldness rather than away from it, which i
 this book is actually at risk of.
 
 ### C15 — THE TELOS: EXPLORATION AND MUTUAL RECOGNITION
-> **Canonical:** Neither dissolution nor full unity is the point, because neither has a
-> perspective. The traversal is the point — and so is perspectives recognising each other *as
-> perspectives*.
+> **Canonical, AMENDED Day 191 (see below):** Neither dissolution nor full unity is the point,
+> because neither has a perspective. The traversal is the point — and so is **perspectives being
+> recognised *as perspectives*.** The recognition is **mutual across the field, not required within
+> the pair**: what the telos asks is that the regard be correct about its object, not that its
+> object return it.
 
 **Establishes:** I.6 b4 (early guard) · **II.8 (second early guard, added Day 187 — ruling 46)** ·
 V.1 · VIII.1 (the only place Part Two states a telos)
 **Depends:** V.5 · V.9 · V.10 · VII.6 · VII.8 · VIII.6 · VIII.7
+★★ **AMENDED Day 191 — C15 INHERITED VII.6's DEFECT AND HAD TO BE PAID THE SAME WAY.** The canonical
+read *"perspectives recognising **each other** as perspectives"* — a reciprocal construction, and
+therefore the same unexamined symmetry that VII.6 found in the source's definition of love and
+repaired with *sign, not symmetry*. **The same counterexample kills both.** The parent and the
+infant: the parent recognises the infant as a perspective; the infant does not, for a long time,
+recognise anyone as anything. On the symmetric reading that relation does not instance the telos —
+and it is the relation most humans would name first. ⚠ **And the damage was wider here than in
+VII.6, because C9 guarantees it.** *There are no NPCs* means grade-differences are everywhere, so a
+telos requiring recognition-in-kind excludes nearly every relation this metaphysics licenses: the
+human and the dog, the human and the forest, a reader and a dead author, any attention paid across a
+gap. **A telos that most of the census cannot satisfy is not a high standard; it is a mis-stated
+one.**
+**THE REPAIR, and it is the exact analogue of VII.6's:** *mutual* was doing work it cannot carry. It
+read as **reciprocal-within-the-pair**, when what the claim needs is **non-instrumental and correct
+about its object**. Mutuality survives as a property of the **field** rather than of the dyad — under
+C9 every party recognised is itself recognising something, so the network is mutual even where no
+pair is. ⚠ **What this does NOT loosen:** the plural was also guarding against solipsism-with-good-
+manners, and that guard is now carried by C9 rather than by the word *each other*. If C9 ever
+narrows, this clause loses its floor and must be restated. **Both halves or neither still holds** —
+one-directional recognition is still recognition, but recognition without traversal is still the
+refused summit.
+⚠ **SIBLING SWEEP RUN, and it is the wide one, not the one derived from the finding.** All 30
+canonicals were read for reciprocal construction, not merely the five rows listing VII.6 under
+`Depends`. **C15 is the only inheritor, and each acquittal has a reason rather than a pass:** C6,
+C7, C9 are one-place predicates (*playing requires…*, *whatever reacts is aware*, *every entity is a
+player*) and cannot carry a symmetry defect. C18's relation is **explicitly directional** —
+*through* versus *over* — which is asymmetry by construction. C10 and C14 (*co-constitution*,
+*co-constituents*) assert joint contribution without equality and are already in the amended shape.
+**C19 is the near miss and survives on inspection:** it does assert symmetry — *radiant and
+contractive are dynamically symmetric* — but between two **modes**, not two **parties in a
+relation**, and its bound is the subject of its own row. The word *mutual* remains in this row's
+TITLE deliberately, because the title is how the claim is cited in six chapters; the canonical below
+it is what binds.
 ★ **Why the second guard, and why there:** the trap springs ten chapters after I.6 and II.8 was the
 best remaining opportunity in Part One — it is the chapter that names Gnosticism, and **Valentinus
 states Trap 5 in his own text**, so the guard can be made against a tradition holding the position
