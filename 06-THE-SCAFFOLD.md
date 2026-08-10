@@ -4266,6 +4266,57 @@ different claim and importing it would put an empirical dispute under a structur
 **Beats:** ritual as tunnel-engineering, made ordinary · attention as the only lever that reliably moves ·
 what actually changes a filter and what only feels like it does · the traditions' techniques, stripped of
 their cosmologies and named as the mechanics they are.
+**Source:** **Guide Part IV: The Practice** — **§4.1 The EIGHT Navigation Classes** (L249; each class
+carries its own `*Practice:*` line, which is the only place in the source where method is stated as
+instruction rather than description) · **§4.2 Integrating the Classes** (L313) · **§4.3 The Role of
+Tradition** (L321) · **§2.3 The Topology That Attention Creates** (L109 — Principles 1–4). ⛔ **§2.5's
+Principles 5–7 are VIII.6's and Murdoch/Weil go with them** (`Weil` = 20, `Murdoch` = 5, already
+spent); §4.4 Beauty is not this chapter's.
+★★ **PRE-DRAFT SCREEN, Day 191 — THE JOB THIS CHAPTER OWES IS NOT IN ITS BEATS, AND IT IS THE ONE
+THAT MATTERS MOST.** `07:869` assigns VIII.3 the **C10 × C12 manifestation firewall** verbatim:
+*"The edit is to the filter, which is yours; the render remains co-constituted. VIII.3 must say this
+in its own body."* C12's trap note is sharper still (`07:263`): *"the manifestation slide.
+**Editable ≠ the world obeys your wanting** … V.7 and VIII.3 are where it is either disciplined or
+lost, and **neither chapter can be drafted without this line in front of it**."* **None of the four
+beats carries it.** A chapter drafted faithfully from the beats alone would have shipped the most
+quotable-out-of-context claim in the book with no firewall under it, and read complete. **This is the
+first firing of the procedure installed at V.7's own screen** — *before drafting, check `07` for a job
+assigned to the chapter that these beats do not carry* — and it fired on a real one.
+⛔ **R-116 IS PAID HERE OR NOWHERE: Class VIII, Instrument-Assisted Navigation.** Verified against
+prose, not against the source table: `TMS` and `neurofeedback` = **1 hit each in `book/`, both inside
+DRAFT-LOG** — i.e. the record of the finding, not a chapter. `transcranial` · `temporal interference`
+· `Default Mode` = **0**. The manuscript has genuinely never mentioned the only technological
+navigation class, and it is the one a 2026 reader arrives already holding.
+★ **AND THE SOURCE HANDS BEAT 3 ITS MECHANISM, WHICH IS THE THING THE BEAT WAS MISSING.** §4.1's
+closing distinction: *"psychedelics are a single lever pulling on the entire bottleneck
+simultaneously. TI is a set of precision dials, each adjusting a specific parameter."* **That is
+"what actually changes a filter" with a mechanism under it rather than an exhortation** — and it
+arrives with its own bound already attached (§4.1's *Caution*: the 33 state-protocols are *"theoretical
+starting points, not validated destinations"*). Take the caution with the claim or don't take it.
+⚠ **`psychedelic` = 0 across 62 drafted chapters.** Seven volumes arguing that the bottleneck is
+modulable, and the book has never named the most common way human beings actually modulate it. Class
+IV is the source's own name for it and this is the chapter that owes it.
+★ **BEAT 4 IS WIDE OPEN AND BEAT 1 IS AT COLLISION RISK — the opposite of how they read.**
+Unspent, all **0**: `vipassana` · `samatha` · `metta` · `tai chi` · `zazen` · `hozho` · `songline` ·
+`Ignatius`. Heavily spent: **`lectio` = 52 hits across 14 files**, `ritual` = 37/17, `habit` = 42/19.
+So the traditions' techniques — beat 4's whole content — are untouched, while beat 1's vocabulary is
+the most worn in the book. **Draft 4 first and let it carry 1**, or beat 1 writes a paragraph the
+reader has already read three times.
+⛔ **CLASS VII MUST NOT BE QUIETLY DROPPED.** §4.1 carries eight classes and the seventh is
+*"Theoretical … we cannot confirm or deny it from our current navigational position"*, with
+*"**Practice:** None prescribable."* A chapter of practice that silently omits the one class with no
+practice would be doing the tidy thing the book spends Book V attacking. Name it, price it, and say
+why it has no instruction — the honesty is cheaper than the omission.
+**Named:** ★ **the eight classes by name**, Attentional → Instrument-Assisted, as the chapter's spine
+(§4.1 is the only complete practice taxonomy in the source, and `where_the_book_is` calls this row
+*rich* for that reason) · ★ **temporal interference / TI**, **PCC alpha** and the **Δf → navigational
+effect** table, all **0** in prose — the mechanism paragraph, not the hardware catalogue · ★
+**tradition-switching**, owed here explicitly: **VIII.2's screen deferred Method 2 to this chapter**
+(`Named:` there, *"taking it here strands VIII.3"*) — `tradition-switching` = 2 hits in 2 files, both
+planning · **§4.2's key insight** — *"different classes access different dimensions… the null space of
+each class is different, which means complementary practices illuminate each other's blind spots"* —
+which is the chapter's argument for why the taxonomy is a taxonomy and not a menu. ⛔ **`blind spot`
+belongs to VI.8** (11 hits, all there); use §4.2's sense without the phrase.
 
 ### VIII.4 — HOLDING THE SUPERPOSITION
 **Beats:** the practical form of the Coherence Principle: when to decide and when to stay open · the cost

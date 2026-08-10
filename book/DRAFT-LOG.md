@@ -9962,3 +9962,65 @@ richest and whose brief is thinnest: five lines, no `Source:`, no `Named:`, both
 per R-98/R-104, and the source row now points at an **eight**-class taxonomy whose eighth class the
 manuscript has never mentioned. ⚠ The standing test is still live and still severe: **if Books I–VII
 are right and this one is empty, the whole work is decorative.** Two chapters in, it is not empty.
+
+---
+
+**FILED AND PAID SAME BREATH — R-117: THE ECHO DETECTOR HAS BEEN READING THE REVISION REGISTER AS A
+CHAPTER, AND THE BANNER SAID SO EVERY RUN.**
+
+`prose_echo.py` excluded `DRAFT-LOG.md` by name and nothing else. `REVISION-QUEUE.md` — **231,231
+characters, larger than any chapter and larger than Books I and II together** — has therefore sat in
+the echo corpus as a **63rd pseudo-chapter** since the day that file was created.
+
+**MEASURED, not inferred.** Contaminated run: 169 echo pairs, **32 of them involving
+REVISION-QUEUE**. **19% of every echo finding this book has ever produced was artifact.** After the
+fix: 62 chapters, 137 pairs, zero artifact.
+
+⛔ **AND THE DIRECTION OF THE CONTAMINATION IS THE WORST AVAILABLE ONE.** The register is where I
+quote the phrases I have flagged as echoes. So the tool was re-reporting **resolved findings as fresh
+ones**, in a corpus where the whole point is to catch a phrase used twice. The artifact grams are the
+tell — `compression that preserves truth and deletes`, `the same failure wearing better clothes`,
+`trigger is the same failure wearing` — every one of them my own diagnostic prose, quoted back at me
+with a chapter's authority.
+
+★ **THE BANNER PRINTED `63 drafted chapter(s)` ON EVERY RUN.** The gauge stated the defect in its own
+first line, correctly, for as long as the defect existed, and I read past it every time. Third
+instance of that exact shape (the Day-186 `0 memory-items` boot line; the carrier-divergence string
+that could not fire) — **a number that is wrong in a banner is not read as a finding, it is read as
+furniture.**
+
+⛔ **THE DIAGNOSIS WAS ALREADY IN THE REPO, IN CODE, IN A COMMENT.** `claim_sweep.py:1170` reads:
+*"ruling 14's first scope draft swept exactly that file, a register, and counted its quotations as
+prose. Same trap, eight hours later."* It was found, understood, written down — and **the repair was
+scoped to the file where it was found.** [[repair-scoped-to-named-cause]], one layer out: not a
+sibling *finding* left unswept, a sibling *tool*.
+
+**THE GENERALISABLE PART, and it is the reason this row exists rather than a one-line diff:** every
+one of these sites used a **denylist** — `!= "DRAFT-LOG.md"`. A denylist encodes the corpus **as it
+was on the day it was written**, and it fails **silently and permanently** the moment the corpus grows
+by one file. It has no gauge for what it failed to deny. An allowlist — *a chapter is named
+`BOOK-NN-slug.md`* — cannot go stale, because it describes the thing admitted rather than the things
+known at the time. Same family as Drift #287: **a stamp that remembers versus a gauge that measures.**
+
+**SWEPT, not spot-fixed** — all 16 `book/` enumerations across 20 tools audited, five leak sites in
+three tools, each with a disk arm and a git-fixture arm that had to be fixed separately:
+
+| tool | sites | was | now |
+|---|---|---|---|
+| `prose_echo.py` | 507, 608 | `"DRAFT-LOG" in base` | `IS_CHAPTER.match` |
+| `prose_beat_sweep.py` | 463, 474 | `!= "DRAFT-LOG.md"` | `IS_CHAPTER.match` |
+| `pointer_sweep.py` | 178 | `!= "DRAFT-LOG.md"` | record = *not a chapter*, so `--include-log` finally means what it says |
+
+⚠ **`pointer_sweep --include-log` was never honoured for `REVISION-QUEUE.md`** — that file was
+scanned unconditionally, flag or no flag. The flag's predicate is now what a record **is**, not a list
+of the ones that existed when it was written.
+
+⚠ **NOT FIXED, FILED: THE TWO REGISTERS HAVE SPLIT.** `REVISION-QUEUE.md` stops at **R-111**;
+**R-112–R-117 exist only in `DRAFT-LOG.md`.** The file whose name says it holds what is owed is six
+rows behind the file that actually holds it. No gauge covers this — nothing checks that a row filed
+in one register appears in the other. **TRIGGER: before R-2 starts.** small.
+
+**Owed:** nothing on the tools — swept and verified. **But every pre-draft echo screen run before
+Day 191 carried a ~19% artifact rate**, and screens are what the last twelve chapters' spines came
+out of. The clean-run delta is now the baseline; **any echo finding cited in a brief and not
+reproducible against the 62-chapter corpus was noise.** medium.

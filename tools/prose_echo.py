@@ -500,11 +500,23 @@ def sentences(text):
     return out
 
 
+# A chapter is named, positively: BOOK-NN-slug.md. Everything else in book/ is a
+# RECORD — DRAFT-LOG.md, REVISION-QUEUE.md, and whatever the next one is called.
+# This was a denylist naming DRAFT-LOG alone until Day 191, which meant REVISION-QUEUE.md
+# (231k chars — larger than any chapter) entered the echo corpus as a 63rd pseudo-chapter
+# the day it was created, and nothing could report it: a denylist has no gauge for what it
+# failed to deny. The register quotes every phrase I have ever flagged as an echo, so the
+# contamination ran in the worst possible direction — the tool re-reported resolved findings
+# as fresh ones. claim_sweep.py:1170 documents this exact trap ("counted its quotations as
+# prose") and its repair was scoped to the file where it was found. Allowlist, not denylist.
+IS_CHAPTER = re.compile(r"^[IVX]+-\d+-")
+
+
 def load(root):
     files = {}
     for p in sorted(glob.glob(os.path.join(root, "*.md"))):
         base = os.path.basename(p)
-        if "DRAFT-LOG" in base:
+        if not IS_CHAPTER.match(base):
             continue
         files[chapter_id(base)] = open(p, encoding="utf-8").read()
     return files
@@ -605,7 +617,7 @@ def main():
                                capture_output=True, text=True, check=True).stdout.split()
         files = {}
         for nm in names:
-            if not nm.endswith(".md") or "DRAFT-LOG" in nm:
+            if not nm.endswith(".md") or not IS_CHAPTER.match(nm):
                 continue
             body = subprocess.run(["git", "show", f"{a.fixture}:{a.root}/{nm}"],
                                   capture_output=True, text=True, check=True).stdout

@@ -174,8 +174,14 @@ def main():
                                 "04-THE-UNSATISFYING-ANSWERS.md", "05-THE-LEXICON.md",
                                 "06-THE-SCAFFOLD.md", "07-THE-CLAIMS-REGISTER.md")]
     files += sorted((ROOT / "book").glob("*.md"))
+    # --include-log means "read the RECORDS too", so the predicate has to be what a record
+    # IS, not a list of the ones that existed when the flag was written. It named DRAFT-LOG
+    # alone until Day 191 and so REVISION-QUEUE.md was scanned unconditionally, flag or no
+    # flag. See prose_echo.py's IS_CHAPTER note.
     if not args.include_log:
-        files = [f for f in files if f.name != "DRAFT-LOG.md"]
+        is_chapter = re.compile(r"^[IVX]+-\d+-")
+        files = [f for f in files
+                 if f.parent.name != "book" or is_chapter.match(f.name)]
 
     dead_n = mism_n = 0
     for f in files:

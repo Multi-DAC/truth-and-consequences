@@ -458,9 +458,14 @@ def status(scaffold_text, dr):
     return len(missing) + len(phantom)
 
 
+# Positive, not a denylist — see prose_echo.py's IS_CHAPTER note (Day 191). Naming the
+# records that exist today silently admits the next one; naming the chapters cannot.
+IS_CHAPTER = re.compile(r"^[IVX]+-\d+-")
+
+
 def read_disk():
     return [(p.name, p.read_text(encoding="utf-8"))
-            for p in sorted(BOOK.glob("*.md")) if p.name != "DRAFT-LOG.md"]
+            for p in sorted(BOOK.glob("*.md")) if IS_CHAPTER.match(p.name)]
 
 
 def read_git(rev):
@@ -471,7 +476,7 @@ def read_git(rev):
             raise SystemExit(f"!! could not list book/ at {rev}: {ls.stderr.strip()}")
         out = []
         for name in ls.stdout.split():
-            if not name.endswith(".md") or name == "DRAFT-LOG.md":
+            if not name.endswith(".md") or not IS_CHAPTER.match(name):
                 continue
             r = subprocess.run(["git", "show", f"{rev}:book/{name}"],
                                cwd=ROOT, capture_output=True, text=True, encoding="utf-8")
