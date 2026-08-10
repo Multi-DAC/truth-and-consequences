@@ -194,6 +194,101 @@ def clean_name(raw):
     return " ".join(toks).strip(".,;:'"), surname
 
 
+# ---------------------------------------------------------------------------
+# NON-PERSON CLASSES — added Day 191, after a full enumeration of all 153
+# extracted names against their evidence sentences.
+#
+# WHY THIS EXISTS. The frequency test above catches a capitalized token whose
+# LOWERCASE twin is ordinary vocabulary. It cannot catch a token the book
+# ALWAYS capitalizes -- `Western`, `Certification`, `Plenitude`, `Relativism`,
+# `East` -- because there is no lowercase twin to count. Those came through as
+# sources and the debt figure carried them.
+#
+# THE MEASUREMENT, Day 191, over all 153: 41 were not citable persons = 26.8%.
+# ⛔ AND THE POINT THAT MATTERS: the LIMIT line this file has printed every run
+# since it was written declares ONLY the scene-actor class -- 8 of 41. **The
+# disclaimer covered a fifth of its own artifact and read like it covered all
+# of it.** A stated limit is not the same as a measured one.
+#
+# WHAT THE RULES BELOW ACTUALLY REACH, measured after implementing them and NOT
+# as estimated before: 14 of the 41. The first draft of this comment claimed 33
+# and that was a prediction written next to the code that would falsify it.
+# The residual is 27 of a 139 denominator -- STILL 19.4% artifact. The number
+# got better and did not get clean, and it must not be quoted as clean.
+#
+# ⚠ CONFLICT OF INTEREST, DECLARED. This patch was written by the drafter who
+# owes the debt it reduces, on the day he wanted the number smaller. So the
+# rules below are deliberately narrower than the audit supports: only classes
+# decidable by a rule that mentions no name from this book. Toponyms
+# (`Scotland`, `Toledo`, `New Hampshire`), objects (`Gold`, `Moon`, `Mercury`)
+# and scene actors are LEFT IN THE DEBT and reported as a residual, because
+# excluding them needs a gazetteer or a judgement, and a judgement made by the
+# interested party is not a gauge. When in doubt the name stays as debt.
+#
+# ⛔ AND THE ERROR RUNS BOTH WAYS -- do not read this as "the number was too
+# big". V.5 extracts `Ding` and `Yan Hui`, who are characters in Zhuangzi, and
+# does NOT extract Zhuangzi, who is the source. III.3 extracts three Borges
+# characters. The gauge over-counts characters and under-counts the author they
+# belong to, which is a worse failure than inflation and is NOT fixed here.
+NONPERSON = defaultdict(Counter)   # class -> {name: hits}, accumulated across the run
+CALENDAR = {
+    "January", "February", "March", "April", "May", "June", "July", "August",
+    "September", "October", "November", "December", "Monday", "Tuesday",
+    "Wednesday", "Thursday", "Friday", "Saturday", "Sunday",
+}
+# Tradition / adherent / adjectival morphology. A single token ending this way
+# names a school, not a member of one. Kept to single tokens on purpose: "Eric
+# Havelock" must never be tested by its second word.
+TRADITION_SUFFIX = re.compile(r"^[A-ZÀ-ſ][\w’'-]*?(ism|isms|ist|ists|ian|ians|ic|ics)$")
+# A source whose name is another source's name plus an institution word is that
+# source's organisation, not a second authority. `Monroe Institute` under
+# `Monroe`; `Aristotelian Society` under the citation that names it.
+INSTITUTION_WORD = re.compile(
+    r"\b(Institute|Society|Foundation|University|College|Press|Group|Trust|Association)$")
+
+
+GIVEN_NAMED = set()   # surnames ever seen preceded by a given name, book-wide
+_GIVEN_PAIR = re.compile(r"\b([A-Z][a-zà-ſ]{2,})\s+([A-Z][\wÀ-ſ’'-]+)\b")
+
+
+def build_given_named(texts):
+    """Surnames that appear at least once with a GIVEN NAME in front of them.
+
+    ⛔ THIS GUARD EXISTS BECAUSE THE SUFFIX RULE ATE A REAL SOURCE ON ITS FIRST
+    RUN. `McGilchrist` ends in -ist. Iain McGilchrist is VI.4's load-bearing
+    citation, and the tradition rule deleted him from the debt silently --
+    except that it did not, because this file prints every exclusion BY NAME
+    and he was sitting in the list. That is the whole argument for printing
+    exclusions rather than counts: the filter's own error was legible in its
+    output on the first run.
+
+    The guard's errors run TOWARD KEEPING DEBT: a wrongly-rescued name stays
+    owed, which is the safe direction for a gauge its own author wants smaller.
+    """
+    for t in texts:
+        for m in _GIVEN_PAIR.finditer(t):
+            first, second = m.group(1), m.group(2)
+            if first in OPENERS:
+                continue
+            GIVEN_NAMED.add(second)
+
+
+def non_person_class(surname, display):
+    """Return the exclusion class for a non-person candidate, or None.
+
+    Rule-decidable only. Mentions no name from this manuscript, so it stays
+    true as the book grows -- the design constraint the frequency test was
+    written under, kept."""
+    if surname in CALENDAR or display in CALENDAR:
+        return "calendar"
+    if (" " not in surname and TRADITION_SUFFIX.match(surname)
+            and surname not in GIVEN_NAMED):
+        return "tradition/adjectival"
+    if INSTITUTION_WORD.search(display):
+        return "institution"
+    return None
+
+
 def common_noun_counts(prose):
     """Lowercase standalone-word frequencies. A capitalized token whose lowercase
     twin is ordinary vocabulary in this very chapter is not a person. Measured,
@@ -239,6 +334,12 @@ def scan_prose(prose, corpus_lower=None):
                 if lower[surname.lower()] >= 2 or corpus_lower[surname.lower()] >= 8:
                     commons[surname] += 1
                     continue
+                # Day 191: the classes the frequency test structurally cannot
+                # see, because the book never lowercases them.
+                klass = non_person_class(surname, display)
+                if klass:
+                    NONPERSON[klass][surname] += 1
+                    continue
                 hits.append((m.start(1), display, surname))
         if not hits:
             continue
@@ -262,12 +363,37 @@ def scan_prose(prose, corpus_lower=None):
 
 def scan_notes(notes_block):
     """Return (n_notes, named_in_notes). A note counts only if it names somebody:
-    a bare marker is not a receipt."""
+    a bare marker is not a receipt.
+
+    ⛔ THE POSSESSIVE STRIP BELOW IS THE SAME REPAIR `clean_name` ALREADY
+    CARRIES, AND IT WAS MISSING HERE FOR AS LONG AS BOTH HAVE EXISTED.
+    clean_name's docstring states the failure exactly -- "'Everett's' is
+    swallowed WHOLE into the match and keys the source as `Everett's` -- which
+    then never matches `Everett` in the notes, and the chapter reports an
+    uncovered source it has actually covered" -- and the fix was applied to the
+    PROSE side only. The token class here admits ' and ’, so a note reading
+    "Galle's confirmation from Berlin" registered the name `Galle's` and left
+    the source `Galle` reading as owed. VIII.2 has named Galle in [^5] the
+    whole time.
+
+    THE LESSON, and it is the one this manuscript keeps re-learning: a repair
+    scoped to the place the defect was FOUND leaves its siblings standing. The
+    two scanners are twenty lines apart in one file and one of them describes,
+    in prose, the bug the other one still had. Found Day 191, by a debt figure
+    that disagreed with a note anyone could read.
+    """
     named = set()
     n = 0
     for body in NOTE_SPLIT.split(notes_block)[1:]:
         toks = re.findall(r"\b[A-Z][a-zA-ZÀ-ſ'’-]{2,}\b", body)
-        real = [t for t in toks if t not in OPENERS]
+        real = []
+        for t in toks:
+            if t in OPENERS:
+                continue
+            real.append(t)
+            bare = re.sub(r"(?:’s|'s|’|')$", "", t)
+            if bare and bare != t:
+                real.append(bare)
         if real:
             n += 1
             named.update(real)
@@ -314,7 +440,50 @@ def book_totals():
     return src, cov, notes
 
 
+def selftest():
+    """Positive control for the Day-191 non-person rules AND for the guard.
+
+    A zero is worthless without a control of the same shape: if these rules
+    silently stopped firing, the debt would climb back to 153 and read as
+    honest work rather than as a broken filter. Each case below is a REAL
+    string this book produced."""
+    GIVEN_NAMED.clear()
+    GIVEN_NAMED.update({"McGilchrist", "Havelock"})
+    cases = [
+        # (surname, display, expected class)
+        ("March",       "March",              "calendar"),
+        ("Thursday",    "Thursday",           "calendar"),
+        ("Buddhism",    "Buddhism",           "tradition/adjectival"),
+        ("Whorfian",    "Whorfian",           "tradition/adjectival"),
+        ("Stoics",      "Stoics",             "tradition/adjectival"),
+        ("Institute",   "Monroe Institute",   "institution"),
+        ("Society",     "Aristotelian Society", "institution"),
+        # ⛔ THE ONE THAT MATTERS: a real source whose name ends in -ist.
+        ("McGilchrist", "Iain McGilchrist",   None),
+        # and plain surnames must be untouched by all three rules
+        ("Borges",      "Borges",             None),
+        ("Weil",        "Weil",               None),
+    ]
+    bad = 0
+    for surname, display, expected in cases:
+        got = non_person_class(surname, display)
+        ok = got == expected
+        bad += not ok
+        print(f"  {'✓' if ok else '✗'} {display:<22} -> {str(got):<22}"
+              f" expected {expected}")
+    if bad:
+        print(f"\n  ✗ {bad} CONTROL(S) FAILED — the exclusion rules are not doing"
+              " what this file says they do.")
+    else:
+        print("\n  ✓ all controls pass — rules fire on the real strings, and the"
+              "\n    given-name guard protects the real source that shares their shape.")
+    GIVEN_NAMED.clear()
+    return 1 if bad else 0
+
+
 def main():
+    if "--selftest" in sys.argv:
+        return selftest()
     show_sites = "--sites" in sys.argv
     only = None
     if "--chapter" in sys.argv:
@@ -333,9 +502,13 @@ def main():
     # largest honest sample of this book's ordinary vocabulary, and Book I's
     # exemption is about apparatus, not about English.
     corpus_lower = Counter()
+    _flats = []
     for p in files:
-        corpus_lower += common_noun_counts(
-            strip_furniture(split_prose_notes(p.read_text(encoding="utf-8"))[0]))
+        flat = strip_furniture(split_prose_notes(p.read_text(encoding="utf-8"))[0])
+        corpus_lower += common_noun_counts(flat)
+        _flats.append(flat)
+    # Must run BEFORE any scan_prose call -- non_person_class reads GIVEN_NAMED.
+    build_given_named(_flats)
 
     per_book = defaultdict(lambda: [0, 0, 0, 0])   # sources, covered, notes, chapters
     rows = []
@@ -427,8 +600,35 @@ def main():
                            ("common nouns (lowercase ≥2) ", _lost(all_common))):
         names = ", ".join(w for w, _ in counter.most_common(8))
         print(f"    {label} : {sum(counter.values()):>4}  {names}")
-    print("    LIMIT: this cannot tell a cited authority from a historical actor.")
-    print("           A name in the scene rather than the bibliography reads as debt.")
+
+    for klass in sorted(NONPERSON):
+        c = _lost(NONPERSON[klass])
+        names = ", ".join(w for w, _ in c.most_common(8))
+        print(f"    non-person: {klass:<18}: {sum(c.values()):>4}  {names}")
+
+    print("\n  ⛔ THE LIMIT, AND ITS MEASURED SIZE — the second half added Day 191:")
+    print("    STATED SINCE v1: this cannot tell a cited authority from a historical")
+    print("      actor. A name in the scene rather than the bibliography reads as debt.")
+    print("    MEASURED Day 191, by enumerating ALL 153 extracted names against their")
+    print("      own evidence sentences: 41 were not citable persons — 26.8%.")
+    print("      The stated limit above covers 8 of those 41. ⛔ THE DISCLAIMER WAS")
+    print("      TRUE AND COVERED A FIFTH OF ITS OWN ARTIFACT, which reads exactly")
+    print("      like covering all of it.")
+    print("    ⛔ THE RULES ABOVE REACH 14 OF THE 41 — NOT the 33 first predicted.")
+    print("      RESIDUAL ARTIFACT IS ~27 IN A 139 DENOMINATOR = ~19%. The number")
+    print("      improved and is NOT clean; do not quote it as clean.")
+    print("    STILL IN THE DEBT, deliberately (excluding them needs a gazetteer or a")
+    print("      judgement, and the judgement would be made by the party it exonerates):")
+    print("      toponyms (Scotland, Toledo, New Hampshire) · objects (Gold, Moon,")
+    print("      Mercury) · scene actors (Ambrose, Santa Claus, Clayton) · the")
+    print("      Borges/Zhuangzi dialogue characters · and `Islamicist`, which the")
+    print("      new given-name guard FALSELY RESCUES from the tradition rule because")
+    print("      the prose reads `French Islamicist`. Declared: the guard's errors")
+    print("      run toward KEEPING debt, which is the safe direction here.")
+    print("    ⛔ AND THE ERROR RUNS BOTH WAYS. V.5 extracts `Ding` and `Yan Hui`,")
+    print("      Zhuangzi's characters, and does NOT extract Zhuangzi. III.3 extracts")
+    print("      three Borges characters. Over-counting characters while missing the")
+    print("      author they belong to is worse than inflation and is NOT fixed here.")
 
     if show_sites:
         print("\n  SITES — the worklist, one line per source:")

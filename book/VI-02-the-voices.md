@@ -286,3 +286,4 @@ left at this grade, and the flag is not decoration:
   COMPLEMENTS line. It is a well-known finding and it is given here without a number for that
   reason. **A card line resting on an uncited rate is the thinnest thing in this chapter** and is
   recorded as such rather than smoothed over.
+ ⚠ **The receipt owed for Wernicke, added Day 191:** *Wernicke's area* is used here purely as an anatomical landmark — the posterior superior temporal region of the language-dominant hemisphere, after Carl Wernicke's 1874 *Der aphasische Symptomencomplex* — because Jaynes's claim is about the RIGHT-hemisphere region corresponding to it. **Nothing in the bicameral argument rests on Wernicke's own account of aphasia**, and the name is doing locational work rather than evidential work. Named from standard reference scholarship; the 1874 text is not in this repository.

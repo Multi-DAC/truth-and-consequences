@@ -266,7 +266,7 @@ structures and the perspectivity axis are developed across Part One.
 University of California Press, 1969). The implicational hierarchy has been revised repeatedly
 since — most substantially by the World Color Survey — but the ordering of blue as a late term has
 held.
-
+ ⚠ **The receipt owed for Homer, added Day 191:** the corpus counted is the *Iliad* and the *Odyssey* as Gladstone had them — the Homeric poems in their nineteenth-century printed Greek, not a modern critical text — and the count is of the vocabulary, not of the world the poems describe. **Homer is the DATASET of this chapter's opening argument and not an authority it leans on**, which is a distinction ruling 9 asks for and which the gauge that found this gap cannot itself make.
 [^3]: Jonathan Winawer, Nathan Witthoft, Michael Frank, Lisa Wu, Alex Wade and Lera Boroditsky,
 "Russian blues reveal effects of language on color discrimination," *Proceedings of the National
 Academy of Sciences* 104:19 (2007), 7780–7785. The verbal-interference condition is the part that

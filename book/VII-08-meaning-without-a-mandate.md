@@ -469,7 +469,7 @@ fifty-eight drafted chapters, `Camus` zero, `MacIntyre` zero, `Sisyphus` zero, `
 zero. Ruling 141's pattern, sixth firing, and this time in a chapter whose brief predicted every one
 of the zeros — which is progress of a kind: the brief caught what the drafting would have missed,
 and the brief only caught it because someone counted.
-
+ ⚠ **The receipt owed for Sartre, added Day 191:** *pour-soi* — being-for-itself — is Sartre's, from *L'Être et le néant* (1943), and it reaches this chapter **inside the Atlas card's own quoted sentence, not from a reading of Sartre.** That is the honest provenance and it is the reason he is not argued with here: the card is citing him as an instance of existentialism's individualist default, this chapter takes the card's diagnosis, and **a name that arrives through a quotation is owed the note that says so.**
 [^6]: Albert Camus, *Le Mythe de Sisyphe* (1942): the absurd as the confrontation between the human
 demand for clarity and the world's *silence déraisonnable*; the refusal of both suicide and the
 philosophical leap; revolt as the sustained holding-open of the confrontation. ⚠ Receipt status:
