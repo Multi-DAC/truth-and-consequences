@@ -3802,11 +3802,84 @@ required that sentence since Day 186 and put it in VII.5 because it was watching
 where the word first does ethical work, so VII.4 is where the split is owed.** *Every perspective is
 focused; not every perspective is contractive.*
 
-### VII.5 — SUFFERING
-**Beats:** the two arrows — the world's, and the one you add · appropriate contraction: sometimes the
+### VII.5 — SUFFERING ✅ DRAFTED — 5,137 words
+**Beats:** the two arrows — the world's, and the one you add · appropriate **focusing**: sometimes the
 focusing is the care · **malheur, and the chapter's hard floor: no clause of this book overrides the
 one that names it** · the altitude rule · **no theodicy.** The framework does not get to make affliction
 meaningful, and a book that tried would be the one provable lie in it.
+⚠ **This beat label read *appropriate contraction* until the pre-draft screen, and it was a ruling-155
+site in the brief of the chapter C20 establishes.** Ruling 155 fixed four sites and every one of them
+was in `07`; the sweep never entered this file. The seed is traceable and is the part worth keeping:
+the Book VII source list at `06`:3356 names a corpus file `suffering-and-appropriate-contraction`, and
+**a filename is outside every vocabulary sweep by construction** — it cannot be renamed, so the retired
+sense re-enters through the one door no gauge watches. → R-105. The sibling at VIII.5 (*contraction as
+care*, C20's pre-rename canonical, in bold) is fixed with it.
+
+**Source:** `Perspective` **Doctrine §9.2** (two arrows, the aperture thermodynamics, *malheur*,
+suffering-as-disclosure) **+ Guide §6.4** (the same material in practical register) **+ §13.4
+CULMINATION — quoted and REFUSED, not used.** ⚠ The third of those is the chapter, and it was found by
+R-98's check rather than by the brief, which had no `Source` line at all.
+
+★ **THE FINDING: THE SOURCE CONTAINS AN EXPLICIT THEODICY, IN THOSE WORDS, AND C21 IS THE BOOK TAKING
+A SIDE IN A CONTRADICTION INSIDE ITS OWN SOURCE — WHICH THE REGISTER NOWHERE RECORDS IT DOING.**
+§13.4: *"This provides a powerful theodicy… **Every finite experience, no matter how painful or
+contracted, possesses ultimate meaning and value.**"* §9.2, four hundred lines earlier, says *"not all
+suffering discloses, and not all suffering can be navigated through. Some suffering annihilates the
+navigator."* **The later passage revokes the earlier concession**, and it is not a stray: it is the
+source's culmination, the last thing before the evidence part, welded to *do be do be do, forever*.
+C21 reads as a faithful restatement and is in fact an **adjudication**. It is written into the chapter
+as one — the passage is quoted in full and refused by rule, because a refusal of our own text has to
+show the text. C18 and C19 failed at this same check; **three for three.**
+
+★★ **AND THE BOOK V ALIBI IS NARROWER THAN IT READS.** `V-03`:207 already says *"There is no theodicy
+here… a ground with no preferences has nothing to justify"* — true, and it dissolves only the
+**God-shaped** theodicy. §13.4 has no deity in it. It is a **mechanical** theodicy, justifying
+suffering by the structure's productivity rather than by an author's purposes, and V.3's argument does
+not touch it. Worse, and stated on the page: **this book is better equipped to build a mechanical
+theodicy than a theist is to build a classical one**, because every step of it is a step we have
+argued. A theodicy assembled out of true steps has no place for the reader to get off. The only place
+to refuse it is the conversion, and the conversion is a comma.
+
+**Named:** **Weil** — *malheur*, first appearance in the manuscript · **the Sallatha Sutta** SN 36.6,
+`Sallatha` = 0, `two arrows` = 0, `second arrow` = 0 across 55 chapters — genuinely undrafted ·
+★ **Heidegger** — *Angst*, *Being and Time*, and **`Heidegger` = 0 and `Angst` = 0 not merely in the
+chapters but in `00`–`08`, the draft log and the revision queue: he is routed nowhere in the entire
+repo**, while being the source's own mechanism for the territory between ordinary suffering and
+affliction. Named here; **VII.1 is DEATH and shipped without him**, which is a queue row not a repair
+→ R-106 · **Murdoch** — attention as the moral act, unselfing; ruling 50's worklist routed her and Weil
+to Book VII as *the attention lineage* and nothing landed them until now.
+
+⚠⚠ **`Weil` = 0 IN `03`, AND TWO FILES ASSERT OTHERWISE.** `prose/RULING-13`:100 justified the
+`narrowing → focusing` rename partly on *"it collects Weil for free in `03`"*; `07`:589 repeats it as
+*"it collects Weil directly (`03`)"*. **She is not in `03` in any form.** `03` is a register of
+measured silences and Weil has no silence recorded there — she was never audited at all, so the clause
+is not merely unverified but category-confused. One claim, written once, copied once, checked never,
+and it was cited as a **gain** of a rename. → R-103.
+
+⚠ **THE ALTITUDE RULE HAD NO STATEMENT ANYWHERE IN THE WORK.** It is named in this brief and at
+`00`:787 (ruling 17, which bars the game metaphor here and at VII.1 *"without breaking the altitude
+rule"*) and nowhere else — not in `05`, not in `07`, not in a chapter. A rule that bars the book's
+central device from two chapters, operative since Book I, existing only as a name. **Stated canonically
+in VII.5's body**, because a rule discovered to be unwritten is written on the page and not in a note:
+*a truth is not an answer unless it is true at the altitude the question was asked from.*
+
+⚠ **C20's REGISTER INSTRUCTION IS NOW UNFOLLOWABLE AS WRITTEN, and was before this chapter opened.**
+It requires the doctrinal work *"at the point where the line first appears"* — and the line first
+appears at `VII-04`:434, spent there in the course of establishing the focusing/contraction split,
+along with its easy illustration (the parent and the child in the crowded room). VII.5 therefore
+enters C20 **from the hard side** — the vigil, attention with the whole payoff structure removed — and
+the register's placement clause is discharged on the merits rather than obeyed. Ruling 169 is
+inherited as a premise and pointed at, not re-earned: `prose_echo` caught the first draft reproducing
+VII.4's defining sentence nearly verbatim, and it was rewritten to POINT.
+
+**Gauges:** `instrument_sweep` PASS — v3-canonical, 6 fields, mech=FULL, no ordinal, no corpus count.
+`prose_echo` clean after two repairs: the ruling-169 sentence above, and an unconscious restatement of
+**IV.1's own definition of the BOUNDARY field** — converted into a designed return that cashes the
+method chapter, which is better prose than either version. `claim_sweep` **5 USE-class hits → 0, all
+REWRITTEN not allowlisted**: `aperture` ×3, `bottleneck` ×1, `narrowed` ×1. ★ **Every one is the
+source's vocabulary pulled straight through** — this chapter quotes the source, and the closer a
+chapter works to it the more retired vocabulary arrives with the material. VII.4 scored 6 raw at
+1.08/1k; VII.5 scored 9 at 1.76/1k, and the difference is a measurement of proximity, not of care.
 
 ### VII.6 — LOVE
 **Beats:** what love is mechanically, once there are no NPCs and no summit · recognition across a
@@ -3902,8 +3975,20 @@ how to tell which one you do.
 
 ### VIII.5 — THE SECOND ARROW
 **Beats:** the practice for the only arrow whose loop-gain is partly yours · the dichotomy of control read
-as chosen-versus-imposed contraction · **contraction as care**, and how to tell it from contraction as
+as chosen-versus-imposed · **the focusing as care**, and how to tell it from contraction as
 damage · what to do when it is malheur and there is nothing to do.
+⚠ **AMENDED Day 190 by VII.5's screen, two vocabulary sites and one live constraint.** *(a)*
+***contraction as care*** was C20's **pre-rename canonical**, in bold, in the brief of the second
+chapter C20 establishes — ruling 155's fifth and sixth live sites, both in this file, neither reachable
+by ruling 13's `Narrowing → Focusing` sweep because `contraction` was reassigned rather than retired.
+→ R-105. *(b)* ***imposed contraction*** is now **false by VII.5's own prose**: affliction is
+explicitly *not* a contraction the sufferer performed — it is compression from outside of the
+apparatus by which a contraction could have been chosen or refused. The dichotomy of control still
+reads as chosen-versus-imposed; the second term is not a contraction. *(c)* ⛔ **VII.5 has spent the
+Sallatha Sutta, the two-arrow distinction, the aperture thermodynamics and the census card on the
+two-arrow instrument.** This chapter is the **practice**, and its brief's first two beats are the
+doctrine VII.5 now holds. **Filed forward rather than discovered at the keyboard, which is R-100's
+whole point.**
 
 ### VIII.6 — OTHER PLAYERS
 ★ **Promoted Day 185: this is no longer one practice among seven. It is half the telos** (`01` §10),

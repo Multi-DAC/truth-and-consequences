@@ -2018,6 +2018,160 @@ new every run, forever, so the pile can only grow and the growth carries no sign
 `ADJUDICATED.md` keyed on file+line+rule, with anything unmatched printed loud, converts the report
 from a wall into a delta.
 
+---
+
+**FILED — R-102: A MANDATED STRING IS SITTING IN AN AUTHORSHIP TABLE, AND THE TABLE GROWS AS THE
+SQUARE OF THE CHAPTERS THAT OBEY THE MANDATE.**
+
+`instrument_sweep` requires the v3-canonical card's six field labels **and their glosses**, verbatim,
+in every bound chapter. `prose_echo` reads words and therefore convicts every bound chapter of
+echoing every other bound chapter, six grams per pair. The exemption doctrine is right and is the
+problem: *never a chapter, never a phrase alone — always a specific PAIR plus a specific gram.* So
+VII.3~VII.4 cost six lines, VII.5 cost **twelve**, VII.6 will cost eighteen, and by the end of Book
+VIII the table holds several hundred entries all saying the same sentence about a string nobody
+chose.
+
+⛔ **The cost is not the line count. It is that a table of hundreds of identical rows is a table
+nobody reads** — R-101's finding, arriving in the other gauge, by a different route, one day later.
+The identical rows are camouflage for the one row that is a real adjudication.
+
+★ **And the repair is NOT a wide exemption.** The doctrine is correct about *authored* prose and must
+not be relaxed to fix this — see the standing rule that a gauge is never loosened by the party it
+would convict. The right move is a **second kind of entry**: a gram that `instrument_sweep` mandates
+is not authorship at all and does not belong in an authorship table. Declare `MANDATED = [...]`
+separately, print its suppressions as a count rather than as rows, and leave `EXEMPT` for
+adjudications. **TRIGGER: before VII.7 drafts** — at eighteen rows it is still a cheap refactor and at
+VIII.3 it is not. small.
+
+---
+
+**FILED — R-103: THE JUSTIFICATION FOR A LEXICON RENAME CITED A GAIN THAT DOES NOT EXIST, AND THE
+CLAIM WAS COPIED INTO A SECOND FILE WITHOUT EVER BEING CHECKED.**
+
+`prose/RULING-13`:100, arguing `narrowing → the Focusing`: *"'Sometimes the focusing is the care'
+survives as non-trivial — attention as love is a real claim, and **it collects Weil for free in
+`03`.**"* `07`:589 repeats it under ruling 155: *"it collects Weil directly (`03`)."*
+
+**`Weil` = 0 in `03-THE-ANCESTORS.md`. Zero, in any spelling, anywhere in the file.**
+
+⛔ **And the error is not a missing entry — it is a category confusion that a present entry would not
+have fixed.** `03` is a register of **measured silences**: names the corpus knows and the book does
+not. Weil has no silence recorded there because she was never audited at all. A claim that a phrase
+"collects" her *in* `03` cannot be true of that file for any name, so the sentence was never checkable
+in the form it was written, and it was cited twice as a benefit of a rename that changed 62 sites in
+11 files.
+
+⚠ **What makes it a queue row rather than a typo:** the rename was ruled partly *on* this gain, and
+the second copy was written on Day 189 by a screen whose entire subject was ruling 155's own
+propagation failure. **A false clause survived the audit that was reading its neighbours.**
+
+**Owed:** delete the clause from both files, or enter Weil in `03` and make it true — and the second
+is the better repair, since `malheur` is now a chapter's hard floor and she is the only ancestor in
+the book whose term the work cannot override. **TRIGGER: with R-106, one sitting.** small.
+
+---
+
+**FILED — R-104: R-100'S CHECK HAS NO SPECIFICITY DISCIPLINE, AND ITS FALSE POSITIVES POINT THE
+EXPENSIVE WAY.**
+
+R-100 rules the pre-draft screen's first move: *grep each beat's load-bearing noun against
+`book/*.md` before writing.* It ran on VII.5, first time out, and **returned two false positives in a
+five-beat brief, by two different mechanisms.**
+
+**(a) The homograph.** `malheur` returned `book/IV-03`. The hit is **Malheur National Forest** — the
+*Armillaria* honey fungus, eastern Oregon, in the chapter on the living non-human. Same book, same
+author, correct capitalisation for a proper noun, and a filename-list grep shows only `IV-03`.
+
+**(b) Dilution.** `arrow` returned **twenty-five files**. The two-arrow distinction is in none of
+them; `Sallatha` = 0, `two arrows` = 0, `second arrow` = 0 across all fifty-five drafted chapters.
+
+⛔ **Both failures point the same way and it is the costly direction.** R-100's known failure was
+*beat already written, drafter re-writes it* — expensive, but `prose_echo` catches it after the fact.
+**This failure is *beat looks written, drafter skips it*, and nothing catches that at all**, because
+an absent section leaves no echo. Had the homograph been believed, the chapter would have shipped
+without naming `malheur` — **the one term C21 says no clause of this book overrides.** The check
+built to stop a re-draft would have deleted the floor.
+
+**Repair, and it is a habit not a tool:** grep the beat's **distinctive phrase**, not its
+load-bearing noun; read the matched **lines**, never the filename list; and treat a single hit in a
+distant book as a homograph until read. **TRIGGER: it is already the screen's first move — this row
+is the amendment, and it applies from VII.6.** small.
+
+---
+
+**FILED — R-105: RULING 155 NAMED THE MECHANISM CORRECTLY, FIXED FOUR SITES IN ONE FILE, AND DID NOT
+SWEEP THE OTHERS — AND THE SEED IT MISSED IS A FILENAME, WHICH NO SWEEP CAN REACH.**
+
+Ruling 13 retired `narrowing`. It did **not** retire `contraction` — it *reassigned* it to C19. So
+every site where C20's meaning still wore C19's word was invisible to a find-and-replace and to every
+gauge downstream of one. Ruling 155 found four such sites, all in `07`, and named the mechanism
+exactly.
+
+**Two live sites remain in `06`, and they are the briefs of the two chapters C20 establishes:**
+`VII.5` (*appropriate contraction*, the beat that carries C20's whole positive claim) and `VIII.5`
+(***contraction as care*** — C20's pre-rename canonical, in bold). Both fixed Day 190. A third site
+at VIII.5 (*imposed contraction*) was fixed on different grounds: VII.5's prose now makes it false.
+
+★ **The seed is traceable and is the part worth keeping.** `06`:3356 lists Book VII's sources, one of
+which is the corpus file **`suffering-and-appropriate-contraction`**. The beat label is the filename.
+**A filename cannot be renamed by a vocabulary sweep and cannot be excluded from one** — it is the one
+door into the prose that every lexicon gauge is structurally blind to, and it opens straight into the
+brief of the chapter that most needed the distinction held.
+
+**Owed:** a `06`+`00` pass for `contraction` in C20's sense — done for the two known sites, **not
+certified for the file**, and the difference is the whole reason this is a row. Plus one line in `05`
+§3a recording that source filenames are a vocabulary vector. **TRIGGER: before Book VIII opens**,
+since VIII.5 and VIII.3 both live downstream of the seed. small.
+
+---
+
+**FILED — R-106: HEIDEGGER IS ROUTED NOWHERE IN THE ENTIRE REPOSITORY, AND THE CHAPTER THAT MOST
+OWED HIM HAS SHIPPED.**
+
+`Heidegger` = 0 and `Angst` = 0 across all fifty-five drafted chapters — **and across `00`–`08`,
+`book/DRAFT-LOG.md` and this file.** Not a gap in the prose with a plan behind it. **No plan.** He is
+in neither `03`'s silence register nor `ancestor_gap`'s report, because `ancestor_gap` reads a seed
+list and he is not on it, so the tool built to find exactly this could not see him. ⚠ The same is true
+of Weil, Murdoch, Arendt and Levinas — **`ancestor_gap`'s "known in the research, absent from every
+drafted chapter" is a curated list presented in the grammar of a measurement.** That is a second row's
+worth and is noted here rather than split.
+
+**He is the source's own mechanism.** Doctrine §9.2 and Guide §6.4 both run suffering-as-disclosure on
+the analysis of *Angst* from *Being and Time* — the territory between ordinary suffering and
+affliction, which is most of a life. VII.5 names him and uses him only to mark the two-arrow card's
+reliable range; it does not develop him.
+
+⛔ **VII.1 is DEATH and shipped without him** — the twentieth century's dominant account of death as a
+structural feature of a position, absent from the chapter on death, and no gauge said a word. Recorded
+here, **not repaired now**, per the standing no-retrofit discipline.
+
+**Owed:** an entry in `03`; a routing decision for VII.9 (*being-toward-death* bears directly on
+identity across gaps); a VII.1 revision row. **TRIGGER: with R-103, one sitting — both are `03`
+entries and both were found by the same screen.** small + medium.
+
+---
+
+**FILED — R-107: TWO DIFFERENT CLAIMS IN `07` EACH ASSERT THEY WOULD BE *THE ONE* PROVABLE LIE IN THE
+BOOK, AND ONE OF THEM HAS NOW SHIPPED IN PROSE.**
+
+C21's trap: *"**A book that made affliction meaningful would contain the one provable lie in it.**"*
+C23's canonical: *"**A finished account of a live ground would be the one provable lie in it.**"*
+
+*The one* is a uniqueness claim. It is made twice, about different things, four hundred lines apart in
+the same file, and both are load-bearing — C23 is ruled *"draft it last and draft it hardest."*
+**VII.5 shipped C21's version verbatim**, which means the collision is no longer confined to the
+apparatus: whichever of the two survives, the coda now has to be written knowing the phrase is spent.
+
+⚠ **This is ruling 155's defect one level up, in rhetoric rather than in vocabulary** — a superlative
+is a name, two claims are wearing it, and no gauge in this repo watches a superlative. `claim_sweep`
+reads terms; `prose_echo` reads chapters against chapters and does not read `07` against itself.
+
+**Owed:** one of the two gives the phrase up. **My reading, offered rather than ruled: C21 keeps
+it** — *provable* is doing real work there, because affliction has a witness who could check the
+claim, and an unfinished account has no comparable checker. C23's point survives intact as *unfinished
+≠ uncertain*, which is its actual content and does not need the superlative. **TRIGGER: before C23 is
+drafted, which is last.** small.
+
 ⚠ **Do not read this as licence to allowlist.** The 17 `aperture` hits stay open and stay unruled
 (`05` §9c, and the reason is that the drafter who wrote them may not exonerate them).
 

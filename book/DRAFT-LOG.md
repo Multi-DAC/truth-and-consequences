@@ -9220,3 +9220,120 @@ overman but the corpse*; `amor fati` stays reserved for VII.8).
 inherited-base-plus-delta, direct count still 78, gap still R-85** · **TOOLS: 23.** Book VII 4/9;
 next prose is **VII.5 — SUFFERING**, which inherits ruling 169's split as a premise rather than a
 task, and owes `malheur` and the no-theodicy floor.
+
+---
+
+## DAY 190, night — **VII.5 — SUFFERING DRAFTED. THE SCREEN OUT-FOUND THE PROSE FOR THE THIRTEENTH
+CHAPTER RUNNING, AND WHAT IT FOUND IS THAT THE BOOK'S SOURCE CONTAINS AN EXPLICIT THEODICY.**
+
+**`book/VII-05-suffering.md` · 5,137 words · 56/67 · 193,656 words.** `instrument_sweep` PASS —
+v3-canonical, six fields, `Mechanism of the exclusion` in FULL, no ordinal, no corpus count.
+`prose_echo` clean after two repairs. `claim_sweep` **5 USE-class → 0, rewritten not allowlisted.**
+`order_sweep` unchanged.
+
+★★ **THE FINDING: C21 IS NOT A RESTATEMENT OF THE SOURCE. IT IS THE BOOK ADJUDICATING A CONTRADICTION
+INSIDE THE SOURCE, AND NOTHING IN THE REGISTER RECORDS THAT IT IS DOING SO.**
+
+R-98's check — *read the source before the beats* — ran third time out and hit third time out. The
+source's §13.4, its **culmination**, the last passage before the argument turns to evidence:
+
+> *"This provides a powerful theodicy… **Every finite experience, no matter how painful or contracted,
+> possesses ultimate meaning and value.**"*
+
+Four hundred lines earlier, §9.2: *"not all suffering discloses, and not all suffering can be
+navigated through. Some suffering annihilates the navigator."* **The later passage revokes the earlier
+concession** — a forward-payment signpost running backwards, a debt honestly marked and then written
+off at the end. And it is welded to *do be do be do, forever*, which is the most identity-load-bearing
+sentence in the whole source. **The one place a false sentence does the most damage is the position
+where everything around it is true.**
+
+So the chapter quotes it in full and refuses it by rule. Refusing our own text requires showing the
+text; paraphrase would have been the softening.
+
+★ **AND THE BOOK V ALIBI IS NARROWER THAN IT READS — which is the transferable half.** `V-03`:207
+already refused theodicy: *"a ground with no preferences has nothing to justify."* True, and it
+dissolves the **God-shaped** theodicy entirely. §13.4 **has no deity in it.** It is a *mechanical*
+theodicy — suffering justified by the structure's productivity rather than by an author's purposes —
+and V.3's argument does not touch it. Worse: **this book is better equipped to build a mechanical
+theodicy than a theist is to build a classical one**, because every step of ours is a step we have
+argued and would defend. **A theodicy assembled out of true steps has no place for the reader to get
+off.** The only place to refuse it is the conversion from the totality's books to a person's, and the
+conversion is a comma. That is why C21 is a standing prohibition rather than an argument: in the
+moment, the argument will be available, and it will be good.
+
+**FOUR MORE, ALL FROM THE PRE-DRAFT SCREEN, NONE FROM THE PROSE:**
+
+**1. R-104 — R-100's own check produced two false positives in one five-beat brief, and both point the
+expensive way.** `malheur` returned `IV-03` — **Malheur National Forest**, the *Armillaria* fungus,
+eastern Oregon. `arrow` returned twenty-five files and the two-arrow distinction is in none of them.
+⛔ R-100's known failure is *re-draft a shipped beat*, which `prose_echo` catches afterwards. **Its
+unknown failure is *skip an owed beat*, which nothing catches, because an absent section leaves no
+echo.** Believing the homograph would have shipped the chapter without `malheur` — the one term C21
+says no clause of this book overrides. **The check built to stop a re-draft would have deleted the
+floor.**
+
+**2. R-103 — `Weil` = 0 in `03`, and two files assert she is collected there.** `prose/RULING-13`:100
+justified the `narrowing → focusing` rename partly on *"it collects Weil for free in `03`"*; `07`:589
+repeats it. She is not there in any spelling — and `03` is a register of **measured silences**, so the
+clause was never checkable in the form written. A **gain** cited for a 62-site rename, copied once,
+checked never. The second copy was written by a Day-189 screen whose subject was ruling 155's own
+propagation failure: **a false clause survived the audit that was reading its neighbours.**
+
+**3. R-105 — ruling 155's sweep stopped at the file it was written in, and the seed it missed is a
+filename.** Two live sites in `06`, both in briefs of the two chapters C20 establishes: VII.5's
+*appropriate contraction* and VIII.5's ***contraction as care*** (C20's pre-rename canonical, in
+bold). ★ The seed: `06`:3356 lists a Book VII source corpus named
+**`suffering-and-appropriate-contraction`**. The beat label is the filename. **A filename cannot be
+renamed by a vocabulary sweep and cannot be excluded from one** — the one door into the prose every
+lexicon gauge is structurally blind to, opening into the brief of the chapter that most needed the
+distinction held.
+
+**4. R-106 — `Heidegger` = 0 and `Angst` = 0 across the entire repository, not merely the prose.** Not
+in `00`–`08`, not in this log, not in the queue. He is the source's own mechanism for
+suffering-as-disclosure — the whole territory between ordinary suffering and affliction — and **VII.1
+is DEATH and shipped without him.** `ancestor_gap` could not see it: the tool reads a seed list, and
+Weil, Murdoch, Arendt and Levinas are absent from it too, which makes its headline a **curated list
+presented in the grammar of a measurement.**
+
+**AND TWO THAT ARE THE APPARATUS CATCHING ITSELF:**
+
+**R-107 — C21 and C23 each claim to be *the one* provable lie in the book.** A uniqueness claim made
+twice, about different things, four hundred lines apart in `07`, both load-bearing. **VII.5 shipped
+C21's version verbatim**, so the collision is now in the prose. Ruling 155's defect one level up: a
+superlative is a name, two claims are wearing it, and no gauge here watches a superlative.
+
+**R-102 — `prose_echo`'s exemption table now holds a mandated string and grows as n².** VII.5 cost
+twelve identical rows; VIII will cost hundreds. R-101's finding arriving in the other gauge one day
+later: **a table of hundreds of identical rows is a table nobody reads**, and the identical rows are
+camouflage for the one row that is a real adjudication. ⚠ The repair is **not** a wide exemption — the
+doctrine is right about authored prose, and a gauge is never loosened by the party it convicts. A
+mandated gram is not authorship and does not belong in an authorship table.
+
+**THE ALTITUDE RULE HAD NO STATEMENT ANYWHERE IN THE WORK.** Named in the VII.5 brief and at `00`:787
+(ruling 17 bars the game metaphor here and at VII.1 *"without breaking the altitude rule"*) and
+nowhere else. A rule that bars the book's central device from two chapters, operative since Book I,
+existing only as a name. **Written canonically into VII.5's body** — a rule discovered to be unwritten
+gets written on the page, not in a note: *a truth is not an answer unless it is true at the altitude
+the question was asked from.*
+
+**C20's REGISTER INSTRUCTION WAS ALREADY UNFOLLOWABLE.** It requires the doctrinal work *"at the point
+where the line first appears"*, and the line first appeared at `VII-04`:434 — spent there, with its
+easy illustration, in the course of establishing the focusing/contraction split. VII.5 therefore
+enters C20 from the **hard side**: the vigil, attention with the entire payoff structure removed, and
+the structural reason it is the correct act — affliction works *by social degradation*, so undivided
+non-instrumental attention is the one operation in the book that runs against the mechanism of the
+affliction rather than around it. Murdoch and Weil land here together, which discharges the attention
+half of ruling 50's routing.
+
+**THE VOCABULARY MEASUREMENT WORTH KEEPING.** `claim_sweep` scored VII.5 at 9 raw / 1.76 per 1k
+against VII.4's 6 / 1.08 — `aperture` ×3, `bottleneck` ×1, `narrowed` ×1, every one of them the
+**source's** demoted vocabulary pulled through with the material. This chapter quotes the source
+directly; the previous one argued against a reading of it. **The rate is a measurement of proximity to
+source, not of care**, and it predicts that Book VIII — which is built on the Guide almost line by
+line — will score higher still. All five were rewritten rather than allowlisted.
+
+**CHAPTERS-DRAFTED: 56/67** · **CLAIMS: C1…C30** · **RULINGS: 171** · **QUEUE: 86 + R-98…R-107 = 96,
+inherited-base-plus-delta, direct count still 78, gap still R-85** · **TOOLS: 23.** Book VII 5/9; next
+prose is **VII.6 — LOVE**, whose brief is five lines with `Source` and `Named` both empty, and which
+inherits from this chapter a claim it must not soften: in the place where love matters most, it is not
+*for* anything.

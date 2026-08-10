@@ -117,6 +117,37 @@ EXEMPT = [
      "v3-canonical card field gloss, mandated by instrument_sweep. See header note."),
     ("VII.3", "VII.4", "navigational implication what to do about the other five",
      "v3-canonical card field gloss, mandated by instrument_sweep. See header note."),
+    # ⚠ THE TABLE BELOW IS THE SECOND COPY OF THE SIX ABOVE, AND THE THIRD IS ALREADY OWED.
+    # A mandated string generates one exemption per PAIR of bound chapters, so this block grows
+    # as n(n-1)/2 while the mandate stays one rule. VII.5 costs 12 lines; VIII.7 will cost
+    # hundreds, all of them saying the same sentence. The repair is NOT a wide exemption —
+    # the header doctrine (never a chapter, never a phrase alone) is right about AUTHORED prose.
+    # It is a second KIND of entry: a gram that instrument_sweep mandates is not authorship and
+    # does not belong in an authorship table at all. Filed, not built. → R-102.
+    ("VII.3", "VII.5", "boundary where it goes from reliable",
+     "v3-canonical card field gloss, mandated by instrument_sweep. See header note."),
+    ("VII.3", "VII.5", "null space what it structurally cannot",
+     "v3-canonical card field gloss, mandated by instrument_sweep. See header note."),
+    ("VII.3", "VII.5", "space what it structurally cannot render",
+     "v3-canonical card field gloss, mandated by instrument_sweep. See header note."),
+    ("VII.3", "VII.5", "complement what it renders superbly",
+     "v3-canonical card field gloss, mandated by instrument_sweep. See header note."),
+    ("VII.3", "VII.5", "mechanism of the exclusion what the render identifies with what",
+     "v3-canonical card field gloss, mandated by instrument_sweep. See header note."),
+    ("VII.3", "VII.5", "navigational implication what to do about the other five",
+     "v3-canonical card field gloss, mandated by instrument_sweep. See header note."),
+    ("VII.4", "VII.5", "boundary where it goes from reliable",
+     "v3-canonical card field gloss, mandated by instrument_sweep. See header note."),
+    ("VII.4", "VII.5", "null space what it structurally cannot",
+     "v3-canonical card field gloss, mandated by instrument_sweep. See header note."),
+    ("VII.4", "VII.5", "space what it structurally cannot render",
+     "v3-canonical card field gloss, mandated by instrument_sweep. See header note."),
+    ("VII.4", "VII.5", "complement what it renders superbly",
+     "v3-canonical card field gloss, mandated by instrument_sweep. See header note."),
+    ("VII.4", "VII.5", "mechanism of the exclusion what the render identifies with what",
+     "v3-canonical card field gloss, mandated by instrument_sweep. See header note."),
+    ("VII.4", "VII.5", "navigational implication what to do about the other five",
+     "v3-canonical card field gloss, mandated by instrument_sweep. See header note."),
     # ───────────────────────────────────────────────────────────────────────────
     ("II.5", "III.6", "error does not need a territory",
      "★ ADJUDICATED AND KEPT, ruling 90. II.5 STATES the shape and hands it forward explicitly "
