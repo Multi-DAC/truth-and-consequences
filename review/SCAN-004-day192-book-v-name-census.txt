@@ -1,0 +1,1065 @@
+NAME CENSUS — recall-first. Every capitalized candidate, nothing dropped.
+  C:\Users\Wasch\truth-and-consequences\book   selector=V
+  ⛔ THIS TOOL DOES NOT DECIDE SOURCE-HOOD. It cannot tell an authority
+     from a historical actor. Sites are printed so a reader judges.
+
+── V-01  ·  21 acting candidate(s) · endnote_debt sees 1 · 20 NOT SEEN BY IT
+   ·seen·  Aristotle                  POSS×2
+            POSS       On the other side, the ninth-century Baghdad translation movement rendered excerpts of Plotinus into Arabic under the title *The Theology of Aristotle* — the Islamic philosophical tradition 
+            POSS       On the other side, the ninth-century Baghdad translation movement rendered excerpts of Plotinus into Arabic under the title *The Theology of Aristotle* — the Islamic philosophical tradition 
+   ⚠ UNSEEN  Athos                      BARE-VERB×1
+            BARE-VERB  A hesychast on Athos running a single sentence on the breath.
+   ⚠ UNSEEN  Dionysius                  OTHER×1 BARE-VERB×1
+            BARE-VERB  China, where the Dao De Jing opens by saying that the way that can be named is not the constant way, which is the same move Dionysius makes a thousand years later with no possibility of cont
+   ⚠ UNSEEN  Dissolution                BARE-VERB×1
+            BARE-VERB  **Dissolution has no perspective, and a perspective is the only place anything is ever the case.** That is the entire argument and it has been guarded twice already — once in Book I, once wh
+   ⚠ UNSEEN  Five                       BARE-VERB×1 OPEN×1   [lower-twin×5 (debt DROPS this)]
+            BARE-VERB  Five lines, the same five, and the tradition answers all of them.
+   ⚠ UNSEEN  Beyond God                 OTHER×2 BARE-VERB×1
+            BARE-VERB  God is the plain name for the Ground, and it is used here without an asterisk.
+   ⚠ UNSEEN  Godhead                    BARE-VERB×2 OTHER×1
+            BARE-VERB  Not this, not this. > > It is without limit and without qualities, and every name for it is the name of something it > is not. > > Beyond God there is the Godhead, and of the Godhead nothing
+            BARE-VERB  Not this, not this. > > It is without limit and without qualities, and every name for it is the name of something it > is not. > > Beyond God there is the Godhead, and of the Godhead nothing
+   ⚠ UNSEEN  Greeks                     BARE-VERB×1
+            BARE-VERB  India, whose earliest statements of the doctrine predate the Greek material and cannot have received it — and where the contact question, when it is raised, runs the wrong way for the object
+   ⚠ UNSEEN  Ground                     OTHER×2 BARE-VERB×1   [lower-twin×4 (debt DROPS this)]
+            BARE-VERB  The other grounds are Books I through IV, and the arrangement matters more than it looks: **nothing in the first four books rests on this one.** The argument for the Ground was made from the
+   ⚠ UNSEEN  Independent                BARE-VERB×1   [lower-twin×3 (debt DROPS this)]
+            BARE-VERB  Independent instruments agreeing is how any observational discipline earns a fact.
+   ⚠ UNSEEN  Dao De Jing                BARE-VERB×1
+            BARE-VERB  China, where the Dao De Jing opens by saying that the way that can be named is not the constant way, which is the same move Dionysius makes a thousand years later with no possibility of cont
+   ⚠ UNSEEN  Kabbalah                   BARE-VERB×1
+            BARE-VERB  Kabbalah develops in Provence and Spain in a world in contact with both.
+   ⚠ UNSEEN  Kabbalist                  BARE-VERB×1   [class=tradition/adjectival (debt DROPS this)]
+            BARE-VERB  A Kabbalist permuting the letters of a name for hours.
+   ⚠ UNSEEN  Magic                      BARE-VERB×1   [class=tradition/adjectival (debt DROPS this)]
+            BARE-VERB  **No hedge.** The distinction the atlas made about plants and colonies holds here without amendment: *a hedge weakens a claim; a boundary locates an instrument.* Magic works, and Book V says
+   ⚠ UNSEEN  Arabic Plotinus            OTHER×3 OPEN×1 BARE-VERB×1
+            BARE-VERB  Plotinus goes into Proclus; Proclus goes into the writer who signed himself Dionysius the Areopagite around 500 and was read for a thousand years as an apostolic authority; that body of work
+   ⚠ UNSEEN  Proclus                    BARE-VERB×2
+            BARE-VERB  Plotinus goes into Proclus; Proclus goes into the writer who signed himself Dionysius the Areopagite around 500 and was read for a thousand years as an apostolic authority; that body of work
+            BARE-VERB  Plotinus goes into Proclus; Proclus goes into the writer who signed himself Dionysius the Areopagite around 500 and was read for a thousand years as an apostolic authority; that body of work
+   ⚠ UNSEEN  Ritual                     BARE-VERB×1
+            BARE-VERB  Ritual magicians with circles and stagecraft.
+   ⚠ UNSEEN  Six                        BARE-VERB×2   [lower-twin×4 (debt DROPS this)]
+            BARE-VERB  Six statements, with nothing said yet about who made them. > There is one, and it is not a thing among things.
+            BARE-VERB  Six statements, five of them downstream of one Alexandrian schoolroom.
+   ⚠ UNSEEN  Starving                   APPOS-VERB×1
+            APPOS-VERB Starving, spinning, sitting motionless, and ingesting an alkaloid are not the same procedure, but they may very well have the same *effect* — they are all ways of pushing one architecture ou
+   ⚠ UNSEEN  Sufism                     OTHER×1 POSS×1   [class=tradition/adjectival (debt DROPS this)]
+            POSS       Sufism's *fanāʾ* is followed by *baqāʾ*, subsistence, the one who comes back.
+   ⚠ UNSEEN  Ten                        BARE-VERB×1
+            BARE-VERB  Ten chapters of sympathetic reading follow this one.
+   MENTION-ONLY (47) — no verb, no possessive-noun. Mostly furniture; Harris lived here.
+   ⚠  Alexandrian                OTHER×1
+            SITE       Six statements, five of them downstream of one Alexandrian schoolroom.
+   ⚠  Amazonian                  OTHER×1
+            SITE       A Mazatec curandera and an Amazonian ayahuasquero and a Siberian drum.
+   ⚠  Andalusia                  OTHER×1
+            SITE       The school of Ibn Arabi, Andalusia to Damascus, on *waḥdat al-wujūd* — the oneness of being.
+   ⚠  Thomas Aquinas             OPEN×1 OTHER×1
+            SITE       Thomas Aquinas, Paris, in the twelve-sixties, on *actus purus*.
+   ⚠  Ibn Arabi                  OTHER×1
+            SITE       The school of Ibn Arabi, Andalusia to Damascus, on *waḥdat al-wujūd* — the oneness of being.
+   ⚠  Arabic                     OTHER×1
+            SITE       On the other side, the ninth-century Baghdad translation movement rendered excerpts of Plotinus into Arabic under the title *The Theology of Aristotle* — the Islamic philosophical tradition 
+   ⚠  Areopagite                 OTHER×1
+            SITE       Plotinus goes into Proclus; Proclus goes into the writer who signed himself Dionysius the Areopagite around 500 and was read for a thousand years as an apostolic authority; that body of work
+   ⚠  Baghdad                    OTHER×1
+            SITE       On the other side, the ninth-century Baghdad translation movement rendered excerpts of Plotinus into Arabic under the title *The Theology of Aristotle* — the Islamic philosophical tradition 
+   ⚠  Being                      OPEN×1
+            SITE       Being any way at all is being some way from somewhere.
+   ⚠  Cartographers              OTHER×1
+            SITE       **Cartographers we credit.
+   ⚠  China                      OPEN×1
+            SITE       China, where the Dao De Jing opens by saying that the way that can be named is not the constant way, which is the same move Dionysius makes a thousand years later with no possibility of cont
+   ⚠  Contact                    OTHER×1
+            SITE       **Three independent branches is a real result and it is not the result the opening quotations implied.** Say the smaller number. --- **And then the axis that is actually strong, which is not
+   ⚠  Damascus                   OTHER×1
+            SITE       The school of Ibn Arabi, Andalusia to Damascus, on *waḥdat al-wujūd* — the oneness of being.
+   ⚠  Degrees                    OTHER×1
+            SITE       So, one card, before any of the roads is walked: > **NEOPLATONISM** > **SEES:** Degrees of unity.
+   ⚠  Meister Eckhart            OPEN×1 OTHER×1
+            SITE       Meister Eckhart, preaching in the Rhineland around 1300, on the distinction between God and the Godhead.
+   ⚠  Fasting                    OPEN×1
+            SITE       Fasting, dance, sleep deprivation, poison, isolation, sacrament, dialectic.
+   ⚠  Girona                     OTHER×1
+            SITE       *Ein Sof*, the Without-End, in the Jewish mystical schools of Provence and Girona around 1200.
+   ⚠  Greek                      OTHER×1
+            SITE       India, whose earliest statements of the doctrine predate the Greek material and cannot have received it — and where the contact question, when it is raised, runs the wrong way for the object
+   ⚠  Hebrew                     OPEN×1
+            SITE       The Hebrew > prophets, for whom a specific widow is the subject.
+   ⚠  India                      OPEN×1
+            SITE       India, whose earliest statements of the doctrine predate the Greek material and cannot have received it — and where the contact question, when it is raised, runs the wrong way for the object
+   ⚠  Islamic                    OTHER×1
+            SITE       On the other side, the ninth-century Baghdad translation movement rendered excerpts of Plotinus into Arabic under the title *The Theology of Aristotle* — the Islamic philosophical tradition 
+   ⚠  Jewish                     OTHER×1
+            SITE       *Ein Sof*, the Without-End, in the Jewish mystical schools of Provence and Girona around 1200.
+   ⚠  Latin                      OTHER×1
+            SITE       Plotinus goes into Proclus; Proclus goes into the writer who signed himself Dionysius the Areopagite around 500 and was read for a thousand years as an apostolic authority; that body of work
+   ⚠  Loss                       OPEN×1
+            SITE       Loss of the felt boundary between self and surroundings, dissolution of the sense of time, unity — a common architecture under a common kind of stress accounts for all of it, and the account
+   ⚠  Matter                     OTHER×1
+            SITE       The scheme has no column for *irreplaceable*, and it is not that it fills the column badly; > the column does not exist. ◐ Matter, resolved poorly: it arrives as the thin end of a decline > 
+   ⚠  Mazatec                    OTHER×1
+            SITE       A Mazatec curandera and an Amazonian ayahuasquero and a Siberian drum.
+   ⚠  Mediterranean              OPEN×1
+            SITE       The Mediterranean family and everything descended from it, counted once.
+   ⚠  Nearly                     OTHER×1
+            SITE       The temptation is strong precisely because the agreement is genuine, and it will show up here in the form of a sentence that says *and we find the same*, which is not a finding. --- **What i
+   ⚠  Neoplatonism               OTHER×1
+            SITE       On the other side, the ninth-century Baghdad translation movement rendered excerpts of Plotinus into Arabic under the title *The Theology of Aristotle* — the Islamic philosophical tradition 
+   ⚠  Paris                      OTHER×1
+            SITE       Thomas Aquinas, Paris, in the twelve-sixties, on *actus purus*.
+   ⚠  Past                       OPEN×1
+            SITE       Past there it is issuing an itinerary, and the itinerary does not follow > from the reading. > **NAVIGATIONAL IMPLICATION:** Take the ontology.
+   ⚠  Provence                   OTHER×2
+            SITE       *Ein Sof*, the Without-End, in the Jewish mystical schools of Provence and Girona around 1200.
+   ⚠  Refuse                     OPEN×1
+            SITE       Refuse the route.
+   ⚠  Remove                     OPEN×1
+            SITE       Remove the somewhere and there is no one left for anything to be like anything for.
+   ⚠  Rhineland                  OTHER×1
+            SITE       Meister Eckhart, preaching in the Rhineland around 1300, on the distinction between God and the Godhead.
+   ⚠  Rome                       OTHER×1
+            SITE       Plotinus, teaching in Rome in the two hundreds, on the One that is beyond being.
+   ⚠  Siberian                   OTHER×1
+            SITE       A Mazatec curandera and an Amazonian ayahuasquero and a Siberian drum.
+   ⚠  Ein Sof                    OTHER×1
+            SITE       *Ein Sof*, the Without-End, in the Jewish mystical schools of Provence and Girona around 1200.
+   ⚠  Spain                      OTHER×1
+            SITE       Kabbalah develops in Provence and Spain in a world in contact with both.
+   ⚠  Sufi                       OTHER×1
+            SITE       A Sufi in *dhikr*, repeating a name until the repetition dissolves the repeater.
+   ⚠  Theology                   OTHER×1
+            SITE       On the other side, the ninth-century Baghdad translation movement rendered excerpts of Plotinus into Arabic under the title *The Theology of Aristotle* — the Islamic philosophical tradition 
+   ⚠  Travellers                 OPEN×1
+            SITE       Travellers we part from.** They read the ground correctly and then told each other to leave, and there is nowhere to leave to and no one who would be doing the leaving.
+   ⚠  Upanishads                 OPEN×1
+            SITE       The Upanishads, *neti neti* — not this, not this — some centuries earlier and four thousand miles east.
+   ⚠  Vajrayāna                  OTHER×1
+            SITE       A Vedic ascetic and a Vajrayāna practitioner using methods that are near opposites in intent.
+   ⚠  Vedic                      OTHER×1
+            SITE       A Vedic ascetic and a Vajrayāna practitioner using methods that are near opposites in intent.
+   ⚠  Without-End                OTHER×1
+            SITE       *Ein Sof*, the Without-End, in the Jewish mystical schools of Provence and Girona around 1200.
+   ⚠  Zen                        OTHER×1 OPEN×1
+            SITE       A Zen practitioner sitting still.
+
+── V-02  ·  12 acting candidate(s) · endnote_debt sees 1 · 11 NOT SEEN BY IT
+   ⚠ UNSEEN  Almost                     BARE-VERB×1 OPEN×1   [lower-twin×2 (debt DROPS this)]
+            BARE-VERB  Almost nothing else in a life is built this way.
+   ⚠ UNSEEN  Aquinas                    APPOS-VERB×1
+            APPOS-VERB Aquinas, in Paris in the twelve-sixties, writing the central document of the institution: God is *actus purus* — act with nothing in it left over unrealised — and therefore not a being among
+   ⚠ UNSEEN  Consolation                BARE-VERB×1
+            BARE-VERB  Consolation is what people offer in the first week, when the death is still interesting and everybody is available and the words are easy to find.
+   ⚠ UNSEEN  Eckhart                    APPOS-VERB×1
+            APPOS-VERB Eckhart, preaching in German to people who could not read Latin, distinguishes God from the Godhead and says of the Godhead that nothing whatever can be said.
+   ⚠ UNSEEN  Forty                      BARE-VERB×1
+            BARE-VERB  Forty days of stripping down, and then a killing, and then the Sunday.
+   ·seen·  God                        BARE-VERB×3 POSS×1 OTHER×1
+            POSS       Tillich took away God's face and kept the direction of prayer.
+            BARE-VERB  The church's God is the conjunction, and the conjunction is the thing that cannot be had.
+            BARE-VERB  Aquinas, in Paris in the twelve-sixties, writing the central document of the institution: God is *actus purus* — act with nothing in it left over unrealised — and therefore not a being among
+            BARE-VERB  Maimonides, in Cairo, rules that every positive statement about God is false, and means every.
+   ⚠ UNSEEN  Leaving                    VERB×1   [lower-twin×3 (debt DROPS this)]
+            VERB       Leaving answered ***is it true?*** That was the right question and, in most cases, it got the right answer.
+   ⚠ UNSEEN  Maimonides                 APPOS-VERB×1
+            APPOS-VERB Maimonides, in Cairo, rules that every positive statement about God is false, and means every.
+   ⚠ UNSEEN  Someone                    BARE-VERB×1
+            BARE-VERB  Someone dies on a Tuesday, and by Thursday there is food on the step.
+   ⚠ UNSEEN  Such                       BARE-VERB×1
+            BARE-VERB  Such churches exist.
+   ⚠ UNSEEN  Tillich                    BARE-VERB×1
+            BARE-VERB  Tillich took away God's face and kept the direction of prayer.
+   ⚠ UNSEEN  Wrongdoing                 BARE-VERB×1
+            BARE-VERB  **The second is moral seriousness.** Wrongdoing was a real category.
+   MENTION-ONLY (19) — no verb, no possessive-noun. Mostly furniture; Harris lived here.
+   ⚠  Advaita                    OTHER×1
+            SITE       The way that cannot be named. > Advaita.
+   ⚠  Ask                        OPEN×1
+            SITE       Ask honestly whether any of them is on a list.
+   ⚠  Being                      OTHER×1
+            SITE       **Being met by many is not being known by one.** Offering the first as though it settled the second is the exact move this chapter would have to make to end comfortably, and making it would 
+   ⚠  Cairo                      OTHER×1
+            SITE       Maimonides, in Cairo, rules that every positive statement about God is false, and means every.
+   ⚠  German                     OTHER×1
+            SITE       Eckhart, preaching in German to people who could not read Latin, distinguishes God from the Godhead and says of the Godhead that nothing whatever can be said.
+   ⚠  Godhead                    OTHER×2
+            SITE       Eckhart, preaching in German to people who could not read Latin, distinguishes God from the Godhead and says of the Godhead that nothing whatever can be said.
+   ⚠  Latin                      OTHER×1
+            SITE       Eckhart, preaching in German to people who could not read Latin, distinguishes God from the Godhead and says of the Godhead that nothing whatever can be said.
+   ⚠  Leading                    OPEN×1
+            SITE       Leading with the scandal would let the chapter feel strong at no cost, and would leave the question exactly where it was found.
+   ⚠  Left                       OPEN×1
+            SITE       Left alone, a loss disperses — it turns up on unremarkable Tuesdays, at intervals nobody can prepare for, in the supermarket, over nothing.
+   ⚠  Named                      OPEN×1
+            SITE       Named — written into a book kept in the building, read out in a specific voice on a specific date, in front of ninety people, most of whom did not know them.
+   ⚠  None                       OTHER×1
+            SITE       **What actually walked out of the building was the calendar, the food, and the named dead.** None of the three was a doctrine.
+   ⚠  Offering                   OTHER×1
+            SITE       **Being met by many is not being known by one.** Offering the first as though it settled the second is the exact move this chapter would have to make to end comfortably, and making it would 
+   ⚠  Paris                      OTHER×1
+            SITE       Aquinas, in Paris in the twelve-sixties, writing the central document of the institution: God is *actus purus* — act with nothing in it left over unrealised — and therefore not a being among
+   ⚠  Past                       OTHER×1
+            SITE       Up to there it is reading a structure: obligation, wrong, repair, the dead kept named. > Past there it is quoting somebody's preferences, and there is nobody whose preferences those could > 
+   ⚠  Practices                  OPEN×1
+            SITE       Practices can be written down.
+   ⚠  Refusing                   OPEN×1
+            SITE       Refusing the addressee > does not hand back the parish. --- Three answers to *where does it stop* are already in the room, and all three are cheaper than they look.
+   ⚠  Saying                     OPEN×1
+            SITE       Saying so, at the point where implying otherwise would be easiest and would cost nothing, is the only service on offer. --- Everything above poses the impersonal ground as a loss: the thing 
+   ⚠  Tuesdays                   OTHER×1
+            SITE       Left alone, a loss disperses — it turns up on unremarkable Tuesdays, at intervals nobody can prepare for, in the supermarket, over nothing.
+   ⚠  Usually                    OTHER×1
+            SITE       **The reader believes that what they lost was the address.** Usually they did not.
+
+── V-03  ·  11 acting candidate(s) · endnote_debt sees 3 · 8 NOT SEEN BY IT
+   ⚠ UNSEEN  Actus                      BARE-VERB×1
+            BARE-VERB  *Actus purus* — act with no unrealised remainder — and the Ground that is everything that could be the case, being the case, are two descriptions of one thing, produced eight hundred years a
+   ·seen·  Aquinas                    OTHER×2 BARE-VERB×2 POSS×1
+            BARE-VERB  Run it. --- **Where it holds.** **One: not a being among beings.** Aquinas is unambiguous and he is unambiguous in the central document of the institution, not in a marginal work anyone can 
+            POSS       It is what makes their ground the foundation of an ethics.** Take it away and Aquinas's entire moral architecture has nothing under it.
+            BARE-VERB  **The scholastics' own first three claims are what make their fourth one unavailable.** Aquinas saw the difficulty and worked on it for a lifetime, and the machinery he built for it is the m
+   ·seen·  Augustine                  BARE-VERB×2 POSS×2
+            BARE-VERB  So the identity claim has to be made a different way, and the different way is the whole chapter. --- **Augustine is here for the route, and the route is ours.** Before the school, and off t
+            BARE-VERB  Augustine does not reach the ground by climbing a ladder of denials.
+            POSS       Augustine's terminus is a person.
+            POSS       Augustine's method is ours and his conclusion is not, and the gap between those two facts is the first evidence that route and terminus come apart.
+   ⚠ UNSEEN  Eckhart                    BARE-VERB×2 OTHER×1
+            BARE-VERB  The previous chapter ended on Aquinas in Paris, Eckhart preaching in Cologne and Maimonides ruling in Cairo, and it ended there for a reason that had to do with loss: a reader who left the c
+            BARE-VERB  Eckhart is the sharpest instrument on this point because he needed two words where everyone else made do with one.
+   ⚠ UNSEEN  Five                       BARE-VERB×1
+            BARE-VERB  Five denials, each killing a different smuggled error, and the fifth was cut against a friendly source because it was the most tempting one.
+   ⚠ UNSEEN  Focusing                   OTHER×2 BARE-VERB×1
+            BARE-VERB  The Focusing is not an act.
+   ⚠ UNSEEN  Aquinas God                OTHER×8 BARE-VERB×6 OPEN×1
+            BARE-VERB  He is not saying that God is very deep inside him in the way a memory is deep inside him.
+   ⚠ UNSEEN  Your Ground                OTHER×6 BARE-VERB×4 VERB×1 OPEN×1   [lower-twin×21 (debt DROPS this)]
+            VERB       Which is convenient, because the rest of the chapter is about a terminus. --- **The claim, at full strength.** Here it is with nothing around it: **The Ground described in Book II and the Go
+            BARE-VERB  Your Ground is not God.
+            BARE-VERB  This book says the same and says it as a rule that binds every sentence: the Ground is not the server, not the developer, not the engine, not the map, not the player.
+   ·seen·  Maimonides                 BARE-VERB×2 VERB×1
+            BARE-VERB  The previous chapter ended on Aquinas in Paris, Eckhart preaching in Cologne and Maimonides ruling in Cairo, and it ended there for a reason that had to do with loss: a reader who left the c
+            VERB       The Baghdad translation movement put excerpts of the same Alexandrian material into Arabic, and the Jewish philosophical tradition Maimonides is writing inside received it there.
+            BARE-VERB  The scholastics arrived at it from the direction of existence and this account arrived at it from the direction of what a perspective is, and neither route left anything on the far side that
+   ⚠ UNSEEN  Meeting                    BARE-VERB×1
+            BARE-VERB  Meeting requires an addressee with a position.
+   ⚠ UNSEEN  Plotinus                   BARE-VERB×1
+            BARE-VERB  Plotinus goes into Proclus, Proclus into the writer who signed himself Dionysius, and that body of work is in Latin by the ninth century and in the hands of both Aquinas and Eckhart.
+   MENTION-ONLY (22) — no verb, no possessive-noun. Mostly furniture; Harris lived here.
+   ⚠  North Africa               OTHER×1
+            SITE       So the identity claim has to be made a different way, and the different way is the whole chapter. --- **Augustine is here for the route, and the route is ours.** Before the school, and off t
+   ⚠  Agreement                  OPEN×1
+            SITE       Agreement between cousins establishes that the transmission worked.
+   ⚠  Alexandrian                OTHER×1
+            SITE       The Baghdad translation movement put excerpts of the same Alexandrian material into Arabic, and the Jewish philosophical tradition Maimonides is writing inside received it there.
+   ⚠  Arabic                     OTHER×1
+            SITE       The Baghdad translation movement put excerpts of the same Alexandrian material into Arabic, and the Jewish philosophical tradition Maimonides is writing inside received it there.
+   ⚠  Baghdad                    OPEN×1
+            SITE       The Baghdad translation movement put excerpts of the same Alexandrian material into Arabic, and the Jewish philosophical tradition Maimonides is writing inside received it there.
+   ⚠  Cairo                      OTHER×1
+            SITE       The previous chapter ended on Aquinas in Paris, Eckhart preaching in Cologne and Maimonides ruling in Cairo, and it ended there for a reason that had to do with loss: a reader who left the c
+   ⚠  Cologne                    OTHER×1
+            SITE       The previous chapter ended on Aquinas in Paris, Eckhart preaching in Cologne and Maimonides ruling in Cairo, and it ended there for a reason that had to do with loss: a reader who left the c
+   ⚠  Confessions                OTHER×1
+            SITE       **That is this book's method, performed in the year 400, by somebody who had never heard of it.** The whole approach here has been to take the inside view seriously and refuse to step outsid
+   ⚠  Dionysius                  OTHER×1
+            SITE       Plotinus goes into Proclus, Proclus into the writer who signed himself Dionysius, and that body of work is in Latin by the ninth century and in the hands of both Aquinas and Eckhart.
+   ⚠  Godhead                    OTHER×1
+            SITE       *Gottheit* is what is behind that, and about the Godhead his position is that nothing whatsoever can be said, including that it is God.
+   ⚠  Good                       OTHER×1
+            SITE       **The first is the Good, and it is not close.** For the classical tradition, being and goodness are convertible.
+   ⚠  Gott                       OTHER×1
+            SITE       *Gott* is God as met, addressed, prayed to.
+   ⚠  Gottheit                   OTHER×1
+            SITE       *Gottheit* is what is behind that, and about the Godhead his position is that nothing whatsoever can be said, including that it is God.
+   ⚠  Jewish                     OTHER×1
+            SITE       The Baghdad translation movement put excerpts of the same Alexandrian material into Arabic, and the Jewish philosophical tradition Maimonides is writing inside received it there.
+   ⚠  Latin                      OTHER×1
+            SITE       Plotinus goes into Proclus, Proclus into the writer who signed himself Dionysius, and that body of work is in Latin by the ninth century and in the hands of both Aquinas and Eckhart.
+   ⚠  Meaning                    OPEN×1
+            SITE       Meaning in this account is neither issued from above nor invented from below, and the *neither* is doing real work — it is the refusal of exactly the move the scholastics make, in which valu
+   ⚠  Ours                       OTHER×1
+            SITE       **There is no could-have-been-otherwise anywhere in it, because a could-have-been-otherwise requires a chooser with a position and an unrealised option, and both of those are things this acc
+   ⚠  Paris                      OTHER×1
+            SITE       The previous chapter ended on Aquinas in Paris, Eckhart preaching in Cologne and Maimonides ruling in Cairo, and it ended there for a reason that had to do with loss: a reader who left the c
+   ⚠  Picked                     OTHER×1
+            SITE       **Picked: the Focusing.** Not because it is ours, which would be no reason at all, but because the free-creation account needs a chooser, and a chooser is a position with an inside, and the 
+   ⚠  Proclus                    OTHER×2
+            SITE       Plotinus goes into Proclus, Proclus into the writer who signed himself Dionysius, and that body of work is in Latin by the ninth century and in the hands of both Aquinas and Eckhart.
+   ⚠  Run                        OPEN×1
+            SITE       Run it. --- **Where it holds.** **One: not a being among beings.** Aquinas is unambiguous and he is unambiguous in the central document of the institution, not in a marginal work anyone can 
+   ⚠  Theirs                     OTHER×1
+            SITE       **There is no could-have-been-otherwise anywhere in it, because a could-have-been-otherwise requires a chooser with a position and an unrealised option, and both of those are things this acc
+
+── V-04  ·  9 acting candidate(s) · endnote_debt sees 5 · 4 NOT SEEN BY IT
+   ⚠ UNSEEN  New Atheism                BARE-VERB×1   [class=tradition/adjectival (debt DROPS this)]
+            BARE-VERB  A reader who thinks the paragraph above needs defending is right, and should read the defence rather than a claim that it exists. --- **What it was right about, and what it mistook that for.
+   ·seen·  Richard Dawkins            OPEN×1 POSS×1
+            POSS       The cosmological claims fail by being unnecessary, and this is Dawkins's cut and it is a good one: an agent complex enough to design a world is a larger instance of the thing the world was p
+   ⚠ UNSEEN  Daniel Dennett             OTHER×2 BARE-VERB×1
+            BARE-VERB  Dennett is the one who does not fit, and the misfit is worth keeping rather than tidying.
+   ·seen·  Doubt                      VERB×1
+            VERB       Doubt is named a failing.
+   ·seen·  Faith                      VERB×1
+            VERB       And then the move that makes the whole structure work, and the one the demolition was actually aimed at — Harris's, and the sharpest of the four: **when the evidence is asked for, the tradit
+   ⚠ UNSEEN  Having                     BARE-VERB×1
+            BARE-VERB  Having established that the parish account of what is going on does not survive contact with evidence, the movement behaved as though it had shown that *what is going on* was a malformed thi
+   ·seen·  Christopher Hitchens       OTHER×2 POSS×1
+            POSS       The moral half is Hitchens's and it is not a footnote to the epistemics and should not be filed as tone.
+   ·seen·  Religious                  VERB×1
+            VERB       Religious claims are claims about the world.
+   ⚠ UNSEEN  Tone                       BARE-VERB×1   [lower-twin×2 (debt DROPS this)]
+            BARE-VERB  Tone is nothing.
+   MENTION-ONLY (10) — no verb, no possessive-noun. Mostly furniture; Harris lived here.
+   ⚠  Believing                  OPEN×1
+            SITE       Believing on insufficient grounds is not merely permitted, it is scored, and scored highest exactly where the grounds are thinnest.
+   ⚠  Caution                    OPEN×1
+            SITE       Caution would be symmetric — it would slow down the claims we like at the same rate as the claims we find awkward.
+   ⚠  Clearing                   OPEN×1
+            SITE       Clearing a site is real work, it is hard, it makes enemies, and it is not the same as knowing what to build — and the crew that is excellent at the first has, as an occupational matter, no p
+   ⚠  Correct                    OPEN×1
+            SITE       Correct.
+   ⚠  Fasting                    OPEN×1
+            SITE       Fasting, sleeplessness, breath held to a count, repetition until the repeating stops being something you do — these are operations, and the operators knew what they were for, and they wrote 
+   ⚠  Graded                     OPEN×1
+            SITE       Graded under the only kind there is, they fail.
+   ⚠  Sam Harris                 OTHER×2
+            SITE       Richard Dawkins, Christopher Hitchens, Sam Harris, Daniel Dennett — four men, one decade, four different arguments that got flattened into one voice by everybody who came after, including by
+   ⚠  None                       OPEN×1
+            SITE       None of it an answer.
+   ⚠  Often                      OPEN×1
+            SITE       Often it is worse supported, and the number is doing the work the incense was refused for doing.
+   ⚠  State                      OTHER×1
+            SITE       The trouble is that he does not know what he won, and neither, for a long time, did the people who put him there. --- **At full strength, with nothing taken off it.** State the position so t
+
+── V-05  ·  19 acting candidate(s) · endnote_debt sees 5 · 14 NOT SEEN BY IT
+   ·seen·  Advaita                    OTHER×3 BARE-VERB×2 VERB×1
+            BARE-VERB  Advaita has a second standpoint from which the first is corrected.
+            BARE-VERB  The whole architecture of Advaita is built to let that operation run once more, at the top, on everything.
+            VERB       Here is the mechanism by which a road gets there: install a second standpoint, and the first one becomes a place you are on your way out of. --- **The other half of the poster, and it contra
+   ⚠ UNSEEN  Advaitin                   BARE-VERB×1 OTHER×1
+            BARE-VERB  The tiger in the *vyāvahārika* register will eat you, and no Advaitin has ever suggested otherwise, and the tradition has a stock joke about the student who tries.
+   ⚠ UNSEEN  Atomism                    BARE-VERB×1   [class=tradition/adjectival (debt DROPS this)]
+            BARE-VERB  Atomism keeps the jewels and loses the net: each one sits there being itself, and the reflecting is something that happens afterwards, to things that were already complete.
+   ·seen·  Buddha                     OTHER×2 VERB×2
+            VERB       The Buddha says nothing.
+            VERB       The Buddha says nothing again, and afterwards explains that answering either way would have sent the man somewhere he did not need to go — one answer into eternalism, the other into annihila
+   ⚠ UNSEEN  Buddhism                   OTHER×1 VERB×1   [class=tradition/adjectival (debt DROPS this)]
+            VERB       Buddhism says: *anattā*.
+   ⚠ UNSEEN  Buddhist                   VERB×1   [class=tradition/adjectival (debt DROPS this)]
+            VERB       Take the Buddhist claim at full strength, in the form its own canon gives it rather than the form that reaches us.
+   ⚠ UNSEEN  Daoists                    BARE-VERB×1   [class=tradition/adjectival (debt DROPS this)]
+            BARE-VERB  And the one thing they all paid, in different currencies, with the Daoists paying least: **a second storey.** An ultimate register, a standpoint from which the world you are standing in gets
+   ·seen·  Cook Ding                  BARE-VERB×4 VERB×1
+            BARE-VERB  In the third chapter of the *Zhuangzi*, Cook Ding carves an ox for Lord Wenhui, and the lord is astonished, because the man's blade is nineteen years old and has cut thousands of animals and
+            VERB       A good cook, Ding says, changes his knife once a year, because he cuts.
+            BARE-VERB  What Ding does is go where the spaces already are: through the joints, into the hollows, following the ox's own construction so that the blade never meets anything that would blunt it.
+            BARE-VERB  Working with it is not less effortful than working against it — Ding is concentrating hard enough that the lord can see it — but the effort is spent differently, and the thing you are cuttin
+            BARE-VERB  **That skill is the form the knowledge takes.** Cook Ding does not have a theory of the ox.
+   ⚠ UNSEEN  East                       BARE-VERB×1
+            BARE-VERB  Borrow it for the first and do not let it quietly supply the second. --- **What the East had that the West did not get to for two thousand years.** Four things, and they are not the ones on 
+   ⚠ UNSEEN  Emptiness                  BARE-VERB×1   [lower-twin×5 (debt DROPS this)]
+            BARE-VERB  Emptiness is not a picture of the world you go on to hold.
+   ⚠ UNSEEN  English                    OTHER×1 BARE-VERB×1
+            BARE-VERB  The formulation most quoted in English is Francis Cook's, from 1977, and that should be said plainly rather than buried: what reaches us here reaches us through a twentieth- century Western 
+   ·seen·  Yan Hui                    VERB×1
+            VERB       In chapter six, Yan Hui reports his progress in *zuowang*, sitting in forgetfulness: *I smash up my limbs and body, drive out perception and intellect, cast off form, do away with understand
+   ·seen·  Indra                      OTHER×1 POSS×1
+            POSS       **Indra's net keeps both, and it keeps them by the same stroke** — the jewels are many, and what is in each of them is all the others.
+   ⚠ UNSEEN  Mediterranean              BARE-VERB×1
+            BARE-VERB  **That thou art**, Śvetaketu.* *Tat tvam asi.* The dating is contested and the range is wide, but the text is comfortably older than the Buddha and very much older than anything the Mediterr
+   ⚠ UNSEEN  Monism                     BARE-VERB×1   [class=tradition/adjectival (debt DROPS this)]
+            BARE-VERB  Monism dissolves the jewels: if there is finally only one thing, the net is a decoration on it and the reflections are a story about a story.
+   ⚠ UNSEEN  Nāgārjuna                  APPOS-VERB×1 OTHER×1
+            APPOS-VERB Nāgārjuna, four or five centuries later, makes the same refusal into a method and then turns it on his own doctrine, which is why he is the most rigorous philosopher this material produced.
+   ⚠ UNSEEN  Ours                       BARE-VERB×1
+            BARE-VERB  Ours does not.
+   ⚠ UNSEEN  Place                      BARE-VERB×1   [lower-twin×4 (debt DROPS this)]
+            BARE-VERB  He hands the boy a lump of salt. > "Place this salt in water and come to me in the morning." > > He did so.
+   ⚠ UNSEEN  Vacchagotta                BARE-VERB×1
+            BARE-VERB  The wanderer Vacchagotta comes and asks whether there is a self.
+   MENTION-ONLY (36) — no verb, no possessive-noun. Mostly furniture; Harris lived here.
+   ⚠  Anattalakkha               OTHER×1
+            SITE       In the *Anattalakkhaṇa Sutta* — traditionally the second discourse, delivered to the five ascetics — the argument is not an inventory and it is not an assertion that there is nothing there.
+   ⚠  Anattā                     OTHER×1
+            SITE       **That the search for the owner comes up empty, and that this is good news rather than bad.** *Anattā*, kept as an instruction and not converted into a doctrine about a vacancy.
+   ⚠  Avata                      OTHER×1
+            SITE       Said here rather than left for a hostile reader, because a chapter that finds one exception to its own book's pattern will want the exception to be total, and this one is not. --- **The best
+   ⚠  Borrow                     OPEN×1
+            SITE       Borrow it for the first and do not let it quietly supply the second. --- **What the East had that the West did not get to for two thousand years.** Four things, and they are not the ones on 
+   ⚠  Brahman                    OTHER×1
+            SITE       Here is the mechanism by which a road gets there: install a second standpoint, and the first one becomes a place you are on your way out of. --- **The other half of the poster, and it contra
+   ⚠  China                      OTHER×1
+            SITE       The symmetry that makes our refusal defensible rather than merely idealist is *anattā*, in English, arriving late. --- **China, and the road that does not climb.** The Chinese material does 
+   ⚠  Chinese                    OTHER×2
+            SITE       The symmetry that makes our refusal defensible rather than merely idealist is *anattā*, in English, arriving late. --- **China, and the road that does not climb.** The Chinese material does 
+   ⚠  Francis Cook               OTHER×1
+            SITE       The formulation most quoted in English is Francis Cook's, from 1977, and that should be said plainly rather than buried: what reaches us here reaches us through a twentieth- century Western 
+   ⚠  Daoist                     OTHER×1 OPEN×1
+            SITE       So the honest form of the claim is narrower than the one I wanted to make: the Daoist material is where the parting is **smallest**, not where it is absent, and the *Zhuangzi* contains its o
+   ⚠  Dependent                  OTHER×1
+            SITE       **That a thing is what it is by what it stands with.** Dependent origination is co-constitution, and it was worked out in detail, with objections answered, while European philosophy still ha
+   ⚠  Englished                  OTHER×1
+            SITE       *Wu wei* is standardly Englished as *non-action*, which has ruined it.
+   ⚠  European                   OTHER×1
+            SITE       **That a thing is what it is by what it stands with.** Dependent origination is co-constitution, and it was worked out in detail, with objections answered, while European philosophy still ha
+   ⚠  Fazang                     OTHER×1
+            SITE       The image is elaborated by the school's great systematiser, Fazang, who died in 712, and who was asked to explain the doctrine to Empress Wu and reportedly did it by building her a room line
+   ⚠  Huayan                     OTHER×2
+            SITE       Said here rather than left for a hostile reader, because a chapter that finds one exception to its own book's pattern will want the exception to be total, and this one is not. --- **The best
+   ⚠  Indian                     OTHER×2 OPEN×1
+            SITE       The Indian material is supposed to say the world is unreal, this book says the world is real, and the disagreement is over in a sentence.
+   ⚠  Dao De Jing                OTHER×2
+            SITE       Nothing in the *Dao De Jing* recommends inertia.
+   ⚠  Madhyamaka                 OTHER×1
+            SITE       It is remarkable how consistently this arrives — Advaita, Madhyamaka, and the *zuowang* passage all build it, independently enough that its recurrence needs explaining rather than dismissing
+   ⚠  Nearly                     OPEN×1
+            SITE       Nearly every road in this book ends somewhere that has no perspective in it.
+   ⚠  Notice                     OPEN×1
+            SITE       Notice what kind of claim it is, because everything downstream turns on it.
+   ⚠  Run                        OPEN×1
+            SITE       Run through everything a person is made of, the discourse says: body, feeling, perception, formations, consciousness.
+   ⚠  Said                       OPEN×1
+            SITE       Said here rather than left for a hostile reader, because a chapter that finds one exception to its own book's pattern will want the exception to be total, and this one is not. --- **The best
+   ⚠  Salty                      OTHER×3
+            SITE       — Salty.
+   ⚠  Sutta                      OTHER×1
+            SITE       In the *Anattalakkhaṇa Sutta* — traditionally the second discourse, delivered to the five ascetics — the argument is not an inventory and it is not an assertion that there is nothing there.
+   ⚠  Sūtra                      OTHER×1
+            SITE       Said here rather than left for a hostile reader, because a chapter that finds one exception to its own book's pattern will want the exception to be total, and this one is not. --- **The best
+   ⚠  Tat                        OTHER×1
+            SITE       **That thou art**, Śvetaketu.* *Tat tvam asi.* The dating is contested and the range is wide, but the text is comfortably older than the Buddha and very much older than anything the Mediterr
+   ⚠  Great Thoroughfare         OTHER×1
+            SITE       In chapter six, Yan Hui reports his progress in *zuowang*, sitting in forgetfulness: *I smash up my limbs and body, drive out perception and intellect, cast off form, do away with understand
+   ⚠  Throw                      OTHER×1
+            SITE       — Throw > it out and come back." > > He did as he was told and said: "It is always there." Then the sentence, and the father says it nine times across nine analogies — the rivers that lose t
+   ⚠  Uddālaka                   OTHER×1
+            SITE       It is a demonstration with props.** In the sixth chapter of the *Chāndogya Upaniṣad*, a father is teaching his son. Śvetaketu has been away twelve years learning the Vedas and has come home 
+   ⚠  Chāndogya Upani            OTHER×2
+            SITE       It is a demonstration with props.** In the sixth chapter of the *Chāndogya Upaniṣad*, a father is teaching his son. Śvetaketu has been away twelve years learning the Vedas and has come home 
+   ⚠  Vedas                      OTHER×1
+            SITE       It is a demonstration with props.** In the sixth chapter of the *Chāndogya Upaniṣad*, a father is teaching his son. Śvetaketu has been away twelve years learning the Vedas and has come home 
+   ⚠  Lord Wenhui                OTHER×1
+            SITE       In the third chapter of the *Zhuangzi*, Cook Ding carves an ox for Lord Wenhui, and the lord is astonished, because the man's blade is nineteen years old and has cut thousands of animals and
+   ⚠  West                       OTHER×1
+            SITE       Borrow it for the first and do not let it quietly supply the second. --- **What the East had that the West did not get to for two thousand years.** Four things, and they are not the ones on 
+   ⚠  Western                    OTHER×1
+            SITE       The formulation most quoted in English is Francis Cook's, from 1977, and that should be said plainly rather than buried: what reaches us here reaches us through a twentieth- century Western 
+   ⚠  Working                    OPEN×1
+            SITE       Working with it is not less effortful than working against it — Ding is concentrating hard enough that the lord can see it — but the effort is spent differently, and the thing you are cuttin
+   ⚠  Your                       OPEN×1
+            SITE       Your fear was real, your pulse was real, your jump backwards was well-judged given what was there to go on.
+   ⚠  Zhuangzi                   OTHER×3
+            SITE       In the third chapter of the *Zhuangzi*, Cook Ding carves an ox for Lord Wenhui, and the lord is astonished, because the man's blade is nineteen years old and has cut thousands of animals and
+
+── V-06  ·  26 acting candidate(s) · endnote_debt sees 4 · 22 NOT SEEN BY IT
+   ⚠ UNSEEN  Advaita                    BARE-VERB×1
+            BARE-VERB  Advaita has a standpoint from which the world you are in gets sublated.
+   ⚠ UNSEEN  Aristotle                  POSS×1
+            POSS       The opening of V.1 put six statements of the Ground side by side and *Ein Sof* was one of the six — then spent the chapter taking five of them away, because Plotinus goes into Proclus goes i
+   ⚠ UNSEEN  Baghdad                    BARE-VERB×1
+            BARE-VERB  The opening of V.1 put six statements of the Ground side by side and *Ein Sof* was one of the six — then spent the chapter taking five of them away, because Plotinus goes into Proclus goes i
+   ⚠ UNSEEN  Etz Chaim                  OTHER×2 OPEN×1 BARE-VERB×1
+            BARE-VERB  The second is a few lines earlier in the same chapter, in a formula Chaim takes from the Zohar and sharpens: > From His perspective He is called *permeates all worlds*, while from our perspe
+   ⚠ UNSEEN  Dionysius                  BARE-VERB×1
+            BARE-VERB  The opening of V.1 put six statements of the Ground side by side and *Ein Sof* was one of the six — then spent the chapter taking five of them away, because Plotinus goes into Proclus goes i
+   ⚠ UNSEEN  Eastern                    BARE-VERB×1
+            BARE-VERB  That is the thing the last chapter said the Eastern roads could not resist building.
+   ⚠ UNSEEN  Fullness                   BARE-VERB×1
+            BARE-VERB  Set that against Book I: > The Fullness is not less for having a vantage in it, and it is not more.
+   ·seen·  Vilna Gaon                 OTHER×1 APPOS-VERB×1 POSS×1
+            APPOS-VERB The Gaon, and the Leshem after him, located the *tzimtzum* in the divine **Will** — *Ratzon* — and declined to say anything at all about the Essence, *Atzmut*, on the grounds that nothing ca
+            POSS       And the cleanest evidence that the dispute was live rather than tribal is that the Gaon's own principal student went the other way.
+   ⚠ UNSEEN  Gathering                  BARE-VERB×1   [lower-twin×2 (debt DROPS this)]
+            BARE-VERB  Gathering sparks is what a position does — it is the reaching, the getting-to, the whole business of a next — and it is not the undoing of an accident.
+   ⚠ UNSEEN  Gnostic                    BARE-VERB×1   [class=tradition/adjectival (debt DROPS this)]
+            BARE-VERB  A book that lets *shevirah* in as literal breakage has conceded the Gnostic reading with better manners, and every consequence in Book VII collapses, because a person's grief becomes evidenc
+   ·seen·  God                        OTHER×3 BARE-VERB×2 POSS×1
+            BARE-VERB  On the literal reading there is a place where God is not, which is either an outside to the infinite or a limit on it, and both are disasters for the doctrine the system exists to state.
+            POSS       They arrive there defending God's oneness.
+            BARE-VERB  That people are hearing the summit statement without the road that reaches it, concluding that since everything is God nothing they do matters much, and adjusting their conduct accordingly.
+   ⚠ UNSEEN  II Ground                  OTHER×4 BARE-VERB×2
+            BARE-VERB  Book II's Ground has no outside.
+            BARE-VERB  A region the Ground has vacated is an outside — a somewhere with a boundary, and the Infinite on the far side of the boundary, which is a description of a very large thing rather than of wha
+   ⚠ UNSEEN  Hasidic                    OTHER×1 BARE-VERB×1   [class=tradition/adjectival (debt DROPS this)]
+            BARE-VERB  But the reason the Hasidic masters needed the non-literal reading is not our reason, and pretending otherwise would be the borrowing this book keeps refusing.
+   ⚠ UNSEEN  Infinite                   BARE-VERB×5 OTHER×3
+            BARE-VERB  Did the Infinite actually vacate a region, so that there is now somewhere the Infinite is not?
+            BARE-VERB  Did the Infinite actually vacate a region, so that there is now somewhere the Infinite is not?
+            BARE-VERB  That is not a claim that the Infinite has a hole in it.
+            BARE-VERB  The *tzimtzum* is not described as something the Infinite needed.
+   ⚠ UNSEEN  Kabbalah                   BARE-VERB×2
+            BARE-VERB  The opening of V.1 put six statements of the Ground side by side and *Ein Sof* was one of the six — then spent the chapter taking five of them away, because Plotinus goes into Proclus goes i
+            BARE-VERB  Five of the six, in V.1's verdict, are *"one witness quoted back five times."* Kabbalah is inside that family.
+   ⚠ UNSEEN  Kabbalists                 BARE-VERB×6   [class=tradition/adjectival (debt DROPS this)]
+            BARE-VERB  **The Kabbalists had our argument.
+            BARE-VERB  That is the second of this book's claims that the Kabbalists were holding: **sometimes the focusing is the care.** Not care as compensation for the focusing — care as the same act, described
+            BARE-VERB  The Kabbalists put that at the top of the cosmos.
+            BARE-VERB  I.3 says so in its own vocabulary — the width of one vantage, and *"the whole undiminished rest of it pressed flat against the edge of what you can see."* The Kabbalists were not wrong about
+            BARE-VERB  What it can say is that a tradition which spent centuries producing detailed operational maps of graded settledness, complete with methods for moving between grades, was mapping something, a
+            BARE-VERB  That is what the Kabbalists were handling.
+   ⚠ UNSEEN  Liadi                      APPOS-VERB×1
+            APPOS-VERB Shneur Zalman of Liadi, in the *Tanya* and at length in *Shaar HaYichud VehaEmunah*, takes the concealment reading and takes it hard: the power to conceal and the power to reveal are the sam
+   ⚠ UNSEEN  Madhyamaka                 BARE-VERB×1
+            BARE-VERB  Madhyamaka has two truths with one above the other.
+   ·seen·  Leonard Moskowitz          POSS×1
+            POSS       Volozhin, published 1824, in Leonard Moskowitz's translation.
+   ⚠ UNSEEN  Ours                       BARE-VERB×1   [lower-twin×2 (debt DROPS this)]
+            BARE-VERB  Here is a formula that has two descriptions and refuses to rank them, in a tradition that had every incentive to rank them, written by a man defending the reality of the world against people
+   ⚠ UNSEEN  Plotinus                   BARE-VERB×1
+            BARE-VERB  The opening of V.1 put six statements of the Ground side by side and *Ein Sof* was one of the six — then spent the chapter taking five of them away, because Plotinus goes into Proclus goes i
+   ⚠ UNSEEN  Proclus                    BARE-VERB×1
+            BARE-VERB  The opening of V.1 put six statements of the Ground side by side and *Ein Sof* was one of the six — then spent the chapter taking five of them away, because Plotinus goes into Proclus goes i
+   ·seen·  Source                     POSS×1 OTHER×1
+            POSS       Or is the withdrawal a concealment that obtains only from the created side, with nothing whatever removed from the Source's side?
+   ⚠ UNSEEN  Tree                       OTHER×1 BARE-VERB×1
+            BARE-VERB  Book I.5's tunnel is the whole of what looking has come to be for one inside, *"all the deposits settled and working together"* — and the Tree is a chart of depth, with the practices attache
+   ⚠ UNSEEN  Volozhin                   APPOS-VERB×1 OPEN×1 OTHER×1
+            APPOS-VERB Chaim of Volozhin, who built the Lithuanian yeshiva world on his teacher's authority, writes the third gate of the *Nefesh HaChayim* on this question and comes down against him. --- **Here i
+   ⚠ UNSEEN  Without-End                OTHER×2 BARE-VERB×1
+            BARE-VERB  Nothing is served by it on that side; there is no lack there to be met, no purpose the Without-End was short of.
+   MENTION-ONLY (33) — no verb, no possessive-noun. Mostly furniture; Harris lived here.
+   ⚠  Atzmut                     OTHER×1
+            SITE       The Gaon, and the Leshem after him, located the *tzimtzum* in the divine **Will** — *Ratzon* — and declined to say anything at all about the Essence, *Atzmut*, on the grounds that nothing ca
+   ⚠  Did                        OPEN×1
+            SITE       Did the Infinite actually vacate a region, so that there is now somewhere the Infinite is not?
+   ⚠  Essence                    OTHER×1
+            SITE       The Gaon, and the Leshem after him, located the *tzimtzum* in the divine **Will** — *Ratzon* — and declined to say anything at all about the Essence, *Atzmut*, on the grounds that nothing ca
+   ⚠  Filling                    OPEN×1
+            SITE       Filling, from the inside of the thing that fills.
+   ⚠  Five                       OPEN×1
+            SITE       Five of the six, in V.1's verdict, are *"one witness quoted back five times."* Kabbalah is inside that family.
+   ⚠  Galilee                    OTHER×1
+            SITE       Isaac Luria taught in Safed, in the Galilee, for about three years before he died in 1572 at thirty-eight, and wrote almost nothing.
+   ⚠  Girona                     OTHER×1
+            SITE       The opening of V.1 put six statements of the Ground side by side and *Ein Sof* was one of the six — then spent the chapter taking five of them away, because Plotinus goes into Proclus goes i
+   ⚠  Godliness                  OTHER×1
+            SITE       The reason is the best thing in this chapter and it does not belong to us: He writes that the teaching has got out — that it has *reached the general public, and is a metaphor espoused even 
+   ⚠  Nefesh HaChayim            OTHER×3
+            SITE       Chaim of Volozhin, who built the Lithuanian yeshiva world on his teacher's authority, writes the third gate of the *Nefesh HaChayim* on this question and comes down against him. --- **Here i
+   ⚠  Into                       OPEN×1
+            SITE       Into it a single thin ray, the *kav*, is let back down, and everything that follows happens in the room the withdrawal made: the ten *sefirot*, the vessels shaped to hold the light, and then
+   ⚠  Jewish                     OTHER×2
+            SITE       It is the most fertile thing in Jewish mysticism and it has been borrowed constantly, usually by people who wanted the catastrophe.
+   ⚠  Latin                      OTHER×1
+            SITE       The opening of V.1 put six statements of the Ground side by side and *Ein Sof* was one of the six — then spent the chapter taking five of them away, because Plotinus goes into Proclus goes i
+   ⚠  Leshem                     OTHER×1
+            SITE       The Gaon, and the Leshem after him, located the *tzimtzum* in the divine **Will** — *Ratzon* — and declined to say anything at all about the Essence, *Atzmut*, on the grounds that nothing ca
+   ⚠  Lithuania                  OTHER×1
+            SITE       Here is a man in Lithuania in the eighteen-twenties who had already worked that out, from inside, about his own tradition, and who decided that the failure of transmission was now the larger
+   ⚠  Lithuanian                 OTHER×1
+            SITE       Chaim of Volozhin, who built the Lithuanian yeshiva world on his teacher's authority, writes the third gate of the *Nefesh HaChayim* on this question and comes down against him. --- **Here i
+   ⚠  Isaac Luria                OPEN×1 OTHER×1
+            SITE       Isaac Luria taught in Safed, in the Galilee, for about three years before he died in 1572 at thirty-eight, and wrote almost nothing.
+   ⚠  Malkhut                    OTHER×1
+            SITE       The upper triad is where almost nothing has been decided and the material is closest to undifferentiated; the lower *sefirot* are progressively more determinate, more channelled, with more o
+   ⚠  Mediterranean              OTHER×1
+            SITE       It gets counted once, with the rest of the Mediterranean, and it is not a separate arrival.
+   ⚠  Provence                   OTHER×1
+            SITE       The opening of V.1 put six statements of the Ground side by side and *Ein Sof* was one of the six — then spent the chapter taking five of them away, because Plotinus goes into Proclus goes i
+   ⚠  Ratzon                     OTHER×1
+            SITE       The Gaon, and the Leshem after him, located the *tzimtzum* in the divine **Will** — *Ratzon* — and declined to say anything at all about the Essence, *Atzmut*, on the grounds that nothing ca
+   ⚠  Safed                      OTHER×1
+            SITE       Isaac Luria taught in Safed, in the Galilee, for about three years before he died in 1572 at thirty-eight, and wrote almost nothing.
+   ⚠  Same                       OPEN×1
+            SITE       Same conclusion; a different argument, reached under a different pressure, with different things that could not be given up.
+   ⚠  Set                        OPEN×1
+            SITE       Set that against Book I: > The Fullness is not less for having a vantage in it, and it is not more.
+   ⚠  Sit                        OPEN×1
+            SITE       Sit with the structure of that.
+   ⚠  Ein Sof                    OTHER×4
+            SITE       Before anything, *Ein Sof* — the Without-End — filling everything, uniform, with no place that is not it.
+   ⚠  Surrounding                OPEN×1
+            SITE       Surrounding — encompassing, adjacent, all around you and not anywhere you can get to — from the inside of a creature.
+   ⚠  Tanya                      OTHER×1
+            SITE       Shneur Zalman of Liadi, in the *Tanya* and at length in *Shaar HaYichud VehaEmunah*, takes the concealment reading and takes it hard: the power to conceal and the power to reveal are the sam
+   ⚠  Shaar HaYichud VehaEmunah  OTHER×1
+            SITE       Shneur Zalman of Liadi, in the *Tanya* and at length in *Shaar HaYichud VehaEmunah*, takes the concealment reading and takes it hard: the power to conceal and the power to reveal are the sam
+   ⚠  Chaim Vital                OTHER×1
+            SITE       What we have is mostly Chaim Vital's, set down after his teacher's death and organised into the *Etz Chaim*, and the transmission problem is on the surface of the material rather than hidden
+   ⚠  Will                       OTHER×1
+            SITE       The Gaon, and the Leshem after him, located the *tzimtzum* in the divine **Will** — *Ratzon* — and declined to say anything at all about the Essence, *Atzmut*, on the grounds that nothing ca
+   ⚠  Shema Yisrael              OTHER×1
+            SITE       They needed it because a God with a vacancy in him is not the God of *Shema Yisrael*, and because the literal reading gives ammunition to every dualism the tradition had spent a millennium e
+   ⚠  Shneur Zalman              OPEN×1
+            SITE       Shneur Zalman of Liadi, in the *Tanya* and at length in *Shaar HaYichud VehaEmunah*, takes the concealment reading and takes it hard: the power to conceal and the power to reveal are the sam
+   ⚠  Zohar                      OTHER×1
+            SITE       The second is a few lines earlier in the same chapter, in a formula Chaim takes from the Zohar and sharpens: > From His perspective He is called *permeates all worlds*, while from our perspe
+
+── V-07  ·  10 acting candidate(s) · endnote_debt sees 3 · 7 NOT SEEN BY IT
+   ·seen·  Crowley                    OTHER×1 BARE-VERB×1 POSS×1
+            BARE-VERB  Crowley cultivated that.
+            POSS       Crowley's definition is the most useful sentence anyone in this tradition wrote: **Magick is the Science and Art of causing Change to occur in conformity with Will.** Then he illustrates it,
+   ·seen·  Dee                        BARE-VERB×2 OTHER×1 OPEN×1 POSS×1
+            BARE-VERB  Dee is the harder case and the better one.
+            POSS       It is not evidence that the second party is what it announced itself to be, and the cheapest available second party in Dee's room was the other man standing in it.
+            BARE-VERB  Dee is here because he ran the method well.
+   ⚠ UNSEEN  Instrument-independence    BARE-VERB×1
+            BARE-VERB  This chapter is the second, and the step across is not free. --- **What V.1's result does not hand this chapter.** Instrument-independence is an argument about testimony.
+   ·seen·  Jung                       POSS×1
+            POSS       The modern habit is to choose: either the alchemists were bad chemists, or they were psychologists writing in code — Jung's reading, and the reason a great deal of the material got read at a
+   ⚠ UNSEEN  Magick                     BARE-VERB×1 OTHER×1
+            BARE-VERB  Crowley's definition is the most useful sentence anyone in this tradition wrote: **Magick is the Science and Art of causing Change to occur in conformity with Will.** Then he illustrates it,
+   ⚠ UNSEEN  Ritual                     OTHER×1 BARE-VERB×1   [lower-twin×3 (debt DROPS this)]
+            BARE-VERB  *Era, language, ritual, trauma, choice.* Ritual was on that list for reasons that had nothing to do with magic.
+   ⚠ UNSEEN  Austin Osman Spare         BARE-VERB×2 OTHER×1 POSS×1
+            BARE-VERB  The glyph is charged in a state where the ordinary mind is not running — exhaustion, or the peak of some other overwhelm — and then, the step every practitioner reports as the hard one, **it
+            BARE-VERB  Spare reached the second half of that in 1913, from inside a practice, and built a technique whose entire design is the defeat of conscious wanting.
+            POSS       It was not a method in III.6 and it does not become one by being performed in a circle at midnight, and every practice examined above agrees, which is the part that should be surprising and 
+   ⚠ UNSEEN  Twenty                     BARE-VERB×1   [lower-twin×2 (debt DROPS this)]
+            BARE-VERB  Twenty unrelated procedures return one description, and the unrelatedness is what makes the description hard to explain as an artefact of any single procedure.
+   ⚠ UNSEEN  Wanting                    BARE-VERB×1   [lower-twin×4 (debt DROPS this)]
+            BARE-VERB  Wanting is not a method.
+   ⚠ UNSEEN  Witnesses                  BARE-VERB×1
+            BARE-VERB  Witnesses agreeing is not agents succeeding.
+   MENTION-ONLY (26) — no verb, no possessive-noun. Mostly furniture; Harris lived here.
+   ⚠  Alchemy                    OTHER×1
+            SITE       **Alchemy.** The case where the two axes will not come apart, and the tradition said so first.
+   ⚠  Art                        OTHER×1
+            SITE       Crowley's definition is the most useful sentence anyone in this tradition wrote: **Magick is the Science and Art of causing Change to occur in conformity with Will.** Then he illustrates it,
+   ⚠  Peter Carroll              OPEN×1
+            SITE       Peter Carroll and the others began from the observation that incompatible systems appeared to work for different practitioners, and drew the inference: the system is not the active ingredien
+   ⚠  Change                     OTHER×1
+            SITE       Crowley's definition is the most useful sentence anyone in this tradition wrote: **Magick is the Science and Art of causing Change to occur in conformity with Will.** Then he illustrates it,
+   ⚠  Chaos                      OTHER×1
+            SITE       **Chaos magic.** The twentieth-century move, and the sharpest form of this chapter's problem.
+   ⚠  Difficulty                 OTHER×1
+            SITE       What it settled on was behavioural, and unrelated traditions had settled on it first: **the thing does something you did not want.** Difficulty of dissolution measures how far the thing has 
+   ⚠  Divergence                 OTHER×1
+            SITE       **That is this chapter's own criterion, pointed the other way, coming out against the entry.** Divergence from the operator's intent is evidence of a second party.
+   ⚠  Engagement                 OTHER×1
+            SITE       **Engagement, not error** — because a practice whose own literature is organised around the operation exceeding the operator's intent is not describable as a machine for getting what you wan
+   ⚠  England                    OTHER×1
+            SITE       He held the largest library in England, advised a queen on the timing of her coronation, wrote the preface to the first English Euclid and did original work in navigation.
+   ⚠  Era                        OTHER×1
+            SITE       *Era, language, ritual, trauma, choice.* Ritual was on that list for reasons that had nothing to do with magic.
+   ⚠  English Euclid             OTHER×1
+            SITE       He held the largest library in England, advised a queen on the timing of her coronation, wrote the preface to the first English Euclid and did original work in navigation.
+   ⚠  Hold                       OPEN×1
+            SITE       Hold it there.
+   ⚠  Edward Kelley              OTHER×2
+            SITE       It was mediated by Edward Kelley, and Kelley very probably deceived him; the episode in which the spirits instructed the two men to share their wives is where a modern reader stops needing t
+   ⚠  Mazatec                    OTHER×1
+            SITE       They stood between a hesychast running a single sentence on the breath and a Mazatec curandera, in a roster assembled to make one point: that instruments sharing nothing but a target return 
+   ⚠  Mechanically               OPEN×1
+            SITE       Mechanically, the interesting thing about it is not the future.
+   ⚠  Operative                  OTHER×1
+            SITE       **Operative**: the practice pointed at an outcome, intending an effect.
+   ⚠  Pleasure                   OTHER×1
+            SITE       It is what the rest of the chapter has to get past, or fail to. --- **Four practices, and what each is doing.** **Sigil.** Austin Osman Spare, in *The Book of Pleasure* of 1913, set out the 
+   ⚠  Point                      OPEN×1
+            SITE       Point the same objection at an operative claim and it needs even less.
+   ⚠  Receptive                  OTHER×1
+            SITE       **Receptive**: the practice pointed at a question, returning a reading.
+   ⚠  Run                        OPEN×1
+            SITE       Run it here.
+   ⚠  Science                    OTHER×1
+            SITE       Crowley's definition is the most useful sentence anyone in this tradition wrote: **Magick is the Science and Art of causing Change to occur in conformity with Will.** Then he illustrates it,
+   ⚠  Sigil                      OTHER×1
+            SITE       It is what the rest of the chapter has to get past, or fail to. --- **Four practices, and what each is doing.** **Sigil.** Austin Osman Spare, in *The Book of Pleasure* of 1913, set out the 
+   ⚠  Tarot                      OTHER×1
+            SITE       **Tarot.** A shuffled deck and a fixed set of images.
+   ⚠  Very                       OPEN×1
+            SITE       Very little of it describes a place.
+   ⚠  Will                       OTHER×4
+            SITE       Crowley's definition is the most useful sentence anyone in this tradition wrote: **Magick is the Science and Art of causing Change to occur in conformity with Will.** Then he illustrates it,
+   ⚠  World                      OTHER×1
+            SITE       Crowley's definition is the most useful sentence anyone in this tradition wrote: **Magick is the Science and Art of causing Change to occur in conformity with Will.** Then he illustrates it,
+
+── V-08  ·  7 acting candidate(s) · endnote_debt sees 2 · 5 NOT SEEN BY IT
+   ·seen·  Mircea Eliade              APPOS-VERB×1 VERB×1
+            APPOS-VERB Mircea Eliade, thirty years earlier, had assembled the cross-cultural survey that made the pattern visible at all — and the survey has been justly attacked since for flattening genuinely dif
+            VERB       The attacks are correct about the flattening and they have not removed the convergence, which is smaller than Eliade claimed and is not zero.
+   ⚠ UNSEEN  Michael Harner             APPOS-VERB×1
+            APPOS-VERB Michael Harner, whose *The Way of the Shaman* is the reason a version of this is practised in Connecticut and not only in Siberia, called the drumming *sonic driving* and stripped the practi
+   ⚠ UNSEEN  Monroe Institute           POSS×1   [class=institution (debt DROPS this)]
+            POSS       Robert Monroe is the other end of it: a Virginia broadcasting executive who in 1958 began having episodes he could not fit into his life, wrote *Journeys Out of the Body* about them in 1971,
+   ⚠ UNSEEN  Kabbalah                   POSS×1
+            POSS       I.3 said that what lies outside your focus is present at full strength and *"none of it anywhere you could travel to and fetch it back from."* III.8 refused the word *save* from the game voc
+   ·seen·  Robert Monroe              BARE-VERB×1 POSS×1
+            BARE-VERB  Robert Monroe is the other end of it: a Virginia broadcasting executive who in 1958 began having episodes he could not fit into his life, wrote *Journeys Out of the Body* about them in 1971,
+            POSS       Monroe's is a map of a **procedure**: the stations are ordinal, they are indexed by what stops being available at each one, and they are defined by the method that reaches them.
+   ⚠ UNSEEN  Kabbalists' Tree           BARE-VERB×1
+            BARE-VERB  **And a map of numbered stations is not what V.6 was reading.** Two chapters ago the Kabbalists' Tree was read as a map of *settledness* — how much has been decided at a given depth, with th
+   ⚠ UNSEEN  Virginia                   BARE-VERB×1
+            BARE-VERB  Robert Monroe is the other end of it: a Virginia broadcasting executive who in 1958 began having episodes he could not fit into his life, wrote *Journeys Out of the Body* about them in 1971,
+   MENTION-ONLY (16) — no verb, no possessive-noun. Mostly furniture; Harris lived here.
+   ⚠  Body                       OTHER×1
+            SITE       Robert Monroe is the other end of it: a Virginia broadcasting executive who in 1958 began having episodes he could not fit into his life, wrote *Journeys Out of the Body* about them in 1971,
+   ⚠  Cartographers              OTHER×1
+            SITE       And V.1, opening this book, drew its one line in a sentence built so it could not be missed: **Cartographers we credit.
+   ⚠  Connecticut                OTHER×1
+            SITE       Michael Harner, whose *The Way of the Shaman* is the reason a version of this is practised in Connecticut and not only in Siberia, called the drumming *sonic driving* and stripped the practi
+   ⚠  Darkness                   OPEN×1
+            SITE       Darkness or closed eyes.
+   ⚠  Focus                      OTHER×4
+            SITE       Robert Monroe is the other end of it: a Virginia broadcasting executive who in 1958 began having episodes he could not fit into his life, wrote *Journeys Out of the Body* about them in 1971,
+   ⚠  Fourth                     OTHER×1
+            SITE       **Fourth: that any of this establishes survival of death.** It does not, and it stays out, and the reason on the page is not that a critic would raise an eyebrow.
+   ⚠  Good                       OPEN×1
+            SITE       Good.
+   ⚠  Grade                      OTHER×3
+            SITE       **Grade: ordinary.** Not ordinary as in unimpressive — ordinary as in *this is the sort of claim that ordinary evidence establishes, and ordinary evidence has established it.* It is a claim 
+   ⚠  Often                      OPEN×1
+            SITE       Often an entrance imagined in a particular way — a hole, a root, a body of water — and a decision, taken in advance, about where the practitioner is going and what they intend to ask.
+   ⚠  Journeys Out               OTHER×1
+            SITE       Robert Monroe is the other end of it: a Virginia broadcasting executive who in 1958 began having episodes he could not fit into his life, wrote *Journeys Out of the Body* about them in 1971,
+   ⚠  Run                        OTHER×1
+            SITE       **Run the demarcation on that, since it is yours and costs nothing to check.** The state is real; you were in it.
+   ⚠  Shaman                     OTHER×1
+            SITE       Michael Harner, whose *The Way of the Shaman* is the reason a version of this is practised in Connecticut and not only in Siberia, called the drumming *sonic driving* and stripped the practi
+   ⚠  Siberia                    OTHER×1
+            SITE       Michael Harner, whose *The Way of the Shaman* is the reason a version of this is practised in Connecticut and not only in Siberia, called the drumming *sonic driving* and stripped the practi
+   ⚠  Travellers                 OPEN×1
+            SITE       Travellers we part from.** So a chapter called TRAVEL, arriving eighth among the ten sympathetic readings that sentence announced, comes in with four of its own book's sentences against it.
+   ⚠  Under                      OPEN×2
+            SITE       Under the state reading, this is either something they knew and did not know they knew, or it is coincidence, or the report has been tidied in the retelling.
+   ⚠  Way                        OTHER×1
+            SITE       Michael Harner, whose *The Way of the Shaman* is the reason a version of this is practised in Connecticut and not only in Siberia, called the drumming *sonic driving* and stripped the practi
+
+── V-09  ·  12 acting candidate(s) · endnote_debt sees 2 · 10 NOT SEEN BY IT
+   ·seen·  Kenneth Arnold             VERB×1 BARE-VERB×1
+            VERB       The testimony corpus of the last eighty years is **one branch, and a short one, with datable nodes inside it.** In June 1947 a pilot named Kenneth Arnold described objects near Mount Rainier
+            BARE-VERB  Arnold saw something and reported it accurately.
+   ⚠ UNSEEN  Craft                      APPOS-VERB×1
+            APPOS-VERB This is that case, so here are the three, stated as what each **predicts** rather than as what each proposes, because a frame that predicts nothing is not in this competition: **One — travel
+   ⚠ UNSEEN  Eight                      BARE-VERB×1
+            BARE-VERB  V.1 opened this book by refusing condescension in a specific form: *these are not people groping toward what we now know; they are cartographers who reached this ground with the instruments 
+   ·seen·  New Hampshire              VERB×1
+            VERB       In 1961 a couple in New Hampshire reported an interrupted drive home; the book made from their sessions came out in 1966, and the narrative shape of what happens during an abduction — the ro
+   ⚠ UNSEEN  Kabbalist                  BARE-VERB×1   [class=tradition/adjectival (debt DROPS this)]
+            BARE-VERB  It was **instrument independence**: a Zen practitioner sitting still, a Sufi in *dhikr*, a Kabbalist permuting letters, a hesychast on Athos.
+   ⚠ UNSEEN  Marian                     BARE-VERB×1   [class=tradition/adjectival (debt DROPS this)]
+            BARE-VERB  Here there is no comparable subtraction available: there is no population of modern reporters who grew up outside the imagery, and the pre-1947 folklore that gets offered as the independent 
+   ⚠ UNSEEN  Named                      BARE-VERB×1   [lower-twin×3 (debt DROPS this)]
+            BARE-VERB  Named offices, hearings on the record, sworn testimony from people with careers to lose.
+   ⚠ UNSEEN  People                     VERB×1   [lower-twin×8 (debt DROPS this)]
+            VERB       The witnesses are owed the same treatment as Plotinus, which is to be read closely, graded honestly, and told where the argument fails. --- **The grades, flat, one line each, because this is
+   ⚠ UNSEEN  Plotinus                   OTHER×1 APPOS-VERB×1
+            APPOS-VERB The witnesses are owed the same treatment as Plotinus, which is to be read closely, graded honestly, and told where the argument fails. --- **The grades, flat, one line each, because this is
+   ⚠ UNSEEN  Radar                      BARE-VERB×1   [lower-twin×2 (debt DROPS this)]
+            BARE-VERB  Radar tracks, infrared video, the reports of aircrew reading equipment rather than reading the sky.
+   ⚠ UNSEEN  Mount Rainier              BARE-VERB×1
+            BARE-VERB  The testimony corpus of the last eighty years is **one branch, and a short one, with datable nodes inside it.** In June 1947 a pilot named Kenneth Arnold described objects near Mount Rainier
+   ⚠ UNSEEN  Six                        BARE-VERB×1
+            BARE-VERB  Six statements of one doctrine at the head of that chapter; five of them downstream of one Alexandrian schoolroom.
+   MENTION-ONLY (20) — no verb, no possessive-noun. Mostly furniture; Harris lived here.
+   ⚠  Add                        OPEN×1
+            SITE       Add the public acknowledgement, and be careful about what it is worth.
+   ⚠  Alexandrian                OTHER×3
+            SITE       Six statements of one doctrine at the head of that chapter; five of them downstream of one Alexandrian schoolroom.
+   ⚠  Appearance                 OPEN×1
+            SITE       Appearance should be observer-relative; the report should track what the observer's access runs through, which for a human being runs partly through story; and the instrument record should b
+   ⚠  Athos                      OTHER×1
+            SITE       It was **instrument independence**: a Zen practitioner sitting still, a Sufi in *dhikr*, a Kabbalist permuting letters, a hesychast on Athos.
+   ⚠  Convergence                OPEN×1
+            SITE       Convergence here is evidence about a shared culture and it is not evidence about a shared object.
+   ⚠  Frame                      OTHER×2 OPEN×1
+            SITE       Frame two predicts that they come apart.** They have come apart.
+   ⚠  Frames                     OTHER×1
+            SITE       **Frames one and three predict that the instrument record and the testimony record converge.
+   ⚠  Grade                      OTHER×4 OPEN×1
+            SITE       Grade: high, and it is the same grade this book gave the mystics.
+   ⚠  Institutional              OTHER×1
+            SITE       **Institutional acknowledgement.** Grade: a fact about institutions. --- The old roads in this book were walked by people who did not know they were on one.
+   ⚠  Dao De Jing                OTHER×1
+            SITE       **Every one of those is false here.** This chapter reads the contemporary encounter record — lights and objects in the sky that behave wrongly, and the people who say they have met what was 
+   ⚠  Luria                      OTHER×1
+            SITE       **Every one of those is false here.** This chapter reads the contemporary encounter record — lights and objects in the sky that behave wrongly, and the people who say they have met what was 
+   ⚠  Naming                     OTHER×1 OPEN×1
+            SITE       **An enumeration honest enough to be worth having already performed a good deal of the reading.** Naming three frames is most of the way to comparing them.
+   ⚠  Provence                   OPEN×1
+            SITE       Provence in 1200 had books and travellers.
+   ⚠  Run                        OPEN×1
+            SITE       Run that on the material in front of us.
+   ⚠  Siberian                   OTHER×1
+            SITE       **Every one of those is false here.** This chapter reads the contemporary encounter record — lights and objects in the sky that behave wrongly, and the people who say they have met what was 
+   ⚠  Subtract                   OPEN×1
+            SITE       Subtract the transmission and three genuine branches remained.
+   ⚠  Sufi                       OTHER×1
+            SITE       It was **instrument independence**: a Zen practitioner sitting still, a Sufi in *dhikr*, a Kabbalist permuting letters, a hesychast on Athos.
+   ⚠  Unrelated                  OPEN×1
+            SITE       Unrelated equipment, arriving at the same place.
+   ⚠  Used                       OPEN×1
+            SITE       Used, it makes every possible observation compatible with every frame.
+   ⚠  Zen                        OTHER×1
+            SITE       It was **instrument independence**: a Zen practitioner sitting still, a Sufi in *dhikr*, a Kabbalist permuting letters, a hesychast on Athos.
+
+── V-10  ·  24 acting candidate(s) · endnote_debt sees 3 · 21 NOT SEEN BY IT
+   ⚠ UNSEEN  Advaita                    BARE-VERB×1
+            BARE-VERB  Advaita builds it, Madhyamaka builds it, the *zuowang* passage builds it, and the Rhineland builds it in German.
+   ⚠ UNSEEN  Alexandrian                BARE-VERB×1   [class=tradition/adjectival (debt DROPS this)]
+            BARE-VERB  **The German Dominican and the Alexandrian are not two witnesses.
+   ⚠ UNSEEN  Latin Christian            OTHER×1 VERB×1 OPEN×1   [class=tradition/adjectival (debt DROPS this)]
+            VERB       The honest form of the argument in this book requires the first and has, like every reader of the last century, been standing on the second. --- **The Christian report, given the standing th
+   ⚠ UNSEEN  Christianity               BARE-VERB×1
+            BARE-VERB  Christianity was read as an institution.
+   ⚠ UNSEEN  Church                     BARE-VERB×1
+            BARE-VERB  Turned inward, the same flinch survives as an embarrassment about Christendom that the East is not asked to bear — the East gets to be a philosophy, the Church gets to be a parish.
+   ⚠ UNSEEN  Cusa                       BARE-VERB×1
+            BARE-VERB  Nicholas of Cusa supplies the inference, which is the harder half.
+   ⚠ UNSEEN  Dionysius                  BARE-VERB×2 OTHER×1
+            BARE-VERB  Suso is Eckhart's student; Eckhart read the writer who signed himself Dionysius the Areopagite; Dionysius is Proclus, and Proclus is Plotinus with the joints labelled.
+            BARE-VERB  Suso is Eckhart's student; Eckhart read the writer who signed himself Dionysius the Areopagite; Dionysius is Proclus, and Proclus is Plotinus with the joints labelled.
+   ⚠ UNSEEN  East                       BARE-VERB×3
+            BARE-VERB  The East was read as a set of observers.
+            BARE-VERB  Turned inward, the same flinch survives as an embarrassment about Christendom that the East is not asked to bear — the East gets to be a philosophy, the Church gets to be a parish.
+            BARE-VERB  Turned inward, the same flinch survives as an embarrassment about Christendom that the East is not asked to bear — the East gets to be a philosophy, the Church gets to be a parish.
+   ·seen·  Eckhart                    POSS×2 OTHER×1
+            POSS       Suso is Eckhart's student; Eckhart read the writer who signed himself Dionysius the Areopagite; Dionysius is Proclus, and Proclus is Plotinus with the joints labelled.
+            POSS       Suso is Eckhart's student; Eckhart read the writer who signed himself Dionysius the Areopagite; Dionysius is Proclus, and Proclus is Plotinus with the joints labelled.
+   ⚠ UNSEEN  Emerson                    BARE-VERB×2
+            BARE-VERB  *Whitmanism.* Walt Whitman, born 1819, Long Island, who came to what he came to by way of Emerson — and Emerson had the Vedic material in translation and named it in his own essays, among th
+            BARE-VERB  *Whitmanism.* Walt Whitman, born 1819, Long Island, who came to what he came to by way of Emerson — and Emerson had the Vedic material in translation and named it in his own essays, among th
+   ⚠ UNSEEN  Five                       BARE-VERB×2   [lower-twin×2 (debt DROPS this)]
+            BARE-VERB  Five voices, then.
+            BARE-VERB  Five accounts of one room, taken by five people who had to live in it afterwards, agree about where the walls are and argue about everything else.
+   ⚠ UNSEEN  Hindu                      BARE-VERB×1
+            BARE-VERB  Twenty pages before the unanimity passage, introducing the Sufis, he writes that their pantheism is so at variance with the hot and rigid monotheism of the Arab mind that *it has been sugges
+   ⚠ UNSEEN  Independence               BARE-VERB×1
+            BARE-VERB  Four of those five are unlike in every respect except the one that determines the answer: **they all remove.** Independence requires that the instruments differ *in direction*, and a family 
+   ·seen·  William James              OTHER×4 POSS×3 BARE-VERB×2 APPOS-VERB×1
+            BARE-VERB  The reports are, in fact, better evidence than James knew how to say.
+            POSS       What it does to James's page is immediate and unkind.
+            BARE-VERB  Sufism is the interesting one, because James raises the objection himself and then does not apply it.
+            POSS       **James's most recent independent witness is his oldest witness, arriving in Brooklyn by boat, at a datable moment, in English.** He put it fifth on a list meant to demonstrate that the clas
+   ⚠ UNSEEN  Dao De Jing                BARE-VERB×1
+            BARE-VERB  Three of them have the same parents. --- **The count, run here, where it costs the most.** V.1 counted the branches and found three: the Mediterranean family and everything descended from it
+   ⚠ UNSEEN  Madhyamaka                 BARE-VERB×1
+            BARE-VERB  Advaita builds it, Madhyamaka builds it, the *zuowang* passage builds it, and the Rhineland builds it in German.
+   ⚠ UNSEEN  Rudolf Otto                APPOS-VERB×1 BARE-VERB×1
+            APPOS-VERB Rudolf Otto, in 1917, coined *the numinous* from the Latin for a divine presence and argued that the constant in religious experience is neither unity nor any proposition but an encounter — 
+            BARE-VERB  Otto has located, precisely and across every tradition, what people feel when they meet the ground *through* the intermediaries their tradition gave them, and mistaken the reliability of tha
+   ⚠ UNSEEN  Plotinus                   OTHER×2 BARE-VERB×1
+            BARE-VERB  Plotinus is the head of the Mediterranean branch.
+   ⚠ UNSEEN  Proclus                    BARE-VERB×2
+            BARE-VERB  Suso is Eckhart's student; Eckhart read the writer who signed himself Dionysius the Areopagite; Dionysius is Proclus, and Proclus is Plotinus with the joints labelled.
+            BARE-VERB  Suso is Eckhart's student; Eckhart read the writer who signed himself Dionysius the Areopagite; Dionysius is Proclus, and Proclus is Plotinus with the joints labelled.
+   ⚠ UNSEEN  Rhineland                  OTHER×2 BARE-VERB×2
+            BARE-VERB  **The Rhineland mystics are not a parish.
+            BARE-VERB  Advaita builds it, Madhyamaka builds it, the *zuowang* passage builds it, and the Rhineland builds it in German.
+   ⚠ UNSEEN  Sufism                     OTHER×3 BARE-VERB×1   [class=tradition/adjectival (debt DROPS this)]
+            BARE-VERB  Sufism is the interesting one, because James raises the objection himself and then does not apply it.
+   ·seen·  Heinrich Suso              BARE-VERB×2 APPOS-VERB×1 OTHER×1 VERB×1
+            APPOS-VERB Absorbed in God, he makes but one with him, like a centre of a circle coinciding with another centre.* And Heinrich Suso, a Dominican in the Rhineland, writing in German for women in convent
+            BARE-VERB  Suso is Eckhart's student; Eckhart read the writer who signed himself Dionysius the Areopagite; Dionysius is Proclus, and Proclus is Plotinus with the joints labelled.
+            VERB       Suso wrote what he wrote whether or not anyone ever set it beside the Upanishads.
+            BARE-VERB  Suso supplies the experience.
+   ⚠ UNSEEN  Twenty                     BARE-VERB×1
+            BARE-VERB  Twenty pages before the unanimity passage, introducing the Sufis, he writes that their pantheism is so at variance with the hot and rigid monotheism of the Arab mind that *it has been sugges
+   ⚠ UNSEEN  Vedantic                   BARE-VERB×1   [class=tradition/adjectival (debt DROPS this)]
+            BARE-VERB  The honest form of the argument in this book requires the first and has, like every reader of the last century, been standing on the second. --- **The Christian report, given the standing th
+   MENTION-ONLY (55) — no verb, no possessive-noun. Mostly furniture; Harris lived here.
+   ⚠  Absorbed                   OPEN×1
+            SITE       Absorbed in God, he makes but one with him, like a centre of a circle coinciding with another centre.* And Heinrich Suso, a Dominican in the Rhineland, writing in German for women in convent
+   ⚠  Anyone                     OTHER×1
+            SITE       **Which means the convergence you felt at the top of this chapter was handed to you.** Anyone who has felt the force of the convergence — the shiver of *they all say the same thing* — has in
+   ⚠  Arab                       OTHER×1
+            SITE       Twenty pages before the unanimity passage, introducing the Sufis, he writes that their pantheism is so at variance with the hot and rigid monotheism of the Arab mind that *it has been sugges
+   ⚠  Areopagite                 OTHER×1
+            SITE       Suso is Eckhart's student; Eckhart read the writer who signed himself Dionysius the Areopagite; Dionysius is Proclus, and Proclus is Plotinus with the joints labelled.
+   ⚠  Artefact                   OTHER×1
+            SITE       **Artefact** tracks the direction — it converges, it is sincerely reported, and what it measures is the procedure.
+   ⚠  Brooklyn                   OTHER×1
+            SITE       **James's most recent independent witness is his oldest witness, arriving in Brooklyn by boat, at a datable moment, in English.** He put it fifth on a list meant to demonstrate that the clas
+   ⚠  Building                   OPEN×1
+            SITE       Building that category was an act, performed by identifiable people, in a language, for reasons of their own; and the four passages at the head of this chapter are on one page because one of
+   ⚠  China                      OTHER×1
+            SITE       Three of them have the same parents. --- **The count, run here, where it costs the most.** V.1 counted the branches and found three: the Mediterranean family and everything descended from it
+   ⚠  Christendom                OTHER×1
+            SITE       Turned inward, the same flinch survives as an embarrassment about Christendom that the East is not asked to bear — the East gets to be a philosophy, the Church gets to be a parish.
+   ⚠  Copies                     OTHER×1
+            SITE       **It is the strongest single indication that they were looking at something.** Copies agree about the furniture.
+   ⚠  Correcting                 OTHER×1
+            SITE       That is what the parity costs, and it is worth the price: **the standing is about how a report is read, not about how many reports there are.** Correcting a bias in the reading is free of th
+   ⚠  Cusanus                    OTHER×1
+            SITE       **And it is inside branch one.** Cusanus read Eckhart and Dionysius; the descent is documented and it is short.
+   ⚠  Daoist                     OPEN×1
+            SITE       The Daoist material is the one place in this ancestry where the answer to *what do I do with this* is not *contemplate* but *acquire the skill*, and it is the branch that builds the second s
+   ⚠  German Dominican           OTHER×2
+            SITE       Absorbed in God, he makes but one with him, like a centre of a circle coinciding with another centre.* And Heinrich Suso, a Dominican in the Rhineland, writing in German for women in convent
+   ⚠  Edinburgh                  OTHER×1
+            SITE       It is William James's, in the seventeenth of the Gifford Lectures he gave at Edinburgh in 1901 and 1902, and he set those four passages in that order, on facing pages, to make a point.
+   ⚠  English                    OTHER×1
+            SITE       **James's most recent independent witness is his oldest witness, arriving in Brooklyn by boat, at a datable moment, in English.** He put it fifth on a list meant to demonstrate that the clas
+   ⚠  Europe                     OTHER×1
+            SITE       V.5 credited it with four things it saw before anyone in Europe did — that the count is the question, that a thing is what it is by what it stands with, that the search for the owner comes u
+   ⚠  Except                     OTHER×1
+            SITE       They are inferences, drawn afterwards and in the cold, by people arguing with their own colleagues, and an altered state does not hand anybody a metaphysics with a null space marked in it. -
+   ⚠  Gautama                    OTHER×1
+            SITE       *As pure water poured into pure water remains the same, thus, O Gautama, is the Self of a thinker who knows.* A Persian, in the fourteenth century: *Every man whose heart is no longer shaken
+   ⚠  German                     OTHER×2
+            SITE       Absorbed in God, he makes but one with him, like a centre of a circle coinciding with another centre.* And Heinrich Suso, a Dominican in the Rhineland, writing in German for women in convent
+   ⚠  God                        OTHER×2
+            SITE       In his divine majesty the me, the we, the thou, are not found, for in the One there can be no distinction.* Plotinus, on the vision of God: *what sees is not our reason, but something prior 
+   ⚠  Godhead                    OTHER×1
+            SITE       Absorbed in God, he makes but one with him, like a centre of a circle coinciding with another centre.* And Heinrich Suso, a Dominican in the Rhineland, writing in German for women in convent
+   ⚠  Greek                      OTHER×1
+            SITE       Three of them have the same parents. --- **The count, run here, where it costs the most.** V.1 counted the branches and found three: the Mediterranean family and everything descended from it
+   ⚠  Hand                       OTHER×1
+            SITE       **Hand it over.** Nothing in this book rests on it, and a chapter that kept it would be counting the sound of the boundary as a survey of the territory.
+   ⚠  Hinduism                   OTHER×1
+            SITE       In Hinduism, in Neoplatonism, in Sufism, in Christian mysticism, in Whitmanism, we find > the same recurring note, so that there is about mystical utterances an eternal unanimity which > oug
+   ⚠  Iliad                      OTHER×1
+            SITE       *Whitmanism.* Walt Whitman, born 1819, Long Island, who came to what he came to by way of Emerson — and Emerson had the Vedic material in translation and named it in his own essays, among th
+   ⚠  India                      OTHER×1
+            SITE       Three of them have the same parents. --- **The count, run here, where it costs the most.** V.1 counted the branches and found three: the Mediterranean family and everything descended from it
+   ⚠  Ineffability               OTHER×1
+            SITE       **Every one of those methods is applied to one instrument, and a system with a characteristic behaviour under stress will report that behaviour no matter what stressed it.** Ineffability, ti
+   ⚠  Islam                      OTHER×1
+            SITE       Twenty pages before the unanimity passage, introducing the Sufis, he writes that their pantheism is so at variance with the hot and rigid monotheism of the Arab mind that *it has been sugges
+   ⚠  Long Island                OTHER×1
+            SITE       *Whitmanism.* Walt Whitman, born 1819, Long Island, who came to what he came to by way of Emerson — and Emerson had the Vedic material in translation and named it in his own essays, among th
+   ⚠  Latin                      OTHER×1
+            SITE       Rudolf Otto, in 1917, coined *the numinous* from the Latin for a divine presence and argued that the constant in religious experience is neither unity nor any proposition but an encounter — 
+   ⚠  Least                      OPEN×1
+            SITE       Least subtraction, least summit.
+   ⚠  Gifford Lectures           OTHER×1
+            SITE       It is William James's, in the seventeenth of the Gifford Lectures he gave at Edinburgh in 1901 and 1902, and he set those four passages in that order, on facing pages, to make a point.
+   ⚠  Mediterranean              OTHER×2
+            SITE       Three of them have the same parents. --- **The count, run here, where it costs the most.** V.1 counted the branches and found three: the Mediterranean family and everything descended from it
+   ⚠  Naming                     OPEN×1
+            SITE       Naming him here adds a report and does not add a witness, and the two must not be confused in the reader's favour.
+   ⚠  Nearly                     OPEN×1
+            SITE       Nearly every road in this ancestry builds a second storey — an ultimate register from which the world you are standing in gets downgraded, and a summit that has no perspective in it.
+   ⚠  Neoplatonism               OTHER×1
+            SITE       In Hinduism, in Neoplatonism, in Sufism, in Christian mysticism, in Whitmanism, we find > the same recurring note, so that there is about mystical utterances an eternal unanimity which > oug
+   ⚠  Nicholas                   OPEN×1
+            SITE       Nicholas of Cusa supplies the inference, which is the harder half.
+   ⚠  Persian                    OTHER×2
+            SITE       *As pure water poured into pure water remains the same, thus, O Gautama, is the Self of a thinker who knows.* A Persian, in the fourteenth century: *Every man whose heart is no longer shaken
+   ⚠  Psalms                     OTHER×1
+            SITE       Read the Rhineland or the Psalms or a Vedic hymn and the dread and the attraction are both there, everywhere, and James's ineffability does not capture them.
+   ⚠  Roman                      OTHER×1
+            SITE       Writing in 1440, a cardinal of the Roman church, he set out the doctrine he called *learned ignorance*: that the ground is reached not by knowing more about it but by knowing precisely how k
+   ⚠  Self                       OTHER×1
+            SITE       *As pure water poured into pure water remains the same, thus, O Gautama, is the Self of a thinker who knows.* A Persian, in the fourteenth century: *Every man whose heart is no longer shaken
+   ⚠  Set                        OPEN×1
+            SITE       Set that beside *neti neti* — not this, not this — and there is nothing between them but the language.
+   ⚠  Structure                  OTHER×1
+            SITE       **Structure** survives variation in the direction of the method as well as in its technique.
+   ⚠  Sufis                      OTHER×1
+            SITE       Twenty pages before the unanimity passage, introducing the Sufis, he writes that their pantheism is so at variance with the hot and rigid monotheism of the Arab mind that *it has been sugges
+   ⚠  Terror                     OTHER×1
+            SITE       **And on this book's account that invariant is furniture.** Terror and fascination are what a perspective feels toward a *someone* — they require an inside at the far end, an addressee, a wi
+   ⚠  Thou                       OTHER×1
+            SITE       *That art Thou*, say the Upanishads, and the Vedantists add: not a part, not a mode of That, but identically That.
+   ⚠  True                       OPEN×1
+            SITE       True.
+   ⚠  Turned                     OPEN×1
+            SITE       Turned inward, the same flinch survives as an embarrassment about Christendom that the East is not asked to bear — the East gets to be a philosophy, the Church gets to be a parish.
+   ⚠  Upanishads                 OTHER×4
+            SITE       *That art Thou*, say the Upanishads, and the Vedantists add: not a part, not a mode of That, but identically That.
+   ⚠  Vedantists                 OTHER×1
+            SITE       *That art Thou*, say the Upanishads, and the Vedantists add: not a part, not a mode of That, but identically That.
+   ⚠  Vedic                      OTHER×2
+            SITE       *Whitmanism.* Walt Whitman, born 1819, Long Island, who came to what he came to by way of Emerson — and Emerson had the Vedic material in translation and named it in his own essays, among th
+   ⚠  Walt Whitman               OTHER×1
+            SITE       *Whitmanism.* Walt Whitman, born 1819, Long Island, who came to what he came to by way of Emerson — and Emerson had the Vedic material in translation and named it in his own essays, among th
+   ⚠  Whitmanism                 OTHER×2
+            SITE       In Hinduism, in Neoplatonism, in Sufism, in Christian mysticism, in Whitmanism, we find > the same recurring note, so that there is about mystical utterances an eternal unanimity which > oug
+   ⚠  Writing                    OPEN×1
+            SITE       Writing in 1440, a cardinal of the Roman church, he set out the doctrine he called *learned ignorance*: that the ground is reached not by knowing more about it but by knowing precisely how k
+
+── V-11  ·  22 acting candidate(s) · endnote_debt sees 6 · 16 NOT SEEN BY IT
+   ⚠ UNSEEN  Artefact                   BARE-VERB×1   [lower-twin×2 (debt DROPS this)]
+            BARE-VERB  Artefact tracks the direction.
+   ·seen·  Augustine                  VERB×1
+            VERB       *Does it know you?* Augustine says yes, and that the knowing is prior to yours, and that this is the whole of the good news.
+   ·seen·  Cusanus                    BARE-VERB×1 VERB×1
+            BARE-VERB  Cusanus has a procedure for it.
+            VERB       **A road that mapped the terrain leaves you something you can still use after you stop believing it.** Cusanus tells you exactly where knowing fails of the ground, and you can go to that pla
+   ⚠ UNSEEN  Dionysius                  BARE-VERB×1
+            BARE-VERB  Dionysius has a procedure for it.
+   ·seen·  East                       VERB×1
+            VERB       The East asked the count question two thousand years before anyone here had the vocabulary for it.** This is V.5's credit and it stands unchanged: that the number of things there are is a qu
+   ·seen·  Robert Forman              POSS×1 OTHER×1
+            POSS       He has been the central name in that argument for nearly fifty years, and Robert Forman's counter-anthology on pure consciousness in 1990 is the shape of the reply.
+   ⚠ UNSEEN  Furniture                  BARE-VERB×1   [lower-twin×2 (debt DROPS this)]
+            BARE-VERB  Furniture tracks the doctrine.
+   ·seen·  Harner                     BARE-VERB×1 VERB×1 POSS×1
+            BARE-VERB  Harner stripped that of its cosmology to see what survived, and what survived worked.
+            VERB       Harner demonstrated that the technique survives the removal of the cosmology, which is true and is the good news.
+            POSS       Harner's protocol worked with the cosmology taken out.
+   ⚠ UNSEEN  Aldous Huxley              OTHER×2 BARE-VERB×1
+            BARE-VERB  Aldous Huxley put the case in 1945 and gave it the name it now travels under: one truth, many languages, the differences merely cultural.
+   ⚠ UNSEEN  Kabbalists                 VERB×1   [class=tradition/adjectival (debt DROPS this)]
+            VERB       The Kabbalists say something stranger than any of them: that there is a you to be known at all only because the ground withdrew to make the room, and the withdrawal is the first act of the s
+   ·seen·  Steven Katz                OTHER×3 POSS×2 VERB×1 BARE-VERB×1
+            VERB       **Steven Katz argued in 1978 that there are no unmediated experiences** — that a mystic's tradition supplies the concepts, expectations and vocabulary that constitute the experience rather t
+            POSS       **V.10's finding is Katz's argument arriving from the other side of the instrument, and this book did not know it.** He runs the mediation through the *doctrine*; V.10 ran it through the *pr
+            POSS       And then the cut, which is real and which the framework requires by C27, because Katz's picture and this one do not predict the same thing everywhere.
+            BARE-VERB  **Mediation explains the furniture completely and the empty summit very well, and it does not explain the structure, and the structure is the only bin this book ever claimed as evidence.** K
+   ⚠ UNSEEN  Mediation                  BARE-VERB×1   [lower-twin×3 (debt DROPS this)]
+            BARE-VERB  **Mediation explains the furniture completely and the empty summit very well, and it does not explain the structure, and the structure is the only bin this book ever claimed as evidence.** K
+   ⚠ UNSEEN  Nine                       OTHER×1 BARE-VERB×1   [lower-twin×2 (debt DROPS this)]
+            BARE-VERB  Nine chapters of credit stand behind it and are the only reason it was worth making.
+   ⚠ UNSEEN  Several                    BARE-VERB×1
+            BARE-VERB  The smaller claim is the one being made here, and it defeats mediation on its own. --- **What the error cost them, since a diagnosis that stops at the mechanism is only half of it.** Several
+   ⚠ UNSEEN  Huston Smith               BARE-VERB×1
+            BARE-VERB  Stace in 1960 formalised it into a typology; Huston Smith carried it to a general readership; Guénon and Coomaraswamy stand behind all of them.
+   ⚠ UNSEEN  Spare                      POSS×1
+            POSS       V.7 read another: Spare's sigil, whose crucial step is not the drawing but the deliberate forgetting, because the desire has to get past the part of you doing the wanting.
+   ⚠ UNSEEN  Agostino Steuco            APPOS-VERB×1 OTHER×1
+            APPOS-VERB And the phrase is older than any of them — Agostino Steuco, a Vatican librarian, published *De perenni philosophia* in 1540, arguing that the pagans had anticipated the faith.
+   ⚠ UNSEEN  Stone                      BARE-VERB×1
+            BARE-VERB  The alchemists' failure records are usable by someone who thinks the Stone is a category error.
+   ⚠ UNSEEN  Structure                  BARE-VERB×1   [lower-twin×8 (debt DROPS this)]
+            BARE-VERB  Structure survives variation in the *direction* of the method.
+   ⚠ UNSEEN  Ten                        BARE-VERB×1   [lower-twin×2 (debt DROPS this)]
+            BARE-VERB  Book I named the telos as exploration and mutual recognition, and both of those require somebody to be doing them — which makes the perspective the whole apparatus rather than the obstacle, 
+   ⚠ UNSEEN  Guénon Traditionalism      BARE-VERB×1   [class=tradition/adjectival (debt DROPS this)]
+            BARE-VERB  Guénon's Traditionalism reads the modern age as decline from a primordial unity, which makes every piece of contrary evidence an instance of the decline.
+   ⚠ UNSEEN  Ken Wilber                 OPEN×1 VERB×1
+            VERB       Which is the next subject, and the last one before the consequences. --- *The standing note on grade, which V.1 opened for this book and which is owed here more than anywhere.* Huxley, Schuo
+   MENTION-ONLY (18) — no verb, no possessive-noun. Mostly furniture; Harris lived here.
+   ⚠  Buddhist                   OTHER×1
+            SITE       **Steven Katz argued in 1978 that there are no unmediated experiences** — that a mystic's tradition supplies the concepts, expectations and vocabulary that constitute the experience rather t
+   ⚠  Coomaraswamy               OTHER×2
+            SITE       Stace in 1960 formalised it into a typology; Huston Smith carried it to a general readership; Guénon and Coomaraswamy stand behind all of them.
+   ⚠  Does                       OTHER×1
+            SITE       *Does it know you?* Augustine says yes, and that the knowing is prior to yours, and that this is the whole of the good news.
+   ⚠  Ecology                    OTHER×1
+            SITE       Ken Wilber's *Sex, Ecology, Spirituality* builds a tiered scheme on which all the traditions are partial views, and the scheme has a slot standing ready for anyone who disagrees with it: the
+   ⚠  Guénon                     OTHER×2
+            SITE       Stace in 1960 formalised it into a typology; Huston Smith carried it to a general readership; Guénon and Coomaraswamy stand behind all of them.
+   ⚠  Jewish                     OTHER×1
+            SITE       **Steven Katz argued in 1978 that there are no unmediated experiences** — that a mystic's tradition supplies the concepts, expectations and vocabulary that constitute the experience rather t
+   ⚠  Maimonides                 OPEN×1
+            SITE       Maimonides and the scholastics behind him say that the question has already failed, because every word in it is an attribute and no attribute survives the crossing; the most you may say is w
+   ⚠  Neti                       OTHER×1
+            SITE       *Neti neti* is an operation, and running it returns a result.
+   ⚠  None                       OPEN×1
+            SITE       None of them is *they intuited what we can now prove*.
+   ⚠  Put                        OTHER×1
+            SITE       Put them in one room and ask a single question, and the first thing that happens is a quarrel.
+   ⚠  Run                        OPEN×1
+            SITE       Run that on traditions instead of sentences and it sorts them cleanly.
+   ⚠  Frithjof Schuon            OPEN×1 OTHER×1
+            SITE       Frithjof Schuon in 1948 made it a doctrine of esoteric identity behind exoteric difference; W.
+   ⚠  Sex                        OTHER×1
+            SITE       Ken Wilber's *Sex, Ecology, Spirituality* builds a tiered scheme on which all the traditions are partial views, and the scheme has a slot standing ready for anyone who disagrees with it: the
+   ⚠  Spirituality               OTHER×1
+            SITE       Ken Wilber's *Sex, Ecology, Spirituality* builds a tiered scheme on which all the traditions are partial views, and the scheme has a slot standing ready for anyone who disagrees with it: the
+   ⚠  Stace                      OPEN×1 OTHER×1
+            SITE       Stace in 1960 formalised it into a typology; Huston Smith carried it to a general readership; Guénon and Coomaraswamy stand behind all of them.
+   ⚠  Vatican                    OTHER×1
+            SITE       And the phrase is older than any of them — Agostino Steuco, a Vatican librarian, published *De perenni philosophia* in 1540, arguing that the pagans had anticipated the faith.
+   ⚠  Zhuangzi                   OTHER×1
+            SITE       The *Zhuangzi* declines the question and asks what you are doing with your hands.
+   ⚠  Zuowang                    OTHER×1
+            SITE       *Zuowang* is a specification.
+
+TOTAL acting candidates: 173 · unseen by endnote_debt: 138
+⚠ 'unseen' is a RECALL GAP, not a debt figure. Some are historical
+  actors and characters; the reader converts this list into a roster.
+⚠ AND 'unseen' IS A FLOOR, for a reason worth stating: the endnote_debt
+  comparison above is run CHAPTER-LOCAL, with no corpus frequency table,
+  so it credits that tool with names its real full-book run drops (`God`
+  in V.2 is one). Every such name is counted here as SEEN when it is in
+  fact invisible. The gap can therefore only be larger than printed.
+⚠ AND THE DENOMINATOR IS THIS TOOL'S OWN EXTRACTION. A percentage
+  computed from it measures the two regexes against each other, not
+  either against the prose. Only a hand roster settles that.

@@ -330,9 +330,17 @@ filed to repair a licensing gap.** Blocked on R-56 and paid after it, in that or
 ### R-74 — `endnote_debt` cannot tell a person from a place, a tradition or an institution
 The rebuilt name column takes names out of the prose instead of off a roster, which is the repair —
 and its residue at 106 sources includes **Scotland, Hampshire, Sufism, Advaita, Buddhism, Kabbalists,
-Christian, Institute, Faith, Doubt, Religious, Father, East, March, Ding, Hui, Indra.** The 106 is
-therefore a **CEILING, biased high by roughly 15–20%**, and every figure quoted from it must be
-quoted as a range. ⛔ **DO NOT FIX WITH A STOP-LIST — that is the roster returning by the side door**,
+Christian, Institute, Faith, Doubt, Religious, Father, East, March, Ding, Hui, Indra.**
+
+⛔ **AMENDED DAY 192 — THE WORD "CEILING" WAS WRONG AND IT WAS THE LOAD-BEARING WORD.** This row read
+*"The 106 is therefore a **CEILING**, biased high by roughly 15–20%, and every figure quoted from it
+must be quoted as a range."* Book V hand-enumerated: gauge **30**, hand **~60**, overlap ~14. **A
+ceiling cannot be half the true value.** The residue above is real and every name in it still belongs
+here — but it is entirely the OVER-count, so this row measured the direction where the gauge invents
+debt and then, in one word, asserted the other direction was empty. **A missed source never enters
+`owed`, so the under-count is the direction that makes the debt look smaller, and it went unmeasured
+for as long as this row stood.** The five causes are R-153; read it before quoting any figure from
+this tool in either direction. ⛔ **DO NOT FIX WITH A STOP-LIST — that is the roster returning by the side door**,
 and it would reintroduce the exact defect R-71 was filed to kill, in the tool R-71 rebuilt.
 ★ **The repair has to come from data the retrofit itself produces:** at the end of the pass the
 hand-adjudicated names are a labelled set, and a labelled set is what an honest classifier needs.
@@ -3602,3 +3610,127 @@ Tillich characterisation, which V.2 leans on to license its own central cut.
 attributions before V.2's notes are written; (3) **re-hand-enumerate all eleven Book V chapters —
 the gauge's 30 is a floor of unknown depth, and V.2 alone proves the error is not a small
 percentage.** **TRIGGER: R-2 Book V, before any Book V note is written.** high.
+
+**FILED — R-153: R-74 CALLED THE SOURCE COUNT A *CEILING*. IT IS NOT A CEILING. THE ERROR RUNS BOTH
+WAYS AND THE UNMEASURED DIRECTION IS THE LARGER ONE.**
+
+**Day 192. R-152's owed item (3) is DONE: all eleven Book V chapters hand-enumerated.** Roster:
+`book/BOOK-V-ROSTER.md`. Census: `review/SCAN-004-day192-book-v-name-census.txt`. New instrument:
+`tools/name_census.py` — recall-first, deliberately does not decide source-hood.
+
+⛔ **FIRST, WHAT IS NOT NEW, because I nearly filed it as new.** Every artifact in the roster's third
+band — `Hampshire`, `Doubt`, `Faith`, `Religious`, `Ding`, `Hui`, `Indra`, `East`, `Advaita`,
+`Buddhism`, `Kabbalists`, `Sufism` — **is already listed in R-74, by name.** I wrote four rows
+presenting them as today's discovery and caught it only on a header-convention grep. R-74 was filed
+against this exact tool for this exact class. [[feedback_filed_defect_still_gets_rebuilt]]
+
+**WHAT IS NEW IS THE DIRECTION R-74 RULED OUT BY ITS OWN VOCABULARY.** R-74 says the 106 is *"a
+**CEILING**, biased high by roughly 15–20%"*. Measured today, Book V:
+
+| | gauge | hand |
+|---|---|---|
+| Book V sources | **30** | **~60**, overlap ~14 |
+
+**A ceiling cannot be half the true value.** The count is not inflated-but-bounded; it is a
+*different set*. R-74's own instance list is entirely artifacts — the over-count — so the row measured
+the direction where the gauge invents debt, and the word "ceiling" then asserted the other direction
+was empty. ⛔ **AND NOTE WHICH DIRECTION WENT UNMEASURED: a missed source never enters `owed`. The
+under-count is the direction that makes my debt look smaller.**
+[[feedback_guard_built_in_the_feared_direction]] — the flattering error survived, not because
+anything protected it, but because nothing looked. [[feedback_scrutiny_is_motive_shaped]]
+
+**Five locatable causes of the under-count, none of them in R-74:**
+
+1. **APPOSITIVE** — `Name, <phrase>, VERB` splits name from verb: `Eckhart, preaching in German …,
+   distinguishes` (the verb IS in the stem list; the interposed phrase blocks the match).
+2. **verb not in the stem list** — `Tillich took away God's face`.
+3. **BOTH AT ONCE** — `Maimonides, in Cairo, rules that …`.
+4. **`Given of Place` keys to the place** — `Shneur Zalman of Liadi` → `Liadi`; `Chaim of Volozhin` →
+   `Volozhin`. **Persons filed as toponyms — and then caught by R-74's own toponym residue, where
+   they read as noise to be excluded.** The two defects compose into a silent deletion.
+5. **lowercase twin eats a real person** — Austin Osman **Spare**.
+
+⛔ **CAUSE 3 IS WHY NO PATCH SHIPPED TODAY.** The appositive is three of V.2's four misses, so it
+presents as *the* cause. Patch it alone: V.2 goes 0 → 2, Maimonides stays invisible, and the fix
+reports itself done having recovered half of its own test case.
+[[feedback_repair_scoped_to_named_cause]], with a measured instance.
+
+⛔ **CAUSE 4 IS NOT A BOOK V ROW.** The surname rule encodes a modern Western naming convention and
+Book V is the book about traditions that do not use it — so the damage concentrates where sources are
+pre-modern, and **Books VI–VIII were marked square by the same rule.** `Book VI covered 28 / owed 3`
+was computed over a list built by the rule that files Chaim of Volozhin under a Lithuanian town.
+**Those green columns are unaudited, not clean.**
+
+**Three instances worth keeping.** (a) **V.1's only reported source is `Aristotle`**, extracted from
+*"received Neoplatonism under **Aristotle's name**, which is a transmission so thorough that its
+recipients did not know whose it was"* — a sentence whose purpose is to say this is the WRONG name.
+Precision 0/1 on the chapter about misattribution. (b) **V.4** names *"Richard Dawkins, Christopher
+Hitchens, Sam Harris, Daniel Dennett"* in one sentence; the gauge reports two of the four plus
+`Religious`, `Doubt`, `Faith`. (c) **V.5 was predicted by the tool itself** — `endnote_debt.py`'s
+Day-191 comment reads *"V.5 extracts `Ding` and `Yan Hui` … and does NOT extract Zhuangzi, who is the
+source"*, still exactly true. A correct diagnosis written into the file it indicts, with no hand
+attached. [[feedback_diagnosis_without_a_hand]]
+
+**AND THE ROSTER IS A DOWN-PAYMENT ON R-74'S OWN REPAIR.** R-74 specifies the fix as *"at the end of
+the pass the hand-adjudicated names are a labelled set"*, triggered **at the END of the retrofit, not
+before**, on the grounds that doing it earlier means inventing the labels. `BOOK-V-ROSTER.md` is that
+labelled set for one book, produced mid-retrofit — and the trigger's rationale does not bind here,
+because the labels were adjudicated against prose rather than invented. Stating that rather than
+quietly stepping over the trigger.
+
+**Owed:** (1) fix causes 1 and 4 TOGETHER, never separately, measured against the hand roster and not
+against V.2, which cause 1 alone half-satisfies; (2) cause 2 cannot be closed by a verb list without
+eating precision — the honest repair is to REPORT the class as blindness, which R-66's principle
+already demands of this file; (3) **re-audit Books VI–VIII for cause 4 before any `covered` figure in
+them is quoted**; (4) **amend R-74 to drop "ceiling"** — it is the load-bearing wrong word. high.
+
+**FILED — R-154: BOTH SOURCE INSTRUMENTS ARE BLIND TO AN UNNAMED SOURCE, AND V.9 IS THE POSITIVE
+CONTROL.**
+
+The census and `endnote_debt` both key on **capitalized tokens**. A source the prose names as *"a
+couple in New Hampshire"*, *"the book made from their sessions came out in 1966"*, or *"her 1977
+rendering"* is invisible to both — so every source count here, mine included, is a floor.
+
+⛔ **NOT A HEDGE — V.9 IS AN INSTANCE, COUNTED.** That chapter's abduction passage rests on **Betty
+and Barney Hill** and **John Fuller's *The Interrupted Journey* (1966)** and names neither. The gauge
+meanwhile reports `Hampshire` as one of V.9's two sources, from *"a couple in New **Hampshire**
+reported an interrupted drive home"*. **In one sentence the tool found the toponym and missed the two
+people and the book.** R-74 has `Hampshire` on its artifact list; what it does not have is what the
+same sentence was hiding. [[feedback_zero_needs_a_positive_control]]
+
+**Owed:** a pass over Book V for cited-but-unnamed sources — year-only citations, italic titles with
+no author, "the translator", "the book made from". Then a drafting decision: name them in the prose,
+or carry a note that names them. Not a tooling fix. medium.
+
+**FILED — R-155: `name_census.py` ATE SAM HARRIS ON ITS FIRST RUN, THREE LINES FROM ITS OWN
+WARNING.**
+
+Filed against myself, same day, same file. The tool shipped with
+`if not rec["has_action"]: continue` — a name with no verb and no possessive-noun dropped as a mere
+mention. It removed **Sam Harris** from V.4, the New Atheism chapter, because his one site is
+*"Harris's, and the sharpest of the four"*: the possessive is followed by a **comma**, so the POSS
+pattern (which wants a lowercase letter) does not fire and the site falls to OTHER.
+
+⛔ **THE DOCSTRING THREE PARAGRAPHS ABOVE THAT LINE WARNS THAT A NOISE FILTER DROPS TRUE POSITIVES
+SHARING THE NOISE'S SHAPE.** I wrote the warning and the defect in one sitting.
+[[feedback_filter_precision_eats_recall]] — knowing a lesson verbatim did not stop the hand.
+
+FIXED same session: mentions are a printed BAND, not an exclusion. The row stays because it names a
+**sixth** extractor defect neither instrument handles — a possessive followed by punctuation rather
+than a noun — and a **seventh**, seen and NOT fixed: multi-token capture keys on the last token, so
+`Aquinas God` → `God` and `Your Ground` → `Ground`, a real name swallowed and filed under the word
+after it. Harmless in V.3 where Aquinas is also found alone; not harmless in general. low.
+
+**FILED — R-156: THE HAND ROSTER IS A HYPOTHESIS AND MUST NOT BE QUOTED AS A MEASUREMENT.**
+
+`BOOK-V-ROSTER.md`'s ~60 is **one pass, by the party who owes the debt, over a candidate list the same
+party built.** That is the status R-152's table has, and R-152 is the row that says so.
+
+Two named ways it is not a measurement: (a) **one-pass mapping is unverified** — no second reader has
+been over it; (b) **the denominator is self-generated** — `name_census.py` produced the candidates and
+I judged them, so "the gauge found half" compares two of my own artefacts to each other and neither
+has been checked against the prose end to end.
+[[feedback_one_pass_mapping_is_unverified]] [[feedback_self_generated_denominator]]
+
+**Owed:** a second pass by something that is not me before any figure from the roster enters a gauge,
+a claim, or a chapter. **TRIGGER: before the first Book V note is written.** high.
