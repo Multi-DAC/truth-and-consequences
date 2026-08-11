@@ -3176,3 +3176,54 @@ register against the prose, and **a name in neither file is in neither file.**
 **TRIGGER: (b) immediately — it is one edit and it is a false statement about a person's work.
 (a) with the cold tools pass, ahead of R-37/R-38/R-41/R-42, because it is the one that makes the
 others' results readable. (c) Book IV revision pass.** medium.
+
+---
+
+**FILED — R-144: A BLOCK QUOTATION ATTRIBUTED TO SEARLE BY NAME MAY INVERT ITS QUANTIFIER, AND THE
+PRIMARY TEXT IS THE ONE SOURCE THE RETROFIT COULD NOT REACH.**
+
+`IV-06`:110–113 quotes *Is the Brain a Digital Computer?* (1990) in a block, opening: **"For any
+program there is some sufficiently complex object such that there is some description of the object
+under which it is implementing the program."** That is **existential over objects**. The form that
+circulates in the peer-reviewed secondary literature is **universal** — *"for any program and for any
+sufficiently complex (physical) object, there is some description of the object under which it is
+implementing the program."*
+
+**This is not a stylistic variant.** Searle's triviality argument requires the universal; the wall
+sentence that follows in the same block *follows from the universal and does not follow from the
+existential*. As printed, the book gives a named philosopher a weaker thesis than his argument needs
+and then treats the argument as unmet — which flatters nobody but is still a misquotation if it is
+one.
+
+**Three readings, and nothing available on Day 191 chose between them:** (a) the book misquantified;
+(b) the book is quoting a different sentence of the same address correctly; (c) the book is quoting
+the restatement in *The Rediscovery of the Mind* (1992), ch. 9, and has attributed it to the 1990
+address.
+
+**What WAS settled tonight, and how.** The address is not open-access and no digitisation was
+reachable, so the span was checked against **two independent peer-reviewed quotations of p. 27** which
+agree exactly — **two-witness, NOT two-digitisation, and they may share an ancestor.** On that
+evidence one repair was made: *molecule movements **which** is isomorphic* → **that**. The first
+sentence was **left standing and marked UNVERIFIED at the point of use**, because repairing a
+quotation toward a secondary paraphrase is a worse error than leaving a flagged one.
+
+★ **The general form, and it is the third instance of it in this project:
+[[instruments-go-where-instruments-are-cheap]], now measurable inside ONE chapter.** IV.6's 1980
+Searle is freely scanned and was diffed to the letter — OCR artifact and all. Its 1990 Searle is
+behind a wall and was checked to the sentence. **And the chapter leans harder on the 1990 one**, since
+*syntax is not intrinsic to physics* is the objection the atlas concedes it cannot meet. Verification
+effort ran **inversely to argumentative load**, decided entirely by what was cheap to fetch.
+
+**Two smaller items ride this row, both found in the same pass:**
+- **(b) McCarthy is quoted at one remove and is more careful than Searle's summary.** His own
+  thermostat case turns on *error* — dry ice at the sensor — which is nearer this atlas's BOUNDARY
+  line than to the position Searle refutes. **The atlas is closer to McCarthy than IV.6 admits and
+  may not bank it**, because the paper has not been read. `Philosophical Perspectives in AI`
+  (Humanities Press, 1979), 161–95.
+- **(c) IV.6 calls the transformer feed-forward without conceding the obvious contest** — true of one
+  forward pass, contestable for an autoregressive system whose output re-enters as input. The Φ = 0
+  paragraph would be stronger for conceding it. It does not.
+
+**Owed:** the primary text of the 1990 address, and an adjudication of the three readings.
+**TRIGGER: before the volume ships — this is a named attribution and it is the only quotation in the
+drafted book carrying an UNVERIFIED mark.** (b) and (c) with the Book IV revision pass. medium.

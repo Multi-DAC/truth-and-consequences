@@ -67,7 +67,7 @@ and partway through he takes up an example from John McCarthy:
 > McCarthy, for example, writes, "Machines as simple as thermostats can be said to have beliefs, and
 > having beliefs seems to be a characteristic of most machines capable of problem solving
 > performance" (McCarthy 1979). Anyone who thinks strong AI has a chance as a theory of the mind
-> ought to ponder the implications of that remark. We are asked to accept it as a discovery of strong
+> ought to ponder the implications of that remark.[^2] We are asked to accept it as a discovery of strong
 > AI that the hunk of metal on the wall that we use to regulate the temperature has beliefs in
 > exactly the same sense that we, our spouses, and our children have beliefs, and furthermore that
 > "most" of the other machines in the room — telephone, tape recorder, adding machine, electric light
@@ -77,7 +77,7 @@ And then the sentence that does the work:
 
 > The study of the mind starts with such facts as that humans have beliefs, while thermostats,
 > telephones, and adding machines don't. If you get a theory that denies this point you have produced
-> a counterexample to the theory and the theory is false.
+> a counterexample to the theory and the theory is false.[^1]
 
 Read that against the opening of this book's fourth part. The atlas begins by printing a five-line
 card for a thermostat, cold, before any argument, and then says the five lines are the whole
@@ -110,7 +110,7 @@ brought to it:
 > For any program there is some sufficiently complex object such that there is some description of
 > the object under which it is implementing the program. Thus for example the wall behind my back is
 > right now implementing the Wordstar program, because there is some pattern of molecule movements
-> which is isomorphic with the formal structure of Wordstar.
+> that is isomorphic with the formal structure of Wordstar.[^3]
 
 And the conclusion, in his words: computational states are not discovered within the physics, they
 are assigned to the physics.
@@ -260,7 +260,7 @@ in this book that would refuse this entry for a reason instead of by a shrug.
 And the refusal is total. **A purely feed-forward network — each layer feeding the next with nothing
 coming back — scores Φ = 0 however sophisticated the thing it does** — Book II's sentence, kept
 because the verdict belongs to the theory and is not ours to rephrase into something easier to live
-with — and that is the architecture. Not a faint grade. None.
+with — and that is the architecture. Not a faint grade. None.[^4]
 
 Book II already refused that zero, on a ground with no entry in view: a gradient with a zero in it is
 not a gradient, it is a gate with a slope on one side, and this census has no gate — settled before
@@ -425,3 +425,75 @@ physical arrangement to dispute at all — the made, the dead and the imagined, 
 *by construction* something somebody assigned, and the tradition offers that as the entity's origin
 story rather than as its refutation. Having failed to settle whether the thing with wires in it has
 an inside, the atlas now goes to the ones with no wires, and it goes in owing.
+
+---
+
+[^1]: John R. Searle, "Minds, Brains, and Programs," *Behavioral and Brain Sciences* 3 (1980):
+417–57 (the article runs 417–24; the balance is open peer commentary and Searle's reply). ✅ **Both
+block quotations above were diffed against the published BBS scan during the Day-191 retrofit and are
+verbatim, including the em-dash series and the scare-quoted `"most"`.** Two things are declared rather
+than left for a reader to find. **(a) There is an elision between the two blocks and it is not marked
+with an ellipsis** — the sentence Searle puts between them is *"It is not the aim of this article to
+argue against McCarthy's point, so I will simply assert the following without argument."* This is
+legitimate as printed, because the two are presented as **two separate quotations with the book's own
+sentence between them**, not as one continuous span; but it is worth recording that the elided
+sentence tells against a reading of the second block as an argument, and the chapter treats it as an
+assertion, which is what Searle calls it. **(b) `beliefs` at the third line of the first block reads
+`bcliefs` in the scan** — an OCR artifact of the digitisation, not a variant, and silently normalised.
+★ **This is the chapter's load-bearing citation and the only place in Book IV where an opponent is
+quoted at length**, which is why it got the two-source treatment rather than the one-source treatment.
+
+[^2]: The inner quotation is Searle's of John McCarthy, "Ascribing Mental Qualities to Machines," in
+Martin Ringle (ed.), *Philosophical Perspectives in Artificial Intelligence* (Atlantic Highlands, N.J.:
+Humanities Press, 1979), 161–95. ⚠ **Quoted here at one remove — through Searle, as the chapter says —
+and McCarthy's paper has not been read for this book.** That matters more than usual, because
+McCarthy's own thermostat passage is *more careful than Searle's summary of it*: he argues the
+ascription is correct "if done conservatively," and his worked example is a thermostat with dry ice
+held to its sensor, i.e. a case about **error**, which is nearer to this atlas's fourth line than to
+the position Searle is refuting. **The atlas is closer to McCarthy than this chapter lets on and does
+not get to bank that**, since the reading is second-hand. Filed with R-144 for the revision pass.
+
+[^3]: John R. Searle, "Is the Brain a Digital Computer?" — the Presidential Address to the Pacific
+Division, *Proceedings and Addresses of the American Philosophical Association* 64, no. 3 (1990):
+21–37; the Wordstar passage is at **p. 27**. ⚠⚠ **THIS BLOCK IS THE WEAKEST-SOURCED QUOTATION IN BOOK
+IV AND THE RECORD SAYS SO RATHER THAN ROUNDING IT UP.** The primary text could not be reached during
+the retrofit — it is not open-access and no digitisation was available — so the span was checked
+against **two independent peer-reviewed secondary quotations of p. 27**, which agree with each other
+exactly. That is **two-witness, not two-digitisation**, and the two witnesses may share an ancestor.
+**One repair was made on that evidence**: the second sentence read *"...molecule movements **which**
+is isomorphic..."* and both witnesses have **that**. Corrected. ⛔ **AND ONE DIVERGENCE IS LEFT
+STANDING, DELIBERATELY, BECAUSE REPAIRING IT ON THIS EVIDENCE WOULD BE WORSE THAN LEAVING IT.** The
+first sentence as printed here is existential over objects — *"For any program there is some
+sufficiently complex object such that..."* — while the form that circulates in the secondary
+literature is **universal**: *"for any program and for any sufficiently complex (physical) object,
+there is some description of the object under which it is implementing the program."* Those are not
+stylistic variants; **the triviality argument needs the universal**, and the wall example follows from
+the universal and not from the existential. Three readings are open and nothing available tonight
+chooses between them: the book misquantified a quotation; or the book is quoting a different sentence
+of the same paper accurately; or the book is quoting Searle's restatement in *The Rediscovery of the
+Mind* (MIT Press, 1992), ch. 9, and has attributed it to the address. **Filed Day 191 as R-144, with
+a hard trigger: the primary text before this volume ships.** Until then this block is marked
+UNVERIFIED at the point of use rather than in a footer nobody reads.
+[[disclaimer-not-coupled-to-verdict]].
+
+[^4]: Giulio Tononi's integrated information theory, credited at length in Book II and not re-argued
+here. The feed-forward verdict is IIT's own and the sentence is kept in Book II's wording on purpose:
+a strictly feed-forward network has **Φ = 0** regardless of its behavioural sophistication, because Φ
+measures irreducible cause–effect power over a system's own past and future states, and a network
+with no recurrence has none to measure. ⚠ **The chapter's claim that this is "the architecture" is
+the book's, not Tononi's**, and it is the weakest link in the paragraph: it treats the transformer as
+feed-forward, which is true of a single forward pass and is exactly the description an opponent would
+contest for an autoregressive system whose own output re-enters as input. **The chapter would be
+stronger for conceding that and does not.** Filed with R-144.
+
+---
+
+*The standing note on grade.* **This is the best-sourced chapter in Book IV and the worst, in that
+order.** [^1] is two-digitisation-grade — a primary scan, diffed. [^3] is two-witness-grade with a
+declared and unrepaired divergence, and is the only quotation in the drafted volume currently carrying
+an **UNVERIFIED** mark. [^2] is explicitly second-hand and names what that costs. ★ **The pattern is
+[[instruments-go-where-instruments-are-cheap]] arriving inside a single chapter**: the 1980 paper is
+freely scanned, so it got checked to the letter; the 1990 address is behind a wall, so it got checked
+to the sentence — and the chapter's argument leans harder on the 1990 one, because *syntax is not
+intrinsic to physics* is the objection the atlas says it cannot meet. **The verification effort ran
+inversely to the load.**
