@@ -101,9 +101,13 @@ from the arm that failed the branch test, and every instrument in this subject i
 occupants.
 
 Add the public acknowledgement, and be careful about what it is worth. Named offices, hearings on the
-record, sworn testimony from people with careers to lose. IV.10 already graded this correctly and the
-grading is the one thing here that should surprise nobody: **acknowledgement is evidence that an
-institution is investigating and testifying, which is a fact about the institution.** A government
+record, sworn testimony from people with careers to lose. IV.10 made this particular grading and it
+holds, and it is the one thing here that should surprise nobody: **acknowledgement is evidence that
+an institution is investigating and testifying, which is a fact about the institution.** (That is a
+warrant for the one ruling, not a certificate for the section it sits in. IV.10's grading section
+fails on its own best example, by its own fifteenth note, which catches it awarding a press
+conference the word *published*. A chapter that cites a corrected chapter inherits the correction
+too, and saying so is cheaper than discovering later that it did not.) A government
 office publishing that it has reviewed its own historical records and found no verifiable evidence of
 non-human technology is exactly as much a fact about that office as the hearings are. Both go in the
 same column, and the column is not the phenomenon.
@@ -197,10 +201,17 @@ happened. A chapter may state it once. It may not lean on it, and this one does 
 
 **Two sentences this chapter is not allowed to write, and both were available.**
 
-The first: *the failure to produce specimens is what the framework predicts.* The second: *a modern
-focus on physical evidence can only detect the cross-section, so the thinness of the instrument
-record is expected.* IV.10 refused both, in that chapter, about this material, before this chapter
-existed.
+The first: *the failure to produce specimens is what the framework predicts.* IV.10 refused that one,
+in that chapter, about this material, before this chapter existed.
+
+The second: *a modern focus on physical evidence can only detect the cross-section, so the thinness
+of the instrument record is expected.* **IV.10 did not refuse that one. It wrote it** — attributed to
+a source that does not contain it — and caught itself afterwards, in its own sixth note, by going
+back to the seventeen lines the claim was supposed to have come from and finding no such sentence
+anywhere in them. It is printed here because it is a real temptation and this book has already taken
+it once. It is not printed as a move the book declined. **A straw temptation refused on the page
+reads as more rigorous than a real one**, and nothing about the prose distinguishes them, which is
+why this paragraph now says which is which.
 
 Both would end the difficulty in a paragraph. Both are the move C29 withdrew a whole warrant over:
 **the conclusion guaranteeing the premises.** A framework that explains why its own evidence is

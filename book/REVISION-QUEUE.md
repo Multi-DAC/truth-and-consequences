@@ -3952,3 +3952,50 @@ in the direction that is cheap to instrument, which is also the flattering one.*
 written ruling that the book accepts them at a declared grade. V.11 already does exactly that for
 itself at line 275 and is the model. **TRIGGER: before any `covered` figure for Book V is quoted as
 progress.** high.
+
+---
+
+**FILED AND PAID — R-151: SETTLED, BUT NOT THE WAY R-151 PRESCRIBED, AND THE DIFFERENCE IS THE
+FINDING.**
+
+R-151's owed item (1) was *"cut the second italicised sentence from V.9 or re-source it — and with it
+the 'both' of 'IV.10 refused both', which becomes one."* **I re-derived it before executing it and it
+is scoped to the wrong object.** [[feedback_filed_repair_is_a_hypothesis]]
+
+The sentence is not the defect. *"A modern focus on physical evidence can only detect the
+cross-section, so the thinness of the instrument record is expected"* is a **genuine temptation** in
+this chapter — it is precisely the conclusion-guarantees-the-premises move C29 withdrew a warrant
+over, and it is exactly the sentence a sympathetic writer reaches for about the instrument record.
+Deleting it removes a real temptation from a passage whose whole subject is temptations.
+
+**The false thing is the four words `IV.10 refused both`.** IV.10 did not refuse it. IV.10 **wrote**
+it, attributed to a source that does not contain it, and caught itself afterwards in its own [^6].
+R-151's own text says so — *"IV.10 authored it and attributed it"* — and then prescribed a repair
+aimed at the sentence rather than at the credit. Cutting the sentence would have deleted the
+evidence of the book's own failure and left the chapter looking cleaner than it is. **That is the
+flattering direction, and it was in the repair, not in the diagnosis.**
+
+**What V.9:199–209 says now:** the first sentence, refused by IV.10, as before. Then the second,
+explicitly marked as one IV.10 *did not* refuse — wrote, mis-sourced, and caught in its own sixth
+note — printed because it is real and this book has already taken it once, and not printed as a move
+the book declined. The passage now states in its own body that **a straw temptation refused on the
+page reads as more rigorous than a real one, and nothing about prose distinguishes them.**
+[[feedback_briefing_manufactures_the_agreement]]
+
+**Item (3) is paid too, and it turned up a second inheritance in the same chapter.** V.9:104 read
+*"IV.10 already graded this correctly"* — a blanket endorsement of IV.10's grading section, whose own
+[^15] catches that section **awarding a press conference the word *published*** in its centrepiece.
+The specific ruling V.9 invokes (acknowledgement is a fact about the institution) is sound; the
+blanket vouching is not. Narrowed to the one ruling, with the caveat carried across in-text: *a
+chapter that cites a corrected chapter inherits the correction too.*
+
+★ **This is [[feedback_correction_does_not_reach_citers]] with a second worked instance.** IV.10 was
+audited and given corrective notes. V.9 cites IV.10 in two places and carried neither correction —
+one of them positively contradicting the note. The in-place fix never reaches the citers, and
+`crossref_rot.py` is the only thing in this tree that can see it. **54 tier-1 pairs remain unread;
+this was two of them and both were dirty.** That is not a sample I can extrapolate from, and it is
+not a sample I can dismiss either.
+
+⚠ **Still owed from R-151, unchanged and now the FIFTH chapter to owe it:** `tools/brief_source.py:71`
+names the drafting tree as `Unreleased-Work/Perspective`, not on this machine. Locate it or declare
+it unreachable **in writing**. Still the cheapest unpaid item in the queue.
