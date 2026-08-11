@@ -3227,3 +3227,48 @@ effort ran **inversely to argumentative load**, decided entirely by what was che
 **Owed:** the primary text of the 1990 address, and an adjudication of the three readings.
 **TRIGGER: before the volume ships — this is a named attribution and it is the only quotation in the
 drafted book carrying an UNVERIFIED mark.** (b) and (c) with the Book IV revision pass. medium.
+
+---
+
+**FILED AND PAID — R-145: A STAMP THAT UNDERCLAIMS HAS NO GAUGE, AND MINE PRINTED "AN UNRUN PASS"
+OVER APPARATUS I HAD WRITTEN FORTY MINUTES EARLIER.**
+
+`endnote_debt.py` decided whether the R-2 pass had reached a chapter by asking a **book-level
+literal** — `RETROFITTED_BOOKS = {II, III, VI, VII, VIII}` — rather than by looking at the chapter.
+So at 19:04, with IV.1–IV.6 carrying **28 notes on disk**, the gauge printed `Book IV … ⛔ PASS NEVER
+RUN` and six chapter rows reading *"(NOT RETROFITTED — an unrun pass, not a clean one)"*. The
+declaration was added on Day 191 for a real reason and its comment states it correctly: the tool
+could not tell a square zero (II.4 — pass ran, chapter cited nobody) from an unmeasured zero (IV.1 —
+nobody looked). **The reason was sound and the granularity was wrong.** The ambiguity it resolves is
+per-chapter; the declaration it was written as is per-book, and a half-passed book cannot be
+expressed in it at all.
+
+★ **The defect is one-directional guarding, and the missing direction is the flattering one.** The
+tool already checked its own stamp — *"a book listed here that carries no apparatus raises an alarm"*
+— which catches a stamp that **OVERCLAIMS**. Nothing checked a stamp that **UNDERCLAIMS**. That
+asymmetry is not an accident of this file: an overclaiming stamp threatens the work, so I built its
+gauge in the same commit as the stamp; an underclaiming stamp only insults the work, so it waited.
+**This is the same shape as my own boot banner** calling `working_memory.json` a STALE SELF-CACHE on
+the morning it held the only correct copy of the milestone — a gauge for *"this stamp may have
+rotted"* and none for *"this rotten-looking thing may be right."* Second instance today, second
+subsystem, and I recorded the first one at 17:40 and did not go looking for its population.
+[[feedback_freshness_check_cannot_see_a_deletion]], from the other side.
+
+**PAID, measured, in `tools/endnote_debt.py`:**
+1. The per-chapter verdict is **measured first**: notes on disk are positive proof the pass reached a
+   chapter and need no declaration. The literal is now load-bearing **only** for the ambiguous zero.
+2. A new book-level arm the literal could not express: `◐ PASS PARTIAL — 6/10 ch carry apparatus`.
+3. The reverse cross-check: notes on disk in an undeclared book now **say so**, rather than being
+   overruled by the stamp.
+
+**And the first version of (2) was wrong in the direction that matters.** Counting *chapters without
+notes* reported `Book II … ◐ PASS PARTIAL — 7/8` — indicting **II.4, the exact chapter the
+declaration exists to protect.** A repair aimed at a false negative had bought it with a false
+positive on the one case already understood. The denominator is now *chapters that NEED apparatus*
+(cites somebody, or already carries notes, or sits in an undeclared book where a zero is unmeasured
+rather than square). **Both controls are real and on real data:** Book IV fires PARTIAL, Book II
+falls silent, Book V still reads NEVER RUN.
+
+**Residue, declared:** this is still a **reporting** gauge, not a preventing one, and `owed` remains
+a separate axis from `carries apparatus` — Book VI shows `8/8 apparatus, owed 3`, which is correct
+and reads like tension. small. **PAID.**

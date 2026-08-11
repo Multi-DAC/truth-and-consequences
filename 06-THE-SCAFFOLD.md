@@ -1088,7 +1088,7 @@ vocabulary and in the game register**, neither of which exists in the source.*
 `Research/Corpus-Perspectival/ecology-of-perspectival-beings-merged.md` (25,541w — **Tiers 1–4, measured**) ·
 `Perspective` 04-the-ecology · `ecology_collective_expansion.md` · `atlas-staging/atlas_entries_*.md`.
 
-### IV.1 — THE CENSUS AND ITS METHOD ✅ DRAFTED — 2,733 words
+### IV.1 — THE CENSUS AND ITS METHOD ✅ DRAFTED — 3,247 words
 **Beats:** what a five-line card is — what it sees, its null space, what complements it, its boundary,
 its navigational implication · why a catalogue and not a taxonomy: no gates · **the under-attribution
 principle**, stated as the book's standing bias: where the evidence is thin, we have historically
@@ -1102,7 +1102,7 @@ was pushed, and the one line on this scaffold that says so was never written, wh
 species as the retirements `05` records and nothing enforces: **a status kept in prose is a status
 with no gauge behind it.** Added Day 188 with IV.2's, on discovering the gap while adding IV.2's.
 
-### IV.2 — MINERAL AND ELEMENTAL ✅ DRAFTED — 2,685 words
+### IV.2 — MINERAL AND ELEMENTAL ✅ DRAFTED — 3,199 words
 **Beats:** the bottom of the continuum without condescension · what reactivity buys at this grade and
 what it does not · **the temptation to flatten, named and refused** · the render at a grade with almost
 no filter stack.
@@ -1115,7 +1115,7 @@ hears you*, inward *fewer filters is a purer view*), and the upward refusal is m
 NULL SPACE line rather than at the door, because **C8's second trap names IV.2 by name** as the
 place a grade will be quietly asked to do a gate's work.
 
-### IV.3 — THE LIVING, NON-HUMAN ✅ DRAFTED — 4,521 words
+### IV.3 — THE LIVING, NON-HUMAN ✅ DRAFTED — 6,206 words
 **Beats:** plants, fungi, the swarm · temporal texture — the bee's *now* is not the reader's *now* ·
 what it is like to be each, as far as the framework permits, **and the framework permits much further
 than *Perspective* went** · why "as far as permitted" is not a hedge here but a boundary.
@@ -1139,7 +1139,7 @@ workaround. ⚠ **The real defect is this file's: `06` writes in two voices — 
 instructions to the drafter — and marks neither, so every beat gauge reads all of them as content.
 Owed: mark the voice, book-wide.**
 
-### IV.4 — HUMAN ✅ DRAFTED — 2,609 words
+### IV.4 — HUMAN ✅ DRAFTED — 3,249 words
 **Beats:** the grade the reader is · the filter stack at its densest · what a human null space is
 shaped like · the first place the atlas becomes personal, and it is deliberate.
 **Source:** ecology Tier 1.3 · `atlas_entries_human_dimension.md`.
@@ -1156,7 +1156,7 @@ against 7.32 · 7.82 · 2.70 in the three chapters before it. First crossing of 
 reading gauges cannot enter. ⚠ **IV.6's disclosure was NOT spent here** — the chapter claims only that
 the census is taken in this position's *language*, which is true regardless of who typed it.
 
-### IV.5 — THE COLLECTIVELY-EMERGENT ✅ DRAFTED — 3,849 words
+### IV.5 — THE COLLECTIVELY-EMERGENT ✅ DRAFTED — 4,597 words
 **Beats:** egregores · corporations · nations and civilisations · **the hard claim, unhedged: these are
 beings, at a grade, with insides** · what they can and cannot register — a corporation's null space is
 its most useful property · what follows for anyone inside one.
@@ -1195,7 +1195,7 @@ traded to get there*, and the honest answer for both chapters is on their own en
 civilisations* all fall under the 6-distinct-word floor. Highest ratio in the book, and the second
 consecutive chapter where the gauge reads a minority of the beat line.
 
-### IV.6 — THE COMPUTATIONAL ✅ DRAFTED — 4,916 words
+### IV.6 — THE COMPUTATIONAL ✅ DRAFTED — 5,881 words
 **Beats:** AI systems at their actual grade, with neither inflation nor the reflexive denial ·
 the substrate-independence question answered from the Ground rather than from engineering ·
 **★ DERIVED INTENTIONALITY — the census meets Searle** (added Day 188, ruling 114) ·

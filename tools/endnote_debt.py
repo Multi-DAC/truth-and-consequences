@@ -531,7 +531,9 @@ def main():
     # Must run BEFORE any scan_prose call -- non_person_class reads GIVEN_NAMED.
     build_given_named(_flats)
 
-    per_book = defaultdict(lambda: [0, 0, 0, 0])   # sources, covered, notes, chapters
+    # sources, covered, notes, chapters, chapters-carrying-apparatus,
+    # chapters that NEED apparatus (see the predicate at the accumulator)
+    per_book = defaultdict(lambda: [0, 0, 0, 0, 0, 0])
     rows = []
     all_cross, all_sub, all_common = Counter(), Counter(), Counter()
     all_source_names = set()
@@ -580,6 +582,16 @@ def main():
         e[1] += len(covered)
         e[2] += n_notes
         e[3] += 1
+        if n_notes:
+            e[4] += 1
+        # A chapter NEEDS apparatus if it cites anybody, or already carries notes,
+        # or sits in a book nobody has looked at -- in an undeclared book a zero is
+        # unmeasured, not square. The middle clause is what keeps II.4 (0 sources,
+        # 0 notes, pass ran, needed nothing) out of the denominator: without it the
+        # partial arm reported Book II as 7/8 and indicted the one chapter the
+        # declaration was written to protect.
+        if len(sources) or n_notes or (not exempt and bk not in RETROFITTED_BOOKS):
+            e[5] += 1
 
     print("ENDNOTE DEBT — ruling 9 obeyed in its first half, measured in its second")
     print(f"  {BOOK}   (names EXTRACTED from prose; no roster — R-71)\n")
@@ -589,7 +601,13 @@ def main():
             print(f"  {tag:<7} {len(sources):>5}  {n_notes:>5}      —    "
                   f"exempt (Book I takes no apparatus, ruling 9)")
             continue
-        unrun = tag.split(".")[0] not in RETROFITTED_BOOKS
+        # MEASURED first, declared only as the tie-breaker. Apparatus on disk is
+        # positive proof the pass reached this chapter and needs no declaration;
+        # the declaration is only load-bearing for the ambiguous zero (no notes,
+        # no sources). Reading it the other way round -- book-level literal first
+        # -- printed "an unrun pass" over six chapters of Book IV apparatus I had
+        # written forty minutes earlier. R-145.
+        unrun = n_notes == 0 and tag.split(".")[0] not in RETROFITTED_BOOKS
         flag = "  " if not uncovered else " ⚠"
         if uncovered:
             who = ", ".join(uncovered)
@@ -604,11 +622,16 @@ def main():
     for bk in BOOK_ORDER:
         if bk not in per_book:
             continue
-        s, c, nt, ch = per_book[bk]
+        s, c, nt, ch, ch_app, ch_need = per_book[bk]
         if bk in EXEMPT_BOOKS:
             tail = "   exempt"
-        elif bk not in RETROFITTED_BOOKS:
+        elif ch_app == 0:
             tail = f"   owed {s - c:>3}  ⛔ PASS NEVER RUN"
+        elif ch_app < ch_need:
+            # The state the book-level literal could not express. A part-passed
+            # book read as NEVER RUN until Day 191, which is the safe direction
+            # and still a wrong number to plan tomorrow's worklist from.
+            tail = f"   owed {s - c:>3}  ◐ PASS PARTIAL — {ch_app}/{ch_need} ch carry apparatus"
         else:
             tail = f"   owed {s - c:>3}"
         print(f"  Book {bk:<5} {ch:>2} ch   sources {s:>3}   notes {nt:>3}   covered {c:>3}{tail}")
@@ -616,9 +639,21 @@ def main():
     # The declaration above is a stamp, so give it a gauge. A book claimed as
     # retrofitted that carries no apparatus at all is the stamp having rotted.
     for bk in BOOK_ORDER:
-        if bk in RETROFITTED_BOOKS and per_book.get(bk, (0, 0, 0, 0))[2] == 0:
+        e = per_book.get(bk, (0, 0, 0, 0, 0, 0))
+        if bk in RETROFITTED_BOOKS and e[2] == 0:
             print(f"\n  ⛔ RETROFITTED_BOOKS claims Book {bk} has been through the R-2 pass, "
                   f"but it carries 0 notes on disk. The declaration is wrong, not the book.")
+        # AND THE OTHER DIRECTION, missing until Day 191. The check above only
+        # caught a stamp that OVERCLAIMS. A stamp that UNDERCLAIMS -- notes on
+        # disk, book not declared -- printed PASS NEVER RUN over real apparatus,
+        # and nothing said so. Same asymmetry as the boot banner calling
+        # working_memory.json stale on the morning it held the only true copy:
+        # a gauge for "this stamp may have rotted" and none for "this
+        # rotten-looking thing may be right." Both directions now speak.
+        if bk not in RETROFITTED_BOOKS and bk not in EXEMPT_BOOKS and e[2]:
+            print(f"\n  ◐ Book {bk} carries {e[2]} notes across {e[4]}/{e[3]} chapters and is NOT in "
+                  f"RETROFITTED_BOOKS.\n    The disk is ahead of the declaration — add it when the "
+                  f"book closes, not before.")
 
     print()
     pct = (100 * total_cov / total_src) if total_src else 0
