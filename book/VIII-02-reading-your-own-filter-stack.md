@@ -306,6 +306,29 @@ the instrument does not distinguish them.** A reader who takes a robust residual
 object will spend fifty years looking for a planet, and the looking will be rigorous, and it will be
 the wrong operation from the first day.
 
+★ **And the bound governs a device in this book, which is the honest place to say so.** The census
+card — the instrument you have been reading since Book IV — reports a null space and then names what
+fills it, card after card, on the strength of a residual. That is the Vulcan step performed as a
+matter of format. The answer is older than this chapter and sits in the line most readers skim.
+`IV.1`: *"Every entry has a null space; every null space is covered by some other position; no
+position covers its own."* **That is the Neptune test written as a law**, and it is precise about
+where the licence comes from: not from the hole, which cannot certify anything about itself, but from
+a **named outside position that can see into it.** Which is the job COMPLEMENTS was built for. A card
+that names one has earned the step from residual to object. A card that names none is looking for
+Vulcan — and the honest form of that card is `IV.8`'s, *"⚠ The census declines this line,"* which
+occurs exactly once in the atlas.
+
+⛔ **This chapter's own card fails that test.** Its `Complement:` line names what introspection
+renders superbly — true, useful, and *not a complement*, because it describes this instrument's
+strengths rather than another position that sees what this one misses. The outside witness that
+covers introspection's null space is the entire subject of the chapter — the dated prediction, and
+another person — and it is in the prose and not in the field built to hold it. Nor is it one card
+slipping: the field kept its name and swapped its referent partway through Book VI, and **18 of the
+volume's 44 cards have run under the wrong meaning since**, in the device the argument leans on
+hardest. It is recorded here as an open defect rather than a repaired one, because the book you are
+holding still prints it, and a limit the author has only fixed in private is not a limit the reader
+can check.
+
 This is also the chapter's defeat condition, which is owed since the book has been demanding them of
 everyone else. **If your register of predictions runs for a year and shows no stable bias in any
 direction — errors scattered, no consistent sign, no domain where you are reliably off — then either
