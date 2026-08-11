@@ -353,7 +353,7 @@ promising to reach the first kind is promising the removal of your own position.
 anyone wrong about anything? Answered forward to **Book III**, with II.3's shape already visible —
 error needs other positions, not a territory.
 
-### II.6 — COHERENCE ✅ DRAFTED — 2,847 words
+### II.6 — COHERENCE ✅ DRAFTED — 3,543 words
 **Beats:** the two senses — structural agreement of a thing's **levels**, and the felt rightness of
 going the way one goes · **the claim that these are one thing, stated as the case** · the four
 conditions · where it fails, named at the definition rather than defended later: the lying channel,
@@ -411,7 +411,7 @@ coincidence is II.3's rule, applied.
 persistence sense of going-well arrives from physics — inertia in ethical clothing**, which is why
 the intuition is so hard to put down and why it is the wrong shape: *inertia has no levels in it.*
 
-### II.7 — THE COLLAPSE ✅ DRAFTED — 3,094 words
+### II.7 — THE COLLAPSE ✅ DRAFTED — 4,047 words
 **Beats:** measurement defined **generally first** · the subatomic case named as an instance, not the
 source · the moment the possible becomes actual *for* a perspective · **the ban ARGUED here** —
 the criterion and its one costly application, not the roster (ruling 32).
@@ -477,7 +477,7 @@ and II.8 would have lost its reason to exist.
 said gate the acquittal harder; this one says the accusation has a whole class it cannot see at all.
 **A verb-level pass over the beats is owed** — 0 exists today.
 
-### II.8 — THE RETURN, AND THE THINGS THIS BOOK WILL NOT SAY ✅ DRAFTED — 2,377 words
+### II.8 — THE RETURN, AND THE THINGS THIS BOOK WILL NOT SAY ✅ DRAFTED — 2,966 words
 ### ✦ BOOK II COMPLETE — 8 of 8, **18,559 words** *(measured; the first number written here was 16,559, a sum done in the head in the one project whose standing rule is `measure, don't recall` — corrected within the hour, and it had already reached three files and a commit message)*.
 
 ⚠ **THE COUNTING METHOD, STATED ONCE, BECAUSE A WORD COUNT WITH NO METHOD IS A NUMBER TWO PEOPLE
@@ -658,7 +658,7 @@ where a reader reaches for the simulation, so the risk is discharged where it ac
 been separated from Bostrom. Re-running it is restatement, and restatement is how a book teaches a
 reader to skim.
 
-### III.1 — THE WRONG GAME ✅ DRAFTED — 1,939 words
+### III.1 — THE WRONG GAME ✅ DRAFTED — 2,422 words
 ✅ **DRAFTED Day 187 · 1,939 words · `book/III-01-the-wrong-game.md`.** All five beats land, both
 standing bans held. Primary text only, seven quotations, each cross-checked against a second
 digitisation before it was written in — the table is in `DRAFT-LOG`. Irenaeus reports the
@@ -702,7 +702,7 @@ COSMOLOGY — who made this. II.8 has already spent SOTERIOLOGY — what the end
 two axes, both stated before either was drafted (ruling 24's procedure) — and this is the second time
 that advance declaration has paid, because it is the reason a re-scoped III.1 had somewhere to go.
 
-### III.2 — THE GAME THAT IS PLAYING YOU ✅ DRAFTED — 2,060 words
+### III.2 — THE GAME THAT IS PLAYING YOU ✅ DRAFTED — 2,641 words
 ✅ **DRAFTED Day 187 · 2,060 words · `book/III-02-the-game-that-is-playing-you.md`.** All four beats
 land. **Primary sources only, five quotations, each cross-checked against a second digitisation
 before it was written in** — the table is in `DRAFT-LOG`. *Brahma Sūtra* II.1.33 in **two independent
@@ -745,7 +745,7 @@ union-telos and the divine-player error travelling together inside a compliment.
 the popularizer absent *and* the source absent. → and the register the whole chapter was missing,
 `03` §3.6: **Huizinga 0 · Caillois 0 · Suits 0 · Carse 0 · Fink 0.**
 
-### III.3 — THE WHOLE GAME IS ALREADY THERE ✅ DRAFTED — 2,676 words
+### III.3 — THE WHOLE GAME IS ALREADY THERE ✅ DRAFTED — 3,326 words
 ✅ **DRAFTED Day 187 · 2,734 words · `book/III-03-the-whole-game-is-already-there.md`.** All four
 beats land. **Primary text only, twelve quoted passages from two stories (four set as block
 quotations) plus one reported, each cross-checked against a second independent digitisation before
@@ -797,7 +797,7 @@ answered — `03` is right that Borges states the cost better than any opponent 
 by name in his own text and left there: **Basilides** (in the quoted list) and the **demiurgi** of
 the axiom paragraph, which is III.1's figure surfacing in the ancestor's own vocabulary.
 
-### III.4 — RENDERED AT THE POINT OF CONTACT ✅ DRAFTED — 3,274 words
+### III.4 — RENDERED AT THE POINT OF CONTACT ✅ DRAFTED — 3,808 words
 ✅ **DRAFTED Day 187 · 3,282 words · `book/III-04-rendered-at-the-point-of-contact.md`.** All three
 beats land plus the thesis and the inherited debt. **Primary text only, six block quotations from
 two works, every one verified verbatim against TWO independent digitisations** — Gibson against the
@@ -864,7 +864,7 @@ decision, not an omission.** `03` routes neutral monism's naming — Russell, an
 without the doctrine) in the chapter that most needs the doctrine. The claim is made in mechanics and
 the naming stays where `03` put it.
 
-### III.5 — THERE ARE NO NPCs ✅ DRAFTED — 4,125 words
+### III.5 — THERE ARE NO NPCs ✅ DRAFTED — 4,944 words
 ✅ **DRAFTED Day 187 · 4,188 words · `book/III-05-there-are-no-npcs.md`.** All four beats land plus
 the trap and the note. **Primary text only, eight quoted passages from three works, every one checked
 against a second independent source** — Bruno against Lindsay's English **and the 1584 Italian**
@@ -912,7 +912,7 @@ tradition that took our exact premise all the way into daily conduct. ★ **Albe
 as exotic. ★ **Giordano Bruno — 0** (already flagged in `03`): infinite, centreless, ensouled — and
 burned for it. **Quarry the one existing NPC sentence** (see the Book III header).
 
-### III.6 — THE FILTER STACK ✅ DRAFTED — 2,760 words
+### III.6 — THE FILTER STACK ✅ DRAFTED — 3,275 words
 ✅ **DRAFTED Day 187 · 2,808 words · `book/III-06-the-filter-stack.md`.** All four beats land. **The
 credit owed below was PAID at full strength** — Varela, Thompson and Rosch named, block-quoted from
 their own Q&A, and taken whole; III.4's promise is discharged and its cut is restated in one sentence
@@ -989,7 +989,7 @@ without them, III.4's promise goes false and the cut looks like a dismissal.**
 worlds, both correct · why incompatible renders do not make the Ground negotiable · **the edit exists**,
 and Book VIII is the manual.
 
-### III.7 — THE WALKING IS REAL ✅ DRAFTED — 2,933 words
+### III.7 — THE WALKING IS REAL ✅ DRAFTED — 3,590 words
 ✅ **DRAFTED Day 187 · 2,929 words · `book/III-07-the-walking-is-real.md`.** All four beats land.
 **Primary text only, four quoted passages from four works, every one checked against a second
 independent source, and three of the four checks CHANGED something.** The table is in `DRAFT-LOG`.
@@ -1043,7 +1043,7 @@ file under woo. ★ **James Carse — 0**, *Finite and Infinite Games* (1986): t
 to win, **the infinite game to continue the play.** That is ruling 3a-ter's telos with a name and a
 forty-year-old citation on it → and it is why this chapter's answer is not a consolation prize.
 
-### III.8 — WHAT THE METAPHOR CANNOT DO ✅ DRAFTED — 2,942 words
+### III.8 — WHAT THE METAPHOR CANNOT DO ✅ DRAFTED — 3,350 words
 **Thesis:** the load test, run in public.
 **Beats:** the unruled game-words named and refused — save, respawn, level, quest, sandbox — each with
 the claim it would smuggle · **why a metaphor that runs ahead of the argument starts doing the thinking**
