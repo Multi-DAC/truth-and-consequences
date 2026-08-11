@@ -3549,3 +3549,56 @@ too** — V.9:103's *"IV.10 already graded this correctly"* leans on the grading
 centrepiece [^15] catches awarding a press conference the word *published*. **TRIGGER: R-2 Book V,
 V.9 — and it must be settled BEFORE V.9's own notes are written, or the note will certify the
 inheritance.** high.
+
+---
+
+**FILED — R-152: THE GAUGE SAYS V.2 HAS ZERO SOURCES. IT HAS FOUR, AND THE FIRST ONE READ BY HAND
+IS MISPLACED BY A CITY.**
+
+Book V pre-work, Day 192. The handoff's standing warning — *hand-enumerate each chapter against its
+own prose, the gauge extracts PERSONS IN ATTRIBUTIVE POSITION and Books II–V cite WORKS* — was
+tested on the chapter where it is cheapest to test: `endnote_debt.py` reports **V.2: 0 sources, 0
+notes, `· (NOT RETROFITTED — an unrun pass, not a clean one)`**.
+
+**Hand enumeration of V-02, read in full (3,536 words):**
+
+| line | attribution | what is claimed |
+|---|---|---|
+| 147 | **Tillich** | *"took away God's face and kept the direction of prayer"* — a position, characterised |
+| 256–258 | **Aquinas** | *"in Paris in the twelve-sixties, writing the central document of the institution"*; God is *actus purus*, *"not a being among beings"* |
+| 259–260 | **Eckhart** | *"preaching in German to people who could not read Latin"*; God/Godhead distinction; *"nothing whatever can be said"* of the Godhead |
+| 261 | **Maimonides** | *"in Cairo, rules that every positive statement about God is false, and means every"* |
+| 104 | Advaita | named as a COMPLEMENT in the card |
+| 130 | *"this project's own front matter"* | internal, uncited |
+
+**Four hard named-source attributions, each carrying a dated, located or quoted claim. The gauge
+reports 0.** Book II's miss was 2/1/1 against an actual 6/5/4 — an undercount. **This is a zero
+against a four**, which is a different and worse object: an undercount reads as *some work here*, a
+zero reads as *nothing to check*, and it sits on the one Book V chapter the gauge also labels
+un-retrofitted. A hurried breath paying the gauge's list skips V.2 entirely.
+[[feedback_self_generated_denominator]]
+
+⛔ **AND THE FIRST ONE CHECKED IS WRONG IN ITS ADDRESS.** *"Aquinas, in Paris in the
+twelve-sixties, writing the central document of the institution"* — the *Summa Theologiae* was begun
+**1265 at Santa Sabina in Rome**; the **Prima Pars and Prima Secundae were written at Rome,
+1265–69**, and Aquinas's second Paris regency runs **1269–1272**. The *actus purus* / not-a-being-
+among-beings material is Prima Pars. **It was not written in Paris.** The reading survives no better
+on the alternative referent: the *Summa contra Gentiles* is not "the central document of the
+institution", and its Paris portion is c. 1259–61, not the twelve-sixties.
+
+★ **Same class as IV.9's Irenaeus placement — a provenance error under content that is correct.**
+The doctrine attributed to Aquinas is Aquinas's; the *address* is wrong, and the address is what
+makes the sentence feel researched. Four chapters in Book IV produced this shape, and it is the
+first thing Book V produced too, before its pass has even started.
+
+⚠ **NOT CHECKED, and named so rather than left to look checked:** whether *actus purus* appears in
+the span the chapter is pointing at (ST I q.3 a.2 is the expected locus — **span-check owed, I am
+characterising from memory here and that is the exact move under audit**); the Eckhart *Gott*/
+*Gottheit* attribution; the Maimonides *Guide* I.58 rendering, where *"every positive statement is
+false"* and *"no positive attribute can be predicated"* are not obviously the same claim; and the
+Tillich characterisation, which V.2 leans on to license its own central cut.
+
+**Owed:** (1) fix the Aquinas address — *Rome* or drop the location; (2) run the three unchecked
+attributions before V.2's notes are written; (3) **re-hand-enumerate all eleven Book V chapters —
+the gauge's 30 is a floor of unknown depth, and V.2 alone proves the error is not a small
+percentage.** **TRIGGER: R-2 Book V, before any Book V note is written.** high.
