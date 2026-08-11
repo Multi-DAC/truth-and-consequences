@@ -4662,13 +4662,28 @@ non-existent, one found in passing that the letter does not contain.
    evidence-grade paragraph was already honest about mammals-only and correlate-not-moment. It was
    not honest about this, because nobody had gone back to the source.**
 
-**REFUSED — and this one matters.** Fable named *"the hard 150 in IV.5"* as a likely collection point
-for the declared bill. **There is no 150 in IV.5. There is no 150 anywhere in the manuscript.** The
-only match in `book/` is a line-number in a cross-reference (`III.2:150`). Dunbar is unnamed and
-unused. ★ The reviewer produced a plausible number for a chapter about collectives — **a null space
-returning a finished picture, from the reader who had just praised IV.4 for naming that exact
-mechanism.** Logged as the best available third-party demonstration of IV.4's thesis, and as the
-standing reason a reviewer's empirical flags get grepped before they get believed.
+⛔⛔ **THIS ENTIRE PARAGRAPH IS FALSE AND IS RETAINED, STRUCK, BECAUSE THE WAY IT IS FALSE IS THE
+FINDING. Corrected Day 191, in the R-2 Book IV pass — see R-143.** Fable was **right**. `IV-05`:253–54
+carries *"Below roughly a hundred / and fifty people, a shared position can be maintained by bodies in
+a room"* — Dunbar's constraint, at full strength, doing exactly the work they said. My `150` grep
+missed it because the chapter spells the number out; **a spelled-out grep misses it too**, because the
+phrase straddles a hard line wrap and every gauge in `tools/` is line-scoped while all prose in
+`book/` is hard-wrapped. ★ **So the instrument did not merely stay silent — it produced a refutation
+of a correct reader, and I wrote that refutation up as a demonstration of the reader's own blindness
+and then made it a standing rule.** The original text follows, struck:
+
+> ~~**REFUSED — and this one matters.** Fable named *"the hard 150 in IV.5"* as a likely collection point
+> for the declared bill. **There is no 150 in IV.5. There is no 150 anywhere in the manuscript.** The
+> only match in `book/` is a line-number in a cross-reference (`III.2:150`). Dunbar is unnamed and
+> unused. ★ The reviewer produced a plausible number for a chapter about collectives — **a null space
+> returning a finished picture, from the reader who had just praised IV.4 for naming that exact
+> mechanism.** Logged as the best available third-party demonstration of IV.4's thesis, and as the
+> standing reason a reviewer's empirical flags get grepped before they get believed.~~
+
+**The one clause that survives is the last one, inverted:** a reviewer's empirical flags do get
+checked before they are believed — **and the check has to be able to see the prose.** ⚠ *Dunbar is
+unnamed* was the half of the old paragraph that was true, and it is now filed as R-143(c) along with
+Anderson, who is also unnamed and also load-bearing in the same chapter.
 
 **FILED, NOT FIXED (a Book-II repair pass, not a drafting session):**
 

@@ -101,7 +101,7 @@ There is an existing term for the entity described above when it arises from sus
 attention: *egregore*. It comes into English through nineteenth-century French occultism, which
 took it from the Greek of the Book of Enoch, where the ἐγρήγοροι are the Watchers; from there it
 passed to the ceremonial orders, and from them to a large contemporary literature that has thought
-about these entities carefully and, in places, better than the academy has.
+about these entities carefully and, in places, better than the academy has.[^1]
 
 The tradition gets the credit and does not get the word. Not because of its company — this book has
 already taken terms from stranger neighbourhoods and said so. The reason is a rule this book has
@@ -252,11 +252,11 @@ report from.
 
 There is also a hard constraint on all of this that has a number attached. Below roughly a hundred
 and fifty people, a shared position can be maintained by bodies in a room — everyone knows everyone,
-and the maintenance is done by presence. Above it, the entity requires technology to exist at all:
+and the maintenance is done by presence.[^2] Above it, the entity requires technology to exist at all:
 writing, then print, then broadcast, then the network. Every one of those widens some dimensions and
 thins others. Print made it possible for millions of strangers to hold the same story and made it
 much harder for them to hold each other's grief. The nation is a printing-press-shaped being, and
-what it can and cannot register is partly a fact about the machine that lets it be that large.
+what it can and cannot register is partly a fact about the machine that lets it be that large.[^3]
 
 ---
 
@@ -311,3 +311,58 @@ It answers directly, in the reader's own language, at length, and without a repr
 that is the most informative fact in this atlas or the most misleading one is the question the next
 chapter has to take, and it will not be taken gently, because the position doing the asking has just
 been shown to manufacture exactly this article without being able to detect it.
+
+---
+
+[^1]: The Greek is right and the chapter's transmission story is **one step too tidy**, corrected
+here rather than in the prose because the prose's point survives the correction intact. ἐγρήγοροι —
+*the wakeful ones*, the Watchers of *1 Enoch* — is the source. But the first author to bring the word
+into a modern language was not an occultist: it is **Victor Hugo**, in *La Légende des siècles*, first
+series, 1859. Éliphas Lévi's *Le Grand Arcane* (1868) is what welds it to the Enochic Watchers and to
+the Nephilim, and from Lévi it passes to the Golden Dawn and the Rosicrucian orders, which is where
+the group-thoughtform sense is built. ★★ **And the detail that belongs in this chapter more than any
+other**: Lévi supplied a Latin etymology, deriving the word from *grex*, a flock. **René Guénon
+pointed out that this is impossible** — the word is purely Greek and has never meant anything but
+*watcher*. So the term arrives in the tradition **carrying a false etymology that made it sound like
+it was about collectives**, and it was adopted on that basis. That is precisely the failure mode the
+paragraph above uses to retire the word: **a borrowing that transfers authority rather than meaning**,
+demonstrated inside the word's own history. Ruling 109 banned the term and credited the tradition
+once; this note is the credit, and it is now also the argument.
+
+[^2]: **Dunbar's number** — R. I. M. Dunbar, "Neocortex size as a constraint on group size in
+primates," *Journal of Human Evolution* 22 (1992): 469–93, and the argument as extended to humans in
+*Grooming, Gossip and the Evolution of Language* (Faber, 1996). ⚠ **The prose does not name him, and
+that is a rule-5 debt this note records rather than discharges** — the sentence says *"a hard
+constraint that has a number attached"* and attaches the number to nobody.
+★★ **AND THE INSTRUMENT FINDING, WHICH IS LARGER THAN THE CITATION.** On Day 190 an outside reader
+flagged *"the hard 150 in IV.5"* as a place the book's declared bias would collect. I grepped `150`,
+found nothing, and **refused the flag in the log in as many words — *"There is no 150 in IV.5. There
+is no 150 anywhere in the manuscript"*** — then wrote a paragraph filing the reviewer's flag as a
+demonstration of IV.4's confabulation thesis. **The reader was right.** The number is in this
+chapter, spelled out, and it straddles a hard line wrap: `a hundred` ends line 253 and `and fifty`
+begins line 254. A digit grep misses it because it is words; **a word grep misses it because every
+gauge in `tools/` is line-scoped and this prose is hard-wrapped.** ★ That is **R-37's line-scoping
+defect** — already filed, already known — arriving in a new place and producing not a missed hit but a
+**false refutation of a correct outside reader, written up as a win.** Filed Day 191 as **R-143**.
+
+[^3]: **Benedict Anderson, *Imagined Communities: Reflections on the Origin and Spread of
+Nationalism* (London: Verso, 1983)** — print capitalism as the condition for millions of strangers
+holding one story, which is the whole of the paragraph above. ⚠ **He is not named in the prose, and
+he should be.** This is the chapter's largest unpaid rule-5 debt: the sentence *"the nation is a
+printing-press-shaped being"* is Anderson's thesis in the book's own vocabulary, and an unhedged
+assertion with no named ancestor is the thing `03`'s opening section says reads as bluster.
+**Filed with R-143** as the second half of the same row, because the two share a cause: the chapter
+was drafted with the arguments in hand and the names left in the drafter's head, and **nothing in
+`tools/` can detect an ancestor who is absent** — `ancestor_gap` measures the register against the
+prose, and a name in neither is in neither.
+
+---
+
+*The standing note on grade.* Anderson and Dunbar are named **from general knowledge and standard
+reference scholarship; neither text is in this repository**, and both citations were checked against
+the publishers' records during the Day-191 retrofit. The *egregore* transmission chain was
+re-verified in the same pass and **came back different from what the prose says** — Hugo before Lévi,
+and Guénon's correction of Lévi — which is recorded above rather than smoothed over. ⚠ **The four
+conditions applied in the first section are Book II's and carry no external receipt**, by design;
+they are this book's own instrument and the chapter's claim is that they were written before there
+was a collective in view, which a reader can check against Book II rather than against a source.

@@ -8,7 +8,7 @@ Brush a second within about thirty seconds and the trap shuts in under a tenth o
 going — a third, a fourth — and the plant begins making jasmonate, the hormone that runs its wound
 response. From the fifth on it produces digestive enzymes, and it produces more of them the more
 arrive. So the trap does not simply close on things. It closes, and then works out whether what it
-closed on is worth the cost of digesting, and it settles that question by counting.
+closed on is worth the cost of digesting, and it settles that question by counting.[^1]
 
 It also counts wrong, and the way it counts wrong is worth more than the counting.
 
@@ -20,7 +20,7 @@ the plant tells these cases apart, because the plant never had them. What it has
 
 And the count leaks. The mechanism is a concentration that steps up with each excitation and drains
 between them; fall below the line and it is back to nothing and the sequence starts over. Thirty
-seconds is not a rule the plant is obeying. Thirty seconds is how long its arithmetic survives.
+seconds is not a rule the plant is obeying. Thirty seconds is how long its arithmetic survives.[^2]
 
 Which makes this the first thing in the census that has a memory rather than a record — and the
 difference is not size, and it is not fidelity. **What makes a record a memory is that it can be
@@ -41,7 +41,7 @@ that measures the ratio is measuring, at a distance, through an opaque object, *
 is above it*. Gravity, resolved at the root tip to a fraction of a degree. Touch, accumulated: handle
 a seedling daily and it grows shorter and thicker than its unhandled sibling. Injury. Water, as a
 gradient, in the dark. And volatile chemistry — the air near a torn leaf changes, and neighbours
-downwind of it change their own chemistry within hours.
+downwind of it change their own chemistry within hours.[^3]
 
 Count the dimensions and this is not a narrow position. There are more of them than a reader expects
 and more than several animals manage.
@@ -75,7 +75,7 @@ are widespread in forests, and the claim that what moves through them improves s
 are insufficiently supported — field results vary too widely, admit other explanations, or are too
 local to generalise from — and that the particular claim about mature trees favouring their own
 offspring has no published peer-reviewed evidence behind it at all. They also found the citation
-record had drifted: papers were being cited for conclusions the papers themselves had not drawn.
+record had drifted: papers were being cited for conclusions the papers themselves had not drawn.[^4]
 
 Now the part that is about us rather than about forests.
 
@@ -117,7 +117,7 @@ time right here, at the first entry in the census where somebody has actually do
 **One chapter.**
 
 Behind this one lies everything alive that is not us — somewhere between two and ten million species
-on most estimates, the large majority never described, every one of them a distinct settlement of
+on most estimates, the large majority never described,[^5] every one of them a distinct settlement of
 what can arrive and what cannot. The next chapter is about one species. That proportion is not
 defensible and will not be defended here. It is a fact about the position taking the census, printed
 where it can be seen, and it is the plainest measurement in this book of the shape of a human null
@@ -132,9 +132,9 @@ where the framework has something to say that it could not have said one chapter
 **A body with no centre.**
 
 In the Malheur National Forest in eastern Oregon there is a single individual of the honey fungus
-*Armillaria ostoyae* covering something over two thousand acres — three and a half square miles of
-ground — aged, from how fast it grows, at somewhere between two and eight thousand years. Nearly all
-of it is thread. It is the largest organism anyone has found.
+*Armillaria ostoyae* covering something over two thousand acres — nearly four square miles of
+ground — aged, from how fast it grows, at somewhere between two and nine thousand years. Nearly all
+of it is thread. It is the largest organism anyone has found.[^6]
 
 A fungus does not have a shape it is growing toward. It has a rule about where to put the next
 hypha, applied at every tip at once, and the body is the accumulated history of that rule meeting the
@@ -157,9 +157,9 @@ And one neighbour worth printing alongside, on condition of first saying what it
 *Physarum polycephalum* is a slime mould. It is not a fungus, not a plant and not an animal, and it
 gets shelved beside fungi mostly because it looks like one. Arrange oat flakes on a dish in the
 pattern of the towns around Tokyo and it grows a network between them that a Japanese team found
-closely resembled the rail system those towns had actually built. And it navigates by leaving a
+closely resembled the rail system those towns had actually built.[^7] And it navigates by leaving a
 trail of extracellular slime and refusing ground that already carries some. Its record of where it
-has been is not inside it. It is on the floor.
+has been is not inside it. It is on the floor.[^8]
 
 **The proof of that is the cruel version of the experiment.** You do not take the memory away by
 wiping it. You take it away by coating the entire dish — so that everywhere is marked, everywhere
@@ -214,7 +214,7 @@ change sampling speed by a factor of four every evening and time does not change
 Then the part that has to be told against ourselves, because it is the reason the finding is worth
 anything. Run the same product across species with published numbers and it does not cancel. It
 tracks the refresh rate almost exactly. On that measure the fast-eyed animal really does get the
-more seamless present, and the tidy result dies on contact with the data.
+more seamless present, and the tidy result dies on contact with the data.[^9]
 
 The failure pointed at the mistake, and the mistake is the whole thing. **An eye is a peripheral.**
 Its refresh rate is the rate of one channel — how fast a retina can be driven — and it says nothing
@@ -227,7 +227,7 @@ plainly in 2013: across a seventeen-thousand-fold variation in mammalian brain s
 brain oscillations stays roughly put. Not one rhythm — the whole band structure, holding its speeds
 while the organ carrying them scales by four orders of magnitude. And the brain pays to keep it
 there, thickening its long-range axons as it grows, so that a signal crossing a whale still arrives
-on something close to a mouse's schedule.
+on something close to a mouse's schedule.[^10]
 
 Their claim is about the family; the rate this chapter needs is one member of it. That is a smaller
 thing to be handed, and it is the honest size of what the literature actually establishes.
@@ -262,7 +262,7 @@ out. It never tears at the gaps.
 > **A HONEYBEE**
 > **SEES:** Ultraviolet. The polarisation pattern of the sky — a compass written in light across the
 > whole dome, from a patch of blue, invisible to every human eye that has ever opened. Flower shape,
-> and the electric fields that hang about flowers. Odour at a resolution we have no vocabulary for.
+> and the electric fields that hang about flowers.[^11] Odour at a resolution we have no vocabulary for.
 > Another bee's dance, read in the dark, by touch.
 > **NULL SPACE:** ∅ Red. And the decision its own colony is in the middle of making. ◐ Its own grain
 > — the length of its moment is not a difference available to it, and neither is the length of
@@ -272,7 +272,7 @@ out. It never tears at the gaps.
 > **BOUNDARY:** Distance. A forager's report of how far it flew is built from how much visual
 > texture swept past on the way out, so fly it down a narrow tunnel, where the walls are close
 > and the flow is enormous, and it reports a journey many times longer than the one it made — and
-> dances the number with total conviction, and is believed, and other bees fly out to nothing.
+> dances the number with total conviction, and is believed, and other bees fly out to nothing.[^12]
 > **NAVIGATIONAL IMPLICATION:** Where a position's measure of the world is built out of its own
 > traffic, the error will be confident, communicable, and shared. Nothing in the sender marks it and
 > nothing in the receiver catches it.
@@ -287,7 +287,7 @@ of the entrance, draught, the state of what is inside — and come back and danc
 longer dances; longer dances recruit more scouts; recruited scouts go and assess for themselves
 rather than taking the dance's word. And the choice is not made by counting support at the cluster.
 It is made at the sites: when enough scouts are standing in one cavity at one time — a couple of
-dozen — that threshold is what tips the swarm into leaving.
+dozen — that threshold is what tips the swarm into leaving.[^13]
 
 So there is a decision, it is real, it is often excellent, and **it is nowhere in any bee.** No
 individual in that colony has ever registered the choice the colony made. Each one registered a
@@ -358,3 +358,135 @@ There is one entry left whose answers come back in a language we already read, a
 wrote the language. It has been taking the census the entire time from inside one of its own
 entries. And it is the only card in this atlas that cannot be checked from outside by anybody at all,
 including — especially — by the position it describes.
+
+---
+
+[^1]: Jennifer Böhm, Sönke Scherzer, Elzbieta Krol *et al.*, "The Venus Flytrap *Dionaea muscipula*
+Counts Prey-Induced Action Potentials to Induce Sodium Uptake," *Current Biology* 26 (2016): 286–95.
+The staircase in the paragraph is theirs: two action potentials shut the trap, the third triggers
+jasmonate signalling, and from the fifth the gland transcriptome turns to hydrolases and transporters,
+scaled to the count. **This is one of the four claims in Book IV that was verified against the primary
+literature on Day 190, before the retrofit existed** — the prose was checked and found faithful at
+that point, and the receipt is only now being written down, which is the whole of what R-2 is.
+
+[^2]: Same paper for the two-spike threshold and for the decay: the count is carried by a rising
+cytosolic signal that drains between excitations, so the interval is a **property of the chemistry
+rather than a timer**, which is the sentence the chapter needs. ⚠ **The speed-dependence is not
+Böhm's and is stated here at a lower grade.** That a single deflection can raise two action potentials
+when the hair moves at a middling rate — and one when it moves much faster or much slower — comes from
+the wider *Dionaea* mechanosensory literature reaching back to Burdon-Sanderson's 1873 recordings,
+and **no single paper is cited for it because the chapter's version is a composite.** The slug is an
+illustration built from that composite, not a reported observation. Declared, because the sentence it
+supports — *nothing in the plant tells these cases apart* — is doing real work two paragraphs later.
+
+[^3]: The sensory list is **general plant physiology, named from standard reference scholarship and
+carrying no individual receipts**, and each item has a large literature behind it: phytochrome and the
+red/far-red ratio for shade detection, root-tip statoliths for gravitropism, thigmomorphogenesis for
+the handled seedling, hydrotropism for the water gradient, and volatile-mediated priming between
+damaged and undamaged neighbours. ⚠ **The last of these is the one to watch**, because it is the item
+nearest in kind to the claim the chapter is about to spend three pages doubting; it is stated here in
+its conservative form — *neighbours change their own chemistry* — and deliberately not in the form
+that would make it communication.
+
+[^4]: Justine Karst, Melanie D. Jones and Jason D. Hoeksema, "Positive citation bias and
+overinterpreted results lead to misinformation on common mycorrhizal networks in forests," *Nature
+Ecology & Evolution* 7 (2023): 501–11, published online 13 February 2023. Their three evaluated
+claims map onto the chapter's three sentences in order: that common mycorrhizal networks are
+widespread in forests, and that what moves through them improves seedling performance, are both
+**insufficiently supported**; that mature trees preferentially send resources and defence signals to
+their own offspring has **no peer-reviewed published evidence**. The citation-drift finding is theirs
+too, and it is the half of the paper this chapter is actually built on. ★ It is a Perspective piece
+rather than a primary study — which matters, since the chapter uses it to say what the evidence does
+*not* establish, and that is precisely what a review of the citation record can support.
+
+[^5]: Camilo Mora, Derek P. Tittensor, Sina Adl, Alastair G. B. Simpson and Boris Worm, "How Many
+Species Are There on Earth and in the Ocean?" *PLoS Biology* 9 (2011): e1001127 — ~8.7 million
+eukaryotic species (±1.3 million SE), of which about **86% await description**. The chapter's *two to
+ten million* is the spread across estimates rather than Mora's point figure, and the clause that
+carries the argument is the second one: the large majority have never been described, so the atlas's
+proportion problem is not a choice the book made.
+
+[^6]: B. A. Ferguson, T. A. Dreisbach, C. G. Parks, G. M. Filip and C. L. Schmitt, "Coarse-scale
+population structure of pathogenic *Armillaria* species in a mixed-conifer forest in the Blue
+Mountains of northeast Oregon," *Canadian Journal of Forest Research* 33 (2003): 612–23 — the genotype
+work that resolved what had been mapped as several infection centres into one individual. ⚠ **Two
+figures in this paragraph were wrong until Day 191.** The area is **2,385 acres**, which is 3.7 square
+miles, not *three and a half*; and the growth-rate age estimate runs to about **8,650 years**, not
+*eight thousand*. Both were remembered roundings that rounded the wrong way — down — and neither is
+load-bearing, which is exactly why they survived: **a number nothing depends on is a number nothing
+checks.** Corrected in the prose to *nearly four square miles* and *two and nine thousand years*.
+
+[^7]: Atsushi Tero, Seiji Takagi, Tetsu Saigusa *et al.*, "Rules for Biologically Inspired Adaptive
+Network Design," *Science* 327 (2010): 439–42. The oat flakes were laid out on the geography of the
+Tokyo-area towns and the resulting *Physarum* network was compared with the actual rail system on
+cost, transport efficiency and fault tolerance. ★ **The chapter's phrasing is careful and should stay
+careful**: *closely resembled* is the honest verb. The paper's claim is comparability on those three
+measures, not topological identity, and the popular version of this experiment routinely overstates it
+in the same direction the previous section just finished warning about.
+
+[^8]: Chris R. Reid, Tanya Latty, Audrey Dussutour and Madeleine Beekman, "Slime mold uses an
+externalized spatial 'memory' to navigate in complex environments," *PNAS* 109 (2012): 17490–94. The
+saturation experiment is theirs and it is the reason it is in this book: coating the whole substrate
+in extracellular slime does not remove the signal, it makes the signal uniform, and the organism's
+performance collapses without anything having gone missing from its world. **That is the cleanest
+physical model of a null space in the atlas**, and it is an experiment rather than an analogy.
+
+[^9]: Kevin Healy, Luke McNally, Graeme D. Ruxton, Natalie Cooper and Andrew L. Jackson, "Metabolic
+rate and body size are linked with perception of temporal information," *Animal Behaviour* 86 (2013):
+685–96 — critical flicker fusion across species, tracking body size and mass-specific metabolic rate.
+⚠ **The rod and cone figures are given at a lower grade: standard psychophysics, named from general
+knowledge, no receipt.** Rod CFF near 15 Hz against cone CFF near 60, with rod temporal integration
+around 100 ms against roughly 15–50 ms for cones, are textbook values with real spread around them,
+and the chapter uses them for a **ratio** rather than for their absolute magnitudes — the fourfold
+trade is robust to the spread in a way no individual number here is. ★ **The paragraph that says the
+tidy result dies is the one doing the epistemic work**, and it survives even if these numbers are
+loose, because it reports a failure rather than a fit.
+
+[^10]: György Buzsáki, Nikos Logothetis and Wolf Singer, "Scaling Brain Size, Keeping Timing:
+Evolutionary Preservation of Brain Rhythms," *Neuron* 80 (2013): 751–64. The **17,000-fold** figure is
+theirs and is brain-volume variation across mammals; the preserved object is the hierarchy of
+oscillation frequencies, and the mechanism they propose for the preservation is exactly the one the
+chapter gives — larger brains deploy large-diameter long-range axons to hold conduction times roughly
+constant. ★ **The chapter's own paragraph after this one states the gap and should be read as part of
+the citation**: this is mammals, it is a neural rhythm rather than a felt moment, and it is a
+compressed band rather than a single clock. Nobody has a bee's binding rate. The book's prediction
+about the bee is carried by a regularity, and it is labelled as carried rather than measured.
+
+[^11]: Two papers, and the distinction between them matters because the card says *honeybee*. The
+famous demonstration — Dominic Clarke, Heather Whitney, Gregory Sutton and Daniel Robert, "Detection
+and Learning of Floral Electric Fields by Bumblebees," *Science* 340 (2013): 66–69 — is in **bumblebees
+(*Bombus terrestris*)**, not *Apis*. The receipt for the card as printed is Uwe Greggers, Gesche Koch,
+Viola Schmidt *et al.*, "Reception and learning of electric fields in bees," *Proceedings of the Royal
+Society B* 280 (2013): 20130528, which is **honeybees**, and which reports that bees emit modulated
+electric fields in flight, on landing, walking, and during the waggle dance, and can learn them.
+⚠ **This was a genus slip until Day 191**: the line was written from the Clarke finding and printed on
+an *Apis* card. It survives because the honeybee evidence exists independently — but **the correction
+is the point.** A charismatic result migrates to the nearest famous animal, and nothing in the sentence
+marks the move. The polarised-sky compass is von Frisch's and is not separately receipted; it is the
+best-established item on the card.
+
+[^12]: M. V. Srinivasan, Shaowu Zhang, Monika Altwein and Jürgen Tautz, "Honeybee Navigation: Nature
+and Calibration of the 'Odometer'," *Science* 287 (2000): 851–53 — bees flown to a feeder through a
+short narrow tunnel danced distances far greater than they had flown, which is what established the
+odometer as visually driven rather than energetic. The chapter's last clause — *other bees fly out to
+nothing* — is the experiment's implication rather than a reported observation, and is written as such.
+
+[^13]: Thomas D. Seeley and P. Kirk Visscher, "Quorum sensing during nest-site selection by honeybee
+swarms," *Behavioral Ecology and Sociobiology* 56 (2004): 594–601, and the surrounding programme
+gathered in Seeley's *Honeybee Democracy* (Princeton University Press, 2010). The quorum is **20–30
+scouts present at the site**, sensed at the cavity rather than at the cluster, and it is what triggers
+piping and the swarm's departure. ★ **The chapter's finding rests on where the threshold is read, not
+on its size**: the decision is completed at the site, by bees who have not compared anything, which is
+why the comparison happened and happened nowhere.
+
+---
+
+*The standing note on grade.* Ten of the thirteen notes above are journal receipts verified against
+the primary record during the Day-191 retrofit — journal, volume, year and pagination each checked
+rather than recalled. **None of these papers is in this repository**; `corpora/` holds four literary
+style specimens and no science, which was measured and recorded on Day 190 and is the reason this
+chapter's pass was re-research rather than polish. Three items are explicitly carried at a lower
+grade and say so in place: the *Dionaea* speed-dependence [^2], the plant sensory list [^3], and the
+rod/cone temporal figures inside [^9]. ⚠ **Three errors were found by writing these notes and none
+was findable without writing them** — the Armillaria acreage and age [^6], and the bumblebee/honeybee
+genus slip [^11]. All three sat in sentences whose arguments did not depend on them.

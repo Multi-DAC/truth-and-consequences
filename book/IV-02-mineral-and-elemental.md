@@ -5,11 +5,11 @@
 A quartz crystal keeps better time than you do.
 
 Cut it to the right shape, put a current across its faces, and it flexes 32,768 times a second, and a
-week later it is still right to within a few seconds. Your own sense of how long ten minutes is
+week later it is still right to within a few seconds.[^1] Your own sense of how long ten minutes is
 drifts further than that inside a single afternoon. The first entry in this census outperforms the
-reader at the one difference it registers. It outperforms every animal. It outperformed every clock
-built in the four centuries before it. This is not a paradox to be explained away and it is not a
-charming detail. It is the shape of the whole grade, arriving at the front where it belongs.
+reader at the one difference it registers. It outperforms every animal. It outperformed every
+*portable* clock built in the four centuries before it.[^2] This is not a paradox to be explained away
+and it is not a charming detail. It is the shape of the whole grade, arriving at the front where it belongs.
 
 **The bottom of the continuum is not the least sensitive place in the census. It is the least
 integrated one.**
@@ -56,7 +56,7 @@ Nothing in this census keeps a better record than rock.
 A granite carries the pace of its own cooling in the size of its grains. A vein of quartz carries the
 pressure that opened the crack it filled. An agate carries the order its bands arrived in — in order,
 banded, unedited, none of it revised afterwards to make a better story. Ice carries actual air from
-a year eight hundred thousand years gone, sealed in a bubble, still that air. Strata carry the
+a year eight hundred thousand years gone, sealed in a bubble, still that air.[^3] Strata carry the
 sequence of everything ever laid down on them, in the sequence it was laid down. There is no organ
 in any animal that keeps a record at this fidelity over this duration, and it is not close, and it
 is not a contest.
@@ -230,3 +230,44 @@ eight chapters after it.
 The loop is what to watch. Where it closes once, you get a river. Where it closes and keeps closing
 and starts holding one turn against the last, you get something whose *now* is not the same length
 as yours.
+
+---
+
+[^1]: The frequency is not arbitrary and it is not a property of quartz: **32,768 is 2¹⁵**, so fifteen
+binary divider stages take the crystal's oscillation to exactly one hertz. The number is a
+consequence of the counting circuit on the other side, which is the chapter's own point arriving in
+its first sentence — *the crystal is not counting*, and the frequency it flexes at was chosen by the
+thing that does. Ordinary tuning-fork crystals run at ±20 ppm at room temperature; a typical quartz
+watch keeps 15–30 seconds a month, so *a few seconds a week* is the good end of ordinary rather than
+a specification. Thermocompensated movements reach ±5 to ±10 seconds a **year**, and the best reach
+±1, but those are not what is on the reader's wrist and the sentence does not claim them.
+
+[^2]: ⚠ **This sentence was false until Day 191 and is now weaker by one word.** It read *"every clock
+built in the four centuries before it."* The **Shortt–Synchronome free-pendulum clock** — W. H.
+Shortt with Frank Hope-Jones, 1921, built by the Synchronome Co. of London — held about **one second
+a year**, which is two orders of magnitude better than the quartz watch above, and 1921 sits well
+inside the four centuries. It was the observatory standard from the 1920s to the 1940s and in 1926 it
+became the first clock accurate enough to catch the Earth's own rotation wobbling seasonally. What
+displaced it was the quartz *clock*, in the 1930s, not the quartz *watch*. ★ **The correction is
+R-108's shape exactly** — two categories, portable timekeeping and observatory timekeeping, collapsed
+into one string that reads as a single true claim. The repaired sentence is still remarkable and is
+now the thing that is actually true: nothing you could carry was ever this good.
+
+[^3]: The 800,000-year figure is the **EPICA Dome C** core: Dieter Lüthi, Martine Le Floch, Bernhard
+Bereiter *et al.*, "High-resolution carbon dioxide concentration record 650,000–800,000 years before
+present," *Nature* 453 (2008): 379–82, measured on air from the lowest ~200 m of the EDC99 core. The
+sentence's insistence — *still that air* — is the literal method and not a flourish: the CO₂ record is
+read out of gas occluded in the bubbles, so what is analysed is a sample of an ancient atmosphere
+rather than a proxy for one. It is also the strongest case in the chapter for the distinction the
+chapter turns on, because **nobody in the ice has ever read it**; the record waited eight hundred
+millennia for a position with a mass spectrometer.
+
+---
+
+*The standing note on grade.* The petrology in this chapter — granite grain size against cooling
+rate, a quartz vein recording the pressure that opened its crack, agate banding in order of arrival,
+superposition in strata — **is named from general knowledge and standard reference scholarship, is
+not quoted, and carries no receipt above.** That is a declared thinness, not an oversight: each is
+textbook-level and none is load-bearing individually; what is load-bearing is the *class*, and the
+class is safe. The three notes attach to the three claims that are specific enough to be wrong, and
+**one of them was.**

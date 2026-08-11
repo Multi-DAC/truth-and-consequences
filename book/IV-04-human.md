@@ -16,7 +16,7 @@ suppressed. For a few hundredths of a second, several times a second, every waki
 life, you are not being sent a picture. What you get instead is this: the first clear image after
 the jump, backdated — stretched to cover the interval you did not see. The clock's second hand sat
 there for a moment before you looked at it, in your experience, and that moment is the length of
-your own blindness, filled in with the only frame available and stamped with the wrong time.
+your own blindness, filled in with the only frame available and stamped with the wrong time.[^1]
 
 Nothing was subtracted from your afternoon to make this happen. The gap did not appear as a gap.
 It did not appear at all. Something was *added*, and dated to before it arrived, and handed over
@@ -95,7 +95,7 @@ Two men carry a door along a path. Between them, on either side, a stranger is g
 to someone who stopped to ask. The door passes through the conversation, and behind it the person
 asking directions is exchanged for a different person — different clothes, different height,
 different voice. The conversation resumes. **Approximately half of the people giving directions
-did not notice that they were now talking to somebody else.** Not half suspected something and let
+did not notice that they were now talking to somebody else.**[^2] Not half suspected something and let
 it go. Half carried on, and finished the directions, and were told afterwards.
 
 Second: a person is shown two photographs and asked which face they find more attractive. They
@@ -108,7 +108,7 @@ belonging only to the face they had rejected, for a choice they had never made.
 That is arresting enough on its own, and it is not the finding. The finding is what happened when
 somebody went back and compared the two piles of explanations — the ones given for real choices
 and the ones given for manufactured ones — and measured them against each other, looking for the
-tell. There were **very few differences between them.** The confabulated account is not vaguer. It
+tell. There were **very few differences between them.**[^3] The confabulated account is not vaguer. It
 is not shorter, not more hedged, not delivered with less conviction. It is the same kind of thing,
 produced by the same machinery, arriving with the same finish.
 
@@ -217,3 +217,54 @@ all day, they were rendering part of what you took for the world this morning, a
 you have ever met of any of them is a person who was sent.
 
 You cannot see it. It can see things no member of it can see. And it has an inside.
+
+---
+
+[^1]: Kielan Yarrow, Patrick Haggard, Ron Heal, Peter Brown and John C. Rothwell, "Illusory
+perceptions of space and time preserve cross-saccadic perceptual continuity," *Nature* 414 (2001):
+302–05. The mechanism is theirs and so is the chapter's phrasing of it: the percept of the saccadic
+target is **extended backwards in time to just before the saccade began**, which is what fills the
+suppressed interval. ★ **Their control is the part worth having and the chapter does not use it**: if
+the target is displaced unpredictably during the saccade, so that spatial continuity is broken, the
+illusion disappears. The filling-in is not automatic padding — it is conditional on the system
+concluding it is looking at the same object, which makes it a *judgement* the reader never made and
+cannot inspect. ⚠ Third author is **Heal**, not *Heald*; checked against the published citation
+because the two are one letter apart and the wrong one is the more familiar-looking name.
+
+[^2]: Daniel J. Simons and Daniel T. Levin, "Failure to detect changes to people during a real-world
+interaction," *Psychonomic Bulletin & Review* 5 (1998): 644–49 — the door study, run on a college
+campus, in which an experimenter asking directions is swapped for a different person behind a carried
+door. **Only half the pedestrians detected the change.** ★ **The finding the chapter leaves out, and
+it sharpens rather than softens the point**: detection tracked *social group membership*. Pedestrians
+of the experimenters' own group caught it; those from a different group did not. The null space is
+not merely furnished — **what it is furnished with is a category**, and the swap survives inside the
+category. That is IV.5's argument arriving one chapter early, in a corridor.
+
+[^3]: Petter Johansson, Lars Hall, Sverker Sikström and Andreas Olsson, "Failure to Detect Mismatches
+Between Intention and Outcome in a Simple Decision Task," *Science* 310 (2005): 116–19. The chapter's
+figure is the authors' own and is exact: *"Tallying across all the different conditions of the
+experiment, **no more than 26% of all manipulation trials (M-trials) were exposed.**"* ⚠ **Note the
+unit — manipulated trials, not participants**; the widely circulated *13%* is the concurrent-detection
+figure and is a different measurement of the same experiment, and the chapter's *no more than about a
+quarter of the swapped trials* is the right one. The comparison of the two piles is Petter Johansson,
+Lars Hall, Sverker Sikström, Betty Tärning and Andreas Lind, "How something can be said about telling
+more than we can know," *Consciousness and Cognition* 15 (2006): 673–92, whose abstract supplies the
+chapter's phrase verbatim: they contrast reports from non-manipulated and manipulated trials and
+*"find very few differences between these two groups of reports."* Their method was word-frequency
+analysis and latent semantic analysis over the transcribed corpus — **the confabulated reports were
+not caught by an instrument built to catch them.** ★★ **And one datum from the supporting material
+that belongs in this chapter's argument and is not yet in its prose: asked afterwards whether they
+would have noticed such a manipulation, 84% of participants said yes.** The position's estimate of
+its own detection rate was 84%. Its detection rate was 26%.
+
+---
+
+*The standing note on grade.* **Every figure in this chapter was verified against the published text
+during the Day-191 retrofit, and two were verified against the PDFs themselves rather than against a
+secondary description** — the 26% and the *very few differences*, both quoted above from the authors'
+own sentences, because both are numbers the chapter's argument rests its weight on and both are
+routinely misreported. The Yarrow citation was checked against the publisher's record after an
+author's name was found to be wrong in the first draft of this note. **None of these papers is in
+this repository.** ⚠ The chapter's closing claim — that knowing the mechanism changes nothing — is
+**the book's, not the literature's**, and carries no receipt because none exists; it is an argument
+from the structure of the findings and should be read as one.

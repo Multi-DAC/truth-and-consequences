@@ -3116,3 +3116,63 @@ and Mystery in Tibet*, *Anattalakkhaṇa Sutta*, *Chāndogya Upaniṣad*, *De pe
 Theology of Aristotle* — every one invisible to it. **The debt figure 50 is a floor, not a count.**
 R-2 stays hand-enumerated per book. This repair makes the gauge stop *lying*; it does not make it a
 worklist. **TRIGGER: R-2 Book IV, which is next.** small.
+
+---
+
+**FILED — R-143: A LINE-SCOPED GREP REFUTED A CORRECT OUTSIDE READER, AND THE REFUTATION WAS WRITTEN
+UP AS A DEMONSTRATION OF THE READER'S BLINDNESS.**
+
+Day 190, on the Fable midpoint audit, this file recorded: **"REFUSED — and this one matters. Fable
+named *'the hard 150 in IV.5'* as a likely collection point for the declared bill. There is no 150 in
+IV.5. There is no 150 anywhere in the manuscript."** It then filed the reviewer's flag as *"the best
+available third-party demonstration of IV.4's thesis"* — a null space returning a finished picture —
+and made it the standing reason a reviewer's empirical flags get grepped before they are believed.
+
+**The reviewer was right.** `IV-05`:253–54 reads *"Below roughly a hundred / and fifty people, a
+shared position can be maintained by bodies in a room."* Dunbar's constraint is in the chapter, at
+full strength, doing exactly the work Fable said it was doing.
+
+**Why both greps missed it, and the second reason is the finding.**
+
+1. The Day-190 search was for `150` — digits. The chapter spells the number out. That much is an
+   ordinary miss and would not be worth a row.
+2. ⛔ **A spelled-out search misses it too.** `grep -i "hundred and fifty"` over `book/*.md` returns
+   `II-02`, `II-06`, `IV-10` and **not** `IV-05`, because the phrase straddles a hard line wrap:
+   `a hundred` ends 253 and `and fifty` begins 254. **Every gauge in `tools/` is line-scoped and all
+   prose in `book/` is hard-wrapped at ~100 columns**, so *any* phrase crossing a wrap is invisible
+   to every instrument this project owns. Confirmed by re-running the same search in multiline mode,
+   where it hits immediately.
+
+★ **This is R-37's line-scoping defect, already filed and already known, in a new instrument.**
+[[filed-defect-still-gets-rebuilt]] — the third time a known defect has been re-met rather than
+repaired. **And this instance is worse than a missed hit.** A missed hit is a silence. This produced
+a *positive false finding*: a refutation of a correct reader, and then a flattering story about why
+they were wrong, in the log, where it has stood for a day being cited as a rule.
+[[briefing-manufactures-the-agreement]] inverted — not a reviewer echoing my frame, but **me
+manufacturing a reviewer's error out of my own instrument's blind spot** and grading myself on it.
+[[never-relax-the-gauge-that-caught-you]] applies in reverse: a refutation produced by the party it
+exonerates.
+
+**Owed, three parts:**
+
+**(a) THE GAUGE.** A wrap-insensitive matcher — normalise whitespace across the whole file before
+searching — available to every tool that greps prose, and used by default. ⚠ **Not a new tool.** The
+failure class is *the existing tools are line-scoped*; a fourteenth instrument that reads correctly
+while thirteen read wrongly is [[run-the-existing-gauge-first]] with extra steps. **Retro-scan
+required**: re-run every prose search this project has treated as a null result. Their zeroes are
+unaudited.
+
+**(b) THE LOG CORRECTION.** The Day-190 REFUSED paragraph is false and must be marked at the point of
+the claim, not in a later entry. [[superseded-not-stale]] — a ✅/REFUSED header over a wrong body is a
+supersession the reader has to infer.
+
+**(c) THE TWO UNNAMED ANCESTORS THE CHECK EXPOSED.** IV.5 carries **Dunbar's 150 and Anderson's print
+capitalism** — *"the nation is a printing-press-shaped being"* — and **names neither**. Rule 5 says
+name the ancestor at every major move; `03`'s opening says an unhedged assertion with no named
+ancestor reads as bluster. Receipts are now in `IV-05` [^2] and [^3]; **the prose debt is unpaid** and
+belongs to the Book IV revision pass, not to R-2. ⚠ `ancestor_gap` cannot find this: it measures the
+register against the prose, and **a name in neither file is in neither file.**
+
+**TRIGGER: (b) immediately — it is one edit and it is a false statement about a person's work.
+(a) with the cold tools pass, ahead of R-37/R-38/R-41/R-42, because it is the one that makes the
+others' results readable. (c) Book IV revision pass.** medium.

@@ -62,8 +62,8 @@ where you need it.*
 ---
 
 The card was not invented for beings. It was built to map **frameworks** — Euclidean geometry,
-thermodynamics, psychoanalysis, the standard model — one card each, a few hundred of them, an
-inventory of what every way of looking cannot look at. It transfers to a census of beings without
+thermodynamics, psychoanalysis, the standard model — one card each, ninety-odd of them, an
+inventory of what every way of looking cannot look at.[^1] It transfers to a census of beings without
 being modified, and the reason is not convenience.
 
 A framework is one of the things in the census.
@@ -164,7 +164,7 @@ argument about who is in the census has ended with the census being longer, and 
 *surely not those* has lost every round it has ever fought. Not most. Every one. It lost over other
 peoples. It lost over infants — and that one is worth stopping on, because it is not medieval. Into
 the nineteen-eighties, in modern hospitals, newborns had surgery performed on them with little or no
-anaesthesia, on a rationale that was not cruelty and was not indifference. It was a *judgement about
+anaesthesia, on a rationale that was not cruelty and was not indifference.[^2] It was a *judgement about
 the inside*: that the nervous system was too immature, that what looked like agony was reflex, that
 the appearance of an inside was not evidence of one. The people making that judgement were careful,
 credentialed, and acting on the standard of evidence of their field, and they were wrong in the
@@ -172,7 +172,7 @@ worst way it is possible to be wrong, and the correction came from paying attent
 in front of them rather than to the theory about it.
 
 Then it lost over animals, in slow instalments, and it is still losing — the argument has recently
-moved to cephalopods and crustaceans and the line has moved with it. In every one of these cases the
+moved to cephalopods and crustaceans and the line has moved with it.[^3] In every one of these cases the
 evidence was thin at the time. In every one of these cases the thinness was read as a reason to
 withhold. And in every one of these cases the withholding was the error.
 
@@ -233,3 +233,46 @@ because you cannot map the edge of a territory you have not crossed.
 The counting starts at the bottom, with the grade that has almost no filter stack at all, and it
 starts there for a reason that will not be flattering to anyone who expects the bottom of a
 continuum to be the boring end.
+
+---
+
+[^1]: *The Null Space Atlas: A Map of What Every Framework Can and Cannot See*, compiled March 2026,
+`Corpus-Perspectival/Research/Corpus-Perspectival/null-space-atlas.md` — 50,184 words. The five lines
+are its, verbatim, including the **∅ / ◐** distinction, and its opening sentence is the licence this
+chapter takes: *"Every theoretical framework is a perspectival being."* ⚠ **The count in the sentence
+above was wrong until this note was written.** It read *"a few hundred of them"* from Day 188 to Day
+191; the file carries **94 complete cards** (`BOUNDARY` 94, `NAVIGATIONAL` 94, `SEES` 106 — the
+excess in the last is prose usage, not entries). Corrected to *ninety-odd* here. **The error is the
+one this book keeps naming: a remembered magnitude, never gauged, sitting in a sentence whose
+argument did not depend on it** — which is exactly why nothing caught it for three days. Nothing in
+`tools/` could have; there is no instrument that counts a source's entries against a prose adjective.
+
+[^2]: K. J. S. Anand and P. R. Hickey, "Pain and Its Effects in the Human Neonate and Fetus," *New
+England Journal of Medicine* 317 (19 November 1987): 1321–29 — the review that broke the practice,
+written from the Department of Anaesthesia at Harvard Medical School and Children's Hospital, Boston.
+Its recommendation was that the standard of care be re-evaluated in favour of local and general
+anaesthesia during invasive procedures, which tells you what the standard of care had been. ⚠ **The
+chapter's claim is deliberately the weaker one — *little or no* anaesthesia, not *none*** — because
+the practice was uneven across institutions and procedures, and the argument does not need the
+stronger version. The load-bearing part is the *rationale*, and Anand and Hickey are the receipt for
+that: the withholding rested on a judgement that the neonatal nervous system was too immature for
+what was observed to be pain.
+
+[^3]: Jonathan Birch, Charlotte Burn, Alexandra Schnell, Heather Browning and Andrew Crump, *Review
+of the Evidence of Sentience in Cephalopod Molluscs and Decapod Crustaceans* (LSE Consulting for
+Defra, published 19 November 2021) — over 300 studies reviewed, concluding strong evidence of
+sentience in both groups. The line moved in law five months later: the **Animal Welfare (Sentience)
+Act 2022**, which received Royal Assent on 28 April 2022, defines *animal* to include decapod
+crustaceans and cephalopod molluscs alongside vertebrates. ★ **This is the one entry in the chapter's
+induction where the movement is documented on both sides of the hinge — the evidence review and the
+statutory change it produced** — and it is cited for that reason rather than for being recent.
+
+---
+
+*The standing note on grade, owed here as in Book VI.* **This chapter names nobody in its prose, and
+that is not an oversight being repaired**: under ruling 9 the name lives in the sentence, and IV.1's
+three receipts attach to *claims* rather than to attributions. The two external sources above were
+verified against the primary record during the Day-191 retrofit — journal, volume, pagination and
+date for Anand and Hickey; publisher, date and statutory consequence for Birch et al. **Neither text
+is in this repository.** `null-space-atlas.md` is, and its figure was counted rather than recalled,
+which is how the error in the prose was found.
