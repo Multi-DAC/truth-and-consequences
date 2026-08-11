@@ -19,12 +19,11 @@ Six statements, with nothing said yet about who made them.
 > There is one reality, and the many are how it discloses itself.
 
 Plotinus, teaching in Rome in the two hundreds, on the One that is beyond being. The Upanishads,
-*neti neti* — not this, not this — some centuries earlier and four thousand miles east. *Ein Sof*,
-the Without-End, in the Jewish mystical schools of Provence and Girona around 1200. Meister Eckhart,
-preaching in the Rhineland in the thirteen-twenties, on the distinction between God and the
-Godhead. Thomas
-Aquinas, Rome, in the twelve-sixties, on *actus purus*. The school of Ibn Arabi, Andalusia to
-Damascus, on *waḥdat al-wujūd* — the oneness of being.
+*neti neti* — not this, not this — some centuries earlier and four thousand miles east.[^1] *Ein
+Sof*, the Without-End, in the Jewish mystical schools of Provence and Girona around 1200. Meister
+Eckhart, preaching in the Rhineland in the thirteen-twenties, on the distinction between God and the
+Godhead.[^2] Thomas Aquinas, Rome, in the twelve-sixties, on *actus purus*.[^3] The school of Ibn
+Arabi, Andalusia to Damascus, on *waḥdat al-wujūd* — the oneness of being.[^4]
 
 Every one of those is a description of the Ground. Not a distant relative of one, not a poetic
 gesture in its direction. The claim in Book II — that what everything is made of is complete, has no
@@ -122,12 +121,12 @@ Now count the instruments, because the number is smaller than the roster looks.
 Five of the six statements at the head of this chapter are cousins. Plotinus goes into Proclus;
 Proclus goes into the writer who signed himself Dionysius the Areopagite around 500 and was read
 for a thousand years as an apostolic authority; that body of work is translated into Latin in the
-ninth century and is in the hands of both Aquinas and Eckhart. On the other side, the
+ninth century and is in the hands of both Aquinas and Eckhart.[^5] On the other side, the
 ninth-century Baghdad translation movement rendered excerpts of Plotinus into Arabic under the
 title *The Theology of Aristotle* — the Islamic philosophical tradition received Neoplatonism under
 Aristotle's name, which is a transmission so thorough that its recipients did not know whose
-it was. Kabbalah develops in Provence and Spain in a world in contact with both. Six statements,
-five of them downstream of one Alexandrian schoolroom.
+it was.[^6] Kabbalah develops in Provence and Spain in a world in contact with both. Six statements,
+five of them downstream of one Alexandrian schoolroom.[^7]
 
 **That is not independent evidence. It is one witness quoted back five times**, and a convergence
 argument that counts it as five has committed the error it was supposed to be immune to.
@@ -296,4 +295,89 @@ transmission chains, the datings, the Arabic Plotinus — are held at the streng
 reference scholarship. They are not the product of this book going to the manuscripts, and where
 one of them is load-bearing later, it gets fetched and read rather than recalled.
 
+**Day 192: the load-bearing ones were fetched and read, and the paragraph above is now a promise
+kept rather than a promise made.** Two of the six datings were wrong when checked. The apparatus
+below is the chapter's spine only — the transmission chain, which V.3, V.6 and V.10 all inherit. It
+is **begun and not finished**: the six opening statements are quoted with no edition and no
+translator for any of them, and that debt is untouched here.
+
 The first road is the one most of the people reading this were on.
+
+---
+
+[^1]: **The chapter understates its own case, and the direction is worth noticing.** *Neti neti* is
+    *Bṛhadāraṇyaka Upaniṣad* — 2.3.6 and again at 3.9.26, 4.2.4, 4.4.22, 4.5.15 — and the
+    *Bṛhadāraṇyaka* is generally placed in the seventh to sixth century BCE, the oldest stratum of
+    the Upaniṣadic corpus. Plotinus taught in Rome from about 245 to 270 CE. That is not *"some
+    centuries earlier"*; it is very close to a millennium. ★ **And the error runs AGAINST the
+    chapter's own argument.** The independence claim four pages later — India *"cannot have received
+    it"* — gets stronger the older the Indian material is, so understating the gap costs the chapter
+    something. An error that runs against my own case is the one nothing is watching for, because no
+    motive files a bug against it. [[feedback_scrutiny_is_motive_shaped]] ⚠ The chapter names the
+    corpus and not the text; no translator or edition is given for the phrase, here or anywhere.
+
+[^2]: ⛔ **This read "around 1300" until Day 192 and was out by roughly two decades.** Eckhart was
+    prior at Erfurt from 1293–4, held the Paris chair as *magister actu regens* from 1302, was
+    provincial of Saxony after that, and returned to Paris for a second regency in 1311. He left
+    Paris for Strasbourg in the summer of 1313, and the German preaching this chapter is actually
+    leaning on — the *Gott*/*Gottheit* distinction — runs from there through about 1323, then Cologne
+    from 1323–4 until his death. (Stanford Encyclopedia of Philosophy, *Meister Eckhart*, §1,
+    following McGinn 2001 and Senner 2013.) The region survives the correction; the date did not.
+
+[^3]: ⛔ **This read "Paris" until Day 192, and so did V.2 and V.3.** The *Summa Theologiae* was begun
+    at Santa Sabina in Rome in 1265; the Prima Pars, where *actus purus* sits, was written at Rome
+    1265–9. Aquinas's second Paris regency runs 1269–72, after the material this sentence points at.
+    The alternative referent does not rescue it: the *Summa contra Gentiles* is not the central
+    document of the institution, and its Paris portion is c. 1259–61. **The same false placement
+    stood in three chapters and they agreed with each other**, which is why `tools/placement_sweep.py`
+    exists and why a consistent placement in this book should be read as unchecked rather than clean.
+
+[^4]: ✅ **Correct, and more carefully worded than it looks.** *Waḥdat al-wujūd* is not Ibn Arabi's
+    phrase — he does not use it as a doctrinal term — and it was fixed as the name of the position by
+    his commentators and his critics. The sentence says *"the school of Ibn Arabi"* and attributes
+    the term to the school, not the man. Andalusia to Damascus tracks the life: born Murcia 1165,
+    died Damascus 1240.
+
+[^5]: The chain is right and each link is separately attested. Plotinus taught at Rome c. 245–270;
+    Proclus died 485; the Corpus Dionysiacum is late fifth or early sixth century, so *"around 500"*
+    holds. ⚠ **"Translated into Latin in the ninth century" is true but flattens two translations
+    into one.** Hilduin of Saint-Denis produced a Latin version c. 832; Eriugena's, c. 860–2, is the
+    one that carried and is the one Aquinas and Eckhart are downstream of. The chapter's claim
+    survives — both are ninth century — but the singular *"is translated"* hides a first attempt and a
+    replacement, and the difference between an original printing and the text that actually
+    transmitted is exactly the distinction this project has been caught on before.
+    [[feedback_earliest_printing_is_not_best_text]] [[feedback_one_translator_two_texts]]
+
+[^6]: **The strongest claim in the paragraph, and the one that needs the most qualifying — in both
+    directions.** The Arabic Plotinus was produced in al-Kindi's circle; the *Theology*'s own preface
+    is addressed to Ahmad ibn al-Mu'tasim, son of the caliph who reigned 833–842, which dates it
+    firmly to the ninth century. *"Excerpts"* is exactly the right word: there is no direct textual
+    evidence for an Arabic version of *Enneads* I–III, and the extant material draws entirely on IV,
+    V and VI, out of order.
+
+    ⛔ **But "its recipients did not know whose it was" is too strong, and the text says so on its own
+    first page.** The preface reads: *"The first chapter of the book of Aristotle the philosopher,
+    called in Greek 'Theologia' … The exposition of Porphyry of Syria, translated into Arabic by Ibn
+    Na'ima al-Himsi, and corrected for Ahmad ibn al-Mu'tasim by al-Kindi."* A reader had a
+    Neoplatonist's name — Plotinus's own editor — in front of them, under a title saying Aristotle,
+    and filed the whole thing under Aristotle anyway. **That is a better instance of the chapter's
+    point than the one the chapter makes**, and it is not the instance the chapter makes.
+
+    ★ **And the deeper trouble is not the name at all.** The Arabic Plotinus is a free paraphrase with
+    substantial interpolations — whole paragraphs with no basis in the Greek — which makes it an
+    interpretation of Plotinus rather than a translation of him. So the transmission this chapter
+    counts as *one witness quoted back* is one witness quoted back **through a reworking**, which
+    strengthens the dependence finding and weakens any later claim that the Islamic material is
+    reporting the same observation. (Stanford Encyclopedia of Philosophy, *The Theology of Aristotle*,
+    §§1–2, following Zimmermann 1986 and Endress 1973; fetched and read Day 192, not recalled.)
+
+[^7]: **This is the chapter's own inference and not a finding of the scholarship, and it is the
+    load-bearing sentence of the section.** The transmission facts in [^5] and [^6] are standard; the
+    step from them to *"five of the six are downstream of one Alexandrian schoolroom"* — Ammonius
+    Saccas's, via Plotinus — is this book's, drawn here. It is stated as history in the prose and it
+    is an argument. ⚠ Two of the five carry more weight than the chain supports: Kabbalah's
+    dependence is given as *"develops … in a world in contact with both"*, which is contact and not
+    descent, and the Ibn Arabi school's link runs through the reworked Arabic text of [^6]. The
+    conclusion the section needs — *one witness quoted back five times* — survives at three or four
+    links without the two weakest, and the section does not say so. **Owed: state the inference as an
+    inference in the prose, or cut it to the links that carry.**
