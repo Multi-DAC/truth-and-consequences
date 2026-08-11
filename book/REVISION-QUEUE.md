@@ -3330,3 +3330,139 @@ posture is *"I am being rigorous about my source"* is the least-looked-at place 
 **Owed:** (1) re-ground or re-grade IV.9's closing section on the `S`/`S` collision and the dead
 cross-reference; (2) **retract the ✔** at `DRAFT-LOG.md:5110`; (3) build the figure-check arm and
 sweep all 67 chapters; (4) locate `Unreleased-Work/Perspective` or declare it unreachable in writing.
+
+---
+
+**FILED — R-147: IV.10 INDICTS ITS SOURCE IN THREE PLACES AND THE SOURCE SAYS NONE OF THE THREE.**
+
+IV.10's central section prosecutes the inherited cryptid entry. Measured against
+`work/perspective-v1-fulltext.txt` in the Day-192 endnote pass:
+
+| the chapter | the source |
+|---|---|
+| *"their persistence across cultures **and** their failure to produce permanent physical specimens **are both** predicted…"* — italicised, colon-introduced, after *"two sentences that have to be read exactly"* | L2458–2459: *"The persistent failure to produce physical specimens despite centuries of sightings **is** predicted…"* — **one** predicted item, not two |
+| *"indigenous peoples' wider access allows them to perceive the full profile, while the modern focus on physical evidence can detect only the intermittent cross-section"* — called *"the second, and it is worse"*, and *"will matter for the whole of the next book"* | **NOT PRESENT.** The entry is 17 lines (L2448–2464), read in full. `cryptid` occurs once in 884 KB; `indigenous` never within 80 lines of it. |
+| *"The source gives the sasquatch a profile in filled bars — three of five bars on physical presence"* | **No sasquatch** (`sasquatch`/`bigfoot`/`sts'ailes`/`chehalis` = 0 hits). And the bar notation occurs **exactly 3× in the file**, all three in the Decomposers section (L3897/3906/3913) — **never in a tier entry.** Tier entries carry a *prose* `Dimensional profile:` line. |
+
+★ **Every one of the three alterations makes the chapter's own case WEAKER.** The real quoted
+sentence is a *tighter* circle than the printed one — its consequent is nothing but P — so the
+circularity charge lands harder on the text than on the paraphrase. There is no motive anywhere in
+this set, which is the fourth chapter running to produce that result.
+[[feedback_scrutiny_is_motive_shaped]]
+
+⚠ **Positive control, so the two nulls carry weight:** the same extraction preserves the entry's
+other clauses verbatim (*Under DoPI*, *Theorem 12*, the three-part *Evidence basis*) and preserves
+the source's `■`/`□` glyphs elsewhere in the file. ⚠ **Inherited limit, restated not waved:**
+`tools/brief_source.py`:71 names the drafting tree as `Unreleased-Work/Perspective`, **not on this
+machine** — so a fuller rendering could contain the missing sentence. A reader cannot tell the two
+apart either, which is the defect on both readings.
+
+⚠ **THE THREE DEFECTS HAVE THREE DIFFERENT BIRTHPLACES, AND THE SPLIT IS THE ACTIONABLE PART.**
+Checked against `06-THE-SCAFFOLD.md` rather than assumed — my first write-up blamed the scaffold for
+all three, which would have indicted a file that had one of them right.
+| | scaffold | verdict |
+|---|---|---|
+| the altered quotation | `06`:1601–1602 renders it **correctly** — one predicted item | **born at drafting**, expanding a correct compressed beat with the source closed |
+| the indigenous sentence | `06`:1604–1606 carries it near-verbatim as item (b) | **born at planning**; the prose inherited it |
+| the sasquatch bar profile | **absent** — no sasquatch, no bars, no *"three of five"* anywhere in IV.10's beats | **born at drafting**, invented at the sentence |
+| the *"third instance"* count | `06`:1620 carries it | **born at planning**, from IV.9's since-retracted body claim — see R-148 |
+★ **So "written from memory" is too coarse a diagnosis.** Two of the four were produced by the act of
+**expanding a correct note into a sentence**, which is a narrower and more checkable moment than
+"research" or "drafting" generally. [[feedback_repair_scoped_to_named_cause]]
+
+**Owed:** (1) rewrite the section against the real entry — the circularity charge survives and gets
+*sharper*; (2) cut or re-source the indigenous-perception sentence, and with it the *"in two forms"*
+count and the *"escalation is the finding"* paragraph that rests on it; (3) cut the sasquatch bar
+claim and with it *"three is where it stops being an accident"*; (4) repair `06`:1600; (5) locate
+`Unreleased-Work/Perspective` or declare it unreachable in writing — **third chapter to owe this,
+and it is now the single cheapest unpaid item in the tree.** **TRIGGER: the revision pass, IV.10 —
+and R-2 Book V may not close without item (5).** medium.
+
+---
+
+**FILED — R-148 (BUILD ORDER): AN ENDNOTE THAT CORRECTS A CLAIM DOES NOT CORRECT THE CLAIM'S
+READERS.**
+
+IV.10 says *"the previous chapter caught the same notation handing back two confident numbers."*
+IV.9's **body** says exactly that. IV.9's **[^12] withdrew it** — the Promethean entry *"carries no
+`Dimensional profile:` line at all… so 'scored maximal' has no cell behind it."* Of the two numbers,
+one is verbatim-verified ✅ and one does not exist. IV.10 was drafted from IV.9's body, which was
+accurate when written and is now superseded by matter printed forty lines below it.
+
+★★ **This is a property of the retrofit's own method, not a slip.** The pass deliberately leaves the
+body standing and puts the correction in the note — the right call, because silently rewriting
+drafted prose destroys the record of what was believed when. **The cost is that every corrected
+claim becomes a live trap for any chapter that cites it, and nothing anywhere checks a chapter's
+cross-references against the endnotes of the chapter it cites.** 74 notes now exist in Book IV
+alone; the retrofit is generating stale references at the rate it repairs claims, and the debt is
+invisible to `endnote_debt.py`, `instrument_sweep.py`, `edition_scheme_sweep.py` and every other
+gauge in the tree — all of which look *within* a chapter.
+
+**Owed:** a cross-chapter citation checker. For every chapter-to-chapter reference (`IV.9`, *"the
+previous chapter"*, *"the archetypal chapter"*), test whether the cited chapter carries an endnote
+whose scope covers the cited claim, and flag the pair for a human read. It cannot adjudicate — it
+locates. That is enough; the failure here was that nobody *looked*.
+⚠ **It reads `0` the day it is written and that is not evidence of health** — the same shape R-2
+was filed under. **TRIGGER: before Book V's notes are written**, because Book V will cite Book IV
+forty times and every one of those references is being drafted against uncorrected bodies right
+now. medium.
+
+---
+
+**FILED — R-149: IV.10 AWARDS A PRESS CONFERENCE THE WORD *PUBLISHED*, IN THE SECTION ARGUING ABOUT
+EVIDENCE GRADES.**
+
+The Loch Ness eDNA survey is IV.10's showpiece — the live, cheap, repeatedly-run empirical test that
+makes the boundary-entity entry *"a methodological entry and not a credulous one"*, with its own
+positive control and its own stated limits. The chapter writes *"The results, published in 2019."*
+
+⛔ **There is no publication.** The results were **announced at a press conference at Drumnadrochit
+on 5 September 2019** and carried in a University of Otago news release. No journal, no volume, no
+DOI is reachable; the public record describes the expedition as a demonstration of eDNA methodology
+to the public rather than a study that produced a paper.
+
+★★ **The chapter graded three evidence classes four hundred words earlier** — and said of the last
+that it *"sounds like the strongest of the three and is the weakest, because it is evidence that an
+institution is investigating."* **Then it ran no grading step at all on its own best example.**
+[[feedback_instruments_go_where_instruments_are_cheap]] — the grading discipline was pointed at the
+tier the chapter was indicting, not at the evidence the chapter was leaning on.
+
+⚠ **The figures move with the grade.** Samples: **250** (Otago) vs **259** (secondary reporting,
+which adds that *nearby lochs were sampled as controls*) — so *"250 water samples from Loch Ness"*
+takes the low figure and attributes all of them to the loch. Depth ~200 m ✅. **"All thirteen fish
+species recorded there" is not attested anywhere reachable** — contemporaneous accounts give
+**eleven**. The negative results (no reptile, no shark, no catfish, no sturgeon) and the eel result
+are attested in the lead author's direct quotation ✅.
+
+**Owed:** one clause — *announced in 2019, never peer-reviewed, weight it accordingly* — plus the
+species-count repair. **The paragraph does not get weaker.** The class-level exclusions and the
+detected community are exactly as informative under an honest grade, and the chapter's own reading
+of the eel as *"the hypothesis the data failed to refute"* is sharper than the reporting it came
+from. **TRIGGER: the revision pass, IV.10, with R-147.** small.
+
+---
+
+**FILED — R-150: A CHAPTER THAT NAMES ITS OWN FALSIFIER NAMES IT ACCURATELY AND THEN DOES NOT RUN
+IT.**
+
+Two instances, one book apart, and the second is inside the paragraph the first predicted.
+
+**IV.9 [^6]:** the chapter wrote down the exact condition under which its central move would be
+illegitimate, then asserted the condition was met without checking a register two files away that
+says otherwise by omission.
+**IV.10 [^9]:** *"the first party to have misquoted it would have been this chapter, if the clause
+had been paraphrased from memory instead of fetched."* **It was paraphrased** (R-147). The sentence
+declaring the chapter innocent sits in the paragraph immediately after the two quotations it is
+innocent of mishandling, about those two quotations.
+
+★ **The mechanism is legible and it is not carelessness.** Writing down your own falsifier is a
+*rhetorical* move that reads as rigour, and it is completed the moment it is written. Running it is
+a separate act with no prompt attached, performed by the party who has already collected the credit.
+**A named falsifier is therefore anti-correlated with a run one** — the naming discharges the felt
+obligation. [[feedback_diagnosis_without_a_hand]]
+
+**Owed:** an extractor. Sweep all 67 chapters for self-falsifier constructions — *"if X, then this
+chapter is wrong"*, *"what would make this refusal wrong"*, *"the condition under which"*, *"would
+have been"* — and emit each with a **RUN / NOT RUN** field that defaults to NOT RUN and can only be
+set by a named check. ⚠ **It must not be satisfiable by prose**, or it becomes the thing it
+measures. **TRIGGER: R-2 Book V, at the first chapter that names a falsifier.** medium.

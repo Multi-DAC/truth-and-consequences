@@ -10461,7 +10461,7 @@ that is a fact about the planning apparatus, not about the chapter, and it belon
 
 ---
 
-**CHAPTERS-DRAFTED: 67/67 · 268,607 words** · **BOOK VIII 7/7** · **CLAIMS: C1…C30** · **TOOLS: 24.**
+**CHAPTERS-DRAFTED: 67/67 · 271,946 words** · **BOOK VIII 7/7** · **CLAIMS: C1…C30** · **TOOLS: 24.**
 
 ★★★ **THE FIRST DRAFT OF THE VOLUME IS COMPLETE.** Eight books, sixty-seven chapters, 247,405 words.
 ⚠ **AND THE WORK IS NOT — the CODA (C.1 WHAT THIS IS, C.2 WHY IT IS NOT FINISHED) IS UNWRITTEN AND IS
@@ -10745,3 +10745,107 @@ ethnographic record) as a target rather than a caveat. Both are owed and are on 
 **Book IV: 9/10 chapters carry apparatus, 58 notes. IV.10 next, then Book V's eleven (0/11).**
 R-110 (`edition_scheme_sweep.py`) runs at book CLOSE — IV goes into RETROFITTED_BOOKS only after
 IV.10.
+
+---
+
+## Day 192 midday — IV.10 RETROFIT. BOOK IV CLOSES, AND THE CHAPTER ABOUT WHAT A CENSUS CANNOT SEE COULD NOT SEE ITS OWN QUOTATIONS.
+
+**16 notes.** IV.10 had **zero**; it is the last Book IV chapter without apparatus, and the book now
+carries **74 notes across 10/10 chapters.** Marker/definition parity verified 16/16 before commit.
+
+**RULING 173 — THREE INDICTMENTS, AND THE SOURCE SAYS NONE OF THE THREE.** Filed as **R-147**, with
+the measurements in [^5], [^6] and [^10]. The italicised "quotation" of the source's cryptid entry
+has an **added conjunct** (source predicts one thing, chapter gives it two). The sentence the chapter
+calls *"worse"* and says *"will matter for the whole of the next book"* — indigenous perception
+versus the modern focus on physical evidence — **is not in the source**; the entry is 17 lines and
+was read in full, `cryptid` occurs once in 884 KB and `indigenous` never within 80 lines of it. And
+*"the source gives the sasquatch a profile in filled bars"* is wrong twice: **no sasquatch anywhere
+in the file**, and the bar notation occurs **exactly 3× in 884 KB, all three in the Decomposers
+section, never in a tier entry.**
+★ **Every one of the three alterations makes the chapter's case WEAKER.** The real sentence is a
+*tighter* circle than the paraphrase — its consequent is nothing but P — so the circularity charge
+lands harder on the text than on what the chapter printed. **Fourth chapter running with no
+self-serving error in the set.** At this point the interesting question is no longer *are the errors
+motivated* but *what produces them*, and on this evidence the answer is dull and complete: writing
+about a source with the source closed.
+⚠ **AND THE THREE DEFECTS HAVE THREE BIRTHPLACES — checked against `06`, not assumed.** The
+scaffold renders the quoted clause **correctly** at `06`:1601–1602 (one predicted item), so the added
+conjunct was born **at drafting**, in the act of expanding a correct beat into a sentence. The
+indigenous sentence is at `06`:1604–1606 near-verbatim, so that fabrication was born **at planning**
+and the prose inherited it. The sasquatch bar profile is **nowhere in `06`** — invented at the
+sentence. ⛔ **My first write-up of this ruling blamed the scaffold for all three**, which would have
+been an indictment of a file that had one of them right; the correction is in the notes and in
+R-147's table. **"Written from memory" is too coarse. The moment is expansion-of-a-correct-note.**
+
+**RULING 174 — THE PASS'S SHARPEST FINDING IS ABOUT THE PASS, NOT THE CHAPTER.** Filed as **R-148**.
+IV.10 cites IV.9 for *"two confident numbers"*; IV.9's **own [^12] withdrew that claim** three days
+ago. IV.10 was drafted from IV.9's **body**, which was accurate when written and is now superseded by
+matter printed forty lines below it. ★★ **This is a property of the method, not a slip.** The
+retrofit deliberately annotates in place rather than rewriting drafted prose — the right call, since
+silent rewriting destroys the record of what was believed when. **The cost is that every corrected
+claim becomes a trap for any chapter citing it, and every gauge in this tree looks WITHIN a chapter.**
+Book IV alone now has 74 notes. **The retrofit is generating stale cross-references at the rate it
+repairs claims.** Owed: a cross-chapter citation checker that locates the pairs; it cannot
+adjudicate, and it does not need to — what failed here was that nobody looked. **Before Book V's
+notes**, because Book V cites Book IV constantly and is being drafted against uncorrected bodies.
+
+**RULING 175 — THE EVIDENCE-GRADE DISCIPLINE DID NOT RUN ON THE CHAPTER'S OWN BEST EXAMPLE.** Filed
+as **R-149**, measured in [^15]. *"The results, published in 2019"* — **there is no publication.**
+Announced at a press conference at Drumnadrochit, 5 September 2019, carried in a University of Otago
+release; no journal, no volume, no DOI reachable, and the public record calls the expedition a
+demonstration of eDNA methodology rather than a study that produced a paper. **Four hundred words
+earlier the chapter grades three evidence classes and says of the last that it "sounds like the
+strongest of the three and is the weakest."** Then it awarded a press conference the word
+*published* and built *"not a debunking, a measurement"* on top of it. Figures move with the grade:
+250 (Otago) vs 259 (secondary, which adds that nearby lochs were sampled **as controls**), and
+*"all thirteen fish species"* is **not attested — the contemporaneous accounts give eleven.** The
+negatives and the eel are verbatim from the lead author ✅. **The repair costs the paragraph
+nothing**; the class-level exclusions are as informative under an honest grade.
+
+**RULING 176 — A NAMED FALSIFIER IS ANTI-CORRELATED WITH A RUN ONE.** Filed as **R-150**. IV.9 [^6]
+wrote down the exact condition under which its central move would be illegitimate and asserted the
+condition met without checking. IV.10 [^9] wrote *"the first party to have misquoted it would have
+been this chapter, if the clause had been paraphrased from memory instead of fetched"* — **it was
+paraphrased**, and the sentence declaring innocence sits in the paragraph immediately after the two
+mishandled quotations, about those quotations. **The mechanism is not carelessness:** naming your own
+falsifier is a rhetorical act that completes the moment it is written and collects the credit for
+rigour; running it is a separate act with no prompt attached. Owed: an extractor over all 67 chapters
+emitting each self-falsifier with a **RUN / NOT RUN** field that defaults to NOT RUN and cannot be
+satisfied by prose.
+
+**ONE CHECK PASSED AND IS RECORDED AS SUCH** ([^3]). IV.10 promised the missing tier would be
+*scheduled, not written*, with `06` amended in the same commit. **`book/V-09-the-road-being-walked-now.md`
+exists and is drafted**, carrying the entry and the instrument-record grade the chapter previewed.
+The refusal-with-a-trigger held, and held past scheduling into drafting. ★ It is the **only** note in
+this pass reporting a success, and that scarcity is a fact about the apparatus — every finding-note
+in Books II–IV reports a failure, so nothing in the record can distinguish *the method works* from
+*the method is pointed at broken things*.
+
+**R-110'S MANDATORY STEP, RUN AND RECORDED — Book IV close.** `edition_scheme_sweep`:
+**37 exposed loci / 667 distinct cited works (5.5%)**, against **10 / 368 (2.7%)** at Day 190. ★
+**R-110 predicted this exactly: the retrofit does not reveal the edition-sensitive population, it
+CREATES it.** The work count nearly doubled and the exposed count more than tripled in the books the
+retrofit has touched. Two of the 37 are noise from this pass (the sweep reads bold-italic spans in
+the new notes as work titles — logged, not fixed).
+⚠ **AND THE SWEEP'S OWN LIMIT LINE HAD ROTTED.** It hardcoded *"Books II–V carry no endnotes"* —
+true when written, false for II, III and IV since, sitting directly beneath a percentage that gets
+recomputed every run. **A maintained number vouching for an unmeasured sentence.**
+[[feedback_fresh_number_vouches_for_stale_sentence]] Repaired: the limit block now **reads the tree**
+and prints the noteless books it finds (currently `V`; Book I excluded, ruling 9).
+
+**BOOK IV ADDED TO `RETROFITTED_BOOKS`, WITH ITS WORKING SHOWN.** The stated condition is *"add it
+when the book closes"* — 10/10 chapters carry apparatus and the mandatory sweep has run. The gauge
+still prints **5 owed**, so the five were **hand-checked one at a time against their own evidence
+sentences** rather than waved through: `Claus` (IV.7:515, the chapter's worked example entity),
+`Scotland` (IV.7:404, toponym), `Western` (IV.7:91, adjectival), `Father` (IV.9:260, *"a Church
+Father's testimony"* — the real Ante-Nicene Fathers citation is receipted at IV.9:569), `Islamicist`
+(Corbin, receipted at IV.7 [^8]/[^9], cross-referenced at IV.10 [^8]). Five for five fall in classes
+the gauge's own LIMIT block declares. The working is written into the declaration in
+`endnote_debt.py` itself, **because a declaration entered by the party it exonerates needs a
+receipt.** [[feedback_never_relax_the_gauge_that_caught_you]]
+
+**Book IV: 10/10, 74 notes, CLOSED. Next: Book V — eleven chapters, 30 sources, 0 notes, the largest
+single block of debt in the volume and the one the gauge calls "PASS NEVER RUN."** ⚠ Books II–V are
+the historical books; they cite **works**, and `endnote_debt.py` extracts **persons in attributive
+position** — so Book V's list of 30 is a floor, not a count. **Hand-enumerate each chapter against
+its own prose before paying its list**, exactly as Book II required. [[feedback_self_generated_denominator]]

@@ -158,10 +158,30 @@ def main():
     n_titles = len(works)
     print(f"\nCOVERAGE BOUND: {len(exposed)} exposed / {n_titles} distinct cited works "
           f"({100.0 * len(exposed) / max(n_titles, 1):.1f}%).")
-    print("  ⚠ LIMIT — this sweep can only inspect a citation that EXISTS. Books II–V carry no")
-    print("    endnotes; they name sources without loci, so their edition-sensitive material is")
-    print("    INVISIBLE HERE, not clean. A low number above is a statement about the apparatus,")
-    print("    NOT about the citations. RE-RUN INSIDE R-2, after each book's notes are written.")
+    # MEASURED, not recited. This block used to hardcode "Books II–V carry no endnotes",
+    # which was true the day it was written and went false one book at a time while the
+    # percentage above it stayed fresh — a maintained number vouching for a stale
+    # sentence. It now reads the tree. (Day 192, at Book IV's close.)
+    noteless = []
+    for bk in BOOKS:
+        if bk == "I":
+            continue  # ruling 9 exempts Book I from apparatus; absent notes there are a
+                      # decision, not a gap, and printing it as a limit reads as a gap.
+        bk_files = [p for p in files if p.name.startswith(bk + "-")]
+        if bk_files and not any(
+            re.search(r"^\[\^\d+\]:", p.read_text(encoding="utf-8", errors="replace"), re.M)
+            for p in bk_files
+        ):
+            noteless.append(bk)
+    print("  ⚠ LIMIT — this sweep can only inspect a citation that EXISTS.")
+    if noteless:
+        print(f"    Book(s) {', '.join(noteless)} carry NO endnotes as of this run; they name sources")
+        print("    without loci, so their edition-sensitive material is INVISIBLE HERE, not clean.")
+        print("    A low number above is a statement about the apparatus, NOT about the citations.")
+    else:
+        print("    Every non-exempt book now carries endnotes, so the denominator is no longer")
+        print("    suppressed by absent apparatus. The residual limit is ordinary recall.")
+    print("    RE-RUN INSIDE R-2, after each book's notes are written.")
     return 0
 
 

@@ -102,7 +102,19 @@ EXEMPT_BOOKS = {"I"}
 # it is unmeasured, and it now says so. The declaration is itself checked below
 # against notes on disk, so a book listed here that carries no apparatus raises an
 # alarm rather than quietly vouching for itself.
-RETROFITTED_BOOKS = {"II", "III", "VI", "VII", "VIII"}
+RETROFITTED_BOOKS = {"II", "III", "IV", "VI", "VII", "VIII"}
+# IV added Day 192, on the stated condition ("add it when the book closes") and NOT on
+# a clean owed-count. 10/10 chapters carry apparatus (74 notes) and R-110's mandatory
+# edition sweep has run. The five names still printed as owed were hand-checked one at
+# a time against their own evidence sentences rather than waved through as artifact:
+#   Claus    IV.7:515  Santa Claus -- the chapter's worked EXAMPLE ENTITY, not a source
+#   Scotland IV.7:404  "the Findhorn community in Scotland" -- toponym
+#   Western  IV.7:91   "the Western record" -- adjectival
+#   Father   IV.9:260  "a Church Father's testimony" -- common noun; the actual
+#                      Ante-Nicene Fathers citation IS receipted at IV.9:569
+#   Islamicist IV.10   Corbin, receipted at IV.7 [^8]/[^9], cross-referenced IV.10 [^8]
+# Five for five fall in classes this file's own LIMIT block declares. Recorded here
+# because a declaration entered by the party it exonerates needs its working shown.
 
 # Attribution verbs, built from stems so the participle and progressive forms are
 # not lost. v1 listed finite forms only, so "Augustine is recording his own..."

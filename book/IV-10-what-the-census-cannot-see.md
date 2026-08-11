@@ -125,7 +125,7 @@ everywhere else in it and gets no better treatment here for being modern. And **
 acknowledgement** — named offices, hearings on the record, sworn statements — which sounds like the
 strongest of the three and is the weakest for this question, because it is evidence that an
 institution is investigating and testifying, which is a fact about the institution. What the tier is
-worth is the next book's problem. What it contains is this one's, and this is it.
+worth is the next book's problem. What it contains is this one's, and this is it.[^1]
 
 Every one of those problems is a problem this atlas has now solved somewhere else. The refusal to
 collapse two frames prematurely is the exact discipline installed in the non-physical chapter and
@@ -140,7 +140,7 @@ not that the material was hard, or contested, or beyond the framework's reach. I
 framework's answer was largely pre-assembled and the entry was not attempted, and no document in the
 project records the decision, because there was no decision. There is no ruling declining it. There
 is no note deferring it. There is no line anywhere saying *this is out of scope*, which is what a
-scoping decision looks like when one is made. **What the record shows is an absence with no author.**
+scoping decision looks like when one is made. **What the record shows is an absence with no author.**[^2]
 
 ---
 
@@ -194,7 +194,7 @@ commit as this chapter**: the entry is scheduled, its beats are written, and it 
 the road-reading book rather than this one — where the literal-versus-story problem is the ambient
 problem of every chapter, and where the sighting record can be read the way that book reads every
 other body of testimony, as people touching this ground with the instruments of their era. If it is
-not in that book, the book is wrong, and the amendment is on the page where anyone can check.
+not in that book, the book is wrong, and the amendment is on the page where anyone can check.[^3]
 
 ---
 
@@ -210,14 +210,14 @@ serviceable words: *cryptid* means *the hidden one*, and it therefore ships with
 inside it. Something hidden is something that is there. **A word that answers the question in its
 own etymology is not available to a census that has not answered it** — and, as the rest of this
 section will show, that particular presupposition is not a small one here. *Boundary entity* is
-worse prose and it presumes less.
+worse prose and it presumes less.[^4]
 
 The inherited material handles them in two sentences that have to be read exactly, because this
 book has learned three chapters running that the damage in a piece of received text is never in the
 content and always in the connective tissue.
 
 The first: *their persistence across cultures and their failure to produce permanent physical
-specimens are both predicted by the framework if their primary coherence is non-physical.*
+specimens are both predicted by the framework if their primary coherence is non-physical.*[^5]
 
 Read the conditional, and read it fairly, because the fair reading is the damning one. This is not
 a bald excuse. It is a conditional, and conditionals are respectable: *if* Q *then* P is a
@@ -231,7 +231,7 @@ The second is worse, and it is worse in a way that will matter for the whole of 
 Discussing the indigenous traditions that treat these entities as known co-inhabitants rather than as
 mysteries to be solved, the material says that **indigenous peoples' wider access allows them to
 perceive the full profile, while the modern focus on physical evidence can detect only the
-intermittent cross-section.**
+intermittent cross-section.**[^6]
 
 Look at what that does. Someone reports the entity: evidence. Someone searches and finds nothing:
 evidence, because the searcher's access is too narrow to find anything. There is no observation
@@ -247,7 +247,7 @@ somebody seriously.
 The Sts'ailes account is an account of a co-inhabitant. It is offered as knowledge about the world.
 Knowledge about the world is the kind of thing that can be right, which means it is the kind of
 thing that can be wrong, and a frame that has removed the second has removed the first along with
-it. **You cannot credit a claim you have made incapable of failing.**
+it. **You cannot credit a claim you have made incapable of failing.**[^7]
 
 The road-reading book opens by promising no condescension, no debunking, and no hedge. This is the
 fourth thing that list needed and did not have, and it is installed here, one book early: **no
@@ -255,7 +255,7 @@ exemption.**
 
 Both sentences are the clause the non-physical chapter named and refused when it found it in a
 French Islamicist writing about the world of images — *otherwise, anyone could perceive them*. The
-clause that predicts, in advance, that no one else will be able to check.
+clause that predicts, in advance, that no one else will be able to check.[^8]
 
 It was refused in a borrowed text. It has been sitting in our own source since March, in the tier
 this chapter was assigned, in two forms, one of them pointed at the very traditions the next book
@@ -263,18 +263,18 @@ exists to credit. **The escalation is the finding.** Three chapters running, the
 and read the primary text, and read the span rather than the phrase*. This chapter ran that method
 on our own document, and the same defect was there, in the same place — the connective tissue, not
 the content — and the first party to have misquoted it would have been this chapter, if the clause
-had been paraphrased from memory instead of fetched.
+had been paraphrased from memory instead of fetched.[^9]
 
 There is a third thing in that entry, smaller and sharper. The source gives the sasquatch a profile
-in filled bars — a graded score on four axes, three of five bars on physical presence. The previous
+in filled bars — a graded score on four axes, three of five bars on physical presence.[^10] The previous
 chapter caught the same notation handing back two confident numbers for an entity whose card had
 just come apart in its hands, and gave the reason: a field with a scale in it has no way to decline.
 
-This is the third instance, and three is where it stops being an accident.
+This is the third instance, and three is where it stops being an accident.[^11]
 
 A partly-filled bar on physical presence, for an entity whose physical presence is the entire
 question. The notation cannot express *this may be nobody*, so it expressed *somebody, at
-three-fifths*.
+three-fifths*.[^12]
 
 ---
 
@@ -302,10 +302,10 @@ all. A zero with no control is a blank.
 methods, within living memory. In 1992 a survey team in the forests of Vu Quang, on the
 Vietnam–Laos border, found a skull with long straight horns in a hunter's house and described from
 it the saola — the first large mammal new to science in more than half a century, an animal of about
-a hundred kilograms, in terrain where nobody had been looking. In 2017 a third species of orangutan
+a hundred kilograms, in terrain where nobody had been looking.[^13] In 2017 a third species of orangutan
 was described from Batang Toru in North Sumatra on skull and dental characters together with
 genome-wide differences: **a new great ape, in the twenty-first century, fewer than eight hundred
-individuals, and the description held.**
+individuals, and the description held.**[^14]
 
 The method is not blind. It finds things. It finds large rare things in dense forest, which is
 precisely the terrain and precisely the size class in question.
@@ -316,11 +316,11 @@ centre, and down toward two hundred metres, and sequenced the environmental DNA 
 against the reference databases. The results, published in 2019, detected the loch's entire known
 community: all thirteen fish species recorded there, frogs, toads, ducks, deer, badgers, foxes,
 rabbits, voles, many birds, and abundant cattle, dog and human DNA from the shoreline. **The
-instrument worked. It is not a story about an instrument that failed.**
+instrument worked. It is not a story about an instrument that failed.**[^15]
 
 It found no reptile DNA of any kind — nothing remotely related to a plesiosaur. It found no shark,
 no catfish, no sturgeon; the large-fish hypotheses went with the reptile. What it found instead, at
-close to every sampled location, was a great deal of eel.
+close to every sampled location, was a great deal of eel.[^16]
 
 The limit, stated here rather than extracted later, because a null overstated is the same failure as
 a claim overstated and there is no licence to run it in the convenient direction. **What that survey
@@ -455,3 +455,257 @@ The counting is over. What follows are the roads other people took across the sa
 older instruments, and the first thing that book has to establish is that reading them generously
 and reading them seriously are the same operation — because this chapter has just watched them come
 apart.
+
+---
+
+[^1]: **Tier 1.4 verified against the source, and the chapter is *less* specific than the material it
+is indicting.** `work/perspective-v1-fulltext.txt` L2409-2447, *1.4 Non-Human Intelligences
+(Physically Manifest)*. Every element the chapter reports is there: the three interpretive frames —
+*Visitors*, *Interdimensional travelers*, *Temporal navigators* — the refusal to choose (*"the
+framework does not require choosing one interpretation"*), the dual-frame problem set out at length,
+and an *Evidence basis* line naming exactly three grades: *scientific observation (military sensor
+data, radar tracks); phenomenological testimony (encounter reports across cultures); governmental
+acknowledgment*. ✅
+⚠ **Two things the source names and the chapter drops, and both cost it.** The governmental line
+names its offices — *AARO, Congressional hearings, Grusch testimony* — so the chapter's *"named
+offices, hearings on the record, sworn statements"* is a paraphrase of a list that had already been
+named, inside a passage whose whole complaint is that specificity is lost in transmission. And the
+temporal-navigator frame is attributed in the source to *"the Burisch hypothesis"*, a named and
+contestable attribution the chapter renders as unattributed *"navigators from a different position in
+time."* **Dropping an attribution makes a claim look more settled than the source made it** — IV.8's
+finding about the inherited hierarchy, running in the opposite direction.
+
+[^2]: **The measurement is real, it is dated, and it is no longer reproducible from this tree —
+because the repair shipped in the same commit as the finding.** Ruling 125 records it in the past
+tense and in the right place: *"Measured before a word was drafted: 0 occurrences across all seven
+planning documents and all 31 drafted chapters."* A reader running that grep today gets hits, because
+`00`, `06`, `07`, this chapter and V.9 all now name the tier.
+⚠ **That is correct engineering and it destroys the evidence.** The only surviving witness to the
+chapter's opening claim is a log line asserting the count — a stamp, not a gauge, which is the exact
+object this book spends eight chapters distrusting. Nothing was done wrong; the note exists because
+**a finding and its fix in one commit leave a reader no way to check the finding**, and that shape
+recurs every time this project repairs something it discovered.
+
+[^3]: ✅ **THE DEFERRAL'S TRIGGER FIRED, AND IT WAS PAID PAST THE PROMISE.** The chapter says the
+entry is *scheduled*, not written, with the scaffold amended in the same commit. Checked against
+disk: `06-THE-SCAFFOLD.md`:154 records the renumber (*"name at V.10 (was V.9 — ruling 125)"*), and
+**`book/V-09-the-road-being-walked-now.md` exists and is drafted** — it carries the entry, including
+the instrument-record grade this chapter previewed: *"They are also very few, and they establish an
+unidentified track and not an occupant"* (V.9:96), *"Something unidentified has been tracked on
+independent instruments. Grade: real, small"* (V.9:225).
+★ **Recorded because a check that passes is evidence too, and this apparatus has kept almost none.**
+Every finding-note in Books II-IV reports a failure; a retrofit that prints only failures cannot tell
+a reader whether the method works or only whether it is pointed at broken things. This one worked: a
+refusal with a trigger, made in the last chapter of a book, honoured in the next.
+
+[^4]: **The etymology is right and the coinage is later than the sentence implies.** *Cryptid* is from
+Greek κρυπτός, *hidden*, so *the hidden one* is fair. ⚠ But it was **not** built by the fieldworkers
+the sentence credits with it: it is a back-formation from *cryptozoology* (Heuvelmans, Sanderson),
+coined by **John E. Wall in 1983** in a letter to the *ISC Newsletter*. *"The people who built the
+word have done a great deal of patient fieldwork under it"* is true of the field and loose about the
+word. The argument does not rest on it.
+
+[^5]: ⛔ **THE SENTENCE IN ITALICS IS NOT THE SENTENCE IN THE SOURCE.** The chapter says the entry
+*"handles them in two sentences that have to be read exactly"* and then prints, italicised and
+colon-introduced, a rendering with an added conjunct.
+**Source, L2458-2459, verbatim:** *"The persistent failure to produce physical specimens despite
+centuries of sightings is predicted by the framework if these entities' primary coherence is
+non-physical."*
+**Chapter:** *"their persistence across cultures and their failure to produce permanent physical
+specimens are both predicted by the framework if their primary coherence is non-physical."*
+The source predicts **one** thing. The chapter gives it **two**.
+★ **And the alteration runs against the chapter's own case.** The circularity charge that follows —
+*the only thing offered in support of Q is P* — is **stronger** on the real sentence, whose consequent
+is nothing but P. By handing the source an extra prediction, the chapter made the target marginally
+harder to hit. Same class as IV.7's false pedigree, IV.8's two-texts translator and IV.9's misplaced
+locus: **four chapters running, and not one of the four errors flatters the argument.**
+★★ **AND THE PLAN HAD IT RIGHT.** `06-THE-SCAFFOLD.md`:1601–1602 renders the clause as *"the failure
+to produce specimens is predicted by the framework if their primary coherence is non-physical"* —
+**one predicted item, matching the source.** The conjunct was added **between the beat and the
+prose.** So this defect has a location, and it is not research and not planning: it is the act of
+expanding a correct compressed note into a sentence, with the source closed. That is a narrower and
+more actionable diagnosis than *"written from memory"*, and it is the opposite of what I first wrote
+here — I attributed it upstream before checking the upstream file.
+
+[^6]: ⛔ **THE SECOND SENTENCE — THE ONE THE CHAPTER CALLS WORSE AND SAYS "WILL MATTER FOR THE WHOLE
+OF THE NEXT BOOK" — IS NOT IN THE SOURCE.** The entry is **seventeen lines long** (L2448-2464) and was
+read in full. It contains no sentence about indigenous perception, no *full profile*, and no contrast
+with *the modern focus on physical evidence*. Measured across the whole 884 KB file: `cryptid` occurs
+**once** (the header, L2448); `indigenous` occurs twenty-odd times, the nearest hit **eighty lines
+away** in the mineral/panpsychism material, the next **380 lines** downstream — neither about boundary
+entities.
+**Positive control, so the null carries weight:** the same extraction preserves this entry's other
+clauses word for word (the *Under DoPI* sentence, the *Theorem 12* dimensional-leakage clause, the
+three-part *Evidence basis*) and preserves the source's box-bar glyphs `■`/`□` elsewhere in the file.
+The pipeline is not eating content in this region.
+⚠ **Limit, stated because it is load-bearing and because it is inherited from IV.9:**
+`tools/brief_source.py`:71 names the real drafting tree as `Unreleased-Work/Perspective`, **which is
+not on this machine.** If a fuller rendering exists there, the sentence may be in it. I cannot
+distinguish that from a sentence that was never written — **and neither can a reader**, which is the
+defect on either reading. What does not survive any reading is *"in two forms"*: the chapter counts
+two instances of IV.7's refused clause in this entry, and the checkable count is one.
+⛔ **AND THIS ONE DID ENTER AT PLANNING.** `06-THE-SCAFFOLD.md`:1604–1606 carries the sentence in
+IV.10's beats, near-verbatim, as item (b) under the heading *"THE INHERITED CRYPTID ENTRY CARRIES
+IV.7'S REFUSED CLAUSE IN TWO FORMS."* So the prose inherited this fabrication rather than producing
+it — **the opposite of [^5], in the same paragraph of the same chapter.** Repairing the chapter alone
+leaves the generator intact. [[feedback_repair_scoped_to_named_cause]]
+
+[^7]: **The Sts'ailes are not in the source, and the external record complicates the charge rather
+than the principle.** `sasquatch`, `bigfoot`, `sts'ailes` and `chehalis` occur **zero** times in the
+884 KB file. The account the chapter credits and then defends is not one the source cited; it is the
+chapter's own, imported without a locus.
+⚠ **Grade, declared: secondary characterisation. No primary ethnography was opened in this pass.**
+The Sts'ailes (Chehalis) are a Halkomelem-speaking people of the lower Harrison River, British
+Columbia; *Sasquatch* is an anglicisation of **Sasq'ets**, *wild man* / *hairy man*; and the reported
+Sts'ailes understanding is that Sas'q'ets **moves between the physical and the spiritual**.
+★ **That last clause cuts.** The chapter charges the source's frame with *imposing* unfalsifiability
+on a tradition — *"exemption dressed as respect."* If the tradition's own account already holds a
+being that crosses between physical and non-physical, then on this point the frame is partly
+**reporting** the tradition rather than exempting it, and the accusation needs its narrower form: not
+*you made their claim unfalsifiable*, but *you adopted their ontology and then used it as your alibi
+for your own null result*. **The `no exemption` rule survives intact** — a claim made incapable of
+failing is uncreditable whoever made it. The sentence saying the exemption was performed *onto* them
+does not.
+
+[^8]: **The IV.7 cross-reference is live and exact.** *"otherwise, anyone could perceive them"* is
+Corbin, *Mundus Imaginalis*, in **Leonard Fox's translation** — IV.7:646 and its [^9], where the
+clause is diffed against the printed text and the *right*-versus-*capacity* divergence between Fox and
+the earlier anonymous English is set out. Same clause, same job, correctly attributed. ✅
+
+[^9]: ⛔ **AND THIS IS THE SENTENCE THE PASS EXISTS TO CATCH.** *"the first party to have misquoted it
+would have been this chapter, if the clause had been paraphrased from memory instead of fetched."*
+**It was paraphrased.** [^5] shows the first clause materially altered; [^6] shows the second with no
+locus at all. The chapter wrote down the exact condition under which it would be the guilty party,
+asserted the condition was not met, and met it — in the paragraph immediately after the two
+quotations, about those two quotations.
+★ **This is IV.9's [^6] arriving one chapter later in a stronger form**, and the pair settles a class:
+**a chapter that names its own falsifier tends to name it accurately and then not run it.** Naming is
+cheap and reads as rigour; running is the work. Filed as a queue row rather than absorbed here — the
+repair is a check, not a sentence.
+
+[^10]: ⛔ **THERE IS NO SASQUATCH PROFILE, AND THE TIER ENTRIES DO NOT USE BARS AT ALL.** Two
+measurements. (a) The source contains no sasquatch — see [^7]. (b) The filled-bar notation the chapter
+describes is real and occurs **exactly three times in 884 KB**, all three in the Decomposers material:
+`Profile: NS ■■■■■  VI ■■■■■  AC ■■■■ □ CE ■■■■■` (L3897, Divine), L3906 (Trickster), L3913
+(Intimate). **None is a tier entry.** The tier entries — 1.4, 1.5, 2.1, and the archetype entry IV.9
+audited — carry a prose `Dimensional profile:` line instead; for 1.5 it reads *"Intermittent
+Physical-Spatial coherence (appear and disappear), high Narrative-Mythic coherence… moderate
+Emotional-Relational… variable Numinous-Sacred."* Four axes, **described, not scored.**
+So *"three of five bars on physical presence"* has no cell behind it — **the identical defect IV.9
+filed as its own sharpest finding, committed one chapter later, inside the paragraph calling it a
+settled pattern.** [[feedback_filed_defect_still_gets_rebuilt]]
+⚠ **This one is the drafter's alone, and I checked rather than assumed.** `06-THE-SCAFFOLD.md`
+contains no sasquatch, no bars and no *"three of five"* anywhere in IV.10's beats; what it carries is
+the **count** (*"the third instance of IV.9's filled-table finding"*, `06`:1620 — see [^11]). The
+specimen and the notation are the drafter's invention at the sentence. **My first version of this
+note blamed the scaffold for both**, which would have been an accusation against a file that had it
+right — the same error as the chapter's, one layer up. [[feedback_grep_derived_from_the_finding]]
+
+[^11]: ⛔ **THE COUNT IS WRONG BECAUSE AN ENDNOTE CORRECTION DOES NOT PROPAGATE TO THE CHAPTER THAT
+CITES IT.** *"The previous chapter caught the same notation handing back two confident numbers."*
+IV.9's **body** says that. IV.9's **[^12] retracts it**: the Promethean entry *"carries no
+`Dimensional profile:` line at all… so 'scored maximal' has no cell behind it."* Of the two numbers
+IV.9 named, one — archetypes at *moderate* Cognitive-Experiential — is verified verbatim ✅, and one
+does not exist. **So: one number, not two; and with [^10], one instance, not three.** *"Three is where
+it stops being an accident"* is a claim about a count the count does not support.
+★★ **The class is new and it is structural.** This retrofit annotates chapters in place, deliberately
+leaving the body standing and the correction in the note — **and nothing checks a later chapter's
+citation against the endnotes of the chapter it cites.** IV.10 was drafted reading IV.9's body, which
+was accurate when written and is now superseded by matter printed forty lines below it. **A note that
+corrects a claim does not correct the claim's readers.** Filed.
+⚠ **The count entered at planning.** `06-THE-SCAFFOLD.md`:1620 already reads *"This is also the third
+instance of IV.9's filled-table finding, which settles that it…"* — written before IV.9's [^12]
+existed, and therefore true of what IV.9 then claimed. **The scaffold is now carrying a settled
+conclusion drawn from a retracted premise**, and it will keep handing it forward to every chapter
+drafted from it. Same mechanism as the note above, one document upstream, and the reason R-148 must
+sweep the planning files and not only the prose.
+
+[^12]: **The notation has a zero, and it prints one.** *"The notation cannot express `this may be
+nobody`"* is false as stated: the Intimate Decomposers line reads `PS□□□□□ IO□□□□□` — an all-empty
+five-bar physical-spatial field, written out rather than omitted.
+⚠ **The narrower claim is true and is the one worth keeping.** An empty PS bar records *not physical*
+— grief is not a thing in a forest — which is a statement about **mode**, not about **existence**. The
+notation has a zero for presence and none for *there may be no entity here*, and those are different
+absences.
+★ The correction makes the card refusal **stronger**, not weaker: the source's bar apparatus *can*
+decline on an axis, and the atlas's card apparatus still cannot decline on the occupant. The defect is
+the atlas's specifically, not a general property of graded notations — which is a sharper finding than
+the one the chapter printed.
+
+[^13]: **Saola: 1992 find, 1993 description — and the clause about nobody looking undercuts the
+paragraph it sits in.** Identified **May 1992** from horns and a skull in a hunter's house, during a
+joint survey by Vietnam's Ministry of Forestry and WWF in **Vu Quang Nature Reserve, Hà Tĩnh
+province**; described as *Pseudoryx nghetinhensis* in **Dung, Giao, Chinh, Tuoc et al., "A new species
+of living bovid from Vietnam," *Nature* (1993)** — the first new large mammal in more than half a
+century ✅. Adult mass runs ~80-100 kg, so *"about a hundred kilograms"* takes the top of the range.
+⚠ Two repairs. *"In 1992 a survey team… described from it the saola"* compresses find and description
+into one year; the description is 1993. And **"in terrain where nobody had been looking" is wrong in
+the way that costs the chapter most** — it was found by a survey team that was looking, on a survey
+mounted to look, which is precisely the positive control the paragraph exists to establish. The true
+version is better: *the method finds things when it is pointed somewhere it has not been pointed
+before.*
+
+[^14]: **Tapanuli orangutan: every element checks, and none needs repair.** Nater, Mattle-Greminger,
+Nurcahyo, Nowak, *et al.*, **"Morphometric, Behavioral, and Genomic Evidence for a New Orangutan
+Species," *Current Biology* 27(22):3487-3498 (2017).** Cranio-mandibular and dental characters of the
+Batang Toru specimen compared against **33 adult males**, together with population-genomic analysis;
+**fewer than 800 individuals** survive. *"A new great ape, in the twenty-first century… and the
+description held"* ✅.
+
+[^15]: ⛔ **"PUBLISHED IN 2019" IS FALSE, AND IT IS FALSE IN THE CHAPTER'S CENTREPIECE.** The Loch Ness
+eDNA results were **announced at a press conference at Drumnadrochit on 5 September 2019** and carried
+in a University of Otago news release. **There is no peer-reviewed publication of the census** — no
+journal, no volume, no DOI, in any source reachable from here; and the public record of the expedition
+describes it as a demonstration of eDNA methodology to the public rather than a study that yielded a
+published paper.
+★★ **This is the chapter's own evidence-grade discipline failing on the chapter's own best example.**
+Four hundred words earlier it grades the missing tier's three evidence classes and says of the last
+that it *"sounds like the strongest of the three and is the weakest."* Then it awards a press
+conference the word **published** and builds on it the sentence the section turns on — *"not a
+debunking, a measurement."* **A measurement announced and never written up is not the grade the
+chapter gave it.**
+⚠ **And the figures move with the grade.** Sample count is reported as **250** (Otago) and **259**
+(secondary reporting, which adds that several **nearby lochs were sampled as controls**) — so *"two
+hundred and fifty water samples from Loch Ness"* takes the low figure and attributes every sample to
+the loch. Depth to ~200 m ✅. **"All thirteen fish species recorded there" is not attested**: the
+contemporaneous accounts give **eleven** — eel, pike, stickleback, lamprey, minnow, char, perch,
+roach, plus salmon, brown trout and sea trout as visitors.
+★ **The finding is not that the example is bad. The example is good.** It is that **the section
+arguing a null needs a positive control and stated limits never ran its own grading step on the null
+it chose**, and the repair is one clause — *announced in 2019, never peer-reviewed, weight it
+accordingly* — which makes the paragraph honest without making it weaker, because the species
+detection and the class-level exclusions are exactly as informative either way.
+
+[^16]: **The negative results and the eel are attested, in the lead author's own words.** *"There is
+no shark DNA in Loch Ness… There is also no catfish DNA… We can't find any evidence of sturgeon
+either"*, and *"There is a very significant amount of eel DNA… eel DNA found at pretty much every
+location sampled."* ✅ The chapter's *"no reptile DNA of any kind"* holds, and its reading of the eel
+as *"the hypothesis the data failed to refute, which is a weaker status than the one it is usually
+given"* is a sharper statement of the result than most of the reporting managed — and it is the
+chapter's, not a source's.
+⚠ Subject to [^15]: none of this has been through peer review, so every figure above is a quoted
+spokesman, not a checked table.
+
+---
+
+*The standing note on grade.* **This chapter set out to show that the census cannot see a vacancy, and
+the retrofit found that the chapter cannot see its own quotations.** Three of its four indictments of
+the inherited source do not survive contact with the source: the first sentence is altered ([^5]), the
+second does not exist ([^6]), and the sasquatch bar-profile is neither a sasquatch nor a bar ([^10]).
+⛔ **And the direction is once again the thing to keep.** Every one of the three alterations made the
+chapter's case *weaker*, not stronger — the real quoted sentence is a tighter circle than the printed
+one, and the atlas's card defect is a sharper finding than the general claim about graded notations
+that replaced it ([^12]). **There is no motive anywhere in this pass**, which is the fourth chapter
+running to produce that result and the point at which it stops being worth remarking that the errors
+are not self-serving and starts being worth asking what *does* produce them. On this evidence: writing
+about a source with the source closed. Nothing subtler than that.
+★★ **The two findings that outlive the chapter are structural, not textual.** [^9]: the chapter wrote
+down the precise condition under which it would be guilty, declared it unmet, and met it in the next
+paragraph — a chapter that names its own falsifier reliably names it well and reliably does not run
+it. [^11]: IV.10 cites a claim that IV.9's *own endnote* had already withdrawn, because this retrofit
+corrects chapters in place and **nothing checks a later chapter's citations against the notes of the
+chapter it cites.** The retrofit is now generating stale references at the rate it repairs claims, and
+that debt is invisible to every gauge in the tree.
+✅ **One check passed and is recorded as such** ([^3]): the refusal-with-a-trigger held, and V.9 was
+not merely scheduled but written. It is the only note in this pass that reports a success, and its
+scarcity is a fact about the apparatus rather than about the book.

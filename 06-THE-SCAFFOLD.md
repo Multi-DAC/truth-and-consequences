@@ -1562,7 +1562,7 @@ flatness flag is now two chapters clear.** `meta_textual` **2.46**, the Book IV 
 the Book IV low. `vague_allusion` **0.0**. `named_ref` **17.59/1k**, the Book IV high, which is what a
 chapter that reads two primary texts in two languages should look like.
 
-### IV.10 — WHAT THE CENSUS CANNOT SEE ✅ DRAFTED — 5,398 words
+### IV.10 — WHAT THE CENSUS CANNOT SEE ✅ DRAFTED — 8,737 words
 **Beats:** the atlas's own null space, traced as far as an atlas can trace its own blindness · the
 cryptids and boundary entities, and why they are a *methodological* chapter «rather than a credulous one» ·
 why the catalogue is permanently open · «the handoff to the CODA's» living-book claim.
