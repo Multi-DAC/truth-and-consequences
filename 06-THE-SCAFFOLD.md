@@ -1287,7 +1287,7 @@ the other method chapter, and accepted on that ground; a later editor should che
 the book a tic. `2nd_person` 3.87/1k, lowest in Book IV — the chapter addresses the objection, not the
 reader, until the card's fifth line.
 
-### IV.7 — THE NON-PHYSICAL: THE MADE, THE DEAD, AND THE IMAGINED ✅ DRAFTED — 8,360 words
+### IV.7 — THE NON-PHYSICAL: THE MADE, THE DEAD, AND THE IMAGINED ✅ DRAFTED — 10,330 words
 **Beats:** tulpas and thought-forms · ancestral and deceased entities · nature spirits and elementals ·
 fictional and narrative entities · **the two frames held at once** — the literal and the archetypal,
 both true, neither collapsed into the other · Corbin's *mundus imaginalis* named.
@@ -1422,7 +1422,7 @@ calls the Claude fingerprint, and **no attempt was made to disguise it by varyin
 because the parallelism is what lets the four entries be compared. Flagged so a reader can decide
 whether the trade was worth it.
 
-### IV.8 — THE DIVINE, AND THE HIERARCHIES ✅ DRAFTED — 5,709 words
+### IV.8 — THE DIVINE, AND THE HIERARCHIES ✅ DRAFTED — 8,100 words
 **Beats:** maximally expanded perspectives · the angelic hierarchies read as cartography, not decoration ·
 **the longest single section in the inherited ecology (Tier 3.1 alone runs ~320 lines) and the one
 *Perspective* was most careful with** — the care is now off · the ground behind the gods, and why the

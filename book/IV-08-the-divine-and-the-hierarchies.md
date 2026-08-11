@@ -73,12 +73,12 @@ the inherited material got right and then walked past. Every serious contemplati
 thought about this for more than a generation ended up drawing a line between two things it had
 started by calling one. Advaita separates *saguna* Brahman, the totality as it can be met, from
 *nirguna* Brahman, the totality prior to any meeting. Kabbalah puts *Ein Sof* before the
-contraction and everything else after it. The *Tao Te Ching* opens by disqualifying its own title.
-Eckhart's German sermons distinguish *Gott* — God as encountered, addressed, prayed to — from
-*Gottheit*, the Godhead, which is not encountered at all. Mahāyāna arrives at the same fence from
-the far side with *śūnyatā*: no phenomenon, including a god, holds independently.
+contraction and everything else after it.[^1] The *Tao Te Ching* opens by disqualifying its own
+title.[^2] Eckhart's German sermons distinguish *Gott* — God as encountered, addressed, prayed to —
+from *Gottheit*, the Godhead, which is not encountered at all. Mahāyāna arrives at the same fence
+from the far side with *śūnyatā*: no phenomenon, including a god, holds independently.[^3]
 
-Five traditions, no common author, four languages, and the same cut. On one side: the gods, who are
+Five traditions, no common author, four languages, and the same cut.[^4] On one side: the gods, who are
 met. On the other: something that is not met, and about which the traditions say, with unusual
 unanimity, that the word *entity* does not apply.
 
@@ -176,14 +176,16 @@ of indigenous traditions with no route to any of the above. The convergence is b
 than the convergence on the gods themselves.
 
 The most detailed version in the Western record is the Pseudo-Dionysian scheme — nine orders in
-three triads, written in Greek by an anonymous author around the turn of the sixth century, adapted
-afterwards into Islamic and Jewish angelology and standing behind essentially every angel the reader
-has ever seen depicted. The inherited material this atlas draws on calls it a structure that maps
-onto a graded model of access *with remarkable precision*.
+three triads, written in Greek around the turn of the sixth century by an author who was not
+anonymous but *pseudonymous*, and who was received afterwards into medieval Islamic and Jewish
+angelology and stands behind a great deal of the Western iconography of angels.[^5] The inherited
+material this atlas draws on calls it a structure that maps onto a graded model of access *with
+remarkable precision*.
 
 It is worth going and reading it, because the author says something first.
 
-The chapter that establishes the nine orders — Caput VI in Parker's 1899 English — opens like this:
+The chapter that establishes the nine orders — Caput VI in Parker's 1899 English — opens like
+this:[^6]
 
 > How many, and of what sort, are the Orders of the supercelestial Beings, and how the Hierarchies
 > are classified amongst themselves, I affirm, the deifying Author of their consecration alone
@@ -202,8 +204,8 @@ The most detailed hierarchy of non-physical entities in the Western tradition op
 how many there are is known only to God and not knowable by the author. It then says the nine come
 from *appellations* — the count is a count of names occurring in scripture, arrived at by reading,
 not by observation. And the arrangement into three triads is credited to a teacher: *our Divine
-Initiator divides.* Not *I divide.* The section that follows attributes the grouping again, twice,
-to somebody else.
+Initiator divides.* Not *I divide.* The section that follows attributes the grouping again, four
+more times, to somebody else.[^7]
 
 So the scheme has three components with three different warrants, and the text distinguishes them
 where its readers for fifteen centuries have not.
@@ -229,8 +231,9 @@ does so redundantly: graded intermediaries appear in Islamic, Jewish, Hindu, Zor
 cosmology, and in indigenous cosmologies with no route to any of them, and wherever it appears the
 grading runs the same direction — broader access correlating with less direct intervention, narrower access with more
 contact. The enumeration does not replicate. Nine orders in three triads appears where Dionysius was
-read, and nowhere he was not. The Zoroastrian *amesha spentas* number six. The rabbinic lists differ
-from each other. The Quranic angels are not enumerated at all.
+read, and nowhere he was not. The Zoroastrian *amesha spentas* number six, or seven under a
+different reckoning by the same tradition. The rabbinic lists differ from each other. The Quranic
+angels are not enumerated at all.[^8]
 
 **Verdict: the grading is cartography and the count is decoration**, and the inherited material's
 *remarkable precision* was measuring the decoration. This is a specific, nameable error in a
@@ -276,7 +279,8 @@ which is what applying the drop entry by entry looks like instead of announcing 
 The same traditions that report benevolent intermediaries report adversarial ones, and the
 framework's reading of them is unforced and follows directly from everything already said: an
 entity whose own coherence is served by keeping other positions narrow. Not evil in a cosmic sense
-— the inherited material's own analogy is a tapeworm, which is not wicked and is still killing you.
+— the inherited material's own analogy is a tapeworm, which is not wicked and is still killing
+you.[^9]
 The mechanism is imposed paths. Fear, addiction, ideology, tribalism, despair are all states of
 extreme contraction, and they are all states in which attention flows in reliable channels rather than
 exploring. The constraint is elegant and is the sort of thing that makes a framework feel like it is
@@ -345,7 +349,7 @@ concession — they have free will, they have their own societies and religions,
 otherwise, and the tradition is explicit that this is what distinguishes them from angels. Celtic
 and European *fae*: beautiful, dangerous, generous, lethal, in no fixed order. Japanese *yōkai*,
 which range from the numinous to the comic and resist sorting so thoroughly that the resistance is
-their most-noted feature. West African and Native American tricksters. The cross-cultural
+their most-noted feature. West African and Native American tricksters.[^10] The cross-cultural
 convergence is the strongest in this entire tier — every tradition on record reports morally
 ambiguous non-humans, and reports them as ordinary rather than exceptional.
 
@@ -486,3 +490,177 @@ somebody else can score it.
 The next chapter goes to the archetypal, and it inherits this one's cut in its hardest form. The
 gods are positions and the ground is not one. An archetype is neither, and the census will have to
 say what a third thing is.
+
+---
+
+[^1]: *Saguṇa* / *nirguṇa* Brahman is standard Advaita Vedānta vocabulary, at home in Śaṅkara's
+commentaries (8th c.) and in the school after him; the pairing is not a modern gloss and the chapter
+uses it correctly. ⛔ **The Kabbalah clause telescopes three centuries and two systems into one
+sentence.** *Ein Sof* is thirteenth-century — Azriel of Gerona, the *Zohar* — where it names the
+Infinite prior to the *sefirot*. The **contraction** is *tzimtzum*, and it is **Lurianic**: Isaac
+Luria, Safed, later sixteenth century, transmitted through Ḥayyim Vital. "Kabbalah puts *Ein Sof*
+before the contraction" is true of Lurianic Kabbalah and of nothing earlier, because there was no
+contraction to be before. The sentence is not false; it is a doctrine assembled over three hundred
+years inside one tradition, presented in the grammar of a single tradition's single move. That
+matters here and only here: the paragraph's whole force is *five independent arrivals at one cut*,
+and a composite is a weaker witness than a unit. ★ Counted honestly, Kabbalah is one witness to the
+cut and not to its antiquity.
+
+[^2]: ⛔ **Two problems, and the sentence is witty on the strength of both of them.** (a) *The title
+is not the author's.* The text circulated as the *Laozi*; *Dàodéjīng* — "Classic of the Way and
+Virtue" — is a later honorific, canonical from the Han. A book cannot disqualify a title it was not
+given. (b) *"Opens" is edition-dependent.* Both Mawangdui silk manuscripts (tomb sealed 168 BCE; copy
+A in seal script, B in clerical) place the *de* section — the received chapters 38–81 — **before**
+the *dao* section, 1–37, inverting the received order; the Guodian bamboo slips (c. 300 BCE) are a
+partial selection in yet another arrangement. On the oldest witnesses we have, the book does not open
+with 道可道，非常道 at all. **The claim is true of the received Wang Bi recension and only of it.**
+The chapter's argument survives unharmed — the *disqualifying move* is in the text on any ordering —
+but the epigram is a fact about a transmission history that the sentence presents as a fact about the
+book. Same class as IV.7's Besant coinage: the span is right and the pedigree is furniture.
+
+[^3]: Eckhart's *Gott* / *Gottheit* distinction is genuinely in the German sermons — most sharply in
+Pr. 52, *Beati pauperes spiritu*, where he prays God to rid him of God. ⚠ **But Eckhart is not
+independent of section five of this chapter.** He is a Dominican Neoplatonist who cites Dionysius
+constantly and whose apophatic architecture is downstream of the *Mystical Theology*; the Godhead
+beyond God is the Dionysian ὑπερούσιος restated in Middle High German. The chapter examines
+Dionysius as a *case* eleven pages later without noticing it had already called him as a *witness*
+under another name. *Śūnyatā* is correctly stated and Mahāyāna is a real fifth tradition — but see
+[^4] for the channel between it and the first.
+
+[^4]: ⛔ **This is the chapter's load-bearing independence claim, and it is the claim the chapter's own
+falsifier is written against.** The A GOD card says, in terms: *what would make this card wrong* is
+"the convergence collapsing under transmission analysis… If the arrangement can be traced to a small
+number of diffusion events, the signal is one report copied." Run that test on this paragraph and it
+fires twice. **(i) Advaita ↔ Mahāyāna is the best-documented channel in Indian philosophy.**
+Gauḍapāda's *Māṇḍūkya Kārikā* — Śaṅkara's teacher's teacher — carries explicit Mahāyāna vocabulary
+and argument, and Śaṅkara was called *pracchanna-bauddha*, a crypto-Buddhist, by his Vedāntin
+opponents, which is polemic but is polemic about a real contact. **(ii) Eckhart ↔ Dionysius**, per
+[^3]. That leaves at most three uncorrelated witnesses — Advaita-with-Mahāyāna as one lineage,
+Kabbalah, the *Laozi* — and one of those is itself a composite ([^1]). ★ **The count "four
+languages" is correct and does no independence work**: Advaita and Mahāyāna share Sanskrit, and two
+texts in one language from lineages in contact are the paradigm case of a channel, not evidence
+against one. **Nothing here refutes the cut** — three genuinely uncorrelated arrivals at the same
+distinction is still a strong result, and the *Laozi* is uncontaminated by any of the others. What is
+refuted is *five*. Filed: the chapter states a transmission falsifier for a card and does not run it
+on the convergence three sections above the card
+[[feedback_correlated_witness_needs_a_channel]].
+
+[^5]: The dating is right and the noun was wrong, and the noun mattered. The corpus is placed c. 480–530
+— it quotes Proclus (d. 485) and surfaces at the Colloquy of Constantinople in 532/533 — so "around
+the turn of the sixth century" stands. ⛔ **But the author was not anonymous. He was pseudonymous, and
+specifically so:** he wrote as Dionysius the Areopagite, the Athenian converted by Paul at Acts
+17:34, addressed his treatises to "fellow-presbyter Timothy," and thereby claimed sub-apostolic
+authority — which is exactly why the corpus was received as near-canonical for a millennium.
+Repaired in the text. **This is not a pedantry, because the chapter's closing section makes this
+author its outside witness** and scores his candour against its own; a declared limit inside a
+fabricated apostolic identity is a different object from a declared limit by an anonymous writer, and
+[^7] takes that up. ⚠ Also repaired: "adapted afterwards into Islamic and Jewish angelology" —
+**directionally wrong and, left standing, it would have poisoned the chapter's own replication test
+two pages later.** Jewish angelology has Merkavah and *3 Enoch* strata that *precede* Dionysius;
+Quranic angelology is not downstream of him at all. Dionysius reached both worlds later, through
+Sergius of Reshaina's Syriac (c. 536) and thence Arabic. The replication test is valid **only** on
+the pre-Dionysian strata, and now says so. "Essentially every angel the reader has ever seen
+depicted" was also overreach — the winged-human iconography descends from late-antique Victory
+figures, not from a scheme whose upper orders are deliberately unpicturable — and is now "a great
+deal of the Western iconography."
+
+[^6]: Pseudo-Dionysius the Areopagite, *On the Heavenly Hierarchy*, Caput VI, in *The Works of
+Dionysius the Areopagite*, Part II, trans. Rev. John Parker (London: James Parker and Co., 1899),
+pp. 23–24. **The block quotation was diffed word-for-word against that text and is verbatim** — every
+clause, including "the deifying Author of their consecration alone distinctly knows" and "These our
+Divine Initiator divides into three threefold Orders." ⛔ **And the span-check is again not the check
+— this time because there are two Parkers.** Parker had already published this translation five years
+earlier: *The Celestial and Ecclesiastical Hierarchy of Dionysius the Areopagite* (London:
+Skeffington, 1894), and **he revised himself between the printings, in the clause the chapter's whole
+argument turns on**:
+
+    - 1894: "The Word of God has designated the whole **nine celestial Beings by appellations** which shew their functions."
+    - 1899: "The Word of God has designated the whole **Heavenly Beings as nine, by appellations**, which shew their functions."
+
+    Those are different claims. On the 1899, the *nine-ness is delivered by the naming* — which is
+precisely what the chapter needs to say "the number nine is philology." On the 1894, the nine is
+presupposed and the appellations merely label them, and the chapter's strongest structural finding
+does not follow. Other divergences in the same passage: 1894 "how the Hierarchies are **initiated**
+amongst themselves… the **Divine Author of their initiation**"; "we, as **interpreting** these";
+"our illustrious Guide **affirmed to be one** … really **first**." ★ **The Greek settles it, and it
+settles it in the chapter's favour.** CH VI.2 reads *Πάσας ἡ θεολογία τὰς οὐρανίας οὐσίας ἐννέα
+κέκληκεν ἐκφαντορικαῖς ἐπωνυμίαις· ταύτας ὁ θεῖος ἡμῶν ἱεροτελεστὴς εἰς τρεῖς ἀφορίζει τριαδικὰς
+διακοσμήσεις* — "theology has **called** all the heavenly beings **nine**, by revelatory
+appellations; these our divine initiator divides into three triadic orderings." *ἐννέα* is what the
+calling delivers. **The 1899 tracks the Greek and the 1894 does not, and the chapter quoted the 1899
+without knowing there was a 1894 to quote instead.** It was right by luck, and the earlier printing is
+here the worse text [[feedback_earliest_printing_is_not_best_text]]. ⚠ One residual gloss, declared
+rather than repaired: Parker renders *ἡ θεολογία* as "The Word of God," and the chapter reads it as
+*scripture* — "a count of names occurring in a particular canon." That is standard for Dionysius's
+usage and it is still a translator's gloss doing argumentative work, and no critical edition of the
+Greek beyond the digitised *De caelesti hierarchia* text was opened in this pass.
+
+[^7]: "Our Divine Initiator" is Parker's rendering of *ὁ θεῖος ἡμῶν ἱεροτελεστής*, and the referent is
+Hierotheus — the teacher Dionysius credits at length in *Divine Names* III, and whom the scholarship
+takes to be **a literary fiction of the same pseudepigraphon as its author**. ⛔ **That is a real cost
+to the chapter's closing instrument and it is not a small one.** The final section scores Dionysius
+from outside on whether his declared limit governed what followed, and treats his crediting-upward as
+epistemic scruple. But crediting a fabricated teacher is *also* the machinery by which a forged
+apostolic identity is built; the modesty and the fraud are the same sentence, and the chapter's
+"he is not us" — the whole reason he can serve as an external case — is true in a way that does not
+help, because a persona's declared limits are furniture. ★ **The instrument does not collapse.** The
+test the chapter runs is textual — *did the disclaimer change the shape of the exposition* — and a
+persona's text can be scored exactly as a person's can; what is lost is the inference from the text
+to the author's honesty, which the chapter did not actually need and did lean on rhetorically. ⚠
+**Repaired, and the repair runs in the chapter's favour, which is why it went uncaught**: the text
+said the grouping is re-attributed "twice." It is re-attributed **four** more times in the same
+section — "He also says," "For he says," "our illustrious Guide spoke of," "But he says." The
+chapter undercounted its own evidence. An error that *understates* your case attracts no scrutiny
+from you, which is the same asymmetry as [[feedback_guard_built_in_the_feared_direction]] with the
+sign flipped, and it survived a draft for the identical reason: nothing files a bug against an error
+in your disfavour either, because nothing is looking.
+
+[^8]: The *amesha spentas* are classically six — Vohu Manah, Asha Vahishta, Khshathra Vairya, Spenta
+Armaiti, Haurvatāt, Ameretāt — and are reckoned as **seven** where Spenta Mainyu, or Ahura Mazda
+himself, is counted into the group, a variation internal to the Zoroastrian tradition rather than a
+scholarly dispute about it. Repaired in the text, and **the repair strengthens the paragraph**: the
+chapter's claim is that enumerations do not replicate, and a tradition that cannot hold its own count
+steady is a better instance of that than a tradition with a rival count. The rabbinic lists do differ
+— Maimonides' ten ranks in the *Mishneh Torah* against the *Maseket Azilut* against 3 *Enoch* — and
+the Qur'an names individual angels (Jibrīl, Mīkāl, Mālik, Hārūt and Mārūt) while giving no total
+anywhere. **All three sub-claims are assertion-grade at the level of a named edition**: none of these
+texts was opened in this pass, and the note records that rather than implying a collation that did
+not happen.
+
+[^9]: The tapeworm is the atlas's own analogy, carried in from the framework material this book
+draws on, and it has no external source — recorded here because an unattributed vivid image reads as
+borrowed authority, and this one is borrowing from nobody. The paragraph it anchors is the one the
+chapter itself flags as its most dangerous, and the flag is on the page above; the note adds only
+that the *contraction* vocabulary — fear, addiction, ideology, tribalism as narrowed attention — is
+this book's own construct from Book II and is not being smuggled in as a finding from the traditions.
+
+[^10]: The four populations are correctly characterised and none was read to a text in this pass.
+*Djinn* are morally variable **by doctrine**: the Qur'an gives them free will, their own communities
+and their own religious choice (Sūrat al-Jinn), which is exactly the distinction from angels the
+chapter claims and is the one item here that could be sourced in a line and was not. Celtic and
+European *fae*, Japanese *yōkai* and West African and Native American trickster cycles are
+compendium-grade — the chapter is reporting a consensus about the shape of a literature rather than a
+claim from inside it. ★ **This is the entry with the least apparatus and the strongest claim in the
+chapter** — "the cross-cultural convergence is the strongest in this entire tier" — and the mismatch
+is worth naming: the section then argues the convergence is *useless* because unfalsifiable, so the
+thinness of the sourcing costs the argument nothing it was going to spend. That is convenient, and
+convenience is the condition under which nobody checks.
+
+---
+
+*The standing note on grade.* **The retrofit changed what this chapter can claim in exactly one
+place, and it is a place the chapter had already written the test for and not run.** [^4]: the A GOD
+card's falsifier is transmission analysis, and the chapter's five-tradition convergence has two
+traceable channels in it — Advaita↔Mahāyāna and Eckhart↔Dionysius, the second of which calls the same
+author as a witness in section three and puts him on the stand as a defendant in section five. The
+cut survives at three witnesses instead of five. **Every other finding on this page is a provenance
+error under a verbatim quotation, which is the second consecutive chapter where that is the whole
+yield.** [^6] is the sharpest version yet: not two translators disagreeing, as with Corbin in IV.7,
+but **one translator disagreeing with himself across two printings, in the clause the argument turns
+on** — and "Parker's English" names a single object that is two. The chapter picked the right one and
+had no procedure that could have known. ⛔ **And the direction of the errors is the thing to keep.**
+IV.7's errors flattered the chapter; two of this chapter's — the undercounted attributions [^7], the
+composite Kabbalah [^1] — run *against* it. Both survived a full draft. An error in your own disfavour
+is not caught by the discipline that catches flattering errors, because that discipline is looking
+for motive, and there is none here. What catches both is the same thing and only that thing: opening
+the source and counting.
