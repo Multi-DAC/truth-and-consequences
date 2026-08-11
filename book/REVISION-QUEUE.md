@@ -3011,3 +3011,39 @@ decision rather than a condition.** ⚠ **Named so it cannot be paid cheaply: th
 they liked it. It is whether they finished one chapter and opened a second without being asked.**
 
 ---
+
+**FILED — R-140: "ALREADY KNEW THAT" IS A CLAIM ABOUT A CLOCK, AND THE CLOCK WAS ON DISK.** ✅ **HAND
+BUILT: `tools/packet_lag.py`.** *(Found Day 191 afternoon, exploring PBR's empirical literature; the
+defect is mine, in the adjudication I wrote ninety minutes earlier.)*
+
+`PACKET-003` opens **State: `fd37971`**. Packets declare the commit they were cut from. Nothing has
+ever read that field. When a read comes back, re-report-vs-novel gets settled from memory.
+
+**What it cost on the whole-volume read.** Its packet header says *"Most of its findings are
+re-reports"* and lists seven. Five were filed by me **after 15:26 on the same day**; the read was
+adjudicated at **16:05:54**. R-127 and R-128 went in at **15:38:13** — twenty-seven minutes before.
+R-132 at **15:51:24** — fourteen. Nobody reading sixty-seven chapters was handed a queue containing
+rows filed fourteen minutes earlier.
+
+**The classification is undetermined, and I filed it as determined.** Measured with the new tool, the
+same six rows score **6 REDUNDANT / 0 LAG** against a 15:51 snapshot and **1 / 5** against an 11:56
+one. The read's own content bounds the window from below: it scored **67/67 chapters**, and the 67th
+was committed at **14:28:32** (`e9b6c4d`), so the snapshot cannot predate that. Every contested row was
+filed ≥58 minutes after the earliest possible snapshot. The honest reading is **at least 5 of 7 are
+independent corroboration, not duplication** — and the headline "4 of 11 novel" is nearer 9 of 11.
+
+⚠ **THE DEFECT IS A SIGN CONVENTION, NOT GENEROSITY.** This queue already discounts a correlated
+witness — *"R-128 and R-129 are one witness, twice."* Run against two readers converging inside one
+hour, that rule fired backwards: concurrency was scored as the reviewer FOLLOWING me when the
+timestamps prove no channel existed. **A rule that discounts a correlated witness must first establish
+that the correlation had a channel.** Simultaneous independent derivation is the strongest
+corroboration available and it was being logged as redundancy.
+
+**TRIGGER: every future packet.** ✅ Declare `State: \`sha\`` at assembly — `PACKET-003` already does,
+so this is a floor not a new practice — and run `python tools/packet_lag.py --packet <file> R-…` before
+writing the word *re-report*. The tool exits nonzero on a packet with no declared state rather than
+scoring it clean. **Self-tested on two known answers with opposite signs** (R-3 → REDUNDANT, R-136 →
+LAG); a control failure prints "do not trust any report from this file."
+
+⚠ **LIMIT, stated so a green run is not read as coverage:** it classifies TIMING, not merit. LAG is
+proof of independence; REDUNDANT is only the absence of proof, never evidence of copying.
