@@ -31,6 +31,21 @@ Format — one per line, verdict written in plain words after the dash:
   IV.10's *"modern focus on physical evidence can only detect the cross-section"* sentence, which
   IV.10 [^6] establishes is **not in the source at all**. Acked here only so the gauge's tier-1
   list reflects what has been LOOKED at; the defect itself is open in the queue.
+  **↑ DEAD KEY as of later the same day, and the death is the good outcome.** R-151 was settled and
+  the repair rewrote the paragraph, which changed the key. This file's own rule at the top says a row
+  is supposed to die when the thing it acknowledged is rewritten. It did. The repaired paragraph now
+  falls into TIER 3 — *drafted with the correction available* — which is where a citation belongs
+  once somebody has actually read it against the notes. Stub kept rather than deleted so the trail
+  flag → read → repair → tier-change survives in one place.
 
-<!-- 54 tier-1 citations remain unread as of Day 192. That number is the debt, and it is
-     supposed to be uncomfortable. Do not bulk-ack it. -->
+- `V.9>IV.10:12e05dd5` — read Day 192 (2026-08-11), **and repaired.** V.9:104 said *"IV.10 already
+  graded this correctly"* — a blanket endorsement of IV.10's grading section, whose own [^15] catches
+  that section awarding a press conference the word *published*, in its centrepiece. The particular
+  ruling V.9 invokes — acknowledgement is a fact about the institution — holds. The blanket vouching
+  did not. Narrowed to the one ruling, with the caveat carried across in-text. **A chapter that cites
+  a corrected chapter inherits the correction, and nothing but this gauge can see when it has not.**
+
+<!-- 53 tier-1 citations remain unread as of Day 192. That number is the debt, and it is
+     supposed to be uncomfortable. Do not bulk-ack it.
+     Both of the two read so far came back DIRTY. Two is not a sample to extrapolate from, and it
+     is not a sample to dismiss either. -->
