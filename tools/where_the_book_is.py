@@ -403,6 +403,61 @@ CARRIER_SLOT = re.compile(
 )
 
 
+# ⟦CODA⟧…⟦/CODA⟧ — A SPAN THIS TOOL OWNS, and the markers are the whole point.
+#
+# The scope note below is right that a sentence needs judgement to rewrite, and
+# this is the exception that proves the rule rather than a hole in it: whether the
+# coda is written is not a judgement, it is a count, and it already has a gauge.
+#
+# The defect this repairs, found Day 191: `book_progress` in handoff.json called
+# itself "STATE, not narration" and carried the frozen clause "THE CODA (C.1, C.2)
+# is unwritten and NOT counted here". CARRIER_SLOT faithfully refreshed the DIGITS
+# beside that clause on every sync while the clause itself rotted — a measured
+# number and an unmeasured sentence sharing one slot, indistinguishable to a reader,
+# the number vouching for the sentence it sits next to. The coda was written and the
+# slot went on saying it was not.
+#
+# So the fix is not to widen the regex over prose. It is to mark the span the gauge
+# is entitled to own, and leave every unmarked sentence alone exactly as before.
+# ⚠ A carrier with no marker gets a WARNING, not silence — an opt-in mechanism that
+# fails quietly is the mechanism-without-a-trigger this repo keeps re-finding.
+CODA_SLOT = re.compile(r"(⟦CODA⟧)(.*?)(⟦/CODA⟧)", re.S)
+
+
+def coda_clause():
+    """The sentence, GENERATED. Never typed into a carrier by hand."""
+    disk, wc = coda_on_disk()
+    plan = coda_planned()
+    missing = sorted(plan - disk)
+    if not plan:
+        return " CODA: scaffold declares none — cannot verify. "
+    if missing:
+        named = ", ".join(f"C.{n}" for n in missing)
+        return (f" CODA {len(disk)}/{len(plan)} — {named} UNWRITTEN. "
+                f"The chapter figure above EXCLUDES the coda and is NOT a finished book. ")
+    return (f" CODA {len(disk)}/{len(plan)} WRITTEN · {wc:,} words, counted separately "
+            f"from the chapter figure above. Chapters + coda both complete. ")
+
+
+def sync_coda(paths):
+    """Rewrite only the marked span. Prints every carrier's outcome, including
+    the ones it deliberately did not touch."""
+    clause = coda_clause()
+    for path, label in paths:
+        if not path.exists():
+            continue
+        text = path.read_text(encoding="utf-8", errors="replace")
+        if not CODA_SLOT.search(text):
+            print(f"  · {label}: no ⟦CODA⟧ marker — coda status NOT carried here")
+            continue
+        new = CODA_SLOT.sub(lambda m: m.group(1) + clause + m.group(3), text)
+        if new == text:
+            print(f"  · {label}: coda span already current")
+            continue
+        path.write_text(new, encoding="utf-8")
+        print(f"  ✎ {label}: coda span rewritten →{clause.strip()}")
+
+
 def sync_carriers(total_disk, total_plan, total_words):
     """Write the measured figures BACK into the four carriers. The hand this file
     spent four hundred lines diagnosing and never grew.
@@ -516,6 +571,9 @@ def main():
         sync_carriers(sum(len(v) for v in disk.values()),
                       sum(len(v) for v in plan.values()),
                       sum(words.values()))
+        sync_coda(((HANDOFF, "handoff.json"), (DRAFT_LOG, "DRAFT-LOG.md"),
+                   (ARCHITECTURE, "00-ARCHITECTURE.md"),
+                   (WORKING_MEMORY, "carapace working_memory.json")))
         print()
 
     total_disk = sum(len(v) for v in disk.values())

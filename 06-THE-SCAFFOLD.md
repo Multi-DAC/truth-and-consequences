@@ -4211,7 +4211,7 @@ VII.8's finding it must **not present the refusal of the summit as unaccompanied
 the same conclusion at §13.4 by a weaker route while leaving §13.1's summit standing, and the honest
 claim is that our route is *stronger*, not that it is *only*.
 
-### VIII.2 — READING YOUR OWN FILTER STACK ✅ DRAFTED — 4,571 words
+### VIII.2 — READING YOUR OWN FILTER STACK ✅ DRAFTED — 4,910 words
 ✅ **DRAFTED Day 191 · `book/VIII-02-reading-your-own-filter-stack.md`.** All four beats land
 (`beat_delivery` 0.86–1.00, misses are inflections). Card v3-canon, 6 fields, `instrument_sweep`
 PASS. ★ **The pre-draft screen supplied the spine, again, and the chapter is the screen's finding
