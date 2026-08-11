@@ -92,7 +92,7 @@ The best-documented case in the Western record is also the one its own author de
 it is worth quoting at length rather than summarising. Alexandra David-Néel published it in the book
 English readers know as *Magic and Mystery in Tibet*, translated from her French of 1929; the
 sentences below are from the 1965 University Books printing, whose running heads still carry the
-translation's first English title.
+translation's first English title.[^1]
 
 She set out to test the thing she did not believe:
 
@@ -140,7 +140,7 @@ interested party, of an event she had every reason to notice and no way to have 
 a stranger's momentary misidentification in a tent — and a person who mistakes a figure for a monk
 has demonstrated something about the lighting and about expectation before it has demonstrated
 anything about the figure. Nor does the tradition she is reporting from speak with one voice about
-it. Two paragraphs later she writes that Tibetans disagree in their explanations of such phenomena,
+it. In the very next paragraph she writes that Tibetans disagree in their explanations of such phenomena,
 *"some think a material form is really brought into being, others consider the apparition as a mere
 case of suggestion, the creator's thought impressing others and causing them to see what he himself
 sees."*
@@ -158,7 +158,7 @@ the action for the result, since the emanated one is *sprul sku*, the word that 
 — is a twentieth-century Theosophical adaptation layered onto a fragment of Tibetan doctrine, and
 runs to us through her book rather than through any monastic curriculum. The atlas has not gone to a
 Tibetological primary source for this and grades it accordingly: encyclopedic and secondary, held at
-that strength, flagged for anyone who can do better.
+that strength, flagged for anyone who can do better.[^2]
 
 Which settles what the book calls these things. *Tulpa* is named once, here, credited to the
 tradition it was taken from and to the traveller who mistranslated it, and then not used as a term —
@@ -170,8 +170,8 @@ own meaning.** A term that arrived in English through a mistranslation, and that
 duty ever since for a practice its source language did not name, is a poor instrument for
 establishing that an entity is what it is said to be. It cannot even establish that about itself.
 
-The book's word is **thought-form**, which is Besant and Leadbeater's English coinage of 1901 and
-which says what it means in two words the reader already owns. It is a tradition's word rather than
+The book's word is **thought-form**, which Besant and Leadbeater fixed in English with their book of
+1901, and which says what it means in two words the reader already owns.[^3] It is a tradition's word rather than
 the marketing layer's, and it is glossable, and those are the two tests.
 
 ---
@@ -284,7 +284,7 @@ and the size of it is the part nobody expects. W. Dewi Rees interviewed nearly e
 in a defined area of mid-Wales and published the result in the *British Medical Journal* in 1971 as
 "The hallucinations of widowhood": of two hundred and ninety-three people, 46.7 per cent reported
 encounters with their dead spouse — most often a sense of presence, sometimes seen, sometimes heard —
-and a third of the sample were still having them at interview.
+and a third of the sample were still having them at interview.[^4]
 
 The finding that matters for the census is in the same paper and is usually left out of the citation.
 Sixty-nine per cent found the experiences helpful. Six per cent found them unsettling. **Which makes
@@ -306,7 +306,7 @@ in the plural and never cited. Beischel, Boccuzzi, Biuso and Rock, *Anomalous in
 by research mediums under blinded conditions II*, in EXPLORE, volume 11, number 2, 2015, pages
 136–142: fifty-eight readings, five levels of blinding, a significant difference between target and
 decoy readings at p = .01. It is a real study, methodologically more careful than its subject matter
-usually attracts, and it replicates an earlier result from the same group.
+usually attracts, and it replicates an earlier result from the same group.[^5]
 
 **And it is one small laboratory, and the prior against it is enormous, and none of that is the
 census's objection.** The census's objection is structural and it survives even if the result is
@@ -398,12 +398,12 @@ has *kami* — the presences of particular waterfalls, particular rocks, particu
 individually because they are individual. Norse practice had the *landvættir*, the land-wights, and
 one redaction of the Icelandic *Landnámabók* preserves a provision of the old heathen law requiring
 a ship to take down any prow-carving with a gaping mouth before it came in sight of land, so as not
-to frighten them — a thirteenth-century record of an older custom, which is the grade of the
-evidence and is stated rather than smoothed. Greece had dryads in named trees and nymphs in
+to frighten them — a record made around 1306 of a custom already centuries dead, which is the grade
+of the evidence and is stated rather than smoothed.[^6] Greece had dryads in named trees and nymphs in
 named springs. Indigenous animist traditions worldwide have their own, in numbers no catalogue will
 finish. And in the twentieth century the Findhorn community in Scotland reported working
 horticultural instructions received from what they called the devas of particular plants, which is
-the same claim arriving in a context with a control group available and rarely run.
+the same claim arriving in a context with a control group available and rarely run.[^7]
 
 Later occult literature gathers all of them under *elementals* and sorts them by the four classical
 elements. None of the traditions above needed that word or that sorting, and neither will this
@@ -611,14 +611,15 @@ and Ibn ʿArabī, he found a category the modern West had lost: an intermediate 
 al-mithāl, which he rendered in Latin as *mundus imaginalis* — "a world as ontologically real as the
 world of the senses and the world of the intellect, a world that requires a faculty of perception
 belonging to it, a faculty that is a cognitive function, a noetic value, as fully real as the
-faculties of sensory perception or intellectual intuition."
+faculties of sensory perception or intellectual intuition."[^8]
 
 The trouble was that any English or French word for that faculty dragged the whole thing back into
 fiction on arrival. As he put it, the faculty in question is "the one we must avoid confusing with
 the imagination that modern man identifies with 'fantasy' and that, according to him, produces only
 the 'imaginary.'" So he coined **imaginal** for what belongs to that world, against **imaginary** for
 what is merely made up, and spent the rest of the lecture on Sohravardī's own term for the place —
-*Nā-kojā-Ābād*, which occurs in no Persian dictionary because Sohravardī built it, and which means
+*Nā-kojā-Ābād*, which occurs in no Persian dictionary and was coined, so far as Corbin knew, by
+Sohravardī himself, and which means
 the land (*ābād*) of No-where (*Nā-kojā*). Corbin refuses the obvious translation: rendering it
 *utopia* would be etymologically defensible and, he says, a mistranslation with respect to the
 concept, the intention and the true meaning. A utopia is a place that is nowhere because it does not
@@ -642,7 +643,7 @@ clause this chapter is in the market for.**
 
 In establishing the mode of being of what is in that world, Corbin writes: "It should be acknowledged
 that forms and shapes in the mundus imaginalis do not subsist in the same manner as empirical
-realities in the physical world; otherwise, anyone could perceive them."
+realities in the physical world; otherwise, anyone could perceive them."[^9]
 
 Read the *otherwise*. The reason nobody can check is built into the same sentence that establishes
 the thing — not appended later under pressure, not a retreat, but load-bearing structure. It is the
@@ -698,3 +699,146 @@ confidence and one of them was called the most confident in the chapter. Whether
 and proceeding at full strength is discipline or ceremony is exactly the sort of question a party
 cannot answer about itself, for the reason given twice already on this page. It is written down here
 so that somebody else can.
+
+---
+
+[^1]: Alexandra David-Néel, *Magic and Mystery in Tibet*, pp. 314–315; translated from *Mystiques et
+magiciens du Thibet* (Paris: Plon, 1929), and first published in English as *With Mystics and
+Magicians in Tibet* (London: John Lane / The Bodley Head, 1931). **All six block quotations in this
+section were diffed against a full digitisation and are verbatim** — including the run-on comma in
+*"so I decided to dissolve the phantom, I succeeded,"* which is hers and is not reproduced here
+because the chapter starts its quotation at *I succeeded*. ★ **The digitisation is the Souvenir Press
+(London, 1967) printing, not the 1965 University Books printing named above, and that is a smaller gap
+than it looks**: the Souvenir copyright page reads *"© Copyright 1965 by University Books Inc. / First
+published by University Books Inc., New York / First published in England 1967"* — it is the same
+setting, reissued, and its page numbers and running heads agree with the text as cited. The chapter's
+claim about the running heads is confirmed on the page: the verso head reads WITH MYSTICS AND
+MAGICIANS. **One repair was made on this evidence.** The chapter read *"Two paragraphs later she
+writes that Tibetans disagree…"*; in the source that paragraph is the one immediately following the
+*others see the thought-forms* sentence. Corrected to *"In the very next paragraph."* ⚠ **And the
+elision between the second and third quotations is larger than the connective sentence admits** —
+five sentences are dropped, including *"The monk included himself in the party"* and the detail that
+he eventually appeared without being thought of. The chapter's *"She broke her retreat and travelled,
+and the monk came along"* is accurate about all of it and shorter than all of it, which is the class of
+compression this book keeps naming [[feedback_quotation_connective_tissue]].
+
+[^2]: The Tibetan etymology — *sprul pa* as emanation, Sanskrit *nirmita*, *sprul sku* → *tulku* —
+is held at exactly the grade the paragraph declares: **encyclopedic and secondary, no Tibetological
+primary consulted.** ⚠ The retrofit did not upgrade it and should not be read as having done so. What
+would upgrade it is a Tibetan–English lexicographic source on *sprul pa* / *sprul sku* and a
+philological treatment of the term's Theosophical adaptation; both exist and neither was opened. The
+claim that David-Néel "took the action for the result" is the standard correction and is repeated here
+on the strength of that standard, which is a citation of a consensus rather than of a text. **Named as
+the weakest-sourced paragraph in the chapter.**
+
+[^3]: Annie Besant and C. W. Leadbeater, *Thought-Forms: A Record of Clairvoyant Investigation*
+(London: Theosophical Publishing Society, 1901). **One repair was made here and the chapter was
+wrong in a way that mattered.** It read *"Besant and Leadbeater's English coinage of 1901."* The book
+is 1901 and that is right; the *coinage* is not theirs and not 1901. Besant published an article
+titled "Thought-Forms" in *Lucifer* in **September 1896**, five years earlier, reporting two
+clairvoyant Theosophists observing "the substance of thought" — and the underlying doctrine that
+thoughts are entities is older still, in the Mahatma letters to Sinnett. Rewritten to *"fixed in
+English with their book of 1901,"* which is what the evidence supports. ★ **The failure shape is worth
+keeping**: the chapter needed the word to have a clean traditional pedigree, because it had just
+disqualified *tulpa* for having a dirty one, and it awarded the pedigree without checking. **The test
+the chapter applied to somebody else's word it did not apply to its own.**
+
+[^4]: W. Dewi Rees, "The hallucinations of widowhood," *British Medical Journal* 4, no. 5778 (2
+October 1971): 37–41. **Verified against the paper's own abstract:** the sample is 227 widows and 66
+widowers — 293, as printed — the area is "a defined area, in mid-Wales," and the finding is that
+"almost half the people interviewed had hallucinations or illusions of the dead spouse." ⛔ **Two
+figures in this paragraph are NOT primary-verified and the chapter leans on both.** The 46.7 per cent,
+the 69 per cent who found the experiences helpful and the 6 per cent who found them unsettling are
+carried here on **secondary witnesses only** — the full text is a 1971 scan that this pass could not
+extract — and they are two-witness rather than two-digitisation, in the same sense IV.6 gave that
+phrase. ⛔ **Worse: "a third of the sample were still having them at interview" could not be sourced
+at all, at any grade.** It is marked UNVERIFIED at the point of use rather than in a footer nobody
+reads [[feedback_disclaimer_not_coupled_to_verdict]], and filed with R-144's trigger: the scan before
+this volume ships. The paragraph's *argument* — that the clinical word imports a pathology the paper's
+own numbers refute — survives on the two verified findings alone, which is why the sentence was not
+pulled.
+
+[^5]: Julie Beischel, Mark Boccuzzi, Adam Biuso and Adam J. Rock, "Anomalous Information Reception by
+Research Mediums Under Blinded Conditions II: Replication and Extension," *EXPLORE: The Journal of
+Science & Healing* 11, no. 2 (March–April 2015): 136–142. **Every specific in the chapter's sentence
+checks out**: n = 58, P = .01 for the comparison between blinded target and decoy readings; the design
+is described by the authors as *quintuple-blinded*, which is the chapter's "five levels of blinding";
+and "Replication and Extension" is the paper's own subtitle, so the claim that it replicates an
+earlier result from the same group is the authors' claim and not the chapter's inference. ⚠ **The one
+thing the note will not launder is the denominator's provenance:** this is a single laboratory
+reporting a replication of itself, which the chapter says, and which no amount of correct citation
+improves.
+
+[^6]: *Landnámabók*, the Úlfljótslög preamble — "that men should not have ships with heads at sea,
+and if they had, they should take the heads off before they came in sight of land, and not sail to
+land with gaping heads or yawning snouts, so that the landvættir should not be frightened." **One
+repair was made and it crosses a century boundary.** The chapter read *"a thirteenth-century record."*
+The passage survives in the **Hauksbók** redaction, written by Haukr Erlendsson **c. 1306–1308** —
+early fourteenth century. Sturlubók, the thirteenth-century redaction (c. 1275–80), is the one the
+date would have been true of, and is not the one carrying this. Corrected to *"a record made around
+1306."* ⚠ **A second thing, caught in passing and left as a warning rather than a repair:** the
+translation that circulates most widely online renders the carvings as being on the ships' *sterns*.
+That is a corruption of *stems* — the prow — and the chapter's "prow-carving" is right. **The error is
+in the source that would have been most convenient to quote**, which is the argument for having gone
+past it. Old Norse *höfuðskip* and the *gínandi trjónum* of the original both put the head forward.
+
+[^7]: ⛔ **The Findhorn sentence is the one source in this chapter carrying no citation at all, and
+the retrofit is declaring that rather than quietly repairing it.** The claim — that the community in
+Moray reported receiving horticultural instruction from plant *devas* — is not in dispute and is
+documented in the community's own literature from the late 1960s onward, but no edition was opened
+during this pass and none is named here. It is therefore **assertion-grade**: weaker than everything
+else on this page. ★ It also carries the chapter's own most pointed line — "a context with a control
+group available and rarely run" — which is a methodological criticism levelled at a body of work this
+note has just admitted it has not read. **That is the wrong order and the chapter keeps it anyway**,
+because the criticism is structural rather than about any particular claim; but a structural criticism
+made from outside a literature is worth less than one made from inside it, and this one is priced
+accordingly. Filed for the revision pass.
+
+[^8]: Henry Corbin, "Mundus Imaginalis, or the Imaginary and the Imaginal," delivered at the
+Colloquium on Symbolism, Paris, June 1964, and printed in *Cahiers internationaux de symbolisme* 6
+(Brussels, 1964): 3–26. ⛔ **The chapter quotes English and dates it to 1964, and those are two
+different objects.** The English printed here is **Leonard Fox's translation**, in Corbin's *Swedenborg
+and Esoteric Islam* (West Chester, PA: Swedenborg Foundation, 1995) — thirty-one years after the
+occasion the chapter names. All four Corbin quotations in this section were diffed against that
+translation and are **verbatim**, including the *"where"* sentence and the *utopia* passage, whose
+paraphrase here ("etymologically defensible and … a mistranslation with respect to the concept, the
+intention and the true meaning") tracks Fox's "Etymologically and literally, it would perhaps be exact
+… and yet with regard to the concept, the intention, and the true meaning, I believe that we would be
+guilty of mistranslation." **One repair was made**: the chapter read that *Nā-kojā-Ābād* "occurs in no
+Persian dictionary because Sohravardī built it," flattening Corbin's own hedge — he writes "it was
+coined, *as far as I know*, by Sohravardī himself." The hedge is restored. ★ **This is the exact defect
+IV.6 filed against itself, arriving in the next chapter**: quoting a later restatement and attributing
+it to the original address [[feedback_compression_that_keeps_truth]]. The difference is that IV.6
+caught it and this chapter did not, until the retrofit.
+
+[^9]: ⛔ **And here the two English translations disagree, in the one clause the chapter's argument
+rests on.** Fox has *"otherwise, anyone could perceive them."* The earlier anonymous English version —
+the condensed text printed in *Spring* (Zürich, 1972), which omits material by the author's permission
+— has *"otherwise anyone would have the **right** to perceive them."* Those are not stylistic variants.
+**The chapter reads the clause as an unfalsifiability device**: nobody *can* check, and the reason
+nobody can check is built into the sentence that establishes the thing. That reading needs *could* —
+a claim about **capacity**. On *right*, Corbin is saying something weaker and more ordinary: that a
+mode of being requires an appropriate faculty and is not owed to every observer, which is a claim
+about **entitlement** and does not pre-emptively excuse anyone's failure to replicate. ⚠ **The
+paragraph that follows is the chapter's refusal of that clause, and on the second translation there is
+substantially less to refuse.** The French of 1964 is the arbiter and **was not consulted** — the
+*Cahiers internationaux de symbolisme* text was not reachable in this pass. Filed with R-144 under the
+same trigger as the Searle divergence, which is the same defect: a load-bearing quotation whose
+variants are not stylistic, chosen without the chooser noticing there was a choice.
+
+---
+
+*The standing note on grade.* **This chapter's apparatus is strongest exactly where the chapter's
+argument is weakest, and that is not a coincidence — it is [[feedback_instruments_go_where_instruments_are_cheap]]
+for the second book running.** [^1] is two-digitisation-grade on a source the chapter itself spends
+four paragraphs discounting; the David-Néel material got the most verification in the chapter and
+carries the least weight in it, because the chapter had already ruled that one uncorroborated report
+does not reach. Meanwhile [^7] — Findhorn — has **no citation of any kind**, and [^2] rests on a
+consensus rather than a text, and both of those sit under the section the chapter calls "the cheapest
+entry in the tier." ⛔ **And the two places where the retrofit actually changed what the chapter can
+claim are both quotations that were verbatim-correct and still wrong**: the Besant coinage ([^3]) and
+the Corbin *otherwise* ([^9]). Neither was a misquotation. One was a false pedigree awarded to the
+book's own preferred word by the same test it had just used to disqualify somebody else's; the other
+is a translator's choice the chapter mistook for the author's, in the clause its whole refusal turns
+on. **Diffing the span would have caught neither.** That is the finding of this retrofit and it is
+larger than this chapter: *the span-check is not the check.*
