@@ -21,8 +21,9 @@ Six statements, with nothing said yet about who made them.
 Plotinus, teaching in Rome in the two hundreds, on the One that is beyond being. The Upanishads,
 *neti neti* — not this, not this — some centuries earlier and four thousand miles east. *Ein Sof*,
 the Without-End, in the Jewish mystical schools of Provence and Girona around 1200. Meister Eckhart,
-preaching in the Rhineland around 1300, on the distinction between God and the Godhead. Thomas
-Aquinas, Paris, in the twelve-sixties, on *actus purus*. The school of Ibn Arabi, Andalusia to
+preaching in the Rhineland in the thirteen-twenties, on the distinction between God and the
+Godhead. Thomas
+Aquinas, Rome, in the twelve-sixties, on *actus purus*. The school of Ibn Arabi, Andalusia to
 Damascus, on *waḥdat al-wujūd* — the oneness of being.
 
 Every one of those is a description of the Ground. Not a distant relative of one, not a poetic

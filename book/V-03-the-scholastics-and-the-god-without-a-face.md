@@ -7,7 +7,7 @@ Three men, three cities, three languages, and all three of them said the thing t
 That sentence is the problem and not the achievement, and the chapter has to start by taking it
 apart, because in the form just given it is worth nothing.
 
-The previous chapter ended on Aquinas in Paris, Eckhart preaching in Cologne and Maimonides ruling
+The previous chapter ended on Aquinas in Rome, Eckhart preaching in Cologne and Maimonides ruling
 in Cairo, and it ended there for a reason that had to do with loss: a reader who left the church
 because the face went should know that the tradition's own best minds let the face go first and
 stayed. That was the point being made and it was made. It is not the point here. Here the question

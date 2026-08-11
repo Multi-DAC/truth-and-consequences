@@ -3834,3 +3834,121 @@ cannot key on. (b) R-158 above was pushed at me as a lesson-board trigger this b
 be found by a subagent. **Two lessons, both filed, both correct, both inert at the moment of use. A
 lesson that reports is not a lesson that prevents.**
 [[feedback_reporting_gauge_is_not_preventing_gauge]]
+
+---
+
+**FILED AND PAID — R-158: THE THREE-SITE AQUINAS FIX IS DONE, AND THE POPULATION GREP IT OWED
+FOUND A SECOND INSTANCE OF THE SAME CLASS.**
+
+All three sites now read **Rome**, edited together in one pass:
+
+- `V-01-what-a-tradition-is.md:25` — *"Thomas Aquinas, Rome, in the twelve-sixties, on `actus purus`."*
+- `V-02-the-church-the-reader-left.md:256` — the instance R-152 named.
+- `V-03-the-scholastics-and-the-god-without-a-face.md:10` — the recap that propagates it forward.
+
+**The owed population grep is now an instrument, not a grep:** `tools/placement_sweep.py`. It
+windows every person-mention to its own *sentence* — a placement claim is a clause, not a
+character span; the first draft used ±140 chars and duly reported Aquinas in Andalusia, Damascus,
+Girona and Provence, every one of them belonging to the next sentence — then extracts place- and
+date-tokens within ±60 characters and groups by person across chapters. Run over all 67 chapters:
+**196 person-mentions, 7 names placed in more than one city, 3 dated to more than one period.**
+Every surviving row was read. Most are the artefact of one sentence naming three men and three
+cities. Two were real.
+
+⛔ **AND THE SECOND REAL ONE IS A DATE, WHICH IS WHY AN AQUINAS-SHAPED GREP WOULD NEVER HAVE FOUND
+IT.** V.1 read *"Meister Eckhart, preaching in the Rhineland around 1300, on the distinction between
+God and the Godhead."* Eckhart was not preaching in the Rhineland around 1300. He was prior at
+Erfurt from 1293–4, held the Paris chair as `magister actu regens` from 1302, was provincial of
+Saxony after that, and returned to Paris for a second regency in 1311. **He left Paris for
+Strasbourg in the summer of 1313**, and the vernacular preaching this book is actually leaning on
+runs from there — Strasbourg and the Alsace to about 1323, then Cologne from 1323–4. (Stanford
+Encyclopedia of Philosophy, *Meister Eckhart*, §1 Life, citing McGinn 2001 and Senner 2013; fetched
+live this breath, not recalled.) Corrected to **"in the thirteen-twenties."** The region survives;
+the date was out by two decades, in the same sentence-shape as the Aquinas error and one clause
+away from it.
+
+★ **The class is now three deep — IV.9's Irenaeus, V.2's Aquinas, V.1's Eckhart — and every one is a
+provenance error under correct content.** The doctrine is right; the address is wrong; and the
+address is what makes a sentence read as researched. This is the signature defect of the book's
+source handling and should be assumed present, not hoped absent, in any chapter not yet swept.
+
+⚠ **THE SWEEP'S NEGATIVE RESULT IS WEAKER THAN IT LOOKS AND MUST NOT BE QUOTED AS A CLEAN BILL.**
+Books I–IV and VI–VIII returned no new divergence. But the tool compares the book *to itself*: three
+chapters said "Aquinas in Paris", agreed perfectly, and were all three wrong. **A consistent
+placement is UNCHECKED, not clean.** The gazetteer is a fixed list built by reading this corpus, so
+a city the book mentions nowhere else is invisible to it. [[feedback_correlated_witness_needs_a_channel]]
+[[feedback_denylist_encodes_the_corpus_as_it_was]] [[feedback_zero_needs_a_positive_control]]
+
+---
+
+**FILED AND PAID — R-157: THE ROSTER IS REBUILT, AND WHAT WAS WRONG WAS THE BAND BOUNDARY, NOT THE
+LIST.**
+
+`book/BOOK-V-ROSTER.md` is rebuilt from the five blind outputs. R-156's gate — the one that replaced
+R-152's — is closed.
+
+**The repair R-159 pointed at, made explicit.** The blind readers were not disagreeing about what is
+in the chapters. They were merging three different debts into one column. Split them and the noise
+resolves:
+
+| band | test | owes |
+|---|---|---|
+| **NAMED** | a proper name on the page — person, titled text, named tradition | **an endnote** |
+| **FORMULA** | a technical term or doctrine in its own language, no text behind it | a **locus** |
+| **UNNAMED** | a definite referring phrase to a body of evidence with no name in it | **not an endnote** — a found citation, a hedge, or deletion |
+| **INTERNAL** | a cross-reference to this book | nothing |
+
+That is why V.11 came back 63 from one reader and 58 from another with near-identical name sets.
+Both were counting all four bands at once.
+
+**The gauge that can refute the rebuild: `tools/roster_verify.py`.** It checks every NAMED and
+FORMULA entry against its chapter's prose, whitespace-collapsed so a hard-wrapped name still
+matches. 132 entries, all present, exit 0.
+
+⛔ **AND IT CAUGHT ITSELF ON ITS FIRST RUN, in the exact class it was built for.** *"The Hebrew
+prophets"* came back ABSENT from V.1. It is there — inside a card, wrapping as `The Hebrew\n>
+prophets`, so collapsing whitespace alone leaves `The Hebrew > prophets`. **I diagnosed the hard
+wrap this morning, built the fix for the hard wrap, and left its sibling artefact standing in the
+very tool written to catch it.** The blockquote marker is now stripped at line-start.
+[[feedback_repair_scoped_to_named_cause]]
+
+**Three findings out of the rebuild that were not in the blind outputs as such:**
+
+1. **V.9 has ONE named external source in the whole chapter** — Kenneth Arnold. Not a shortfall in
+   the roster; a property of the prose. The 1966 book is untitled and its author unnamed, the couple
+   unnamed, the 1987 "novelist" unnamed, and the sensor record, the hearings, the government review
+   and *"the source material"* that supplies the chapter's three readings are all definite
+   description with no name in them. Both instruments key on capitalized tokens, so both are blind
+   to the entire evidentiary base of the chapter. **R-151 is the first instance of that, not an
+   isolated slip.**
+2. **V.4 names four men and cites not one of their books.** The cleanest NAMED/UNNAMED split in the
+   volume, and the reason the two bands must never share a column.
+3. **V.6's Plotinus, Proclus and Dionysius are ACTORS here, not sources** — links in a transmission
+   chain, not cited doctrine. Both blind readers banded them that way independently, with no channel
+   between them. The old roster listed all three as V.6 sources. That was mine.
+
+---
+
+**FILED — R-160: THE UNNAMED BAND IS THE LARGER DEBT AND NOTHING MEASURES IT.**
+
+The rebuilt roster makes visible what a single count was hiding. In **V.4, V.8, V.9 and V.11 the
+unnamed appeals outnumber the named sources**, and in V.9 by roughly fifteen to one. These are
+definite referring phrases doing real evidentiary work with no name in them: *"the measurements that
+exist"*, *"nearly every popular account"*, *"four hundred years of failure records"*, *"the modern
+habit"*, *"the source material"*, *"general knowledge and standard reference scholarship"*.
+
+**An endnote apparatus cannot pay this debt** — there is nothing to attach a receipt to. Each one
+owes one of three things and the choice is editorial: find the citation, hedge the claim down to
+what the absence of one supports, or cut it.
+
+⛔ **THIS IS WHERE THE APPARATUS GOES GREEN WHILE THE BOOK IS STILL WRONG.** `endnote_debt.py` counts
+receipts against named sources. Pay every NAMED entry in Book V and the column turns green with the
+UNNAMED band untouched — an apparatus certifying the half of each chapter that was never in doubt,
+in the volume whose entire subject is what a tradition can and cannot warrant. **The gauge is built
+in the direction that is cheap to instrument, which is also the flattering one.**
+[[feedback_guard_built_in_the_feared_direction]] [[feedback_instruments_go_where_instruments_are_cheap]]
+
+**Owed:** an instrument that enumerates definite-description appeals per chapter, or an explicit
+written ruling that the book accepts them at a declared grade. V.11 already does exactly that for
+itself at line 275 and is the model. **TRIGGER: before any `covered` figure for Book V is quoted as
+progress.** high.

@@ -253,7 +253,7 @@ taken away and cannot be put back. That is how it is met by somebody who prayed,
 loss comes first here.
 
 It is not how it was met by the tradition's own best minds, and they are not heretics at the edge of
-it. Aquinas, in Paris in the twelve-sixties, writing the central document of the institution: God is
+it. Aquinas, in Rome in the twelve-sixties, writing the central document of the institution: God is
 *actus purus* — act with nothing in it left over unrealised — and therefore not a being among beings,
 not a member of any class, not an entry on any list that also has other entries. He says it, he keeps
 saying it, and he goes on writing prayers. Eckhart, preaching in German to people who could not read

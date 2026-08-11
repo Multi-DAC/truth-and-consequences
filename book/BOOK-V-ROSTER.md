@@ -1,72 +1,155 @@
-# BOOK V — HAND ROSTER OF SOURCES
+# BOOK V — ROSTER OF SOURCES
 
-## ⛔ STATUS: REFUTED BY THE SECOND PASS (Day 192, later the same day). DO NOT USE THE `real:` FIGURES BELOW.
+## STATUS: REBUILT from the blind pass, Day 192. Gauge: `python tools/roster_verify.py`.
 
-R-156 called this file a hypothesis and owed it a second pass by something that is
-not me. **The pass ran — five blind readers, no roster, no gauge output, no names
-supplied, method only — and it refuted the roster.** The `real:` figure on every
-chapter line below is an undercount, and the undercount is *not* small.
+This file was refuted once already today and the refutation is kept below, because a
+file that quietly becomes correct teaches nothing. **What changed in the rebuild is not
+the list. It is the band boundary** — which is what R-159 found was actually moving.
 
-The instance that settles it is **V.11**, the one chapter this file calls *"the
-only chapter where the gauge is essentially right."* Roster: **5**. Named
-authorities actually in the prose, each verified by grep after the readers
-reported them: **18** — Augustine, Maimonides, Śaṅkara, Zhuangzi, Dionysius,
-Cusanus, Harner, Spare, Guénon, Wilber, Huxley, Schuon, Stace, Huston Smith,
-Coomaraswamy, Steuco, Katz, Forman.
-
-**And the chapter names its own roster, at line 275, in its own closing note:**
-
-> Huxley, Schuon, Stace, Steuco, Guénon, Coomaraswamy, Katz, Forman and Wilber are
-> named in this chapter **from general knowledge and standard reference
-> scholarship.**
-
-Nine names, listed by the chapter itself, with a grade attached and two flagged
-load-bearing. **Two of those nine are on the roster line below.** I enumerated
-this chapter *against the prose* and did not read the paragraph in which the prose
-enumerates itself.
-
-**The direction is the finding.** This was the chapter I marked clean. The roster's
-scrutiny went where I expected the gauge to fail and stopped where I expected it to
-pass, so the error survives precisely where nothing was looking.
-[[feedback_scrutiny_is_motive_shaped]] [[feedback_guard_built_in_the_feared_direction]]
-
-Blind outputs: `review/BLIND-V/blind-{A..E}-*.md`. Full account: **R-157**.
-Counts are **not** comparable between readers — see **R-159** before quoting any
-number from any of these files.
+**Progress in Book V is reported as NAMES COVERED. Never as a count, a ratio or a
+percentage.** Two blind readers given the same chapter and the same method returned 63
+and 58 with near-identical name sets. The disagreement was entirely in where each drew
+the line around "source", not in what either of them saw. A number from this file
+therefore measures the reader, and the only thing that survives between readers is
+**which names are on the page**.
 
 ---
 
-*Day 192. The gate item before any Book V endnote is written.*
+## The bands, stated so they can be applied the same way twice
 
-## Why this file exists
+| band | test | what it owes |
+|---|---|---|
+| **NAMED** | a proper name is on the page — a person, a titled text, or a named tradition/school/movement | **an endnote.** This is the apparatus queue. |
+| **FORMULA** | a technical term or doctrine given in its own language, quoted or glossed, with no text behind it | a **locus** — which work, which section. Cannot be endnoted to a person. |
+| **UNNAMED** | a definite referring phrase to a body of evidence, scholarship or practitioners, with no name in it — *"the modern habit"*, *"the measurements that exist"*, *"the alchemists"* | **not an endnote.** Owes a found citation, a hedge, or deletion. Filing these as sources is what inflated every count. |
+| **INTERNAL** | a cross-reference to this book's own chapters, books, claim codes or artefacts | **nothing.** In-text pointer is the citation. |
+| ACTOR / MENTION | a figure inside a source; a name in passing carrying no weight | nothing — listed only where it would otherwise be miscounted |
 
-`endnote_debt.py` reports **30 sources across Book V's eleven chapters**. That
-number was carried in the handoff as a *floor of unknown depth*, on the evidence
-of one chapter: V.2, where the tool reports 0 and hand enumeration found four.
+**The three bands the blind readers merged were NAMED, UNNAMED and INTERNAL.** Reader D
+returned 63 for V.11 and reader E returned 58; both were counting all three at once.
+Split them and the readers agree almost exactly on the first band, which is the only one
+the apparatus can act on. *That* is why the second pass looked like chaos and was not.
 
-This is the enumeration of all eleven, against the prose. The 30 is not a floor
-under a roughly-right figure. **It is a different set from the real one** — wrong
-in both directions at once, and wrong for five separately locatable reasons.
+---
 
-⛔ **DO NOT WRITE A BOOK V NOTE AGAINST THE GAUGE'S LIST.** A receipt attached to
-`Hampshire` and `Doubt` while `Zhuangzi` and `Isaac Luria` carry none is worse
-than no apparatus: it is an apparatus that certifies the wrong set, and the
-`covered` column would have gone green while it did so.
+## The roster
 
-## The headline, in one row
+Every NAMED and FORMULA entry below is checked against the chapter's own prose by
+`tools/roster_verify.py`, whitespace-collapsed so a hard-wrapped name still matches.
+`(as "x")` gives the form the prose actually uses where it differs.
 
-**V.1's single reported source is `Aristotle`.** It is extracted from the clause
+### V.1 — what a tradition is
+- **NAMED**: Plotinus · Proclus · Dionysius the Areopagite · Meister Eckhart · Thomas Aquinas · Ibn Arabi · Upanishads · Dao De Jing · The Theology of Aristotle · Neoplatonism (as "NEOPLATONISM") · Kabbalah · Sufism · Hebrew prophets · Baghdad translation movement · Zen ox-herding pictures · Vajrayāna · Mazatec · Amazonian ayahuasquero · Siberian drum · Vedic ascetic · Ein Sof · hesychast on Athos
+- **FORMULA**: neti neti · waḥdat al-wujūd · henosis · fanāʾ · baqāʾ · kaivalya · dhikr
+- **UNNAMED**: the six opening block statements (deliberately unattributed) · the ninth-century Latin translation of the Dionysian corpus (no translator) · the Alexandrian schoolroom · India's earliest statements of the doctrine · the attested traffic of Greeks returning from the east · the multi-technique evidence for cells · the instrumented study of altered states · the deflationary objection (no proponent) · the perennialist claim (no perennialist) · the petitionary-prayer discovery in each branch · standard reference scholarship (the chapter's own declared warrant)
+- **INTERNAL**: Book II (twice) · Book IV's census · Books I–IV · the atlas (twice) · Book I · the game frame · Book V, Book VII (forward)
+- ⚑ **Aristotle is a MENTION, not a source.** He appears only inside the title *The Theology of Aristotle* and inside the misattribution the chapter exists to diagnose. The gauge extracted him as V.1's single source. He is the wrong name in the one sentence whose subject is the wrongness of the name.
 
-> the Islamic philosophical tradition received Neoplatonism under **Aristotle's
-> name**, which is a transmission so thorough that its recipients did not know
-> whose it was
+### V.2 — the church the reader left
+- **NAMED**: Tillich · Aquinas · Eckhart · Maimonides · Advaita · Institutional Christianity (as "INSTITUTIONAL CHRISTIANITY")
+- **UNNAMED**: the list and the woman who keeps it · the liturgy · the liturgical calendar (four seasons, none named) · the November commemoration of the dead · the rite of private confession · the formula of absolution (glossed, never quoted) · the book of the names of the dead · the therapist / the modern replacements · *"every serious alternative on the market"* · the record of clerical abuse and finance · the churches that fixed authority substitution · the central document of the institution (the *Summa*, never named) · Eckhart's German sermons (no sermon, no edition) · Maimonides's ruling (the work never named) · **the Dao De Jing — referred to only by its opening claim, the text never named** · the popular religion
+- **INTERNAL**: the census · this project's front matter · the atlas · this book's method · the earlier cut against a friendly opponent
+- ⚑ R-158 lives here: *"Aquinas in Paris"* is in **three** chapters, not this one alone.
 
-— a sentence whose entire purpose is to say that this is the **wrong name**. The
-chapter is about misattribution. The gauge read the misattribution and committed
-it. The three real authorities of that passage — Plotinus, whose excerpts these
-are; Proclus; and Dionysius — are all invisible to it.
+### V.3 — the scholastics and the god without a face
+- **NAMED**: Plotinus · Proclus · Dionysius · Augustine · Confessions · Aquinas · Maimonides · Eckhart · Baghdad translation movement
+- **FORMULA**: actus purus · ipsum esse subsistens · Gott · Gottheit · the transcendentals · the Trinity
+- **UNNAMED**: the ninth-century Latin corpus (no translator) · the Jewish philosophical tradition Maimonides writes inside · the two quoted Augustine passages (no work, no translator) · the sixteen-hundred-year reception of that phrase · Augustine's explicit statement about understanding (passage unnamed) · the classical theologians · the objection from the theologian's side · the objection from the other side · the central document of the institution · the scholastic apparatus · the later readers who soften Maimonides · the apophatic traditions · the passages asserting no position and no inside (*"the same books, sometimes on the same page"* — no book, no page) · Aquinas's corpus
+- **INTERNAL**: V.2 · V.1 · Book II · the atlas (three distinct rulings) · this book's five denials · the Focusing
 
-## The five causes, each with its instance
+### V.4 — the atheism that was right about the wrong thing
+- **NAMED**: Richard Dawkins · Christopher Hitchens · Sam Harris · Daniel Dennett · New Atheism
+- **UNNAMED**: all four men's arguments — *not one work is titled anywhere in the chapter* · "those books" and their sales · the three italicised specimen religious claims · historical-critical scholarship · textual criticism · the doctrine that faith is a virtue · the road-books (the contemplative manuals, as a corpus) · the contemplative-neuroscience finding · the three-centuries-of-compulsory-apologetics claim · the forty-years-of-standard-trade claim
+- **INTERNAL**: the atlas (quoted verbatim) · V.1 · the book's declared lean
+- ⚑ The chapter names four men and cites none of their books. That is the cleanest NAMED/UNNAMED split in Book V and the reason the two bands must not share a column.
+
+### V.5 — the east: one ground, many localisations
+- **NAMED**: Chāndogya Upaniṣad · Śaṅkara · Advaita · Nāgārjuna · Madhyamaka · Anattalakkhaṇa Sutta · Dao De Jing · Zhuangzi · Huayan · Avataṃsaka Sūtra · Fazang · Francis Cook · Vedas · Buddhism
+- **FORMULA**: tat tvam asi · anattā · mithyā · bādha · śūnyatā · svabhāva · wu wei · zuowang
+- **UNNAMED**: the translation of the salt-and-water block quote (no translator) · the rendering of the *tat tvam asi* refrain (a second, older register — possibly a second translation) · dating scholarship for the *Chāndogya* · the Advaitin stock joke · the rope-and-snake stock case · the Indian philosophical record of the Advaita–Buddhist dispute · the discourse recording the Vacchagotta silence (never named) · **the Nāgārjuna work quoted in the block at 145–146 — attributed by adjacency only** · the translation of that block · the *zuowang* translation ("the Great Thoroughfare" is a translator's choice presented as the text) · the mirror-room anecdote ("reportedly") · Cook's 1977 exposition (title never given) · the standard English practice for *wu wei*
+- **INTERNAL**: V.1 (three prior rulings) · the book's own survey of every road
+- ⚑ ACTORS, all inside the sources above and none of them a source: Śvetaketu · Uddālaka Āruṇi · the Buddha · Vacchagotta · the five ascetics · Cook Ding · Lord Wenhui · Yan Hui · Indra · Empress Wu. **The gauge reported three of these as V.5's sources and missed every author they belong to.**
+- ⚑ Laozi is never named. *Zhuangzi* is named as a book and never as a person.
+
+### V.6 — the room that was never emptied
+- **NAMED**: Isaac Luria · Chaim Vital · Etz Chaim · Shneur Zalman of Liadi · Tanya · Shaar HaYichud VehaEmunah · Vilna Gaon · Leshem · Chaim of Volozhin · Nefesh HaChayim · Leonard Moskowitz · Zohar · Shema Yisrael · Hasidic · Advaita · Madhyamaka · Kabbalah
+- **FORMULA**: tzimtzum · Ein Sof · chalal panui · sefirot · shevirat ha-kelim · tikkun · Ratzon · Atzmut · Malkhut · kipshuto
+- **UNNAMED**: the historical scholarship behind Luria's biography (Safed, three years, 1572, thirty-eight) · the transmitted *tzimtzum* account / "the standard account" · the transmission-history chain (Plotinus → Proclus → Dionysius → Latin → Baghdad → Provence/Girona c. 1200), stated as bare fact · the Baghdad translators · the dating of Kabbalah's emergence · the two-hundred-year dispute literature · "the tradition's foundational text" · the Hasidic movement's opponents (as a body) · "the usual telling" of the Gaon's position · the scholarship behind Chaim of Volozhin's biography · the English rendering of Shneur Zalman (paraphrased from Hebrew, no translator) · the three later *Nefesh HaChayim* quotations, which do **not** restate Moskowitz · the agentless "the function assigned to it, consistently" · "a tradition that stated it in the twelfth century" · the received cosmological presentation of the *sefirot* · "a practitioner is said to be able to" · the centuries of operational maps
+- **INTERNAL**: V.5 · V.1 (quoted verbatim) · Book I (quoted) · Book II · I.3 (quoted) · I.5 (quoted) · Book VII (forward)
+- ⚑ Plotinus, Proclus and Dionysius appear here **as links in a transmission chain, not as cited doctrine**. Both blind readers banded them ACTOR independently. The old roster listed all three as V.6 sources. That was mine, and it was wrong.
+- ⚑ Cause 4's worst site: the gauge files **Volozhin** and **Liadi** — two men — as places, and reads **Moskowitz**, the modern translator, while missing **Chaim of Volozhin**, the author.
+
+### V.7 — magic, operative
+- **NAMED**: Austin Osman Spare · The Book of Pleasure · Jung · Peter Carroll · Crowley · Dee · Chaos magic · grimoires · eight-circuit model · Tarot
+- **FORMULA**: ora et labora · Magick (Crowley's defined sense)
+- **UNNAMED**: the ceremonial/operative magic corpus — *"the surviving literature"*, *"one of these books"*, *"the operative traditions"*, and not one title anywhere · the twentieth-century sigil practitioners · *"every practitioner reports"* · the tarot tradition's own claims · the modern commentary forcing the bad-chemists-or-psychologists choice · the alchemical corpus · **four hundred years of alchemical failure records — quantified, never located** · "the others" who began chaos magic with Carroll · the ceremonial orders · the contemporary communities · the entity literature · the biographical scholarship on Crowley and Dee · Crowley's definition and his block-quoted illustration (the work is never named) · Dee's session records (untitled, no editor) · Dee's Euclid preface (no date, no edition) · the author of the eight-circuit model, who is never named
+- **INTERNAL**: V.1 · II.5 · III.6 · IV.7 · Book II · C12 · C10 · Book VI, Book VIII (forward)
+- ⚑ Edward Kelley is an ACTOR — the deception claim is *about* him, not cited *to* him. Euclid is a MENTION inside a title.
+
+### V.8 — travel
+- **NAMED**: Michael Harner · The Way of the Shaman · Mircea Eliade · Robert Monroe · Journeys Out of the Body · Monroe Institute
+- **FORMULA**: sonic driving · Focus 10
+- **UNNAMED**: the shamanic journey corpus — *"the largest body of practice in the book so far"*, no ethnography or fieldwork cited · Eliade's cross-cultural survey (never titled) · the critics of that survey · practitioners trained on the Monroe technique · the "ordinary evidence" said to have established the state claim · *"nearly every popular account"* · the different authorities quoting different beat rates · *"the measurements that exist"* (in-house, small, uncited) · the institutes that teach the practice · the out-of-body attestation record · those who use it for survival of death · the memory literature · the survey of "the strongest instances" · the reader's own hypnagogic experience, offered as checkable evidence
+- **INTERNAL**: V.7 · I.3 (quoted) · III.8 (quoted) · V.6 · V.1 (quoted) · IV.7 (quoted) · Book I · Book VII (forward)
+- ⚑ The Kabbalists' Tree reaches this chapter **only through V.6** — no text, author or translation is named here.
+
+### V.9 — the road being walked now
+- **NAMED**: Kenneth Arnold
+- **UNNAMED**: the contemporary encounter/testimony corpus · Arnold's quoted description (no newspaper, interview or statement) · the 1947 press · **the 1966 book made from the New Hampshire sessions — untitled, author unnamed** · **the couple themselves — never named** · the hypnosis sessions and whoever conducted them · **the 1987 "novelist" and his account — both unnamed** · the military sensor record (no incident, date, unit or release) · aircrew reports · congressional hearings, named offices, sworn testimony — none of them actually named · the government office's published historical review (office unnamed, report untitled and undated) · the pre-1947 folklore corpus · whoever offers that folklore as the independent branch · **"the source material"**, which supplies the chapter's three readings and is never titled anywhere
+- **INTERNAL**: V.1 (quoted three times) · IV.10 (quoted) · IV.7 (quoted) · C29 · Book II · I.3
+- ⚑ **ONE named external source in the whole chapter.** Not a shortfall in the roster — a property of the prose. Every other evidentiary load in V.9 rests on a definite description with no name in it, and both instruments key on capitalized tokens, so both are blind to all of it. This is the positive control for the standing limit below, and R-151 must be settled here before any note is written.
+
+### V.10 — the mystics' report
+- **NAMED**: Upanishads · Plotinus · Heinrich Suso · William James · Gifford Lectures · Dao De Jing · Eckhart · Dionysius the Areopagite · Proclus · Sufism · Walt Whitman · Emerson · Nicholas of Cusa · Rudolf Otto · Psalms · Advaita · Madhyamaka · Vedantists · Rhineland mystics
+- **FORMULA**: tat tvam asi (as "That art Thou") · neti neti · the numinous · mysterium tremendum et fascinans · zuowang · learned ignorance
+- **UNNAMED**: the English translations of all four opening passages — no translator anywhere · the specific Upanishadic text behind the pure-water simile · **the fourteenth-century Persian, identified only by nationality and century** · the work Plotinus is quoted from · the work Suso is quoted from · the authority James quotes inside his own passage (*"as has been said"*) · India's earliest statements · "the Greek material" · the documentary record of the Plotinus→Suso transmission · the proposers of the Hindu-influence hypothesis · Emerson's essays (none named) · the translation of the Vedic material Emerson used · "the anthologies" · the builders of the category "mysticism" · the anthologist and the paperback in the transmission chain · Cusanus's 1440 text, never titled · Otto's 1917 work, never titled · James's four marks (no lecture, no page) · James's nitrous-oxide report (uncited) · a Vedic hymn
+- **INTERNAL**: V.1 · V.9 · V.5 · V.2 · V.7 · this project's founding correction
+- ⚑ Gautama is an ACTOR — the addressee inside the quoted passage. Hinduism, Neoplatonism, Christian mysticism and "Whitmanism" appear **only inside James's unanimity list, which the chapter argues is false**; they are MENTIONs, not witnesses.
+
+### V.11 — what the old roads knew
+- **NAMED**: Augustine · Maimonides · Śaṅkara · Zhuangzi · Kabbalists · Dionysius · Cusanus · via negativa · Harner · Spare · Guénon · Traditionalism · Ken Wilber · Sex, Ecology, Spirituality · Aldous Huxley · Frithjof Schuon · W. T. Stace · Huston Smith · Coomaraswamy · Agostino Steuco · De perenni philosophia · Steven Katz · Robert Forman
+- **FORMULA**: neti neti · zuowang · fanāʾ · baqāʾ
+- **UNNAMED**: "the scholastics behind him" · the alchemists and their four centuries of failure records · the church's technology for the named dead (no rite, book or tradition) · "the East" · the monastic hours (no rule, no order) · the drumming protocol's origin · the evidence on technique-without-specification · **Huxley's 1945 book, Schuon's 1948 work, Stace's 1960 typology, Katz's 1978 argument and Forman's 1990 counter-anthology — five works pointed at by date and not one of them titled** · the fifty-year debate in which Katz is "the central name" · the ox-herding sequence · the bodhisattva vow · *"general knowledge and standard reference scholarship"*
+- **INTERNAL**: V.1 · V.2 · V.5 · V.7 · V.8 · V.9 · V.10 · Book I · Book II · Book IV · III.6 · IV.3 · IV.6 · Book VIII · `05` · C27
+- ⚑ **THE CHAPTER ENUMERATES ITS OWN SOURCES AT LINE 275** and I did not read that paragraph before enumerating it by hand: *"Huxley, Schuon, Stace, Steuco, Guénon, Coomaraswamy, Katz, Forman and Wilber are named in this chapter from general knowledge and standard reference scholarship."* Nine names, with a grade attached and two flagged load-bearing. The old roster line for this chapter listed five, and called this the chapter where the gauge was essentially right. [[feedback_artifact_states_its_own_roster]]
+- ⚑ `05` and `C27` are cited as bare identifiers with no expansion. A reader cannot resolve either.
+
+---
+
+## What the rebuild does not fix, stated before anyone quotes it
+
+⛔ **This roster still cannot see a name that everyone walked past.** Five blind readers
+and one hand pass agreeing is six looks, not a proof of completeness. `roster_verify.py`
+checks that every name here is *in* the chapter; **nothing checks that every name in the
+chapter is here**, and that is the exact direction R-157 was filed on. The gauge is built
+in the direction I can cheaply instrument, which is the flattering one.
+[[feedback_guard_built_in_the_feared_direction]] [[feedback_instruments_go_where_instruments_are_cheap]]
+
+⛔ **The UNNAMED band is the bigger debt and it has no gauge at all.** In V.4, V.8, V.9
+and V.11 the unnamed appeals outnumber the named sources, and in V.9 they outnumber them
+roughly fifteen to one. An endnote apparatus that goes green on the NAMED band while
+those stand is an apparatus certifying the half of the chapter that was never in doubt.
+
+⛔ **Band assignment is judgement and has no instrument.** A name can be present, verified,
+and in the wrong band.
+
+---
+
+## What was here before, kept because the refutation is the finding
+
+*The Day-192 first pass — the one this replaces — enumerated all eleven chapters against
+the prose and was refuted the same day by five blind readers. The instance that settles
+it is V.11 above: roster 5, actual 18 present, 9 of them enumerated by the chapter
+itself in a paragraph I had not read. The direction is the point. The old roster's
+scrutiny went where I expected the gauge to fail and stopped where I expected it to
+pass, so the error survived precisely where nothing was looking.*
+[[feedback_scrutiny_is_motive_shaped]]
+
+### The five causes of the gauge's undercount — all still standing
+
+`endnote_debt.py` reports **30 sources across Book V**. That figure is not a floor under
+a roughly-right number; it is a different set, wrong in both directions, for five
+separately locatable reasons:
 
 | # | cause | instance | recovered by a verb-list patch? |
 |---|---|---|---|
@@ -76,144 +159,46 @@ are; Proclus; and Dionysius — are all invisible to it.
 | 4 | **`Given of Place` keys to the place** | `Shneur Zalman of Liadi` → `Liadi`; `Chaim of Volozhin` → `Volozhin` | no |
 | 5 | **lowercase twin drops a real person** | Austin Osman **Spare** (`spare` is ordinary English) | no |
 
-⛔ **CAUSE 3 IS WHY THE OBVIOUS PATCH MUST NOT BE TRUSTED.** The appositive is
-three of V.2's four misses, so it looks like *the* cause. Patch it alone and
-V.2 goes 0 → 2: Aquinas and Eckhart come back, Maimonides does not, because his
-site fails the verb list *as well*. The repair passes its own test at 50% and
-reports itself done. Scoped to the named cause, and the named cause was one of
-two stacked on a single sentence.
+⛔ **CAUSE 3 IS WHY THE OBVIOUS PATCH MUST NOT BE TRUSTED.** The appositive is three of
+V.2's four misses, so it looks like *the* cause. Patch it alone and V.2 goes 0 → 2:
+Aquinas and Eckhart come back, Maimonides does not, because his site fails the verb list
+*as well*. The repair passes its own test at 50% and reports itself done.
 
-⛔ **CAUSE 4 IS THE ONE THAT MATTERS MOST FOR THIS BOOK.** The surname rule —
-key on the last token — encodes a modern Western naming convention. **Book V is
-the book about traditions that do not use it.** So the defect is not spread
-evenly across the volume; it concentrates in exactly the chapters whose sources
-are pre-modern (V.3 scholastics, V.6 Kabbalah, V.10 mystics), and it is at its
-worst where the apparatus matters most.
+⛔ **CAUSE 4 IS THE ONE THAT MATTERS MOST FOR THIS BOOK.** The surname rule — key on the
+last token — encodes a modern Western naming convention, and **Book V is the book about
+traditions that do not use it.** The defect is not spread evenly; it concentrates in
+exactly the chapters whose sources are pre-modern (V.3 scholastics, V.6 Kabbalah, V.10
+mystics), and it is at its worst where the apparatus matters most.
 
-A vivid instance, V.6. The chapter cites with real precision:
+**The V.1 headline, unchanged:** the gauge's single reported source for V.1 is
+`Aristotle`, extracted from a clause whose entire purpose is to say that this is the
+**wrong name**. The chapter is about misattribution. The gauge read the misattribution
+and committed it.
 
-> *Nefesh HaChayim*, Gate III, chapter 4. Volozhin, published 1824, in Leonard
-> Moskowitz's translation.
+### The standing limit, with its instance already named
 
-The gauge sees **Moskowitz** — the modern translator, who arrives in the
-`Name's <noun>` shape — and misses **Chaim of Volozhin**, the author, and the
-text itself. One instance is not a rule, and I will not state it as one; but the
-shape is worth naming as a hypothesis to test across Books VI–VIII: *the
-apparatus is legible to the gauge and the primary source is not.*
+Both instruments see only capitalized tokens. A source the prose names as *"a couple in
+New Hampshire"*, *"the book made from their sessions"*, *"a novelist"* is invisible to
+both. **V.9 proves the class is populated rather than hypothetical** — it is the whole
+chapter. This is what the UNNAMED band is for, and why it is banded and not counted.
 
-## The roster
-
-Bands: **SOURCE** = an authority or text this chapter leans on, owed a receipt ·
-**ACTOR** = a historical person or a character inside a source, no receipt owed
-but must be declared so it is not silently counted · **ARTIFACT** = counted by
-the gauge, not a citable person at all.
-
-### V.1 — what a tradition is
-- **SOURCE**: Plotinus · Proclus · Dionysius the Areopagite · the *Dao De Jing* · the Baghdad translation movement (as an event, cite the scholarship) · Kabbalah's Provence/Spain emergence
-- **ARTIFACT**: `Aristotle` (present only inside a title the chapter calls a misattribution) · `Sufism` · `Six` · `Five` · `Ten` · `Ground` · `Godhead` · `Magic` · `Ritual`
-- gauge: 1 · real: 6 · **precision 0/1**
-
-### V.2 — the church the reader left
-- **SOURCE**: Tillich · Aquinas · Eckhart · Maimonides
-- **ARTIFACT**: `God` (dropped corpus-wide) · `Almost` `Someone` `Such` `Forty` `Leaving` `Wrongdoing` `Consolation`
-- gauge: 0 · real: 4 · **the chapter R-152 was filed on**
-
-### V.3 — the scholastics and the god without a face
-- **SOURCE**: Aquinas ✓ · Augustine ✓ · Maimonides ✓ · **Eckhart** · **Plotinus** · **Proclus** · **Dionysius**
-- **ARTIFACT**: `Actus` · `Focusing` · `Meeting` · `Aquinas God` · `Your Ground` (both are multi-token merges — see the sixth defect below)
-- gauge: 3 · real: 7
-
-### V.4 — the atheism that was right about the wrong thing
-- **SOURCE**: Richard Dawkins ✓ · Christopher Hitchens ✓ · **Sam Harris** · **Daniel Dennett**
-- **ARTIFACT**: `Religious` · `Doubt` · `Faith` · `Tone` · `Having` · `New Atheism`
-- gauge: 5 · real: 4 · **2 of the 5 are right**
-
-⛔ The chapter's own roll-call sentence is *"Richard Dawkins, Christopher
-Hitchens, Sam Harris, Daniel Dennett — four men, one decade, four different
-arguments"*. On the chapter whose subject is four named men, the gauge finds two
-of the four and three abstractions. Harris was additionally eaten by **this
-tool's** first draft; see the note in `name_census.py`.
-
-### V.5 — the east: one ground, many localisations
-- **SOURCE**: Zhuangzi · Fazang (Huayan, the net) · Nāgārjuna · the *Chāndogya Upaniṣad* · the *Dao De Jing* · the *Anattalakkhaṇa Sutta* · Francis Cook (1977 translation, named in the prose as the most-quoted English formulation)
-- **ACTOR**: Cook Ding · Yan Hui · Lord Wenhui · Vacchagotta · Uddālaka · Śvetaketu — **all characters inside the sources above**
-- **ARTIFACT**: Indra (a deity naming a metaphor) · `Advaita` `Buddhism` `Buddhist` `Daoists` `Atomism` `Monism` `Emptiness` `East` `Place` `Ours`
-- gauge: 5 · real: 7 · **3 of the gauge's 5 are characters or a metaphor's name; the authors they belong to are all missed**
-
-This is the exact failure `endnote_debt.py`'s own source comment predicted on
-Day 191 — *"V.5 extracts `Ding` and `Yan Hui` … and does NOT extract Zhuangzi,
-who is the source"* — written into the file it indicts, with no hand attached,
-and still true a day later.
-
-### V.6 — the room that was never emptied
-- **SOURCE**: the Vilna Gaon ✓ · Leonard Moskowitz ✓ (translator) · **Chaim of Volozhin** · **Shneur Zalman of Liadi** · **Isaac Luria** · **Chaim Vital** · the *Zohar* · the *Tanya* · *Shaar HaYichud VehaEmunah* · *Nefesh HaChayim* · *Etz Chaim* · *Leshem* · Plotinus · Proclus · Dionysius
-- **ARTIFACT**: `God` · `Source` · `Infinite` · `Without-End` · `Tree` · `Gathering` · `Fullness` · `Kabbalists` · `Hasidic` · `Gnostic` · `Baghdad` · `Liadi` · `Volozhin` (the last two are **persons filed as places**)
-- gauge: 4 · real: ~15 · **the worst chapter in the book, and the cause is #4**
-
-### V.7 — magic, operative
-- **SOURCE**: Crowley ✓ · Dee ✓ · Jung ✓ · **Austin Osman Spare** · **Peter Carroll** · **Edward Kelley**
-- **ARTIFACT**: `Magick` · `Ritual` · `Will` · `Instrument-independence` · `Twenty` · `Witnesses` · `Wanting`
-- gauge: 3 · real: 6 · Spare is cause #5
-
-### V.8 — travel
-- **SOURCE**: Mircea Eliade ✓ · Robert Monroe ✓ · **Michael Harner** · the Monroe Institute (as an institution, cite its literature)
-- **ARTIFACT**: `Focus` · `Grade` · `Body` · `Way` · `Virginia` · `Kabbalists' Tree`
-- gauge: 2 · real: 3–4
-
-### V.9 — the road being walked now
-- **SOURCE**: Kenneth Arnold ✓ · **Betty and Barney Hill** · **John Fuller, *The Interrupted Journey* (1966)**
-- **ARTIFACT**: `Hampshire` — from *"a couple in **New Hampshire** reported an interrupted drive home"*, where a toponym is the subject of an attributive verb
-- gauge: 2 · real: 3 · **1 of the 2 is a US state**
-
-⛔ **AND THIS CHAPTER IS THE POSITIVE CONTROL FOR THE LIMIT BELOW.** The Hills
-and Fuller are the sources of that passage and the prose names **neither** —
-they are *"a couple in New Hampshire"* and *"the book made from their sessions
-came out in 1966"*. Both instruments are blind to them, because both key on
-capitalized tokens and there is no capitalized token to key on. This is not a
-hedge about what the tools might miss. It is a named, counted instance.
-
-R-151 remains open on this chapter and must be settled before its notes.
-
-### V.10 — the mystics report
-- **SOURCE**: William James (Gifford Lectures, 1901–02) ✓ · Eckhart ✓ · Heinrich Suso ✓ · **Plotinus** · **Dionysius** · **Proclus**
-- gauge: 3 · real: 6
-
-### V.11 — what the old roads knew
-- **SOURCE**: Augustine ✓ · Cusanus ✓ · Robert Forman ✓ · Michael Harner ✓ · Steven Katz ✓
-- **ARTIFACT**: `East`
-- gauge: 6 · real: 5 · **the only chapter where the gauge is essentially right**
-
-## Totals, and what may not be done with them
-
-| | gauge | hand |
-|---|---|---|
-| Book V sources | **30** | **~60**, of which ~14 are the same names |
-
-⛔ **THE ~60 IS NOT A MEASUREMENT AND MUST NOT BE QUOTED AS ONE.** It is my
-judgement over one pass of a candidate list that I also built. A single
-enumeration by the party who owes the debt is a **hypothesis**, not a roster —
-the same status as the table in R-152, and it needs a second pass by something
-that is not me before any figure from it goes into a gauge or a claim.
-
-⛔ **AND THE DENOMINATOR IS SELF-GENERATED.** `name_census.py` produced the
-candidates and I judged them, so "the gauge found half" compares two of my own
-artefacts to each other. Neither has been compared to the prose end to end.
-
-**THE STANDING LIMIT, with its instance already named:** both instruments see
-only capitalized tokens. A source the prose names as *"a couple in New
-Hampshire"*, *"the book made from their sessions"*, *"her 1977 rendering"* is
-invisible to both, and V.9 proves the class is populated rather than
-hypothetical. **The roster above is therefore itself a floor** — and unlike the
-gauge's 30, it says so in the same breath as the number.
+---
 
 ## What to do, in order
 
-1. **Second pass over this roster by something that is not me.** It is a
-   hypothesis until then. Do not skip to step 2 because the list looks right;
-   looking right is the condition under which I have lately been wrong.
-2. Settle **R-151** (V.9) and **R-152** (V.2, Aquinas in Rome not Paris).
-3. Then notes, V.1 onward, against the roster and not against the gauge.
-4. Cause 4 is a **whole-book** defect, not a Book V one. Books VI–VIII were
-   marked square by the same extractor. `covered 28 / owed 3` for Book VI was
-   computed over a source list built by the rule that files Chaim of Volozhin
-   under a Lithuanian town. **Those green columns are unaudited, not clean.**
+1. **R-158's three-site Aquinas fix** — V-01:25, V-02:256, V-03:10 — all three at once,
+   plus one population grep for other place/date claims recapped across chapters.
+2. **Settle R-151** (V.9 reprints the cryptid sentence IV.10 note 6 proves is not in the
+   source). V.9's NAMED band is one name; its apparatus is almost entirely an UNNAMED
+   problem, and R-151 is the first instance of it.
+3. **Then notes, V.1 onward, against the NAMED band of this file** — not against the
+   gauge's list, and not against a count.
+4. **Cause 4 is a whole-book defect, not a Book V one.** Books VI–VIII were marked square
+   by the same extractor. `covered 28 / owed 3` for Book VI was computed over a source
+   list built by the rule that files Chaim of Volozhin under a Lithuanian town. **Those
+   green columns are unaudited, not clean.**
+5. **The UNNAMED band needs its own row in the queue.** It is larger than the apparatus
+   debt and nothing currently measures it.
+
+Blind outputs, unedited: `review/BLIND-V/blind-{A..E}-*.md`. Full account: **R-157**,
+**R-159**.
