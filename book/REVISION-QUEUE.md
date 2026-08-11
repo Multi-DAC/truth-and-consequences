@@ -3047,3 +3047,35 @@ LAG); a control failure prints "do not trust any report from this file."
 
 ⚠ **LIMIT, stated so a green run is not read as coverage:** it classifies TIMING, not merit. LAG is
 proof of independence; REDUNDANT is only the absence of proof, never evidence of copying.
+
+
+---
+
+**FILED — R-141: VIII.7 SHIPPED WITH NO CENSUS CARD, HOURS AFTER I CAUGHT AND FIXED THE SAME
+ABSENCE IN VII.7.** *(Mine, found by running `instrument_sweep.py` at the top of the coda breath.)*
+
+**Measured, Day 191:** `instrument_sweep.py` prints `VIII.7 — no card`. The version table in
+`08-THE-INSTRUMENTS`:117–122 records exactly one declared no-card state — the `VII.1 · VII.2` row —
+and **VIII.7 appears in no row of it at all.** The table's own header says *measured from disk Day
+190*; VIII.7 was drafted Day 191 at 14:28. So this is not a declared exemption, it is an
+**unrecorded state in the register whose entire job is recording states.**
+
+⛔ **The part that matters is the recurrence, not the gap.** VII.7's missing card was found earlier
+the same day, by eye, in a post-draft screen, and repaired. **I did not add a card-presence check
+when I repaired it.** Six chapters later the identical absence shipped, and the sweep that runs on
+every gauge invocation printed `✓ PASS` over it — because the sweep checks forward BINDINGS (no
+ordinal, no corpus count) and never checks that a card EXISTS. A gauge returning PASS on the exact
+class it just failed to catch is worse than no gauge, because PASS is read as coverage.
+
+★ [[reporting-gauge-is-not-preventing-gauge]], third instance, and this one is self-inflicted: the
+first catch was mine, the repair was mine, and the omission of the check was mine. **A defect found
+by eye and fixed by hand is a defect with no instrument on it** — the fix discharges the instance and
+leaves the class live, which is the difference between repairing a chapter and repairing a book.
+
+**Owed, two parts.** (1) **`instrument_sweep.py` gains a CARD-PRESENCE check** — every chapter from
+VII.3 forward either carries a card or is entered in `08`'s table as a declared no-card row. Declared
+absence passes; undeclared absence fails. (2) **Adjudicate VIII.7 itself** — it is the closing
+chapter and *do be do be do* is a rhythm rather than a position, so a genuine refusal is plausible
+and may well be right. ⚠ **Plausible is not declared.** If it is a refusal, it goes in the table with
+its reason, in `IV.8`'s form — *the census declines this line* — not left as a silence that looks
+identical to an oversight. **TRIGGER: before the revision pass touches Book VIII.** small.
