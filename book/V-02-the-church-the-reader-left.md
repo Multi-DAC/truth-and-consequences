@@ -21,7 +21,7 @@ a life is built this way. Everything else asks you to bring something.
 
 The year has a shape and the shape is not yours. Four weeks of waiting and then a birth. Forty days
 of stripping down, and then a killing, and then the Sunday. Most of the rest is called ordinary time,
-and is called that on purpose. Then a day at the beginning of November when the dead are counted.
+and is called that on purpose. Then a day at the beginning of November when the dead are counted.[^1]
 
 A grief with a date on it is a different object from a grief without one. Left alone, a loss
 disperses — it turns up on unremarkable Tuesdays, at intervals nobody can prepare for, in the
@@ -33,7 +33,7 @@ prepared for, shared out, and remembered by people who were not feeling it at th
 
 And there is a room — or a box, or two chairs set at an angle so that nobody has to be looked at — in
 which a person says out loud the worst thing they have done, to another person, who does not repeat
-it afterwards, and who says a fixed sentence back. The sentence is not *it's all right*. It is nearer
+it afterwards, and who says a fixed sentence back.[^2] The sentence is not *it's all right*. It is nearer
 to *it is dealt with, now go*. Whatever else is true about that transaction, its structure is one the
 reader's present arrangements almost certainly lack: a wrong, named in words, to a hearer, with an
 ending. What is available instead is a therapist, who will help you understand where it came from; a
@@ -101,7 +101,7 @@ So the card, in the same five lines everything else in this census gets.
 > poorly: it arrives as setting, as gift, or as something entrusted to a steward, and almost never as
 > a population of insides with business of their own.
 > **COMPLEMENTS:** Anything that begins impersonal and stays there. The way that cannot be named.
-> Advaita. And its own apophatic wing — the strangest entry on this list, because it is not a
+> Advaita.[^3] And its own apophatic wing — the strangest entry on this list, because it is not a
 > neighbour, it is upstairs.
 > **BOUNDARY:** The place where it stops describing what a person owes and starts reporting what the
 > ground wants. Up to there it is reading a structure: obligation, wrong, repair, the dead kept named.
@@ -144,7 +144,7 @@ and a shape to what it can see. And a ground with an inside is a being among bei
 thing the ground cannot be, because being among beings is what it is the ground *of*.
 
 That cut is already made in this book, against a friendly opponent, and it is cashed here rather than
-re-argued. Tillich took away God's face and kept the direction of prayer. The face and the direction
+re-argued. Tillich took away God's face and kept the direction of prayer.[^4] The face and the direction
 go together. What V.2 adds is not a further step in the argument. It is the price of the step, paid
 by somebody who prayed.
 
@@ -253,12 +253,13 @@ taken away and cannot be put back. That is how it is met by somebody who prayed,
 loss comes first here.
 
 It is not how it was met by the tradition's own best minds, and they are not heretics at the edge of
-it. Aquinas, in Rome in the twelve-sixties, writing the central document of the institution: God is
+it. Aquinas, in Rome in the twelve-sixties, writing the central document of the institution:[^5] God is
 *actus purus* — act with nothing in it left over unrealised — and therefore not a being among beings,
 not a member of any class, not an entry on any list that also has other entries. He says it, he keeps
 saying it, and he goes on writing prayers. Eckhart, preaching in German to people who could not read
-Latin, distinguishes God from the Godhead and says of the Godhead that nothing whatever can be said.
-Maimonides, in Cairo, rules that every positive statement about God is false, and means every.
+Latin, distinguishes God from the Godhead and says of the Godhead that nothing whatever can be
+said.[^6] Maimonides, in Cairo, rules that every positive statement about God's essence is false, and
+means every.[^7]
 
 They did not flinch, and they did not leave. They arrived at the impersonal ground centuries before
 this book did, from inside the house, with the calendar and the food and the named dead going on
@@ -271,3 +272,114 @@ back, over and over, in every generation, because the face is what the parish ru
 is what people actually needed.
 
 The reader lost both at once. Only one of them was ever a question about truth.
+
+---
+
+*A note on grade, and on what this apparatus does not reach.* The four named figures below were
+fetched and read on Day 192 rather than recalled, and one of them cost the chapter a word. **But the
+named sources are the smaller half of this chapter's evidence.** The machinery in the opening pages —
+the list, the rota, the calendar, the confessional formula, the book of the names — is carried
+almost entirely by definite descriptions with no name in them, and the same is true of *"every
+serious alternative on the market"*, *"the modern replacements"*, and the record of abuse and
+finance. Those are not endnoted below, because there is nothing to attach a receipt to. **They are
+accepted here at a declared grade: ordinary description of a widely-known institution, checkable by
+any reader who has been inside one, and load-bearing nowhere in the argument** — the argument turns
+on the conjunction being impossible, not on the accuracy of the parish portrait. Where one of them
+*is* checkable, [^1] and [^2] check it. The rest stand as description and are marked as description.
+The apparatus going green below does not mean the chapter is sourced; it means the named half is.
+
+---
+
+[^1]: **The liturgical year, checked against the rite rather than against memory of it.** The
+    November date is All Souls' Day, 2 November, distinct from All Saints' on the 1st; the
+    commemoration of the dead is the former. *"Four weeks of waiting"* is Advent, which is four
+    *Sundays* and therefore twenty-two to twenty-eight days, not four weeks — the chapter's figure is
+    the usual approximation and is out by up to six days depending on the year. *"Forty days of
+    stripping down"* is Lent, which is forty days only because the six Sundays inside it are not
+    counted as fast days; Ash Wednesday to Holy Saturday is forty-six. Both approximations are the
+    ones the institution itself uses in ordinary speech. ⚠ The chapter describes the Roman calendar
+    and says *"the church"*, unqualified; the shape is broadly shared with the Anglican, Lutheran and
+    Orthodox calendars but the dates and the counting are not, and the Orthodox reckoning of the
+    commemorations of the dead differs substantially.
+
+[^2]: **The fixed sentence, supplied, because the chapter glosses it and never quotes it.** The
+    chapter's *"it is dealt with, now go"* is explicitly offered as a paraphrase — *"it is nearer
+    to"* — and the paraphrase is fair, but a reader cannot check a gloss against nothing. The current
+    Roman form, from the 1973 *Ordo Paenitentiae*: *"God, the Father of mercies, through the death
+    and resurrection of his Son has reconciled the world to himself and sent the Holy Spirit among us
+    for the forgiveness of sins; through the ministry of the Church may God give you pardon and
+    peace, and I absolve you from your sins in the name of the Father, and of the Son, and of the
+    Holy Spirit."* The operative words — the ones on which validity is held to turn — are *"I absolve
+    you."* Note what the full form does that the gloss does not: it names an agent and a warrant
+    before it names the outcome. The chapter's point survives that intact, and arguably needs it: the
+    structure it is pointing at is precisely that the ending is *declared by someone else*, not
+    arrived at by the penitent.
+
+[^3]: **Two traditions named in a single line of the card, and neither is given a text.** *Advaita*
+    is Advaita Vedānta, whose systematic statement is Śaṅkara's commentary on the *Brahmasūtra*
+    (*Brahmasūtrabhāṣya*), eighth century; the chapter uses the school name and nothing else, here and
+    at its other appearance. *"The way that cannot be named"* is the *Dao De Jing*, chapter 1 —
+    *"the name that can be named is not the constant name"* — and the text is **never named anywhere
+    in this chapter**, only alluded to by its own opening claim. That is a source doing evidentiary
+    work while remaining unnameable to a search. ⚠ Both are cross-references to chapters that have
+    not yet paid their own apparatus (V.5 for Advaita, V.5 and V.11 for the Daoist material); when
+    those are retrofitted, this note is where the loci should land, and the loci should be theirs,
+    not repeated here.
+
+[^4]: **Correct, and the better citation is not the obvious one.** Tillich's *God is being-itself,
+    not a being* is *Systematic Theology* vol. 1 (1951), and the crux sentence for what this chapter
+    is claiming — that the face went and the direction stayed — is at ST I p. 245: *"God is not a
+    person but he is not less than personal."* ★ **But the sharpest source is the 1940 essay "The
+    Idea of a Personal God"**, Tillich's reply to Einstein, reprinted in *Theology of Culture* (1959),
+    where he argues directly against a physicist's proposal to drop the personal God and holds that
+    the symbol must be kept even though God is not a person. That matters for how the chapter uses
+    him: Tillich did not *leave behind* the direction of prayer as a residue he had not got round to
+    clearing. He argued for keeping it, on purpose, having seen the same problem this chapter is
+    naming. The chapter's *"took away … and kept"* is accurate as description and slightly unfair as
+    portraiture — it reads as an inconsistency, and Tillich's position is that it is not one.
+    ⚠ Page 245 is taken from secondary quotation; the 1951 Chicago edition was not on the wire and I
+    did not open it. The phrase is verbatim in the sources consulted; the page is theirs, not mine.
+
+[^5]: ✅ **Corrected on Day 192 and correct here — this is the chapter that owns the fix.** The
+    *Summa Theologiae* was begun at Santa Sabina in Rome, 1265–66, not in Paris; R-158 found the same
+    error in three chapters and this was the one it was first filed against. *Actus purus* is ST I
+    q. 3 a. 2; *not a member of any class* is q. 3 a. 5, on whether God is contained in a genus.
+    ★ **The chronology carries a trap the sentence walks straight past.** *"He goes on writing
+    prayers"* reads as though the prayers come after the doctrine — and the most famous of them, the
+    office for Corpus Christi commissioned by Urban IV, is **1264**, a year or two *before* the
+    *Summa* was begun. The sentence survives only because the doctrine is older than the *Summa*
+    too: *Summa contra Gentiles* I.16, *that in God there is no passive potency*, is from the 1259–65
+    work. Date the *actus purus* claim to the *Summa Theologiae* alone, as the prose invites, and the
+    chapter's *"keeps saying it, and goes on writing prayers"* runs backwards. ⚠ Chapter numbering in
+    SCG differs between the Latin and the older English abridgements — this is 16 in the standard
+    Latin and in Pegis, and 15 in Rickaby.
+
+[^6]: **The distinction is real and authentic; the line most readers will find is neither.** Eckhart's
+    *Gott* / *Gottheit* distinction runs through the German sermons — the critical edition is Quint's
+    *Deutsche Werke*, and the locus classicus is Pr. 52, *Beati pauperes spiritu*, with its *"I pray
+    God to rid me of God."* ⛔ **But the crisp formulation the chapter is paraphrasing —** *God and
+    the Godhead are as different as heaven and earth* **— comes down through Pfeiffer's
+    nineteenth-century collection, a corpus Quint's edition treats with heavy suspicion and from
+    which Spamer showed several treatises to be by other hands.** I could not settle that specific
+    sermon's status from the sources available and I am not going to assert it either way. The
+    chapter does not quote the line, which is why this is a warning and not a correction — but a
+    reader chasing the claim will meet it in the first search result, in an edition the chapter has
+    not vouched for. [[feedback_earliest_printing_is_not_best_text]] ⚠ *"People who could not read
+    Latin"*: Eckhart's vernacular audiences after 1313 were Dominican nuns, beguines and lay
+    listeners. The beguines fit the description; the choir nuns had liturgical Latin. The clause is
+    true of the audience in general and not of all of it.
+
+[^7]: ⛔ **This read "every positive statement about God is false, and means every" until Day 192, and
+    the emphasis was on the wrong word.** Maimonides denies **essential** attributes; he explicitly
+    admits attributes of **action** as true predications — *Guide of the Perplexed* I.52–54, and I.53
+    in Pines: *"Every attribute that is found in the books of the deity … is therefore an attribute
+    of His action and not an attribute of His essence."* So *every* is right and *positive statement
+    about God* was wrong, and one word — *essence* — was doing all the work and was missing.
+    ★ **And the correction runs in the chapter's favour, which is why nothing was watching for it.**
+    Attributes of action are exactly the mechanism by which Maimonides can rule the essence
+    unsayable and go on saying the thirteen attributes of mercy in the liturgy — which is the
+    chapter's own thesis about the tradition's best minds, sitting in the doctrine it got slightly
+    wrong. [[feedback_scrutiny_is_motive_shaped]] ⚠ *"In Cairo"*: Fustat, Old Cairo. The *Guide* was
+    written in Judeo-Arabic, c. 1185–90; the standard English is Pines (Chicago, 1963), and the
+    Friedländer is a different text with different chapter divisions in places. No edition or
+    translator is given in the prose, here or for the earlier reference to Maimonides's ruling.

@@ -3999,3 +3999,53 @@ not a sample I can dismiss either.
 ⚠ **Still owed from R-151, unchanged and now the FIFTH chapter to owe it:** `tools/brief_source.py:71`
 names the drafting tree as `Unreleased-Work/Perspective`, not on this machine. Locate it or declare
 it unreachable **in writing**. Still the cheapest unpaid item in the queue.
+
+---
+
+**FILED AND PAID — R-161: THE BOOK MISREADS MAIMONIDES IN THE ONE DIRECTION THAT MAKES ITS OWN
+AGREEMENT LOOK EXACT, AND V.3 PRE-EMPTS THE CORRECTION AS A "SOFTENING."**
+
+**The defect.** V.2:261 read *"Maimonides, in Cairo, rules that every positive statement about God is
+false, and means every."* False as written. Maimonides denies attributes of the **essence**;
+attributes of **action** he admits as true predications — *Guide of the Perplexed* I.52–54, and I.53
+in Pines: *"Every attribute that is found in the books of the deity … is therefore an attribute of
+His action and not an attribute of His essence."* One word — *essence* — was doing all the work and
+was missing. Fixed in the prose; recorded in V.2 [^7].
+
+**The population grep, run before moving on, found the same defect one chapter later and worse.**
+`V-03:147` numbered it as one of three agreements between the scholastics and this book: *"Two: no
+positive statement about it is true. Maimonides is the hardest version and he means it **without the
+softening that later readers keep applying.**"* ⛔ **The chapter names the true reading as a later
+readers' softening.** The attributes-of-action exemption is not a softening and is not later — it is
+Maimonides's own, textual, in the chapters that state the doctrine. The sentence builds a fence
+against precisely the correction that was owed. A wrong claim that has an immune response to being
+fixed is a different and worse object than a wrong claim.
+
+★ **And the repair exposed the finding under the defect, which is about this book and not about
+Maimonides.** The same paragraph closes: *"the scholastics fenced this with a doctrine and this book
+fences it with a constraint on verbs, and the fence is in the same place."* **Both fences were
+painted absolute to make the match exact, and neither is.** Maimonides's has a gate — what God does.
+This account's has a gate too: C3's canonical text restricts *wanting, lacking, falling, intending*,
+predicates that require a position to occupy, and the book says a great many positive things about
+what the Ground is the ground *of*. V.3 had inflated its own rule to *"no positive statement is
+true"* in the heading and then described it accurately as a restriction four lines later, in the same
+breath as inflating Maimonides. **Two gated fences gated on nearly the same principle is the better
+finding and is the one the texts support.** Both sentences now say so.
+
+⛔ **The direction is the point.** Neither overstatement was random: each one made the convergence
+tighter. Nothing in this tree files a bug against an error that flatters the argument, which is why
+this one survived from drafting through a claim-code cross-check into two chapters.
+[[feedback_guard_built_in_the_feared_direction]] [[feedback_scrutiny_is_motive_shaped]]
+
+**What was checked and did NOT need repair:** C3's canonical text in `07-THE-CLAIMS-REGISTER.md:93–95`
+is the four intentional predicates and does **not** rest on the misreading. The claim code is clean;
+the chapters restating it were not. ⚠ `DRAFT-LOG.md:6687` carries the error verbatim — *"C3's scope
+rule against Maimonides, who means every"* — and is **left standing as a dated record of what was
+believed when it was written**, which is what a log is for. Flagged here so the next reader of that
+line meets this row. [[feedback_correction_does_not_reach_citers]]
+
+**Owed, and it is revision-pass work, not retrofit work:** V.3's three-agreement structure is the
+chapter's spine and one of the three has just been re-graded from *identical* to *analogous with a
+matching gate*. Whether the other two survive the same scrutiny is not something an endnote can
+settle. **TRIGGER: the revision pass, at V.3, before the three-agreement claim is quoted anywhere
+downstream.** high.

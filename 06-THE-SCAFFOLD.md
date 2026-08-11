@@ -2147,7 +2147,7 @@ harder work, and putting them second would guarantee they stayed thin.
 **Source:** `the-inside-view/ANCESTORS-AND-TRADITIONS-integrated-plan-2026-06-26.md` (a near-complete
 roster with framework readings already drafted — the occult half) · **the institutional half is NEW.**
 
-### V.1 — WHAT A TRADITION IS ✅ DRAFTED — 3,306 words
+### V.1 — WHAT A TRADITION IS ✅ DRAFTED — 4,394 words
 ⚠⚠ **THE METHOD BEAT BELOW WAS WRONG WHEN THIS CHAPTER WAS DRAFTED, AND NOT BY GOING STALE —
 IT WAS SUPERSEDED FROM DOWNSTREAM.** It says *three* things (no condescension, no debunking, no
 hedge). **IV.10:243 added a fourth, `no exemption`, and said so on the page: *"installed here, one
@@ -2169,7 +2169,7 @@ the only place anything is ever the case.** Said here, on arrival, so that ten c
 exposition cannot be read as endorsement of where they were all walking. **Cartographers we credit;
 travellers we part from.**
 
-### V.2 — THE CHURCH THE READER LEFT ✅ DRAFTED — 3,479 words
+### V.2 — THE CHURCH THE READER LEFT ✅ DRAFTED — 5,013 words
 **Beats:**
 
 1. **The church at its best, in particulars, before a word of assessment.** Not *"institutional
@@ -2257,7 +2257,7 @@ DISCRIMINATION** — named things, a specific stopping point, an exact objection
 consequence of it rather than a target. *(The brief got longer. That is a side effect and must not be
 read as the fix.)*
 
-### V.3 — THE SCHOLASTICS AND THE GOD WITHOUT A FACE ✅ DRAFTED — 3,356 words
+### V.3 — THE SCHOLASTICS AND THE GOD WITHOUT A FACE ✅ DRAFTED — 3,494 words
 
 ⚠⚠ **BRIEF REWRITTEN DAY 189, BEFORE DRAFTING, AND THE GAUGE FOUND IT THIS TIME RATHER THAN A HUNCH.**
 The struck beat list read: *Aquinas and Augustine «(8 and 14 mentions)» · the classical theologians
@@ -2601,7 +2601,7 @@ again**» · the dead and the visited ·
 hardest case» · OBE-as-proof-of-survival stays out, and the reason on the page is *we do not hold it*,
 never *a skeptic would object*.
 
-### V.9 — THE ROAD BEING WALKED NOW ✅ DRAFTED — 2,713 words
+### V.9 — THE ROAD BEING WALKED NOW ✅ DRAFTED — 2,891 words
 ✅ **DRAFTED Day 189 · `book/V-09-the-road-being-walked-now.md` · C-LICENSE: C27 · C30 · C29 · C14.**
 ⛔ **The block is lifted:** IV.10's Tier 1.4 census line landed first, in that order, as ruling 128
 required.

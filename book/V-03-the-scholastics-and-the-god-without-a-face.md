@@ -144,17 +144,26 @@ tempting one. **The lists are the same list. The scholastics arrived at it from 
 existence and this account arrived at it from the direction of what a perspective is, and neither
 route left anything on the far side that the other route kept.**
 
-**Two: no positive statement about it is true.** Maimonides is the hardest version and he means it
-without the softening that later readers keep applying. Every affirmative attribute is false. Not
-*inadequate*, not *approximate* — false, and the honest form of speech about God is denial. Say what
-it is not. The list of what it is not can go on forever and every entry is an increase in accuracy.
+**Two: no positive statement about what it is in itself is true.** Maimonides is the hardest version
+and he means it without the softening that later readers keep applying. Every affirmative attribute
+of the essence is false. Not *inadequate*, not *approximate* — false, and the honest form of speech
+about God's essence is denial. Say what it is not. The list of what it is not can go on forever and
+every entry is an increase in accuracy. What he does *not* deny, and this matters for how exact the
+agreement below can be, is speech about what God **does**: attributes of action he admits as true
+predications, and it is by that gate that the man who ruled the essence unsayable goes on reciting
+the thirteen attributes of mercy.
 
 This account carries the same rule under a different name and enforces it at the level of grammar.
 Any sentence with the Ground as its subject is under a scope restriction, and the restriction is not
 a courtesy. It is there because predicates belong to positions and the Ground does not have one, so
 a sentence that gives it a predicate has already made it into a thing, several words before the
 error becomes visible. **The scholastics fenced this with a doctrine and this book fences it with a
-constraint on verbs, and the fence is in the same place.**
+constraint on verbs, and the fences are in the same place — with the same gate in them.** Neither
+fence is absolute and it would be convenient here to say both were. Maimonides lets through what God
+does; this account's rule, stated exactly, restricts predicates that require a position to occupy —
+wanting, lacking, falling, intending — and lets through what the Ground is the ground *of*. Two
+gated fences, gated on close to the same principle, is a better finding than two absolute ones and
+is the one the texts support.
 
 **Three: it is not an addressee.** This is the cut the atlas made and it is cashed here rather than
 argued again. Meeting requires an addressee with a position. What has no position has no inside;
