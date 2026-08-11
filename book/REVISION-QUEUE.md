@@ -3079,3 +3079,40 @@ chapter and *do be do be do* is a rhythm rather than a position, so a genuine re
 and may well be right. ⚠ **Plausible is not declared.** If it is a refusal, it goes in the table with
 its reason, in `IV.8`'s form — *the census declines this line* — not left as a silence that looks
 identical to an oversight. **TRIGGER: before the revision pass touches Book VIII.** small.
+
+---
+
+**FILED AND PAID — R-142: FIVE CHAPTERS OF AN UNTOUCHED BOOK PRINTED "CHAPTER IS SQUARE".**
+*(Mine, found by running `endnote_debt.py` to answer Clayton asking whether the endnotes are
+finished.)*
+
+**Measured, Day 191.** `endnote_debt.py` decided its per-chapter verdict on ONE variable — whether
+any extracted source lacked a receipt. So a chapter with zero extracted sources printed
+`(none — chapter is square)` regardless of whether the R-2 pass had ever run over it. **IV.1–IV.5
+and V.2 — six rows in the two books that have no apparatus at all — read as clean**, in exactly the
+same words as `VIII.5`, which extracts 0 sources and carries 4 written notes because the pass ran
+and the chapter needed nothing. Two opposite states, one string.
+
+⛔ **The zeros were not the same zero.** `II.4` is 0/0 because it was visited and owed nothing.
+`IV.1` is 0/0 because nobody has ever looked. The tool could not tell them apart and did not say so
+— the summary line read `Book IV … owed 13`, which is true, and which a reader takes as *thirteen
+notes short* rather than *ten chapters never opened*.
+
+★ [[disclaimer-not-coupled-to-verdict]]. The tool's LIMIT block is four paragraphs long, names its
+own artifact rate at ~19%, and confesses over-extraction of dialogue characters — and none of that
+touched the per-row verdict a reader actually scans. **The honesty was in the footer and the false
+green was in the table.**
+
+**PAID, same breath.** `RETROFITTED_BOOKS = {II, III, VI, VII, VIII}` — declared, not inferred —
+and any chapter outside it now prints `(NOT RETROFITTED — an unrun pass, not a clean one)` instead
+of `square`; the per-book line gains `⛔ PASS NEVER RUN`. ⚠ The declaration is itself a stamp, so it
+was given a gauge: a book listed as retrofitted that carries 0 notes on disk raises an alarm naming
+itself. **Positive control run** — Book IV falsely declared retrofitted, alarm fires, one line,
+correct book. [[zero-needs-a-positive-control]]
+
+**STILL OPEN, and NOT fixed by this.** The extractor finds persons in attributive position, and
+Books IV–V cite *works*: *Minds, Brains, and Programs*, *Is the Brain a Digital Computer?*, *Magic
+and Mystery in Tibet*, *Anattalakkhaṇa Sutta*, *Chāndogya Upaniṣad*, *De perenni philosophia*, *The
+Theology of Aristotle* — every one invisible to it. **The debt figure 50 is a floor, not a count.**
+R-2 stays hand-enumerated per book. This repair makes the gauge stop *lying*; it does not make it a
+worklist. **TRIGGER: R-2 Book IV, which is next.** small.

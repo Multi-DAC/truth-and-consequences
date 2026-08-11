@@ -93,6 +93,17 @@ BOOK_ORDER = ["I", "II", "III", "IV", "V", "VI", "VII", "VIII"]
 # Book I takes no apparatus, by ruling 9. Not a debt; the design.
 EXEMPT_BOOKS = {"I"}
 
+# Books the R-2 retrofit pass has actually been RUN over. This is a DECLARATION,
+# not a measurement, and it is here because the tool could not tell the two zeros
+# apart: II.4 extracts 0 sources and carries 0 notes because the pass ran and the
+# chapter needed nothing, while IV.1 extracts 0 sources and carries 0 notes
+# because nobody has ever looked. Both printed "(none -- chapter is square)".
+# Five chapter rows in an untouched book read as CLEAN. Undeclared is not square;
+# it is unmeasured, and it now says so. The declaration is itself checked below
+# against notes on disk, so a book listed here that carries no apparatus raises an
+# alarm rather than quietly vouching for itself.
+RETROFITTED_BOOKS = {"II", "III", "VI", "VII", "VIII"}
+
 # Attribution verbs, built from stems so the participle and progressive forms are
 # not lost. v1 listed finite forms only, so "Augustine is recording his own..."
 # scored zero in the chapter that OPENS with Augustine. "not" is written out
@@ -578,8 +589,15 @@ def main():
             print(f"  {tag:<7} {len(sources):>5}  {n_notes:>5}      —    "
                   f"exempt (Book I takes no apparatus, ruling 9)")
             continue
+        unrun = tag.split(".")[0] not in RETROFITTED_BOOKS
         flag = "  " if not uncovered else " ⚠"
-        who = ", ".join(uncovered) if uncovered else "(none — chapter is square)"
+        if uncovered:
+            who = ", ".join(uncovered)
+        elif unrun:
+            flag = " ·"
+            who = "(NOT RETROFITTED — an unrun pass, not a clean one)"
+        else:
+            who = "(none — chapter is square)"
         print(f"  {tag:<7} {len(sources):>5}  {n_notes:>5}  {len(covered):>7}{flag} {who[:60]}")
 
     print()
@@ -587,8 +605,20 @@ def main():
         if bk not in per_book:
             continue
         s, c, nt, ch = per_book[bk]
-        tail = "   exempt" if bk in EXEMPT_BOOKS else f"   owed {s - c:>3}"
+        if bk in EXEMPT_BOOKS:
+            tail = "   exempt"
+        elif bk not in RETROFITTED_BOOKS:
+            tail = f"   owed {s - c:>3}  ⛔ PASS NEVER RUN"
+        else:
+            tail = f"   owed {s - c:>3}"
         print(f"  Book {bk:<5} {ch:>2} ch   sources {s:>3}   notes {nt:>3}   covered {c:>3}{tail}")
+
+    # The declaration above is a stamp, so give it a gauge. A book claimed as
+    # retrofitted that carries no apparatus at all is the stamp having rotted.
+    for bk in BOOK_ORDER:
+        if bk in RETROFITTED_BOOKS and per_book.get(bk, (0, 0, 0, 0))[2] == 0:
+            print(f"\n  ⛔ RETROFITTED_BOOKS claims Book {bk} has been through the R-2 pass, "
+                  f"but it carries 0 notes on disk. The declaration is wrong, not the book.")
 
     print()
     pct = (100 * total_cov / total_src) if total_src else 0
