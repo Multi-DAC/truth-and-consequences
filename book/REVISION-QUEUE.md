@@ -4049,3 +4049,144 @@ chapter's spine and one of the three has just been re-graded from *identical* to
 matching gate*. Whether the other two survive the same scrutiny is not something an endnote can
 settle. **TRIGGER: the revision pass, at V.3, before the three-agreement claim is quoted anywhere
 downstream.** high.
+
+---
+
+**FILED — R-162: THE CHAPTER THAT AGGREGATES INHERITS ITS PREDECESSORS' UNQUALIFIED CLAIMS, AND
+STATES THEM MORE STRONGLY THAN THE CHAPTERS IT IS CITING.**
+
+**Found by:** writing V.3's apparatus (Day 192). V.3's job is to gather V.1's transmission argument
+and V.2's three figures into one audit. **Both source chapters had already qualified the claims V.3
+leans on. Neither qualification is anywhere in V.3, and in both cases V.3 escalates.**
+
+- **From V.1.** V.1 [^7] records that the Alexandrian-descent inference survives at *three or four*
+  links, not five, and is the book's inference stated as history. V.3:34–40 states it flat, with no
+  hedge, and builds a load-bearing move on it — the move that closes the roll-call road.
+- **From V.2.** V.2 [^6] records that the crisp *Gott/Gottheit* formulation comes down through
+  Pfeiffer's collection, which Quint's critical edition distrusts. V.3:176–181 not only drops the
+  caveat but strengthens the claim (V.2: *"nothing whatever can be said"* → V.3: *"nothing
+  whatsoever can be said, **including that it is God**"*) and calls Eckhart *"the sharpest
+  instrument on this point."*
+
+⛔ **The mechanism is structural, not careless.** A note lives in the chapter that made the claim. A
+citing chapter reads the *prose* of its predecessor, not the predecessor's apparatus — so the claim
+travels and the qualification does not. **The repair rate on an in-place fix IS the stale-reference
+rate.** [[feedback_correction_does_not_reach_citers]]
+
+⛔ **THIS ROW SAID "NO GAUGE EXISTS FOR THIS DIRECTION." THAT WAS FALSE, AND THE CORRECTION IS
+WORTH MORE THAN THE ROW.** I wrote it, then — before building the instrument it demanded — ran
+`crossref_rot.py`. **Its very first tier-1 row is the finding above**, complete with the shared
+distinctive terms it keyed on:
+
+```
+⛔ V.3:34 (dotted) → V.1   cited 2026-08-08 · 4 note(s) landed after (+3d): [^2]⛔ [^3]⛔ [^6]⛔ [^7]⚠
+   * shared distinctive terms: excerpts, baghdad, alexandrian, aquinas, arabic, eckhart, jewish, plotinus, ninth
+```
+
+The gauge was built on Day 191 for exactly this defect, it fired correctly, it printed the pair at
+the top of its output, **and its count sat in my handoff this breath reading *"54 tier-1 pairs
+UNREAD, every pair read so far has come back dirty"* — which I read, and then went and derived the
+first pair by hand anyway.** [[feedback_run_the_existing_gauge_first]]
+
+**The real defect is not a missing instrument. It is that an unread ledger is indistinguishable from
+a clean one.** `crossref_rot.py` exits 1 while any pair is unacknowledged, so it is *shouting*; the
+shout has been rolled up into a one-line count in a carrier, and a count is not a reading. A gauge
+whose output nobody opens has the same effect as a gauge that never ran, and costs more, because it
+manufactures the belief that the direction is covered.
+[[feedback_reporting_gauge_is_not_preventing_gauge]] [[feedback_diagnosis_without_a_hand]]
+
+✅ **What the hand pass was worth, stated honestly:** it independently reproduced the gauge's top row
+and settled it — the pair came back dirty, as R-163. That is a genuine cross-validation of the
+instrument and it is the only thing the hour bought that the instrument had not already provided.
+
+⛔ **The gauge DID miss the second half, and the reason is the owed instrument.** V.3's escalation of
+the Eckhart claim past V.2's [^6] caveat does not flag and cannot: **`crossref_rot.py` walks
+chapter→chapter edges, and this caveat is attached to a FIGURE, not to a chapter.** V.3:176 says
+*"Eckhart is the sharpest instrument on this point"* and never names V.2, so there is no edge to
+travel. The corpus cites people far more often than it cites chapters, so this blind spot is large.
+**OWED: a figure-level caveat index — every chapter naming X, against every ⛔/⚠ note about X
+anywhere in the corpus.** The limit is now printed in the gauge's own LIMIT block rather than left
+for a future reader to discover.
+
+⚠ **And the LIMIT block was itself rotten.** It read *"Books I and V carry 0 notes, so no reference
+INTO them can ever flag"* — a hardcoded string describing the pre-retrofit corpus, still printing
+after V.1, V.2 and V.3 were retrofitted. **A stamp in the disclaimer of the instrument built to
+catch stamps.** Now computed every run; today it reads 43/69 chapters with no corrective note, which
+is the useful number and was never available before. Drift #287, one level in.
+
+⚠ **Scope is not V.3.** V.3 is where it was found because V.3 is the first chapter in Book V whose
+argument is *made of* other chapters. Every synthesis chapter in the volume is a candidate —
+V.11 explicitly, and the CODA. Do not scope the repair to the chapter that surfaced it.
+[[feedback_repair_scoped_to_named_cause]] high.
+
+---
+
+**FILED — R-163: V.3'S DEFLATION OF ITS OWN ROLL-CALL IS OVER-STRONG, AND THE OVER-CLAIM RUNS
+TOWARD THE CHAPTER'S *RIGOUR* RATHER THAN ITS THESIS.**
+
+V.3:38–40: *"they are not three witnesses. They are one school, arriving in three languages."*
+**False as stated at the third language.** Aquinas and Eckhart are demonstrably downstream of the
+Dionysian corpus. Maimonides is not a link in that chain in the same way: SEP's treatment of the
+Islamic influence describes a synthesis — Neoplatonic material via the *Theology of Aristotle*,
+Aristotelian simplicity via al-Fārābī and Ibn Sīnā, **and the Muʿtazilite denial of attributes,
+which is kalām, not Neoplatonism** — and *Guide* I.71–76 is Maimonides attacking the kalām. A
+doctrine partly received from a tradition you are polemicising against is not descent. Two of three
+are one school; the third has at least one independent channel to the same conclusion.
+
+⛔ **The direction is new and it is the point.** R-161 named the class as errors running toward the
+book's own case. **This is the sub-class where the flattered property is not the thesis but the
+rigour**: the over-claim is a *self-criticism*, so it reads as scrupulousness and cost nothing to
+write, which is exactly why nothing checked it. **An overstated deflation is still an unmeasured
+claim, and this one discards evidence the book was partly entitled to keep.** Grepping for the
+flattering direction has to include grepping the confessions.
+[[feedback_scrutiny_is_motive_shaped]] [[feedback_guard_built_in_the_feared_direction]]
+
+⚠ Also in the same sentence: *"in Latin by the ninth century and in the hands of both Aquinas and
+Eckhart"* merges two Latin texts. Eriugena's version (c. 860–62) was displaced in the thirteenth
+century by John Sarrazin's, and it is Sarrazin's that Aquinas expounds in *De divinis nominibus*.
+[[feedback_one_translator_two_texts]] Recorded in V.3 [^2]. high.
+
+---
+
+**FILED — R-164: V.3 ATTRIBUTES TO V.2 AN ENDING V.2 DOES NOT HAVE, AND A CITY V.2 NEVER NAMES.**
+
+V.3:10–13 — *"The previous chapter ended on Aquinas in Rome, Eckhart preaching in Cologne and
+Maimonides ruling in Cairo, and it ended there for a reason."* **Two defects.** (a) V.2 does not end
+there: the three-figure passage is V-02:256–261 and three paragraphs follow, closing on *"The reader
+lost both at once."* (b) ⛔ **Cologne is not in V.2 at all** — V.2 says *"preaching in German to
+people who could not read Latin"* and names no city. V.3 supplies it and attributes it backwards.
+It is also the later candidate: Eckhart's vernacular preaching to beguines and Dominican nuns is
+best attested for Strasbourg and the Upper Rhine, c. 1314–1323/24; Cologne is 1323/24–1327.
+
+**Repair goes in V.2, not V.3** — decide which city the argument wants and put it where the figure
+is introduced. Recorded in V.3 [^1]. medium.
+
+---
+
+**FILED — R-165: THE FREE-CREATION REFUTATION NEVER NAMES THE DISTINCTION IT IS REFUTING.**
+
+✅ First, what checks out: V.3:250–253's *"in the same books, sometimes on the same page"* is **true**,
+and the page is ST I q.19 a.3, where Aquinas asserts both that the divine will is his essence and
+that his willing things apart from himself is not absolutely necessary.
+
+⛔ **But the chapter's knockout omits Aquinas's move on that page.** He distinguishes absolute from
+conditional (*ex suppositione*) necessity: God wills his own goodness necessarily and wills other
+things necessarily only on the supposition that he wills them. V.3:255–258 argues against that
+distinction — *"a necessary cause identical with its own act producing a contingent effect is not a
+resolution"* — **without ever naming it.** A reader who knows the *Summa* sees a refutation aimed at
+a doctrine Aquinas did not hold; a reader who does not will never learn something was left out. The
+chapter is entitled to think the distinction fails. It is not entitled to leave it unmentioned while
+calling the machinery *"the most impressive thing in the corpus."* Recorded in V.3 [^9]. high.
+
+---
+
+**FILED — R-166: V.3'S CLOSING TALLY COUNTS A SURVIVAL THE CHAPTER'S OWN BODY HAS DOWNGRADED.**
+
+V.3:290 — *"What survives the audit is three predicates out of five"* — treats agreement two as a
+clean survival. After R-161 the body of the chapter reads *"two gated fences, gated on close to the
+same principle"* and says outright *"neither fence is absolute and it would be convenient here to
+say both were."* **The tally does the convenient thing the body refused, four paragraphs later.**
+The honest count is two clean survivals and one analogous-with-a-matching-gate; saying so costs the
+closing sentence its rhythm and none of its substance. A maintained number sitting next to
+unmaintained prose vouches for it. [[feedback_fresh_number_vouches_for_stale_sentence]] Recorded in
+V.3 [^10]. medium.

@@ -27,6 +27,17 @@ Format — one per line, verdict written in plain words after the dash:
 
 ## Acknowledged
 
+- `V.3>V.1:6dab481a` — read Day 192 (2026-08-11). **Not clean — filed as R-163.** V.3:34 restates
+  V.1's Alexandrian-descent argument with no hedge and builds its whole first movement on it; V.1's
+  [^7] records that the inference survives at three or four links, not five. Checked against
+  primaries: the Plotinus→Proclus→Dionysius→Latin(832/862)→Baghdad chain holds, but **Maimonides is
+  not a link in it in the way Aquinas and Eckhart are** — his attribute doctrine is a synthesis that
+  includes the Muʿtazilite denial of attributes, i.e. kalām, which he then attacks in *Guide*
+  I.71–76. So *"one school, arriving in three languages"* is false at the third language.
+  ⛔ **Read the row that follows this one before trusting how this pair was found.** This gauge
+  printed this pair at the top of its tier-1 list and I derived it by hand instead of opening the
+  output — the ledger's unread count was in my carrier and I read past it. R-162.
+
 - `V.9>IV.10:a3823532` — read Day 192 (2026-08-11). **Not clean — filed as R-151.** V.9 reprints
   IV.10's *"modern focus on physical evidence can only detect the cross-section"* sentence, which
   IV.10 [^6] establishes is **not in the source at all**. Acked here only so the gauge's tier-1

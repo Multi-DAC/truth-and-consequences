@@ -541,8 +541,37 @@ def main():
     print("    see the census of what it can resolve at all.")
     print("  · The temporal test asks WHEN, never WHAT. A citing line touched after the")
     print("    note landed for an unrelated reason (a typo fix) leaves tier 1 silently.")
-    print("  · Books I and V carry 0 notes, so no reference INTO them can ever flag.")
-    print("    That is an absence of instrument, not an absence of rot.")
+    # Measured, not remembered. This line read "Books I and V carry 0 notes" as a
+    # hardcoded string; V.1, V.2 and V.3 were retrofitted on Day 192 and the limit went
+    # on printing the pre-retrofit corpus. A gauge whose LIMIT block is a literal is a
+    # stamp, not a gauge — Drift #287 inside the disclaimer of an instrument built to
+    # catch exactly this. Recompute it every run.
+    books = []                      # book order = first appearance in `ordered`
+    for c in ordered:
+        b = c.cid.split(".")[0]
+        if b not in books:
+            books.append(b)
+    fully = [b for b in books
+             if not any(corrective.get(c.cid)
+                        for c in ordered if c.cid.split(".")[0] == b)]
+    if fully:
+        label = ", ".join("the CODA" if b == "C" else f"Book {b}" for b in fully)
+        print(f"  · No corrective note anywhere in {label}, so no reference INTO")
+        print("    them can ever flag. That is an absence of instrument, not an")
+        print("    absence of rot.")
+    else:
+        print("  · Every book now carries at least one corrective note, so no book is")
+        print("    structurally invisible to the temporal test. Individual CHAPTERS")
+        print("    still are: a reference into an un-retrofitted chapter cannot flag.")
+    bare = [c.cid for c in ordered if not corrective.get(c.cid)]
+    print(f"    Chapters with no corrective note: {len(bare)}/{len(ordered)}"
+          + (f" — {', '.join(bare[:8])}{' …' if len(bare) > 8 else ''}" if bare else ""))
+    print("  · ⛔ THE EDGE IS CHAPTER→CHAPTER. A caveat attached to a FIGURE rather than")
+    print("    to a chapter has no edge to travel along and is invisible here. V.2 [^6]")
+    print("    qualifies *Eckhart*; V.3 restates the same claim more strongly without")
+    print("    citing V.2, so nothing flags. R-162. This is the known blind spot and it")
+    print("    is not small: the corpus cites people far more often than it cites")
+    print("    chapters.")
 
     if not control_ok:
         return 1
