@@ -1,5 +1,41 @@
 # BOOK V — HAND ROSTER OF SOURCES
 
+## ⛔ STATUS: REFUTED BY THE SECOND PASS (Day 192, later the same day). DO NOT USE THE `real:` FIGURES BELOW.
+
+R-156 called this file a hypothesis and owed it a second pass by something that is
+not me. **The pass ran — five blind readers, no roster, no gauge output, no names
+supplied, method only — and it refuted the roster.** The `real:` figure on every
+chapter line below is an undercount, and the undercount is *not* small.
+
+The instance that settles it is **V.11**, the one chapter this file calls *"the
+only chapter where the gauge is essentially right."* Roster: **5**. Named
+authorities actually in the prose, each verified by grep after the readers
+reported them: **18** — Augustine, Maimonides, Śaṅkara, Zhuangzi, Dionysius,
+Cusanus, Harner, Spare, Guénon, Wilber, Huxley, Schuon, Stace, Huston Smith,
+Coomaraswamy, Steuco, Katz, Forman.
+
+**And the chapter names its own roster, at line 275, in its own closing note:**
+
+> Huxley, Schuon, Stace, Steuco, Guénon, Coomaraswamy, Katz, Forman and Wilber are
+> named in this chapter **from general knowledge and standard reference
+> scholarship.**
+
+Nine names, listed by the chapter itself, with a grade attached and two flagged
+load-bearing. **Two of those nine are on the roster line below.** I enumerated
+this chapter *against the prose* and did not read the paragraph in which the prose
+enumerates itself.
+
+**The direction is the finding.** This was the chapter I marked clean. The roster's
+scrutiny went where I expected the gauge to fail and stopped where I expected it to
+pass, so the error survives precisely where nothing was looking.
+[[feedback_scrutiny_is_motive_shaped]] [[feedback_guard_built_in_the_feared_direction]]
+
+Blind outputs: `review/BLIND-V/blind-{A..E}-*.md`. Full account: **R-157**.
+Counts are **not** comparable between readers — see **R-159** before quoting any
+number from any of these files.
+
+---
+
 *Day 192. The gate item before any Book V endnote is written.*
 
 ## Why this file exists

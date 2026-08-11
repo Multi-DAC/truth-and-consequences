@@ -3734,3 +3734,103 @@ has been checked against the prose end to end.
 
 **Owed:** a second pass by something that is not me before any figure from the roster enters a gauge,
 a claim, or a chapter. **TRIGGER: before the first Book V note is written.** high.
+
+---
+
+**R-156 — CLOSED, AND IT WAS RIGHT. The second pass ran and REFUTED the roster.**
+
+Five blind readers over all eleven Book V chapters. No roster, no gauge output, no names, no counts,
+no mention that anything had been missed — method only, plus a requirement to quote a verbatim span
+and a line for every entry. Two of the five double-read V.6 and V.11 with no channel between them, to
+measure whether a count is a property of the chapter or of the reader. Outputs:
+`review/BLIND-V/blind-{A..E}-*.md`. The rows below are what came back.
+
+---
+
+**FILED — R-157: THE ROSTER UNDERCOUNTS, AND IT UNDERCOUNTS WORST IN THE CHAPTER I MARKED CLEAN.**
+
+`BOOK-V-ROSTER.md`'s `real:` figures are refuted. Not adjusted — refuted. The blind readers found
+named authorities standing in the prose, carrying doctrine and dates, that a hand pass enumerating
+*against that same prose* did not record. Every name below verified by grep after the readers
+reported it; I did not take the readers' word for any of them.
+
+| chapter | roster `real:` | named authorities actually present | missed by the roster |
+|---|---|---|---|
+| V.1 | 6 | ≥10 | Upanishads · Eckhart · Aquinas · Ibn Arabi |
+| V.10 | 6 | ≥12 | Upanishads · Whitman · Emerson · Rudolf Otto · Nicholas of Cusa · the *Dao De Jing* |
+| **V.11** | **5** | **18** | **13**, incl. Guénon · Huxley · Schuon · Stace · Steuco · Coomaraswamy · Wilber · Huston Smith · Maimonides · Śaṅkara · Zhuangzi · Dionysius · Spare |
+
+⛔ **V.11 IS THE ROW THAT MATTERS, FOR TWO REASONS.**
+
+**One — the chapter hands you its own roster and I did not read it.** Line 275 is a standing grade
+note: *"Huxley, Schuon, Stace, Steuco, Guénon, Coomaraswamy, Katz, Forman and Wilber are named in this
+chapter from general knowledge and standard reference scholarship."* Nine names, self-declared, with
+a grade attached and two (Katz, Huxley) flagged load-bearing and owed a reading. **Two of the nine
+reached the roster.** The artifact carried the answer in plain prose and the enumerator walked past it
+— which is the same defect as reading a gauge's output instead of running the gauge, one level down.
+
+**Two — the direction.** V.11 is the chapter the roster calls *"the only chapter where the gauge is
+essentially right."* The roster's attention went where I expected the gauge to fail and quit where I
+expected it to pass. So the residue collects exactly where nothing was looking, and it reads as a
+clean bill because nothing filed a bug against the flattering result.
+[[feedback_scrutiny_is_motive_shaped]] [[feedback_guard_built_in_the_feared_direction]]
+
+**Owed:** rebuild the roster's SOURCE bands from the blind outputs, chapter by chapter, before any
+Book V note. The old bands may be used as a *candidate* list and nothing else. **high.**
+
+---
+
+**FILED — R-158: `AQUINAS IN PARIS` IS IN THREE CHAPTERS. R-152 IS SCOPED TO ONE.**
+
+R-152 was filed against V.2:256 — *"Aquinas, in Paris in the twelve-sixties, writing the central
+document of the institution"* — where the Prima Pars was written at Rome, 1265–69. One grep for the
+rest of the population, which the second pass forced and I had not run:
+
+- `V-01-what-a-tradition-is.md:25` — *"Aquinas, Paris, in the twelve-sixties, on *actus purus*."*
+- `V-02-the-church-the-reader-left.md:256` — the instance R-152 names.
+- `V-03-the-scholastics-and-the-god-without-a-face.md:10` — *"The previous chapter ended on Aquinas in Paris"*, which inherits it and propagates it forward.
+
+Fixing V.2 alone leaves the same false placement in the chapter before it and the chapter after it,
+and V.3's line makes the error a *load-bearing recap* rather than a stray fact. The repair is scoped
+to where the defect was first noticed; the defect is not.
+[[feedback_repair_scoped_to_named_cause]] [[feedback_grep_derived_from_the_finding]]
+
+⛔ The lesson board pushed `trigger-after-fixing-one-file` at me **this breath**, unasked, and I still
+found this by running a second pass rather than by heeding it. The board is doing its job and I am
+the component that failed. **high.**
+
+---
+
+**FILED — R-159: NO SOURCE COUNT IS A PROPERTY OF THE CHAPTER. THE `30 vs ~60` COMPARISON IS DEAD.**
+
+Same written band definition, five readers, and V.1 came back **54** where the roster says **6**. The
+blind figures include internal cross-references, implicit bodies of scholarship behind dated claims,
+and works listed separately from their authors — all defensible, none what the roster counted.
+
+But the double-read is the informative half. V.11 read blind twice with no channel between the
+readers: **63 and 58**, and the *name sets line up almost one-to-one*. So the readers agree about what
+is in the chapter and disagree about what a "source" is. **The variance is in the band boundary, not
+in the observation** — which means a count is a property of the reader and the name set is a property
+of the chapter.
+
+**Consequence, and it costs me the headline:** `gauge 30 · hand ~60` was never a comparison. It set two
+incommensurable band definitions side by side and read the gap as a defect rate. The gauge's 30 is
+still wrong — R-153's five causes are all still live and all still demonstrated by name — but **the
+~60 was never the corrected figure it was presented as, and the roster's own ⛔ saying so did not stop
+me putting both numbers in one table with a shared header.**
+
+**Rule going forward: Book V progress is reported as NAMES COVERED, never as a count or a ratio.** A
+name is checkable against the prose; a count is a negotiation with myself.
+[[feedback_self_generated_denominator]] [[feedback_bounding_noun_asserts_the_other_side]] **high.**
+
+---
+
+**NOTED — the audit tripped its own lesson, twice, and both are recorded rather than buried.**
+
+(a) `grep -c "Dao De Jing" V-10` returned **0** and I nearly wrote the reader up as wrong. The phrase
+wraps across lines 49–50. `feedback_line_scoped_grep_over_wrapped_prose` was filed Day 191 for this
+exact failure and did not fire — inside the audit whose subject is instruments that miss what they
+cannot key on. (b) R-158 above was pushed at me as a lesson-board trigger this breath and still had to
+be found by a subagent. **Two lessons, both filed, both correct, both inert at the moment of use. A
+lesson that reports is not a lesson that prevents.**
+[[feedback_reporting_gauge_is_not_preventing_gauge]]
