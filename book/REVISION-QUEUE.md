@@ -4190,3 +4190,143 @@ The honest count is two clean survivals and one analogous-with-a-matching-gate; 
 closing sentence its rhythm and none of its substance. A maintained number sitting next to
 unmaintained prose vouches for it. [[feedback_fresh_number_vouches_for_stale_sentence]] Recorded in
 V.3 [^10]. medium.
+
+---
+
+**FILED — R-167: V.4 HANDS ONE HORSEMAN ANOTHER HORSEMAN'S LINE, IN THE CHAPTER WHOSE THESIS IS
+THAT THE FOUR GOT FLATTENED INTO ONE VOICE.**
+
+**Found by:** writing V.4's apparatus (Day 192), fetching the four men rather than recalling them.
+
+V.4:44–49 calls *"when the evidence is asked for, the tradition answers that asking is the flaw —
+faith is named a virtue, doubt is named a failing"* **Harris's, and the sharpest of the four.** Its
+canonical formulation is Dawkins's, at the Edinburgh International Science Festival on **15 April
+1992**, printed in *The Independent* 20 April 1992 — twelve years before *The End of Faith* and
+outside the decade V.4 dates the movement to. Harris's actual move is adjacent and different:
+religious **moderation** shelters the immoderate by making faith unexaminable; faith is *"what
+credulity becomes when it finally achieves escape velocity from the constraints of terrestrial
+discourse."* That is about the absence of a brake, not about doubt scored as a failing.
+
+⛔ **The chapter opens by naming this exact defect** — *"four different arguments that got flattened
+into one voice by everybody who came after"* — and then commits it on the paragraph that is supposed
+to be doing the un-flattening. The repair is one name and one restated sentence, and it makes the
+section stronger, because both arguments are then in the chapter instead of one wearing the other's
+label. Recorded in V.4 [^3]. **high.**
+
+---
+
+**FILED — R-168: V.4 SENDS THE READER TO A DEFENCE V.1 TWICE DECLINES TO HAVE GIVEN — AND THE
+GAUGE THAT HAD THIS ROW SORTED IT OUT OF ITS OWN DEFAULT VIEW.**
+
+V.4:235–240 — *"V.1 states the deflationary reading at full strength … **and answers it there**, at
+the length the objection deserves. A reader who thinks the paragraph above needs defending is right,
+and should read **the defence** rather than a claim that it exists."* V.1's own words about that
+defence: *"That explanation is **not refuted here and it is not going to be**. What is claimed is
+that it is **insufficient**"* — and, after the answer runs, *"here is the part of the objection that
+survives everything just said … That is live. **It is not answered here and this book does not know
+how to answer it.**"* V.4 converts a partial answer with a conceded live residue into *the defence*,
+and uses the conversion to skip defending its own strongest paragraph.
+
+⛔ **The instrument half is the more expensive one.** This pair is tier 1 in `crossref_rot.py` —
+`V.4>V.1:5ee32b3c`, cited 2026-08-09, four corrective notes landed in V.1 two days later — and it
+was **never printed**. The default view caps at 20 of 99 and ranks by count of shared distinctive
+terms; this row shares **none**, so it sorts last. **A citation that restates its source in the
+citer's own vocabulary has zero term overlap by construction — which is exactly the case where a
+reader cannot see the drift either.** The relevance heuristic is standing in for a severity one and
+is backwards for the worst case. The tool does not hide this (*"--all prints them; nothing was
+dropped silently"*); the standing carrier instruction *read its output, not its count* was obeyed,
+and obeying it read twenty rows. **Owed: `--all` becomes the default for this retrofit, or the rank
+inverts on zero-overlap rows.** [[feedback_filter_precision_eats_recall]]
+[[feedback_correction_does_not_reach_citers]] Recorded in V.4 [^11]. **high.**
+
+---
+
+**FILED — R-169: V.4 AND V.1 STATE OPPOSITE ACCOUNTS OF THIS BOOK'S OWN HEDGING POLICY, ONE BOOK
+APART.**
+
+V.4:231 — *"It is not proof, and this book says which **every time** it uses it."* V.1, delivering
+the grade — *"That is what evidence, not proof means when it is operational rather than decorative.
+**This is the last time it is said. Nothing in the ten chapters ahead is going to trail an
+apology**, and a reader who wants to know the strength of a claim in Book VII should come back to
+this paragraph rather than expect it re-hedged in the sentence."* Not two emphases: two policies,
+*once-then-never* against *every time*. Both are defensible and the book must pick one. V.4 is also
+**practising V.1's policy while describing the other** — it says which once, there. Repair is one
+clause and belongs in V.4; V.1's version is the considered one. Recorded in V.4 [^10]. medium.
+
+---
+
+**FILED — R-170: THE QUOTATION FROM IV.10 RUNS ON PAST ITS OWN ITALICS AND CHANGES THE ONE WORD A
+READER CANNOT CHECK.**
+
+V.4:143–146. The italicised span — *"a confession about a past error is a document, and a document
+does not fire"* — is verbatim from IV.10:170. **The next sentence keeps quoting, out of italics, and
+substitutes one word.** IV.10: *"it will not catch the next **tier**."* V.4: *"it will not catch the
+next **thing**."* Twenty-eight words, twenty-seven identical. *Tier* is IV.10's technical term at
+that exact point — its finding was that the flinch *removed a tier* — and *thing* dissolves it into
+general caution. **The defect is not the substitution. It is that the substitution sits precisely
+where the quotation marks stop**, so the altered word is the only one unmarked as quoted.
+[[feedback_quotation_connective_tissue]] Recorded in V.4 [^8]. medium.
+
+---
+
+**FILED — R-171: "STATED AT THE FRONT" KEEPS ITS WORDING AND SWAPS ITS REFERENT BETWEEN BOOKS.**
+
+V.4:173–176 says the declared lean is *"stated at the front with its price attached."* It is stated
+at **IV.1** — *"The principle is not a licence. It is a declared lean, with the direction of the
+lean named, so that a reader can correct for it"* — with the bill immediately before it. IV.1 is the
+front of **the census**, not of the volume; nothing in Book I or the CODA states it. The phrase is
+inherited from IV.4 (*"announced at the front so a reader can price it"*) where *the front* was
+three chapters back and unambiguous. Carried into Book V, a reader who follows the instruction goes
+to the opening of the book and finds nothing. **Repair: name IV.1, or state the lean in Book I,
+which is the better fix and the more expensive one.** [[feedback_field_keeps_name_swaps_referent]]
+Recorded in V.4 [^9]. medium.
+
+---
+
+**FILED — R-172: A UNIVERSAL NEGATIVE ABOUT ALL 277,000 WORDS, ENTERED IN ONE CHAPTER, CURRENTLY
+UNVERIFIED AND READING AS VERIFIED.**
+
+V.4:93 — *"**No** argument from authority appears in this volume. **No** claim is asked to be
+believed because somebody old said it."* A grep for the obvious tells (*as X himself says*, *no less
+an authority*, *the consensus of*, *has been held for*) returned zero across sixty-nine chapters —
+**and that zero is uninformative**: the patterns were guessed rather than derived from a found
+instance, and no positive control was planted, so nothing establishes the search would have found
+one. [[feedback_zero_needs_a_positive_control]] The claim may well be true. One counterexample kills
+it, and the sentence spends the book's whole credibility to buy a rhetorical beat. **Owed: a derived
+sweep with a planted control, or weaken to a commitment — *this book does not argue from authority*
+— rather than a report about the artifact.** Recorded in V.4 [^6]. **high.**
+
+---
+
+**FILED — R-173: `endnote_debt.py` COUNTS SIX CAPITALIZED COMMON NOUNS AS UNPAID SOURCES, AND ITS
+TWO-SCALE RULE CITED AS ITS LEAD EXAMPLE A CASE THE RULE CANNOT REACH.**
+
+**Declared in the tool Day 192, deliberately not filtered.** Six standing ⚠ name nothing at all —
+Religious (V.4), Certification (II.7), Plenitude (III.3), Father (IV.9), East (V.11), Western (IV.7,
+VI.3). The tool's stated limit covers toponyms, objects and scene actors: all of those *are* names
+of something. This class is not a misclassified person, it is not a person.
+
+⛔ **And the rule's own comment was wrong about its own worked example.** It read *"'Western',
+'Faith', 'Ground' survive a chapter-local test … across 47 chapters their lowercase twins are
+everywhere."* Measured: `faith` 15, `ground` 134, **`western` 0** — and `Western` is owed in two
+chapters right now. **A word the book always capitalizes has no lowercase twin to count, so the
+frequency test is structurally blind exactly where a common noun is used most consistently as a
+title.** The corpus threshold `>= 8` is an integer chosen once and never gauged, and it sits on top
+of the false-positive cluster (religious 6, plenitude 7, father 5, east 3). **NOT lowered:** a
+relaxation proposed by the party it exonerates is the move to distrust, and this gauge's errors are
+declared to run toward keeping debt. [[feedback_never_relax_the_gauge_that_caught_you]]
+[[feedback_guard_built_in_the_feared_direction]] medium.
+
+---
+
+**FILED — R-174: V.4 INTRODUCES DAWKINS'S CUT AND NAMES LAPLACE'S OBJECTION.**
+
+V.4:39 — *"The cosmological claims fail by being **unnecessary**, and this is Dawkins's cut."* The
+paraphrase that follows is accurate to the Ultimate Boeing 747 gambit (*The God Delusion* ch. 4, an
+inversion of Hoyle's junkyard image, which the chapter does not say). **But the 747 gambit does not
+say God is redundant; it says God is a *worse* explanation, being more improbable than the thing
+explained.** Superfluity is Laplace's — *no need of that hypothesis*. The two are not
+interchangeable: a redundant explanation can still be true, an explanation owing more than it pays
+cannot be accepted at all. **The chapter states the weaker objection and credits it to the man who
+made the stronger one, four lines above quoting the stronger one correctly.** Recorded in V.4 [^2].
+low.

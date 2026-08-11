@@ -56,7 +56,48 @@ Format — one per line, verdict written in plain words after the dash:
   did not. Narrowed to the one ruling, with the caveat carried across in-text. **A chapter that cites
   a corrected chapter inherits the correction, and nothing but this gauge can see when it has not.**
 
-<!-- 53 tier-1 citations remain unread as of Day 192. That number is the debt, and it is
-     supposed to be uncomfortable. Do not bulk-ack it.
-     Both of the two read so far came back DIRTY. Two is not a sample to extrapolate from, and it
-     is not a sample to dismiss either. -->
+- `V.3>V.1:6dab481a` — read Day 192 (2026-08-11). V.3:34 invokes V.1's transmission count. All four
+  of V.1's ⛔ notes landed on the transmission spine, and V.3's own [^2] already carries the
+  qualification V.1 [^7] demands (three or four links, not five). **Read, and clean because the
+  repair had already travelled.** The one case so far where the correction reached the citer.
+
+- `V.4>V.1:5ee32b3c` — read Day 192 (2026-08-11), **and DIRTY, and the gauge never showed it to
+  me.** V.4:235 vouches that V.1 *"answers"* the deflationary objection and sends the reader to
+  *"the defence"*; V.1 says *"not refuted here and it is not going to be"* and, of the residue,
+  *"it is not answered here and this book does not know how to answer it."* Filed as R-168. **The
+  four ⛔ notes in V.1 do not touch this — they are all on the transmission spine — so the flag was
+  right for the wrong reason and the reading found a worse defect than the one the flag predicts.**
+
+  ⛔ **AND THE ROW WAS NEVER PRINTED.** The default view caps at 20 of 99 and ranks by count of
+  shared distinctive terms. This pair shares **none**, so it sorted last of ninety-nine. A citation
+  that restates its source in the citer's own words has zero overlap *by construction* — which is
+  exactly when a reader cannot see the drift either. **The rank is a relevance heuristic doing a
+  severity job, and it is backwards on the worst case.** Read with `--all` from here on.
+
+- `V.4>V.1:822cdb95` — the live key for the row above.
+  ⛔ **AND HERE IS THE MECHANISM DEFEATING ITSELF, WHICH IS WORTH MORE THAN THE ROW.** The key
+  `5ee32b3c` was correct when I read the pair and dead ninety seconds later, because I then appended
+  `[^11]` to that paragraph — and the key is a hash of the paragraph's text. The file's rule at the
+  top is right that *a repair deserves a re-read*. **But during an endnote retrofit, reading a pair
+  and annotating it are the same operation.** The act of recording that I read it is what kills the
+  record. So every ack filed during this retrofit is born dead unless the key is re-derived after
+  the annotation lands, and nothing in the tool or this file says so. **A gauge whose invalidation
+  rule fires on the practice it exists to support will read as vigilance and behave as amnesia.**
+  Not repaired here: the rule is right in general and the fix is procedural — derive the key last.
+
+<!-- ⛔ AND THE COUNT DID NOT MOVE, FOR A REASON THAT MATTERS: 97 before these two acks and 97
+     after. Acking two rows subtracted two; writing V.4's eleven notes MANUFACTURED two new tier-1
+     rows pointing into V.4 from chapters that cite it. Net zero. **Every apparatus written adds
+     debt to this gauge at roughly the rate the reading retires it.** The number cannot fall while
+     the retrofit runs, and a flat number here therefore means work happened, not that work
+     stalled. Do not read this total as progress in either direction. -->
+
+<!-- 97 of 99 tier-1 citations remain unacknowledged as of Day 192 — the total ROSE from 53 as
+     Book V's apparatus landed more ⛔ notes, which is the gauge working, not slipping. That number
+     is the debt, and it is supposed to be uncomfortable. Do not bulk-ack it.
+     FOUR read so far. THREE came back dirty (V.9>IV.10, IV.10>IV.9, V.4>V.1); one came back clean
+     (V.3>V.1) and it was clean because the qualification had already been carried forward by hand.
+     Four is not a sample to extrapolate from, and it is not a sample to dismiss either.
+     ⛔ Note what the one clean read has in common with nothing else here: it is the only pair where
+     the citing chapter's apparatus was written AFTER the cited chapter's. Order of writing, not
+     care, may be the whole variable. Nothing measures that yet. -->

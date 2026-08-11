@@ -349,11 +349,26 @@ def scan_prose(prose, corpus_lower=None):
                 if not cn:
                     continue
                 display, surname = cn
-                # TWO SCALES, because one chapter is a small sample. "Western",
-                # "Faith", "Ground" survive a chapter-local test and are plainly
-                # not authors; across 47 chapters their lowercase twins are
-                # everywhere. Still measured against the text, still no curated
-                # list to maintain -- just a corpus the size of the book.
+                # TWO SCALES, because one chapter is a small sample. "Faith" and
+                # "Ground" survive a chapter-local test and are plainly not
+                # authors; across the chapter corpus their lowercase twins are
+                # everywhere (15 and 134). Still measured against the text, still
+                # no curated list to maintain -- just a corpus the size of the book.
+                #
+                # ⛔ Day 192: this comment listed "Western" FIRST among the three
+                # cases the corpus scale rescues. Measured: `western` lowercase
+                # appears ZERO times in the chapter corpus, and `Western` is still
+                # owed in IV.7 and VI.3 today. The rule's own lead example is the
+                # one it cannot reach -- a word the book capitalizes ALWAYS has no
+                # lowercase twin to count, so the frequency test is structurally
+                # blind exactly where a word is most consistently used as a title.
+                # The comment asserted "everywhere" about a set it never counted.
+                # The threshold 8 is likewise an integer chosen once and never
+                # gauged, and it sits directly on top of the false-positive
+                # cluster: religious 6, plenitude 7, father 5, east 3. NOT lowered
+                # here -- a relaxation proposed by the party it exonerates is the
+                # move to distrust, and the errors are declared to run toward
+                # KEEPING debt. Declared, not filtered.
                 if lower[surname.lower()] >= 2 or corpus_lower[surname.lower()] >= 8:
                     commons[surname] += 1
                     continue
@@ -716,6 +731,22 @@ def main():
     print("      Zhuangzi's characters, and does NOT extract Zhuangzi. III.3 extracts")
     print("      three Borges characters. Over-counting characters while missing the")
     print("      author they belong to is worse than inflation and is NOT fixed here.")
+    print("    ⛔ NEW CLASS, measured Day 192 — NOT A MISCLASSIFIED PERSON, NOT A")
+    print("      PERSON AT ALL. Six of the standing ⚠ are capitalized COMMON NOUNS:")
+    print("      Religious (V.4), Certification (II.7), Plenitude (III.3), Father")
+    print("      (IV.9), East (V.11), Western (IV.7, VI.3). The stated limit above")
+    print("      names toponyms, objects and scene actors — all of which ARE names")
+    print("      of something. This class names nothing. It survives because the")
+    print("      lowercase-twin test needs 2 in-chapter or 8 corpus-wide hits and")
+    print("      these sit at religious 6 · plenitude 7 · father 5 · east 3 ·")
+    print("      certification 1 · western 0. THE THRESHOLD 8 SITS ON TOP OF THE")
+    print("      CLUSTER and was never gauged. Deliberately NOT lowered: the party")
+    print("      that would benefit is the one proposing it. Declared, not filtered.")
+    print("    ⛔ AND `Western` WAS THE COMMENT'S OWN LEAD EXAMPLE of a case the")
+    print("      corpus scale rescues. It has ZERO lowercase twins in the chapter")
+    print("      corpus and is owed in two chapters right now. A word the book")
+    print("      ALWAYS capitalizes has nothing to count, so this test is blind")
+    print("      exactly where a common noun is used most consistently as a title.")
 
     if show_sites:
         print("\n  SITES — the worklist, one line per source:")
