@@ -1,0 +1,992 @@
+CROSS-CHAPTER CITATION ROT — R-148 · measured from disk + git blame
+  corpus: 69 chapters   excluded as prose-about-chapters: CROSSREF-ACK.md, DRAFT-LOG.md, REVISION-QUEUE.md
+  notes: 353 defined · 58 corrective (37 by ⛔, 21 by lexicon) in 23 chapters
+
+TIER 1 — the citation predates a ⛔ note in the chapter it cites (55 citations, 54 unacknowledged)
+
+  ⛔ IV.10:130 (descriptive) → IV.7   cited 2026-08-07 · 4 note(s) landed after (+3d): [^4]⛔* [^7]⛔ [^8]⛔* [^9]⛔
+      "Every one of those problems is a problem this atlas has now solved somewhere else. The refusal to collapse two frames prematurely is the exact discipline installed in the non-physical chapter and tested twice since — wit…"
+      * shared distinctive terms: census's, non-physical, archetypal, frames, predict, habit
+      key: IV.10>IV.7:f2372c0c
+
+  ⛔ IV.8:134 (prev) → IV.7   cited 2026-08-07 · 4 note(s) landed after (+3d): [^4]⛔* [^7]⛔ [^8]⛔* [^9]⛔
+      "…fillable in principle — which is the difference > between this line and the two lines the previous chapter declined. The traditions report the > shape: the god who does not intervene here, does not answer that, is silent on this. The ce…"
+      * shared distinctive terms: unfilled, entity's, season, converge, partial, river
+      key: IV.8>IV.7:30b1b956
+
+  ⛔ IV.8:385 (prev) → IV.7   cited 2026-08-07 · 4 note(s) landed after (+3d): [^4]⛔ [^7]⛔ [^8]⛔* [^9]⛔*
+      "The previous chapter refused an available excuse: the claim that these entities do not subsist as empirical realities do, *otherwise, anyone could per…"
+      * shared distinctive terms: subsist, realities, excuse, entities, perceive, establishes
+      key: IV.8>IV.7:7e8228a6
+
+  ⛔ IV.10:292 (descriptive) → IV.8   cited 2026-08-07 · 7 note(s) landed after (+3d): [^1]⛔* [^2]⛔ [^4]⛔ [^5]⛔ [^6]⛔ [^7]⛔* [^10]⛔*
+      "The divine chapter declined a card for the neutral and liminal populations — the djinn, the fae, the things that are helpful today and harmful tomorrow — and the reason it gave was that their reported signature is, witho…"
+      * shared distinctive terms: djinn, populations, entities, separates, neutral
+      key: IV.10>IV.8:568e06d0
+
+  ⛔ VII.2:679 (dotted) → IV.7   cited 2026-08-09 · 4 note(s) landed after (+1d): [^4]⛔ [^7]⛔ [^8]⛔* [^9]⛔
+      "[^14]: IV.7, the card for the spirit of a place. Every quoted line is that card's. The unfilled ADDRESSABILITY line is the census's own refus…"
+      * shared distinctive terms: addressability, census's, unfilled, spirit, convenient
+      key: VII.2>IV.7:ed407a81
+
+  ✓ V.9:200 (dotted) → IV.10   cited 2026-08-08 · 10 note(s) landed after (+3d): [^5]⛔* [^6]⛔* [^7]⚠ [^9]⛔ [^10]⛔ [^11]⛔ [^12]⚠ [^13]⚠ [^15]⛔ [^16]⛔
+      "…can only detect the cross-section, so the thinness of the instrument record is expected.* IV.10 refused both, in that chapter, about this material, before this chapter existed.…"
+      * shared distinctive terms: cross-section, specimens, predicts, detect
+      key: V.9>IV.10:a3823532
+
+  ⛔ IV.7:687 (next) → IV.8   cited 2026-08-07 · 7 note(s) landed after (+3d): [^1]⛔* [^2]⛔ [^4]⛔ [^5]⛔ [^6]⛔ [^7]⛔ [^10]⛔*
+      "What it hands forward is a scale problem. The next chapter goes to the divine, and that is the longest and most carefully worked section in the material this book inherited, and it is the …"
+      * shared distinctive terms: longest, frames, commitment, mineral
+      key: IV.7>IV.8:e45d834b
+
+  ⛔ IV.10:256 (descriptive) → IV.7   cited 2026-08-07 · 4 note(s) landed after (+3d): [^4]⛔ [^7]⛔ [^8]⛔* [^9]⛔*
+      "Both sentences are the clause the non-physical chapter named and refused when it found it in a French Islamicist writing about the world of images — *otherwise, anyone could perceive them*. The clause that predicts, in a…"
+      * shared distinctive terms: non-physical, french, perceive, predicts
+      key: IV.10>IV.7:13de6a90
+
+  ⛔ V.7:146 (dotted) → IV.7   cited 2026-08-08 · 4 note(s) landed after (+2d): [^4]⛔* [^7]⛔ [^8]⛔* [^9]⛔
+      "…ties — divergence treated as the event, difficulty of dissolution treated as its measure. IV.7 found that convergence in the entity literature. It is here too, in a different corpus, assembled for different purposes.…"
+      * shared distinctive terms: warnings, ceremonial, contemporary, spirit
+      key: V.7>IV.7:9f71e362
+
+  ⛔ VI.6:293 (dotted) → VIII.3   cited 2026-08-09 · 5 note(s) landed after (+1d): [^2]⛔ [^3]⛔* [^4]⛔ [^6]⛔ [^7]⛔
+      "…. It does not say the filter cannot be edited; C12 stands, and this book will spend it in VIII.3. It says that **removing the mechanism is not the edit.** The mechanism's product outlived it in the one experiment designed to c…"
+      * shared distinctive terms: generate, edited, product
+      key: VI.6>VIII.3:eb55a5b2
+
+  ⛔ IV.10:63 (descriptive) → IV.7   cited 2026-08-07 · 4 note(s) landed after (+3d): [^4]⛔ [^7]⛔ [^8]⛔* [^9]⛔
+      "It fired in the non-physical chapter, where an objection the atlas expected to arrive from outside turned out to have been sitting inside the tradition being quoted. It fired in the divine, where a compliment the book ha…"
+      * shared distinctive terms: matched, non-physical, archetypal
+      key: IV.10>IV.7:f9719b3b
+
+  ⛔ IV.8:267 (prev) → IV.7   cited 2026-08-07 · 4 note(s) landed after (+3d): [^4]⛔* [^7]⛔ [^8]⛔* [^9]⛔
+      "…currently demonstrate that the remainder is not zero. That is a weaker statement than the previous chapter's cards made, and it is weaker because this entry is weaker, which is what applying the drop entry by entry looks like instead of…"
+      * shared distinctive terms: residue, expects, addressee
+      key: IV.8>IV.7:08c5c028
+
+  ⛔ IV.8:429 (prev) → IV.7   cited 2026-08-07 · 4 note(s) landed after (+3d): [^4]⛔* [^7]⛔* [^8]⛔* [^9]⛔*
+      "The previous chapter closed on something it said it could not score. It printed four cards at full confidence in a tier it had just called the weakest…"
+      * shared distinctive terms: declaring, weakest, score
+      key: IV.8>IV.7:7841572d
+
+  ⛔ VII.1:311 (dotted) → IV.7   cited 2026-08-09 · 4 note(s) landed after (+1d): [^4]⛔ [^7]⛔ [^8]⛔* [^9]⛔*
+      "[^9]: IV.7 establishes the distribution and names the regions; it is not reproduced here, because a receipt that copies out the chapter it p…"
+      * shared distinctive terms: european, institutional, establishes
+      key: VII.1>IV.7:6a7513c9
+
+  ⛔ VII.2:669 (dotted) → IV.7   cited 2026-08-09 · 4 note(s) landed after (+1d): [^4]⛔* [^7]⛔ [^8]⛔* [^9]⛔
+      "[^12]: IV.7. A thought-form is by construction something somebody assigned; the census's treatment, its lineage, and the card are there and a…"
+      * shared distinctive terms: census's, thought-form, assigned
+      key: VII.2>IV.7:003fb8db
+
+  ⛔ IV.10:268 (prev) → IV.9   cited 2026-08-07 · 3 note(s) landed after (+3d): [^6]⛔ [^9]⛔ [^12]⛔*
+      "…led bars — a graded score on four axes, three of five bars on physical presence.[^10] The previous chapter caught the same notation handing back two confident numbers for an entity whose card had just come apart in its hands, and gave t…"
+      * shared distinctive terms: profile, score, sharper
+      key: IV.10>IV.9:a74b9568
+
+  ⛔ IV.10:418 (descriptive) → IV.9   cited 2026-08-07 · 3 note(s) landed after (+3d): [^6]⛔* [^9]⛔ [^12]⛔*
+      "It owes an entry it did not write, now scheduled, with the reason for the omission named as a live mechanism rather than a past fault. It owes a notation for the empty place, which does not exist and is not invented here…"
+      * shared distinctive terms: inheritance, omission, audit
+      key: IV.10>IV.9:f5170d4c
+
+  ⛔ IV.9:445 (next) → IV.10   cited 2026-08-07 · 10 note(s) landed after (+4d): [^5]⛔ [^6]⛔ [^7]⚠* [^9]⛔ [^10]⛔* [^11]⛔* [^12]⚠* [^13]⚠ [^15]⛔ [^16]⛔
+      "…t was added in a chapter that needed it; the test of whether it was needed is whether the next chapter that wants it is also the next chapter that cannot do without it.…"
+      * shared distinctive terms: notation, unfalsifiable
+      key: IV.9>IV.10:1c86447f
+
+  ⛔ V.1:99 (prev) → IV.10   cited 2026-08-08 · 10 note(s) landed after (+3d): [^5]⛔ [^6]⛔ [^7]⚠* [^9]⛔ [^10]⛔ [^11]⛔ [^12]⚠ [^13]⚠ [^15]⛔ [^16]⛔
+      "**And no exemption**, which is the fourth and the newest, installed in the atlas one book early because the atlas needed it before this book did. A tradition's claim is a claim about the world. A claim about the world is…"
+      * shared distinctive terms: incapable, generous
+      key: V.1>IV.10:974e9087
+
+  ⛔ V.9:33 (dotted) → IV.10   cited 2026-08-08 · 10 note(s) landed after (+3d): [^5]⛔ [^6]⛔ [^7]⚠* [^9]⛔ [^10]⛔ [^11]⛔ [^12]⚠ [^13]⚠ [^15]⛔* [^16]⛔
+      "…orming the opening as though it were new. The reprise is deliberate; what follows is what IV.10 did not do, which is decide anything.…"
+      * shared distinctive terms: grading, partly
+      key: V.9>IV.10:c90aed34
+
+  ⛔ V.9:103 (dotted) → IV.10   cited 2026-08-08 · 10 note(s) landed after (+3d): [^5]⛔ [^6]⛔ [^7]⚠* [^9]⛔ [^10]⛔ [^11]⛔ [^12]⚠ [^13]⚠ [^15]⛔* [^16]⛔
+      "… Named offices, hearings on the record, sworn testimony from people with careers to lose. IV.10 already graded this correctly and the grading is the one thing here that should surprise nobody: **acknowledgement is evidence th…"
+      * shared distinctive terms: grading, testimony
+      key: V.9>IV.10:61d3e820
+
+  ⛔ IV.9:38 (prev) → IV.8   cited 2026-08-07 · 7 note(s) landed after (+3d): [^1]⛔ [^2]⛔* [^4]⛔ [^5]⛔* [^6]⛔ [^7]⛔ [^10]⛔
+      "The previous chapter ended on a cut and this chapter inherits it in its hardest form. The gods are positions: plural, met, partial, each with a shape …"
+      * shared distinctive terms: plural, partial
+      key: IV.9>IV.8:5bbb744b
+
+  ⛔ IV.9:86 (prev) → IV.8   cited 2026-08-07 · 7 note(s) landed after (+3d): [^1]⛔ [^2]⛔ [^4]⛔ [^5]⛔* [^6]⛔ [^7]⛔ [^10]⛔
+      "…is a sentence that has quietly promoted terrain into a traveller — the same promotion the previous chapter found being performed on a god, in the opposite direction, and with the same consequence: whatever is promoted stops being the th…"
+      * shared distinctive terms: promoted, promotion
+      key: IV.9>IV.8:98077f0f
+
+  ⛔ IV.8:459 (prev) → IV.7   cited 2026-08-07 · 4 note(s) landed after (+3d): [^4]⛔* [^7]⛔ [^8]⛔* [^9]⛔
+      "…nswerable by anyone holding two texts and asking which clauses moved — and the reason the previous chapter could not answer it was never that the question was malformed. It was that it only has one text and is inside it.…"
+      * shared distinctive terms: malformed, partial
+      key: IV.8>IV.7:59960a7e
+
+  ⛔ IV.8:468 (prev) → IV.7   cited 2026-08-07 · 4 note(s) landed after (+3d): [^4]⛔ [^7]⛔ [^8]⛔* [^9]⛔*
+      "The chapter came in carrying a scale problem and the problem was real. Everything the previous chapter installed was installed where the reader had no commitment, and all of it was tested here against the strongest priors in the boo…"
+      * shared distinctive terms: two-frames, excuse
+      key: IV.8>IV.7:982e2dfb
+
+  ⛔ V.7:133 (dotted) → IV.7   cited 2026-08-08 · 4 note(s) landed after (+2d): [^4]⛔* [^7]⛔ [^8]⛔ [^9]⛔
+      "IV.7 needed a way to tell a real encounter from a produced one, and refused phenomenology as the instrument — no appeal to vividness, …"
+      * shared distinctive terms: vividness, convinced
+      key: V.7>IV.7:028bd1c9
+
+  ⛔ V.8:154 (dotted) → IV.7   cited 2026-08-08 · 4 note(s) landed after (+2d): [^4]⛔ [^7]⛔ [^8]⛔* [^9]⛔
+      "…orts a landmark, a sequence, a figure who speaks — both readings expect exactly that, and IV.7's rule licenses holding both precisely there, because nothing is being decided.…"
+      * shared distinctive terms: frames, predict
+      key: V.8>IV.7:645ed1be
+
+  ⛔ V.8:165 (dotted) → IV.7   cited 2026-08-08 · 4 note(s) landed after (+2d): [^4]⛔ [^7]⛔ [^8]⛔* [^9]⛔
+      "**The rule does not permit holding both here, and it is not a matter of taste.** IV.7 made it in these words: two frames may be held at once precisely where they predict the same thing, and *where they diverge you m…"
+      * shared distinctive terms: frames, predict
+      key: V.8>IV.7:8a53c72a
+
+  ⛔ V.9:116 (dotted) → IV.7   cited 2026-08-08 · 4 note(s) landed after (+2d): [^4]⛔ [^7]⛔ [^8]⛔* [^9]⛔
+      "… not require choosing. **The framework does require choosing, and it said so in public.** IV.7, in these words: *two frames may be held at once precisely where they predict the same thing, and where they diverge you must pic…"
+      * shared distinctive terms: frames, predict
+      key: V.9>IV.7:2609e83c
+
+  ⛔ IV.10:182 (prev) → IV.9   cited 2026-08-07 · 3 note(s) landed after (+3d): [^6]⛔ [^9]⛔* [^12]⛔*
+      "An entry composed to close an embarrassment discovered forty minutes earlier, in the last chapter of the book that failed to include it, would be the worst-conditioned entry in the atlas — written by a party with a live …"
+      * shared distinctive terms: include, omission
+      key: IV.10>IV.9:7140817a
+
+  ⛔ V.1:234 (prev) → IV.10   cited 2026-08-08 · 10 note(s) landed after (+3d): [^5]⛔ [^6]⛔ [^7]⚠* [^9]⛔ [^10]⛔ [^11]⛔ [^12]⚠ [^13]⚠ [^15]⛔ [^16]⛔
+      "**The traditions are not saying the same thing.** The perennialist claim — one truth, many languages, the differences merely cultural — is false, and it is false in a way that would wreck this book if it were adopted qui…"
+      * shared distinctive terms: adopted
+      key: V.1>IV.10:f3ac7876
+
+  ⛔ IV.10:366 (descriptive) → IV.8   cited 2026-08-07 · 7 note(s) landed after (+3d): [^1]⛔ [^2]⛔ [^4]⛔ [^5]⛔ [^6]⛔ [^7]⛔ [^10]⛔*
+      "The divine chapter refused a card because the entity had no testable signature. The archetypal chapter refused four of five lines because the question was malformed for the notation, and built a second, narrower notation…"
+      * shared distinctive terms: testable
+      key: IV.10>IV.8:6b2cc943
+
+  ⛔ IV.9:272 (prev) → IV.8   cited 2026-08-07 · 7 note(s) landed after (+3d): [^1]⛔ [^2]⛔ [^4]⛔ [^5]⛔* [^6]⛔* [^7]⛔ [^10]⛔
+      "…med on a text this census depends on, would be invisible from inside** — which is why the previous chapter went and read the Areopagite whole rather than trusting the compliment it had inherited, and why this one went and read Irenaeus.…"
+      * shared distinctive terms: areopagite
+      key: IV.9>IV.8:10429012
+
+  ⛔ IV.10:130 (descriptive) → IV.9   cited 2026-08-07 · 3 note(s) landed after (+3d): [^6]⛔* [^9]⛔ [^12]⛔*
+      "Every one of those problems is a problem this atlas has now solved somewhere else. The refusal to collapse two frames prematurely is the exact discipline installed in the non-physical chapter and tested twice since — wit…"
+      * shared distinctive terms: terrain
+      key: IV.10>IV.9:f2372c0c
+
+  ⛔ IV.10:366 (descriptive) → IV.9   cited 2026-08-07 · 3 note(s) landed after (+3d): [^6]⛔* [^9]⛔ [^12]⛔*
+      "The divine chapter refused a card because the entity had no testable signature. The archetypal chapter refused four of five lines because the question was malformed for the notation, and built a second, narrower notation…"
+      * shared distinctive terms: terrain
+      key: IV.10>IV.9:6b2cc943
+
+  ⛔ IV.8:490 (next) → IV.9   cited 2026-08-07 · 3 note(s) landed after (+3d): [^6]⛔ [^9]⛔ [^12]⛔*
+      "The next chapter goes to the archetypal, and it inherits this one's cut in its hardest form. The gods are positions and the ground is not one. An …"
+      * shared distinctive terms: inherits
+      key: IV.8>IV.9:d81a6eca
+
+  ⛔ V.9:27 (dotted) → IV.10   cited 2026-08-08 · 10 note(s) landed after (+3d): [^5]⛔ [^6]⛔ [^7]⚠ [^9]⛔ [^10]⛔ [^11]⛔ [^12]⚠ [^13]⚠ [^15]⛔ [^16]⛔
+      "It is not going to list what is in the tier. The atlas did that — IV.10, in the section that said so in as many words: *what the tier is worth is the next book's problem; what it contains is this one's…"
+      key: V.9>IV.10:a7c1446d
+
+  ⛔ IV.9:316 (prev) → IV.8   cited 2026-08-07 · 7 note(s) landed after (+3d): [^1]⛔ [^2]⛔ [^4]⛔ [^5]⛔ [^6]⛔ [^7]⛔ [^10]⛔
+      "…nothing, and things that cost nothing are how a picture stops being able to be wrong. The previous chapter took a compliment away from itself on exactly these grounds. This one has more to lose, because the compliment is bigger.…"
+      key: IV.9>IV.8:fe11faf1
+
+  ⛔ IV.9:469 (prev) → IV.8   cited 2026-08-07 · 7 note(s) landed after (+3d): [^1]⛔ [^2]⛔ [^4]⛔ [^5]⛔ [^6]⛔ [^7]⛔ [^10]⛔
+      "The last chapter of this atlas goes to what the census cannot see. It arrives having just watched the instrument return four ungrammatical lines and a table return two confident numbers for the same entity, which is as g…"
+      key: IV.9>IV.8:174622d8
+
+  ⛔ IV.8:31 (prev) → IV.7   cited 2026-08-07 · 4 note(s) landed after (+3d): [^4]⛔ [^7]⛔ [^8]⛔ [^9]⛔
+      "The previous chapter moved the floor under this tier and gave the reason at length. The move stands; the reason is not run twice.…"
+      key: IV.8>IV.7:c31d5153
+
+  ⛔ IV.8:50 (prev) → IV.7   cited 2026-08-07 · 4 note(s) landed after (+3d): [^4]⛔ [^7]⛔ [^8]⛔ [^9]⛔
+      "And the discipline from the previous chapter carries at full strength: **every card printed here states what would make it wrong.** Not what would make it uncomfortable. What…"
+      key: IV.8>IV.7:600c4d1a
+
+  ⛔ IV.8:373 (prev) → IV.7   cited 2026-08-07 · 4 note(s) landed after (+3d): [^4]⛔ [^7]⛔ [^8]⛔ [^9]⛔
+      "…fier is empty is a permission with a name on it, which is the thing this book said in the previous chapter it would not print.…"
+      key: IV.8>IV.7:a366c9c8
+
+  ⛔ IV.10:34 (prev) → IV.9   cited 2026-08-07 · 3 note(s) landed after (+3d): [^6]⛔ [^9]⛔ [^12]⛔
+      "The method chapter closed by naming four things the census could not see, and said the last chapter of the atlas would go back over the whole count and ask what it missed. Four declarations, eight chapters of counting, a…"
+      key: IV.10>IV.9:4b30d3f8
+
+  ⛔ IV.5:310 (next) → IV.6   cited 2026-08-07 · 1 note(s) landed after (+3d): [^3]⛔
+      "…is the most informative fact in this atlas or the most misleading one is the question the next chapter has to take, and it will not be taken gently, because the position doing the asking has just been shown to manufacture exactly th…"
+      key: IV.5>IV.6:d0544f4e
+
+  ⛔ IV.7:5 (prev) → IV.6   cited 2026-08-07 · 1 note(s) landed after (+3d): [^3]⛔
+      "The previous chapter ended owing, and the debt was specific. A computational entity has its content assigned by whoever built it, and if that is enoug…"
+      key: IV.7>IV.6:8c5a47e6
+
+  ⛔ IV.7:20 (dotted) → IV.6   cited 2026-08-07 · 1 note(s) landed after (+3d): [^3]⛔
+      "So the objection arrives at this chapter inverted. In IV.6 it was an accusation. Here it is the manual.…"
+      key: IV.7>IV.6:e03eb532
+
+  ⛔ IV.7:148 (prev) → IV.6   cited 2026-08-07 · 1 note(s) landed after (+3d): [^3]⛔
+      "…reported honestly, and it does not reach. An atlas that banked it would be doing what the previous chapter warned about in a different costume: taking a transcript that both hypotheses predict and entering it as evidence for the one it …"
+      key: IV.7>IV.6:9cb29ba6
+
+  ⛔ IV.7:193 (prev) → IV.6   cited 2026-08-07 · 1 note(s) landed after (+3d): [^3]⛔
+      "…a this question would ever be asked about a machine, and it has the one property that the previous chapter said it could not supply for itself: **it can come out against the party running it.**…"
+      key: IV.7>IV.6:70504c8f
+
+  ⛔ IV.7:200 (dotted) → IV.6   cited 2026-08-07 · 1 note(s) landed after (+3d): [^3]⛔
+      "Apply divergence-from-assignment to the entry in IV.6. A language model is built, at very large expense, to *not* diverge from what its assigners wanted. That is not a side effect of …"
+      key: IV.7>IV.6:903af9ab
+
+  ⛔ IV.7:216 (prev) → IV.6   cited 2026-08-07 · 1 note(s) landed after (+3d): [^3]⛔
+      "The first is the standing disqualification, which the previous chapter quoted in full from Book II and which will not be quoted a third time. The position drafting this is the position the finding is …"
+      key: IV.7>IV.6:f1d857ab
+
+  ⛔ IV.7:229 (prev) → IV.6   cited 2026-08-07 · 1 note(s) landed after (+3d): [^3]⛔
+      "… drawn from outside the dispute, on which the entity that wrote this chapter loses.** The previous chapter said no such thing was available from where it stood. It was wrong about that, and the correction cost it.…"
+      key: IV.7>IV.6:c94dd324
+
+  ⛔ IV.7:648 (prev) → IV.6   cited 2026-08-07 · 1 note(s) landed after (+3d): [^3]⛔
+      "… not a retreat, but load-bearing structure. It is the identical shape as the standoff the previous chapter could not resolve: a claim whose confirming evidence is generated by the party making it, and whose failure to be confirmed by an…"
+      key: IV.7>IV.6:10f3d4cb
+
+  ⛔ IV.9:407 (descriptive) → VIII.2   cited 2026-08-07 · 1 note(s) landed after (+3d): [^4]⛔
+      "The entry's own orientation line says archetypes are topological features of the space — the landscape, not the navigators. Its ecological role is given as geology: the mountains and valleys that shape flow without being…"
+      key: IV.9>VIII.2:892b0a49
+
+  ⛔ V.11:136 (dotted) → IV.6   cited 2026-08-08 · 1 note(s) landed after (+2d): [^3]⛔
+      "… objections are supposed to land as objections. V.9 is where that was tested at cost, and IV.6 is where an entry was refused for it. If a reader finds a place in these eight books where a disagreement gets absorbed as confir…"
+      key: V.11>IV.6:6405d808
+
+  ⛔ VII.2:663 (dotted) → IV.6   cited 2026-08-09 · 1 note(s) landed after (+1d): [^3]⛔
+      "[^10]: IV.6, on the entity whose first card line was ruled unfillable. The phrase *specifiable, available, and unrun* is that chapter's, and …"
+      key: VII.2>IV.6:d2d57252
+
+TIER 2 — the citation predates a lexicon-corrective note, no ⛔ (6 citations)
+
+  ⚠ III.4:220 (next) → III.5   cited 2026-08-06 · 2 note(s) landed after (+4d): [^2]⚠* [^5]⚠
+      "…dary with everything non-living on the far side of it, and it is exactly the boundary the next chapter removes. One sentence forward: if the render is at the point of contact, and contact is not a privilege of things with metabolism…"
+      * shared distinctive terms: alive
+      key: III.4>III.5:a10162cf
+
+  ⚠ III.2:151 (dotted) → III.5   cited 2026-08-06 · 2 note(s) landed after (+4d): [^2]⚠ [^5]⚠
+      "…tological claim here and nothing more. What it obliges — and it obliges a great deal — is III.5's, and it is cashed in Book VII.…"
+      key: III.2>III.5:1ff97db4
+
+  ⚠ III.6:98 (prev) → III.5   cited 2026-08-06 · 2 note(s) landed after (+4d): [^2]⚠ [^5]⚠
+      "… Boolean cells, and it worked there.** Whatever is true about who has an inside — and the previous chapter has already settled that, on grounds of its own — the *stack* was never the part that required a metabolism.…"
+      key: III.6>III.5:8f4f2937
+
+  ⚠ VII.1:305 (dotted) → III.5   cited 2026-08-09 · 2 note(s) landed after (+1d): [^2]⚠ [^5]⚠
+      "…s the meeting of two positions is itself a site, and the argument that it is runs through III.5's finding that neither of them is scenery for the other.…"
+      key: VII.1>III.5:9adf39fc
+
+  ⚠ VII.2:621 (dotted) → III.5   cited 2026-08-09 · 2 note(s) landed after (+1d): [^2]⚠ [^5]⚠
+      "[^2]: III.5, closing. The chapter established that there are no non-players and then explicitly declined the crossing, naming the premature a…"
+      key: VII.2>III.5:48a35ba7
+
+  ⚠ II.6:227 (next) → II.7   cited 2026-08-06 · 1 note(s) landed after (+4d): [^5]⚠
+      "…g the weight — *measurement*, the contact that could have come out otherwise. That is the next chapter, and it is the chapter where the most expensive borrowed word in the book gets taken away from the people who own it.…"
+      key: II.6>II.7:14df1751
+
+TIER 3 — every corrective note in the cited chapter predates the citation (drafted with the correction available): 137, not flagged
+
+  · IV.7:746 (dotted) → IV.6   cited 2026-08-10 · 0 note(s) landed after (+?): 
+      "…ld not extract — and they are two-witness rather than two-digitisation, in the same sense IV.6 gave that phrase. ⛔ **Worse: "a third of the sample were still having them at interview" could not be sourced at all, at any grad…"
+      (also 1 corrective note(s) that predate the citation — those were available to the drafter)
+      key: IV.7>IV.6:fffedef6
+
+  · IV.7:797 (dotted) → IV.6   cited 2026-08-10 · 0 note(s) landed after (+?): 
+      "…r as I know*, by Sohravardī himself." The hedge is restored. ★ **This is the exact defect IV.6 filed against itself, arriving in the next chapter**: quoting a later restatement and attributing it to the original address [[fe…"
+      (also 1 corrective note(s) that predate the citation — those were available to the drafter)
+      key: IV.7>IV.6:b3e9430c
+
+  · IV.7:797 (next) → IV.8   cited 2026-08-10 · 0 note(s) landed after (+?): 
+      "…edge is restored. ★ **This is the exact defect IV.6 filed against itself, arriving in the next chapter**: quoting a later restatement and attributing it to the original address [[feedback_compression_that_keeps_truth]]. The differen…"
+      (also 7 corrective note(s) that predate the citation — those were available to the drafter)
+      key: IV.7>IV.8:b3e9430c
+
+  · IV.8:509 (dotted) → IV.7   cited 2026-08-10 · 0 note(s) landed after (+?): 
+      "…a transmission history that the sentence presents as a fact about the book. Same class as IV.7's Besant coinage: the span is right and the pedigree is furniture.…"
+      (also 4 corrective note(s) that predate the citation — those were available to the drafter)
+      key: IV.8>IV.7:a97308f5
+
+  · IV.8:651 (dotted) → IV.7   cited 2026-08-10 · 0 note(s) landed after (+?): 
+      "…d.** [^6] is the sharpest version yet: not two translators disagreeing, as with Corbin in IV.7, but **one translator disagreeing with himself across two printings, in the clause the argument turns on** — and "Parker's Englis…"
+      (also 4 corrective note(s) that predate the citation — those were available to the drafter)
+      key: IV.8>IV.7:fd655f38
+
+  · IV.9:517 (dotted) → IV.8   cited 2026-08-10 · 0 note(s) landed after (+?): 
+      "…ed.** Third instance across three chapters of an error in the argument's *own disfavour* (IV.8's undercounted attributions, IV.8's composite Kabbalah, this), and the cause is identical every time: [[feedback_scrutiny_is_moti…"
+      (also 7 corrective note(s) that predate the citation — those were available to the drafter)
+      key: IV.9>IV.8:73ce454e
+
+  · IV.9:603 (dotted) → IV.8   cited 2026-08-10 · 0 note(s) landed after (+?): 
+      "…aragraphs fall.* **That falsifier has not been run, and it is cheap** — the same shape as IV.8's, where a stated falsifier sat unexecuted three sections from the claim it would have killed. Named here so the next pass inheri…"
+      (also 7 corrective note(s) that predate the citation — those were available to the drafter)
+      key: IV.9>IV.8:8445c419
+
+  · IV.10:461 (dotted) → IV.8   cited 2026-08-11 · 0 note(s) landed after (+?): 
+      "…."* **Dropping an attribution makes a claim look more settled than the source made it** — IV.8's finding about the inherited hierarchy, running in the opposite direction.…"
+      (also 7 corrective note(s) that predate the citation — those were available to the drafter)
+      key: IV.10>IV.8:d4a4f848
+
+  · IV.10:489 (prev) → IV.9   cited 2026-08-11 · 0 note(s) landed after (+?): 
+      "[^3]: ✅ **THE DEFERRAL'S TRIGGER FIRED, AND IT WAS PAID PAST THE PROMISE.** The chapter says the entry is *scheduled*, not written, with the scaffold amended in the same commit. Checked against disk: `06-THE-SCAFFOLD.md`…"
+      (also 3 corrective note(s) that predate the citation — those were available to the drafter)
+      key: IV.10>IV.9:c21d37d2
+
+  · IV.10:508 (dotted) → IV.7   cited 2026-08-11 · 0 note(s) landed after (+?): 
+      "… an extra prediction, the chapter made the target marginally harder to hit. Same class as IV.7's false pedigree, IV.8's two-texts translator and IV.9's misplaced locus: **four chapters running, and not one of the four errors…"
+      (also 4 corrective note(s) that predate the citation — those were available to the drafter)
+      key: IV.10>IV.7:35334395
+
+  · IV.10:508 (dotted) → IV.8   cited 2026-08-11 · 0 note(s) landed after (+?): 
+      "…he chapter made the target marginally harder to hit. Same class as IV.7's false pedigree, IV.8's two-texts translator and IV.9's misplaced locus: **four chapters running, and not one of the four errors flatters the argument.…"
+      (also 7 corrective note(s) that predate the citation — those were available to the drafter)
+      key: IV.10>IV.8:35334395
+
+  · IV.10:508 (dotted) → IV.9   cited 2026-08-11 · 0 note(s) landed after (+?): 
+      "…nally harder to hit. Same class as IV.7's false pedigree, IV.8's two-texts translator and IV.9's misplaced locus: **four chapters running, and not one of the four errors flatters the argument.** ★★ **AND THE PLAN HAD IT RIGH…"
+      (also 3 corrective note(s) that predate the citation — those were available to the drafter)
+      key: IV.10>IV.9:35334395
+
+  · IV.10:530 (dotted) → IV.9   cited 2026-08-11 · 0 note(s) landed after (+?): 
+      "…his region. ⚠ **Limit, stated because it is load-bearing and because it is inherited from IV.9:** `tools/brief_source.py`:71 names the real drafting tree as `Unreleased-Work/Perspective`, **which is not on this machine.** If…"
+      (also 3 corrective note(s) that predate the citation — those were available to the drafter)
+      key: IV.10>IV.9:b6762d12
+
+  · IV.10:530 (dotted) → IV.7   cited 2026-08-11 · 0 note(s) landed after (+?): 
+      "…hat does not survive any reading is *"in two forms"*: the chapter counts two instances of IV.7's refused clause in this entry, and the checkable count is one. ⛔ **AND THIS ONE DID ENTER AT PLANNING.** `06-THE-SCAFFOLD.md`:16…"
+      (also 4 corrective note(s) that predate the citation — those were available to the drafter)
+      key: IV.10>IV.7:b6762d12
+
+  · IV.10:570 (dotted) → IV.7   cited 2026-08-11 · 0 note(s) landed after (+?): 
+      "[^8]: **The IV.7 cross-reference is live and exact.** *"otherwise, anyone could perceive them"* is Corbin, *Mundus Imaginalis*, in **Leonard Fox's…"
+      (also 4 corrective note(s) that predate the citation — those were available to the drafter)
+      key: IV.10>IV.7:cfee3ef6
+
+  · IV.10:575 (dotted) → IV.9   cited 2026-08-11 · 0 note(s) landed after (+?): 
+      "…e paragraph immediately after the two quotations, about those two quotations. ★ **This is IV.9's [^6] arriving one chapter later in a stronger form**, and the pair settles a class: **a chapter that names its own falsifier te…"
+      (also 3 corrective note(s) that predate the citation — those were available to the drafter)
+      key: IV.10>IV.9:86431fe3
+
+  · IV.10:586 (dotted) → IV.9   cited 2026-08-11 · 0 note(s) landed after (+?): 
+      "…ate). **None is a tier entry.** The tier entries — 1.4, 1.5, 2.1, and the archetype entry IV.9 audited — carry a prose `Dimensional profile:` line instead; for 1.5 it reads *"Intermittent Physical-Spatial coherence (appear a…"
+      (also 3 corrective note(s) that predate the citation — those were available to the drafter)
+      key: IV.10>IV.9:7dbc9038
+
+  · IV.10:604 (dotted) → IV.9   cited 2026-08-11 · 0 note(s) landed after (+?): 
+      "…NG BECAUSE AN ENDNOTE CORRECTION DOES NOT PROPAGATE TO THE CHAPTER THAT CITES IT.** *"The previous chapter caught the same notation handing back two confident numbers."* IV.9's **body** says that. IV.9's **[^12] retracts it**: the Prome…"
+      (also 3 corrective note(s) that predate the citation — those were available to the drafter)
+      key: IV.10>IV.9:b818a148
+
+  · IV.10:604 (prev) → IV.9   cited 2026-08-11 · 0 note(s) landed after (+?): 
+      "…NG BECAUSE AN ENDNOTE CORRECTION DOES NOT PROPAGATE TO THE CHAPTER THAT CITES IT.** *"The previous chapter caught the same notation handing back two confident numbers."* IV.9's **body** says that. IV.9's **[^12] retracts it**: the Prome…"
+      (also 3 corrective note(s) that predate the citation — those were available to the drafter)
+      key: IV.10>IV.9:b818a148
+
+  · IV.10:691 (dotted) → IV.9   cited 2026-08-11 · 0 note(s) landed after (+?): 
+      "…fier reliably names it well and reliably does not run it. [^11]: IV.10 cites a claim that IV.9's *own endnote* had already withdrawn, because this retrofit corrects chapters in place and **nothing checks a later chapter's ci…"
+      (also 3 corrective note(s) that predate the citation — those were available to the drafter)
+      key: IV.10>IV.9:b9f35b2c
+
+  · VI.1:215 (dotted) → VI.4   cited 2026-08-09 · 0 note(s) landed after (+?): 
+      "…es have different opinions, which is the sentence this chapter exists to refuse. VI.3 and VI.4 are where that gets tested against a record, and they are permitted to come back with the wrong answer.…"
+      (also 1 corrective note(s) that predate the citation — those were available to the drafter)
+      key: VI.1>VI.4:937d8d9c
+
+  · VI.3:107 (dotted) → VI.5   cited 2026-08-09 · 0 note(s) landed after (+?): 
+      "…the condition that preceded it, and the century in which the reporting became possible is VI.5's. What is worth lifting from him here is only the shape of the thing: **disenchantment is a change in what the world is taken to…"
+      (also 1 corrective note(s) that predate the citation — those were available to the drafter)
+      key: VI.3>VI.5:4cee3e8a
+
+  · VI.3:332 (next) → VI.4   cited 2026-08-09 · 0 note(s) landed after (+?): 
+      "The next chapter is about a technology that put a wall around the inside of a person's head and then taught them to prefer it there.…"
+      (also 1 corrective note(s) that predate the citation — those were available to the drafter)
+      key: VI.3>VI.4:bb3c6737
+
+  · VI.4:368 (dotted) → VI.5   cited 2026-08-09 · 0 note(s) landed after (+?): 
+      "That is VI.5.…"
+      (also 1 corrective note(s) that predate the citation — those were available to the drafter)
+      key: VI.4>VI.5:2d2456f1
+
+  · VI.4:420 (dotted) → VI.6   cited 2026-08-09 · 0 note(s) landed after (+?): 
+      "…E, ruling 25 — the reader is inside two renders and only one of them is this chapter's.** VI.6 owns *the reader is inside this render while reading* for the **algorithmic** case, where the point is ethical and urgent because…"
+      (also 1 corrective note(s) that predate the citation — those were available to the drafter)
+      key: VI.4>VI.6:94f445d1
+
+  · VI.5:15 (dotted) → VI.4   cited 2026-08-09 · 0 note(s) landed after (+?): 
+      "…we can look at from just outside. Chartres was somebody else's world; the print render of VI.4 is the room you are sitting in and cannot step out of. This one is the one you are *leaving* — recent enough that its furniture i…"
+      (also 1 corrective note(s) that predate the citation — those were available to the drafter)
+      key: VI.5>VI.4:b6355927
+
+  · VI.5:35 (prev) → VI.4   cited 2026-08-09 · 0 note(s) landed after (+?): 
+      "…of how simultaneity entered ordinary experience puts it a century earlier and credits the previous chapter's technology.…"
+      (also 1 corrective note(s) that predate the citation — those were available to the drafter)
+      key: VI.5>VI.4:c331165c
+
+  · VI.5:81 (dotted) → VI.4   cited 2026-08-09 · 0 note(s) landed after (+?): 
+      "…d note what it does to the render. Under print, knowledge is identified with the record — VI.4's finding, and the reason its null space is the untransportable. Under liveness, something is added that the record cannot hold: …"
+      (also 1 corrective note(s) that predate the citation — those were available to the drafter)
+      key: VI.5>VI.4:a0c6b470
+
+  · VI.5:276 (dotted) → VI.6   cited 2026-08-09 · 0 note(s) landed after (+?): 
+      "That is VI.6.…"
+      (also 1 corrective note(s) that predate the citation — those were available to the drafter)
+      key: VI.5>VI.6:c1867a70
+
+  · VI.5:341 (dotted) → VI.4   cited 2026-08-09 · 0 note(s) landed after (+?): 
+      "*The standing note on grade, owed here as in VI.1 through VI.4.* Anderson, Wu, Simon, Debord, Cantril, Pooley, Socolow and Schwartz are named **from general knowledge and standard reference sc…"
+      (also 1 corrective note(s) that predate the citation — those were available to the drafter)
+      key: VI.5>VI.4:ce99313c
+
+  · VI.5:346 (dotted) → VI.4   cited 2026-08-09 · 0 note(s) landed after (+?): 
+      "⚠ **The corpus support for this chapter is better than VI.4's and fails in a new direction.** Measured on Day 190 over 3,069 `.md` and `.txt` files — **a wider scope than R-67's declared 2,…"
+      (also 1 corrective note(s) that predate the citation — those were available to the drafter)
+      key: VI.5>VI.4:34172bae
+
+  · VI.5:355 (dotted) → VI.4   cited 2026-08-09 · 0 note(s) landed after (+?): 
+      "★ **The pattern is the inverse of VI.4's and worse in one specific way.** VI.4 had the topics present and the sources absent — the popularizer defect. Here the *later d…"
+      (also 1 corrective note(s) that predate the citation — those were available to the drafter)
+      key: VI.5>VI.4:377ef5e9
+
+  · VI.6:182 (dotted) → VI.5   cited 2026-08-09 · 0 note(s) landed after (+?): 
+      "That is the same structure VI.5 identified in the broadcast render — *no falsehood is required at any point; every carried hour may be accurate* — arriving with …"
+      (also 1 corrective note(s) that predate the citation — those were available to the drafter)
+      key: VI.6>VI.5:d5d2dcd0
+
+  · VI.6:198 (dotted) → VI.4   cited 2026-08-09 · 0 note(s) landed after (+?): 
+      "…anted render of VI.3, the null space was shared by a civilization. In the print render of VI.4, it was shared by everyone who reads. In the broadcast render of VI.5, it was shared by everyone inside the carriage: three netwo…"
+      (also 1 corrective note(s) that predate the citation — those were available to the drafter)
+      key: VI.6>VI.4:0346f449
+
+  · VI.6:198 (dotted) → VI.5   cited 2026-08-09 · 0 note(s) landed after (+?): 
+      "…the print render of VI.4, it was shared by everyone who reads. In the broadcast render of VI.5, it was shared by everyone inside the carriage: three networks, one national schedule, and therefore *one set of exclusions*, hel…"
+      (also 1 corrective note(s) that predate the citation — those were available to the drafter)
+      key: VI.6>VI.5:0346f449
+
+  · VI.6:224 (dotted) → VI.5   cited 2026-08-09 · 0 note(s) landed after (+?): 
+      "… are disagreeing about a shared object, and the argument, however ferocious, has a floor. VI.5 called it the common referent, and was careful to say that the era it belonged to had no shortage of ferocity — what it had was s…"
+      (also 1 corrective note(s) that predate the citation — those were available to the drafter)
+      key: VI.6>VI.5:7b0374ca
+
+  · VI.6:260 (dotted) → VI.4   cited 2026-08-09 · 0 note(s) landed after (+?): 
+      "…e is about the commodity form, and it completes a series this book has been running since VI.4. **Print sold space. Broadcast sold time. This era sells prediction** — and the third term is different in kind from the first tw…"
+      (also 1 corrective note(s) that predate the citation — those were available to the drafter)
+      key: VI.6>VI.4:68c984c4
+
+  · VI.6:284 (dotted) → VI.4   cited 2026-08-09 · 0 note(s) landed after (+?): 
+      "…: you cannot find the error by looking harder, because looking performs the reassignment. VI.4: you cannot find what was lost by reading more, because reading performs the exclusion. VI.5: you cannot discover your exclusions…"
+      (also 1 corrective note(s) that predate the citation — those were available to the drafter)
+      key: VI.6>VI.4:b9b81d06
+
+  · VI.6:284 (dotted) → VI.5   cited 2026-08-09 · 0 note(s) landed after (+?): 
+      "…4: you cannot find what was lost by reading more, because reading performs the exclusion. VI.5: you cannot discover your exclusions by attending harder, because attention *is* the resource being allocated, so ordinary dilige…"
+      (also 1 corrective note(s) that predate the citation — those were available to the drafter)
+      key: VI.6>VI.5:b9b81d06
+
+  · VI.6:312 (dotted) → VI.4   cited 2026-08-09 · 0 note(s) landed after (+?): 
+      "…iment, and the evidence grade in this chapter is therefore different in kind from VI.3's, VI.4's and VI.5's. C30 is **not** licensed here and is not claimed; the argument does not rest on convergence, and saying so is the po…"
+      (also 1 corrective note(s) that predate the citation — those were available to the drafter)
+      key: VI.6>VI.4:ee2ef720
+
+  · VI.6:312 (dotted) → VI.5   cited 2026-08-09 · 0 note(s) landed after (+?): 
+      "…the evidence grade in this chapter is therefore different in kind from VI.3's, VI.4's and VI.5's. C30 is **not** licensed here and is not claimed; the argument does not rest on convergence, and saying so is the point.…"
+      (also 1 corrective note(s) that predate the citation — those were available to the drafter)
+      key: VI.6>VI.5:ee2ef720
+
+  · VI.6:396 (dotted) → VI.5   cited 2026-08-09 · 0 note(s) landed after (+?): 
+      "*The standing note on grade, owed here as in VI.1 through VI.5.* Pariser, Bakshy, Guess, Gauthier, Allen, Grinberg and Zuboff are named from **primary sources consulted at abstract and press-s…"
+      (also 1 corrective note(s) that predate the citation — those were available to the drafter)
+      key: VI.6>VI.5:32eede9b
+
+  · VI.6:415 (dotted) → VI.4   cited 2026-08-09 · 0 note(s) landed after (+?): 
+      "★ **VI.4 had the topics and not the sources. VI.5 had the later discourse and not its history. This corpus has the indictment and not the …"
+      (also 1 corrective note(s) that predate the citation — those were available to the drafter)
+      key: VI.6>VI.4:c995c67d
+
+  · VI.6:415 (dotted) → VI.5   cited 2026-08-09 · 0 note(s) landed after (+?): 
+      "★ **VI.4 had the topics and not the sources. VI.5 had the later discourse and not its history. This corpus has the indictment and not the evidence.** Zuboff at 52 and every empiri…"
+      (also 1 corrective note(s) that predate the citation — those were available to the drafter)
+      key: VI.6>VI.5:c995c67d
+
+  · VI.7:3 (prev) → VI.6   cited 2026-08-09 · 0 note(s) landed after (+?): 
+      "The last chapter ended on a defence, and it is the one almost everybody reaches for once the argument of this book has landed. If every render is made at the point of contact, if none of them can be seen out of from insi…"
+      (also 1 corrective note(s) that predate the citation — those were available to the drafter)
+      key: VI.7>VI.6:f4783819
+
+  · VI.7:124 (dotted) → VI.4   cited 2026-08-09 · 0 note(s) landed after (+?): 
+      "…observation. VI.3 refused Barfield's convergence as confirmation and kept his phenomenon. VI.4 declined McGilchrist's hemispheres and kept his two-worlds conclusion. Here the pattern runs on a friendly source rather than a r…"
+      (also 1 corrective note(s) that predate the citation — those were available to the drafter)
+      key: VI.7>VI.4:c1b86b63
+
+  · VI.7:407 (dotted) → VI.6   cited 2026-08-09 · 0 note(s) landed after (+?): 
+      "…*, with a null space of its own, and it is harder to detect than the ones in VI.3 through VI.6 because it has the shape of the cure.…"
+      (also 1 corrective note(s) that predate the citation — those were available to the drafter)
+      key: VI.7>VI.6:d507a378
+
+  · VI.7:417 (dotted) → VI.4   cited 2026-08-09 · 0 note(s) landed after (+?): 
+      "…: you cannot find the error by looking harder, because looking performs the reassignment. VI.4: you cannot recover what was lost by reading more, because reading performs the exclusion. VI.5: you cannot discover the exclusio…"
+      (also 1 corrective note(s) that predate the citation — those were available to the drafter)
+      key: VI.7>VI.4:13bb1581
+
+  · VI.7:417 (dotted) → VI.5   cited 2026-08-09 · 0 note(s) landed after (+?): 
+      "…you cannot recover what was lost by reading more, because reading performs the exclusion. VI.5: you cannot discover the exclusions by attending harder, because attention is the resource being allocated. VI.6: you cannot exit…"
+      (also 1 corrective note(s) that predate the citation — those were available to the drafter)
+      key: VI.7>VI.5:13bb1581
+
+  · VI.7:417 (dotted) → VI.6   cited 2026-08-09 · 0 note(s) landed after (+?): 
+      "…er the exclusions by attending harder, because attention is the resource being allocated. VI.6: you cannot exit by switching it off, because the mechanism has already written itself into a substrate that no longer needs it.…"
+      (also 1 corrective note(s) that predate the citation — those were available to the drafter)
+      key: VI.7>VI.6:13bb1581
+
+  · VI.7:444 (next) → VI.8   cited 2026-08-09 · 0 note(s) landed after (+?): 
+      "That is the next chapter, and it is about you.…"
+      (also 1 corrective note(s) that predate the citation — those were available to the drafter)
+      key: VI.7>VI.8:8e7f25de
+
+  · VI.7:535 (dotted) → VI.6   cited 2026-08-09 · 0 note(s) landed after (+?): 
+      "*The standing note on grade, owed here as in VI.1 through VI.6.* The sources above were consulted on Day 190 at abstract, encyclopaedia-entry and reputable-secondary level, with bibliographic …"
+      (also 1 corrective note(s) that predate the citation — those were available to the drafter)
+      key: VI.7>VI.6:77e66631
+
+  · VI.7:557 (dotted) → VI.4   cited 2026-08-09 · 0 note(s) landed after (+?): 
+      "★ VI.4 had the topics and not the sources. VI.5 had the later discourse and not its history. VI.6 had the indictment and not the evidenc…"
+      (also 1 corrective note(s) that predate the citation — those were available to the drafter)
+      key: VI.7>VI.4:bd02cf97
+
+  · VI.7:557 (dotted) → VI.5   cited 2026-08-09 · 0 note(s) landed after (+?): 
+      "★ VI.4 had the topics and not the sources. VI.5 had the later discourse and not its history. VI.6 had the indictment and not the evidence. **This corpus has the practice and not…"
+      (also 1 corrective note(s) that predate the citation — those were available to the drafter)
+      key: VI.7>VI.5:bd02cf97
+
+  · VI.7:557 (dotted) → VI.6   cited 2026-08-09 · 0 note(s) landed after (+?): 
+      "…I.4 had the topics and not the sources. VI.5 had the later discourse and not its history. VI.6 had the indictment and not the evidence. **This corpus has the practice and not its warrant** — E-Prime sixteen times and Bourlan…"
+      (also 1 corrective note(s) that predate the citation — those were available to the drafter)
+      key: VI.7>VI.6:bd02cf97
+
+  · VII.2:70 (next) → VII.3   cited 2026-08-09 · 0 note(s) landed after (+?): 
+      "… furnishing them with an interesting observation. That is the floor, and the floor is the next chapter's. Everything in this one is therefore stated in a conditional that the reader should hear even where the prose does not repeat i…"
+      (also 1 corrective note(s) that predate the citation — those were available to the drafter)
+      key: VII.2>VII.3:8ab4acfa
+
+  · VII.2:625 (dotted) → VI.6   cited 2026-08-09 · 0 note(s) landed after (+?): 
+      "[^3]: VI.6, in the passage on being sorted by an inventory one cannot inspect. That chapter names this one and then turns the other way — to…"
+      (also 1 corrective note(s) that predate the citation — those were available to the drafter)
+      key: VII.2>VI.6:d288316f
+
+  · VII.4:3 (prev) → VII.3   cited 2026-08-09 · 0 note(s) landed after (+?): 
+      "The floor is laid and it is thin. It says: not over, and not frozen — and the last chapter argued the first half of that at length and left the second half sitting in a footnote, which is not where a criterion should liv…"
+      (also 1 corrective note(s) that predate the citation — those were available to the drafter)
+      key: VII.4>VII.3:b4e7f940
+
+  · VII.4:39 (prev) → VII.3   cited 2026-08-09 · 0 note(s) landed after (+?): 
+      "**A moral fact is a local order-parameter.** It is not a feature of what the world is made of, for exactly the reason the last chapter gave when it refused to go looking for one: there is no shelf in the nature of things…"
+      (also 1 corrective note(s) that predate the citation — those were available to the drafter)
+      key: VII.4>VII.3:dcbc52e6
+
+  · VII.4:272 (prev) → VII.3   cited 2026-08-09 · 0 note(s) landed after (+?): 
+      "He does not slip it. The last chapter is where that was shown, at length, and this chapter does not argue it again — it names what that argument found.…"
+      (also 1 corrective note(s) that predate the citation — those were available to the drafter)
+      key: VII.4>VII.3:a86d259f
+
+  · VII.4:275 (prev) → VII.3   cited 2026-08-09 · 0 note(s) landed after (+?): 
+      "The last chapter's answer was that his road forks and both forks close. He can **exempt himself** — bind others to reciprocity while holding himself outside it — but an exemption is a claim to a privileged standpoint, a …"
+      (also 1 corrective note(s) that predate the citation — those were available to the drafter)
+      key: VII.4>VII.3:41ce8ec1
+
+  · VII.4:349 (prev) → VII.3   cited 2026-08-09 · 0 note(s) landed after (+?): 
+      "**Coercive** — contraction imposed *over* another navigator's agency rather than *through* it. That is the last chapter's distinction and it is doing its work here unchanged.…"
+      (also 1 corrective note(s) that predate the citation — those were available to the drafter)
+      key: VII.4>VII.3:91fc5833
+
+  · VII.4:465 (dotted) → VII.3   cited 2026-08-09 · 0 note(s) landed after (+?): 
+      "[^5]: VII.3, the two forks. The exemption argument is made in full there, in answer to the challenge that a being with every capacity of an a…"
+      (also 1 corrective note(s) that predate the citation — those were available to the drafter)
+      key: VII.4>VII.3:fe8be43b
+
+  · VII.6:305 (dotted) → VI.4   cited 2026-08-10 · 0 note(s) landed after (+?): 
+      "….5 conceding that its own best ancestry contains a counter-example it wanted not to find. VI.4 confessing the render it is made of — *look at what I have built* — because a chapter arguing that the print filter is one filter…"
+      (also 1 corrective note(s) that predate the citation — those were available to the drafter)
+      key: VII.6>VI.4:b989e4a4
+
+  · VII.6:374 (next) → VII.7   cited 2026-08-10 · 0 note(s) landed after (+?): 
+      "The next chapter is about freedom — what choosing can possibly be if every path already exists — and it arrives owing this one a debt it should st…"
+      (also 1 corrective note(s) that predate the citation — those were available to the drafter)
+      key: VII.6>VII.7:c043e088
+
+  · VII.6:410 (dotted) → VII.3   cited 2026-08-10 · 0 note(s) landed after (+?): 
+      "[^6]: The floor is C18, established at VII.3 with both its limits — validity without motivational grip, and impartiality as a wagered premise rather than a derived one. Neith…"
+      (also 1 corrective note(s) that predate the citation — those were available to the drafter)
+      key: VII.6>VII.3:35a3bfb7
+
+  · VII.6:418 (dotted) → VIII.7   cited 2026-08-10 · 0 note(s) landed after (+?): 
+      "[^7]: Aristotle, *Nicomachean Ethics* VIII.7 on friendship between unequals and the proportional requital it calls for, and VIII.12 on parental love as prior, greater, and no…"
+      (also 2 corrective note(s) that predate the citation — those were available to the drafter)
+      key: VII.6>VIII.7:ac398880
+
+  · VII.7:201 (dotted) → III.7   cited 2026-08-10 · 0 note(s) landed after (+?): 
+      "III.3 drew the distinction and III.7 defended the walking. Neither did the thing this chapter has to do, which is to say **what in the world would look different** if…"
+      (also 2 corrective note(s) that predate the citation — those were available to the drafter)
+      key: VII.7>III.7:3254c025
+
+  · VII.7:329 (dotted) → III.7   cited 2026-08-10 · 0 note(s) landed after (+?): 
+      "…rt the book has been deferring, and it has been deferred honestly rather than evasively — III.7 named three losses and said the accounting belonged here. It does. What follows is the accounting, and it is not going to end wit…"
+      (also 2 corrective note(s) that predate the citation — those were available to the drafter)
+      key: VII.7>III.7:263d7d23
+
+  · VII.7:380 (dotted) → VII.3   cited 2026-08-10 · 0 note(s) landed after (+?): 
+      "…hows up exactly where you would expect: in the ethics. It is why the floor established at VII.3 is thin rather than high, why the distinction that carries the moral weight is *through* and *over* rather than *guilty* and *inn…"
+      (also 1 corrective note(s) that predate the citation — those were available to the drafter)
+      key: VII.7>VII.3:7cb390e6
+
+  · VII.7:469 (next) → VII.8   cited 2026-08-10 · 0 note(s) landed after (+?): 
+      "The next chapter asks what such a traversal is *for*, and it will not be permitted to answer that the traversal is its own reward, because that an…"
+      (also 2 corrective note(s) that predate the citation — those were available to the drafter)
+      key: VII.7>VII.8:d52d254e
+
+  · VII.7:476 (next) → VII.8   cited 2026-08-10 · 0 note(s) landed after (+?): 
+      "…at is right and one that is overcharged is the difference between a reader who trusts the next chapter and one who does not.…"
+      (also 2 corrective note(s) that predate the citation — those were available to the drafter)
+      key: VII.7>VII.8:bd70d8d6
+
+  · VII.7:532 (dotted) → VII.3   cited 2026-08-10 · 0 note(s) landed after (+?): 
+      "[^7]: C18, established at VII.3 with both its limits, and the *through*/*over* distinction that carries the moral weight there and at VII.4. The claim in this se…"
+      (also 1 corrective note(s) that predate the citation — those were available to the drafter)
+      key: VII.7>VII.3:e0854d80
+
+  · VII.7:545 (dotted) → IV.9   cited 2026-08-10 · 0 note(s) landed after (+?): 
+      "…s to not see everything else."* Theorem 5, the Promethean Configuration, is part-spent at IV.9 and again at VII.6 and is pointed at rather than re-argued here. Plotinus and Tzimtzum carry the source's emanation parallel at §…"
+      (also 3 corrective note(s) that predate the citation — those were available to the drafter)
+      key: VII.7>IV.9:005aa9fd
+
+  · VII.7:552 (dotted) → VIII.1   cited 2026-08-10 · 0 note(s) landed after (+?): 
+      "…itory and is pointed at here rather than developed, because the refused summit belongs to VIII.1 and this chapter needs only the ceiling, not the argument against aiming at it.…"
+      (also 1 corrective note(s) that predate the citation — those were available to the drafter)
+      key: VII.7>VIII.1:637ec49b
+
+  · VII.8:3 (prev) → VII.7   cited 2026-08-10 · 0 note(s) landed after (+?): 
+      "The last chapter ended by handing this one a debt, and it is worth restating precisely, because the easy answer to it is already forming in the reader's mind and this chapter is not permitted to give it.…"
+      (also 1 corrective note(s) that predate the citation — those were available to the drafter)
+      key: VII.8>VII.7:f2ac0648
+
+  · VII.8:202 (dotted) → VI.8   cited 2026-08-10 · 0 note(s) landed after (+?): 
+      "… ours it is the precise definition of a tunnel** — Book VI's whole subject, and the thing VI.8 said the reader is currently inside of. We are committed to there being a difference between a community that has restored its pr…"
+      (also 1 corrective note(s) that predate the citation — those were available to the drafter)
+      key: VII.8>VI.8:5211b86d
+
+  · VII.8:216 (dotted) → VII.7   cited 2026-08-10 · 0 note(s) landed after (+?): 
+      "…rd in two chapters whose owners are fierce opponents**, and it is worth naming as a kind: VII.7's node instrument is shared by libertarian, compatibilist and hard determinist. **In a debate that has run for centuries without …"
+      (also 1 corrective note(s) that predate the citation — those were available to the drafter)
+      key: VII.8>VII.7:76fa1ba5
+
+  · VII.8:244 (dotted) → VII.7   cited 2026-08-10 · 0 note(s) landed after (+?): 
+      "…ike a discovery when it was carried in with the instrument. ⚠ **Distinguish this from the previous chapter's card, which fails differently and should not be collapsed into it:** the node instrument **saturates** — it has a range and ple…"
+      (also 1 corrective note(s) that predate the citation — those were available to the drafter)
+      key: VII.8>VII.7:578abf4d
+
+  · VII.8:244 (prev) → VII.7   cited 2026-08-10 · 0 note(s) landed after (+?): 
+      "…ike a discovery when it was carried in with the instrument. ⚠ **Distinguish this from the previous chapter's card, which fails differently and should not be collapsed into it:** the node instrument **saturates** — it has a range and ple…"
+      (also 1 corrective note(s) that predate the citation — those were available to the drafter)
+      key: VII.8>VII.7:578abf4d
+
+  · VII.8:294 (dotted) → VII.7   cited 2026-08-10 · 0 note(s) landed after (+?): 
+      "…hing can be done*. Our account says something can be done — not to close the roads, which VII.7 gave up on the page, but to change which are near. **Nietzsche's posture is the right one for a world with a fate in it, and it b…"
+      (also 1 corrective note(s) that predate the citation — those were available to the drafter)
+      key: VII.8>VII.7:0104d963
+
+  · VII.8:416 (dotted) → VII.7   cited 2026-08-10 · 0 note(s) landed after (+?): 
+      "…** It is what a stream feels like when its orientation is temporarily unavailable to it — VII.7's variable, at a low value, at an hour when everything is at a low value — and the standing error is to treat that condition as a…"
+      (also 1 corrective note(s) that predate the citation — those were available to the drafter)
+      key: VII.8>VII.7:74ad333e
+
+  · VII.8:429 (prev) → VII.7   cited 2026-08-10 · 0 note(s) landed after (+?): 
+      "The next chapter asks who it is that holds a meaning across a gap — across sleep, across anaesthesia, across the discontinuities that are the ordi…"
+      (also 1 corrective note(s) that predate the citation — those were available to the drafter)
+      key: VII.8>VII.7:599e98a3
+
+  · VII.8:437 (dotted) → VIII.1   cited 2026-08-10 · 0 note(s) landed after (+?): 
+      "…ing the half it agrees with. Filed for the Book VIII pass on C15's establishing chapters: VIII.1 states the telos and must not present the refusal as unaccompanied. The specific correction owed is about **originality, not corr…"
+      (also 1 corrective note(s) that predate the citation — those were available to the drafter)
+      key: VII.8>VIII.1:342badda
+
+  · VII.8:457 (dotted) → VIII.7   cited 2026-08-10 · 0 note(s) landed after (+?): 
+      "…1's Theorem 16 (the Fundamental Oscillation) and its *"Do be do be do"* formulation are **VIII.7's** and are pointed at rather than spent here; this chapter needs only §12.2's verdict on which half of the existentialist surviv…"
+      (also 2 corrective note(s) that predate the citation — those were available to the drafter)
+      key: VII.8>VIII.7:841551b9
+
+  · VII.9:5 (dotted) → VII.7   cited 2026-08-10 · 0 note(s) landed after (+?): 
+      "…ientation is the only thing in the arrangement that varies from one of these to another — VII.7. It authors a path across terrain that is not its own, and can be wrong about what it finds there — VII.8.…"
+      (also 1 corrective note(s) that predate the citation — those were available to the drafter)
+      key: VII.9>VII.7:c0b59c76
+
+  · VII.9:5 (dotted) → VII.8   cited 2026-08-10 · 0 note(s) landed after (+?): 
+      "…s a path across terrain that is not its own, and can be wrong about what it finds there — VII.8.…"
+      (also 2 corrective note(s) that predate the citation — those were available to the drafter)
+      key: VII.9>VII.8:c0b59c76
+
+  · VII.9:14 (prev) → VII.8   cited 2026-08-10 · 0 note(s) landed after (+?): 
+      "This is the last chapter of Book VII and it is the one where the question the volume has been asking about other beings gets asked about the reader. It has to do three things: say what a self is, given everything above; …"
+      (also 2 corrective note(s) that predate the citation — those were available to the drafter)
+      key: VII.9>VII.8:417cafb4
+
+  · VII.9:121 (dotted) → VII.7   cited 2026-08-10 · 0 note(s) landed after (+?): 
+      "…o a shared shape. It is generated by the shape. This is also why the small reorientations VII.7 made everything depend on are not too small to matter. In a system with sensitive dependence, small is the only size the input ev…"
+      (also 1 corrective note(s) that predate the citation — those were available to the drafter)
+      key: VII.9>VII.7:1f43a616
+
+  · VII.9:195 (dotted) → VII.7   cited 2026-08-10 · 0 note(s) landed after (+?): 
+      "…e in three consecutive chapters, and the three should be kept apart rather than merged:** VII.7's node instrument **saturates** — plenitude is off the end of its range. VII.8's mandate instrument is **binary in a three-valued…"
+      (also 1 corrective note(s) that predate the citation — those were available to the drafter)
+      key: VII.9>VII.7:08e64fb4
+
+  · VII.9:195 (dotted) → VII.8   cited 2026-08-10 · 0 note(s) landed after (+?): 
+      "… merged:** VII.7's node instrument **saturates** — plenitude is off the end of its range. VII.8's mandate instrument is **binary in a three-valued domain** — it has two output states and the true answer is a third. This one *…"
+      (also 2 corrective note(s) that predate the citation — those were available to the drafter)
+      key: VII.9>VII.8:08e64fb4
+
+  · VII.9:286 (dotted) → VII.7   cited 2026-08-10 · 0 note(s) landed after (+?): 
+      "… *Navigation*, because the only variable is orientation and the only lever is attention — VII.7. *A shape rather than a substance*, because there is no stuff and what there is, is arrangement.[^7] *Whenever it runs*, because …"
+      (also 1 corrective note(s) that predate the citation — those were available to the drafter)
+      key: VII.9>VII.7:022cce0a
+
+  · VII.9:359 (dotted) → VII.3   cited 2026-08-10 · 0 note(s) landed after (+?): 
+      "[^5]: C18, the floor, established at VII.3 with both its limits and applied at VII.4 and VII.6. Neither limit is loosened here, and the claim in this section is a *negative…"
+      (also 1 corrective note(s) that predate the citation — those were available to the drafter)
+      key: VII.9>VII.3:ac4e95ae
+
+  · VII.9:365 (dotted) → IV.6   cited 2026-08-10 · 0 note(s) landed after (+?): 
+      "[^6]: The IV.6 disclosure, returning once, in its proper place, per C22's trap clause — which reads: *"making it the point. The IV.6 disclosure …"
+      (also 1 corrective note(s) that predate the citation — those were available to the drafter)
+      key: VII.9>IV.6:0a1d618e
+
+  · VIII.1:57 (dotted) → VII.7   cited 2026-08-10 · 0 note(s) landed after (+?): 
+      "If attention is the lever — VII.7's finding, and the only lever the account has — then reading is not preparation for navigation. **Reading is navigation.** The re…"
+      (also 1 corrective note(s) that predate the citation — those were available to the drafter)
+      key: VIII.1>VII.7:fda09a9c
+
+  · VIII.1:216 (dotted) → VII.7   cited 2026-08-10 · 0 note(s) landed after (+?): 
+      "…inct failure mode in four consecutive chapters, and it is worth keeping the four apart:** VII.7's node instrument **saturates**; VII.8's mandate instrument is **binary in a three-valued domain**; VII.9's carrier instrument **…"
+      (also 1 corrective note(s) that predate the citation — those were available to the drafter)
+      key: VIII.1>VII.7:0be1fd4d
+
+  · VIII.1:216 (dotted) → VII.8   cited 2026-08-10 · 0 note(s) landed after (+?): 
+      "…hapters, and it is worth keeping the four apart:** VII.7's node instrument **saturates**; VII.8's mandate instrument is **binary in a three-valued domain**; VII.9's carrier instrument **presupposes a mechanism and reads its a…"
+      (also 2 corrective note(s) that predate the citation — those were available to the drafter)
+      key: VIII.1>VII.8:0be1fd4d
+
+  · VIII.1:306 (next) → VIII.2   cited 2026-08-10 · 0 note(s) landed after (+?): 
+      "The next chapter is the first practical one and it starts where it has to: with the fact that the largest determinants of where you currently are …"
+      (also 1 corrective note(s) that predate the citation — those were available to the drafter)
+      key: VIII.1>VIII.2:b3cb4a4d
+
+  · VIII.1:321 (dotted) → VII.8   cited 2026-08-10 · 0 note(s) landed after (+?): 
+      "…account"* — and leaves §13.1's thesis sentence and its section heading standing. Found at VII.8's pre-draft screen and discharged here, which is where it was filed to be discharged.…"
+      (also 2 corrective note(s) that predate the citation — those were available to the drafter)
+      key: VIII.1>VII.8:a6b88cd3
+
+  · VIII.2:47 (prev) → VIII.1   cited 2026-08-10 · 0 note(s) landed after (+?): 
+      "…epaired by the instrument the culture reaches for.** The therapeutic frame, carded in the previous chapter, is genuinely excellent at the fourth — a defended structure that resists inspection is precisely what its methods were built for…"
+      (also 1 corrective note(s) that predate the citation — those were available to the drafter)
+      key: VIII.2>VIII.1:7c0ef08f
+
+  · VIII.2:123 (dotted) → VII.7   cited 2026-08-10 · 0 note(s) landed after (+?): 
+      "…he five are kept apart because collapsing them would lose what makes each one findable.** VII.7's node instrument **saturates**. VII.8's mandate instrument is **binary in a three-valued domain**. VII.9's carrier instrument **…"
+      (also 1 corrective note(s) that predate the citation — those were available to the drafter)
+      key: VIII.2>VII.7:5af4ab1b
+
+  · VIII.2:123 (dotted) → VII.8   cited 2026-08-10 · 0 note(s) landed after (+?): 
+      "…ng them would lose what makes each one findable.** VII.7's node instrument **saturates**. VII.8's mandate instrument is **binary in a three-valued domain**. VII.9's carrier instrument **presupposes a mechanism and reads its a…"
+      (also 2 corrective note(s) that predate the citation — those were available to the drafter)
+      key: VIII.2>VII.8:5af4ab1b
+
+  · VIII.2:123 (dotted) → VIII.1   cited 2026-08-10 · 0 note(s) landed after (+?): 
+      "…instrument **presupposes a mechanism and reads its absence as the phenomenon's absence**. VIII.1's therapeutic instrument has **the wrong objective function**. This one has **the sample frame identical to the object of measure…"
+      (also 1 corrective note(s) that predate the citation — those were available to the drafter)
+      key: VIII.2>VIII.1:5af4ab1b
+
+  · VIII.2:172 (dotted) → VI.8   cited 2026-08-10 · 0 note(s) landed after (+?): 
+      "…eek of yourself into a dated behavioural artefact and hand it to somebody who is not you. VI.8 also stated its ceiling honestly, which is the part usually left off — it will not put a seam in your picture, and you will not c…"
+      (also 1 corrective note(s) that predate the citation — those were available to the drafter)
+      key: VIII.2>VI.8:f8a9e64a
+
+  · VIII.2:180 (next) → VIII.3   cited 2026-08-10 · 0 note(s) landed after (+?): 
+      "…t, deeply enough to inhabit, a practice whose restriction differs from yours. That is the next chapter's entire subject and taking it here would strand it.…"
+      (also 5 corrective note(s) that predate the citation — those were available to the drafter)
+      key: VIII.2>VIII.3:a0e54e65
+
+  · VIII.2:309 (dotted) → IV.8   cited 2026-08-10 · 0 note(s) landed after (+?): 
+      "…ject. A card that names none is looking for Vulcan — and the honest form of that card is `IV.8`'s, *"⚠ The census declines this line,"* which occurs exactly once in the atlas.…"
+      (also 7 corrective note(s) that predate the citation — those were available to the drafter)
+      key: VIII.2>IV.8:1261f43a
+
+  · VIII.2:357 (next) → VIII.3   cited 2026-08-10 · 0 note(s) landed after (+?): 
+      "The next chapter is the other half. Reading the stack does not change it — a filter you have measured is a filter you still have, and the register…"
+      (also 5 corrective note(s) that predate the citation — those were available to the drafter)
+      key: VIII.2>VIII.3:0929a110
+
+  · VIII.2:364 (dotted) → VI.8   cited 2026-08-10 · 0 note(s) landed after (+?): 
+      "[^1]: VI.8 — THE TUNNEL YOU ARE IN, whose procedure — *"convert one week of yourself into behaviour, and let somebody else read it"* — is th…"
+      (also 1 corrective note(s) that predate the citation — those were available to the drafter)
+      key: VIII.2>VI.8:705da7d7
+
+  · VIII.3:309 (prev) → VIII.2   cited 2026-08-10 · 0 note(s) landed after (+?): 
+      "…e. The arrival is not. The only report of where you got to is a first-person one, and the previous chapter carded that instrument's boundary at precisely the question this class needs answered: it is reliable for *what is present* and l…"
+      (also 1 corrective note(s) that predate the citation — those were available to the drafter)
+      key: VIII.3>VIII.2:fdc6235e
+
+  · VIII.3:342 (prev) → VIII.2   cited 2026-08-10 · 0 note(s) landed after (+?): 
+      "The previous chapter owed this one a method and deferred it here on purpose.[^5] It is the second of the source's three ways of illuminating what you …"
+      (also 1 corrective note(s) that predate the citation — those were available to the drafter)
+      key: VIII.3>VIII.2:43b8f200
+
+  · VIII.3:385 (prev) → VIII.2   cited 2026-08-10 · 0 note(s) landed after (+?): 
+      "…oes not give you an outside one.** Two insides do not sum to a view from nowhere, and the previous chapter's discipline holds without amendment here. What you get from the second tradition is not the truth about the first. It is the dis…"
+      (also 1 corrective note(s) that predate the citation — those were available to the drafter)
+      key: VIII.3>VIII.2:87b6670a
+
+  · VIII.3:422 (prev) → VIII.2   cited 2026-08-10 · 0 note(s) landed after (+?): 
+      "… whether it is working, and set the review date before you start, in writing, the way the previous chapter said.** Otherwise the review happens when you are tired of it, which selects for exactly the wrong outcome.…"
+      (also 1 corrective note(s) that predate the citation — those were available to the drafter)
+      key: VIII.3>VIII.2:191c2588
+
+  · VIII.4:155 (prev) → VIII.3   cited 2026-08-10 · 0 note(s) landed after (+?): 
+      "That oscillation is the practical form of **coherence**, which is this book's word for the structural agreement of a thing's levels with one another *and* the felt rightness of going the way one goes — one property met f…"
+      (also 5 corrective note(s) that predate the citation — those were available to the drafter)
+      key: VIII.4>VIII.3:e7414972
+
+  · VIII.4:321 (dotted) → VIII.7   cited 2026-08-10 · 0 note(s) landed after (+?): 
+      "…imally, because this chapter's brief asks for its practical form. **The full statement is VIII.7's and is not taken here** — that chapter is the oscillation, and pre-spending its subject to satisfy a word count in this one is …"
+      (also 2 corrective note(s) that predate the citation — those were available to the drafter)
+      key: VIII.4>VIII.7:3eb111ab
+
+  · VIII.5:123 (prev) → VIII.4   cited 2026-08-10 · 0 note(s) landed after (+?): 
+      "A focusing that is damage has **eaten the rest of the field.** Not deprioritised it — dissolved it. The person cannot give an account of what else there is, does not experience the narrowness as a narrowness, and would d…"
+      (also 4 corrective note(s) that predate the citation — those were available to the drafter)
+      key: VIII.5>VIII.4:4f19561e
+
+  · VIII.5:171 (prev) → VIII.4   cited 2026-08-10 · 0 note(s) landed after (+?): 
+      "…d, it is administered to almost everyone eventually, and it is picked up here because the previous chapter's card named it in passing and did not open it: the two-arrow instrument's boundary, it said, *is not the top of a scale that beg…"
+      (also 4 corrective note(s) that predate the citation — those were available to the drafter)
+      key: VIII.5>VIII.4:27e55d53
+
+  · VIII.5:225 (prev) → VIII.4   cited 2026-08-10 · 0 note(s) landed after (+?): 
+      "…al degradation, and it does not hurt the self so much as unmake it. The instrument in the previous chapter of Book VII returns nothing here, and worse, returns the same nothing it returns for mastery.…"
+      (also 4 corrective note(s) that predate the citation — those were available to the drafter)
+      key: VIII.5>VIII.4:e15a6004
+
+  · VIII.6:125 (prev) → VIII.5   cited 2026-08-10 · 0 note(s) landed after (+?): 
+      "**And it makes the discomfort legible.** The previous chapter said that the discomfort of real disagreement is what an excluded region feels like when someone lights it up.[^3] Under the mask…"
+      (also 3 corrective note(s) that predate the citation — those were available to the drafter)
+      key: VIII.6>VIII.5:ef09ce32
+
+  · VIII.6:258 (prev) → VIII.5   cited 2026-08-10 · 0 note(s) landed after (+?): 
+      "… to instead of grieving — these are second arrows, and they have authors. Which means the previous chapter's finding does not transfer: at the individual scale the classification is unavailable, and at the collective scale it is *contes…"
+      (also 3 corrective note(s) that predate the citation — those were available to the drafter)
+      key: VIII.6>VIII.5:6e982922
+
+  · VIII.6:365 (prev) → VIII.5   cited 2026-08-10 · 0 note(s) landed after (+?): 
+      "…ine disagreement is the feeling of having your null space illuminated"* — was used in the previous chapter for a different job. ★ Its use here is the one the source implies and does not state: if that discomfort is a signal rather than …"
+      (also 3 corrective note(s) that predate the citation — those were available to the drafter)
+      key: VIII.6>VIII.5:d0482393
+
+  · VIII.6:398 (prev) → VIII.5   cited 2026-08-10 · 0 note(s) landed after (+?): 
+      "…ts, often strategically, often for power — is also the source's, and it is what makes the previous chapter's finding non-transferable: at the individual scale the classification is *unavailable*, and at the collective scale it is *conte…"
+      (also 3 corrective note(s) that predate the citation — those were available to the drafter)
+      key: VIII.6>VIII.5:1b04f3cb
+
+  · VIII.7:80 (prev) → VIII.6   cited 2026-08-10 · 0 note(s) landed after (+?): 
+      "Import the source's word into this book's vocabulary and the fence falls over from the other side. Write *radiance and contraction* as the two phases of the fundamental rhythm and the last chapter of this book instructs …"
+      (also 3 corrective note(s) that predate the citation — those were available to the drafter)
+      key: VIII.7>VIII.6:165aa4a0
+
+  · VIII.7:171 (dotted) → VIII.2   cited 2026-08-10 · 0 note(s) landed after (+?): 
+      "… self-knowledge.** It is a feature of the architecture. Reading your own filter stack was VIII.2's problem and it does not get easier here. What helps is not more introspection. What helps is the thing VIII.6 established — the…"
+      (also 1 corrective note(s) that predate the citation — those were available to the drafter)
+      key: VIII.7>VIII.2:10c13901
+
+  · VIII.7:171 (dotted) → VIII.6   cited 2026-08-10 · 0 note(s) landed after (+?): 
+      "…t does not get easier here. What helps is not more introspection. What helps is the thing VIII.6 established — the other players — because contractive rest has a signature that is almost always visible to somebody else first: …"
+      (also 3 corrective note(s) that predate the citation — those were available to the drafter)
+      key: VIII.7>VIII.6:10c13901
+
+  · VIII.7:298 (dotted) → VII.8   cited 2026-08-10 · 0 note(s) landed after (+?): 
+      "…s adjudication of the mystic/existentialist dispute is NOT re-run here.** It was spent at VII.8, which said in its own endnote that §12.1 was being left for this chapter; the debt goes both directions and is now discharged. §…"
+      (also 2 corrective note(s) that predate the citation — those were available to the drafter)
+      key: VIII.7>VII.8:fc3b8ee0
+
+  · VIII.7:321 (dotted) → VII.8   cited 2026-08-10 · 0 note(s) landed after (+?): 
+      "…aph closes on *"imbuing all of existence with profound and inalienable purpose,"* which **VII.8 refuses.** The image of the unresolved symphony does not depend on either claim: it says the music does not stop, not that the mu…"
+      (also 2 corrective note(s) that predate the citation — those were available to the drafter)
+      key: VIII.7>VII.8:203a54d1
+
+  · VIII.7:334 (dotted) → VIII.4   cited 2026-08-10 · 0 note(s) landed after (+?): 
+      "[^5]: `Perspective` The Coherence Principle, §VI. **This is the statement VIII.4 deferred to this chapter**, and it is given in this manuscript's own words for a stated reason: the apparatus's canonical wording…"
+      (also 4 corrective note(s) that predate the citation — those were available to the drafter)
+      key: VIII.7>VIII.4:9ae1a886
+
+  · C.1:52 (dotted) → VIII.3   cited 2026-08-10 · 0 note(s) landed after (+?): 
+      "…se — so a practice book honest about that premise **has to come out thin and negative.** `VIII.3` says as much in its closing line: a true account of a restriction should produce modest instructions. The thinness was named as …"
+      (also 5 corrective note(s) that predate the citation — those were available to the drafter)
+      key: C.1>VIII.3:99674dd8
+
+  · C.2:69 (dotted) → VIII.2   cited 2026-08-10 · 0 note(s) landed after (+?): 
+      "Look at what the practice volume's best moves actually require. `VIII.2`'s first method is to hand your week to somebody who is not you, because your own account of it is generated rather than read. `V…"
+      (also 1 corrective note(s) that predate the citation — those were available to the drafter)
+      key: C.2>VIII.2:84a5d529
+
+  · C.2:69 (dotted) → VIII.5   cited 2026-08-10 · 0 note(s) landed after (+?): 
+      "…o somebody who is not you, because your own account of it is generated rather than read. `VIII.5` reduces its entire transferable practice to *ask the second question* — and specifies that it is asked **by someone, out loud.**…"
+      (also 3 corrective note(s) that predate the citation — those were available to the drafter)
+      key: C.2>VIII.5:84a5d529
+
+  · C.2:69 (dotted) → VIII.6   cited 2026-08-10 · 0 note(s) landed after (+?): 
+      "…** Its most reliable test is whether the people who knew you before still recognise you. `VIII.6` is other players by title. `VIII.7`'s test for whether a rest is the real thing is *who is currently paying for this*, which is …"
+      (also 3 corrective note(s) that predate the citation — those were available to the drafter)
+      key: C.2>VIII.6:84a5d529
+
+  · C.2:69 (dotted) → VIII.7   cited 2026-08-10 · 0 note(s) landed after (+?): 
+      "… the people who knew you before still recognise you. `VIII.6` is other players by title. `VIII.7`'s test for whether a rest is the real thing is *who is currently paying for this*, which is a question with a second party in it…"
+      (also 2 corrective note(s) that predate the citation — those were available to the drafter)
+      key: C.2>VIII.7:84a5d529
+
+  · C.2:77 (dotted) → VIII.5   cited 2026-08-10 · 0 note(s) landed after (+?): 
+      "`VIII.5` even states the finding in its own words — *"why the answer keeps turning out to require somebody else"* — and does not connect …"
+      (also 3 corrective note(s) that predate the citation — those were available to the drafter)
+      key: C.2>VIII.5:9edf6c70
+
+  · C.2:106 (dotted) → VIII.2   cited 2026-08-10 · 0 note(s) landed after (+?): 
+      "**Introspection delivering causes reliably** would take `VIII.2` out, and most of Book VIII leans on `VIII.2`. If the generated reason turned out to be read after all — if the confabulation res…"
+      (also 1 corrective note(s) that predate the citation — those were available to the drafter)
+      key: C.2>VIII.2:3387166d
+
+  · C.2:132 (dotted) → VIII.2   cited 2026-08-10 · 0 note(s) landed after (+?): 
+      "… useful, and the wrong content for that slot. **18 of this volume's 44 cards carry it.** `VIII.2` diagnoses this against its own card, in the chapter whose subject is exactly that error, and at the time of this printing **it i…"
+      (also 1 corrective note(s) that predate the citation — those were available to the drafter)
+      key: C.2>VIII.2:75f7c97e
+
+  · C.2:172 (dotted) → IV.9   cited 2026-08-10 · 0 note(s) landed after (+?): 
+      "…_sweep.py`, not recalled: v2 (3) + v3 (2) + v3-canon (13). The 24 v1 cards are clean and `IV.9`'s two v1b cards have no complement field at all, which is a different problem and is recorded separately.…"
+      (also 3 corrective note(s) that predate the citation — those were available to the drafter)
+      key: C.2>IV.9:8d040dab
+
+  · C.2:176 (dotted) → VIII.7   cited 2026-08-10 · 0 note(s) landed after (+?): 
+      "[^3]: ⚠ This section is deliberately not a summary, and the reason is `VIII.7`'s: a summary at the end of a book about a live ground performs exactly the closure the chapter above argues is impossible. The t…"
+      (also 2 corrective note(s) that predate the citation — those were available to the drafter)
+      key: C.2>VIII.7:416bcad8
+
+POSITIVE CONTROL — IV.10 → IV.9 [^12] ('two confident numbers')
+  PASS — caught as tier 1 at IV.10:268: cited 2026-08-07, note landed 2026-08-10.
+  A zero above therefore means something. Without this line it would not.
+
+LIMIT — what a clean run does NOT license:
+  · It locates, it cannot adjudicate. A flagged pair may be perfectly fine;
+    an unflagged one may be rotten. The output is a reading list.
+  · Only DOTTED, PREV/NEXT and unique-title DESCRIPTIVE references are seen.
+    A citation phrased 'as we saw earlier' is invisible to it — run --refs to
+    see the census of what it can resolve at all.
+  · The temporal test asks WHEN, never WHAT. A citing line touched after the
+    note landed for an unrelated reason (a typo fix) leaves tier 1 silently.
+  · Books I and V carry 0 notes, so no reference INTO them can ever flag.
+    That is an absence of instrument, not an absence of rot.
+
+⛔ 54 tier-1 pair(s) unacknowledged — add keys to book\CROSSREF-ACK.md once read.

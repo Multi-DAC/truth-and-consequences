@@ -3466,3 +3466,86 @@ chapter is wrong"*, *"what would make this refusal wrong"*, *"the condition unde
 have been"* — and emit each with a **RUN / NOT RUN** field that defaults to NOT RUN and can only be
 set by a named check. ⚠ **It must not be satisfiable by prose**, or it becomes the thing it
 measures. **TRIGGER: R-2 Book V, at the first chapter that names a falsifier.** medium.
+
+---
+
+**CLOSED — R-148 (BUILD ORDER): THE CROSS-CHAPTER CITATION CHECKER EXISTS.**
+`tools/crossref_rot.py` · full measurement `review/SCAN-003-day192-crossref-rot.md` · Day 192.
+
+**The test is temporal, not lexical, and that is the whole design.** The row asked for a checker
+that tests *"whether the cited chapter carries an endnote whose scope covers the cited claim."*
+Scope-coverage by similarity score would have to be tuned, and a threshold tuned by the author is
+a threshold tuned until it agrees with the author. `git blame` already records the answer:
+**citing line's last commit date < corrective note's commit date ⇒ the citation was drafted against
+an uncorrected body.** Lexical overlap survives only as a `*` ranking mark inside the flagged set.
+It never gates. [[feedback_filter_precision_eats_recall]]
+
+**IT DID NOT READ ZERO.** The row was filed with *"it reads `0` the day it is written and that is
+not evidence of health."* It read **61 flagged citations of 490 resolved** — 55 tier-1 (⛔ note
+landed after the citation), 6 tier-2, 137 tier-3 clean, 0 unmeasured. Positive control **PASS**:
+IV.10:268 → IV.9 [^12], cited 08-07, note landed 08-10 — the gauge catches the pair it was built
+from, which is the only reason any count above is interpretable.
+
+**WHERE IT IS:** IV→IV **37** · **V→IV 12** · VII→IV 4 · III→III 3 · VII→III 2 · three singletons.
+Worst-cited: IV.7 (20), IV.6 (11), IV.8 (8), IV.10 (7), IV.9 (7), III.5 (5).
+
+⚠ **The row's own forecast was an estimate wearing a count's clothes.** It predicted Book V cites
+Book IV *"forty times and every one"* is stale. Measured: **12**, most of the V→IV population
+landing in tier 3. The mechanism was real; the magnitude was not measured when it was written.
+[[feedback_outside_read_numbers_are_estimates]]
+
+⚠ **Stated against my own instrument, because nothing else will:** every Book IV body dates 08-07
+and every Book IV note dates 08-10/11, so within one retrofitted book the temporal test has **low
+resolution** — it separates 61:137 overall, but the 37 IV→IV rows are ordered only by term overlap.
+It is a reading order, not a severity scale. And **Books I and V carry zero notes**, so no reference
+*into* them can flag at all: absence of instrument, not absence of rot.
+
+**Ledger:** `book/CROSSREF-ACK.md`. A key is the **citing paragraph's own text**, so repairing the
+paragraph reopens the pair — an ack that outlives the thing it acknowledged is exactly the stamp-rot
+this tree is built against. Exit 1 while any tier-1 citation is unread; **54 unread as of filing,
+and that number is supposed to be uncomfortable.**
+
+---
+
+**FILED — R-151: BOOK V REPRINTS A SENTENCE BOOK IV INVENTED, ONE BOOK LATER, AS A TEMPTATION IT
+IS VIRTUOUSLY DECLINING.**
+
+The first thing `crossref_rot.py` flagged that was read by hand. `V.9>IV.10:a3823532`.
+
+**V.9:198–202** — *"Two sentences this chapter is not allowed to write, and both were available.
+The first: the failure to produce specimens is what the framework predicts. The second: **a modern
+focus on physical evidence can only detect the cross-section, so the thinness of the instrument
+record is expected.** IV.10 refused both, in that chapter, about this material, before this chapter
+existed."*
+
+⛔ **The second sentence is not in the source.** IV.10 **[^6]** establishes it: the cryptid entry is
+seventeen lines (L2448–2464), read in full, and contains no sentence about indigenous perception, no
+*full profile*, no contrast with *the modern focus on physical evidence*; `cryptid` occurs once in
+884 KB and `indigenous` never within eighty lines of it. R-147 traced its birth to **planning**
+(`06`:1604–1606), not to the source. IV.10 authored it and attributed it.
+
+★★ **The compounding is the finding, and it is worse than a stale citation.** V.9 does not merely
+cite a corrected claim — it **reprints the invented sentence in italics** and stages a
+rule-following demonstration against it: *"Both would end the difficulty in a paragraph. Both are
+the move C29 withdrew a whole warrant over."* The volume now contains the sentence **twice**, both
+times formatted as a real available move, and the second printing is the one that says *"IV.10
+refused both"* — crediting the chapter with declining a temptation the chapter manufactured. **A
+straw temptation refused on the page reads as more rigorous than a real one**, because nothing about
+the prose distinguishes them. [[feedback_briefing_manufactures_the_agreement]]
+
+★ **The first sentence is fine and the contrast is diagnostic.** V.9 renders it *one*-predicted-item
+— *"the failure to produce specimens is what the framework predicts"* — which matches the source
+(L2458–2459) and `06`:1601–1602, and is **more accurate than IV.10's own printed version**, which
+added a conjunct ([^5]). So the drafter of V.9 was not copying IV.10's prose wholesale. One sentence
+was compressed correctly and one was inherited whole, from the same paragraph, three days apart.
+
+⚠ **Inherited limit, restated not waved:** `tools/brief_source.py:71` names the drafting tree as
+`Unreleased-Work/Perspective`, not on this machine. **Fourth chapter to owe item (5).**
+
+**Owed:** (1) cut the second italicised sentence from V.9 or re-source it — and with it the *"both"*
+of *"IV.10 refused both"*, which becomes *one*; (2) V.9's rule-following demonstration survives on
+the first sentence alone and should be rewritten to rest on it; (3) **check V.9 against IV.10 [^15]
+too** — V.9:103's *"IV.10 already graded this correctly"* leans on the grading section whose own
+centrepiece [^15] catches awarding a press conference the word *published*. **TRIGGER: R-2 Book V,
+V.9 — and it must be settled BEFORE V.9's own notes are written, or the note will certify the
+inheritance.** high.
