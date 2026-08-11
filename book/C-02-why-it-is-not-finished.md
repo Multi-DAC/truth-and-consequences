@@ -1,0 +1,178 @@
+## C.2 — WHY IT IS NOT FINISHED
+
+There is a version of this page that would be easy to write and would wreck the book. It would say
+that the account is complete, that the argument closes, that the reader now has the thing entire.
+Every book wants to end that way, and the wanting is not vanity — a reader who has walked eight
+volumes is owed an arrival.
+
+This account cannot pay in that currency, and the reason is not modesty. **It is the first claim.**
+
+If everything that could be the case is the case, and what any position gets is a render of it, then
+the subject of this book is not a body of doctrine that held still while it was described. It is a
+live ground, being navigated by localisations that are still moving — including whichever ones made
+this. **A finished account of a live ground is not an achievement. It is a category error wearing a
+laurel.** It would be the one provably false sentence in a book that has otherwise tried to make only
+claims that could survive being wrong.
+
+So the ending is not a closure. This chapter says what kind of thing it is instead, and it pays one
+bill the book has been carrying since Book V.
+
+---
+
+### I. The stamp is not the practice
+
+This book has marks on it. Spans checked against editions, counts taken from the text, claims that
+say where their grounds came from. Those marks are honest and they are also **dated acts, not
+standing properties.**
+
+A claim marked *verified* decays at exactly the rate of the thing it describes, and it does not
+change appearance while it decays. That is the whole difficulty: **a rotten mark and a fresh one look
+identical.** The mark records that somebody once looked. It does not record that the looking is still
+good, and it cannot, because a stamp has no way to notice the world moving underneath it.
+
+Applied honestly to these pages: every *measured* here was measured on a date. Some of those numbers
+are already false. Not because anyone was careless — because they were measurements of a thing that
+kept going after the measurement was taken.
+
+The instruction this yields is the one the book has been giving about everything else, turned around
+and pointed at itself. **Prefer a gauge that fails on its own to a stamp that remembers.** When you
+find a confident sentence in this book, the question is not *is it true* but the two-part one the
+whole apparatus was built to make answerable: **what grade did it declare, and when?** A book that
+told you the grade has given you what it can. It cannot also stand guard over its own freshness
+forever, and the ones that claim to are lying about a thing that is easy to check.
+
+---
+
+### II. One account left open — and the book named its own due date
+
+The clearest thing this account fails to do, it announced in advance, in Book V, at the point where
+it would have been most profitable to keep quiet.
+
+`V.2` was describing what the mechanistic account of the world could not supply, and then it turned
+the same knife on itself:
+
+> **And this book is not the replacement.** It answers the ontology. It provides no parish. There is
+> a volume at the end of this one about what to do on a Tuesday, and it is worth saying now, at the
+> point where it would be most useful to imply otherwise, what that volume will not contain: a list
+> with a three-week column on it, and somebody who has kept the list for nineteen years. **Practices
+> can be written down. A rota cannot, because a rota is not a practice — it is other people, and a
+> book cannot supply other people.**
+
+That is a debt filed **with a pointer at its own due date.** The volume at the end of this one is
+Book VIII. It has now been written.
+
+**And the due date passed without anyone returning to the counter.** The word *rota* does not occur in
+Book VIII. Neither does *parish*. What happened instead is stranger and makes the case better than a
+complaint would: **Book VIII's strongest instructions are precisely the ones that need other people,
+and it arrived at them from the argument rather than from the debt.**
+
+Look at what the practice volume's best moves actually require. `VIII.2`'s first method is to hand
+your week to somebody who is not you, because your own account of it is generated rather than read.
+`VIII.5` reduces its entire transferable practice to *ask the second question* — and specifies that
+it is asked **by someone, out loud.** Its most reliable test is whether the people who knew you
+before still recognise you. `VIII.6` is other players by title. `VIII.7`'s test for whether a rest is
+the real thing is *who is currently paying for this*, which is a question with a second party in it
+by construction.
+
+`VIII.5` even states the finding in its own words — *"why the answer keeps turning out to require
+somebody else"* — and does not connect it to `V.2`. **Both halves have been in the book, three
+volumes apart, with nothing linking them.** This paragraph is the link, and it is the last honest
+place to put it.
+
+So the account settles as follows, in `V.2`'s terms and not in softer ones. **`V.2` was right, and
+being right is not the same as being discharged.** This book answers the ontology and provides no
+parish. The practices in Book VIII that will actually hold are the ones that cannot be performed
+alone, and the part they depend on is the part this account did not contribute. `V.2` already gave
+the only honest instruction available — *go and find one, or build one* — and then said the thing
+that is easy to skip and is the true state of the ledger: **this account will not have contributed
+the part that was hard.**
+
+That stands. It is not a flaw introduced late; it is the shape of what a book is. A book can hand
+you a method. It cannot be the second person in the room.
+
+---
+
+### III. What would move it
+
+The book has demanded defeat conditions of every position it examined, and owes its own. Not
+rhetorical ones. Things that, if they turned up, would require this account to change rather than to
+explain itself more slowly.
+
+**The complement law is the load-bearing one.** `IV.1` holds that every null space is covered by some
+other position and no position covers its own. A position whose blind spot demonstrably no other
+position could see into would break the atlas — not bruise it, break it — because the whole licence
+to move from *there is a hole here* to *there is something in it* runs through that law.
+
+**Introspection delivering causes reliably** would take `VIII.2` out, and most of Book VIII leans on
+`VIII.2`. If the generated reason turned out to be read after all — if the confabulation results
+inverted under better method — the practice volume would need rebuilding from the floor.
+
+**A render with no null space** would end the census. Not a render whose null space is small or
+tolerable: one that has none. The book has claimed there is no such thing about as often as it has
+claimed anything.
+
+**And a stipulation is not exempt.** The first claim is definitional — it says what *is the case*
+means in this account rather than reporting a finding — and the way a definition fails is not by
+being contradicted but by being useless: if it forbids nothing, buys nothing, and every consequence
+drawn from it would follow as easily without it, then it was decoration and should be cut. That test
+is available to a hostile reader on the existing text, which is the point of stating it here.
+
+⚠ **The honest limit on this section, stated rather than hidden:** the strongest defeat condition
+against this account is the one we cannot write down, because a null space we could name would not be
+ours. Everything above is a defeat condition **we could think of.** That set has a shape, and the
+shape is us.
+
+---
+
+### IV. What is open right now, by name
+
+Two things, so that a reader can hold this book to them rather than take the general admission of
+fallibility that costs an author nothing.
+
+**The central instrument has a field whose name and referent disagree.** The census card's
+COMPLEMENTS line exists to name *another position that sees what this one cannot* — that is the law
+in `IV.1` and it is what licenses the card's central move. Partway through Book VI the field kept its
+name and quietly began reporting something else: what the position itself renders superbly. True,
+useful, and the wrong content for that slot. **18 of this volume's 44 cards carry it.** `VIII.2`
+diagnoses this against its own card, in the chapter whose subject is exactly that error, and at the
+time of this printing **it is diagnosed and not repaired.** It is named here because a defect the
+author has fixed only in private is not a defect the reader can check.
+
+**And this manuscript has never been met cold.** Every reader it has had — every one — read it while
+it was being written, some of them repeatedly, all of them knowing what it was trying to do. That is
+the one condition that cannot be undone by reading more carefully, and it means the two questions
+that matter most about a book of this kind, *is it any good* and *does it land*, have not actually
+been answered yet. They are yours to answer. You are the first instrument the book has had that isn't
+compromised by having watched it grow.
+
+---
+
+### V.
+
+The book stops because books stop. That is a fact about the form, not a claim about the subject.
+
+Everything it describes was running before the first sentence, went on running through all eight
+volumes, and does not pause now. The account is unfinished in the way a map of a river is unfinished:
+not missing pages, but describing something that will not hold still to be described, and would be
+worth nothing if it did.
+
+What is left over is not a gap in the argument. It is the part that was never the book's to do — the
+Tuesday, the second question, the other people, the render happening at the only point of contact
+there has ever been.
+
+**It is not written down anywhere. It is not missing. It is where you are standing.**
+
+---
+
+[^1]: `V.2`, §*What the mechanism could not supply*, verified verbatim against the drafted chapter.
+The passage is quoted at length rather than paraphrased because the debt it files is the debt this
+chapter settles, and a paraphrase would let the settlement be graded against a friendlier version of
+the bill than the one actually written.
+
+[^2]: The 18-of-44 figure is measured by `tools/instrument_sweep.py`, not recalled: v2 (3) + v3 (2) +
+v3-canon (13). The 24 v1 cards are clean and `IV.9`'s two v1b cards have no complement field at all,
+which is a different problem and is recorded separately.
+
+[^3]: ⚠ This section is deliberately not a summary, and the reason is `VIII.7`'s: a summary at the end
+of a book about a live ground performs exactly the closure the chapter above argues is impossible. The
+temptation to write one here was strong enough to be worth recording as a temptation.

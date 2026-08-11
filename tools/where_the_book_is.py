@@ -155,6 +155,48 @@ BOOKS = ["I", "II", "III", "IV", "V", "VI", "VII", "VIII"]
 CHAPTER_FILE = re.compile(r"^(I|II|III|IV|V|VI|VII|VIII)-(\d{2})-.+\.md$")
 SCAFFOLD_HEAD = re.compile(r"^###\s+(I|II|III|IV|V|VI|VII|VIII)\.(\d+)\s*[—-]")
 
+# THE CODA WAS INVISIBLE TO THIS TOOL UNTIL DAY 191.
+# CHAPTER_FILE only matches roman-numeral prefixes, so `C-01-*.md` and `C-02-*.md`
+# fell through the `if not m: continue` at on_disk() and were counted nowhere —
+# not as chapters, not as words, not as missing. The failure mode was not a crash:
+# the gauge would have gone on printing `67 of 67 chapters` with the coda either
+# unwritten OR written, identically, forever. Both readings are wrong and they are
+# wrong in opposite directions — one lets a finished book look unfinished, the other
+# lets an unfinished one look done, and the handoff had already recorded the second
+# happening in prose ("67/67 IS THE CHAPTER DENOMINATOR AND DOES NOT MEAN THE BOOK
+# IS DONE") carried by exactly one carrier and lost by the rest.
+# A caveat that lives only in prose is a caveat that rots. This makes it a gauge.
+# The denominator is PARSED FROM THE SCAFFOLD, not hardcoded to 2 — same discipline
+# as the chapter count, for the same reason.
+CODA_FILE = re.compile(r"^C-(\d{2})-.+\.md$")
+SCAFFOLD_CODA = re.compile(r"^###\s+C\.(\d+)\s*[—-]")
+
+
+def coda_on_disk():
+    """Measured, exactly like on_disk(). Words are reported SEPARATELY from the
+    chapter total on purpose: `--sync` writes `CHAPTERS-DRAFTED: N/M · W words`
+    into four carriers, and silently folding coda words into W would break the
+    positive control that proved the sync reaches handoff.json."""
+    found, wc = set(), 0
+    for p in sorted(BOOK.glob("*.md")):
+        m = CODA_FILE.match(p.name)
+        if not m:
+            continue
+        found.add(int(m.group(1)))
+        wc += len(words(load_prose_file(p)))
+    return found, wc
+
+
+def coda_planned():
+    plan = set()
+    if not SCAFFOLD.exists():
+        return plan
+    for line in SCAFFOLD.read_text(encoding="utf-8", errors="replace").splitlines():
+        m = SCAFFOLD_CODA.match(line)
+        if m:
+            plan.add(int(m.group(1)))
+    return plan
+
 
 def on_disk():
     """Ground truth. The only thing here that is measured rather than remembered."""
@@ -482,7 +524,23 @@ def main():
     total_words = sum(words.values())
 
     print(f"WHERE THE BOOK IS — measured from disk, {BOOK}")
-    print(f"  DRAFTED: {total_disk} of {total_plan} chapters · {total_words:,} words\n")
+    print(f"  DRAFTED: {total_disk} of {total_plan} chapters · {total_words:,} words")
+
+    cd_disk, cd_words = coda_on_disk()
+    cd_plan = coda_planned()
+    if cd_plan or cd_disk:
+        cd_missing = sorted(cd_plan - cd_disk)
+        if cd_missing:
+            named = ", ".join(f"C.{n}" for n in cd_missing)
+            print(f"  CODA:    {len(cd_disk)} of {len(cd_plan)} · {cd_words:,} words"
+                  f"   ⛔ {named} UNWRITTEN")
+            print(f"  ⛔ THE CHAPTER LINE ABOVE EXCLUDES THE CODA. "
+                  f"{total_disk}/{total_plan} IS NOT A FINISHED BOOK.")
+        else:
+            print(f"  CODA:    {len(cd_disk)} of {len(cd_plan)} · {cd_words:,} words   ✓")
+            print(f"  ✓ chapters AND coda complete — "
+                  f"whole volume {total_words + cd_words:,} words.")
+    print()
 
     if not brief:
         for b in BOOKS:
