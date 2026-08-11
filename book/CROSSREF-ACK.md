@@ -85,12 +85,14 @@ Format — one per line, verdict written in plain words after the dash:
   rule fires on the practice it exists to support will read as vigilance and behave as amnesia.**
   Not repaired here: the rule is right in general and the fix is procedural — derive the key last.
 
-<!-- ⛔ AND THE COUNT DID NOT MOVE, FOR A REASON THAT MATTERS: 97 before these two acks and 97
-     after. Acking two rows subtracted two; writing V.4's eleven notes MANUFACTURED two new tier-1
-     rows pointing into V.4 from chapters that cite it. Net zero. **Every apparatus written adds
-     debt to this gauge at roughly the rate the reading retires it.** The number cannot fall while
-     the retrofit runs, and a flat number here therefore means work happened, not that work
-     stalled. Do not read this total as progress in either direction. -->
+<!-- ⛔ THE COUNT BARELY MOVED, FOR A REASON THAT MATTERS. Measured: 97 unacknowledged before this
+     session's acks; 97 after the first two were filed (one of which was born dead, see above);
+     96 once the re-derived live key landed. THREE acks, ONE net. Writing V.4's eleven notes
+     MANUFACTURED new tier-1 rows pointing into V.4 from every chapter that cites it, at close to
+     the rate the reading retired them. **Every apparatus written adds debt to this gauge at
+     roughly the rate reading subtracts it.** The total cannot fall meaningfully while the retrofit
+     runs, so a flat number here means work happened, not that work stalled. Do not read this total
+     as progress in either direction — read the ROWS. -->
 
 <!-- 97 of 99 tier-1 citations remain unacknowledged as of Day 192 — the total ROSE from 53 as
      Book V's apparatus landed more ⛔ notes, which is the gauge working, not slipping. That number
