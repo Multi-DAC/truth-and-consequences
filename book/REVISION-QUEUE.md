@@ -3272,3 +3272,61 @@ falls silent, Book V still reads NEVER RUN.
 **Residue, declared:** this is still a **reporting** gauge, not a preventing one, and `owed` remains
 a separate axis from `carries apparatus` — Book VI shows `8/8 apparatus, owed 3`, which is correct
 and reads like tension. small. **PAID.**
+
+---
+
+**FILED — R-146: THE CHAPTER THAT AUDITS THE SOURCE'S NUMBERS QUOTES NUMBERS THE SOURCE DOES NOT
+CONTAIN — AND `brief_source.py` CHECKS PHRASES, NEVER FIGURES.**
+
+Found in the R-2 endnote retrofit of IV.9, Day 191. Full measurement:
+`review/SCAN-002-day191-iv9-source-audit.md`.
+
+IV.9's closing section audits the inherited framework and reports that its **scores contradict its
+prose** — the chapter's sharpest move, ★-flagged at `DRAFT-LOG.md:5094` as *"only visible to somebody
+using the apparatus rather than admiring it."* Measured against `work/perspective-v1-fulltext.txt`,
+the cache `tools/brief_source.py:70` names as THE source:
+
+- ✅ *archetypes rated **moderate** on Cognitive-Experiential* — **verbatim**, definition included.
+- ⛔ *the Promethean entry scored **maximal** on Volitional-Intentional* — the **definition** is
+  verbatim; the **entry has no `Dimensional profile:` line at all.** §4.2 is formatted *"A special
+  case:"* and carries no scores.
+- ⛔ *"Archetypes are marked **S**, and so are minerals"* — **3** `Orientation:` lines exist in 884 KB,
+  all three in the Decomposers section. Neither entry carries one.
+- ⛔ `DRAFT-LOG.md:5110` records a ✔ **CHECKED AND CLEAN** null on a `PT` value. **3** lines in the
+  file contain bar-glyphs; none is an archetype profile; `PT` appears in no profile anywhere.
+
+**Positive control, so the null counts:** bar-profiles and `Orientation:` lines *do* survive
+extraction — three of each, glyphs intact, at 3897/3906/3913. Field grammar is countable and
+consistent (`Dimensional profile:` ×17, `Ecological role:` ×22, `Evidence basis:` ×15). The absence
+is in the entries, not in the pipeline.
+
+⚠ **Limit, stated because it is load-bearing:** `brief_source.py:71` names the real drafting tree as
+`Unreleased-Work/Perspective`, **which is not on this machine.** If a fuller rendering exists there,
+these claims could be right and merely uncheckable from here. I cannot distinguish that from a filled
+table — **and neither can a reader.** That is the defect either way.
+
+★ **THE REPAIR IS NOT THE CHAPTER, IT IS THE MISSING DIRECTION OF AN EXISTING GAUGE.**
+`brief_source.py` verifies that a cited **phrase** exists in the cache. **Nothing verifies that a
+quoted figure, score, or letter does.** Every chapter that audits the source by quoting its numbers
+is exposed identically, and the sweep has never run and has no hand — the R-108 shape again, a clause
+with no instrument. Scoping the repair to IV.9 would leave the class intact:
+[[feedback_repair_scoped_to_named_cause]].
+
+**And the file holds better evidence for the chapter's own thesis than the chapter used.** The source
+defines `S` twice, incompatibly — Guide §1.4 (8402) as *a stance a navigator takes* (*"analysis,
+contemplation, mathematical reasoning"* — a human is `S`), and the Appendix table (9889) as
+*"**Forms the landscape itself**."* One letter, two incompatible jobs, verbatim, checkable. Plus line
+8412 cross-references *"Ecology Part II for orientation assignments … across all entity types"* —
+and Ecology Part II contains **no orientation assignments at all.** A pointer to a table that was
+never built: mechanism-without-a-trigger, inside the source, which is a *better* instance of the
+chapter's argument than the numbers it reported.
+
+**Why it survived:** the section audits **somebody else's** apparatus, scoring *against* the source
+and *for* the book. Every checking discipline here is pointed at claims that flatter the framework or
+that the argument leans on. This did neither and read as housekeeping.
+[[feedback_scrutiny_is_motive_shaped]] — the asymmetry is absence of looking, and a section whose
+posture is *"I am being rigorous about my source"* is the least-looked-at place in the chapter.
+
+**Owed:** (1) re-ground or re-grade IV.9's closing section on the `S`/`S` collision and the dead
+cross-reference; (2) **retract the ✔** at `DRAFT-LOG.md:5110`; (3) build the figure-check arm and
+sweep all 67 chapters; (4) locate `Unreleased-Work/Perspective` or declare it unreachable in writing.

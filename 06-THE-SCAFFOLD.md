@@ -1472,7 +1472,7 @@ detect. ⚠ **Beat 3 scored 0.78, MISS `ecology, off` — RULING 108 FIRING AGAI
 it: those words are drafter-register, the beat's third term (*Perspective*) is banned by `05` §3a, and
 this file still writes in two voices and marks neither. **The owed repair is this file's.**
 
-### IV.9 — THE ARCHETYPAL ✅ DRAFTED — 5,288 words
+### IV.9 — THE ARCHETYPAL ✅ DRAFTED — 7,796 words
 **Beats:** archetypes as **shared attractors in the landscape**, explicitly not as genetic inheritance
 «(the out-list holds)» · the Promethean archetype, which is this book's own engine seen from outside ·
 Jung named, with his bifurcation «used explicitly rather than smoothed».

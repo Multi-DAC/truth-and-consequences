@@ -5106,9 +5106,18 @@ sloppiness would waste it.** It is what happens when a notation built for travel
 ground: the fields fill in anyway, because filling in is what fields do, and the result looks like
 data. The card's SEES line was *ungrammatical* and that was legible because someone tried to write it
 and found nothing to write. **In a table, the equivalent moment produces a filled cell.**
-✔ **CHECKED AND CLEAN, recorded because a null needs saying:** the same profile prints `PT` at maximum
-beside prose reading *zero Physical-Spatial*, which looked like a third contradiction and is not —
-`PT` is Physical-**Temporal**. Looked, found nothing, did not manufacture one.
+⛔ **RETRACTED Day 191 — this ✔ certified a measurement that did not happen. R-146 /
+`review/SCAN-002-day191-iv9-source-audit.md`.** It read: *"CHECKED AND CLEAN, recorded because a null
+needs saying: the same profile prints `PT` at maximum beside prose reading zero Physical-Spatial,
+which looked like a third contradiction and is not — `PT` is Physical-Temporal. Looked, found
+nothing, did not manufacture one."* **There is no such profile.** Three lines in the 884 KB source
+cache contain bar-glyphs, all three in the Decomposers section; `PT` appears in no profile anywhere;
+§4.1 has no bar-profile to print anything at maximum. The gloss (`PT` = Physical-**Temporal**) is
+correct as a reading of the abbreviation and irrelevant, because the cell it explains is not there.
+★ **A false negative wearing a measurement's clothes is worse than an unchecked claim**, because
+"looked, found nothing" retires the question — and this one retired it while the two contradictions
+recorded three lines above were themselves unsourced. See
+[[feedback_zero_needs_a_positive_control]].
 
 ⚠ **THE OPEN FLAG IS THE CHAPTER'S CENTRAL CLAIM, and it is not a caveat attached to a strong
 position — it is the condition of the position.** The landscape reading makes one sharp prediction:
@@ -10452,7 +10461,7 @@ that is a fact about the planning apparatus, not about the chapter, and it belon
 
 ---
 
-**CHAPTERS-DRAFTED: 67/67 · 266,099 words** · **BOOK VIII 7/7** · **CLAIMS: C1…C30** · **TOOLS: 24.**
+**CHAPTERS-DRAFTED: 67/67 · 268,607 words** · **BOOK VIII 7/7** · **CLAIMS: C1…C30** · **TOOLS: 24.**
 
 ★★★ **THE FIRST DRAFT OF THE VOLUME IS COMPLETE.** Eight books, sixty-seven chapters, 247,405 words.
 ⚠ **AND THE WORK IS NOT — the CODA (C.1 WHAT THIS IS, C.2 WHY IT IS NOT FINISHED) IS UNWRITTEN AND IS
@@ -10667,3 +10676,72 @@ chapter **eight pages earlier throughout**. Both paginations printed; the consta
 established by locating all four spans, not inferred from one.
 
 **Remaining: Books IV (10 chapters) and V (11).** Nothing about them is blocked.
+
+---
+
+## R-2 RETROFIT — IV.9 THE ARCHETYPAL · Day 191 · 12 notes
+
+**Gauge named three sources; the chapter had twelve note-worthy sites.** Hand-enumerated, per the
+standing warning that `endnote_debt.py` is a **pointer, not a worklist**. (It still is: after the
+pass IV.9 reads `3 sources · 12 notes · 2 covered ⚠ Father` — and *Father* is not a source. The
+extractor lifted it from *"reads as a Church Father's testimony to archetypes."* R-71's known limit,
+recorded again because a false positive in a debt gauge trains a reader to discount the true ones.)
+
+★★ **THE FINDING: THE SECTION THAT AUDITS THE SOURCE'S NUMBERS QUOTES NUMBERS THE SOURCE DOES NOT
+CONTAIN.** Filed **R-146**; measured in `review/SCAN-002-day191-iv9-source-audit.md`. Of the closing
+section's three reported scores, **one is verbatim** (archetypes *moderate* on Cognitive-Experiential,
+definition included) and **two have no cell behind them**: §4.2 Promethean carries no `Dimensional
+profile:` line at all, and **three `Orientation:` lines exist in the whole 884 KB source**, all three
+in the Decomposers section, none on archetypes or minerals. The ✔ **CHECKED AND CLEAN** null logged
+beside them on Day 188 — the `PT`-at-maximum reading — is **retracted above**: three lines in the file
+carry bar-glyphs and none is an archetype profile. Positive control holds (bar-profiles and
+orientation lines *do* survive extraction, three of each, glyphs intact), so the absence is in the
+entries and not the pipeline. ⚠ **Limit stated and load-bearing:** the real drafting tree
+`Unreleased-Work/Perspective` **is not on this machine**; a fuller rendering there could vindicate
+the numbers. I cannot distinguish that from a filled-in table — **and neither can a reader.**
+
+★ **And the source holds a better version of the chapter's own thesis than the chapter used.** `S` is
+defined twice, incompatibly — Guide §1.4 as *a stance a navigator takes* (*"analysis, contemplation,
+mathematical reasoning"*), appendix table as *"forms the landscape itself."* One letter, two
+incompatible jobs, verbatim. And the Guide cross-references *"Ecology Part II for orientation
+assignments across all entity types"* — **Ecology Part II contains none.** A pointer to a table that
+was never built: mechanism-without-a-trigger *inside the inherited source*.
+
+★★ **SECOND FINDING, and it may be the sharper one: the clause that licenses the chapter's central
+move is the unchecked clause.** IV.9 concedes it is *"declining the falsifiable half of a fork and
+keeping the other half, which is the move it has complained about in others,"* and licenses that on
+one sentence — *"the falsifiable half has been checked and has come out negative."* The out-list
+(`00-ARCHITECTURE.md:61`) carries `archetypes-as-genetic` with **no annotation**, reason *"Out because
+we don't hold them."* **The positive control is one line away:** `Terror Management Theory (dropped on
+Many-Labs-4)` — the entry that did fail a test carries the test's name. *"No evidence for it"* and
+*"checked, came out negative"* are different claims and only the second does this paragraph's work.
+
+✅ **JUNG VERIFIED AGAINST THE PRIMARY SCAN, and every locational hedge in the chapter is exact.**
+*CW* 9i, Hull, 2nd edn: crystal **¶155** · *facultas praeformandi* **same paragraph, two sentences
+later** (chapter says *"a few lines on"* ✓) · *inherited possibilities of ideas* **¶136, a different
+essay in the same volume** (chapter says *"elsewhere in the same volume"* ✓). ★ **But the chapter
+UNDERSTATES its own finding:** germ-plasm is **¶152** — *"one volume, within twenty paragraphs"* is
+really **three paragraphs, same essay, same section, same lecture.** The bifurcation is worse than
+reported, and the weaker version is the one that got printed. Third error in three chapters running
+**against** the argument.
+
+**IRENAEUS: both ends verbatim, defect in the address.** Latin exact against Harvey 1857 (local
+scan); English exact against ANF, including the preceding sentence and the chapter title *"Created
+things are not the images of those Æons who are within the Pleroma"*; *"two sentences later"* correct.
+⛔ Jung's **II, 7, 5** is Massuet's scheme; **Harvey prints it at II.vi.3**, and Harvey's own II.vii is
+three sections about *umbra*. Already filed (R-108 / `SWEEP-001` row 1) and repeated in the note,
+because a defect filed in a sweep file is invisible where a reader meets it.
+⚠ **Correction to this pass's own working, kept:** I first placed the passage in Harvey's CAP. V. The
+scan's OCR **drops the `CAP. VI.` heading entirely**, so an anchored `^CAP\.` grep returns V and VII
+and invites exactly that error; the marginal `LIB. II. vi.1.` settles it. Line-anchored grep over an
+OCR scan, twice in one session, in the pass whose subject is reading primary text properly.
+
+⚠ **DECLARED OPEN, not smoothed:** [^10] and [^11] ship at **assertion-grade**. The primary-source
+check on Loki, Azazel and Isaiah 14 was dispatched and **had not returned when the notes were
+written**, and the section's finding is a **count** — which is exactly the claim a "not opened in this
+pass" note fails to secure. [^11] names the chapter's own unrun falsifier (Raven/Māui against the
+ethnographic record) as a target rather than a caveat. Both are owed and are on the record as owed.
+
+**Book IV: 9/10 chapters carry apparatus, 58 notes. IV.10 next, then Book V's eleven (0/11).**
+R-110 (`edition_scheme_sweep.py`) runs at book CLOSE — IV goes into RETROFITTED_BOOKS only after
+IV.10.
