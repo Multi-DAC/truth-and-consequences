@@ -431,7 +431,7 @@ error that flatters has a motive *keeping* it. [[feedback_guard_built_in_the_fea
     doctrine being credited — the limitation exists so that a creature can stand as itself rather than
     be annulled in its source — is **Lurianic**, which is 1572, reaching us through Vital. It is not
     twelfth-century, and the chapter **contradicts its own dating a hundred and thirty lines earlier**,
-    where it puts the development of Kabbalah in *"Provence and Girona around 1200"* — that is, the
+    at `V.6:43-44`, where it puts the development of Kabbalah in *"Provence and Girona around 1200"* — that is, the
     tradition barely exists in the twelfth century, let alone states this. ★ **And the genuinely older
     attestations invert the term.** In the Midrash the Ark holds *"the shade of the Holy One … wherein
     He contracts (*metzamtzem*) His shekhinah"*; Nahmanides (1194–1270 — thirteenth century, and
@@ -443,12 +443,12 @@ error that flatters has a motive *keeping* it. [[feedback_guard_built_in_the_fea
     limitation is the existence of somebody for whom things can be the case — is **sound** and is the
     best thing in the chapter. Only the date and the implied antiquity fail, and they fail toward
     flattery. See the headnote.
-    ⛔★ **AND THIS BOOK HAD ALREADY RULED ON IT.** `IV.8:498–503`, in an apparatus written before V.6
-    acquired one, files the identical correction against the identical error: *"The Kabbalah clause
+    ⛔★ **AND THIS BOOK HAD ALREADY RULED ON IT.** In an apparatus written before V.6 acquired one,
+    the book files the identical correction against the identical error at `IV.8:498-503`: *"The Kabbalah clause
     telescopes three centuries and two systems into one sentence. …The **contraction** is *tzimtzum*,
     and it is **Lurianic**: Isaac Luria, Safed, later sixteenth century, transmitted through Ḥayyim
-    Vital … true of Lurianic Kabbalah and of nothing earlier, **because there was no contraction to
-    be before**."* IV.8 caught a three-century telescope. V.6 — **the Kabbalah chapter** — then built
+    Vital … true of Lurianic Kabbalah and of nothing earlier, because there was no contraction to
+    be before."* IV.8 caught a three-century telescope. V.6 — **the Kabbalah chapter** — then built
     a four-century one, and nothing in the drafting of V.6 consulted the note that had already ruled.
     ★ **A defect filed in an apparatus is filed in the one place the next chapter's author does not
     read.** That is not a fact about this chapter; it is the retrofit's own failure mode, and it is
@@ -472,7 +472,7 @@ error that flatters has a motive *keeping* it. [[feedback_guard_built_in_the_fea
     write. Read as a claim about what the map maps rather than about whether the map is true, the
     section takes on no debt at all.
 
-[^14]: ⛔ **R-183. The chapter coins a thesis and backdates it to V.1 within six lines.** *"V.1 opened
+[^14]: ⛔ **R-183. The chapter coins a thesis and backdates it to V.1 within six lines.** At `V.6:264`: *"V.1 opened
     this book by saying that a tradition is a road and that the summit statements are the part that
     travels, which is why they arrive stripped of everything that made them safe."* ⛔ **`strip` and
     `safe` occur zero times in V.1**, prose and all seven notes, and **`travel` occurs zero times as

@@ -100,25 +100,37 @@ class Chapter:
     def __init__(self, path: Path):
         self.path = path
         full = path.read_text(encoding="utf-8")
+        self.total_lines = len(full.splitlines())
         self.prose = full.split("## NOTES", 1)[0]
         self.lines = self.prose.splitlines()
-        self.total_lines = len(full.splitlines())
-        # normalised text + index -> line number map
-        buf, self.idx2line = [], []
-        for lineno, line in enumerate(self.lines, 1):
+        # Two indexes. PROSE is what a chapter's own notes are checked against — a note that
+        # quotes the span it rules on must not be allowed to certify itself. FULL is what
+        # OTHER chapters' notes are checked against, because a note citing IV.8's apparatus is
+        # citing an independent artifact, and refusing to resolve it would report a correct
+        # cross-reference as MISSING. The hazard is self-reference, not apparatus-reference.
+        self.norm, self.idx2line = self._index(self.lines)
+        self.norm_full, self.idx2line_full = self._index(full.splitlines())
+
+    @staticmethod
+    def _index(lines: list[str]) -> tuple[str, list[int]]:
+        buf, idx = [], []
+        for lineno, line in enumerate(lines, 1):
             piece = re.sub(r"\s+", " ", line).strip()
             if not piece:
                 continue
             if buf:
                 buf.append(" ")
-                self.idx2line.append(lineno)
+                idx.append(lineno)
             for _ in piece:
-                self.idx2line.append(lineno)
+                idx.append(lineno)
             buf.append(piece)
-        self.norm = "".join(buf)
+        return "".join(buf), idx
 
-    def find_line(self, quote: str) -> int | None:
+    def find_line(self, quote: str, include_notes: bool = False) -> int | None:
         """Line of the quote's first character, or None.
+
+        include_notes=False (a chapter checking itself) searches prose only.
+        include_notes=True (another chapter citing this one) searches the whole file.
 
         Elided quotes are the norm in this apparatus — a note writes
         `"The Fullness is not less for having a vantage in it…"` and the ellipsis is the
@@ -126,7 +138,9 @@ class Chapter:
         without this the gauge reports MISSING on correctly-cited spans, which is the failure
         mode that gets an instrument switched off.
         """
-        hay = self.norm.replace("’", "'").replace("‘", "'")
+        src = self.norm_full if include_notes else self.norm
+        idx = self.idx2line_full if include_notes else self.idx2line
+        hay = src.replace("’", "'").replace("‘", "'")
         frags = [norm(f).replace("’", "'").replace("‘", "'")
                  for f in re.split(r"…|\.\.\.", quote)]
         frags = [f for f in frags if len(f) >= 8]
@@ -140,7 +154,7 @@ class Chapter:
             if first is None:
                 first = i
             cursor = i + len(f)
-        return self.idx2line[first] if first < len(self.idx2line) else None
+        return idx[first] if first < len(idx) else None
 
     def count(self, term: str) -> tuple[int, int]:
         """(whole-word, substring). They differ exactly where a claim is fragile.
@@ -178,7 +192,7 @@ def split_notes(text: str) -> list[tuple[int, str]]:
 
 
 def audit(chapters: dict[str, Chapter], only: str | None):
-    strong, weak, counts, unparsed = [], [], [], []
+    strong, weak, counts, unparsed, unanchored = [], [], [], [], []
 
     for key, ch in chapters.items():
         if only and key != only:
@@ -195,6 +209,12 @@ def audit(chapters: dict[str, Chapter], only: str | None):
             # locator only against the quotes that chose it. The first build paired
             # "the quote after, else before", which in a note carrying three locators and
             # three quotes hands I.5's span to I.3's locator and reports three false MISSINGs.
+            # ...and a quote further than ADOPT_WINDOW from every locator is UNANCHORED, not
+            # adopted by the nearest one. Without the cap, V.6 [^11] — which cites IV.8:498 and
+            # then quotes V.6's own line 43 four sentences later with no locator — reported the
+            # V.6 span MISSING FROM IV.8. A false positive in a rot gauge is worse than a miss:
+            # it is the row that gets the tool switched off.
+            ADOPT_WINDOW = 220
             owned: dict[int, list[str]] = {i: [] for i in range(len(locs))}
             for qm in quotes:
                 if not locs:
@@ -202,6 +222,10 @@ def audit(chapters: dict[str, Chapter], only: str | None):
                 qmid = (qm.start() + qm.end()) // 2
                 nearest = min(range(len(locs)),
                               key=lambda i: abs(((locs[i].start() + locs[i].end()) // 2) - qmid))
+                lmid = (locs[nearest].start() + locs[nearest].end()) // 2
+                if abs(lmid - qmid) > ADOPT_WINDOW:
+                    unanchored.append((where, norm(qm.group("q"))[:60]))
+                    continue
                 owned[nearest].append(qm.group("q"))
 
             for i, lm in enumerate(locs):
@@ -219,9 +243,10 @@ def audit(chapters: dict[str, Chapter], only: str | None):
                     continue
                 best = None
                 for q in cands:
-                    found = target.find_line(q)
+                    found = target.find_line(q, include_notes=(tgt != key))
                     if found is None:
-                        cand = ("MISSING", f'span not in {tgt} prose: "{norm(q)[:52]}…"', 2)
+                        scope_word = "own prose" if tgt == key else "text"
+                        cand = ("MISSING", f'span not in {tgt} {scope_word}: "{norm(q)[:52]}…"', 2)
                     elif not (a - 2 <= found <= b + 2):
                         cand = ("DRIFTED", f"span is at {tgt}:{found}, note says {a}", 1)
                     else:
@@ -252,7 +277,7 @@ def audit(chapters: dict[str, Chapter], only: str | None):
                     verdict = "DRIFTED"
                 counts.append((where, scope, term, claimed, word, sub, verdict))
 
-    return strong, weak, counts, unparsed
+    return strong, weak, counts, unparsed, unanchored
 
 
 def main() -> int:
@@ -262,7 +287,7 @@ def main() -> int:
     args = ap.parse_args()
 
     chapters = load_chapters()
-    strong, weak, counts, unparsed = audit(chapters, args.chapter)
+    strong, weak, counts, unparsed, unanchored = audit(chapters, args.chapter)
 
     print("APPARATUS ROT — the notes' own locators and counts, re-derived from disk")
     print(f"  {BOOK}   ({len(chapters)} chapters loaded)\n")
@@ -292,6 +317,17 @@ def main() -> int:
         print("     (none failing)")
     print("     ⚠ STEM = the claim is true of the word and false of the root. Not a")
     print("       refutation — an evidence sentence that needs one more clause.")
+
+    print(f"\n  UNANCHORED QUOTES: {len(unanchored)} — quoted spans with no locator beside them.")
+    for where, q in unanchored[:8]:
+        print(f'     · {where:<16} "{q}…"')
+    if len(unanchored) > 8:
+        print(f"     … and {len(unanchored) - 8} more")
+    print("     ⚠ NOT CHECKED, and printed rather than dropped. A quote with no CH:LINE")
+    print("       next to it cannot be re-derived, and adopting it to the nearest locator")
+    print("       invents failures — that cost this gauge a false ⛔ against IV.8 on its")
+    print("       second run. Give a span a locator and it stays checkable. This number")
+    print("       is the apparatus's uncheckable fraction; it should fall, not hold.")
 
     print(f"\n  UNPARSED: {len(unparsed)} numeric claims this gauge could not resolve.")
     for where, why in unparsed[:12]:
