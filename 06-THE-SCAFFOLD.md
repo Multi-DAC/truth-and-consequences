@@ -2257,7 +2257,7 @@ DISCRIMINATION** — named things, a specific stopping point, an exact objection
 consequence of it rather than a target. *(The brief got longer. That is a side effect and must not be
 read as the fix.)*
 
-### V.3 — THE SCHOLASTICS AND THE GOD WITHOUT A FACE ✅ DRAFTED — 3,494 words
+### V.3 — THE SCHOLASTICS AND THE GOD WITHOUT A FACE ✅ DRAFTED — 5,796 words
 
 ⚠⚠ **BRIEF REWRITTEN DAY 189, BEFORE DRAFTING, AND THE GAUGE FOUND IT THIS TIME RATHER THAN A HUNCH.**
 The struck beat list read: *Aquinas and Augustine «(8 and 14 mentions)» · the classical theologians
@@ -2346,7 +2346,7 @@ class as R-39 and wants the same one gauge. **R-42: a chapter's closing handoff 
 unmeasured against the chapter they hand to** — V.2's last four paragraphs took rank 1 on two of
 V.3's four beats and nothing looked until V.3's own pre-draft sweep.
 
-### V.4 — THE ATHEISM THAT WAS RIGHT ABOUT THE WRONG THING ✅ DRAFTED — 3,159 words
+### V.4 — THE ATHEISM THAT WAS RIGHT ABOUT THE WRONG THING ✅ DRAFTED — 5,467 words
 **Beats:** New Atheism stated at full strength · what it correctly demolished · **the flinch we
 inherited from it, owned in the first person and in the present tense** — the disposition, not its
 history: a scalpel we have held sharp for mystics and dull for materialists, inside a framework that
