@@ -2393,7 +2393,7 @@ chair."* That is the COSMOLOGICAL atheist, not the movement, so it is not a spen
 V.4 may not re-run it.** Book III owns the removal of the chair; V.4 owns the epistemics and the
 style.
 
-### V.5 — THE EAST: ONE GROUND, MANY LOCALISATIONS ✅ DRAFTED — 6,190 words
+### V.5 — THE EAST: ONE GROUND, MANY LOCALISATIONS ✅ DRAFTED — 6,193 words
 
 ⚠⚠ **RETITLED BEFORE DRAFTING, DAY 189 — IT READ *"ONE SUBSTANCE, MANY LOCALISATIONS"* AND THAT IS
 C26 INVERTED, IN A CHAPTER TITLE.** C26 is **THERE IS NO STUFF**; the title made *substance* the
@@ -2601,7 +2601,7 @@ again**» · the dead and the visited ·
 hardest case» · OBE-as-proof-of-survival stays out, and the reason on the page is *we do not hold it*,
 never *a skeptic would object*.
 
-### V.9 — THE ROAD BEING WALKED NOW ✅ DRAFTED — 2,891 words
+### V.9 — THE ROAD BEING WALKED NOW ✅ DRAFTED — 5,863 words
 ✅ **DRAFTED Day 189 · `book/V-09-the-road-being-walked-now.md` · C-LICENSE: C27 · C30 · C29 · C14.**
 ⛔ **The block is lifted:** IV.10's Tier 1.4 census line landed first, in that order, as ruling 128
 required.
@@ -2662,7 +2662,7 @@ felt reason to go back. **Check the atlas before opening this chapter.**
 **Named:** the demarcation, performed a second time — V.8 takes the method, V.9 takes the case that
 tests it.
 
-### V.10 — THE MYSTICS' REPORT ✅ DRAFTED — 3,115 words
+### V.10 — THE MYSTICS' REPORT ✅ DRAFTED — 6,115 words
 ✅ **DRAFTED Day 189 · `book/V-10-the-mystics-report.md` · C-LICENSE: C30 · C29 · C1 · C27.**
 
 **Source:** ⚠ **ADDED AT DRAFTING, Day 189, and the brief was the thinnest in Book V — 12 lines, over
@@ -2744,7 +2744,7 @@ what is local idiom · the Christian numinous given the same standing as the Ved
 behind us has done, so there is no earlier handling to lean on and the parity must be built here» ·
 **why the reports converge on structure and diverge on furniture.**
 
-### V.11 — WHAT THE OLD ROADS KNEW THAT WE DO NOT — **AND THE ONE THING THEY ALL GOT WRONG** ✅ DRAFTED — 3,420 words
+### V.11 — WHAT THE OLD ROADS KNEW THAT WE DO NOT — **AND THE ONE THING THEY ALL GOT WRONG** ✅ DRAFTED — 6,577 words
 ✅ **DRAFTED Day 189 · `book/V-11-what-the-old-roads-knew.md` · C-LICENSE: C30 · C14 · C27 · C15.**
 ★★ **BOOK V IS CLOSED — 11/11.** The chapter's second half named **two parties who have been in this
 book's argument since V.1 and had never been named in it**: the **perennialist** (Huxley 1945, Schuon
