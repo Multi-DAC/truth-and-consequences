@@ -351,9 +351,9 @@ hedge: [^14]. [[feedback_test_inherits_hypothesis_expiry]]
     practitioners. ✅ *"Peter Carroll and the others"* is the right hedge: the Illuminates of
     Thanateros were a group, and the position was never Carroll's alone.
 
-[^10]: ✅ **IV.7's criterion, quoted correctly and used inside its warrant.** IV.7:184–185: *"It is
+[^10]: ✅ **IV.7's criterion, quoted correctly and used inside its warrant.** *"It is
     not vividness, or duration, or how real it seems. It is this: the thing does something you did
-    not want."* IV.7:190 gives the second half — divergence from the creator's intent as the event,
+    not want."* (IV.7:184–185). IV.7:190 gives the second half — divergence from the creator's intent as the event,
     difficulty of dissolution as the measure of how far it has gone. V.7 imports both, and **imports
     the limit with them**, which is the part that usually falls off in transit.
 

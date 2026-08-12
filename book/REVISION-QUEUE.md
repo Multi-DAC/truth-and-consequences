@@ -4792,3 +4792,55 @@ to this heuristic, from a broken citation. Not relaxed tonight — the party a r
 exonerate is the one proposing it — so the rule is instead **put the locator immediately after the
 span it certifies**, and R-206 stays open until the adoption is scoped rather than loosened.
 [[feedback_never_relax_the_gauge_that_caught_you]] medium.
+
+## R-207 — a quoted string under 12 characters flipped quote parity for the rest of a note
+
+**HIGH — FOUND AND FIXED Day 192.** `apparatus_rot.py`'s `QUOTE_RE` applied its 12-character minimum
+**inside the scanner**: `[*_]*["“](?P<q>[^"”]{12,400})["”][*_]*`. A quoted string shorter than 12
+characters therefore failed to match, `finditer` resumed at its **closing** quote, and that closing
+quote paired with the **next opening** one. From that point in the note, every real span was read as
+the connective tissue between spans and every piece of connective tissue was read as a span.
+
+⛔ **It does not error. It prints confident ⛔ MISSING rows against quotations that are verbatim on
+disk** — five of them, against V.9 [^14], which is how it was found; the trigger was the word
+`"NEVER"` in the note's own heading. And it fails in **both** directions at once: false alarms on the
+rows it prints, and a silent miss on every real span it swallowed.
+
+✅ **Fix: the minimum now lives after the scan (`MIN_QUOTE`), so short quotes are consumed and
+discarded and parity is preserved.** Positive control, run before any note was touched: all five
+false rows cleared **with V.9 [^14] unedited**, and `checked` went **60 → 61** — one real span the
+parity flip had been eating — while `weak` went 8 → 7. **The number moved the right way and not
+merely down**, which is the check a gauge-fix owes and the one its author never walks.
+[[feedback_zero_needs_a_positive_control]] [[feedback_never_relax_the_gauge_that_caught_you]]
+
+★ **Second defect in this file in two days, and the pair rhymes.** R-205 was a case-sensitive literal
+(`## NOTES`) that silenced 59 of 60 chapters. R-207 is a length bound in the wrong place. **Both are
+one-token errors in a matching rule, both produced plausible non-zero output, and neither could fire
+an alarm about itself.** A gauge's own matching layer is the part nothing downstream can audit.
+
+## R-208 — V.9 quotes its own book in the form it had BEFORE its apparatus was written
+
+**HIGH — THE CLASS, NOT THE THREE INSTANCES.** V.9 was drafted last in Book V (git first-commit
+8 Aug: V.3 14:53, V.8 18:32, **V.9 18:58**) and it borrows from its neighbours three times. **All
+three borrowings take the pre-correction form.**
+1. **V.1's headline, downgraded by V.1's own note.** V.9 quotes *"one witness quoted back five
+   times"* (V.1:131) verbatim — and V.1 [^7] already says the chain *"survives at three or four"*
+   (V.1:381) links, calls the five an inference rather than a finding, and files an explicit **Owed**.
+   V.9 then *escalates* it to *"several million times."*
+2. **V.1's word swapped, italics kept.** V.9 prints *"not an **independent** datum"* as V.1's words;
+   V.1:244 says *"not a **fourth** datum"* — an arithmetic word that means something only inside a
+   count of three branches, generalised because V.9 has one branch. The generalisation is *correct*;
+   the italics make it a fabrication.
+3. **A "never" refuted 26 minutes earlier.** V.9: the two-frames rule has been *"run at full cost
+   never."* **V.8:177–182 runs it at full cost** — names the divergence, makes the pick, ranks the
+   reasons, refuses to spread the load to look broader. V.3:128 ran it too.
+
+★★ **One mechanism, and it is not staleness — every one of these was false when it was typed.** The
+corrections all existed on disk, in the same book, some of them minutes old. **A chapter drafted last
+quotes the book as it stood when the drafter last *read* it, and an apparatus is exactly the layer a
+drafter does not re-read.** [[feedback_correction_does_not_reach_citers]]
+
+⚠ **LIVE PREDICTION, and it is falsifiable: V.10 and V.11 were drafted after V.9 and should do the
+same thing to V.9 and to each other.** If their apparatuses come back with no pre-correction
+borrowing, this class is refuted as a general rule and demoted to three coincidences in one chapter.
+**Do not write the V.10/V.11 notes expecting to find it.** [[feedback_briefing_manufactures_the_agreement]]
