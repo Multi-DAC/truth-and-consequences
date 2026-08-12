@@ -492,7 +492,7 @@ disk: `06-THE-SCAFFOLD.md`:154 records the renumber (*"name at V.10 (was V.9 —
 **`book/V-09-the-road-being-walked-now.md` exists and is drafted** — it carries the entry, including
 the instrument-record grade this chapter previewed: *"They are also very few, and they establish an
 unidentified track and not an occupant"* (V.9:96), *"Something unidentified has been tracked on
-independent instruments. Grade: real, small"* (V.9:225).
+independent instruments. Grade: real, small"* (V.9:236).
 ★ **Recorded because a check that passes is evidence too, and this apparatus has kept almost none.**
 Every finding-note in Books II-IV reports a failure; a retrofit that prints only failures cannot tell
 a reader whether the method works or only whether it is pointed at broken things. This one worked: a

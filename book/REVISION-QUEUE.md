@@ -4710,3 +4710,85 @@ chapter's whole file, so a note quoting the span it rules on certified itself ag
 The finding survives and is stronger, because V.1's one cognate for V.6's thesis names the category
 V.1 rejects. **A refuter attacks the conclusion; it does not re-run the grep.**
 [[feedback_run_the_existing_gauge_first]] [[feedback_grep_derived_from_the_finding]] high.
+
+---
+
+## R-203 — `endnote_debt.py` cannot see a source across a relative clause, and drops it silently
+
+**HIGH.** `scan_prose` counts a name as a source only in three shapes: a possessive before a
+lowercase word (*Gibson's affordances*), a name immediately followed by an attribution verb
+(*Searle argues*), or *according to / per / following X*. V.8 names **Michael Harner** once —
+*"Michael Harner, whose* The Way of the Shaman *… , called the drumming* sonic driving*"* — with a
+twenty-word relative clause between the name and its verb. He is not extracted, and he appears in
+**none of the tool's printed exclusion classes**, because those list names that were found and then
+rejected. A name never found is invisible to the mechanism built to make exclusions visible.
+
+⛔ **The failure direction is the flattering one.** Had V.8's apparatus covered only the two names
+the tool listed, the chapter would have gone **square with a cited source uncited**. The debt gauge
+is a *reporting* gauge that has been read as a *preventing* one.
+
+⚠ **Measured, so the size is not guessed.** A positive control against `BOOK-V-ROSTER.md`'s
+hand-built NAMED lists found **no uncovered person in V.1–V.7** — all three candidates were false
+positives of my own probe's last-token matching (V.1's Dionysius, V.6's Shneur Zalman, V.2's Aquinas,
+which carries `[^5]` at the exact clause). So the apparatus is not full of holes. **The apparatuses
+are clean because they were written by reading the chapters, not by working the gauge's list** — the
+gauge has never been the thing catching them. [[feedback_self_generated_denominator]]
+[[feedback_reporting_gauge_is_not_preventing_gauge]] high.
+
+## R-204 — the V.8 sentence that turned my own search-null into an accusation
+
+**HIGH, repaired in place.** V.8 said the settling experiment's *"absence after fifty years is itself
+a small piece of evidence about who has wanted to run it."* The study was published **26 March
+2026** — Aparicio-Terrés, López-Mochales, Díaz-Andreu and Escera, *Scientific Reports* 16:10204 —
+by a university auditory-neuroscience lab with no stake in teaching the practice, i.e. exactly the
+independence the chapter demanded. Three compounding faults, worst last: an absence needs no
+citation, so **nothing in the apparatus would ever have been asked to support it**; it is
+cutoff-as-null-space, assuming a live field has no instrument because none had reached me; and
+**the grade did not depend on it** — *weak* survives, and the 2026 result arguably strengthens it by
+locating the effect in the listener rather than the tempo. The sentence bought nothing and staked
+the chapter's licence. [[feedback_cutoff_is_a_silent_null_space]]
+[[feedback_guard_built_in_the_feared_direction]] high.
+
+## R-205 — `apparatus_rot.py` audited one chapter of sixty, and never printed a zero
+
+**⛔ HIGHEST. Repaired tonight; the lesson is the repair's shape, not the bug.** The audit loop read
+`if "## NOTES" not in text: continue` — a case-sensitive literal. **Exactly one chapter writes the
+heading that way: V.6.** Twenty-five write `## Notes`; thirty-four carry an apparatus under no
+heading at all. So from its first run, every number this gauge printed — *"10 locators checked, 0
+failing"*, *"UNANCHORED: 4"* — was **V.6's alone, read as the book's**.
+
+⛔ **It survived because it never returned zero.** A plausible non-zero result reads as coverage. And
+I wrote it forward: the Day-191 handoff's standing order said *"V.7 added 10 anchored and 0
+unanchored; hold that standard."* **The ten were V.6's.** V.7's apparatus had never been seen.
+
+**Three defects, one shape, found in sequence — each repair landing where the live path wasn't:**
+1. the loop's literal (above);
+2. `Chapter.__init__` held **the same wrong literal a second time**, so `self.prose` returned the
+   whole file including the notes — silently disarming the self-certification guard that class's own
+   docstring exists to describe;
+3. `norm()` collapsed whitespace but not markdown emphasis, and `_index` **reimplemented norm()'s
+   body inline** rather than calling it — so fixing `norm()` fixed the needle and left the haystack
+   bolded. R-63's repair was already written, with a comment naming the family, in
+   `endnote_debt.py`. **A defect class fixed in one prose gauge does not propagate to the next one
+   written.** [[feedback_filed_defect_still_gets_rebuilt]] [[feedback_zero_needs_a_positive_control]]
+
+**After repair: 32 locators checked (was 10), 4 failing.** One real — IV.10 [^3] cited V.9:225, span
+at V.9:236, fixed. The other three are R-206.
+
+## R-206 — quote-to-locator adoption is now the gauge's dominant error source
+
+**MEDIUM, deliberately NOT fixed.** Three of the four post-repair failures are false positives with
+one cause: a note carrying more locators than quotes has each quote adopted by the **nearest locator
+by character distance**, and the nearest is often not the cited one.
+- V.7 [^10] cites *IV.7:184–185* for its quote and *IV.7:190* for a separate unquoted claim. The
+  quote adopts 190 and reports DRIFTED. **The note is correct.**
+- V.5 [^13] quotes *"the name that can be named…"* while attributing it to **V.2's apparatus**, and
+  quotes *"one of three independent arrivals…"* **expressly to deny it is V.1's phrasing**. Both
+  adopt a neighbouring locator and report MISSING.
+
+⛔ **The pattern is worth more than the fix: a note being more careful than the gauge scores worse.**
+A note that quotes a phrase *in order to mark it as not-the-source's-wording* is indistinguishable,
+to this heuristic, from a broken citation. Not relaxed tonight — the party a relaxation would
+exonerate is the one proposing it — so the rule is instead **put the locator immediately after the
+span it certifies**, and R-206 stays open until the adoption is scoped rather than loosened.
+[[feedback_never_relax_the_gauge_that_caught_you]] medium.

@@ -64,6 +64,27 @@ LOCATOR_RE = re.compile(r"\b(?P<ch>[IVX]+\.\d+):(?P<a>\d+)(?:\s*[-–—]\s*(?P<
 # A quoted span: *"..."* or "..." or *'...'*  — the book uses all three in notes.
 QUOTE_RE = re.compile(r"[*_]*[\"“](?P<q>[^\"”]{12,400})[\"”][*_]*")
 NOTE_RE = re.compile(r"^\[\^(?P<n>\d+)\]:", re.M)
+# ⛔ Day 192. This gauge audited ONE chapter of sixty from its first run to this fix.
+# The loop said `if "## NOTES" not in text: continue` — a literal, case-sensitive
+# match. Exactly one chapter in the book writes the heading that way (V.6). Twenty-five
+# write `## Notes`; thirty-four carry an apparatus under no heading at all. So every
+# number this tool ever printed — "10 locators checked, 0 failing", "UNANCHORED: 4" —
+# was V.6's, and was read as the book's. It never once printed a zero, which is why
+# nothing caught it: a plausible non-zero result reads as coverage.
+NOTES_HEAD_RE = re.compile(r"^#{1,4}[ \t]*(?:NOTES?|ENDNOTES?)[ \t]*$", re.I | re.M)
+
+
+def notes_block(text: str) -> str | None:
+    """The apparatus, however the chapter happens to announce it.
+
+    Falls back to the first note DEFINITION when there is no heading, because
+    thirty-four chapters have none. NOTE_RE requires the `[^n]:` colon and a line
+    start, so a `[^3]` reference in prose cannot open the block by mistake."""
+    head = NOTES_HEAD_RE.search(text)
+    if head:
+        return text[head.end():]
+    first = NOTE_RE.search(text)
+    return text[first.start():] if first else None
 
 WORDNUM = {
     "zero": 0, "one": 1, "two": 2, "three": 3, "four": 4, "five": 5, "six": 6,
@@ -83,8 +104,20 @@ COUNT_RE = re.compile(
 
 
 def norm(s: str) -> str:
-    """Collapse all whitespace. The book hard-wraps; a quoted span crosses lines."""
-    return re.sub(r"\s+", " ", s).strip()
+    """Collapse whitespace AND drop emphasis markers.
+
+    The book hard-wraps, so a quoted span crosses lines — that half was here from
+    the start. The other half was not, and it produced six false ⛔ MISSINGs the
+    moment this gauge could see more than one chapter: III.6:207 reads
+    `**The seed takes an edit the way it took the installation** — by repetition`,
+    V.7 [^5] quotes it without the bold, and a raw substring test says the span is
+    absent from a chapter that contains it word for word.
+
+    ⛔ This is R-63, and the repair already existed in a sibling tool: endnote_debt's
+    scan carries an explicit `[*_]*` for exactly this reason, with a comment naming
+    the family. The lesson is not 'strip asterisks' — it is that a known defect class
+    fixed in one prose gauge does not propagate to the next one written."""
+    return re.sub(r"\s+", " ", re.sub(r"[*_`]", "", s)).strip()
 
 
 class Chapter:
@@ -101,7 +134,15 @@ class Chapter:
         self.path = path
         full = path.read_text(encoding="utf-8")
         self.total_lines = len(full.splitlines())
-        self.prose = full.split("## NOTES", 1)[0]
+        # ⛔ Day 192: this line ALSO read `full.split("## NOTES", 1)[0]`. In 59 of the 60
+        # chapters that carry an apparatus the literal is absent, so split() returned the
+        # whole file and `self.prose` INCLUDED THE NOTES — silently defeating the single
+        # guard this class exists to be, as its own docstring above describes. The same
+        # wrong literal in two places, the second one disarming the first.
+        head = NOTES_HEAD_RE.search(full)
+        first = NOTE_RE.search(full)
+        cut = head.start() if head else (first.start() if first else len(full))
+        self.prose = full[:cut]
         self.lines = self.prose.splitlines()
         # Two indexes. PROSE is what a chapter's own notes are checked against — a note that
         # quotes the span it rules on must not be allowed to certify itself. FULL is what
@@ -115,7 +156,12 @@ class Chapter:
     def _index(lines: list[str]) -> tuple[str, list[int]]:
         buf, idx = [], []
         for lineno, line in enumerate(lines, 1):
-            piece = re.sub(r"\s+", " ", line).strip()
+            # ⛔ Day 192: this read `re.sub(r"\s+", " ", line).strip()` — norm()'s body,
+            # copied. So fixing norm() to drop emphasis markers fixed the NEEDLE and left
+            # the HAYSTACK bolded, and every span quoted from a bolded source still read
+            # MISSING. Third instance tonight of one shape: the repair lands in one place
+            # and the path that matters holds its own copy. Call the function.
+            piece = norm(line)
             if not piece:
                 continue
             if buf:
@@ -198,9 +244,10 @@ def audit(chapters: dict[str, Chapter], only: str | None):
         if only and key != only:
             continue
         text = ch.path.read_text(encoding="utf-8")
-        if "## NOTES" not in text:
+        block = notes_block(text)
+        if block is None:
             continue
-        for n, body in split_notes(text.split("## NOTES", 1)[1]):
+        for n, body in split_notes(block):
             where = f"{key} [^{n}]"
 
             locs = list(LOCATOR_RE.finditer(body))

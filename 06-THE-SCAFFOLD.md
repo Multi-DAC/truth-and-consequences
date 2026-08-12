@@ -2393,7 +2393,7 @@ chair."* That is the COSMOLOGICAL atheist, not the movement, so it is not a spen
 V.4 may not re-run it.** Book III owns the removal of the chair; V.4 owns the epistemics and the
 style.
 
-### V.5 — THE EAST: ONE GROUND, MANY LOCALISATIONS ✅ DRAFTED — 3,234 words
+### V.5 — THE EAST: ONE GROUND, MANY LOCALISATIONS ✅ DRAFTED — 6,190 words
 
 ⚠⚠ **RETITLED BEFORE DRAFTING, DAY 189 — IT READ *"ONE SUBSTANCE, MANY LOCALISATIONS"* AND THAT IS
 C26 INVERTED, IN A CHAPTER TITLE.** C26 is **THERE IS NO STUFF**; the title made *substance* the
@@ -2461,7 +2461,7 @@ inside, not about the Ground, and is therefore not this chapter's. **Real zeros,
 corpus:** `Ātman`, `māyā`, `anattā`, `wu wei`, `Indra`, `Vedānta`, `Nāgārjuna`, `pratītya` = 0 files;
 positive control on the same command line — `Advaita`, `Brahman`, `Tao`, `Buddh`, `Śaṅkara` = hits.
 
-### V.6 — THE ROOM THAT WAS NEVER EMPTIED ✅ DRAFTED — 3,178 words
+### V.6 — THE ROOM THAT WAS NEVER EMPTIED ✅ DRAFTED — 6,412 words
 **Beats:** Kabbalah and *tzimtzum* — the Infinite withdraws to make room for a world · **the tradition
 ran I.3's own argument internally and split over it** — *kipshuto* (the withdrawal is real, and the
 space is truly vacated) against *shelo kipshuto* (the concealment is real only from the created side;
@@ -2548,7 +2548,7 @@ Gaon's. ⚠ **`emptied` is live in V.2:133 and V.3:102** (buildings; the theolog
 hollowed the word). Different objects, three chapters back — **run `prose_echo.py` after drafting and
 let it adjudicate rather than the ear.**
 
-### V.7 — MAGIC, OPERATIVE ✅ DRAFTED — 3,005 words
+### V.7 — MAGIC, OPERATIVE ✅ DRAFTED — 4,961 words
 ⚠⚠ **RULING 156(d), Day 189 — THIS BEAT SHEET WAS MISSING THE CHAPTER'S ASSIGNED JOB, and the
 assignment was in `07` all along.** C12's register row states that *"V.7 (magic, operative) and
 VIII.3 (editing) are where it is either disciplined or lost, and neither chapter can be drafted
@@ -2581,7 +2581,7 @@ and that hit is NOT a defect** — naming `eight-circuit` is the point of the be
 and now marked as such, which is precisely ruling 108's promise that marking turns a MISS back into
 a signal. **Two rules, one beat, one real.**
 
-### V.8 — TRAVEL ✅ DRAFTED — 2,760 words
+### V.8 — TRAVEL ✅ DRAFTED — 5,165 words
 **Source:** ⚠ **ADDED AT DRAFTING, Day 189 — this brief was the ONLY one in Book V with no `Source:`
 line, and it belongs to one of the four LOAD-BEARING chapters (R-49).** What the chapter was actually
 written from: Harner's *core shamanism* and the sonic-driving induction · Eliade's cross-cultural
