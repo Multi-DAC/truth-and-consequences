@@ -62,7 +62,18 @@ CH_RE = re.compile(r"^(?P<book>[IVX]+)-(?P<num>\d+)-")
 # A locator: V.6:258  ·  I.3:46-49  ·  I.3:46–49 (en dash)  ·  VII.10:7
 LOCATOR_RE = re.compile(r"\b(?P<ch>[IVX]+\.\d+):(?P<a>\d+)(?:\s*[-–—]\s*(?P<b>\d+))?\b")
 # A quoted span: *"..."* or "..." or *'...'*  — the book uses all three in notes.
-QUOTE_RE = re.compile(r"[*_]*[\"“](?P<q>[^\"”]{12,400})[\"”][*_]*")
+# ⛔ Day 192, second defect. This read {12,400} and the minimum was applied IN THE SCANNER,
+# which silently flips quote parity for the rest of a note. A quoted string under 12 chars
+# — `"NEVER"`, `"published"`, `"the East"` — fails to match, so `finditer` resumes at its
+# CLOSING quote and pairs it with the NEXT opening one. From that point every real span is
+# read as the connective tissue between spans, and every piece of connective tissue is read
+# as a span. It does not error: it prints confident ⛔ MISSING rows against quotations that
+# are verbatim on disk (five of them, against V.9 [^14], which is how this was found), while
+# the real spans it swallowed are never checked at all. False alarm and silent miss from one
+# off-by-one-quote. THE MINIMUM NOW LIVES AFTER THE SCAN (MIN_QUOTE), so short quotes are
+# consumed and discarded and parity is preserved.
+MIN_QUOTE = 12
+QUOTE_RE = re.compile(r"[*_]*[\"“](?P<q>[^\"”]{1,400})[\"”][*_]*")
 NOTE_RE = re.compile(r"^\[\^(?P<n>\d+)\]:", re.M)
 # ⛔ Day 192. This gauge audited ONE chapter of sixty from its first run to this fix.
 # The loop said `if "## NOTES" not in text: continue` — a literal, case-sensitive
@@ -251,7 +262,10 @@ def audit(chapters: dict[str, Chapter], only: str | None):
             where = f"{key} [^{n}]"
 
             locs = list(LOCATOR_RE.finditer(body))
-            quotes = list(QUOTE_RE.finditer(body))
+            # Scan ALL quoted strings so parity holds, then drop the too-short ones. Filtering
+            # here rather than in QUOTE_RE is the whole fix — see the note on MIN_QUOTE.
+            quotes = [m for m in QUOTE_RE.finditer(body)
+                      if len(m.group("q")) >= MIN_QUOTE]
             # Assign each quote to its NEAREST locator by character distance, then check a
             # locator only against the quotes that chose it. The first build paired
             # "the quote after, else before", which in a note carrying three locators and
