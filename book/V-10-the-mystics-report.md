@@ -325,8 +325,8 @@ which is why a reader who stops at the marker sees no citation at all.*
     the site where it does not is the one the prediction named.** V.1 [^7] marks two of its five
     links as carrying more weight than the chain supports — Kabbalah, given as *develops … in a world
     in contact with both* (contact, not descent), and the Ibn Arabi school, running through the
-    reworked Arabic text — and concludes that the argument *survives at three or four* (V.1:381)
-    *links without the two weakest* (V.1:382). **This chapter's chain is Plotinus → Proclus →
+    reworked Arabic text — and concludes that the argument *"survives at three or four"* (V.1:381)
+    *"links without the two weakest"* (V.1:382). **This chapter's chain is Plotinus → Proclus →
     Dionysius → Eckhart → Suso: precisely the links V.1's own apparatus says carry, with both flagged
     ones absent.** V.1 [^7] filed an Owed — state the inference as an inference, or cut it to the
     links that carry. **V.10 cut it to the links that carry.** V.9, drafted twenty-nine minutes
@@ -385,10 +385,11 @@ which is why a reader who stops at the marker sees no citation at all.*
     most datable thing on James's list. [[feedback_evidence_grade_distinction]]
 
 [^13]: ⚠ **V.9 is paraphrased accurately and then charged with a complacency it disclaims one
-    sentence later.** V.9:258 reads *mystics got three branches because the transmission was old
-    enough to be traced* and V.9:259 *because ours is new enough to be watched* — this chapter's
-    rendering is faithful. **But V.9 does not end there.** Its next line is *That is not a reason to
-    be pleased with ourselves* (V.9:261), followed by the charge that the next century will run this
+    sentence later.** V.9 reads *"mystics got three branches because the transmission was old
+    enough to be traced"* (V.9:258) and *"because ours is new enough to be watched"* (V.9:259)
+    — this chapter's
+    rendering is faithful. **But V.9 does not end there.** Its next line is *"That is not a reason to
+    be pleased with ourselves"* (V.9:261), followed by the charge that the next century will run this
     test on Book V. **So the too-comfortable reading quotes the penultimate paragraph as the
     conclusion.** The substantive correction stands — V.9 missed the anthology transmission — but the
     tone charge is answered in the source. ★ **And V.9 asked for exactly what this chapter does**,
@@ -424,9 +425,9 @@ which is why a reader who stops at the marker sees no citation at all.*
     moves.
 
 [^17]: ✅ **THE COUNT IS EXACT, and it is the first count claim in Book V to survive unqualified.**
-    The deflation originates at V.1:182 — *If a system has a characteristic behaviour under stress* —
-    is borrowed once at V.7:40, *every one of those unrelated methods runs on one instrument — a
-    human* nervous system, and appears here third. Origin, one borrowing, this. **A chapter that
+    The deflation originates at *"If a system has a characteristic behaviour under stress"*
+    (V.1:182), is borrowed once at *"every one of those unrelated methods runs on one
+    instrument"* (V.7:40), and appears here third. Origin, one borrowing, this. **A chapter that
     states how many times it has used something, and is right, is a gauge on itself.**
 
 [^18]: ✅ **Otto checks in every particular.** *Das Heilige*, 1917; *the numinous* from Latin *numen*,
@@ -435,33 +436,33 @@ which is why a reader who stops at the marker sees no citation at all.*
     chapter's own and is marked as such in the prose.
 
 [^19]: ✅ **The four propositions are V.1's, at V.1:199–202, and the rendering is honest.** One word
-    moves: V.1 has *addressing needs an inside and it has none* (V.1:201) against this chapter's
+    moves: V.1 has *"addressing needs an inside and it has none"* (V.1:201) against this chapter's
     *addressing requires an inside*. Not presented as a quotation and semantically null — which is
     worth stating outright, because V.9 [^15] was caught substituting a word that was not.
-    ★★ **And the chapter silently improves what it borrows.** V.1:202–203 reads *inferences drawn
+    ★★ **And the chapter silently improves what it borrows.** V.1 reads *"inferences drawn
     afterward, in the cold, by people arguing with their own colleagues, in six languages, three of
-    them out of contact.* This chapter keeps everything up to *colleagues* and **drops the
+    them out of contact"* (V.1:202–203). This chapter keeps everything up to *colleagues* and **drops the
     out-of-contact clause** — which is exactly the clause its own branch count has just undermined.
     The edit is correct and unmarked. **A source corrected downstream and never told is the same
     defect as a correction that fails to reach its citers, running the other way.**
     [[feedback_correction_does_not_reach_citers]]
 
 [^20]: ★★ **The chapter understates its own advance, and the understatement makes the move look like
-    a repeat.** V.1:166–167 is quoted accurately — the five procedures in order, and *They are as
-    unlike as procedures get* verbatim. **But V.1 already ran a deflation against its own test**
-    (V.1:178–186): one instrument, one nervous system, twenty stressors and one behaviour. V.1 then
-    fenced it — *It explains the phenomenology* … *It does not explain the propositions.* **This
+    a repeat.** The five procedures are in order, and *"They are as
+    unlike as procedures get"* (V.1:167) is verbatim. **But V.1 already ran a deflation against its own test**
+    (V.1:178–186): one instrument, one nervous system, twenty stressors and one behaviour. V.1 then fenced it:
+    *"It explains the phenomenology"* (V.1:192), *"It does not explain the propositions"* (V.1:197). **This
     chapter's objection is a different one — same direction, not same substrate — and it reaches
     inside the fence, because the second storey is a proposition.** As written, a reader who knows
     V.1 will think the crack is the old one re-announced. **Owed: one clause saying which deflation
     this is not.**
 
 [^21]: ⛔ **V.5 pressed it. It pressed it in these words.** The prose says V.5 found this and did not
-    press it. V.5:277–281 states the explanation in full and reaches the same two closing sentences —
-    *The report is honest. The instrument selected it.* — **verbatim, unmarked, and presented here as
-    a conclusion V.5 stopped short of.** V.5 also already lists Advaita, Madhyamaka and the *zuowang*
-    passage (V.5:273–274), and already flagged the tension: their recurrence *needs explaining rather
-    than dismissing*. ★ **What this chapter genuinely adds is three things and they are worth naming:
+    press it. V.5 states the explanation in full and reaches the same two closing sentences —
+    *"The report is honest. The instrument selected it."* (V.5:280–281) — **verbatim, unmarked, and
+    presented here as a conclusion V.5 stopped short of.** V.5 also already lists Advaita, Madhyamaka and the *zuowang*
+    passage (V.5:273–274), and already flagged the tension: their recurrence *"needs explaining rather
+    than dismissing"* (V.5:275). ★ **What this chapter genuinely adds is three things and they are worth naming:
     the Rhineland as a fourth builder, the connection to V.1's independence test, and the
     direction-against-technique distinction.** That is a real advance and it does not need the source
     to have stopped short. ⚠ **Mechanism worth filing: V.5's passage carries no note.** A borrowing
