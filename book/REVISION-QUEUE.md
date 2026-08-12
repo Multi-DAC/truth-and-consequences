@@ -4568,3 +4568,145 @@ draw a boundary against its source has to open the source to find the boundary. 
 agrees quotes from memory — and memory returns the gist, which is the chapter's own thesis wearing the
 source's name. **Predicts where to look in VI–VIII: not at the disputes. At the concurrences.**
 [[feedback_scrutiny_is_motive_shaped]] [[feedback_briefing_manufactures_the_agreement]] high.
+
+---
+
+## V.6's APPARATUS (Day 192 evening) — the Kabbalah chapter, fifteen notes
+
+**The chapter's central quotations are CLEAN** — both *Nefesh HaChayim* sentences are verbatim
+Moskowitz, Gate III ch. 4, and all four reaches into Book I check. The damage is elsewhere, and it
+has a single shape.
+
+**FILED — R-189: THE CHAPTER'S BEST EVIDENCE DEPENDS ON AN INVERSION IT REPORTS AS A SHARPENING.**
+
+V.6:115 — the *permeates*/*surrounds* formula is *"a formula Chaim takes from the Zohar and
+**sharpens**."* ⛔ He does not sharpen it; he **inverts** it. Bezalel Naor: *"It is incontrovertible
+that Rabbi Hayyim has stood the Zohar's terms 'memale kol 'almin' … and 'sovev kol 'almin' … on their
+heads. **What for the Tanya is 'memale kol 'almin,' is for Nefesh ha-Hayyim, 'sovev kol 'almin,' and
+vice versa.**"* ⛔ **V.6 quotes Shneur Zalman and Chaim of Volozhin nine paragraphs apart, uses both
+terms for both men, and never says the terms swap between them.** ★ And the chapter's own argument is
+that which side you stand on decides which description is available — it made that point about
+vantages and missed it about its text. ⚠ Limit: R. Shelomo Fisher holds the reversal *"merely
+semantics"*, so whether the swap carries theology is disputed; that the words swap is not.
+Recorded in V.6 [^10]. [[feedback_field_keeps_name_swaps_referent]] high.
+
+**FILED — R-190: THE DOCTRINE IS DATED FOUR CENTURIES EARLY, AND THIS BOOK HAD ALREADY RULED ON IT.**
+
+V.6:179 — *"a tradition that stated it in the twelfth century."* The doctrine is **Lurianic** — 1572.
+The chapter contradicts **its own line 43–44** (*"Kabbalah develops in Provence and Girona around
+1200"*). ⛔ And the genuinely older attestations **invert the term**: the Midrash has the Ark holding
+*"the shade of the Holy One … wherein He contracts (metzamtzem) His shekhinah"* and Nahmanides
+(1194–1270) *"He contracted (tzimtzem) the glory itself … between the two cherubs"* — both
+**concentration into** a place; Lurianic *tzimtzum* is **withdrawal from** one, *"quite the reverse
+significance."* ⛔★ **AND `IV.8:498–503` ALREADY FILED THIS EXACT CORRECTION** — *"telescopes three
+centuries … the contraction is tzimtzum, and it is Lurianic … because there was no contraction to be
+before."* IV.8 caught three centuries; V.6, the Kabbalah chapter, then built four, after the ruling
+was written down. ★ **A defect filed in an apparatus is filed in the one place the next chapter's
+author does not read.** Recorded in V.6 [^11].
+[[feedback_correction_does_not_reach_citers]] [[feedback_filed_defect_still_gets_rebuilt]] high.
+
+**FILED — R-191: THE CLOSING QUOTES ARE NOT WHERE THE CHAPTER SAYS, AND THE CORRECTION IMPROVES THE
+ARGUMENT.**
+
+V.6:254 — *"Chaim of Volozhin nearly did not write the third gate. **He says so, in it.**"* ⛔ Both
+quotations are his words **reported in the introduction written by his son Yitzchak**, about
+publishing **the work**, not Gate III. Decisive: **there is no author's introduction to the *Nefesh
+HaChayim*** — he never wrote one, the son wrote one in his place. R-187's class, where the clause
+asserting provenance is the aggravating one. ★ **And the chapter's last sentence is undone by the
+same fact**: it says the teaching survives because he wrote it down *"instead of leaving it in the
+hands of people who would know when the student was ready"* — but it survives because he handed a
+manuscript to his son on his deathbed, and the son, who opens *"I am at fault that I haven't rushed
+to fulfill my father's words"*, published three years later. **The chain is one link longer than the
+chapter says and the extra link is a custodian.** The argument gets better for the repair: the
+transmission did not bypass the custodians, it survived them, narrowly, with an apology in the front
+matter. Recorded in V.6 [^15]. [[feedback_artifact_states_its_own_roster]] high.
+
+**FILED — R-192: THE CHAPTER REFUSES A PARTISAN TELLING AND ADOPTS THE OTHER PARTY'S RECONSTRUCTION.**
+
+V.6:82–89 charges that *"the usual telling is a partisan simplification … the losing side's position
+rendered by the winners"* and offers the *Ratzon*/*Atzmut* correction in its place. ⛔ That
+correction is **Shlomo Elyashiv's, the Leshem** — who **subscribes to the literalist reading**
+(Ricchi's *Yosher Levav*), holds it *"the only true understanding"*, and **cast aspersions on the
+*Likkutim* at the end of *Bi'ur ha-Gra* to *Sifra di-Tzeni'uta***, a text attributed to the Gaon that
+reads tzimtzum non-literally. The Gaon's position is disputed down to document authenticity. ★ **The
+party the correction exonerates supplied the correction**, and this chapter, alert to that move
+elsewhere, does not see it here. Recorded in V.6 [^6].
+[[feedback_never_relax_the_gauge_that_caught_you]] high.
+
+**FILED — R-193: THE PROOF THAT THE DISPUTE WAS "LIVE RATHER THAN TRIBAL" IS THE LITERATURE'S MOST
+TRIBAL DATUM.**
+
+V.6:91–94 offers Chaim of Volozhin's break with his teacher as *"the cleanest evidence that the
+dispute was live rather than tribal."* ⛔ That break is prominently a **Chabad** claim, set out in a
+letter of Rabbi Schneerson, and *"a point … which continues to rile Mitnagdim to this day."* Against
+it: Avinoam Fraenkel's *Nefesh HaTzimtzum*, whose thesis is *"essentially no difference of theology
+between the *Tanya* … and the *Nefesh ha-Hayyim*."* ★ **And Fraenkel harmonises using this chapter's
+own device** — *"the distinction between the divine perspective and the human perspective"* — which
+Naor objects *"should not be overused"*. Repair makes it stronger: *the tradition divides on whether
+he broke with the Gaon* is better evidence of liveness than a settled break. Recorded in V.6 [^7].
+medium-high.
+
+**FILED — R-194: THREE SMALLER V.6 ROWS.**
+
+(a) ⛔ *"in the *Tanya* and at length in *Shaar HaYichud VehaEmunah*"* — **these are not two works.
+SHVH is Part Two of the *Tanya***; the sentence invents a second independent treatment. ✅ The locator
+is otherwise right: the arguments are in SHVH **ch. 7**. (b) ⚠ *"a hand over your own head does not
+count as a covering"* and *"the power to conceal and the power to reveal are the same power"* sit in
+Shneur Zalman's voice and **I could not locate either as his**; the canonical form is *"no entity can
+conceal itself from itself."* The chapter's imagery, unmarked — R-178's class, in the connective
+tissue. (c) ⚠ The transmission clause gives the single-channel version (Luria → Vital → *Etz Chaim*)
+in a sentence that says *"the transmission problem is on the surface of the material"*: the *Etz
+Chaim* recension is largely **Meir Poppers'**, the *Shemonah She'arim* Shmuel Vital's, and the **Sarug
+and ibn Tabul** transmissions differ **on tzimtzum specifically**. ★ The chapter's question is which
+reading is authentic and it takes one party's recension as the text. Recorded in V.6 [^4], [^5], [^2].
+medium.
+
+**FILED — R-195 (low): FOUR ROUNDINGS, ALL IN THE SAME DIRECTION.** Luria's Safed tenure given as
+*"about three years"* (standard: about two; he arrived 1569–70 and died July–Aug 1572) and his age as
+*"thirty-eight"* (sources give 37–38) — both the ceiling of a range the chapter does not mention.
+*"Consoled people for four hundred years"* — 454. And *"Volozhin, published 1824"* sits in a citation
+slot: the *Nefesh HaChayim* was published in **Vilna**. Recorded in V.6 [^1], [^8], [^12].
+
+---
+
+### ★ THE DIRECTION FLIPS, AND THE COMPLEMENT IS THE HARDER CASE
+
+V.5 established a rate: **every interval Book V states is too short, and every one costs the book
+something** — errors nothing watches for, because no motive files a bug against a mistake that
+weakens your own case. **V.6 breaks that rate and breaks it the other way.** Its two datable errors
+(R-190's four centuries, R-195's tenure and age) both run **toward** the chapter's case, because an
+older and longer-taught tradition is a weightier witness. R-184 runs against it. So Book V now holds
+both directions, and they need different instruments: the against-me error has no motive keeping it
+and merely wants looking at; **the flattering error has a motive keeping it, and wants a gauge.**
+[[feedback_guard_built_in_the_feared_direction]] [[feedback_scrutiny_is_motive_shaped]]
+
+---
+
+## R-196: THE APPARATUS IS THIS BOOK'S FRESHNESS MECHANISM AND IT HAD NO GAUGE — *built, not filed*
+
+Found by accident. **VII.7 [^9]** says Plotinus and tzimtzum run to *"eighteen occurrences across V.1,
+V.3, V.6, V.9 and V.10."* The **chapter roster is exactly right** — those five and no others — which
+is the signature of a real count. At the commit the note was written against the total was **17**.
+Today it is **25**: V.1 gained seven Plotinus mentions and V.3 one, *after* the note was filed.
+Nothing in VII.7 changed. The note went false while sitting inside the mechanism this book uses to be
+right.
+
+⛔ **And the retrofit is manufacturing this defect at ten to fifteen locators per chapter, one chapter
+per session, with the revision pass — the event that moves every line in the book at once — next but
+one in Clayton's sequence.** [[feedback_maintenance_advances_the_freshness_signal]]
+
+**THE HAND, not a filing:** `tools/apparatus_rot.py` re-derives every parseable locator and count
+claim inside every note against current disk. Quote-anchored locators are checked by searching the
+cited chapter's **prose** for the quoted span and comparing its true line to the claim; count claims
+are re-grepped. It prints UNPARSED on purpose — the notes it cannot read are coverage debt, and that
+number going up is not good news.
+
+★ **It found four failures on its first run and one of them was its own**: it had searched each
+chapter's whole file, so a note quoting the span it rules on certified itself against its own text —
+**R-175's defect, rebuilt inside the gauge written to catch apparatus rot.** Prose-only now.
+★ **And it corrected a finding filed one breath earlier and hardened with a refuter.** R-183 said
+*"`travel` … occur zero times in V.1"*. True of the word; **false of the root** — V.1:276
+*"The traveller comes back"* and V.1:285 *"Cartographers we credit. **Travellers we part from.**"*
+The finding survives and is stronger, because V.1's one cognate for V.6's thesis names the category
+V.1 rejects. **A refuter attacks the conclusion; it does not re-run the grep.**
+[[feedback_run_the_existing_gauge_first]] [[feedback_grep_derived_from_the_finding]] high.
