@@ -241,6 +241,60 @@ def blame_dates(path: Path):
 
 
 # ---------------------------------------------------------------------------
+# R-175 — the retrofit was silencing this gauge with its own product.
+#
+# MEASURED Day 192, before/after in one session. V.5:69 → V.1 read
+#   ⛔ tier 1 · cited 2026-08-08 · 4 notes landed after
+# I appended a footnote marker to that line — the ordinary product of writing an
+# apparatus — and it became
+#   ⛔ UNMEASURED · cited None        (uncommitted: blame says "not committed yet")
+#   ·  tier 3     · cited 2026-08-11 (committed: blame now says today)
+# It left the flagged set entirely, and it read as CLEAN, because git blame dates
+# the LINE and a marker is a change to the line. No read occurred. The row that
+# got silenced was the worst of the three — the third instance of Book V's
+# signature defect.
+#
+# Note what does NOT control it: whether the pointer token and the sentence-final
+# marker land on the same WRAPPED line. V.5:102 and V.5:191 survived at tier 1 for
+# no reason but line-wrapping. So the silencing is stochastic in typography.
+#
+# The ack ledger already carried a procedural repair for the neighbouring failure
+# ("derive the key last"). That repair addressed the KEY and not the DATE, and read
+# as complete. [[feedback_partial_delivery_beats_no_gauge]]
+#
+# THE FIX: for a line that carries a marker, date the PROSE, not the line. `git log
+# -S<fragment>` matches on change in occurrence COUNT, so inserting `[^4]` beside a
+# fragment does not register — which is exactly the semantics wanted. Refuses to
+# guess when no fragment is distinctive enough, and the adjustment is PRINTED
+# rather than applied quietly.
+
+
+def substantive_date(path, line_text, fallback):
+    """Blame date of the citing PROSE, ignoring apparatus markers. Returns
+    (date, redated) — redated True only when this actually moved the date back."""
+    if "[^" not in line_text:
+        return fallback, False
+    frags = [f.strip() for f in re.split(r"\[\^[^\]]+\]", line_text)]
+    frag = max(frags, key=len) if frags else ""
+    if len(frag) < 25:
+        return fallback, False          # not distinctive — refuse to guess
+    try:
+        out = subprocess.run(
+            ["git", "log", "-1", "--format=%ad", "--date=short", "-S", frag,
+             "--", str(path.relative_to(REPO))],
+            cwd=REPO, capture_output=True, text=True, encoding="utf-8",
+            errors="replace", check=True).stdout.strip().splitlines()
+    except (subprocess.CalledProcessError, FileNotFoundError):
+        return fallback, False
+    got = out[0].strip() if out else ""
+    if not got:
+        return fallback, False
+    if fallback is not None and got >= fallback:
+        return fallback, False
+    return got, True
+
+
+# ---------------------------------------------------------------------------
 # Paragraphs — wrapped prose is joined before anything is matched against it
 
 
@@ -375,6 +429,14 @@ def main():
             blame_cache[ch.cid] = blame_dates(ch.path)
         return blame_cache[ch.cid]
 
+    line_cache = {}
+    def line_text_for(ch, line):
+        if ch.cid not in line_cache:
+            line_cache[ch.cid] = ch.path.read_text(
+                encoding="utf-8", errors="replace").split("\n")
+        lines = line_cache[ch.cid]
+        return lines[line - 1] if 0 < line <= len(lines) else ""
+
     # THE UNIT IS THE CITATION, NOT THE NOTE. Pairing every reference against every
     # corrective note in the chapter it cites is a cross-product: the first cut of this
     # gauge printed 223 tier-1 rows for ~490 references, which is a reading list nobody
@@ -393,6 +455,8 @@ def main():
             if not corr:
                 continue
             cite_date = dates_for(ch).get(line)
+            cite_date, redated = substantive_date(
+                ch.path, line_text_for(ch, line), cite_date)
             tgt_dates = dates_for(tgt)
             stale, current, blind = [], [], []
             for n, note in sorted(corr.items(), key=lambda kv: int(kv[0])):
@@ -409,7 +473,7 @@ def main():
                     current.append(entry)
             rec = {
                 "citing": ch.cid, "line": line, "text": text, "target": cid,
-                "kind": kind, "cite_date": cite_date,
+                "kind": kind, "cite_date": cite_date, "redated": redated,
                 "stale": stale, "current": current, "blind": blind,
                 "shared": sorted({w for e in stale for w in e["shared"]},
                                  key=lambda w: df.get(w, 0)),
@@ -455,7 +519,8 @@ def main():
             f"{'*' if e['shared'] else ''}"
             for e in rec["stale"])
         print(f"\n  {mark} {rec['citing']}:{rec['line']} ({rec['kind']}) → {rec['target']}"
-              f"   cited {rec['cite_date']} · {len(rec['stale'])} note(s) landed after "
+              f"   cited {rec['cite_date']}{' ↩R-175' if rec.get('redated') else ''}"
+              f" · {len(rec['stale'])} note(s) landed after "
               f"(+{gap(rec)}): {notes}")
         print(f"      \"{snippet}\"")
         if rec["shared"]:

@@ -10461,7 +10461,7 @@ that is a fact about the planning apparatus, not about the chapter, and it belon
 
 ---
 
-**CHAPTERS-DRAFTED: 67/67 · 279,494 words** · **BOOK VIII 7/7** · **CLAIMS: C1…C30** · **TOOLS: 32.**
+**CHAPTERS-DRAFTED: 67/67 · 282,450 words** · **BOOK VIII 7/7** · **CLAIMS: C1…C30** · **TOOLS: 32.**
 
 ★★★ **THE FIRST DRAFT OF THE VOLUME IS COMPLETE.** Eight books, sixty-seven chapters, 247,405 words.
 ⚠ **AND THE WORK IS NOT — the CODA (C.1 WHAT THIS IS, C.2 WHY IT IS NOT FINISHED) IS UNWRITTEN AND IS

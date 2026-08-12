@@ -4330,3 +4330,147 @@ interchangeable: a redundant explanation can still be true, an explanation owing
 cannot be accepted at all. **The chapter states the weaker objection and credits it to the man who
 made the stronger one, four lines above quoting the stronger one correctly.** Recorded in V.4 [^2].
 low.
+
+---
+
+## Day 192, evening — V.5's apparatus. Eight rows, and the first one is a repair to the gauge itself.
+
+**FILED AND REPAIRED — R-175: `crossref_rot.py` WAS BEING SILENCED BY THE RETROFIT'S OWN PRODUCT.**
+
+Measured before/after inside one session, on V.5:69 → V.1. Before I touched the line:
+
+    ⛔ tier 1 · cited 2026-08-08 · 4 note(s) landed after (+3d)
+
+I appended `[^4]` to it — the ordinary, required product of writing an apparatus — and it became
+
+    ⛔ UNMEASURED · cited None        (uncommitted: git blame says "not committed yet")
+    ·  tier 3     · cited 2026-08-11 (committed: git blame now says today)
+
+**It left the flagged set and read as clean. No read had occurred.** `git blame` dates the LINE, and a
+footnote marker is a change to the line, so annotating a citation makes the citation look newer than
+the notes it was never checked against. ⛔ **The row that got silenced was the worst of the three** —
+the third instance of Book V's signature defect, R-176 below.
+
+What does *not* control it: whether the chapter-pointer token and the sentence-final marker land on
+the same **hard-wrapped line**. V.5:102 and V.5:191 stayed at tier 1 for no reason but typography. The
+silencing is stochastic in line-wrap, which is why it had never been noticed.
+
+⛔ **And the ledger already carried a procedural repair for the neighbouring failure — "derive the key
+last" — which addressed the KEY and not the DATE, and read as complete.**
+[[feedback_partial_delivery_beats_no_gauge]] [[feedback_filed_repair_is_a_hypothesis]]
+
+**REPAIRED, not just filed.** `substantive_date()` dates the *prose* rather than the line for any line
+carrying a marker: the longest marker-free fragment, located with `git log -S`, whose occurrence count
+a marker insertion does not change. It refuses to guess below 25 characters, it only ever moves a date
+*backwards*, and the adjustment prints as `↩R-175` rather than being applied quietly. Positive control
+still PASSES.
+
+⚠ **HONEST SIZE, because I nearly overstated it.** Tier 1 went 99 → 107 across this session and the
+repair accounts for **exactly one** of those eight. The other seven are new rows manufactured by V.5's
+own fifteen notes, exactly as the ack ledger predicted. **Historical incidence of this defect: 1 row in
+107.** Its value is prospective, not retrospective — it fires on precisely the act the retrofit
+performs, silently, for six more Book V chapters and three more books. [[feedback_measure_before_framing]]
+high.
+
+**FILED — R-176: THREE CONSECUTIVE CHAPTERS HAVE OVER-CREDITED V.1's RULINGS. THIS IS A POPULATION,
+NOT THREE SITES.**
+
+- V.3 [^7] — gathered V.1's transmission argument and dropped its qualification.
+- V.4 [^11] — vouched for a defence V.1 *twice declines* to have given.
+- V.5 [^4] — attributes to V.1 a prohibition V.1 does not contain. *"V.1 barred it in advance"*: V.1's
+  method is four parts (no condescension, no debunking, no hedge, no exemption) and **none of the four
+  bars reading the Indian material as saying the world is unreal.** The nearest candidate cuts the
+  other way — *"no exemption"* exists to license finding a tradition wrong. What actually bars the
+  cheap cut is a fact about Śaṅkara, and that fact is V.5's own work.
+
+**The common mechanism: a chapter reaches back to V.1 for authority it has already earned itself, and
+the reach is never checked, because agreeing with your own first chapter never looks like a claim.**
+The repair is not local to any one chapter — sweep every V.x → V.1 citation in Book V, and V.6–V.11's
+twenty-plus reaches before they acquire apparatus.
+[[feedback_repair_scoped_to_named_cause]] [[feedback_filed_defect_still_gets_rebuilt]] high.
+
+**FILED — R-177: EVERY INTERVAL BOOK V STATES IS TOO SHORT, AND EVERY ONE IS TOO SHORT IN THE
+DIRECTION THAT COSTS THE BOOK SOMETHING.**
+
+| claim | stated | actual |
+|---|---|---|
+| V.5:135 Buddha → Nāgārjuna | four or five centuries | ~575–700 years (SEP: Nāgārjuna *ca.* 150–250 CE) |
+| V.5:159 *anattā* → this book | twenty-two centuries | ~24.5 (*ca.* 430 BCE → 2026) |
+| V.5:252 the West's lag | two thousand years | 2,400–2,600 |
+| V.1:22 Upaniṣads → Plotinus | *"some centuries earlier"* | close to a millennium (already caught, V.1 [^1]) |
+
+**Four interval claims across two chapters. Four understatements. No exceptions.** ★ And each one
+weakens the priority argument the chapter is making. The mechanism is not carelessness: rounding *down*
+feels like caution, because it is the direction that cannot be accused of exaggeration — so the prose
+reaches for the conservative figure and the conservative figure is the wrong one. **Nothing catches it,
+because a reader who disagrees with the book has no motive to object to a number that helps them.**
+V.1 [^1] named this asymmetry as a one-off; it now has a rate. Owed: sweep every interval claim in
+Books VI–VIII the same way, and expect the same sign.
+[[feedback_scrutiny_is_motive_shaped]] [[feedback_guard_built_in_the_feared_direction]] high.
+
+**FILED — R-178: THE CHĀNDOGYA BLOCK QUOTE IS A TWO-TRANSLATOR COMPOSITE, AND THE SEAM IS AT THE
+SENTENCE THE CHAPTER'S ARGUMENT RESTS ON.**
+
+The middle clause is Olivelle verbatim — *"He groped for it but could not find it, as it had dissolved
+completely"* — inside sentences that are reworded (*"Place this salt in water"* for Olivelle's *"Put
+this chunk of salt in a container of water"*), so a paraphrase carries quotation marks. ⛔ **And the
+refrain is not Olivelle at all.** *"That thou art"* is Müller/Radhakrishnan; Olivelle renders it *"And
+that's how you are, Śvetaketu,"* following Brereton (1986), who argues *tat* is adverbial and that the
+identity reading needs *sa tvam asi*, which the text does not say. **The chapter's next paragraph —
+*"the count is wrong … not an item standing in front of the whole, but the whole"* — is built on the
+construal the quoted translator rejects.** The chapter may take the traditional side; it must say it is
+taking a side. Recorded in V.5 [^2].
+[[feedback_one_translator_two_texts]] [[feedback_quotation_connective_tissue]] high.
+
+**FILED — R-179: THE *DAO DE JING*'s OPENING IS MISQUOTED IDENTICALLY IN THREE CHAPTERS, AND A FOURTH
+CHAPTER HAS IT RIGHT.**
+
+道可道，非常道。名可名，非常名 — *the way that can be **spoken** is not the constant way; the **name**
+that can be named is not the constant name.* The rendering *"the way that can be **named** is not the
+constant way"* welds line 1's subject to line 2's verb and produces a sentence the text does not
+contain. It stands verbatim at **V.1:140, V.5:193, V.10:50**. **V.2 [^3] quotes line 2 correctly**, so
+the volume holds both the right text and the hybrid, in four chapters, with nothing comparing them.
+This is exactly what `tools/placement_sweep.py` was built for after V.1 [^3]: *a consistent reading
+across chapters should be read as unchecked rather than clean*, because chapters copy each other and
+agreement between copies is not corroboration. ⚠ Also: IV.8:76 romanizes the title *Tao Te Ching*
+against Book V's *Dao De Jing*. Recorded in V.5 [^13]. high.
+
+**FILED — R-180: *MITHYĀ* IS ATTRIBUTED TO ŚAṄKARA AND THE POSSESSIVE IS THE DEFECT.**
+
+V.5:70 — *"**His** technical word for its status is *mithyā*, which is not *false*."* Śaṅkara's own use
+is in *mithyājñāna*, "false cognition," synonymous with *avidyā* and *adhyāsa* through the
+*Brahmasūtrabhāṣya* (Hacker 1950) — **false** in exactly the sense the sentence denies. The category
+meaning *neither real nor unreal* is a different term, *anirvacanīya* / *sadasadvilakṣaṇa*, and it is
+**post**-Śaṅkara. The Advaita literature says so against itself: the doctrine that *mithyā* means
+indeterminable is *"not found or even implied in Śaṅkara's commentary."* The slogan carrying *jagan
+mithyā* is *Vivekacūḍāmaṇi* v. 20, whose attribution modern scholarship doubts. ✅ The register-pair
+*vyāvahārika*/*pāramārthika* IS his and the section's real point survives. **Repair: attribute the term
+to the school and the pair to the man** — the same care V.1 [^4] already took for *waḥdat al-wujūd*.
+Recorded in V.5 [^5]. medium.
+
+**FILED — R-181: INDRA'S NET IS *ATHARVA VEDA* 8.8.6–8, WHERE IT IS A SNARE — AND THE OMISSION COSTS
+THE CHAPTER ITS BEST PARAGRAPH.**
+
+The net of Indra is Vedic, not Buddhist: a **weapon** of *"mighty size"* cast to entangle enemies and
+envelop them in darkness, and the root of *indrajāla*, the standard Sanskrit word for **magic and
+illusion**. Huayan did not invent the net; it *inverted* it. ⛔ The chapter calls it *"the best image
+anybody has produced"* — carefully hedged as borrowed-not-adopted, and still skipping the borrowing
+that matters by two thousand years. ★ **And a section whose whole business is that the Indian material
+does not say the world is an illusion closes on an image drawn straight out of the vocabulary of
+illusion, credited to the tradition that performed the inversion. That is a better instance of this
+chapter's own thesis than anything the chapter says about the net.** ✅ Fazang 643–712, Wu Zetian
+r. 690–705, Cook 1977 Penn State UP all check; the mirror-hall story is correctly given as
+*"reportedly"* (the biographical tradition runs through Ch'oe Ch'iwŏn's *Life* of 904, and Chen 2007
+treats its wonder-working as hagiography). Recorded in V.5 [^15]. medium.
+
+**FILED — R-182: TWO SMALLER V.5 ROWS.**
+
+(a) *"Nothing in the Dao De Jing recommends inertia"* (V.5:175) — a universal negative over an
+eighty-one-chapter text the chapter gives no edition or translator for, and ch. 47 and ch. 80 are read
+as recommending exactly that by readers who are not being careless. The narrower claim does the same
+work. Same shape as R-172. (b) SN 22.59's canonical title is *Pañca Sutta*, "The Five";
+*Anattalakkhaṇa Sutta* is a traditional title **not found in the Canon**, and *"the five ascetics"*
+costs the chapter a better fact — they were already bhikkhus and stream-enterers, and per *Mahāvagga* I
+this is the discourse **at which they became arahants**, which is a stronger warrant for
+*"path-instruction rather than metaphysical census"* than the chapter's own. Recorded in V.5 [^11],
+[^7]. low.

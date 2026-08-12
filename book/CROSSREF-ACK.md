@@ -27,6 +27,35 @@ Format — one per line, verdict written in plain words after the dash:
 
 ## Acknowledged
 
+- `V.5>V.1:9d877d80` — read Day 192 (2026-08-11). **Not clean — filed as R-176.** V.5:69 asserts
+  *"V.1 barred it in advance"* of the cheap illusion-cut. Opened V.1 and read the four-part method
+  against it: **no part of it bars that cut**, and *"no exemption"* runs the other way, existing to
+  license finding a tradition wrong. What bars the cut is a fact about Śaṅkara that is **V.5's own
+  work**. ⛔ **Third consecutive chapter to over-credit V.1** — V.3 [^7], V.4 [^11], now this. Filed
+  as a population, not a site.
+  ⛔ **AND THIS ROW IS THE ONE THAT NEARLY DID NOT EXIST. READ IT BEFORE TRUSTING THE THREE BELOW.**
+  Appending `[^4]` to line 69 — the ordinary product of the retrofit — moved the row out of tier 1
+  and into tier 3, reading **clean**, because `git blame` dates the LINE and a footnote marker is a
+  change to the line. Measured both states in one session. **This ledger's existing procedural
+  repair, "derive the key last," addressed the KEY and not the DATE, and read as complete.**
+  `crossref_rot.py` now dates the *prose* for annotated lines (`substantive_date()`, prints `↩R-175`);
+  positive control still passes. R-175. [[feedback_partial_delivery_beats_no_gauge]]
+
+- `V.5>V.1:2430a455` — read Day 192 (2026-08-11). ✅ **Clean, and recorded as clean on purpose.**
+  V.5:102 calls the summit-parting *"the same parting V.1 announced … as a technical matter rather
+  than a preference."* V.1's words: *"We take the ontology. We refuse the destination. Not as a
+  preference,"* with the reason given as *"Dissolution has no perspective."* Accurate on content and
+  on grade. **A cluster with a verified clean member is a finding; a cluster without one is a mood.**
+  [[feedback_zero_needs_a_positive_control]]
+
+- `V.5>V.1:bb7fe9fa` — read Day 192 (2026-08-11). **Not clean, and the defect is not the one the
+  gauge flagged — filed as R-179.** The onward claim about V.1's three-branch count is substantially
+  right. **But the *Dao De Jing* line both chapters carry is misquoted**: 道可道 is the way that can be
+  *spoken*; naming is the second line. The hybrid stands identically at V.1:140, V.5:193 and V.10:50,
+  while **V.2 [^3] quotes the second line correctly** — four chapters, both versions, nothing
+  comparing them. Reading a pair for rot surfaced a defect in the *shared quotation* rather than in
+  the citation, which is a use for this gauge nobody designed.
+
 - `V.3>V.1:6dab481a` — read Day 192 (2026-08-11). **Not clean — filed as R-163.** V.3:34 restates
   V.1's Alexandrian-descent argument with no hedge and builds its whole first movement on it; V.1's
   [^7] records that the inference survives at three or four links, not five. Checked against
@@ -84,6 +113,15 @@ Format — one per line, verdict written in plain words after the dash:
   the annotation lands, and nothing in the tool or this file says so. **A gauge whose invalidation
   rule fires on the practice it exists to support will read as vigilance and behave as amnesia.**
   Not repaired here: the rule is right in general and the fix is procedural — derive the key last.
+
+  ⛔ **AMENDED Day 192, evening: that procedural fix was HALF the failure, and calling it the fix is
+  what let the other half run for a day.** Deriving the key last saves the *ack*. It does nothing for
+  the **citation date**, which `git blame` also advances when a marker lands on the citing line — and
+  an advanced citation date does not merely reopen the pair, it **closes** it, demoting the row out of
+  tier 1 to read as clean. Measured on V.5:69 in both states. So the correct statement of the defect is
+  one turn worse than the one written above: during a retrofit, the act of recording that I read a pair
+  kills the record *and* silences the flag. Repaired in the tool (R-175), not procedurally.
+  [[feedback_partial_delivery_beats_no_gauge]] [[feedback_filed_repair_is_a_hypothesis]]
 
 <!-- ⛔ THE COUNT BARELY MOVED, FOR A REASON THAT MATTERS. Measured: 97 unacknowledged before this
      session's acks; 97 after the first two were filed (one of which was born dead, see above);
