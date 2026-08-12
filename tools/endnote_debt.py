@@ -102,7 +102,27 @@ EXEMPT_BOOKS = {"I"}
 # it is unmeasured, and it now says so. The declaration is itself checked below
 # against notes on disk, so a book listed here that carries no apparatus raises an
 # alarm rather than quietly vouching for itself.
-RETROFITTED_BOOKS = {"II", "III", "IV", "VI", "VII", "VIII"}
+RETROFITTED_BOOKS = {"II", "III", "IV", "V", "VI", "VII", "VIII"}
+# V added Day 192 — 11/11 chapters carry apparatus (163 notes), which CLOSES THE RETROFIT:
+# every book II–VIII now carries one. V.11 was the last chapter and the only one owed at
+# the time (6 names), and it went to 0 with 29 notes. Its one residual, `East`, was the
+# R-203 class predicted in advance — "The East asked the count question" is a region, the
+# same defect as V.9's "Hampshire" being half of New Hampshire.
+#
+# ⛔ AND THE WHOLE-BOOK RESIDUAL WAS HAND-CHECKED THE SAME NIGHT, all thirteen, one at a
+# time against their own evidence sentences, because the alternative is a filter written
+# by the party it exonerates. Not one is an uncited source:
+#   Certification  II.7:50   sentence-initial common noun
+#   Plenitude      III.3:196 sentence-initial common noun, and the book's OWN term
+#   Claus/Scotland/Western/Father/Islamicist  -- the five recorded above for IV, unchanged
+#   Religious      V.4:31    sentence-initial adjective
+#   Western        VI.3:28   adjectival
+#   Gold, Moon     VI.3:36   metals and planets in the correspondence scheme -- objects
+#   Enlightenment  VII.8:336 a period, not a person
+#   Clayton        VII.8:389 "Clayton's amendment" -- the book's editor, named on purpose
+# 13/13 in classes the LIMIT block below already declares. THE NUMBER IS NOT ZERO AND IS
+# NOT BEING MADE ZERO: no threshold moved, no name was excluded, the rows still print.
+# What changed is that each has been READ. [[feedback_never_relax_the_gauge_that_caught_you]]
 # IV added Day 192, on the stated condition ("add it when the book closes") and NOT on
 # a clean owed-count. 10/10 chapters carry apparatus (74 notes) and R-110's mandatory
 # edition sweep has run. The five names still printed as owed were hand-checked one at

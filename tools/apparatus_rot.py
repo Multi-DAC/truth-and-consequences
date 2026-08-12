@@ -75,6 +75,24 @@ LOCATOR_RE = re.compile(r"\b(?P<ch>[IVX]+\.\d+):(?P<a>\d+)(?:\s*[-–—]\s*(?P<
 MIN_QUOTE = 12
 QUOTE_RE = re.compile(r"[*_]*[\"“](?P<q>[^\"”]{1,400})[\"”][*_]*")
 NOTE_RE = re.compile(r"^\[\^(?P<n>\d+)\]:", re.M)
+# ⛔ Day 192, THIRD defect, and the one that changes what this gauge is FOR.
+# A note that says *the span is NOT in that chapter* was indistinguishable from a note
+# that cites it and gets it wrong. Both are a quote next to a locator; the gauge printed
+# ⛔ MISSING for both. V.11's two headline findings are negative claims — `threshold`
+# occurs zero times in III.6, and V.1's fourth proposition is NOT *the failure of every
+# name* — so the instrument reported the findings as failures of the notes that made them.
+#
+# NOT fixed with a negation-cue list. A cue list infers polarity from prose, and a
+# generous one silences real MISSINGs — the party it exonerates is the one writing the
+# notes. Fixed with an EXPLICIT, per-quote opt-in the author must type:
+#
+#     "...span..." {absent: V.1}
+#
+# The gauge then CHECKS THE ABSENCE, and fires ⛔ FALSE-ABSENCE if the span is in fact
+# there. Unmarked quotes behave exactly as before, so no true positive is dropped — the
+# rule can only ever add a check. A negative finding becomes machine-verifiable instead
+# of merely unreportable. [[feedback_never_relax_the_gauge_that_caught_you]]
+ABSENT_RE = re.compile(r"\{\s*absent:\s*(?P<ch>[IVX]+\.\d+)\s*\}", re.I)
 # ⛔ Day 192. This gauge audited ONE chapter of sixty from its first run to this fix.
 # The loop said `if "## NOTES" not in text: continue` — a literal, case-sensitive
 # match. Exactly one chapter in the book writes the heading that way (V.6). Twenty-five
@@ -104,8 +122,20 @@ WORDNUM = {
     "eighteen": 18, "nineteen": 19, "twenty": 20,
 }
 # "`travel` ... appear ZERO times in V.1"  /  "`summit` appears five times"
+# ⛔ Day 192, FOURTH defect. The gap after the closing delimiter read `[^.]{0,80}?`, which
+# lets the match START at an earlier delimiter and swallow the real term inside the gap.
+# V.11 [^14] writes **The word `threshold` occurs zero times in III.6.** — the engine took
+# `**` as the opening delimiter, `The word` as the TERM, and the backtick before `threshold`
+# as the close. It then counted "The word" in III.6, found 5, and printed a confident ⛔
+# DRIFTED against a note whose actual claim (threshold × 0) is exactly right. Excluding the
+# delimiters from the gap forces the term to be the LAST delimited token before the verb,
+# which is the one the verb is about.
+# ⚠ STILL OPEN, declared rather than fixed: a sentence making SEVERAL count claims
+# (`travel`, `strip` and `safe` occur zero times in V.1 — V.6 [^14]) yields ONE match, and
+# with this fix it is the last term rather than the first. Two of three go unchecked either
+# way. The coverage hole moved; it did not close.
 COUNT_RE = re.compile(
-    r"[`*]+(?P<term>[A-Za-z][A-Za-z '’\-]{1,40}?)[`*]+[^.]{0,80}?"
+    r"[`*]+(?P<term>[A-Za-z][A-Za-z '’\-]{1,40}?)[`*]+[^.`*]{0,80}?"
     r"\b(?:appears?|occurs?|stands?|runs?)\b[^.]{0,40}?"
     r"\b(?P<num>zero|one|two|three|four|five|six|seven|eight|nine|ten|eleven|twelve|"
     r"thirteen|fourteen|fifteen|sixteen|seventeen|eighteen|nineteen|twenty|\d+)\b"
@@ -249,7 +279,7 @@ def split_notes(text: str) -> list[tuple[int, str]]:
 
 
 def audit(chapters: dict[str, Chapter], only: str | None):
-    strong, weak, counts, unparsed, unanchored = [], [], [], [], []
+    strong, weak, counts, unparsed, unanchored, absences = [], [], [], [], [], []
 
     for key, ch in chapters.items():
         if only and key != only:
@@ -277,9 +307,39 @@ def audit(chapters: dict[str, Chapter], only: str | None):
             # it is the row that gets the tool switched off.
             ADOPT_WINDOW = 220
             owned: dict[int, list[str]] = {i: [] for i in range(len(locs))}
+            # A quote carrying `{absent: CH}` within ABSENT_WINDOW chars AFTER its closing
+            # quote is an ABSENCE CLAIM. It is pulled out of adoption entirely — it must not
+            # be handed to a nearby locator, because the whole point is that it is not there.
+            ABSENT_WINDOW = 90
+            claimed_absent: set[int] = set()
             for qm in quotes:
+                am = ABSENT_RE.search(body, qm.end(), qm.end() + ABSENT_WINDOW)
+                if not am:
+                    continue
+                claimed_absent.add(qm.start())
+                tgt = am.group("ch")
+                target = chapters.get(tgt)
+                q = qm.group("q")
+                if target is None:
+                    absences.append((where, tgt, "DEAD", "no such chapter"))
+                    continue
+                found = target.find_line(q, include_notes=(tgt != key))
+                if found is None:
+                    absences.append((where, tgt, "ABSENT",
+                                     f'confirmed not in {tgt}: "{norm(q)[:46]}…"'))
+                else:
+                    absences.append((where, tgt, "FALSE-ABSENCE",
+                                     f'note says NOT in {tgt}; it is at {tgt}:{found}'))
+            for qm in quotes:
+                if qm.start() in claimed_absent:
+                    continue
+                # ⛔ Day 192. This read `if not locs: break` — so a note carrying quotes and
+                # NO locator dropped every one of them silently: not checked, not counted as
+                # UNANCHORED, absent from the denominator. The uncheckable fraction this tool
+                # prints was under-reported by exactly those.
                 if not locs:
-                    break
+                    unanchored.append((where, norm(qm.group("q"))[:60]))
+                    continue
                 qmid = (qm.start() + qm.end()) // 2
                 nearest = min(range(len(locs)),
                               key=lambda i: abs(((locs[i].start() + locs[i].end()) // 2) - qmid))
@@ -338,7 +398,7 @@ def audit(chapters: dict[str, Chapter], only: str | None):
                     verdict = "DRIFTED"
                 counts.append((where, scope, term, claimed, word, sub, verdict))
 
-    return strong, weak, counts, unparsed, unanchored
+    return strong, weak, counts, unparsed, unanchored, absences
 
 
 def main() -> int:
@@ -348,7 +408,7 @@ def main() -> int:
     args = ap.parse_args()
 
     chapters = load_chapters()
-    strong, weak, counts, unparsed, unanchored = audit(chapters, args.chapter)
+    strong, weak, counts, unparsed, unanchored, absences = audit(chapters, args.chapter)
 
     print("APPARATUS ROT — the notes' own locators and counts, re-derived from disk")
     print(f"  {BOOK}   ({len(chapters)} chapters loaded)\n")
@@ -367,6 +427,17 @@ def main() -> int:
         mark = "  ·" if verdict == "OK" else "  ⛔"
         print(f"{mark} {where:<16} {tgt}:{a:<6} {verdict:<9} {why}")
     print("     ⚠ these are NOT evidence the locator is right — only that the line exists.")
+
+    abad = [r for r in absences if r[2] != "ABSENT"]
+    print(f"\n  ABSENCE CLAIMS: {len(absences)} checked, {len(abad)} refuted")
+    for where, tgt, verdict, why in (absences if args.all else abad):
+        mark = "  ✓" if verdict == "ABSENT" else "  ⛔"
+        print(f"{mark} {where:<16} {verdict:<14} {why}")
+    if not absences:
+        print("     (none marked — a note asserting a span is NOT somewhere can opt in with")
+        print("      `{absent: CH}` after the quote, and this gauge will try to refute it.)")
+    elif not abad:
+        print("     ✓ every asserted absence re-derived against disk and held.")
 
     cbad = [r for r in counts if r[6] != "CONFIRMED"]
     print(f"\n  COUNT CLAIMS: {len(counts)} checked, {len(cbad)} needing attention")

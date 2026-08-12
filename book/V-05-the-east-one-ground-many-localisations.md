@@ -449,14 +449,15 @@ traced.
     named is not the constant name.* The rendering *"the way that can be **named** is not the constant
     way"* welds the first line's subject to the second line's verb, and it produces a sentence the
     text does not contain. It stands verbatim at **V.1:140, V.5:193 and V.10:50**. **V.2 [^3] quotes
-    the second line correctly** — *"the name that can be named is not the constant name"* — so the
+    the second line correctly** — *"the name that can be named is not the constant name"*
+    (V.2:322) — so the
     volume already holds both the right text and the hybrid, in four chapters, with nothing comparing
     them. This is precisely what `tools/placement_sweep.py` was built for after V.1 [^3]: *a
     consistent placement across chapters should be read as unchecked rather than clean*, because
     chapters copy each other and agreement between copies is not corroboration. ⚠ Separately, IV.8:76
     romanizes the title *Tao Te Ching* against Book V's *Dao De Jing*. ⚠ The onward claim — that V.1
-    counted this as *"one of three independent arrivals at a ground that no name reaches"* — is
-    substantially right (V.1's three branches each carry an apophatic instance: *neti neti*, Dionysius,
+    counted this as *"one of three independent arrivals at a ground that no name reaches"*
+    {absent: V.1} — is substantially right (V.1's three branches each carry an apophatic instance: *neti neti*, Dionysius,
     this line) but is not V.1's phrasing; V.1 counts three branches of the Ground doctrine and uses
     this line as China's instance of the apophatic move specifically.
 
