@@ -141,3 +141,22 @@ Format — one per line, verdict written in plain words after the dash:
      ⛔ Note what the one clean read has in common with nothing else here: it is the only pair where
      the citing chapter's apparatus was written AFTER the cited chapter's. Order of writing, not
      care, may be the whole variable. Nothing measures that yet. -->
+
+<!-- ⛔ MEASURED, AND THE HYPOTHESIS ABOVE IS REFUTED. Day 192 evening: all ~30 V.x>V.1 reaches in
+     V.6-V.11 read against V.1's actual text, ahead of V.6's apparatus, per R-176's owed sweep.
+     V.7, V.10 and V.11 are ACCURATE — and they have NO apparatus at all, on either side, so the
+     writing-order variable is ABSENT and they are clean anyway. It is not order. R-183..R-188.
+
+     WHAT IT IS: the four dirty chapters (V.3, V.4, V.5, V.6) all reach back to V.1 while AGREEING
+     with it. The three clean ones each open by BOUNDING what V.1 hands them — V.7's first section
+     is literally titled "What V.1's result does not hand this chapter", V.10:209 says "This breaks
+     the test V.1 built", V.11:193 calls V.1's unnamed perennialist "a failure of this book's own
+     rule". A chapter that must find where its source stops applying has to OPEN the source.
+     A chapter that merely agrees quotes from memory, and memory returns the gist — which is the
+     citing chapter's own thesis wearing the cited chapter's name.
+
+     AGREEMENT IS THE UNREAD CITATION. This gauge ranks by shared distinctive terms and therefore
+     sorts the agreeing citation LAST (--all, always; the default view caps at 20). The two effects
+     compound: the pairs most likely to be wrong are the ones this file is worst at surfacing.
+     For VI-VIII: read the concurrences, not the disputes. -->
+

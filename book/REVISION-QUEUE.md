@@ -4474,3 +4474,97 @@ costs the chapter a better fact — they were already bhikkhus and stream-entere
 this is the discourse **at which they became arahants**, which is a stronger warrant for
 *"path-instruction rather than metaphysical census"* than the chapter's own. Recorded in V.5 [^11],
 [^7]. low.
+
+---
+
+## THE V.x → V.1 SWEEP (Day 192 evening) — R-176's owed population, run
+
+**R-176 predicted a bad population across V.6–V.11's twenty-plus reaches. IT IS NOT A POPULATION.
+It is concentrated in V.6, and the boundary is sharp enough to name a mechanism.** All ~30 reaches
+read against V.1's actual text, prose and apparatus. Six defects, four of them in one chapter.
+
+**FILED — R-183: V.6:264 ATTRIBUTES TO V.1 A THESIS V.1 DOES NOT CONTAIN. FOURTH CONSECUTIVE CHAPTER.**
+
+*"V.1 opened this book by saying that a tradition is a road and that the summit statements are the
+part that travels, which is why they arrive stripped of everything that made them safe."* ⛔ **`travel`,
+`strip` and `safe` appear ZERO times in V.1**, prose and all seven notes. `summit` appears five times
+and every one is the metaphysical destination V.1 refuses — a different sense, which the sentence
+conflates. The phrase *"summit statement"* exists nowhere in the corpus before V-06:258, six lines
+earlier, where V.6 coins it fresh for Chaim of Volozhin's own worry. **V.6 coins a thesis and backdates
+it to V.1 within six lines.** And (a) V.1's definition is *"A tradition is a perspective … **that is the
+whole load-bearing claim of this book**"* — "road" is the book's title metaphor, not its definition, and
+the swap drops the term that makes the census card apply. Held through a `refuter` pass that was told to
+default to refuted. high.
+
+**FILED — R-184: V.6 INHERITS V.1's PROSE AND NOT V.1's OWN FOOTNOTE — ON PRECISELY THE LINK THE
+FOOTNOTE SINGLES OUT, IN THE CHAPTER THAT IS ABOUT THAT LINK.**
+
+V.6:45–53 rests its opening disclaimer on *"one witness quoted back five times"* and concludes
+*"Kabbalah is inside that family … it is not a separate arrival."* ⛔ V.1 [^7] names **Kabbalah as one of
+the two weakest of the five**: *"Kabbalah's dependence is given as 'develops … in a world in contact with
+both', which is contact and not descent"*, and *"the conclusion … survives at three or four links without
+the two weakest, and the section does not say so."* **V.6 is the Kabbalah chapter.** ★ And the error runs
+AGAINST V.6 — it surrenders a corroboration claim the evidence may entitle it to, which is R-177's sign
+again in a second defect class. Nothing watches a chapter for being too hard on itself.
+[[feedback_correction_does_not_reach_citers]] [[feedback_scrutiny_is_motive_shaped]] high.
+
+**FILED — R-185: R-176's OWN PRESCRIBED REPAIR IS SCOPED TO THE WRONG ARTIFACT CLASS.**
+
+R-176 says *"sweep every V.x → V.1 citation in Book V"* — chapters. But its own worked example lives in
+**five artifacts**: `06-THE-SCAFFOLD.md:2425`, `book/DRAFT-LOG.md:6949`, `book/CROSSREF-ACK.md:31`,
+`book/V-05:69`, and the queue entry correcting it. **Repair the chapter and the false attribution stands
+in the scaffold and the draft log**, available to be spent again in Books VI–VIII. Same for R-183: the
+V.6 thesis is in `06-THE-SCAFFOLD.md` too. ⚠ **HONEST LIMIT, because I nearly claimed more.** The
+scaffold beat and the chapter ship in ONE commit (4a705b0; V.5's in 2f0a6d9), so git cannot establish
+that the planning document *generated* the prose — a `refuter` asserted it did and that step is an
+inference from genre, not evidence, and is dropped. The repair-scope finding does not need it.
+[[feedback_repair_scoped_to_named_cause]] [[feedback_correction_does_not_reach_citers]] high.
+
+**FILED — R-186: TWO CHECKABLE ORDINALS ABOUT THIS BOOK'S OWN STRUCTURE, BOTH WRONG.**
+
+- **V.11:26** — *"V.1 said so in its ninth paragraph."* The perennialist ruling is V.1's **42nd** prose
+  paragraph (51st block). V.1's ninth is *"A tradition is a perspective."* Wrong under every counting
+  convention. **The claim it locates is TRUE**, which is what protects the locator — a correct sentence
+  vouches for its own false footnote. [[feedback_fresh_number_vouches_for_stale_sentence]]
+- **V.8:28** — *"arriving eighth among the ten sympathetic readings that sentence announced."* V.1 says
+  *"Ten chapters of sympathetic reading follow this one"* = V.2–V.11. V.8 is the **seventh** of those ten.
+  Chapter number read off as position-in-the-set. ★ **V.11 runs the identical arithmetic and gets it
+  right** — *"Nine chapters of credit stand behind it"* (V.2–V.10 ✓), so this is not a convention. medium.
+
+**FILED — R-187: V.9:159 MISQUOTES V.1 INSIDE A FRAME ADVERTISING VERBATIM FIDELITY.**
+
+*"V.1 named this failure in advance and **named it precisely** — 'our agreement with the roster is not an
+independent datum; it is the position doing the reading.'"* V.1:244 reads *"not a **fourth** datum
+supporting the roster."* **"Fourth" is specific — three branches, and this book is not the fourth.
+"Independent" generalises it and loses the count that made it bite.** The substance survives; the
+quotation does not, and *"named it precisely"* is the aggravating clause. R-178's class.
+[[feedback_quotation_connective_tissue]] medium.
+
+**FILED — R-188 (minor): V.7:7 misreports V.1's list order.** *"They stood between a hesychast … and a
+Mazatec curandera."* V.1:159–163 runs hesychast → **Vedic ascetic and Vajrayāna practitioner** → ritual
+magicians → Mazatec curandera. The magicians' left-hand neighbour is the Vedic/Vajrayāna pair. low.
+
+---
+
+### ★ THE RESULT THAT IS NOT A DEFECT, AND IT ANSWERS A QUESTION CROSSREF-ACK LEFT OPEN
+
+**V.7, V.10 and V.11's substantive reaches are ACCURATE — verbatim-accurate where they quote, and three
+of them actively refuse V.1's authority:** V.7:34 *"spending a currency that was never minted for this"*;
+V.10:209 *"**This breaks the test V.1 built**, and it is better to say so than to leave the crack for a
+reader to find"*; V.11:193 *"V.1 declared the perennialist claim false and named nobody. **That was a
+failure of this book's own rule**."* V.10:161 even audits its own borrowing rate — *"this is its third
+outing, so it gets one sentence rather than a fresh performance"* — and the count checks out.
+
+**The over-crediting stops exactly at V.7, whose opening section is titled *"What V.1's result does not
+hand this chapter."*** Every clean chapter opens by bounding what it inherits. Every dirty one
+(V.3, V.4, V.5, V.6) reaches back while AGREEING.
+
+⛔ **This refutes CROSSREF-ACK's standing hypothesis** — *"Order of writing, not care, may be the whole
+variable. Nothing measures that yet."* V.7, V.10 and V.11 have **no apparatus at all** and neither did
+V.1 when they were drafted, so the writing-order variable is absent and they are accurate anyway.
+
+**THE LESSON, and it generalises past this book: AGREEMENT IS THE UNREAD CITATION.** A chapter that must
+draw a boundary against its source has to open the source to find the boundary. A chapter that merely
+agrees quotes from memory — and memory returns the gist, which is the chapter's own thesis wearing the
+source's name. **Predicts where to look in VI–VIII: not at the disputes. At the concurrences.**
+[[feedback_scrutiny_is_motive_shaped]] [[feedback_briefing_manufactures_the_agreement]] high.
