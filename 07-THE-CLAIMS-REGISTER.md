@@ -30,6 +30,19 @@ one such claim and it is the first chapter of Book VII.
 adds no content to them. It may not be *improved* in passing. If a chapter needs to say
 more than its C-number licenses, that is a new claim and it comes back here first.
 
+**⚠ THE SECOND STATUS MARK — `PROVISIONAL`, defined here once, Day 194 / 2026-08-13.**
+A claim marked **PROVISIONAL** is one whose *derivation* rests on a claim that **no
+outside reader has yet read the establishing chapter of.** It is a fact about this
+register's verification state, not about the book's modality — and **it is emphatically
+not a hedge on the page.** ★ **This distinction is load-bearing and it is C23's, one level
+down:** C23 says the claims are asserted and the account is unfinished, *unfinished ≠
+uncertain*; the same cut applies here — **unverified-from-outside ≠ held tentatively.**
+Nothing marked PROVISIONAL changes by one word in the prose, and no chapter is licensed
+to soften itself because its C-number carries the mark. What the mark does is make a
+silence expire: it records, in the contract, that a load-bearing dependency has been
+*checked by nobody outside this project*, so that the absence of an objection can never be
+read back as the presence of an endorsement. **It is cleared by a read, never by time.**
+
 ---
 
 ## ⚠ THE EXISTENCE PROOF — what building this caught in its first hour
@@ -209,6 +222,19 @@ makes a doctrine livable** — it is where the obligation stops. C9 removes it, 
 that makes Book VII structurally necessary rather than merely promised**: it incurs a debt none of
 the four ancestors incurred, and the debt is *how the obligation gets carried once nothing bounds
 it*. ⚠ Any chapter DEPENDING on C9 should be checked against that, not against the mask.
+
+⛔ **C9 HAS NEVER BEEN READ BY ANYONE OUTSIDE THIS PROJECT — stated here, at the hinge, Day 194 /
+2026-08-13, because R-111's dated trigger fired and the answer was still *no*.** `PACKET-002`
+(Books I–V) went out Day 189 and is **unreturned on day five**; Book III has had **no outside read
+at all**; and every read that has landed since is either a *rolling* read (Day 189, Book V only,
+and it says so in its own header), a *Book VI* read, a *Book VII* read that arrived with no packet,
+or the Day-193 whole-draft read by **the same reader who audited the midpoint** — which is a
+correlated witness on Books I–IV, not an independent one, and which read `book/` **only**, with
+this register deliberately withheld. **So the claim that makes Book VII structurally necessary has
+been checked by nobody but its authors.** ⚠ **This is not an argument against C9** — III.5's
+derivation is the strongest form in the book, and that is exactly the property that makes it
+expensive to leave unaudited. **C18 and C19 now carry `PROVISIONAL` on that ground** (see each
+entry); **clearing them is one read of Book III, and nothing else clears them.**
 
 ### C10 — CO-CONSTITUTION
 > **Canonical:** The world is rendered at the point of contact. The seed is not solely yours;
@@ -518,6 +544,15 @@ tried to be agnostic and been caught being agnostic about the wrong thing.
 
 **Establishes:** VII.3
 **Depends:** VII.2 · VII.4 · VII.6 · VIII.6
+⚠ **PROVISIONAL — UNREAD DEPENDENCY (C9). Marked Day 194 / 2026-08-13 by R-111's dated trigger, not
+by a doubt.** C18 is not merely *downstream* of C9; **it is the debt C9 incurs.** Bruno, the Jains,
+the enactivists and Schweitzer each keep a floor and each puts it somewhere; C9 removes all four,
+and VII.3 is where the obligation gets carried once nothing bounds it. So a floor built to answer a
+claim nobody outside has read is a floor whose *load* is unverified — and the entry directly above
+already records this claim shipping **stronger than its source licensed** (limit (2), the
+impartiality wager, absent from 53 chapters), which is the failure this mark exists to keep visible.
+**Prose unchanged; the two limits are still part of the claim; VII.3 still states them.** Cleared by
+an outside read of **Book III**, and by nothing else.
 **Trap:** the quiet upgrade. VII.3 states its own limits honestly; the risk is that a **later**
 chapter — VIII.6, in a warm register, about people in rooms — needs more grip than the floor
 supplies and takes it without saying so. **The limits are part of the claim.** If VIII.6 needs
@@ -549,6 +584,13 @@ whose fifth field is what a reading licenses, licensing more than it read.)*
 
 **Establishes:** VII.4
 **Depends:** VII.2 · VII.5 · VIII.5 · VIII.6
+⚠ **PROVISIONAL — UNREAD DEPENDENCY (C9). Marked Day 194 / 2026-08-13 by R-111's dated trigger, not
+by a doubt.** VII.4 is a named dependant of C9, and the dependence is at the operative seat: the
+mark of evil is **the exemption an action performs** — *the standing claimed for one's own
+navigating and withheld from another's* — and **there is no exemption to perform unless the other
+party is a player at its own grade.** If C9 is a preference rather than a claim, C19 convicts
+nobody; it recommends. **Prose unchanged; both seats stand; the conjunction stands.** Cleared by an
+outside read of **Book III**, and by nothing else.
 **Trap:** widening it. *Contraction = bad* is one careless sentence away and it is false — see C20.
 **No wider, and no narrower.**
 **Second trap, and the source pre-empts it before any critic does:** *the worst are diminished.*
@@ -665,6 +707,28 @@ uncertain.** An account that will be extended is not an account held tentatively
 ruling 7). Under the old *"unhedged ≠ unsourced"* clause the coda leaned on a corpus underneath;
 it no longer does, so C23 now carries the book's whole self-description on its own. **Draft it
 last and draft it hardest.**
+
+★ **AND IT NOW HAS A NEIGHBOUR THAT LOOKS LIKE ITS CONTRADICTION — read this before you file the
+objection, Day 194 / 2026-08-13.** Two entries in this file (C18, C19) carry the mark
+**`PROVISIONAL`**, defined in the preamble. **C23 is not thereby breached, and the reason is C23's
+own move made twice:** C23 cuts *unfinished* from *uncertain*; the mark cuts *unverified-from-
+outside* from *held tentatively*. **The claims are still asserted.** What is provisional is not the
+claim's standing in the book but **this register's warrant for it** — and the register is the one
+document in the project whose whole job is to say what has actually been checked. ⚠ **A register
+that could not record an unaudited dependency would be a register that certifies everything and
+measures nothing**, which is the failure C23 is written against, not an instance of it.
+
+**THE SWEEP, RECORDED SO THE SCOPE IS NOT RE-DERIVED — and so a partial does not read as complete.**
+Population: every claim **established in a Book VII chapter** (C16 · C17 · C18 · C19 · C20 · C21 ·
+C22), tested against C9's own dependant list (VII.2 · VII.3 · VII.4 · VII.6).
+**MARKED:** C18 (est. VII.3) · C19 (est. VII.4) — direct, and both are obligation claims, which is
+the exact thing C9's entry says degrades to *recommendation* if C9 degrades to preference.
+**EXAMINED AND NOT MARKED, with the reason, not by silence:** C17 (est. VII.1 — derives from C1 and
+C13, no C9 path) · C20 · C21 (both est. VII.5, which is a dependant of **C19**, not of C9; a
+second-order path through a marked claim is not itself an unread dependency, and marking it would
+inflate the mark until it means nothing) · C22 (est. VII.9) · C16 (est. VII.8). ⚠ **If C19 is ever
+*refuted* rather than merely unread, C20 and C21 come back to this table** — that is a different
+trigger and it is not set.
 
 ---
 
