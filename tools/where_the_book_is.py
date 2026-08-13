@@ -28,7 +28,7 @@ WHAT IT FOUND ON ITS FIRST RUN, which is why it exists:
 
     disk (ground truth)      : 32 chapters, 96,274 words
     Architecture/handoff.json: 41   ❌ over  by 9  — the live continuity carrier
-    book/DRAFT-LOG.md        : 29   ❌ under by 3  — stopped carrying it after IV.7
+    book/docs/DRAFT-LOG.md        : 29   ❌ under by 3  — stopped carrying it after IV.7
     06-THE-SCAFFOLD.md       : 16   ❌ under by 16 — ✅ marks stopped mid-Book-III
 
     ...and every one of them says the denominator is 68 where the scaffold
@@ -116,7 +116,7 @@ from storyscope_lite import load_prose_file, words  # noqa: E402
 ROOT = Path(__file__).resolve().parent.parent
 BOOK = ROOT / "book"
 SCAFFOLD = ROOT / "06-THE-SCAFFOLD.md"
-DRAFT_LOG = BOOK / "DRAFT-LOG.md"
+DRAFT_LOG = BOOK / "docs" / "DRAFT-LOG.md"
 HANDOFF = Path("C:/Users/Wasch/carapace/Architecture/handoff/handoff.json")
 WORKING_MEMORY = Path("C:/Users/Wasch/carapace/memory/working_memory.json")
 

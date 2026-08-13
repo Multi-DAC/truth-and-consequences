@@ -24,7 +24,7 @@ import sys
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
-QUEUE = ROOT / "book" / "REVISION-QUEUE.md"
+QUEUE = ROOT / "book" / "docs" / "REVISION-QUEUE.md"
 RX = re.compile(r"\bR-(\d+)\b")
 # A row is a table line whose FIRST cell is the number, or a `### R-n` section heading.
 # The `(?:\([a-z]\))?` is not decoration: R-24 ships as **R-24(b)** because its (a) half was

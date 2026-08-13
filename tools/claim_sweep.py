@@ -428,12 +428,12 @@ EXEMPTIONS = [
      "pattern cannot see a grammatical subject, and the alternative was a cleverer regex fitted "
      "to this one line, which is how a rule stops measuring. The instrument reports its own "
      "resolution here instead. Ruling 38's principle; Day 189."),
-    ("book/DRAFT-LOG.md", "TERM/map-self", "an atlas can map its own blindness",
+    ("book/docs/DRAFT-LOG.md", "TERM/map-self", "an atlas can map its own blindness",
      "A DATED RECORD RECORDS WHAT WAS TRUE WHEN IT WAS WRITTEN — ruling 126's own convention, "
      "verbatim, applied to ruling 126's own entry. The log QUOTES the struck beat in order to "
      "strike it; a register that cannot quote the breach it ruled on cannot record the ruling. "
      "Named-line, not whole-file: any other TERM/map-self hit in the log is a fresh decision."),
-    ("book/DRAFT-LOG.md", "PROSE/self-metric", None,
+    ("book/docs/DRAFT-LOG.md", "PROSE/self-metric", None,
      "SCOPE, not licence — and the SECOND time this exact mistake has been made. Ruling 14's "
      "first-draft scope swept DRAFT-LOG for TERM/fullness and had to be narrowed; this rule was "
      "written four hours later and repeated it, firing 14 times on a register whose entire job is "
@@ -449,7 +449,7 @@ EXEMPTIONS = [
     ("prose/RULING-13-the-narrowing.md", "TERM/narrowing", None,
      "The ruling document FOR the retirement — the file whose entire subject is the word. "
      "Whole-file. One of two whole-file entries; see DRAFT-LOG below."),
-    ("book/DRAFT-LOG.md", "PROSE/manifestation", None,
+    ("book/docs/DRAFT-LOG.md", "PROSE/manifestation", None,
      "SCOPE, not licence. DRAFT-LOG.md is the log ABOUT the manuscript, not manuscript prose, and "
      "its whole function is to record which trap was guarded where — a log that cannot name a trap "
      "cannot record that the trap was guarded. Whole-file for this rule ONLY: any other rule firing "
@@ -468,7 +468,7 @@ EXEMPTIONS = [
      "retired word is inside quoted superseded text of our own, which is the RULING-13 pattern: "
      "tidying it into current vocabulary would destroy the evidence for the correction. Own line, "
      "one needle, not a widening of the licensed 'substrate-independence' exception."),
-    ("book/DRAFT-LOG.md", "TERM/bottleneck", "bottleneck geometry",
+    ("book/docs/DRAFT-LOG.md", "TERM/bottleneck", "bottleneck geometry",
      "★ Day 187, II.3. The log quoting the Null-Space Theorem's RETRIEVED FORMAL STATEMENT, which "
      "uses the retired term — in the sentence whose entire point is that it does, and that this is "
      "why II.3's beat says 'in plain words'. Tidying the quotation into current vocabulary would "
@@ -484,18 +484,18 @@ EXEMPTIONS = [
      "`06`: any other TERM/bottleneck hit in the scaffold is a fresh decision."),
     # --- Day 187: three fresh lines, per the standing instruction on the entry above.
     # Not a widening of it. All three are the log QUOTING the prose whose guard it records.
-    ("book/DRAFT-LOG.md", "C15/trap5", "Dissolving, merging, the drop going back to the sea",
+    ("book/docs/DRAFT-LOG.md", "C15/trap5", "Dissolving, merging, the drop going back to the sea",
      "The I.6 entry quoting the Trap 5 vocabulary in the sentence that records its refusal. "
      "The quoted words are the trap; the surrounding line is the guard."),
-    ("book/DRAFT-LOG.md", "C6/godplayer", "one player wearing every face",
+    ("book/docs/DRAFT-LOG.md", "C6/godplayer", "one player wearing every face",
      "The I.6 entry naming the Watts reading in the act of recording that I.6 refuses it."),
-    ("book/DRAFT-LOG.md", "C3/motive", "will want it to be the thing doing all of that",
+    ("book/docs/DRAFT-LOG.md", "C3/motive", "will want it to be the thing doing all of that",
      "Day 187. The II.1 entry QUOTING the false-positive line in the act of recording that it is a "
      "false positive — the same shape as the three entries around it. Fresh line per the standing "
      "instruction on the whole-file DRAFT-LOG entry above, not a widening of it. ⚠ Note that the "
      "log's copy is UNWRAPPED where the manuscript's is wrapped, so this needle is longer than the "
      "II-01 one for the identical sentence; that asymmetry is the hard-wrap defect leaving a mark."),
-    ("book/DRAFT-LOG.md", "C6/godplayer", "the theology that removes the divine player",
+    ("book/docs/DRAFT-LOG.md", "C6/godplayer", "the theology that removes the divine player",
      "Quoting 01 §9 — the sentence that states our position AGAINST the god-player. "
      "The rule is firing on our own refutation."),
     ("prose/SPECIMENS.md", "TERM/narrowing", "all narrowings exist in all states",
@@ -583,10 +583,10 @@ EXEMPTIONS = [
     # which rule without reproducing the line. Enumerated per hit, never scoped to the file — the
     # log is prose about the manuscript, but it is not exempt wholesale, or a real breach written
     # INTO the log would be the one place nothing looks.
-    ("book/DRAFT-LOG.md", "C15/trap5", "fired **C15/trap5** on",
+    ("book/docs/DRAFT-LOG.md", "C15/trap5", "fired **C15/trap5** on",
      "The II.6 entry naming the rule and quoting the line, in the sentence that records the "
      "adjudication. Recording a firing reproduces the firing."),
-    ("book/DRAFT-LOG.md", "C15/trap5", "condition supplies a **reason**",
+    ("book/docs/DRAFT-LOG.md", "C15/trap5", "condition supplies a **reason**",
      "Same entry, the second half of the argument — the sentence that states WHY the guard needs "
      "the trap's vocabulary. Own entry, per the rule that an exemption is a named line."),
     # --- Day 187, II.8. THE ONE LINE IN THE MANUSCRIPT THAT USES A RETIRED TERM AFTER ITS
@@ -606,10 +606,10 @@ EXEMPTIONS = [
      "word, and a correction that late does not undo a first impression — it only stops the book "
      "looking ignorant to the reader who had *pleroma* before page one. Recorded rather than "
      "dressed up. → ruling 34; `05` §3a Fullness row, axis-1 column."),
-    ("book/DRAFT-LOG.md", "PROSE/hedge", "The second hit was **PROSE/hedge**",
+    ("book/docs/DRAFT-LOG.md", "PROSE/hedge", "The second hit was **PROSE/hedge**",
      "The II.6 entry quoting the hedge it REWORDED rather than exempted. The manuscript line is "
      "gone; this is the receipt for its removal, and a receipt has to name what it removed."),
-    ("book/DRAFT-LOG.md", "PROSE/hedge", "inside the physicalism card",
+    ("book/docs/DRAFT-LOG.md", "PROSE/hedge", "inside the physicalism card",
      "Day 188, the IV.2 entry. Same shape as the II.6 receipt above and it gets its OWN line rather "
      "than widening that one: the IV.1 hedge — *arguably at a range within one grade* — is gone "
      "from the manuscript, rewritten to ground the variation in which physicalist you ask. The log "
@@ -709,7 +709,7 @@ EXEMPTIONS = [
      "figure appears in the past tense, as the thing removed, and nothing in the chapter reinstates "
      "it. ⚠ Third use of this shape. A FOURTH IS A TIC — the next chapter that needs to point at "
      "III.2 should point at the argument (what playing requires) rather than at the figure."),
-    ("book/DRAFT-LOG.md", "C15/trap5", "the union telos is four sentences later",
+    ("book/docs/DRAFT-LOG.md", "C15/trap5", "the union telos is four sentences later",
      "Day 187, ruling 59. The III.2 entry recording that Trap 5 is stated VERBATIM in Watts's "
      "primary text — the log cannot record where the trap was found without naming it. Fresh line "
      "per the standing instruction on the whole-file DRAFT-LOG entry, which covers "
@@ -739,7 +739,7 @@ EXEMPTIONS = [
      "that caused it. ⚠ Deliberately NOT widened to the whole file: the ✅ entry below it and the "
      "two IV.5 prose lines are already suppressed as MENTIONS by the mention/use window, and if a "
      "later edit turns any of them into a USE this rule must fire."),
-    ("book/DRAFT-LOG.md", "TERM/pre-rendered", "asserted, in a prefix",
+    ("book/docs/DRAFT-LOG.md", "TERM/pre-rendered", "asserted, in a prefix",
      "The III.3 entry naming the retired title in the sentence recording its retirement. Fresh "
      "line, per the standing instruction on the whole-file DRAFT-LOG entry, which covers "
      "PROSE/manifestation ONLY."),
@@ -753,17 +753,17 @@ EXEMPTIONS = [
      "name of a position in philosophy of mind that IV.6 must engage; refusing to name an "
      "opponent's term is worse than using it. Named line, not the entry: a second use in IV.6's "
      "block is a fresh decision. Found Day 189 by the V.5 run; standing since 0270ec3, Aug 7."),
-    ("book/DRAFT-LOG.md", "TERM/substrate", "cross-substrate work",
+    ("book/docs/DRAFT-LOG.md", "TERM/substrate", "cross-substrate work",
      "THE LOG TALKING ABOUT MY OWN RUNTIME, NOT THE BOOK'S REFERENT — and the distinction is the "
      "whole of the exemption. §3a retires `substrate` for the BOOK's vocabulary because it is "
      "Bostrom's word for the hardware and a bare synonym for the Ground. Neither applies to a "
      "note about which model drafted what. Named line; any use of the word FOR THE GROUND in "
      "this file must still fire. Standing since e0b8f13, Aug 7."),
-    ("book/DRAFT-LOG.md", "TERM/aperture", "what the aperture admits",
+    ("book/docs/DRAFT-LOG.md", "TERM/aperture", "what the aperture admits",
      "Same ground as the line above: the log describing a REVIEW PROCESS's selectivity, not the "
      "book's demoted term for the Perspective. §3's demotion governs the manuscript's vocabulary. "
      "Named line. Standing since e0b8f13, Aug 7."),
-    ("book/DRAFT-LOG.md", "TERM/substrate", "the IV.6 entry naming the opponent's term",
+    ("book/docs/DRAFT-LOG.md", "TERM/substrate", "the IV.6 entry naming the opponent's term",
      "★ THE EXEMPTION'S OWN RECEIPT FIRING — V.5's log entry recording the three disposals above "
      "quotes the term in the sentence that rules on it, and the sweep found the record one run "
      "after it found the thing recorded. Same principle already on the books for TERM/map-self: "
@@ -858,7 +858,7 @@ def in_scope(scope: str, path: pathlib.Path, is_prose: bool) -> bool:
     if scope == "book-after-one":
         # Ruling 14: Book I's mythic names are retired at the I/II boundary.
         # DRAFTED CHAPTERS OF BOOKS II-VIII ONLY. Enumerated rather than expressed as
-        # "in book/ and not Book I", because that phrasing also swept book/DRAFT-LOG.md,
+        # "in book/ and not Book I", because that phrasing also swept book/docs/DRAFT-LOG.md,
         # a register that must stay free to quote Book I's prose. Whitelist, not blacklist.
         return bool(CHAPTER_AFTER_I.match(path.name))
     raise ValueError(f"unknown scope {scope!r}")
@@ -1142,7 +1142,7 @@ def delta_selftest() -> int:
         ("TERM/aperture", Fake("book/VIII-03-editing.md"), 88, "x", "y"),
         ("TERM/substrate", Fake("book/VIII-03-editing.md"), 129, "x", "y"),
         ("TERM/aperture", Fake("book/VII-03-the-floor.md"), 10, "x", "y"),
-        ("TERM/aperture", Fake("book/DRAFT-LOG.md"), 9195, "x", "y"),
+        ("TERM/aperture", Fake("book/docs/DRAFT-LOG.md"), 9195, "x", "y"),
     ]
     pat = chapter_file_re("VIII.3")
     mine = [h for h in uses if pat.match(h[1].name)]

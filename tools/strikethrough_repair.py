@@ -14,7 +14,7 @@ DELIVERABLE IS THE DELTA. This script prints every substitution it makes and
 refuses to run if any pattern does not match exactly once. A silent success is
 the failure mode.
 
-SCOPE, DECLARED: the four planning documents only. book/REVISION-QUEUE.md's own
+SCOPE, DECLARED: the four planning documents only. book/docs/REVISION-QUEUE.md's own
 20 strikethroughs are `~~**R-n**~~ ✅ **PAID**` row-discharge markers, which
 transmit correctly in plain text because the ✅/PAID token carries the semantics;
 and four of them sit INSIDE R-58's own text, where they are the specimen. Editing

@@ -48,7 +48,7 @@ USAGE
     python tools/crossref_rot.py --ack-template  # emit ack lines for the current tier-1 set
 
 EXIT CODE: 1 if the POSITIVE CONTROL fails (the gauge is broken and its zero means nothing),
-or if any tier-1 pair is unacknowledged in `book/CROSSREF-ACK.md`. A reviewed pair is silenced
+or if any tier-1 pair is unacknowledged in `book/docs/CROSSREF-ACK.md`. A reviewed pair is silenced
 by its key; editing the citing paragraph changes the key and reopens it, which is correct — a
 repair deserves a re-read. Otherwise 0.
 """
@@ -544,7 +544,7 @@ def main():
     open1 = [r for r in tier1 if pair_key(r["citing"], r["text"], r["target"]) not in acks]
 
     if args.ack_template:
-        print("\n# paste into book/CROSSREF-ACK.md once the citation has been READ")
+        print("\n# paste into book/docs/CROSSREF-ACK.md once the citation has been READ")
         for r in tier1:
             print(f"- `{pair_key(r['citing'], r['text'], r['target'])}` "
                   f"— {r['citing']}:{r['line']} → {r['target']} "

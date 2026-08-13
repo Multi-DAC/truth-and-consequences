@@ -33,7 +33,7 @@ import sys
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
-ROSTER = ROOT / "book" / "BOOK-V-ROSTER.md"
+ROSTER = ROOT / "book" / "docs" / "BOOK-V-ROSTER.md"
 BOOK = ROOT / "book"
 
 SECTION_RE = re.compile(r"^###\s+V\.(\d+)\b")

@@ -156,7 +156,7 @@ def main():
     ap.add_argument("--window", type=int, default=90,
                     help="characters either side of a reference (default 90)")
     ap.add_argument("--include-log", action="store_true",
-                    help="also read book/DRAFT-LOG.md, where a stale pointer is history")
+                    help="also read book/docs/DRAFT-LOG.md, where a stale pointer is history")
     args = ap.parse_args()
 
     titles = title_map(SCAFFOLD.read_text(encoding="utf-8"))

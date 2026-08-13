@@ -63,7 +63,7 @@ import subprocess
 
 HERE = pathlib.Path(__file__).resolve().parent
 REPO = HERE.parent
-QUEUE = "book/REVISION-QUEUE.md"
+QUEUE = "book/docs/REVISION-QUEUE.md"
 
 STATE = re.compile(r"State:\s*`([0-9a-f]{7,40})`")
 ROW = re.compile(r"^R-\d+$")

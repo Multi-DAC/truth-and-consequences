@@ -1,6 +1,6 @@
 import pathlib
 
-log = pathlib.Path('book/DRAFT-LOG.md')
+log = pathlib.Path('book/docs/DRAFT-LOG.md')
 s = log.read_text(encoding='utf-8')
 
 old_footer = """**CHAPTERS-DRAFTED: 58/67 · 205,444 words** · **CLAIMS: C1…C30 (C15 amended Day 191)** · **RULINGS:
