@@ -39,9 +39,13 @@ down:** C23 says the claims are asserted and the account is unfinished, *unfinis
 uncertain*; the same cut applies here — **unverified-from-outside ≠ held tentatively.**
 Nothing marked PROVISIONAL changes by one word in the prose, and no chapter is licensed
 to soften itself because its C-number carries the mark. What the mark does is make a
-silence expire: it records, in the contract, that a load-bearing dependency has been
-*checked by nobody outside this project*, so that the absence of an objection can never be
-read back as the presence of an endorsement. **It is cleared by a read, never by time.**
+silence expire: it records, in the contract, that **no outside read of a load-bearing
+dependency has come back**, so that the absence of an objection can never be read back as
+the presence of an endorsement. ⚠ **SAY IT THAT WAY AND NOT THE OTHER WAY.** This clause
+read *"checked by nobody outside this project"* on the day it was written — a claim about
+**readers**, inferred from a gauge that can only see **returns**. It was false when
+written: reads were, and are, underway. **The mark is cleared by a RETURNED read, never by
+time — and a read in progress neither clears it nor contradicts it.**
 
 ---
 
@@ -223,18 +227,25 @@ that makes Book VII structurally necessary rather than merely promised**: it inc
 the four ancestors incurred, and the debt is *how the obligation gets carried once nothing bounds
 it*. ⚠ Any chapter DEPENDING on C9 should be checked against that, not against the mask.
 
-⛔ **C9 HAS NEVER BEEN READ BY ANYONE OUTSIDE THIS PROJECT — stated here, at the hinge, Day 194 /
-2026-08-13, because R-111's dated trigger fired and the answer was still *no*.** `PACKET-002`
-(Books I–V) went out Day 189 and is **unreturned on day five**; Book III has had **no outside read
-at all**; and every read that has landed since is either a *rolling* read (Day 189, Book V only,
-and it says so in its own header), a *Book VI* read, a *Book VII* read that arrived with no packet,
-or the Day-193 whole-draft read by **the same reader who audited the midpoint** — which is a
-correlated witness on Books I–IV, not an independent one, and which read `book/` **only**, with
-this register deliberately withheld. **So the claim that makes Book VII structurally necessary has
-been checked by nobody but its authors.** ⚠ **This is not an argument against C9** — III.5's
-derivation is the strongest form in the book, and that is exactly the property that makes it
-expensive to leave unaudited. **C18 and C19 now carry `PROVISIONAL` on that ground** (see each
-entry); **clearing them is one read of Book III, and nothing else clears them.**
+⛔ **NO OUTSIDE READ OF C9 HAS COME BACK — which is a different fact from "nobody has read it," and
+this entry asserted the second one for six hours on Day 194 / 2026-08-13.** ⚠ **CORRECTED THE SAME
+DAY, BY THE ONE PERSON WHO COULD SEE IT.** R-111's dated trigger fired that morning, `review/` held
+no return, and the entry converted that silence into a claim about *readers*. It cannot: **an
+absence-of-artifact gauge cannot tell "nobody opened it" from "someone is on page 40."** Clayton,
+unprompted, within the hour: *"I've had several models read the work, I've read the work, and I
+also have some individuals slowly reading it."* Reads of Books I–V **are in progress right now**.
+What is measured here — and all that is measured here — is the **return**: `PACKET-002` went out
+Day 189 and is **unreturned on day five**, and every read that has *landed* is either a *rolling*
+read (Day 189, Book V only, and it says so in its own header), a *Book VI* read, a *Book VII* read
+that arrived with no packet, or the Day-193 whole-draft read by **the same reader who audited the
+midpoint** — a correlated witness on Books I–IV, not an independent one, which read `book/`
+**only**, with this register deliberately withheld. **So the claim that makes Book VII structurally
+necessary has no returned check from anyone but its authors** — which warrants patience with
+readers who are mid-book, not a verdict about them. ⚠ **This is not an argument against C9** —
+III.5's derivation is the strongest form in the book, and that is exactly the property that makes
+it expensive to leave unaudited. **C18 and C19 carry `PROVISIONAL` on that ground** (see each
+entry); **they are cleared by one RETURNED read of Book III — never by time, and never by a read
+still underway.**
 
 ### C10 — CO-CONSTITUTION
 > **Canonical:** The world is rendered at the point of contact. The seed is not solely yours;
@@ -548,7 +559,7 @@ tried to be agnostic and been caught being agnostic about the wrong thing.
 by a doubt.** C18 is not merely *downstream* of C9; **it is the debt C9 incurs.** Bruno, the Jains,
 the enactivists and Schweitzer each keep a floor and each puts it somewhere; C9 removes all four,
 and VII.3 is where the obligation gets carried once nothing bounds it. So a floor built to answer a
-claim nobody outside has read is a floor whose *load* is unverified — and the entry directly above
+claim **no outside read has yet come back on** is a floor whose *load* is unverified — and the entry directly above
 already records this claim shipping **stronger than its source licensed** (limit (2), the
 impartiality wager, absent from 53 chapters), which is the failure this mark exists to keep visible.
 **Prose unchanged; the two limits are still part of the claim; VII.3 still states them.** Cleared by

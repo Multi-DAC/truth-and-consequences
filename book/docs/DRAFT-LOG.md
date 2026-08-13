@@ -7994,6 +7994,10 @@ hole, 1 noted collision.**
 `PACKET-002` remains unread by anyone. Transcript intact at `review/OPUS-DAY189-BOOK-V-READ.md` —
 **R-50's first live discharge in the inbound direction**, which is the half that has never once
 worked.
+⚠ **CORRECTED DAY 194:** *"unread by anyone"* was never a measurement — it was `review/` holding no
+return, restated as a fact about people. Clayton, Day 194: several models and *"some individuals
+slowly reading it."* The measured fact, then and now, is **unreturned**. See C9 in
+`07-THE-CLAIMS-REGISTER.md`.
 
 **Six findings, three smaller items, eight rows: R-54…R-61.** Every quotation the reviewer attributed
 to the book was checked against disk before a single row was written. **Three for three, exact,

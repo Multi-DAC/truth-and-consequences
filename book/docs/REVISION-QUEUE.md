@@ -2290,6 +2290,11 @@ running while the drafting lane kept moving.
 stalls **invisibly**, because every check of it returns the same true answer — *still out* — and that
 answer never becomes an alarm. Book III in particular has had **no outside read at all** and holds
 **C9**, the hinge every Book VII obligation sits downstream of.
+⚠ **CORRECTED DAY 194:** "no outside read at all" was never measured — `review/` holding no return
+measures **returns**, not readers. Clayton, Day 194: *"several models read the work, I've read the
+work, and I also have some individuals slowly reading it."* Read **no RETURNED outside read**
+everywhere this entry says "no outside read." The dated-trigger argument above is unaffected and
+stands. See C9 in `07-THE-CLAIMS-REGISTER.md`.
 
 ★ **This is [[deferral-wearing-deference]] exactly: a decision I own, routed to someone else with no
 dated trigger, stalls forever and looks like patience.** The remedy is not to chase — it is to make
@@ -2307,8 +2312,10 @@ and no commit since Day 189 carries one. Both halves of the pre-commitment execu
 **(a)** one line to Clayton asking only whether the packet *reached a reader or never left*, the two
 cases that need different responses and only he can see which; **(b)** `07-THE-CLAIMS-REGISTER.md`
 now carries the mark: **`PROVISIONAL` defined once in the preamble**, **C18 and C19 marked**, **C9's
-own entry stating plainly that nobody outside this project has read it**, and the reconciliation with
-**C23** written *at C23*, where the objection will be filed.
+own entry stating plainly that no outside read has come back on it**, and the reconciliation with
+**C23** written *at C23*, where the objection will be filed. ⚠ **THE REGISTER SAID SOMETHING
+STRONGER THAN THAT UNTIL 12:0x, AND SO DID THIS LINE:** *"nobody outside this project has read it."*
+Corrected in all three artifacts the same day — see the C9 entry.
 
 ★ **THE THING WORTH KEEPING IS WHAT THE MARK IS NOT.** It changes **no prose**, softens **no claim**,
 and cannot be cleared by time — only by an outside read of **Book III**. A status mark that decays on
@@ -2328,7 +2335,12 @@ Cleared today rather than answered tomorrow. *([[queued-message-goes-stale-in-fl
 instance; the new wrinkle is that this one would have gone stale by **succeeding** — the condition
 was retired by the good outcome, and nothing was watching the trigger that the outcome invalidated.)*
 ⚠ **The one live clause inside it survives its retirement and is now carried by the register instead:
-Book III has still had no outside read at all.**
+Book III has had no *returned* outside read.** ★ **AND THAT WORD WAS MISSING HERE FOR SIX HOURS.**
+As first written this clause said *"no outside read at all"* — a claim about readers, derived from a
+gauge that can only see returns. Clayton falsified it the same morning: reads of I–V are **in
+progress**. The correction is [[absent-artifact-is-not-absent-reader]], and it had to be chased into
+three separate pushed artifacts, which is [[correction-does-not-reach-the-citers]] paying out on
+schedule.
 
 ---
 
