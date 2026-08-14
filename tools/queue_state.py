@@ -181,10 +181,44 @@ def analyse(lines: list[str]) -> dict:
     #      thought I was editing did not exist on one line.
     #      Scan a whitespace-flattened copy. [[feedback_line_scoped_grep_over_wrapped_prose]]
     flat = re.sub(r"\s+", " ", text)
+
+    #  (6) THE MARKER THIS FILE ALREADY HONOURS, HONOURED IN ONLY ONE PASS.
+    #      `## R-nnn (as filed)` is archived original text kept beneath a PAID
+    #      header — the ID-collision pass below excludes it by marker (line
+    #      ~242) and this pass did not, so an archived clause counted as a live
+    #      dependency. Day 195, ~15:1x: R-228's archive carries "TRIGGER: …
+    #      with R-21", R-21 was paid an hour earlier, and the tool reported one
+    #      FIRED trigger — which held R-234, THE LAST OPEN RELEASE GATE, at
+    #      ◻ OPEN. A gate blocking upload on a sentence written before the work
+    #      it describes was done. Same marker, two passes, one reader.
+    #
+    #      ⚠ EXCLUDE BY MARKER **AND** DISPOSITION, NOT BY MARKER ALONE. The
+    #      file holds five `(as filed)` sections and one of them — R-223 — sits
+    #      under a row that is STILL LIVE. Suppressing by marker alone would
+    #      blind the scan inside a live row's body, which is the failure this
+    #      tool exists to catch. Archived text is inert only when its owner is
+    #      discharged. R-223 is the negative control and it is already in the
+    #      corpus. [[feedback_instrument_fix_vs_relaxation]]
+    archived: list[tuple[int, int]] = []
+    for i, l in enumerate(lines):
+        m = re.match(r"#{2,}\s+~*\**\s*(R-\d+)\b(.*)$", l.strip())
+        if not m or "(as filed)" not in m.group(2):
+            continue
+        if m.group(1) not in paid and m.group(1) not in falsified:
+            continue  # owner still live — its archive is not inert
+        anchor = f"## {m.group(1)} (as filed)"
+        s = flat.find(anchor)
+        if s < 0:
+            continue
+        e = flat.find(" ## ", s + len(anchor))
+        archived.append((s, len(flat) if e < 0 else e))
+
     triggers: list[tuple[str, str, str]] = []  # (dependent, gate, clause)
     for m in re.finditer(r"TRIGGER(?:S)?(?::|\s+FOR\b).{0,240}", flat):
         if flat[max(0, m.start() - 2) : m.start()] == '*"':
             continue  # quoted example, not a live trigger
+        if any(s <= m.start() < e for s, e in archived):
+            continue  # inside a discharged row's archived filing — see (6)
         # (4) …and the window has to STOP AT THE ROW BOUNDARY. A flat 240 chars
         # bleeds into the next row's heading, so R-234's own trigger ("★ RELEASE
         # GATE 5 — before upload") inherited an R-2 from the row below it and
