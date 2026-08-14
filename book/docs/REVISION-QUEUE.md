@@ -3045,7 +3045,9 @@ gauge counting relabelled fields honestly reads 16.
 reachability.** `IV.1` now requires a complement that can be gone to, and most v1 cards answer with
 an existence claim — *"Anything with a second dimension"*. They are OUTWARD and they are not yet
 known to discharge the stronger obligation. The gauge prints all 19 by name every run rather than
-reporting a green over a population it has only half read. **Filed as R-235.**
+reporting a green over a population it has only half read. **Filed as R-236** — *renumbered
+from R-235 on the same day it was filed: R-235 was already taken by the GRADE-chapter row filed
+hours earlier, and `queue_state.py` deduped the collision into one row rather than reporting it.*
 
 ---
 
@@ -6052,7 +6054,7 @@ undeclared and reads as an oversight.
 
 ---
 
-## R-235 — 19 OF 43 CARDS ARE OUTWARD AND UNGRADED FOR REACHABILITY
+## R-236 — 19 OF 43 CARDS ARE OUTWARD AND UNGRADED FOR REACHABILITY
 
 **MEDIUM. Opened BY R-136's repair, which is the honest way for a row to arrive — the fix raised the
 standard and the older cards have not been read against the new one.**

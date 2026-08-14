@@ -219,12 +219,38 @@ def analyse(lines: list[str]) -> dict:
             if g != owner:
                 triggers.append((owner or "?", g, clause.strip()))
 
+    # --- ID COLLISION ----------------------------------------------------
+    # ⚠ EVERY OTHER COUNT IN THIS TOOL KEYS ON THE ROW ID, so two findings
+    # sharing one ID are SILENTLY MERGED and the merge is invisible in the
+    # direction that matters: the file grew a second `## R-235` on Day 195
+    # (the card-reachability row, filed hours after the GRADE-chapter row
+    # took the number) and this tool printed `distinct row IDs: 225` — the
+    # count was right about IDs and wrong about findings, which is the only
+    # thing anyone reads it for. A gauge that dedupes its own subject
+    # cannot report a duplicate. [[feedback_self_generated_denominator]]
+    #
+    # THE BENIGN TWIN IS DELIBERATE AND MUST NOT FIRE: this file keeps the
+    # original text under `## R-nnn (as filed)` beneath a PAID header, five
+    # times over. That is ONE finding written twice. A collision is TWO
+    # findings. The exclusion is by MARKER, not by count — an exclusion by
+    # count would have hidden exactly the case this exists to catch.
+    definitions: dict[str, list[tuple[int, str]]] = {}
+    for i, l in enumerate(lines, 1):
+        m = re.match(r"#{2,}\s+~*\**\s*(R-\d+)\b(.*)$", l.strip())
+        if not m:
+            continue
+        if "(as filed)" in m.group(2):
+            continue
+        definitions.setdefault(m.group(1), []).append((i, l.strip()[:78]))
+
     return {
         "first_line": first_line,
         "open_table": in_open_table,
         "paid": paid,
         "falsified": falsified,
         "triggers": triggers,
+        "collisions": {k: v for k, v in definitions.items() if len(v) > 1},
+        "definitions": definitions,
         "bounds": (lo + 1, hi + 1),
     }
 
@@ -259,6 +285,30 @@ def main() -> None:
     nums = sorted(key(r) for r in all_rows)
     holes = [n for n in range(1, max(nums) + 1) if n not in set(nums)]
     print(f"  numbering holes             : {len(holes)}  {holes}")
+
+    # An ID collision makes every line above it an undercount. Say so where
+    # the counts are, not in a footnote — and render the clean case too, so
+    # the reader can tell "checked, none" from "never looked".
+    coll = a["collisions"]
+    ndef = len(a["definitions"])
+    if coll:
+        # Be exact about the cost rather than sweeping: the lines above are
+        # counts of IDs and are correct AS THAT. They are short only when
+        # read as counts of FINDINGS, which is the only way anyone reads
+        # them. [[feedback_unchecked_clause_costs_nothing_to_write]]
+        print(f"  ⛔ DUPLICATE ROW IDs        : {len(coll)}  "
+              f"— TWO FINDINGS UNDER ONE NUMBER. The ID counts above are right "
+              f"about IDs and short by {sum(len(v) - 1 for v in coll.values())} "
+              f"as counts of findings")
+        for rid, sites in sorted(coll.items(), key=lambda kv: key(kv[0])):
+            print(f"      {rid}:")
+            for ln, head in sites:
+                print(f"        line {ln}: {head}")
+        print("      → renumber the later filing; the earlier one owns the "
+              "table row and the citers.")
+    else:
+        print(f"  ✅ row IDs unique           : {ndef} heading-defined findings, "
+              f"no two share a number  ('(as filed)' re-headings excluded by marker)")
     print()
 
     # --- trigger analysis: the point of the tool -------------------------
