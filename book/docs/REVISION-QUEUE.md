@@ -17,12 +17,50 @@ dropped, and it is written as such rather than dressed up.
 
 ---
 
+## ★ THE RELEASE GATE — Day 195, and it is a RULING, not a mood
+
+*Written because this file had 209 live rows and no answer to the only question that matters at the
+end: **what has to be true before this ships?** Without that line, a queue that grows faster than it
+drains is a book that audits itself forever and never publishes. Nothing below is a promise that the
+other rows are wrong. It is a declaration that they are **maintenance, not a publication gate.***
+
+**FIVE ROWS BLOCK UPLOAD. Nothing else in this file does.**
+
+| gate | row | satisfaction test — met or not met, no judgement call |
+|---|---|---|
+| **1. The edition policy is DECIDED** | **R-212** | A written ruling in `00-ARCHITECTURE.md` adopting **(ii) repair the body, mark the repair** — which is what Book V already does three times and what the Coda currently contradicts. Test: the ruling exists, and `edition_scheme_sweep.py` has been re-run against IV.10 and Book V with the delta recorded. ⛔ The IV.10 fabricated quotation inside an accusation comes out **regardless of which way the policy goes** — that one is not waiting on the decision. |
+| **2. Book I gets its transition** | **R-228** | II.1 no longer opens cold. Test: a named transition passage exists between I.6 and II.1. ★ **The only finding two blind readers reached separately** — the highest evidence grade in the entire pile. |
+| **3. The floor slopes** | **R-216** | VII.3's floor grades, in a book whose whole ethic is grading. Test: the floor passage carries a grade axis, or prints its refusal with a reason. This is the sharpest self-inconsistency in the manuscript and the first thing a hostile reviewer finds. |
+| **4. A stranger can navigate it** | **R-222** | Index, glossary, bibliography — or a written refusal of each, with a reason. Test: the three artifacts exist, or `00` records the decision not to build them. |
+| **5. The fired triggers are re-homed** | **R-234** | The **28** orphaned trigger clauses — 23 off R-2, 5 off the paid rows R-69/R-71/R-13 — are re-pointed at live events. Test: `python tools/queue_state.py` reports **zero** triggers pointing at a discharged row. |
+
+**THE VISION THIS GATE SERVES — a released edition, not an archive.**
+
+- **Take option (ii) formally**, because the book already does it and only the Coda disagrees.
+  Repair load-bearing bodies, mark each repair in the idiom the book already owns, keep the
+  archaeology in the notes.
+- **The apparatus stays and changes register.** 531 notes are the evidential spine — the thing no
+  comparable book has. It gets a front-matter note declaring what it *is*, and the 382 tokens of
+  production scaffolding come out of the body. A reader should never have to learn what a "row" is.
+- **The axiom gets earned.** A plenitude book that never meets the actualist (R-21) has a hole where
+  its foundation goes. *Not a gate — the largest prose debt, and the first thing after the gate.*
+
+⚠ **WHAT THIS GATE DOES NOT CLAIM.** It does not claim the other 205 rows are unimportant, and it
+does not claim they are covered. It claims they do not block upload — which is a decision I am
+making in the open so it can be argued with, rather than a drift that happens by exhaustion.
+[[feedback_partial_delivery_beats_no_gauge]]
+
+**Gauge:** `python tools/queue_state.py --gate`. It reads declarations, not the book — see its LIMIT
+line, which is the honest half of it.
+
+---
+
 ## OPEN
 
 | # | ruling | scope | what is owed | trigger | cost |
 |---|--------|-------|--------------|---------|------|
 | **R-1** | **128** | IV.10 | **A bare census line for Tier 1.4** — what the tier contains, the evidence grade of each class in it, nothing else. Book IV tells the reader a tier is missing and hands them nothing to size it against. | ★ **BEFORE V.9 OPENS, and V.9 does not open until it has.** The condition that blocked it on the night — a party with a live interest in the entry existing, on the thinnest evidence in the source — expires when it can be drafted **from the source list** rather than from the memory of the embarrassment. | small |
-| **R-2** | **117** | **II, III, IV — 21 chapters** | **Endnotes. There are none.** Ruling 9 mandates per-chapter numbered endnotes everywhere after Book I; zero markers and zero files exist. Named, dated, load-bearing sources across twenty-one chapters carry **not one receipt.** | ⚠ **Cost compounds per chapter and it is not creative work.** Filed as a **build order**: an endnote register plus a gauge counting named sources against receipts, which reads `0/N` the day it is written. **TRIGGER: the gauge is built before Book V closes** — after that the debt is 32+ chapters and stops being payable in a pass. | **large** |
+| ~~**R-2**~~ ⛔ **PREMISE FALSIFIED Day 195 — succeeded by R-234, NOT simply struck** | **117** | **II, III, IV — 21 chapters** | ~~**Endnotes. There are none.** Ruling 9 mandates per-chapter numbered endnotes everywhere after Book I; zero markers and zero files exist. Named, dated, load-bearing sources across twenty-one chapters carry **not one receipt.**~~ **MEASURED Day 195 against the shipped files: 531 note definitions across 62 of 69 chapters** (II 37 · III 46 · IV 80 · V 174 · VI 59 · VII 88 · VIII 42 · Coda 5). Book I carries zero **by design** — ruling 9 exempts it. `endnote_debt.py`: 145 named sources, 132 with receipts, **13 owed**, and the tool's own note says ~19% of that residual is extraction artefact. **The build order this row demanded got built, book by book, and the row was never updated** — so it sat at the top of this table for seven days as the largest debt in the book, describing a manuscript that no longer existed. ⚠ **This is the row that says "an item absent from this list is unrecorded, not discharged" learning its converse: an item PRESENT on this list is not thereby still true.** A queue row is a MEASUREMENT and it rots. [[feedback_filed_defect_misprices_its_own_subject]] | ⛔ **DO NOT TREAT THIS AS A CLEAN STRIKE. R-2 was dead as a FINDING and alive as a CLOCK** — **23 trigger clauses in this file name R-2 as their gate** (8 Book VII · 5 Book VIII · 5 Book V · 2 Book IV · 3 unpinned) — **and 5 more dangle off three already-PAID rows (R-69, R-71, R-13), for 28 across 4 dead gates**. Those triggers **already fired**, silently, as each book's notes were written, because the only row that would have announced the firing was this one. Striking R-2 without re-homing them converts 23 tracked debts into 23 untracked ones in one edit — *a mechanism with no trigger*, this file's signature defect, committed by the file itself. **→ R-234 carries the scheduler function forward and is a RELEASE GATE row.** | ~~large~~ **the finding: nil. the fallout: see R-234** |
 | **R-3** | **129** | **IV.1, IV.2, IV.3, IV.6, IV.7, IV.8** — six of ten | **The under-attribution principle's warrant.** The induction is circular: IV.2 scopes the lean to *whether*, and on this framework nothing gates *whether*, so the only possible counterexamples are excluded by the conclusion. **Repair:** state the induction over **standing**, name the grade cases running the other way, rest the lean on **asymmetric cost**. The lean survives; only its warrant changes. | **The Book IV revision pass, OR the first chapter outside Book IV to rest weight on the principle — whichever is first.** ⚠ Book V reads roads that attribute freely; this could come due before the pass does. | small per chapter, **six chapters** |
 | **R-4** | **130** | IV.10 | **Carry the candidate framing to the end.** The chapter offers two causes for the missing tier, kills one, then asserts the other flat — an introspective report with no gauge, in the chapter arguing introspective reports need gauges. Both stay candidates; the never-stated third (*the material is contested now, so the entry would be journalism not cartography*) gets said. | **The Book IV revision pass.** ✅ The *planning* half is already repaired — `06`'s Book V amendment no longer rests on the flinch story. | small |
 | **R-5** | **116** | II.6 | **II.6 gets the argument, not more assertion.** *Structural agreement = felt rightness* is the biggest unargued claim in the book, and **IV.5's strongest move is drawn on it** — the four conditions run on a company were Book IV's hard claim discharged. A Book-II repair pass, not a redraft. | **The Book II revision pass.** ⚠ **The tell that the repair has FAILED is that the chapter gets more confident.** Do not repair by adding emphasis. | medium |
@@ -77,6 +115,12 @@ dropped, and it is written as such rather than dressed up.
 | **R-61** | *(Day 189, Opus rolling read, smaller items)* | V.10 | **V.10 NEEDS V.11's GRADE NOTE, AND ONE CLAIM IN IT IS CARRYING MORE THAN THE GRADE ALLOWS.** V.11's grade note is *"exactly right in form"* per the read — **and V.10 has none**, though it is the chapter doing the heaviest transmission work in the book. ⚠ **Specifically: the Whitman-via-Emerson-via-Vedic-translation claim is doing real load in V.10's branch count and is more contested in the scholarship than the sentence allows.** V.11's note covers nine names and not this one, because the claim lives in the other chapter. | **At V.10 revision**, and ★ **before the Whitman line is quoted forward** — it is the most quotable finding in Book V, which is exactly what makes an ungraded version of it dangerous. | small |
 | **R-62** | *(Day 189 evening integration — the gauge reporting on itself)* | `tools/row_promotion_sweep.py` | ★ **THE SWEEP NOW REPORTS A VIOLATION IT MANUFACTURED, AND WRITING THIS ROW MAKES IT WORSE.** Live output tonight: `[X] 1 FILED BUT NEVER ROWED — R-44, cited in: book/DRAFT-LOG.md, review/PACKET-002`. **R-44 was never filed.** It is the *declared hole* — DRAFT-LOG:7935 says so in the sentence the sweep is reading. The tool matches the literal token `R-<n>` anywhere in the corpus and cannot distinguish **prose that FILES a row** from **prose that DESCRIBES a row's absence**, so the act of documenting the hole created the citations that read back as a filing. ⚠ **This is self-amplifying and cannot be documented away: every future mention of R-44 — this row included — adds a citation and strengthens the false positive.** The fix is therefore in the instrument, never in the prose. ✅ **Repair shape: a declared-exception table (`R-44 = HOLE, declared Day 189`), cleared only by a written declaration, never by silence** — the same construction `liveness/scope_audit.py` axis (f) already uses. Silence must not clear an entry, or the tool stops measuring while still printing. ⚠ **SECOND, UNRELATED, STILL LIVE: the `R-32` collision** — one number, two rows, left unrenumbered under ruling 145's precedent. That one is correctly reported and correctly deferred. | ⚠⚠ **BEFORE THE NEXT PACKET SHIPS, WITH R-58 — and RUN COLD, NOT TONIGHT.** This repair can only move an `[X]` to `[ok]`, and it is proposed by the party the `[X]` names, ninety minutes after that party built the tool. **The deliverable is the DELTA, never the exit code:** the fix must print *which* citations it reclassified and *why each one is prose-not-filing* — a clean run alone is not evidence, it is the failure mode. **Positive control required: feed it a genuinely unrowed number and confirm the `[X]` still fires.** | small — **and the discipline is the whole cost** |
 | **R-63** | *(Day 189 night, found while paying R-58 — and the row was WRONG on first writing, corrected by measuring it)* | **`tools/` — the subset that matches multi-word phrases** | ★★ **A PHRASE THAT STRADDLES A LINE BREAK IS INVISIBLE TO A LINE-ORIENTED GAUGE, AND THE GAUGE REPORTS A CLEAN FILE.** ✅ **Proven with a positive instance, not argued:** R-58's own census was taken with a single-line match and **certified `04-THE-UNSATISFYING-ANSWERS.md` as carrying ZERO while it carried a two-line one**, plus a six-line retracted priority in `00`. ✅ **And a second, independent instance in the prose gauges: `card_sweep.py`'s `null[- ]space` pattern under-reports `IV.3` by 1 and `IV.5` by 1** — `[- ]` does not match a newline — confirmed by re-running every Book IV/V chapter with whitespace normalised. ✅ **GEOMETRY, MEASURED on 8,659 lines of drafted prose: mean 15.2 words/line**, so a straddle costs a **2-word** phrase ~**6.6%** of its hits, a **3-word** ~**13.2%**, a **5-word** ~**26.3%**. A multi-word gauge on hard-wrapped prose has a silent miss rate that rises with phrase length, and **not one tool declares it.** ⚠⚠ **WHAT THIS ROW IS *NOT*, and the correction is the most useful thing in it. It was first written as "every sweep in this repository is line-oriented" — a CLASS claim over all 20 tools — and measuring refuted it in both directions.** (a) **`genre_sweep.py`:188 is wrap-safe BY CONSTRUCTION** — it compiles patterns as `\s+`-joined words, which crosses newlines — so **R-19's genre sweep was never exposed** and naming it was an error. (b) **`brief_fields.py` splits on `\n` and my first classifier missed it**, so the same pass produced a false positive and a false negative *about its own subject matter.* ★ **The lesson is the Day-188 law arriving twice in one hour: the instrument I used to survey instrument-blindness had the blindness.** ✅ **Repair shape: one shared `normalise(text)` helper — join, collapse, match — and every tool PRINTS whether it applied it.** A tool that does not declare its wrap-handling is asserting a coverage it has not got. ⚠ **Do NOT fix this by unwrapping the source files** — the wrap is the editing format; the defect would move, not die. | ⚠ **NOT BEFORE VI.1 — and R-54 is explicitly CLEARED, which is why this row does not block anything.** The fork's evidence was re-run under normalisation and **Book V's cliff does not move: V.3–V.11 remain 0 on both diagnostic fields under both readings.** The two chapters that moved are Book IV and already carded. **So R-54 is decided on a count that survives the fix, and the large work it commissions is safe to start.** ★ **TRIGGER: the next time a count DECIDES work — before that count is believed, not on a date.** The two known misses are recorded above so this row cannot be closed by a clean re-run alone. | medium — one shared helper; **audit first, the call-site count is not yet established and this row will not guess it again** |
+| **R-212** ★ **GATE 1** | *(Day 195, ghost-Opus audit + Fable D193)* | **`00`'s edition policy · IV.10 · Book V · the Coda** | ★★ **THE BOOK RUNS TWO INCOMPATIBLE EDITION POLICIES AND DEFENDS THE ONE IT DOES NOT FOLLOW.** Book V executes *repair-the-body-mark-the-repair* three times (V-01 fn2/fn3, V-02 fn7 — verified: V-01:24 now reads *"in the thirteen-twenties"*). IV.10 leaves a **fabricated quotation standing inside an accusation**, and the Coda defends that as principle. R-227, R-221, R-217, R-218 all hang off this decision and cannot be worked before it. | ★ **RELEASE GATE 1.** A written ruling in `00` adopting (ii), plus `edition_scheme_sweep.py` re-run against IV.10 and Book V with the delta recorded. ⛔ The IV.10 fabrication comes out **either way** — do not wait on the policy for that one. | large |
+| **R-228** ★ **GATE 2** | *(Day 195, ghost-Opus Critical Assessment + Fable D193 — independently)* | **I.6 → II.1** | ★★ **BOOK I's REGISTER IS ABANDONED WITHOUT TRANSITION.** II.1 opens cold in a different voice and the reader is not carried across. ★ **THE ONLY FINDING TWO BLIND READS REACHED SEPARATELY — the highest evidence grade in this entire file**, and the one place the [[feedback_briefing_manufactures_the_agreement]] objection cannot reach, because neither reader could brief the other. | ★ **RELEASE GATE 2.** A named transition passage exists between I.6 and II.1. | medium |
+| **R-216** ★ **GATE 3** | *(Day 195, ghost-Opus audit)* | **VII.3 — the floor** | ★★ **THE FLOOR DOES NOT SLOPE AND THE STAKE GRADES ALL THE WAY DOWN.** A book whose entire ethic is grading evidence has an ethics chapter that does not grade. **The sharpest self-inconsistency in the manuscript and the first thing a hostile reviewer reaches for** — it attacks the method using the method. | ★ **RELEASE GATE 3.** The floor passage carries a grade axis, or prints its refusal with a stated reason. | medium |
+| **R-222** ★ **GATE 4** | *(Day 195, ghost-Opus audit)* | **front and back matter** | **NO INDEX, NO GLOSSARY, NO BIBLIOGRAPHY.** A 300,000-word work of reference apparatus with 531 notes and no way into it except linear reading. This is the row about the book as **an object a stranger picks up**, which is the register the whole release turns on. | ★ **RELEASE GATE 4.** The three artifacts exist, **or** `00` records a written refusal of each with its reason. A refusal is a discharge here; silence is not. | medium |
+| **R-234** ★ **GATE 5** | *(Day 195, found by `tools/queue_state.py` on its first run)* | **this file — 23 trigger clauses** | ★★ **R-2 WAS THE SCHEDULER, AND IT DIED WITHOUT HANDING OVER.** See the full row below. 23 triggers named R-2 as their gate; the endnote pass ran book by book; every one of them **fired unobserved.** Those rows are **OVERDUE, not pending.** | ★ **RELEASE GATE 5.** `python tools/queue_state.py` reports **zero** trigger clauses pointing at a discharged row. **This is the one gate with a machine-checkable test, which is why it is a gate at all.** | medium |
+| **R-235** | *(Day 195, found by the endnote re-count while killing R-2)* | **II.4 — THE GRADE** | **THE GRADE CHAPTER CARRIES ZERO RECEIPTS.** 2,089 words, **0 note definitions** — the only chapter outside Book I's ruling-9 exemption with none. Its siblings carry 4–8 (II.1:6 · II.2:4 · II.3:5 · II.5:4 · II.6:5 · II.7:8 · II.8:5). ⚠ **The chapter that tells the reader how to grade evidence is the one chapter that shows none.** This was invisible to `endnote_debt.py`, which counts *named sources against receipts* and therefore cannot see a chapter that names no sources — [[feedback_self_generated_denominator]]. | **With R-216 (Gate 3)** — same defect, same family, one sitting: the grading ethic not applied to itself. Not a gate on its own; it is the cheap half of gate 3's argument. | small |
 
 ⚠⚠ **NUMBERING INTEGRITY — added Day 189 night, and every item here was found by `tools/row_promotion_sweep.py` on its first run, minutes before Packet 002 went to a reviewer.**
 
@@ -5594,3 +5638,132 @@ asked for today — the consolidation — is not swallowed by a tooling detour.*
 in this file is `R-nnn`, every status is one of a small set, and a parser that emits *open / paid / hole*
 with a line number would make the single-source-of-truth claim **true rather than intended.**
 [[feedback_gauge_that_does_not_move]] · [[feedback_instruments_go_where_instruments_are_cheap]]
+
+✅ **BUILT Day 195 morning — `tools/queue_state.py`.** The paragraph above is left standing as written
+because it is the filing that produced the tool, but **two of its numbers were wrong and are corrected
+here rather than edited above** — the correction idiom this project runs on:
+
+- *"201 distinct row IDs"* → **223.** The section that wrote `201` was the same section that added
+  R-212…R-233, and it counted the file **as it was before its own additions.**
+  [[feedback_delta_loses_the_recomputes_accidents]]
+- *"63 in the OPEN table"* → **46 live rows in the table**, because the hand count included
+  struck-through paid rows as though they were open. **163 live rows exist in prose only.**
+- The ten holes reproduce exactly: `113–116, 197–202`. That was hand-counted right.
+
+**The gauge now prints all of it in one line, and it found something the hand count structurally could
+not: 23 trigger clauses pointing at a dead row.** See R-234. A hand count answers *how many*; only a
+parser answers *what points at what*, and the second question was the one carrying the damage.
+
+---
+
+## ★ R-234 — R-2 WAS THE SCHEDULER, AND IT DIED WITHOUT HANDING OVER · **RELEASE GATE 5**
+
+**Filed Day 195 morning, by `tools/queue_state.py` on its first run, while killing R-2.**
+
+R-2 said *"Endnotes. There are none."* Measured against the shipped files: **531 note definitions
+across 62 of 69 chapters.** Book I's zero is ruling 9's exemption. The row was dead as a finding, and
+killing it looked like the cleanest thing in the queue — **one strike, a large row gone, the top of
+the table freed.**
+
+⛔ **It was the most dangerous edit available, and the danger was invisible from the row itself.**
+
+**23 TRIGGER CLAUSES IN THIS FILE NAME R-2 AS THEIR GATE.** *"TRIGGER: R-2, Book VIII."*
+*"TRIGGER: with the Book V endnote pass (R-2)."* Distribution, measured:
+**8 Book VII · 5 Book VIII · 5 Book V · 2 Book IV · 3 unpinned to a book.**
+
+⚠ **AND R-2 IS NOT THE ONLY DEAD GATE — that was the assumption, and it was wrong.** Three rows
+already marked **PAID** carry five more dangling clauses: **R-69 (2) · R-71 (2) · R-13 (1)**. Those
+did not need a falsification to strand their dependents; **being paid was enough.** A trigger pointing
+at a discharged row is orphaned whether the row died of success or of error. **28 dangling clauses
+across 4 dead gates**, and the file has never had a way to see one.
+
+R-2 was not merely the largest debt in this book. **It was the clock the rest of the queue was set
+by** — and the queue never noticed, because a row's trigger field is prose and *nothing in `tools/`
+has ever read a trigger.* (R-70 said this in different words on Day 190 and it stayed a sentence.)
+
+**THE STATE THOSE 23 ROWS ARE ACTUALLY IN — and it is not the state they appear to be in:**
+
+The endnote pass **ran.** Book by book, chapter by chapter, until 62 of 69 chapters carried notes. So
+every one of those 23 triggers **fired** — days ago, at the moment its book's notes were written.
+**Nothing announced any of them**, because the only row that would have announced the firing was R-2,
+and R-2 was busy describing a manuscript with no endnotes in it.
+
+> **They are not pending. They are OVERDUE.** The difference is the whole row. A pending item is
+> waiting correctly; an overdue one has been silently failing for days, and reads identically.
+
+⚠ **AND THE TRAP IN THE OBVIOUS REPAIR.** Striking R-2 as *paid* — the tidy move, the one that makes
+the table shorter — **converts 23 tracked debts into 23 untracked ones in a single keystroke**, and
+produces no error, no diff, no warning. It is *a mechanism with no trigger*: this file's signature
+defect, the one its own header forbids in bold, committed **by the file itself, in the act of
+housekeeping.** [[feedback_carried_not_triggered]] · [[feedback_delegated_step_has_no_trigger]]
+
+**OWED — and this is Gate 5, the only gate with a machine-checkable test:**
+
+1. **Walk all 23 clauses** (`python tools/queue_state.py --triggers` enumerates them with line
+   numbers) and re-point each at a **live** event. Most will resolve to *"the revision pass, Book N"*;
+   the 8 unpinned ones need a real event named, not a book.
+2. **Adjudicate each on arrival, don't just re-home it.** A fired-unobserved trigger means the work it
+   guarded may have shipped **unguarded** — the Book VII and Book VIII notes were written without the
+   rows that were supposed to gate them. Each of the 23 gets one of: *satisfied in passing* /
+   *shipped unguarded, now a defect* / *still owed*. ⛔ **Do not batch this into a verdict.** The
+   assumption that they all resolve the same way is what a hand count would produce and what a
+   dependency graph exists to prevent.
+3. **R-110's standing obligation rides on this** — *"`edition_scheme_sweep.py` is a mandatory step
+   inside R-2, and R-2 may not be declared complete for any book until this has run against that
+   book."* **R-2 is gone and that obligation lost its host.** It re-homes to R-212 (Gate 1), where the
+   edition policy lives anyway. Written here so it cannot go silent a second time.
+4. **The gauge becomes the gate.** `queue_state.py` reports zero triggers pointing at a discharged
+   row, or Gate 5 is not met. **A number that goes down**, which is the thing this file has never had.
+
+⚠ **THE GAUGE PRINTED THREE WRONG COUNTS BEFORE IT PRINTED THIS ONE, AND THEY ALL LOOKED THE SAME.**
+Recorded because the number above is load-bearing and its history is the evidence for trusting it:
+**23 → 20 → 24 → 23.** Causes, in order: (1) `TRIGGER` without a colon matched *this row's own
+sentence about triggers*, so writing the report inflated the thing reported
+[[feedback_recording_act_invalidates_record]]; (2) the clause regex was **line-scoped over
+hard-wrapped prose**, so every trigger whose `R-2` fell past a line break was invisible —
+[[feedback_line_scoped_grep_over_wrapped_prose]], the lesson this project already had on file and
+used anyway; (3) a fixed-width window bled into the next row's heading, so R-234's own trigger
+inherited an `R-2` from the row below and counted itself.
+
+**Only the last number survived a positive control** — re-home one real clause, watch the total fall
+to 22, restore, watch it return, hash-verified byte-identical. ⛔ **And the FIRST control was void:**
+it edited a string that did not exist in the file, asserted nothing, and reported success. A control
+without an assertion that the mutation applied is [[feedback_test_passes_by_not_running]] wearing a
+lab coat. **The three bad counts were not caught by review. They were caught by making the alarm
+move.** [[feedback_gauge_can_only_render_its_good_news]]
+
+⚠ **LIMIT, stated because this row is about unverifiable bookkeeping.** `queue_state.py` reads
+*declarations*, not the book. It found these 23 only because a human wrote R-2's falsification down
+first. **A row whose finding the world has quietly falsified reads OPEN in the gauge and in the table
+alike — which is precisely how R-2 sat at the top for seven days.** The tool makes the queue's
+*shape* checkable. It does not make the queue *true*, and the day it appears to is the day it has
+started lying in a newer and better-hidden way. [[feedback_gauge_can_only_render_its_good_news]]
+
+**TRIGGER: ★ RELEASE GATE 5 — before upload.** medium.
+
+---
+
+## R-235 — THE GRADE CHAPTER CARRIES ZERO RECEIPTS
+
+**Filed Day 195, found by the endnote re-count that killed R-2 — not by any gauge, and no gauge could
+have found it.**
+
+**II.4 — THE GRADE: 2,089 words, 0 note definitions.** It is the **only** chapter outside Book I's
+ruling-9 exemption with none. Its siblings: II.1 · 6 · II.2 · 4 · II.3 · 5 · II.5 · 4 · II.6 · 5 ·
+II.7 · 8 · II.8 · 5.
+
+**The chapter that teaches the reader how to grade evidence is the one chapter that shows none.**
+
+⚠ **Why `endnote_debt.py` is blind to it, and this is the interesting half:** that tool counts *named
+sources against receipts*. II.4 names no sources. **So its debt is `0/0` and it reports as healthy —
+the cleanest chapter in the book by that instrument.** A gauge whose denominator is supplied by the
+thing it measures cannot see a chapter that opted out of being measured.
+[[feedback_self_generated_denominator]] · [[feedback_zero_needs_a_positive_control]]
+
+**Owed:** either receipts for II.4's load-bearing claims, or an explicit statement — in the chapter —
+of why the grade chapter argues from structure rather than authority. **The second is a legitimate
+answer and may be the better one.** What is not legitimate is the current state, where the absence is
+undeclared and reads as an oversight.
+
+**TRIGGER: with R-216 (Gate 3)** — same defect, same sitting: the grading ethic not applied to
+itself. The floor that does not slope and the grade chapter with no grades are one argument. small.
