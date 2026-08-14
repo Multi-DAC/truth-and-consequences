@@ -86,16 +86,16 @@ has irreducible cause-and-effect structure — the amount by which the whole out
 would do apart — and the quantity gets a symbol, Φ, and a procedure for computing it. That is the
 first time anyone made degrees of consciousness a number rather than a manner of speaking. Our
 grades are the same intuition, he had it first, and he made it checkable, which is more than the
-intuition's other holders have managed in two thousand years.
+intuition's other holders have managed in two thousand years.[^1]
 
 He also declined the two exits the position usually takes. In a public exchange with John Searle in
 2013 he and Christof Koch accepted the implication in its least dignified available form: a
 photodiode, a device whose entire repertoire is telling light from no light, has one bit of
-experience. Not as a manner of speaking. And in 2014, when Scott Aaronson built the reductio the
+experience. Not as a manner of speaking.[^2] And in 2014, when Scott Aaronson built the reductio the
 theory had been waiting for — a large grid of XOR gates, a system with no behaviour worth the name,
 which the formalism scores higher than a person — Tononi replied at fourteen pages and did not
-flinch. The grid is conscious. He extended the result to the plain square lattice himself, which
-nobody had asked him to do. Whatever that is, it is not a man trimming his theory to keep it
+flinch. The grid is conscious. Tononi extended the result to the plain square lattice himself, which
+nobody had asked him to do.[^3] Whatever that is, it is not a man trimming his theory to keep it
 respectable.
 
 **And then the theory puts a zero on its own scale.**
@@ -103,7 +103,7 @@ respectable.
 A purely feed-forward network — each layer feeding the next with nothing coming back — scores Φ = 0
 however sophisticated the thing it does. Not a faint grade. None. And the exclusion postulate, which
 is not a patch but a load-bearing part of the formalism, holds that only maxima of Φ exist: your
-consciousness, mine, and nothing in between and nothing containing either.
+consciousness, mine, and nothing in between and nothing containing either.[^4]
 
 That inch is the entire disagreement, and it is worth measuring precisely, because the inch is the
 argument. **A gradient with a zero in it is not a gradient. It is a gate with a slope on one side.**
@@ -163,3 +163,55 @@ grade does not do on its own, and it stops. A measurement confers nothing. What 
 measurement is a separate act, performed by somebody, and a separate act can be looked at. Keeping
 those two apart is the whole content of the rule — which is why it is set down here, in the naming,
 while nothing is at stake, so that it is already standing five books later when everything is.
+
+---
+
+## Notes
+
+[^1]: Giulio Tononi, "An information integration theory of consciousness," *BMC Neuroscience* 5
+(2004), article 42. The credit given above is for three things and not for the theory's truth:
+that consciousness is identified with integrated information, that the quantity is given a symbol
+and a procedure rather than a manner of speaking, and that degrees are therefore *computed* instead
+of intuited. Everything the chapter goes on to refuse is refused at the formalism's own strength.
+The mature statement of the machinery is later and is cited at [^4]; the 2004 paper is credited
+here because priority is the claim being made, and priority belongs to it.
+
+[^2]: Christof Koch and Giulio Tononi, "Can a Photodiode Be Conscious?", *The New York Review of
+Books*, March 7, 2013 — a letter, with a reply by Searle, answering John R. Searle, "Can
+Information Theory Explain Consciousness?", *NYRB*, January 10, 2013, a review of Koch's
+*Consciousness: Confessions of a Romantic Reductionist* (Cambridge, MA: MIT Press, 2012). The
+chapter's paraphrase is deliberately close to their own words, which are: "the IIT implies that
+even a binary photodiode is not completely unconscious, but rather enjoys exactly 1 bit of
+consciousness." Searle's line is the one the chapter is calling the dignified exit and declining to
+take on their behalf: the idea "does not seem to be worth serious consideration." ⚠ The letter is
+Koch's and Tononi's jointly; the body says "he and Christof Koch" because the paragraph is tracking
+Tononi, and the attribution should be read as joint.
+
+[^3]: Scott Aaronson, "Why I Am Not An Integrated Information Theorist (or, The Unconscious
+Expander)," *Shtetl-Optimized*, May 21, 2014; Tononi's answer, "Why Scott should stare at a blank
+wall and reconsider (or, the conscious grid)," fourteen pages, published by Aaronson with his own
+response as "Giulio Tononi and Me: A Phi-nal Exchange," May 30, 2014. Both of the chapter's
+historical claims are in that second post. Tononi affirms the expander grid is conscious and then
+drops the expander condition himself — in Aaronson's summary, "he goes further, and says that the
+'expander' part is superfluous: even a network of XOR gates arranged in a 2D square grid is
+conscious" — which is the extension nobody asked for. ⚠ **Standing of this note:** Tononi's
+fourteen pages are read *through Aaronson's post*, which hosts the document and quotes it at
+length. That is one party publishing the other's reply in full, not an independent witness, and it
+is the weakest receipt in this chapter. It is used anyway because the claim it supports is a claim
+about what Tononi was willing to say, and Aaronson is a hostile party who would not have invented a
+concession that cost him the argument.
+
+[^4]: Masafumi Oizumi, Larissa Albantakis and Giulio Tononi, "From the Phenomenology to the
+Mechanisms of Consciousness: Integrated Information Theory 3.0," *PLOS Computational Biology* 10,
+no. 5 (2014), e1003588. The exclusion postulate is stated there at the level of systems: "Of all
+overlapping sets of elements, only one set can be conscious — the one whose mechanisms specify a
+conceptual structure that is maximally irreducible." That is the sentence the body is measuring an
+inch against, and the "nothing in between and nothing containing either" is its content and not a
+gloss put on it. The zero is stated in the same paper's introduction, in the form that makes the
+chapter's "however sophisticated the thing it does" exact: "there can be true 'zombies' —
+unconscious feed-forward systems that are functionally equivalent to conscious complexes." ⚠ The
+paper does not write Φ = 0 as a declarative sentence about feed-forward systems in that passage;
+the zero is a consequence of the complex-formation machinery, and its worked instance is there —
+elements that "cannot be part of the complex, since they are connected to the rest of the system in
+a strictly feed-forward manner." The body's "scores Φ = 0" is therefore the formalism's result and
+not a quotation, and is marked here rather than softened there.

@@ -283,7 +283,7 @@ see is **VIII.2's**, not this chapter's.
 ⚠ *The retrieved formal statement uses **bottleneck**, a term `05` §3b retired — which is exactly why
 this beat says "in plain words."*
 
-### II.4 — THE GRADE ✅ DRAFTED — 2,048 words
+### II.4 — THE GRADE ✅ DRAFTED — 2,681 words
 **Beats:** reactivity is awareness, stated as a definition and not an argument · the continuum, end to
 end · **a grade is a position, not a permission** · and the honest flag: what a difference in grade
 *does* license is Book VII's, and is not settled here.

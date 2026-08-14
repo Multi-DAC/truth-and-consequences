@@ -95,9 +95,20 @@ EXEMPT_BOOKS = {"I"}
 
 # Books the R-2 retrofit pass has actually been RUN over. This is a DECLARATION,
 # not a measurement, and it is here because the tool could not tell the two zeros
-# apart: II.4 extracts 0 sources and carries 0 notes because the pass ran and the
-# chapter needed nothing, while IV.1 extracts 0 sources and carries 0 notes
-# because nobody has ever looked. Both printed "(none -- chapter is square)".
+# apart: a chapter extracting 0 sources with 0 notes because the pass ran and it
+# needed nothing looks identical to IV.1, which extracted 0 and carried 0 because
+# nobody had ever looked. Both printed "(none -- chapter is square)".
+#
+# ⛔ THE EXAMPLE THIS COMMENT USED TO GIVE FOR THE FIRST CASE WAS II.4, AND IT WAS
+# FALSE. Struck Day 195, R-235. II.4 names Tononi, Koch, Searle and Aaronson,
+# reports a dated public exchange and a fourteen-page reply, and carried no
+# apparatus at all. It extracted 0 because the verb list held only verbs of calm
+# assertion and this chapter's four attributions are all verbs of controversy --
+# see the stems added there. The zero was the gauge's, not the chapter's, and
+# this comment vouched for it in the file that produced it. What makes that worth
+# leaving on the page rather than deleting: the alibi was written by the party it
+# exonerated, in the same pass that added the clause keeping the zero out of the
+# denominator. Two mechanisms, one belief, no independent check on either.
 # Five chapter rows in an untouched book read as CLEAN. Undeclared is not square;
 # it is unmeasured, and it now says so. The declaration is itself checked below
 # against notes on disk, so a book listed here that carries no apparatus raises an
@@ -120,7 +131,22 @@ RETROFITTED_BOOKS = {"II", "III", "IV", "V", "VI", "VII", "VIII"}
 #   Gold, Moon     VI.3:36   metals and planets in the correspondence scheme -- objects
 #   Enlightenment  VII.8:336 a period, not a person
 #   Clayton        VII.8:389 "Clayton's amendment" -- the book's editor, named on purpose
-# 13/13 in classes the LIMIT block below already declares. THE NUMBER IS NOT ZERO AND IS
+# 13/13 in classes the LIMIT block below already declares.
+#
+# DAY 195, R-235 -- the controversy verbs widened the net by six names. Five are real
+# and four of those were already receipted (Cantril VI.5, Iris Murdoch VII.5, Frankfurt
+# VII.7, plus II.4's own Koch/Aaronson/Tononi). ONE IS NOT A PERSON and is recorded
+# here rather than filtered, on this file's standing posture:
+#   Advaita        V.10  "Advaita builds it, Madhyamaka builds it" -- a school. The
+#                  tradition/adjectival rule catches Buddhism, Whorfian and Stoics by
+#                  their English suffixes and has nothing to catch a Sanskrit one by.
+#                  It reads ✓ covered, so it adds no debt; it inflates numerator AND
+#                  denominator by one. Declared. No rule was loosened to hide it, and
+#                  no new rule was written by the party it would exonerate.
+# ⛔ AND THE WIDENING ADDED ZERO NEW DEBT: the eight ⚠ rows are character-for-character
+# what they were before the stems went in. Measured, not assumed -- a widened extractor
+# that quietly indicted four fresh chapters would look exactly like a good one from the
+# summary line alone. THE NUMBER IS NOT ZERO AND IS
 # NOT BEING MADE ZERO: no threshold moved, no name was excluded, the rows still print.
 # What changed is that each has been READ. [[feedback_never_relax_the_gauge_that_caught_you]]
 # IV added Day 192, on the stated condition ("add it when the book closes") and NOT on
@@ -145,9 +171,21 @@ _STEMS = [
     "argu", "writ", "call", "nam", "show", "coin", "observ", "claim", "describ",
     "report", "propos", "remark", "ask", "answer", "term", "phras", "record",
     "demonstrat", "trac", "conclud", "insist", "deni", "distinguish", "quot",
+    # Day 195, R-235. THE VERBS OF A CONTROVERSY, which this list had none of.
+    # Every stem above is a verb of ASSERTION -- an author stating a position on
+    # a blank page. II.4 does not cite anybody that way. It cites four people
+    # ANSWERING EACH OTHER: Aaronson builds a reductio, Tononi replies to it,
+    # Koch and Tononi accept an implication, Tononi extends a result, the theory
+    # declines a sentence. Four real, checkable, dated attributions, and the
+    # extractor scored the chapter 0 because none of them is somebody arguing.
+    # A gauge whose vocabulary only contains the calm case reports the loudest
+    # chapter in the book as empty. See the alibi struck at the accumulator.
+    "repli", "accept", "extend", "declin", "reject", "concede", "admit",
+    "defend", "grant", "predict", "prov", "deriv", "defin", "object",
 ]
 _IRREG = (r"notes?|noted|noting|wrote|written|says?|said|holds?|held|put it|"
-          r"puts it|found|thought|showed|shown|tells?|told|meant")
+          r"puts it|found|thought|showed|shown|tells?|told|meant|"
+          r"builds?|built|takes? it|took it|replied|replies")
 ATTRIB_VERB = "(?:" + "|".join(s + r"(?:e?s|ed|ing)?" for s in _STEMS) + \
               "|" + _IRREG + ")"
 # an auxiliary or adverb may sit between the name and the verb
@@ -633,10 +671,21 @@ def main():
             e[4] += 1
         # A chapter NEEDS apparatus if it cites anybody, or already carries notes,
         # or sits in a book nobody has looked at -- in an undeclared book a zero is
-        # unmeasured, not square. The middle clause is what keeps II.4 (0 sources,
-        # 0 notes, pass ran, needed nothing) out of the denominator: without it the
-        # partial arm reported Book II as 7/8 and indicted the one chapter the
-        # declaration was written to protect.
+        # unmeasured, not square.
+        #
+        # ⛔ THIS CLAUSE WAS ADDED TO SILENCE A TRUE READING. Struck as an excuse
+        # Day 195, R-235, and kept as code because the predicate is still right.
+        # It used to be justified here by naming II.4 as a chapter that had gone
+        # through the pass and needed nothing, and the stated benefit was that
+        # "without it the partial arm reported Book II as 7/8 and indicted the one
+        # chapter the declaration was written to protect." Book II WAS 7/8. The
+        # indictment was correct, the chapter did owe four notes, and the fix went
+        # in on the strength of a zero that the extractor's own verb list had
+        # manufactured -- [[feedback_self_generated_denominator]], with the twist
+        # that the denominator was narrowed BY HAND, in the flattering direction,
+        # to make a red row green. Nothing here re-checked whether the zero was
+        # real. The clause survives on its IV.1 justification alone, which is a
+        # different chapter and a different zero.
         if len(sources) or n_notes or (not exempt and bk not in RETROFITTED_BOOKS):
             e[5] += 1
 

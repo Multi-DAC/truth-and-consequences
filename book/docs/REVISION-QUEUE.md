@@ -120,7 +120,7 @@ line, which is the honest half of it.
 | ~~**R-216**~~ ✅ **PAID Day 195 — GATE 3 MET (ruling 179: the minimum is the binary-grounded obligations; worked case is an ORDER CROSSING no grade-sensitive account can produce; empty-minimum case conceded)** | *(Day 195, ghost-Opus audit)* | **VII.3 — the floor** | ★★ **THE FLOOR DOES NOT SLOPE AND THE STAKE GRADES ALL THE WAY DOWN.** A book whose entire ethic is grading evidence has an ethics chapter that does not grade. **The sharpest self-inconsistency in the manuscript and the first thing a hostile reviewer reaches for** — it attacks the method using the method. | ★ **RELEASE GATE 3.** The floor passage carries a grade axis, or prints its refusal with a stated reason. | medium |
 | ~~**R-222**~~ ✅ **PAID Day 195 — GATE 4 MET (ruling 180: glossary BUILT · works cited BUILT as a regenerating instrument that prints its own 50% recall gap · index REFUSED with a reason and a stated reversal condition)** | *(Day 195, ghost-Opus audit)* | **front and back matter** | **NO INDEX, NO GLOSSARY, NO BIBLIOGRAPHY.** A 300,000-word work of reference apparatus with 531 notes and no way into it except linear reading. This is the row about the book as **an object a stranger picks up**, which is the register the whole release turns on. | ★ **RELEASE GATE 4.** The three artifacts exist, **or** `00` records a written refusal of each with its reason. A refusal is a discharge here; silence is not. | medium |
 | ~~**R-234**~~ ✅ **PAID Day 195 — GATE 5 MET, MACHINE-CHECKED: `queue_state.py` reports ZERO triggers pointing at a discharged row. 32 clauses re-homed and adjudicated one at a time — 11 fired-unobserved, 19 still-owed, 2 satisfied-in-passing** | *(Day 195, found by `tools/queue_state.py` on its first run)* | **this file — 23 trigger clauses** | ★★ **R-2 WAS THE SCHEDULER, AND IT DIED WITHOUT HANDING OVER.** See the full row below. 23 triggers named R-2 as their gate; the endnote pass ran book by book; every one of them **fired unobserved.** Those rows are **OVERDUE, not pending.** | ★ **RELEASE GATE 5.** `python tools/queue_state.py` reports **zero** trigger clauses pointing at a discharged row. **This is the one gate with a machine-checkable test, which is why it is a gate at all.** | medium |
-| **R-235** | *(Day 195, found by the endnote re-count while killing R-2)* | **II.4 — THE GRADE** | **THE GRADE CHAPTER CARRIES ZERO RECEIPTS.** 2,089 words, **0 note definitions** — the only chapter outside Book I's ruling-9 exemption with none. Its siblings carry 4–8 (II.1:6 · II.2:4 · II.3:5 · II.5:4 · II.6:5 · II.7:8 · II.8:5). ⚠ **The chapter that tells the reader how to grade evidence is the one chapter that shows none.** This was invisible to `endnote_debt.py`, which counts *named sources against receipts* and therefore cannot see a chapter that names no sources — [[feedback_self_generated_denominator]]. | **With R-216 (Gate 3)** — same defect, same family, one sitting: the grading ethic not applied to itself. Not a gate on its own; it is the cheap half of gate 3's argument. | small |
+| ~~**R-235**~~ ✅ **PAID Day 195 — and the row's own diagnosis was the larger half of the defect** | *(Day 195, found by the endnote re-count while killing R-2)* | **II.4 — THE GRADE** *+* `tools/endnote_debt.py` | ~~**THE GRADE CHAPTER CARRIES ZERO RECEIPTS.**~~ 2,089 words, **0 note definitions** — the count was exact. Its siblings carry 4–8 (II.1:6 · II.2:4 · II.3:5 · II.5:4 · II.6:5 · II.7:8 · II.8:5). ⚠ **The chapter that tells the reader how to grade evidence was the one chapter that showed none.** ⛔ **BUT THE STATED CAUSE WAS FALSE** — this row read *"invisible to `endnote_debt.py`, which cannot see a chapter that names no sources."* **II.4 names four** (Tononi, Koch, Searle, Aaronson) with a dated exchange and a fourteen-page reply between them. The gauge missed them because **every attribution verb in its stem list is a verb of calm assertion** and II.4's four are verbs of a controversy — *built, replied, accepted, extended, declines.* Then two mechanisms were written to protect the manufactured zero: a source comment vouching that II.4 "needed nothing," and a hand-added denominator clause justified in writing by the fact that without it *"the partial arm reported Book II as 7/8."* **Book II was 7/8; the indictment was right.** [[feedback_self_generated_denominator]] · [[feedback_gauge_can_only_render_its_good_news]] | ✅ **PAID in the order that made it falsifiable:** verbs fixed first and II.4 watched to go **RED** (`0 → 2 sources, 0 covered`) *before* a note was written · widening audited book-wide (6 new names, 0 lost, **0 new debt**, 1 declared false positive `Advaita`) · the prose gap it exposed repaired (Tononi never governed a sentence in his own chapter) · **4 notes written, 2 of them carrying an explicit standing mark** · both alibis struck in place, not deleted. **AFTER: II.4 `3/4/3` square · book `140/153 · 92%` · debt 13, unchanged.** | ~~small~~ **never the small half** |
 
 ⚠⚠ **NUMBERING INTEGRITY — added Day 189 night, and every item here was found by `tools/row_promotion_sweep.py` on its first run, minutes before Packet 002 went to a reviewer.**
 
@@ -6039,18 +6039,70 @@ II.7 · 8 · II.8 · 5.
 
 **The chapter that teaches the reader how to grade evidence is the one chapter that shows none.**
 
-⚠ **Why `endnote_debt.py` is blind to it, and this is the interesting half:** that tool counts *named
-sources against receipts*. II.4 names no sources. **So its debt is `0/0` and it reports as healthy —
-the cleanest chapter in the book by that instrument.** A gauge whose denominator is supplied by the
-thing it measures cannot see a chapter that opted out of being measured.
-[[feedback_self_generated_denominator]] · [[feedback_zero_needs_a_positive_control]]
+⛔ **THIS ROW'S OWN DIAGNOSIS WAS WRONG, and correcting it is what the repair turned out to be.**
+Struck Day 195 afternoon, on re-measuring the premise before starting — the count above (2,089 words,
+0 notes, the sibling spread) is exact and unchanged; **the explanation of it was false in both
+directions.** The row read:
 
-**Owed:** either receipts for II.4's load-bearing claims, or an explicit statement — in the chapter —
-of why the grade chapter argues from structure rather than authority. **The second is a legitimate
-answer and may be the better one.** What is not legitimate is the current state, where the absence is
-undeclared and reads as an oversight.
+> *Why `endnote_debt.py` is blind to it: that tool counts named sources against receipts. II.4 names
+> no sources. So its debt is 0/0 and it reports as healthy.* Filed as "found by no gauge, and no
+> gauge could have found it."
 
-**TRIGGER: the Book VII revision pass, in the sitting that opens II.4's grade chapter.** ⛔ **FIRED UNOBSERVED — SHIPPED UNGUARDED, now a defect.** ⛔ It named the floor row as its gate, that row was **paid Day 195**, and **this one was not paid with it** — the floor got its grade axis and the grade chapter still has no receipts. Same defect, and only one end of it was repaired. The floor that does not slope and the grade chapter with no grades are one argument. small.
+**II.4 names four.** Giulio Tononi, Christof Koch, John Searle and Scott Aaronson — with a dated
+public exchange, a fourteen-page reply and a page-countable concession between them. A gauge *could*
+have found it, and the reason this one did not is specific and fixable: **every attribution verb in
+its stem list is a verb of calm assertion** — argues, writes, claims, observes, concludes. II.4 cites
+nobody that way. Its four attributions are the verbs of a *controversy* — Aaronson **built** a
+reductio, Tononi **replied**, Koch and Tononi **accepted** an implication, Tononi **extended** a
+result, the theory **declines** a sentence. Not one was in the list. The loudest chapter in Book II
+read as empty because the instrument had no vocabulary for people answering each other.
+
+**And then the zero got protected.** Two mechanisms in `endnote_debt.py` were written on the strength
+of that manufactured zero, by the party it exonerated: a source comment vouching that II.4 "extracts
+0 sources and carries 0 notes because the pass ran and the chapter needed nothing," and a clause in
+the needs-apparatus predicate keeping it out of the denominator — justified, in writing, on the
+ground that *without it the partial arm reported Book II as 7/8 and indicted the one chapter the
+declaration was written to protect.* **Book II was 7/8. The indictment was correct.** A denominator
+was narrowed by hand, in the flattering direction, to turn a true red row green, and nothing
+re-checked whether the zero underneath it was real.
+[[feedback_self_generated_denominator]] · [[feedback_zero_needs_a_positive_control]] ·
+[[feedback_gauge_can_only_render_its_good_news]]
+
+✅ **PAID Day 195, in the order that made the fix falsifiable.**
+
+1. **Instrument first, and watched to go RED.** 14 controversy stems + 5 irregulars added. II.4 went
+   `0 sources / square` → `2 sources / 0 covered ⚠ Aaronson, Koch` **before a single note was
+   written** — the fixture built where right and wrong differ, not where they agree.
+   [[feedback_guard_checked_where_both_answers_agree]]
+2. **The widening was audited book-wide, not just where it was wanted.** Six new names, zero lost.
+   Five real (Cantril VI.5 · Iris Murdoch VII.5 · Frankfurt VII.7 · II.4's Koch and Aaronson), four
+   of them already receipted. One false positive — `Advaita` V.10, a school the tradition rule
+   catches by English suffixes and cannot catch in Sanskrit — **declared in the source, not
+   filtered.** The eight ⚠ rows are character-for-character what they were before: **the widening
+   added no new debt anywhere.** Measured, because a widened extractor that quietly indicted four
+   fresh chapters would look identical from the summary line.
+3. **A prose finding fell out of the gap between 2 and 4.** The extractor caught Koch and Aaronson
+   and *not Tononi* — because the chapter's principal source never governs a sentence in it. He
+   appears as a bold fragment (`**Giulio Tononi, 2004.**`) and thereafter as *He*, with his one
+   finite verb sitting subordinate inside Aaronson's clause. Repaired at the sentence that most
+   needed him named: *Tononi extended the result to the plain square lattice himself.*
+4. **Four notes written, at the register II.7 sets** — Tononi 2004 (*BMC Neuroscience* 5:42); the
+   NYRB exchange with the verbatim "enjoys exactly 1 bit of consciousness" against Searle's "does not
+   seem to be worth serious consideration"; Aaronson's May 21 2014 post and Tononi's fourteen-page
+   answer of May 30; and IIT 3.0 (Oizumi/Albantakis/Tononi, *PLOS Comput Biol* 10(5):e1003588) for
+   the exclusion postulate verbatim and the "true 'zombies'" sentence. **Two carry a standing mark
+   rather than a clean citation** — the fourteen pages are read *through Aaronson's own post*, which
+   is one party publishing the other's reply; and IIT 3.0 does not write Φ = 0 declaratively of
+   feed-forward systems, so the body's "scores Φ = 0" is flagged as the formalism's result and not a
+   quotation. The chapter that teaches grading now grades its own receipts on the page.
+5. **The alibi struck where it was written.** Both comments in `endnote_debt.py` corrected in place
+   and kept, not deleted — the false example is left visible under a strike, because a fix that
+   silently converts an honest-looking disclosure into a clean one destroys the only evidence that
+   the mechanism ever misfired.
+
+**MEASURED AFTER:** II.4 `3 sources · 4 notes · 3 covered` — square, honestly this time. Whole book
+`140/153 · 92%`, debt **13**, the same thirteen pre-existing residuals. Volume 311,369w, all four
+carriers re-synced by the gauge. **small — and it was never the small half.**
 
 ---
 
