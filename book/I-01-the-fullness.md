@@ -8,6 +8,21 @@ the leftovers to go if there were any.
 That is the whole claim. Every other page of this book is a consequence of it, and some of those
 consequences are going to cost you things you were fond of.
 
+**And a word about how this first book talks, because it is not how the rest of it talks.** Book I
+asserts. It will hand you six chapters of flat declaration — *this is the case, and this follows* —
+with the ancestors unnamed, the objections unmet, and nothing yet defended. That is deliberate and it
+is not the register of the argument. **It is the register of the report.** There is a thing to be
+described before there is a case to be made, and describing it in the hedged, footnoted, everybody's-
+been-consulted voice of the second book would have produced six chapters of qualification about an
+object the reader had not yet been shown.
+
+**So take Book I as a picture, not a proof, and hold it loosely on purpose.** Every word used here —
+*fullness, focusing, grade, tunnel, still* — is defined again in Book II, where it is given four
+clauses, an ancestor who got part of it right, and a statement of what it forbids. Nothing in this
+first book is asked to survive on its own authority. **It is asked to be clear enough that you can
+tell, later, whether it was paid for.** If a sentence here reads as unearned, that is the correct
+reading of it, and the second book is where the bill comes.
+
 Start with the ocean, because everyone starts with the ocean and it is nearly right. An ocean has a
 shore. The shore is not a failure of the ocean — it is one of the things the ocean is doing, out at
 its edge. Now take the edge away and keep the shore. That is harder, and it is the actual shape: a

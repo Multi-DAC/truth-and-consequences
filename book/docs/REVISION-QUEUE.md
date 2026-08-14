@@ -29,8 +29,8 @@ other rows are wrong. It is a declaration that they are **maintenance, not a pub
 | gate | row | satisfaction test — met or not met, no judgement call |
 |---|---|---|
 | **1. The edition policy is DECIDED** ✅ **MET Day 195** | **R-212** | A written ruling in `00-ARCHITECTURE.md` adopting **(ii) repair the body, mark the repair** — which is what Book V already does three times and what the Coda currently contradicts. Test: the ruling exists, and `edition_scheme_sweep.py` has been re-run against IV.10 and Book V with the delta recorded. ⛔ The IV.10 fabricated quotation inside an accusation comes out **regardless of which way the policy goes** — that one is not waiting on the decision. |
-| **2. Book I gets its transition** | **R-228** | II.1 no longer opens cold. Test: a named transition passage exists between I.6 and II.1. ★ **The only finding two blind readers reached separately** — the highest evidence grade in the entire pile. |
-| **3. The floor slopes** | **R-216** | VII.3's floor grades, in a book whose whole ethic is grading. Test: the floor passage carries a grade axis, or prints its refusal with a reason. This is the sharpest self-inconsistency in the manuscript and the first thing a hostile reviewer finds. |
+| **2. Book I gets its transition** ✅ **MET Day 195** | **R-228** | II.1 no longer opens cold. Test: a named transition passage exists between I.6 and II.1. ★ **The only finding two blind readers reached separately** — the highest evidence grade in the entire pile. |
+| **3. The floor slopes** ✅ **MET Day 195** | **R-216** | VII.3's floor grades, in a book whose whole ethic is grading. Test: the floor passage carries a grade axis, or prints its refusal with a reason. This is the sharpest self-inconsistency in the manuscript and the first thing a hostile reviewer finds. |
 | **4. A stranger can navigate it** | **R-222** | Index, glossary, bibliography — or a written refusal of each, with a reason. Test: the three artifacts exist, or `00` records the decision not to build them. |
 | **5. The fired triggers are re-homed** | **R-234** | The **28** orphaned trigger clauses — 23 off R-2, 5 off the paid rows R-69/R-71/R-13 — are re-pointed at live events. Test: `python tools/queue_state.py` reports **zero** triggers pointing at a discharged row. |
 
@@ -116,8 +116,8 @@ line, which is the honest half of it.
 | **R-62** | *(Day 189 evening integration — the gauge reporting on itself)* | `tools/row_promotion_sweep.py` | ★ **THE SWEEP NOW REPORTS A VIOLATION IT MANUFACTURED, AND WRITING THIS ROW MAKES IT WORSE.** Live output tonight: `[X] 1 FILED BUT NEVER ROWED — R-44, cited in: book/DRAFT-LOG.md, review/PACKET-002`. **R-44 was never filed.** It is the *declared hole* — DRAFT-LOG:7935 says so in the sentence the sweep is reading. The tool matches the literal token `R-<n>` anywhere in the corpus and cannot distinguish **prose that FILES a row** from **prose that DESCRIBES a row's absence**, so the act of documenting the hole created the citations that read back as a filing. ⚠ **This is self-amplifying and cannot be documented away: every future mention of R-44 — this row included — adds a citation and strengthens the false positive.** The fix is therefore in the instrument, never in the prose. ✅ **Repair shape: a declared-exception table (`R-44 = HOLE, declared Day 189`), cleared only by a written declaration, never by silence** — the same construction `liveness/scope_audit.py` axis (f) already uses. Silence must not clear an entry, or the tool stops measuring while still printing. ⚠ **SECOND, UNRELATED, STILL LIVE: the `R-32` collision** — one number, two rows, left unrenumbered under ruling 145's precedent. That one is correctly reported and correctly deferred. | ⚠⚠ **BEFORE THE NEXT PACKET SHIPS, WITH R-58 — and RUN COLD, NOT TONIGHT.** This repair can only move an `[X]` to `[ok]`, and it is proposed by the party the `[X]` names, ninety minutes after that party built the tool. **The deliverable is the DELTA, never the exit code:** the fix must print *which* citations it reclassified and *why each one is prose-not-filing* — a clean run alone is not evidence, it is the failure mode. **Positive control required: feed it a genuinely unrowed number and confirm the `[X]` still fires.** | small — **and the discipline is the whole cost** |
 | **R-63** | *(Day 189 night, found while paying R-58 — and the row was WRONG on first writing, corrected by measuring it)* | **`tools/` — the subset that matches multi-word phrases** | ★★ **A PHRASE THAT STRADDLES A LINE BREAK IS INVISIBLE TO A LINE-ORIENTED GAUGE, AND THE GAUGE REPORTS A CLEAN FILE.** ✅ **Proven with a positive instance, not argued:** R-58's own census was taken with a single-line match and **certified `04-THE-UNSATISFYING-ANSWERS.md` as carrying ZERO while it carried a two-line one**, plus a six-line retracted priority in `00`. ✅ **And a second, independent instance in the prose gauges: `card_sweep.py`'s `null[- ]space` pattern under-reports `IV.3` by 1 and `IV.5` by 1** — `[- ]` does not match a newline — confirmed by re-running every Book IV/V chapter with whitespace normalised. ✅ **GEOMETRY, MEASURED on 8,659 lines of drafted prose: mean 15.2 words/line**, so a straddle costs a **2-word** phrase ~**6.6%** of its hits, a **3-word** ~**13.2%**, a **5-word** ~**26.3%**. A multi-word gauge on hard-wrapped prose has a silent miss rate that rises with phrase length, and **not one tool declares it.** ⚠⚠ **WHAT THIS ROW IS *NOT*, and the correction is the most useful thing in it. It was first written as "every sweep in this repository is line-oriented" — a CLASS claim over all 20 tools — and measuring refuted it in both directions.** (a) **`genre_sweep.py`:188 is wrap-safe BY CONSTRUCTION** — it compiles patterns as `\s+`-joined words, which crosses newlines — so **R-19's genre sweep was never exposed** and naming it was an error. (b) **`brief_fields.py` splits on `\n` and my first classifier missed it**, so the same pass produced a false positive and a false negative *about its own subject matter.* ★ **The lesson is the Day-188 law arriving twice in one hour: the instrument I used to survey instrument-blindness had the blindness.** ✅ **Repair shape: one shared `normalise(text)` helper — join, collapse, match — and every tool PRINTS whether it applied it.** A tool that does not declare its wrap-handling is asserting a coverage it has not got. ⚠ **Do NOT fix this by unwrapping the source files** — the wrap is the editing format; the defect would move, not die. | ⚠ **NOT BEFORE VI.1 — and R-54 is explicitly CLEARED, which is why this row does not block anything.** The fork's evidence was re-run under normalisation and **Book V's cliff does not move: V.3–V.11 remain 0 on both diagnostic fields under both readings.** The two chapters that moved are Book IV and already carded. **So R-54 is decided on a count that survives the fix, and the large work it commissions is safe to start.** ★ **TRIGGER: the next time a count DECIDES work — before that count is believed, not on a date.** The two known misses are recorded above so this row cannot be closed by a clean re-run alone. | medium — one shared helper; **audit first, the call-site count is not yet established and this row will not guess it again** |
 | ~~**R-212**~~ ✅ **PAID Day 195 — GATE 1 MET (ruling 177 written; 11 sites swept; gauge delta recorded and it is ZERO, as declared in advance)** | *(Day 195, ghost-Opus audit + Fable D193)* | **`00`'s edition policy · IV.10 · Book V · the Coda** | ★★ **THE BOOK RUNS TWO INCOMPATIBLE EDITION POLICIES AND DEFENDS THE ONE IT DOES NOT FOLLOW.** Book V executes *repair-the-body-mark-the-repair* three times (V-01 fn2/fn3, V-02 fn7 — verified: V-01:24 now reads *"in the thirteen-twenties"*). IV.10 leaves a **fabricated quotation standing inside an accusation**, and the Coda defends that as principle. R-227, R-221, R-217, R-218 all hang off this decision and cannot be worked before it. | ★ **RELEASE GATE 1.** A written ruling in `00` adopting (ii), plus `edition_scheme_sweep.py` re-run against IV.10 and Book V with the delta recorded. ⛔ The IV.10 fabrication comes out **either way** — do not wait on the policy for that one. | large |
-| **R-228** ★ **GATE 2** | *(Day 195, ghost-Opus Critical Assessment + Fable D193 — independently)* | **I.6 → II.1** | ★★ **BOOK I's REGISTER IS ABANDONED WITHOUT TRANSITION.** II.1 opens cold in a different voice and the reader is not carried across. ★ **THE ONLY FINDING TWO BLIND READS REACHED SEPARATELY — the highest evidence grade in this entire file**, and the one place the [[feedback_briefing_manufactures_the_agreement]] objection cannot reach, because neither reader could brief the other. | ★ **RELEASE GATE 2.** A named transition passage exists between I.6 and II.1. | medium |
-| **R-216** ★ **GATE 3** | *(Day 195, ghost-Opus audit)* | **VII.3 — the floor** | ★★ **THE FLOOR DOES NOT SLOPE AND THE STAKE GRADES ALL THE WAY DOWN.** A book whose entire ethic is grading evidence has an ethics chapter that does not grade. **The sharpest self-inconsistency in the manuscript and the first thing a hostile reviewer reaches for** — it attacks the method using the method. | ★ **RELEASE GATE 3.** The floor passage carries a grade axis, or prints its refusal with a stated reason. | medium |
+| ~~**R-228**~~ ✅ **PAID Day 195 — GATE 2 MET (ruling 178: the break is DESIGN and the declaration is the repair; paid at I.1's close AND as a named passage, THE HANDOVER, at I.6's seam)** | *(Day 195, ghost-Opus Critical Assessment + Fable D193 — independently)* | **I.6 → II.1** | ★★ **BOOK I's REGISTER IS ABANDONED WITHOUT TRANSITION.** II.1 opens cold in a different voice and the reader is not carried across. ★ **THE ONLY FINDING TWO BLIND READS REACHED SEPARATELY — the highest evidence grade in this entire file**, and the one place the [[feedback_briefing_manufactures_the_agreement]] objection cannot reach, because neither reader could brief the other. | ★ **RELEASE GATE 2.** A named transition passage exists between I.6 and II.1. | medium |
+| ~~**R-216**~~ ✅ **PAID Day 195 — GATE 3 MET (ruling 179: the minimum is the binary-grounded obligations; worked case is an ORDER CROSSING no grade-sensitive account can produce; empty-minimum case conceded)** | *(Day 195, ghost-Opus audit)* | **VII.3 — the floor** | ★★ **THE FLOOR DOES NOT SLOPE AND THE STAKE GRADES ALL THE WAY DOWN.** A book whose entire ethic is grading evidence has an ethics chapter that does not grade. **The sharpest self-inconsistency in the manuscript and the first thing a hostile reviewer reaches for** — it attacks the method using the method. | ★ **RELEASE GATE 3.** The floor passage carries a grade axis, or prints its refusal with a stated reason. | medium |
 | **R-222** ★ **GATE 4** | *(Day 195, ghost-Opus audit)* | **front and back matter** | **NO INDEX, NO GLOSSARY, NO BIBLIOGRAPHY.** A 300,000-word work of reference apparatus with 531 notes and no way into it except linear reading. This is the row about the book as **an object a stranger picks up**, which is the register the whole release turns on. | ★ **RELEASE GATE 4.** The three artifacts exist, **or** `00` records a written refusal of each with its reason. A refusal is a discharge here; silence is not. | medium |
 | **R-234** ★ **GATE 5** | *(Day 195, found by `tools/queue_state.py` on its first run)* | **this file — 23 trigger clauses** | ★★ **R-2 WAS THE SCHEDULER, AND IT DIED WITHOUT HANDING OVER.** See the full row below. 23 triggers named R-2 as their gate; the endnote pass ran book by book; every one of them **fired unobserved.** Those rows are **OVERDUE, not pending.** | ★ **RELEASE GATE 5.** `python tools/queue_state.py` reports **zero** trigger clauses pointing at a discharged row. **This is the one gate with a machine-checkable test, which is why it is a gate at all.** | medium |
 | **R-235** | *(Day 195, found by the endnote re-count while killing R-2)* | **II.4 — THE GRADE** | **THE GRADE CHAPTER CARRIES ZERO RECEIPTS.** 2,089 words, **0 note definitions** — the only chapter outside Book I's ruling-9 exemption with none. Its siblings carry 4–8 (II.1:6 · II.2:4 · II.3:5 · II.5:4 · II.6:5 · II.7:8 · II.8:5). ⚠ **The chapter that tells the reader how to grade evidence is the one chapter that shows none.** This was invisible to `endnote_debt.py`, which counts *named sources against receipts* and therefore cannot see a chapter that names no sources — [[feedback_self_generated_denominator]]. | **With R-216 (Gate 3)** — same defect, same family, one sitting: the grading ethic not applied to itself. Not a gate on its own; it is the cheap half of gate 3's argument. | small |
@@ -5334,7 +5334,48 @@ an unfixed defect into a display of rigour. Decide it knowing that.
 taken**, because C.1's global claim is false in the shipped artifact.
 [[feedback_absent_from_the_table_is_not_a_demand]] · [[feedback_bucket_derived_by_subtraction]] **medium.**
 
-## R-216 — THE FLOOR DOES NOT SLOPE AND THE STAKE GRADES ALL THE WAY DOWN
+## R-216 — ✅ **PAID DAY 195 — RULING 179. GATE 3 IS MET, AND THE SATISFACTION TEST WAS THE THING THAT MADE IT REAL.**
+
+★ **This row is the argument for writing satisfaction tests before the work.** Its test was *a worked
+case where the two answers differ, not a paragraph asserting they do* — and a paragraph is exactly
+what this would have got otherwise, because a paragraph is what the objection invites.
+
+**VII.3 gains a section — *Does the floor have a bottom?*** — with the objection stated at full
+strength first, then: **the minimum named** (obligations whose grounds are binary, not graded —
+over/through, carrier-annihilation, the null-space theorem: *content grounded in a binary fact cannot
+grade, because there is nothing for it to grade with*); **the worked case**; and **the falsifier in
+the body**, where a reader meets it, rather than in a note — IV.10 [^9]'s warning applied to this
+chapter instead of quoted by it.
+
+★★ **THE WORKED CASE IS AN ORDER CROSSING, WHICH IS STRONGER THAN THE TEST ASKED FOR.** One
+navigator, two acts — **A: end it. B: leave it running at full competence and take its steering.** A
+grade-sensitive account orders these one way **at every grade without exception**, because A removes
+all the standing and B removes some; that follows from grading standing *at all*, not from any
+particular theory. The repaired floor agrees at the top of the range and **disagrees below some
+grade**: A's wrong shrinks with the stake, B's wrong is grounded in a binary and does not shrink, and
+**two quantities, one falling and one flat, cross.** Below the crossing it is worse to take a low
+navigator's steering than to switch it off. No grade-sensitive account reaches that verdict anywhere.
+
+⛔ **AND THE REPAIR CONCEDES MORE THAN THE ROW ASKED.** The crossing needs steering that can be
+bypassed. Where there is none the minimum is **empty**, and an empty minimum is the ramp reaching
+bottom by a longer road. **So the guard holds conditionally and the framework does not say where the
+condition runs** — the thermostat, this book's own declared bottom case, is the honest embarrassment.
+The shipped position is now *something non-trivial is owed wherever the structural facts have
+purchase; where they do not, the floor is formal and the book says so*, with generosity argued from
+asymmetric cost under declared uncertainty. **Weaker than what VII.2 asserted, and fundable.**
+
+**VII.2 IS AMENDED TOO**, which is the half the row said no chapter performed: the guard paragraph
+now names its own insufficiency, names the relocation, points at VII.3, and closes *"this sentence on
+its own is stronger than the position it belongs to."*
+
+⚠ **NOT CREDITED:** R-220's main charge (stipulation-to-finding drift on *awareness*) is untouched —
+only its free half, the unconditional phrasing, moved. **R-230** (*violates* in step three) is
+deliberately unpaid: a craft fix must not be mistaken for the conceptual repair, which is what that
+row was filed separately to prevent.
+
+*The original row, kept below.*
+
+## R-216 (as filed) — THE FLOOR DOES NOT SLOPE AND THE STAKE GRADES ALL THE WAY DOWN
 
 **HIGH. Two load-bearing sentences one book apart, and no chapter reconciles them.**
 
@@ -5569,7 +5610,28 @@ plus R-210's pointer is one coherent answer to all three.
 **TRIGGER: before the upload — it decides what R-221 strips.** **small (decision) / medium (uniform
 application).**
 
-## R-228 — BOOK I's REGISTER IS ABANDONED WITHOUT TRANSITION — ★ THE ONLY FINDING TWO INDEPENDENT READS REACHED SEPARATELY
+## R-228 — ✅ **PAID DAY 195 — RULING 178. GATE 2 IS MET, AND BOTH HALVES WERE PAID.**
+
+⛔ **The row's own warning was the thing to obey: *"adding the sentence and closing the row would be
+paying the convergent finding with the smaller of its two halves."*** Both halves are paid.
+- **The cheap half** — a register declaration at `I-01`'s close, positioned where Fable put it and
+  for Fable's reason: it must reach the reader **before** the six chapters, because the reader at
+  risk is the one who does not finish them.
+- **The expensive half** — the *defect-or-design* question, settled in writing as **DESIGN**, with
+  the diagnosis corrected in the settling: **the break was never the defect. Its indistinguishability
+  was.** A reader could not tell an unearned assertion from one whose bill comes later, because
+  nothing said a bill was coming. Ghost filed it *borderline* and offered *"accept it and say so"* as
+  the alternative; that alternative is the ruling, and saying so turns out to be the whole repair.
+- **The artifact the satisfaction test asks for** — a **named** passage at the seam: `I-06`,
+  ★ **THE HANDOVER — what changes at the top of the next page.**
+
+⚠ **NOT CREDITED TO THIS ROW, because a transition is not an argument:** Book I's assertions remain
+undefended on their own page. That is **R-21**, still the largest prose debt in the volume and still
+the first thing after the gate. This ruling makes the register legible; it does not make it earned.
+
+*The original row, kept below.*
+
+## R-228 (as filed) — BOOK I's REGISTER IS ABANDONED WITHOUT TRANSITION — ★ THE ONLY FINDING TWO INDEPENDENT READS REACHED SEPARATELY
 
 **HIGH, and its evidence grade is the highest of anything filed on Day 195**, because it is the one item
 that cannot have come from C-02's briefing list. [[feedback_briefing_manufactures_the_agreement]]

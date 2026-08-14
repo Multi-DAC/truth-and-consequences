@@ -95,3 +95,30 @@ And all of it — the still, the vantage, the depth, the world one has and anoth
 across the table who is not you — has been going under words borrowed from smaller things.
 
 They will not hold.
+
+---
+
+### THE HANDOVER — what changes at the top of the next page
+
+This is the seam, and it is announced rather than crossed quietly, because a reader who does not know
+it is coming can reasonably close the book here holding the wrong object.
+
+**What you have just read is a description. What starts on the next page is an argument, and it is a
+different kind of writing.** Book I said *this is the case* six times over and did not stop to defend
+it. There were no ancestors named, no objections met, no cost accounted. That was not confidence and
+it was not an oversight. **A thing has to be shown before it can be argued about**, and the showing
+has a grammar the arguing does not: it goes fast, it uses whatever words are nearest, and it borrows
+from smaller things, which is the sentence directly above this one admitting the price.
+
+**Every word Book I borrowed is now taken back and paid for.** From here on each term gets a
+definition of its own, in clauses, with somebody named who got part of it right and a plain statement
+of what the definition **forbids** — because a definition that forbids nothing is a mood. *Ground.
+Focusing and Render. Perspective. Grade. Tunnel.* Six terms in five chapters, in that order, and
+then three more chapters doing what the definitions make possible rather than adding to them. The
+first term is the one Book I has been leaning on hardest without ever saying what it is.
+
+**So the register change is the method, not a change of heart.** Nothing in Book I is retracted; a
+good deal of it is about to be *narrowed*, which is what it looks like when a picture is made to hold
+weight. If you found the first book too sure of itself, keep the objection — it is a live one, and
+the next six chapters are where it gets answered or does not. **You are owed the arguing. It starts
+now.**

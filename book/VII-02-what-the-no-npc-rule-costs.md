@@ -264,6 +264,14 @@ exists if grade is allowed to touch the existence question. Keep it off that que
 nothing to walk down: no grade, however low, ever reaches zero standing, because the floor is set by
 occupancy and occupancy is not a matter of degree. You are at a position or you are not.
 
+**And that guard is not sufficient by itself, which the next chapter takes up rather than leaving
+here as a boast.** If grade may not touch *whether* something is owed but may run *what* is owed all
+the way toward nothing, the ramp has not been blocked; it has been moved one question over. VII.3
+concedes the point in part, states the minimum content the floor actually carries — the obligations
+whose grounds do not admit of degree — and works a case where that minimum reverses an ordering no
+grade-sensitive account can reverse. It also concedes where the minimum runs out. **Read the two
+chapters together; this sentence on its own is stronger than the position it belongs to.**
+
 The uncomfortable consequence, stated plainly so no one has to find it in a footnote: this framework
 will sometimes tell you that two obligations are not equal. It will not ever tell you that one of
 them is absent.

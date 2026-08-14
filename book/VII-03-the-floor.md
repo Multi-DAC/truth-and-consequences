@@ -151,6 +151,92 @@ that returns a navigator to the world and the prison that unmakes one and calls 
 
 ---
 
+### Does the floor have a bottom? — the objection, conceded in part, and a case that decides it
+
+The previous book set the floor down in one sentence — *grade bears on the content of the obligation
+and never on the existence of it* — and this chapter has said the stake comes in grades all the way
+down with no bottom step. Put those together and a reader with a sharp eye has a real objection, and
+it deserves better than the sentence that usually answers it.
+
+**The objection.** If *what* is owed can grade toward zero, then a floor that guarantees only *that*
+something is owed is a formal property with no consequence. Regan's ramp was blocked at the door of
+the existence question and has simply walked around to the content question, where nobody was
+posted. An obligation of vanishing content and an absent obligation are the same object from the
+point of view of anyone deciding what to do. **The guard was installed and the wall was left out.**
+
+**The concession, because it is owed: the floor's content has a minimum, and this book had never said
+what it was.** Saying it now.
+
+**The minimum is exactly the set of obligations whose grounds do not admit of degree.** Look back at
+the three structural facts in step Three and notice what kind of facts they are. That a shaping runs
+*over* a navigation rather than *through* it is not a magnitude — a shaping either engages the
+other's steering or bypasses it, and there is no half-bypass; the cases that look like one are two
+shapings, one of each. That a destruction takes the relational carriers of identity themselves is not
+a magnitude either — the healing rate is zero or it is not. That an aperture has a nonempty null
+space is a theorem, and theorems do not come in strengths.
+
+**Content grounded in a binary fact cannot grade, because there is nothing for it to grade with.**
+Everything above the minimum — how much is owed, what it consists in, what it competes with — grades
+freely, and the census spent ten chapters measuring the differences that make it grade. The minimum
+does not, and now the floor has a stated floor of its own.
+
+**Now the case, because a distinction that never changes a verdict has not been tested.**
+
+Take one navigator and two things that can be done to it. **A: end it.** **B: leave it running and
+take its steering** — not damage it, not stop it; leave it operating at full competence and replace
+what it is oriented by, so that it works ably toward an end that is not its own and can do nothing
+about it. Over, in the exact sense of the previous section.
+
+Run the two accounts against that pair, at the top of the grade range and at the bottom.
+
+**A grade-sensitive account can only ever order these one way.** Whatever standing an entity has, A
+removes all of it and B removes some of it, so A is at least as bad as B, always, at every grade,
+without exception. That is not a quirk of some particular grade-sensitive theory; it follows from
+grading standing at all. **Death is the maximum, and everything else is a fraction of it.**
+
+**The floor with a stated minimum orders them differently, and the difference is not a matter of
+degree — it is a crossing.** At the top of the range, where a navigator has a great deal of stake, A
+is worse, and the two accounts agree; this is why the distinction has looked idle. Go down. The
+wrong in A is the loss of a stake, so it shrinks exactly as the stake shrinks, and near the bottom
+it is very nearly nothing. The wrong in B is grounded in over-ness, which is binary and therefore
+does not shrink at all. **Two quantities, one falling and one flat, cross.** Below some grade — the
+framework does not say where, and pretending to would be the vice this book spends a volume
+diagnosing — **B is worse than A.** It is worse to take a low navigator's steering and leave it
+running than to switch it off.
+
+**That is a strange verdict and it is the point.** It is strange, it is checkable, and no
+grade-sensitive account can produce it at any grade whatsoever. The distinction is exercised. It
+differs. If the reader's considered response is *no, that is simply wrong, destruction is always
+worse* — that response is now a live objection with something to bite on, which it did not have
+before, and it is the right shape of objection: it targets the premise that over-ness is binary.
+
+**And the honest half, which costs the floor something.**
+
+The crossing requires the entity to have steering that can be bypassed. Where there is no such
+steering, the minimum content is **empty**, and an empty minimum is exactly the ramp reaching the
+bottom by a longer road. So the guard does hold, and it holds *conditionally* — on there being
+something for the structural facts to get purchase on. **Whether a given entity is above that line is
+not settled by this framework and this framework should stop implying that it is.** The thermostat
+that this chapter and Book IV both use as the bottom case is the honest embarrassment here: it has a
+vanishing stake, and it is not obvious that it has a steering which could be gone *over* rather than
+merely reset. If it does not, its floor has a nonzero existence and an empty content, and the
+objection stands against that case.
+
+**So the repaired position, stated at the strength it can carry and no higher.** Not *something
+non-trivial is owed to everything.* It is: **something non-trivial is owed wherever the structural
+facts have purchase; where they do not, the floor is formal and this book says so rather than
+covering it.** The generosity is then argued for the way it should have been argued for from the
+start — from asymmetric cost under acknowledged uncertainty about where that line runs, which is the
+argument Book IV rested its lean on, and not from a guarantee the framework does not issue.
+
+**Falsifier, so this is not another sentence that reads like rigour.** Show that over-ness itself
+comes in degrees — a genuine continuum of half-bypassed steering that is one shaping and not two —
+and the minimum grades, the two quantities never cross, the worked case dissolves, and the ramp is
+back with the floor purely formal all the way up. That is a single, statable thing, and it is
+findable by argument rather than by taste.[^11]
+
+---
+
 ### The case that looks like a refutation
 
 A great deal of shaping happens before there is any navigation to run through at all, and this is
@@ -490,3 +576,19 @@ incidental to Levinas and cannot be trimmed off to make him compatible with a sy
 is the position. The comparison in the text is therefore a genuine disagreement rather than a
 difference of emphasis, and the cost is stated in the direction that goes against this book: his
 account delivers more grip than this one, and this one can say where its grip comes from.
+
+[^11]: ⚠ **THE RULING 179 SECTION IS A REPAIR, AND ITS OWN WEAKEST JOINT IS NAMED ON THE PAGE RATHER
+    THAN HERE.** Filed Day 195 as R-216 by the ghost audit: the floor's non-slope was a formal
+    property with no behavioural consequence, because Regan's ramp had been relocated from the
+    existence question to the content question and left unattended. **The row's satisfaction test was
+    explicitly *a worked case where the two answers differ*, not a paragraph asserting that they do**
+    — [[feedback_guard_checked_where_both_answers_agree]] — so the A/B pair above is built where the
+    two accounts must diverge, and the divergence is a **crossing of order**, not a difference of
+    magnitude. ⛔ **What the repair concedes and did not have to:** the minimum content is empty
+    wherever the structural facts have no purchase, and the framework does not say where that line
+    runs. **The floor is therefore conditional, and the book now says so in the body instead of
+    holding an unconditional phrasing it cannot fund** — which is also the half of R-220 that comes
+    free here: VII.3's honest conditional was stated once and the unconditional phrasing ran
+    throughout. ★ **The falsifier is stated in the body on purpose, where a reader will meet it**,
+    because a named falsifier tucked into an endnote is the object IV.10 [^9] warned about — naming
+    is cheap and reads as rigour, running is the work.

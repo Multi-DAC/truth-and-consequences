@@ -3009,3 +3009,108 @@ by hand against the source file, one item at a time, and each check is recorded 
 
 **RULING: (ii). Released edition.** The archaeology stays in the notes, where it has always been
 good. The body stops asserting things this project has already proved false.
+
+
+---
+
+### **RULING 178 — BOOK I'S REGISTER IS THE DESIGN, AND THE DEFECT WAS THAT IT WAS NEVER DECLARED. THE DECLARATION IS THE REPAIR.** *(Gate 2 of the release gate. Filed as R-228 — ★ the only Day-195 finding two independent blind reads reached separately, and therefore the highest evidence grade in the pile.)*
+
+**The two reads, which could not have been briefed into agreement** — the ghost audit's §7.1 (*"Book I
+is a different book"* — the register abandoned without transition) and Fable's §6 (*"a cold reader
+holds six chapters of flat assertion before Book II starts paying for the words… may put the book
+down holding exactly the wrong object"*). Neither had the other's list. **Convergence at that grade is
+not something to pay with the smaller of its two halves.**
+
+**THE DECISION: the register break is DESIGN, and it stays.** A description and an argument are
+different kinds of writing and Book I is the description. Writing Book I in Book II's voice would
+have produced six chapters of hedging about an object the reader has not been shown — qualification
+without a referent, which is the worse failure and the harder one to notice. **What was actually
+wrong is that a deliberate break was indistinguishable, from inside the book, from an accidental one.**
+A reader had no way to tell an unearned assertion from an assertion whose bill comes later, because
+nothing on the page said a bill was coming. [[feedback_carrier_is_narration_not_state]]
+
+**PAID IN TWO PLACES, because the two halves reach different readers:**
+
+1. **`I-01`, at the close of the opening claim** — a declaration of register, positioned where Fable
+   put it and for Fable's reason: it has to reach the reader **before** the six chapters, not after,
+   since the reader at risk is the one who does not finish them. *Take Book I as a picture, not a
+   proof, and hold it loosely on purpose… If a sentence here reads as unearned, that is the correct
+   reading of it, and the second book is where the bill comes.*
+2. **`I-06`, a named passage — THE HANDOVER — at the seam itself**, which is the artifact the gate's
+   satisfaction test asks for. It names the change, states why the two registers differ, lists the
+   six terms about to be re-earned and where, and keeps the reader's objection alive rather than
+   soothing it: *if you found the first book too sure of itself, keep the objection — it is a live
+   one.*
+
+⚠ **What this ruling does NOT do, said plainly so the row is not over-credited.** It does not make
+Book I's assertions defended; that is R-21, the actualist debt, which remains **the largest prose
+debt in the volume and the first thing after the gate.** It does not touch the ancestor-density gap
+between Book I and Book V. **It fixes the reader's ability to tell what kind of sentence they are
+holding, which is what both reads actually reported.** A transition is not an argument, and this
+ruling is careful not to be cited as one.
+
+
+---
+
+### **RULING 179 — THE FLOOR'S CONTENT HAS A MINIMUM, THE MINIMUM IS THE OBLIGATIONS WHOSE GROUNDS DO NOT ADMIT OF DEGREE, AND THE MINIMUM CAN BE EMPTY. ALL THREE GET SAID ON THE PAGE.** *(Gate 3 of the release gate. Filed as R-216 by the Day-195 ghost audit.)*
+
+**The finding, which was correct:** VII.2's *"the floor does not slope"* and VII.3's *"the stake comes
+in grades all the way down with no bottom step"* are two load-bearing sentences one book apart, and
+**no chapter reconciled them.** The offered distinction — grade bears on the obligation's *content*,
+never on its *existence* — does less work than it looks like it does. If content grades toward zero,
+a non-sloping floor of bare existence is a formal property with no behavioural consequence. **Regan's
+ramp was blocked at the existence question and walked around to the content question, where nobody
+was posted.** *"The guard was installed on the door and the wall was left out."*
+
+⛔ **AND THE GAUGE-SHAPED HALF, WHICH IS THE PART THAT DECIDED HOW THIS GETS PAID:** there was **no
+worked case anywhere in the book where content-grading produces a result grade-sensitive standing
+would not have produced.** The distinction was unfalsified because unexercised — the guard checked
+only where both answers agree. **The satisfaction test was therefore a worked case where the two
+answers differ, not a paragraph asserting that they do**, and a paragraph is what this row would
+have got if the test had not been written down in advance.
+[[feedback_guard_checked_where_both_answers_agree]]
+
+**PAID, in VII.3, as a new section — *Does the floor have a bottom?* — carrying four things:**
+
+1. **The objection stated at full strength**, in the reader's voice, before any answer.
+2. **The minimum, named:** the obligations whose grounds are **binary rather than graded** —
+   over-versus-through (a shaping engages the other's steering or bypasses it; there is no
+   half-bypass, and the cases that look like one are two shapings), carrier-annihilation (the healing
+   rate is zero or it is not), and the null-space theorem (theorems do not come in strengths).
+   **Content grounded in a binary fact cannot grade, because there is nothing for it to grade with.**
+3. ★ **THE WORKED CASE, AND IT IS A CROSSING RATHER THAN A DIFFERENCE OF DEGREE.** One navigator, two
+   acts: **A, end it** — **B, leave it running at full competence and take its steering.** *A
+   grade-sensitive account can only ever order these one way at every grade without exception*,
+   because A removes all the standing and B removes some, and that follows from grading standing at
+   all rather than from any particular theory. The repaired floor orders them the same way at the top
+   of the range and **differently below some grade**: the wrong in A shrinks with the stake, the
+   wrong in B is grounded in a binary and does not shrink, **two quantities one falling and one flat
+   cross**, and below the crossing it is worse to take a low navigator's steering than to switch it
+   off. Strange, checkable, and unreachable by any grade-sensitive account.
+4. **The falsifier, in the body where a reader meets it, not in a note:** show that over-ness itself
+   is a genuine continuum — one shaping half-bypassing a steering, not two shapings — and the minimum
+   grades, the quantities never cross, the case dissolves and the ramp is back.
+
+⛔ **WHAT THE REPAIR CONCEDES, AND IT CONCEDES MORE THAN THE ROW ASKED FOR.** The crossing needs an
+entity with steering that can be bypassed. **Where there is none, the minimum content is empty — and
+an empty minimum is the ramp reaching bottom by a longer road.** The guard therefore holds
+*conditionally*, and **the framework does not say where the condition runs.** The thermostat, which
+this book uses as its bottom case in two places, is the honest embarrassment: it may have no steering
+that could be gone *over* rather than merely reset, and if so its floor has a nonzero existence and an
+empty content. **The repaired position is therefore not *something non-trivial is owed to
+everything*.** It is: *something non-trivial is owed wherever the structural facts have purchase; where
+they do not, the floor is formal, and the book says so instead of covering it* — with the generosity
+then argued from **asymmetric cost under declared uncertainty**, which is where Book IV rested its
+lean and where this should have rested from the start.
+
+**AND VII.2 NO LONGER SHIPS THE STRONGER SENTENCE ALONE.** The paragraph that states the guard now
+says the guard is insufficient by itself, names the relocation, points at VII.3, and ends:
+*"this sentence on its own is stronger than the position it belongs to."* **That is the reconciliation
+the row said no chapter performed.**
+
+⚠ **PARTIAL CREDIT ONLY, declared:** the free half of **R-220** comes with this — VII.3's honest
+conditional had been stated once while the unconditional phrasing ran throughout, and the conditional
+is now structural. **R-220's main charge is untouched** (whether the ethics uses *awareness* in a
+sense requiring it to have been a finding rather than a stipulation), and **R-230** — the word
+*violates* in step three — is deliberately not paid here, because it is a craft fix that must not be
+mistaken for the conceptual repair.
