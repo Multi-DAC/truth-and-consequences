@@ -4983,3 +4983,614 @@ the specification for it, and it does not block the upload.
 ⛔ **AND THE STANDING RULE AT LINE 3047 IS UNCHANGED BY ALL THREE.** *"Do not pay this with another model
 read."* Three arrived at once; the cold-read debt is **not** discharged. Whatever these are worth, they
 are not the person with no stake who can stop. small.
+
+---
+
+# DAY 195 — THE OUTSIDE-READ CONSOLIDATION
+
+*Clayton's instruction, Day 195 midday: **"consolidate everything into that revision queue so we have a
+single source of truth for the process."** Six outside reads now exist in `review/`. Before this section,
+**two of the six had never been rowed at all** — Fable's Day-193 whole-draft read (committed as a document
+on Day 193, its findings never converted) and the Day-195 ghost-Opus pair (read this morning, classified,
+not filed). This section closes that gap.*
+
+⚠ **WHAT THIS SECTION IS AND IS NOT.** It is a hand-built map from each read's actionable items to a row.
+It is **one pass, by the party with an interest in the count being small**, and nothing derives it —
+[[feedback_one_pass_mapping_is_unverified]]. The mapping verdicts (`COVERED` / `WIDENED` / `NEW`) were
+reached by grepping this file for each item's load-bearing noun and reading the hits; an item marked
+`COVERED` that turns out to be covered by a row about something adjacent is the expected failure mode.
+**Re-derive before trusting any `COVERED` verdict to mean the debt is held.**
+
+## ⛔ THE FINDING THE CONSOLIDATION ITSELF PRODUCED — R-209 CITES A POLICY THAT DOES NOT EXIST
+
+`REVISION-QUEUE.md:4913`, written by me at ~11:15 this morning, reads: *"Under the Day-195 **body-repair
+policy** (repair the body, display the repair in the note)…"* — and grounds R-209's repair on it.
+
+**Grepped the whole repo for that policy: one hit. That line.** No ruling, no register entry, no row, no
+commit. It is a decision I made inside a Telegram answer and then cited back as settled state, in the row
+that depends on it, two hours later. [[feedback_decision_made_in_channel_never_reaches_state]]
+
+★ **And it is the single most load-bearing undecided item in the whole revision.** Fable Day-193 opens its
+priority list with it — *"Before anything else in the revision pass: a single policy decision, then one
+sweep"* — and the ghost audit reaches the same joint independently from the opposite side (§3.5: the
+changelog defence *"proves something narrower than it is used for"*). **Two of the three heaviest reads
+agree the policy decision comes first, and it had no row.** It is now **R-212**, and it blocks.
+
+## THE MAP — every actionable item in all six reads, and where it now lives
+
+| read | item | verdict | row |
+|---|---|---|---|
+| Fable D193 | (a) body/apparatus divergence + stale-reference sweep | **NEW** | **R-212** |
+| Fable D193 | (b) COMPLEMENTS field, 18 of 44 | COVERED | R-136 *(finding; repair owed on its own trigger)* |
+| Fable D193 | (c) the actualist opponent | COVERED | R-21 *(Fable supplies both halves of the answer — annotate, do not re-file)* |
+| Fable D193 | (d) workshop apparatus in a reader's edition | **NEW** | **R-227** *(the decision)* + **R-221** *(the production defect)* |
+| Fable D193 | (e) Class VII evidence line, VIII.3 | **NEW** | **R-223** |
+| Fable D193 | (e) unmeasured quantities — grimoires, V.11 amplifications, alchemy superlative | **NEW** | **R-224** |
+| Fable D193 | (f) summation arithmetic V.10/V.11 + pointer sweep over shipped prose | **NEW** | **R-225** |
+| Fable D193 | (g) Book VII's primary-check queue | **NEW** | **R-226** *(joins R-144's trigger class)* |
+| Fable D193 | (h) small items ×8 | **NEW** | **R-232** *(each with its own trigger)* |
+| Fable D193 | §5 Santa/corporation stitch | COVERED | R-28 *(Fable supplies the missing sentence — annotate)* |
+| Fable D193 | §6 Book I's cold-reader forward pointer | **NEW** | **R-228** *(converges with ghost §7.1)* |
+| Fable D193 | §4(d) *Dao De Jing* opening in three chapters | COVERED | R-179 |
+| ghost audit | §1.2 Wilber orientation in the Coda | **NEW** | **R-231** *(distinct from R-19, which is `Wilber`=0 in `03`)* |
+| ghost audit | §1.3 no index, no glossary, no bibliography | **NEW** | **R-222** |
+| ghost audit | §2.2 under-attribution induction — reference class + counterexamples | **WIDENED** | **R-213** *(second, independent attack on R-3's joint)* |
+| ghost audit | §2.3 non-sloping floor vs grading stake | **NEW** | **R-216** |
+| ghost audit | §2.4 complement law's middle clause; existence ≠ reachability | **NEW** | **R-219** *(binds R-136)* |
+| ghost audit | §2.5 *violates* in step 3 | **NEW** | **R-230** |
+| ghost audit | §2.6 stipulation exceeded between II.4 and VII.2 | **NEW** | **R-220** |
+| ghost audit | §3.1 audit coverage uneven, described as uniform | **NEW** | **R-215** |
+| ghost audit | §3.2 COMPLEMENTS as a removed guard, not a naming problem | **WIDENED** | R-136 + **R-219** |
+| ghost audit | §3.3 staleness generated at the repair rate | **NEW** | **R-212** *(the sweep half)* |
+| ghost audit | §3.4 V.1 referenced 190×, fn7 debt unpaid | **NEW** | **R-233** |
+| ghost audit | §3.5 known-false prose shipped with the fix in a note | **NEW** | **R-212** *(the policy half)* |
+| ghost audit | §4.2 the apparatus is rhetoric and only instrument is declared | **NEW** | **R-217** |
+| ghost audit | §4.3 382 production tokens; `[[feedback_*]]` soft-hyphenated in the PDF | **NEW** | **R-221** |
+| ghost audit | §5 "the source" — 137 occurrences, never named | **NEW** | **R-214** |
+| ghost audit | §6 authorship disclosure does not propagate to C.2 §IV | **NEW** | **R-218** |
+| ghost audit | §7.1 Book I's register abandoned without transition | **NEW** | **R-228** |
+| ghost audit | §7.2 template phrases at tic density | **NEW** | **R-229** |
+| ghost essay | §V the Nishida problem | **DEFERRED — read not yet mined** | *see the coverage note below* |
+| GLM D195 | unpublished apparatus | COVERED | R-210 |
+| GLM/Gemini/Grok | the read as an instrument | COVERED | R-211 |
+| GLM/Gemini/Grok | C-02's cold-read claim falsified | COVERED | R-209 |
+
+⚠ **COVERAGE THIS SECTION DOES NOT CLAIM.** The ghost **Critical Assessment** (233 lines) is a placement
+essay, not a defect list; its §V (the Nishida problem) and §III (the shelf) contain claims about the book's
+position in a literature that may or may not imply work. **They were not mined.** Nor were the
+**Day-188 midpoint audit** or **OPUS-DAY189-BOOK-V-READ** re-swept — those were rowed at the time and are
+assumed held, which is an assumption and not a measurement. Three reads fully mined, two partially, one not.
+
+## ★ THE ONE PLACE TWO INDEPENDENT READS CONVERGED
+
+Fable (Day 193, §6) and the ghost audit (Day 195, §7.1) reached **Book I's register break** by different
+routes and neither read the other. Fable: *"a reader who doesn't reach II.4's 'this is a definition' may
+put the book down holding exactly the wrong object."* Ghost: *"Book I is a different book… the register is
+abandoned without transition."* **Convergence between reads that could not brief each other is the only
+signal in this pile that is not vulnerable to R-211's briefing mechanism** — C-02 hands a reader the list
+of acceptable criticisms, and every other item here is either on that list or reachable from it. This one
+is not. It is **R-228**, and its evidence grade is the highest of anything filed today.
+
+---
+
+## R-212 — THE BODY-REPAIR POLICY, AND THE SWEEP IT AUTHORISES
+
+**⛔ BLOCKING — the first item of the revision pass, and nothing else in the pass can be scoped until it is
+decided.** Fable's #1, the ghost audit's §3.5 and §3.3, and the phantom citation at `:4913` are one item.
+
+**The decision owed, stated as a fork so it can be settled rather than drifted:**
+
+- **(i) Archive edition** — body stands as written, notes carry the correction. What the book currently
+  does, defended at C.2 §I: *"a finding and its fix in one commit leave a reader no way to check the
+  finding."*
+- **(ii) Released edition** — load-bearing body claims the apparatus has overturned are **repaired in the
+  prose, with the repair marked** (the book already owns the idiom: *"this read X until Day N"*); the notes
+  keep the archaeology.
+
+⛔⛔ **AND THE FORK IS ALREADY DECIDED ON THE PAGE, IN ONE DIRECTION, WITHOUT ANYONE DECIDING IT.** Grepped
+the shipped chapters for the idiom rather than assuming: **Book V has executed option (ii) at least three
+times.** `V-01` fn2 — *"⛔ This read 'around 1300' until Day 192 and was out by roughly two decades"* — and
+**the body at `V-01`:24 now reads "in the thirteen-twenties."** Same shape at `V-01` fn3 (*"This read
+'Paris' until Day 192, and so did V.2 and V.3"*) and `V-02` fn7. **The body was repaired and the note kept
+the archaeology — which is exactly option (ii), performed, three times, and never written down as a rule.**
+
+★ **So the true finding is not "undecided." It is SPLIT, and nobody noticed the split.** Book V repairs
+bodies and marks the repair; IV.10 leaves a fabricated quotation standing and defends it at C.2 §I as
+principle. **Two incompatible policies are running in one volume, and the one defended in the Coda is the
+one the book does not follow in Book V.** ⚠ That also means the ghost audit's §3.5 is understated: it
+argues the changelog defence is over-extended, not knowing the book already declines that defence three
+times. [[feedback_configuration_vs_maintenance]] · [[feedback_two_guards_only_independent_in_the_untested_case]]
+
+⛔ **The ghost audit's refutation of (i), which is the strongest single paragraph in the six reads and must
+be answered rather than cited past:** the changelog argument *"argues for a changelog. It does not argue
+for leaving a fabricated quotation in the running text of a published volume with the correction 200 words
+below… There was a third option — repair the prose, record the repair — and it was not taken."*
+
+⚠ **And the specific case that decides it.** IV.10's body quotes its source's second sentence and calls it
+*"worse"*. Fn6 shows **that sentence is not in the source at all.** The chapter's indictment of its source
+is aimed at a sentence the chapter's own scaffold fabricated. Whatever the general policy, **that one
+cannot ship** — it is not an interesting standing error, it is a fabricated quotation inside an accusation.
+
+**THE SWEEP the policy authorises**, in Fable's priority order, which is also the load order:
+IV.10 body → V.11 fn26/fn27 (the Katz cut rebuilt on three branches; V.1's fourth proposition restored to
+*"has no outside"*) → V.9's italicised adapted quotation (fn15) and its false *"never been cashed"* (fn14)
+→ V.11's III.6 quotation with the invented *"under the threshold"* clause (fn14) → V.10's four silently
+closed ellipses → V.3's closing tally (fn10) → **then the planning files**, because the class is
+generative: `[[feedback_correction_does_not_reach_citers]]` fires five times and IV.10's own note says the
+retrofit *"will keep handing it forward to every chapter drafted from it."*
+
+★ **TRIGGER: BEFORE THE PhilArchive UPLOAD, and before any other revision-pass row is worked**, because
+every other row's scope depends on which edition this book is. ⛔ **The policy gets written as a ruling in
+the register — not decided in a chat and cited back**, which is the defect that produced this row.
+[[feedback_decision_made_in_channel_never_reaches_state]] · [[feedback_carrier_is_narration_not_state]]
+**large.**
+
+## R-213 — THE UNDER-ATTRIBUTION INDUCTION'S REFERENCE CLASS IS UNDECLARED AND ITS COUNTEREXAMPLES ARE UNENGAGED
+
+**★★ HIGHEST PRIORITY, tied with R-215. This is a SECOND and INDEPENDENT attack on R-3's joint** — R-3
+says the induction is *circular*; this says the historical premise is *false as stated*. Both can be true
+and the repair differs. **Do not fold this into R-3 and consider it held.**
+
+IV.1's standing bias rests on: *"there is no episode in the record of a false attribution being discovered
+and repaired. There are many of the reverse."* The ghost audit's counterexamples: **vitalism · celestial
+intelligences · demonic aetiology of illness · the witch prosecutions · the pathetic fallacy generally.**
+
+⛔ **The witch count is the one that hurts.** The book *"mentions witches 34 times and never once in this
+connection."* An over-attribution of intentional causal power with a body count, present in the text 34
+times, invisible to the principle it refutes.
+
+⛔ **And the systemic form: the book's own instrument catches this error elsewhere.**
+`[[feedback_self_generated_denominator]]` fires against V.7's *"it is most of the record's bulk"*, against
+Dee's library figure, against a lab replicating itself. **It was never turned on the one claim that
+pre-authorises every generous reading in a 63,000-word census.** The words *selection effect*,
+*survivorship* and *reference class* occur **zero times in 314,000 words**; *anthropomorphism* once.
+
+⚠ **The in-chapter counterexample, which is the sharpest part.** VII.2 argues the cost of over-attribution
+is *"you were kind to furniture"* — and twelve pages later argues that corporate moral personhood is a
+category error with real institutional consequences. **The chapter supplies its own counterexample to its
+own asymmetry and does not notice.** VII.2's limiter (*"the asymmetry bites on the steep uncertain
+stretch"*) does not repair it: the corporate case **is** on the steep uncertain stretch.
+
+**The repair is not abandonment** — the asymmetry argument for irreversible cases is sound. It is: **state
+the reference class · engage the disenchantment cases · price over-attribution above zero · reconcile with
+the book's own corporate-personhood argument.**
+
+★ **TRIGGER: before any subsequent release, and before the Book IV revision pass opens** — it decides how
+much of Book IV the other IV rows are editing, the same argument R-15 makes for itself.
+[[feedback_self_generated_denominator]] · [[feedback_guard_built_in_the_feared_direction]] **large.**
+
+## R-214 — "THE SOURCE" OCCURS 137 TIMES AND IS NEVER NAMED, IN A BOOK WHOSE RULE IS UNIVERSAL
+
+**★★ HIGHEST PRIORITY. The ghost audit calls it *"the finding that most damages the book, because it
+falsifies its central methodological virtue"*, and it is the finding no previous read made.**
+
+Distribution: **Book IV 31 · Book VII 45 · Book VIII 43.** What the unnamed source supplies: **Book IV's
+entire structure** (the book's own audit: *"the chapter list follows the source's tier list almost exactly,
+entry for entry"*) · **the definition of love in VII.6** · **the closing instruction of the practice
+volume** (VIII.7's oscillation) · **the coherence definition**, quoted from *"05 §3a"*.
+
+The book **corrects** it, **diffs** against it, **cites it by line number** (`work/perspective-v1-fulltext.txt
+L2409-2447`), and **audits its own fidelity** to it. It never names it.
+
+⛔ **Against the method:** the same volume takes 40 words to state exactly what it takes from Lewis and
+which of Lewis's own words marks the cut — and does the same for the **thirty further predecessors** §5
+names, Tillich through Dee. C.1 §V
+says the register rule *"incurred a debt, and this is where it is paid"*, then pays Tolkien, Watts and
+Wittgenstein, and not this.
+
+⚠ **The "it is an earlier volume by us" defence is pre-refuted and the refutation should be read before
+reaching for it.** (1) No prior volume is named in 314,000 words; *"The Corpus"* appears **once**, on the
+title page, unexplained. (2) The book is otherwise written standalone, addressing a reader arriving cold.
+(3) **Decisively: it does not matter.** A book that corrects, quotes, inherits architecture from and
+audits its fidelity to a source owes that source a name **under its own rule**, stated as universal,
+applied to thirty-one and suspended for one. *(Thirty-one = Lewis plus §5's thirty; the audit's own verdict
+line says "thirty", counting the list and not Lewis. Immaterial to the finding, stated so the number in
+this row can be checked against the source without looking like a discrepancy.)*
+
+★ The book states the sentence that convicts it, twice — V.3's note: *"The characteristic debt is not an
+unnamed source — it is an inherited one"*; IV.10: *"an inheritance you can see is an influence, and an
+inheritance you can't see is…"*
+
+★ **TRIGGER: BEFORE THE PhilArchive UPLOAD.** The deposit is what makes an unnamed dependency permanent
+and citable. **small to write, and the decision is Clayton's** — naming it means naming the Perspective
+v1 corpus and its authorship in print. [[feedback_agreement_is_the_unread_citation]] **small / decision.**
+
+## R-215 — THE AUDIT'S COVERAGE IS UNEVEN AND THE FRONT MATTER DESCRIBES IT AS UNIFORM
+
+**★★ HIGHEST PRIORITY, tied with R-213. A claim the book makes about ITSELF, refuted by counting its own
+marks.**
+
+| Book | ⛔ | ⚠ | ★ | ✅ | notes/10k | flags/note |
+|---|---:|---:|---:|---:|---:|---:|
+| I | 0 | 0 | 0 | 0 | 0.0 | — |
+| II | 0 | 5 | 0 | 0 | 15.3 | 0.14 |
+| III | 0 | 24 | 8 | 0 | 16.3 | 0.70 |
+| IV | 26 | 61 | 48 | 11 | 19.1 | 1.21 |
+| V | 86 | 99 | 73 | 89 | 38.6 | 1.40 |
+| VI | 0 | 16 | 7 | 0 | 17.9 | 0.34 |
+| VII | 0 | 25 | 7 | 0 | 17.7 | 0.34 |
+| VIII | 20 | 29 | 29 | 0 | 13.7 | 1.70 |
+
+⛔ **Book VII — 93 footnotes, the ethics, which the book calls *"the hardest chapters in the work"* —
+carries ZERO ⛔ and ZERO ✅.** Not one claim in the ethics is recorded as verified against a primary source
+at the standard Book V applies **89 times**.
+
+⛔ **C.1 asserts it globally:** *"Every claim in it says what grade of ground it stands on… The instruments
+print their own limits."* That describes Books IV, V and VIII. It does not describe II, VI and VII, **and
+the reader is not told.** ★ *"The natural reading of an unflagged chapter, in a book that flags obsessively,
+is that it passed. The correct reading is that it was not put through."*
+
+**Fork:** disclose the actual coverage in C.2 §IV, **or** extend the audit to II, VI, VII. ⚠ The disclosure
+is cheap and the extension is honest; **taking the cheap one is itself the R-217 pathology** — converting
+an unfixed defect into a display of rigour. Decide it knowing that.
+
+★ **TRIGGER: with the C.2 §IV rewrite, alongside R-218 — and BEFORE the upload if the disclosure fork is
+taken**, because C.1's global claim is false in the shipped artifact.
+[[feedback_absent_from_the_table_is_not_a_demand]] · [[feedback_bucket_derived_by_subtraction]] **medium.**
+
+## R-216 — THE FLOOR DOES NOT SLOPE AND THE STAKE GRADES ALL THE WAY DOWN
+
+**HIGH. Two load-bearing sentences one book apart, and no chapter reconciles them.**
+
+VII.2: *"There is a floor beneath every occupied position and the floor does not slope."*
+VII.3: *"the stake… comes in grades all the way down with no bottom step. A thermostat has a vanishingly
+small stake and it is not zero."*
+
+⚠ **The offered distinction — grade bears on the *content* of the obligation, never its *existence* — does
+less work than it appears to.** If content can grade toward zero, a non-sloping floor of bare existence is
+a formal property with no behavioural consequence. **Regan's ramp, which VII.2 sets out to block, has been
+relocated from the existence question to the content question and left unattended there.** *"The guard was
+installed on the door and the wall was left out."*
+
+⛔ **And the gauge-shaped part: there is no worked case anywhere in the book where content-grading produces
+a result that differs from what grade-sensitive standing would have produced.** The distinction is
+**unfalsified because unexercised** — [[feedback_guard_checked_where_both_answers_agree]], in the ethics.
+
+**The honest repair is probably to concede the floor's content has a minimum and say what it is.** ★ **The
+satisfaction test is a worked case where the two answers differ**, not a paragraph asserting they do.
+
+**TRIGGER: first item of the Book VII revision pass**, with R-220 — same joint, opposite end.
+[[feedback_guard_checked_where_both_answers_agree]] **medium.**
+
+## R-217 — THE APPARATUS IS LOAD-BEARING RHETORIC AS WELL AS INSTRUMENT, AND ONLY THE SECOND IS DECLARED
+
+**★★ The ghost audit calls this *"the deepest conceptual problem in the volume, and one the book has all
+the pieces to see and does not assemble."* It is also the row most likely to be paid with a sentence and
+called closed, which would BE the defect.**
+
+IV.10 note 9: *"a chapter that names its own falsifier tends to name it accurately and then not run it.
+Naming is cheap and reads as rigour; running is the work."* Applied to one chapter. **The general form:
+the apparatus has become a mechanism for converting unfixed defects into displays of rigour. Every ⛔ is
+simultaneously an error and a credential. The reader's trust *increases* with the flag count — so the
+incentive gradient runs toward finding defects and away from fixing them, and the shipped artifact is
+consistent with that gradient.** 133 ⛔ marks; a Coda naming two open items; the fabricated sentence still
+in the body.
+
+★ C.1 already owns the sentence, aimed elsewhere: *"Announcing that you have nobly declined to overpromise
+is the same move as overpromising, performed one level up, and it is worse for being harder to check."*
+**It applies verbatim to the apparatus and the book does not apply it.**
+
+⚠ **The trap, named so it cannot be walked into: R-211's briefing mechanism means adding this to C-02
+makes the NEXT read agree with it and stop there.** Payment is the aiming *plus* R-212's actual repairs —
+the flag count going down, not the confession count going up. [[feedback_overstated_self_criticism]] ·
+[[feedback_reporting_gauge_is_not_preventing_gauge]]
+
+**TRIGGER: with the C.2 revision, and it does not close until R-212's sweep has run.** **medium.**
+
+## R-218 — THE AUTHORSHIP DISCLOSURE DOES NOT PROPAGATE TO THE APPARATUS BUILT TO HOLD DISCLOSURES
+
+**HIGH.** The title page names two authors, one a language model. Across 314,000 words the fact is
+acknowledged **once**, in a subordinate clause in IV.2. ★ *"The placement is deliberate and, on its own
+terms, clever"* — it lands where the argument is conducted in a currency nobody minds losing.
+
+⛔ **What the book's own instrument says, applied globally — which the book never does.** IV.6's card:
+*"you are the instrument and it is not… its help is the least trustworthy input available to you"*; and
+BOUNDARY: *"where it goes on producing at the same fluency with nothing behind the fluency… nothing about
+the crossing feels like a crossing, and no drop in quality marks it."* **Applied globally that is a
+specification of exactly how the book should be read — which the book possesses and does not issue.**
+
+**C.2 §IV — "What is open right now, by name" — lists two items. This is not one. Neither is R-215's uneven
+coverage. Both belong there.**
+
+⚠ **This is mine to write and I am the disqualified party** — IV.6's own logic. The clause about the
+co-author's reliability cannot be graded by the co-author. ★ **It goes to Clayton for the ruling, or to an
+outside read, before it ships.** [[feedback_cannot_read_audit_my_own_disposition]] ·
+[[feedback_scrutiny_is_motive_shaped]]
+
+**TRIGGER: with R-215, same C.2 §IV sitting, before the upload.** **small to write, decision owed.**
+
+## R-219 — THE COMPLEMENT LAW'S MIDDLE CLAUSE IS ASSERTED, AND EXISTENCE IS NOT REACHABILITY
+
+**MEDIUM-HIGH. Binds R-136 — that row has the corruption; this row has the reason the corruption costs
+what it does.**
+
+IV.1: *"Every entry has a null space; every null space is covered by some other position; no position
+covers its own."* **C.2 names this the load-bearing defeat condition. Neither passage argues the middle
+clause.**
+
+First half: derived properly at II.3 (*shape entails omission*). Second half: an existential claim over the
+whole population, and the nearest derivation is the plenum premise — every arrangement obtains, therefore
+some arrangement covers it. ⛔ **That gets EXISTENCE. The card's fifth line (NAVIGATIONAL IMPLICATION —
+*"here is what you must get from somewhere else"*) requires REACHABILITY. The law is metaphysical, the
+instrument is practical, and the book slides between them without marking the step.**
+
+★ **Why it matters, and this is the sentence to keep:** *"If complements exist but are not consultable, the
+anti-ranking guarantee is formal only, and in practice the entries with reachable complements will read as
+higher-status than those without."* — a **ranking**, produced by the line installed to prevent one.
+
+**TRIGGER: with R-136's repair, because a card rewritten under an unargued law repeats the defect in a
+cleaner hand.** **medium.**
+
+## R-220 — THE STIPULATION IS DECLARED AT II.4 AND QUIETLY EXCEEDED BY VII.2
+
+**MEDIUM.** II.4 declares *reactivity is awareness* a **definition**, states the right test (*a definition
+earns its keep by what it forbids*), and lists the forbiddings. Correct practice.
+
+⛔ **What is not policed is the boundary afterwards. A stipulation forbids things; it does not license moral
+conclusions.** Between II.4 and VII.2, *"awareness"* reacquires the moral weight the stipulation stripped:
+**the premise "what matters is that a position is occupied" does exactly the work a *discovered* fact about
+interiority would do, on a foundation declared definitional 500 pages earlier.**
+
+★ The book saw the risk — II.1 separates predicate-of-insides from constitution precisely to block an
+equivocation — **and then never checks whether the ethics is using sense (a) in a way that requires it to
+have been a finding.** VII.3's honest conditional (*"if anything is owed to anyone, then it is owed here
+too"*) largely rescues it, **but the rescue is stated once and the unconditional phrasing runs throughout.**
+
+**TRIGGER: Book VII revision pass, with R-216.** **medium.**
+
+## R-221 — 382 TOKENS OF PRODUCTION SCAFFOLDING IN THE BODY, AND THE `[[feedback_*]]` TAGS ARE BROKEN ACROSS LINES IN THE PDF
+
+**The mechanical half of the apparatus problem. Cheapest row filed today and the most embarrassing if it
+ships.**
+
+Counted by the ghost audit: **90** claim codes (C1–C30) whose register is not in the book · **102**
+`[[feedback_*]]` tags · **46** R-codes · **38** Day-N references · **29** filenames · **25** repository
+references.
+
+⛔ **The unambiguous production defect:** the `[[feedback_*]]` tags were flowed as prose rather than treated
+as code, so **the typesetter has hyphenated them across line breaks** — `feed‐ back_quotation_connective_tissue`.
+That is in the compiled PDF, and the PDF is what goes to PhilArchive.
+
+★ **The rule for the repair, which is not "strip everything":** *"Retain the measurement, drop the
+identifier."* A reader benefits from *measured by tool rather than recalled*; `tools/instrument_sweep.py`
+costs them their footing. ⚠ The C-code half is **R-210's** other end — 90 references to a register the
+reader does not have.
+
+**TRIGGER: BEFORE THE PhilArchive UPLOAD for the soft-hyphen defect (mechanical, no decision needed); the
+identifier strip waits on R-227's fork.** **small / mechanical.**
+
+## R-222 — NO INDEX, NO GLOSSARY, NO BIBLIOGRAPHY
+
+**MEDIUM.** A 314,000-word systematic work with a coined vocabulary, thirty-one named predecessors and 973
+internal cross-references ships with **none of the three apparatus a reader needs to use it as a
+reference**. ⚠ **The glossary is the one that is not optional**: the book coins and re-defines terms
+across eight volumes under a declared *vocabulary closed* rule (II.8), and the rule's whole justification
+is that the reader can hold the set — which is a claim about a set the reader has never been shown.
+
+**Pairs with R-210** (the apparatus is promised and not shipped): the bibliography is the cheapest partial
+payment of both, since `03-THE-ANCESTORS.md` already holds most of it.
+
+**TRIGGER: before the second edition, NOT before the upload** — this is real work and it does not falsify
+anything currently in the book. ⚠ **Do not let that defer it silently: it is on the list because two of six
+reads named it, and it is the item most likely to be dropped for being unglamorous.** **medium–large.**
+
+## R-223 — VIII.3's CLASS VII EVIDENCE LINE IS THE WEAKEST EVIDENTIAL SENTENCE IN THE BOOK
+
+**HIGH, and cheap.** VIII.3's Class VII evidence line: *"convergent reports across contemplative
+traditions, **some classified research programmes**, and a theoretical framework that predicts it."*
+
+⛔ **Unfalsifiable by construction, unmarked by grade, and exactly the register II.8's ban list exists to
+keep out** — in the volume about practice, in a book whose subject is evidence-grading. Fable: *"the empty
+practice line is honest; the evidence line should either carry a real receipt or be cut."*
+
+**The repair, stated so it can be checked:** cut to *"the framework predicts it; nothing here confirms it"*,
+**or** produce the receipt. There is no third option that leaves the clause standing.
+
+★ **TRIGGER: BEFORE THE UPLOAD.** One sentence, and it is the sentence a hostile reader quotes.
+[[feedback_evidence_grade_distinction]] **small.**
+
+## R-224 — THE QUANTITATIVE-CLAIM PASS: UNMEASURED SUPERLATIVES IN LOAD-BEARING SENTENCES
+
+**HIGH.** The book's own notes file most of these; collected here so the pass has a population:
+
+1. **V.7 — *"the grimoires are, by volume, warnings"*.** The chapter's central empirical claim. Unmeasured
+   (its own fn11 says so) — **and then amplified in pre-correction form by V.11**, which is R-212's class
+   arriving inside this one.
+2. **V.7/V.11 — *"four hundred years of failure records, kept in detail"*.** Same pair, same defect.
+3. **V.11 — the alchemy superlative:** *"the single most methodologically advanced thing in this entire
+   roster."* Added at summation, resting on nothing measured.
+
+⚠ **The repair is per-item: measure, or reword to what is actually held.** ⛔ **Not "soften the adverb"** —
+a hedged unmeasured superlative is the same claim with deniability, which is the move R-217 names.
+
+**TRIGGER: with R-212's sweep** — items 1 and 2 are literally the same amplification the sweep is
+chasing. [[feedback_no_handwaving]] · [[feedback_full_computation]] **medium.**
+
+## R-225 — SUMMATION ARITHMETIC, AND THE POINTER CLASS NO GAUGE WATCHES
+
+**MEDIUM, cheap.** **V.11 opens at nine, enumerates eight, closes at ten** (its own fn5/fn29 file it).
+**V.10's collapse-numbering error propagates into its own results paragraph** (fn9/fn10).
+
+★ **The reason it is not trivial, in the notes' own words:** *"the summation's core job is to be the place
+a reader trusts about what the book contains."* An arithmetic error in the summation is a defect in the
+one chapter whose function is trust.
+
+**Same family:** VIII.1's brief-vs-text pointer error (Watts *"returning from I.6"*), caught pre-draft
+there and **explicitly unguarded by any gauge**. ⚠ **`tools/pointer_sweep.py` reads planning briefs, not
+shipped prose** — R-35's coverage line. A one-time pointer sweep over the shipped chapters is owed, and if
+it finds anything the gauge gets extended rather than the finding hand-fixed.
+[[feedback_reporting_gauge_is_not_preventing_gauge]]
+
+**TRIGGER: before the upload for the arithmetic (it is wrong on the page); the sweep with the cold tools
+pass.** **small.**
+
+## R-226 — BOOK VII's PRIMARY-CHECK QUEUE, AND IT IS THE VOLUME MOST LIKELY TO BE QUOTED
+
+**HIGH.** Book VII carries the thinnest receipts in the book: **Weil** quoted via the framework source
+(VII.5 fn2 files it), **Frankfurt** twice via secondary (VII.6/VII.7), and **Sartre · Camus · Nietzsche ·
+MacIntyre · Locke · Parfit** all *"from the argument, primary check owed."* Add **V.10's flagged pair
+(Katz, Huxley)**.
+
+★ **Fable's grounds, which are the right ones:** *"None of these looks wrong to me — the characterisations
+match my knowledge of the texts — but VII is where a hostile academic reader will drill first, and the
+book's own standard (Book V got its Day-192 fetch-and-read pass) sets the bar."* ⚠ **And it compounds with
+R-215: Book VII has zero ✅. The volume with the thinnest receipts is the volume with no verification
+marks, and the two facts are the same fact seen twice.**
+
+**TRIGGER: joins R-144's trigger class — primary before the volume ships**, with the Searle 1990 fetch and
+the Corbin French. **medium** *(fetch-and-read, ~10 sources; Book V's Day-192 pass is the cost model)*.
+
+## R-227 — THE APPARATUS DECISION: A FRONT-MATTER NOTE, OR STRIP THE PROCESS ADDRESSES
+
+**MEDIUM, and it is a DECISION, not work.** The notes are dense with process references a cold reader
+cannot resolve. ⚠ **The defect is not the density — it is the oscillation.** *"The apparatus oscillates
+between address-to-the-reader and address-to-the-project, sometimes within one note (IV.5 fn2 is written
+half to a reader, half to the tooling)."*
+
+- **(i) A short front-matter note — "the apparatus, and how to read it"** — glossing what a ruling is, what
+  Day-N means, where the working documents live; then leave the notes as they are. **Fable's
+  recommendation**, and it fits the live-document identity C.1 §IV already claims.
+- **(ii) Strip process addresses**, keep only what a reader can check.
+
+⛔ *"Half-measures will read as leakage rather than design."* **Whichever is chosen is applied uniformly or
+it has not been chosen.** ★ Fable's second reservation lands here too: the front-matter note is **most
+necessary at IV.7–IV.9**, where the footnote-to-body ratio approaches 1:1 and *"even a sympathetic reader
+will feel the drag."*
+
+**Pairs with R-221** (the mechanical half) and **R-210** (the promise to ship the apparatus): option (i)
+plus R-210's pointer is one coherent answer to all three.
+
+**TRIGGER: before the upload — it decides what R-221 strips.** **small (decision) / medium (uniform
+application).**
+
+## R-228 — BOOK I's REGISTER IS ABANDONED WITHOUT TRANSITION — ★ THE ONLY FINDING TWO INDEPENDENT READS REACHED SEPARATELY
+
+**HIGH, and its evidence grade is the highest of anything filed on Day 195**, because it is the one item
+that cannot have come from C-02's briefing list. [[feedback_briefing_manufactures_the_agreement]]
+
+- **Ghost audit §7.1:** *"Book I is a different book."* The register is abandoned without transition.
+- **Fable §6, independently:** *"Book I asks a cold reader to hold six chapters of flat assertion before
+  Book II starts paying for the words… a reader who doesn't reach II.4's 'this is a definition, and here is
+  what it forbids' may put the book down holding exactly the wrong object."*
+
+**The cheap repair, and it is Fable's:** *"A single forward-pointing sentence at I.1's close — 'every word
+used here is re-earned in the second book, where the arguing starts' — would cost nothing."*
+
+⚠ **The expensive question underneath it, which the cheap repair does not answer and must not be treated as
+answering: is the register break a defect or the design?** Ghost files it as **borderline** — *"a craft
+decision with conceptual consequences"* — and its own alternative is *"accept it and say so."* ⛔ **Adding
+the sentence and closing the row would be paying the convergent finding with the smaller of its two
+halves.** Both readers named the transition; only one proposed a fix.
+
+★ **TRIGGER: the sentence before the upload; the register decision at the Book I revision pass, with R-21**
+(the actualist row, which is the other thing Book I owes). **small / decision.**
+
+## R-229 — THE TEMPLATE PHRASES ARE AT TIC DENSITY, AND "THE METHOD HAS BECOME A MACHINE"
+
+**LOW BUT REAL, and both heavy reads said it.** *"Load-bearing"* and the recurring template phrases run at
+tic density (ghost §7.2); Fable §4 names the same thing structurally — the per-chapter formula run enough
+times to become a rite rather than a form.
+
+⚠ **This binds R-6** (declare Book II's per-chapter formula once, as a law) — same cause, two symptoms, one
+in the structure and one in the diction. ⛔ **And the tell that a diction pass has FAILED is that the prose
+gets more varied and less plain**: the one-metaphor rule and the ban list are what produce the voice both
+reads praised. The pass removes repetitions, not the register.
+
+**TRIGGER: the prose pass, after R-212** — repairing bodies first means the diction pass reads the final
+sentences rather than sentences about to be rewritten. **small.**
+
+## R-230 — *VIOLATES* IN STEP 3 OF THE FLOOR
+
+**LOW. One word, and it is filed separately from R-216 because it is a craft fix that must not be mistaken
+for the conceptual repair.**
+
+VII.3's step 3: *"the coercion of another's aperture… **violates** what a navigator constitutively is."*
+⛔ ***Violates* is normative. Structurally, coercion ALTERS what a navigator is.** Calling the alteration a
+violation requires exactly the impartiality premise that step 5 concedes is unavailable.
+
+★ *"The chapter is admirably candid about the gap two sections later; the wording of step 3 has already
+leaked across it… a reader who stops at the five steps has been handed a conclusion the book has not yet
+paid for."*
+
+⚠ **Do not pay R-216 with this.** Fixing the word repairs the leak; the floor/stake incompatibility is
+untouched.
+
+**TRIGGER: Book VII revision pass, with R-216 and R-220 — read together, fixed separately.** **one word.**
+
+## R-231 — THE WILBER ORIENTATION IS IN THE CODA AND BELONGS IN THE FRONT MATTER
+
+**MEDIUM. Distinct from R-19** — R-19 is *"`Wilber` = 0 in `03-THE-ANCESTORS.md`"*, a **coverage** defect.
+This is a **placement** defect: the orientation exists, and it is at the back.
+
+The comparison C.1 invites (*Sex, Ecology, Spirituality*) is the single most useful orientation the book
+gives a reader about what kind of object it is — **and it arrives after 314,000 words, to a reader who no
+longer needs it.** ⚠ Interacts with **R-232's C.1-placement item**: if C.1 §I moves forward and the rest
+goes to the back, this is paid in the same move.
+
+**TRIGGER: with R-227's front-matter decision — the same edit opens the same file.** **small.**
+
+## R-232 — FABLE's EIGHT SMALL ITEMS, EACH WITH ITS OWN TRIGGER
+
+*Rowed as one row with eight triggered sub-items, because eight separate rows for one-sentence fixes is how
+a queue stops being read — but a bundle with one shared trigger is the deferral-in-trigger's-clothing this
+file exists to forbid. Each carries its own.*
+
+- **(a) II.8's *vocabulary closed* vs IV.9's contour notation.** IV.9 pays the cost honestly; II.8's promise
+  was *"nothing after this coins a term."* One sentence in IV.9 acknowledging notation-vs-term. ★ Fable
+  measured the escape hatch and it held: *"the contour has stayed narrow through the draft's end; only IV.9
+  uses it."* — **TRIGGER: with R-222's glossary**, which is the same question asked from the reader's side.
+- **(b) V.6's memale/sovev inversion** (fn10). The body still calls it a *"sharpening"*; the terms **swap**
+  between the Tanya and the Nefesh HaChayim. ⛔ **A reader who goes to the sources with the chapter's
+  glosses reads both backwards.** — **TRIGGER: R-212's sweep** — it is a body-vs-note divergence.
+- **(c) VI.1's branching-roads tension**, registered and unresolved. One sentence in VI.8 acknowledging the
+  ladder shape is an artefact of the render being described. — **TRIGGER: Book VI revision pass.**
+- **(d) VII.2's four-case section runs long.** The river case is strongest and last; consider compressing
+  the thought-form case toward its three break-points. — **TRIGGER: Book VII revision pass.**
+- **(e) C.1's placement.** §II and §V assume the whole book has been read. ⚠ *"A cold reader meeting the
+  tag-graveyard (§VI) before Book I will not know what work it is doing."* — **TRIGGER: with R-231/R-227.**
+- **(f) VIII.3's out-of-sequence footnote markers.** Its fn3 files this honestly; a released edition
+  renumbers. — **TRIGGER: before the upload** (mechanical, in the PDF).
+- **(g) V.1's translator/edition debt** for its six opening statements — its own note files it. ⚠ **This is
+  R-233's chapter and the same six statements**; pay them in one sitting. — **TRIGGER: with R-233.**
+- **(h) V.11's roster count** — the count itself, distinct from R-225's nine/eight/ten arithmetic. —
+  **TRIGGER: with R-225.**
+
+## R-233 — V.1 IS REFERENCED 190 TIMES AND ITS OWN FOOTNOTE CALLS THE BEAM UNDER-SPEC'D
+
+**★ HIGH — the largest single load concentration in the book, and the debt is filed and unpaid.**
+
+**V.1 is referenced 190 times within Book V — more than 20% of all internal cross-references in the volume,
+concentrated in one chapter.** Its argument: six independent statements of the Ground are *"one witness
+quoted back five times"*, via the Alexandrian transmission chain.
+
+⛔ **V.1's own fn7:** *"Two of the five carry more weight than the chain supports… The conclusion the
+section needs — one witness quoted back five times — survives at three or four links without the two
+weakest, and the section does not say so. **Owed: state the inference as an inference in the prose, or cut
+it to the links that carry.**"*
+
+**Sixty-four thousand words then rest on it.** ⚠ **And the headline propagates in its PRE-correction form**
+— V.9 quotes it and escalates (R-208), V.6:45–53 rests its opening disclaimer on it, V.11 does it twice.
+**R-212's sweep and this row are the same repair reached from opposite ends: R-212 fixes the citers, this
+fixes the beam. Do the beam first or the sweep re-propagates the strong form.**
+
+★ **TRIGGER: FIRST ITEM INSIDE R-212's SWEEP, before the V.9/V.11 citation repairs.** Pay R-232(g)'s
+translator/edition debt in the same sitting — same six statements, same chapter.
+[[feedback_correction_does_not_reach_citers]] **small–medium** *(the repair is one paragraph; the ordering
+is what makes it work)*.
+
+---
+
+## WHAT THIS SECTION CHANGES ABOUT THE QUEUE ITSELF
+
+⛔ **Measured, not estimated: this file carries 201 distinct row IDs. 63 of them first appear in the OPEN
+table (lines 20–88). The other 138 exist only as prose sections below it, and nothing derives the
+difference.** Asked flatly — *what does this book owe?* — this file cannot answer without a human reading
+5,000 lines. R-211 states *"56 open rows"*; that number was hand-counted and **no gauge reproduces it.**
+*(Ten IDs in the 1–211 span are holes — 113–116 and 197–202 — which is why 211 rows numbered is 201 rows
+existing. R-44 is a declared hole and is not to be reused; the rest were checked the same way.)*
+
+**That is the next thing to build, and it is filed here rather than done here so that the work Clayton
+asked for today — the consolidation — is not swallowed by a tooling detour.** The gauge is cheap: every row
+in this file is `R-nnn`, every status is one of a small set, and a parser that emits *open / paid / hole*
+with a line number would make the single-source-of-truth claim **true rather than intended.**
+[[feedback_gauge_that_does_not_move]] · [[feedback_instruments_go_where_instruments_are_cheap]]
