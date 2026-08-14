@@ -64,7 +64,7 @@ never explains itself again.*
 **Ancestor, unnamed on the page and acknowledged in the coda:** Tolkien's *Ainulindalë* (13 files —
 the structural model is already in the corpus).
 
-### I.1 — THE FULLNESS ✅ DRAFTED — 1,002 words
+### I.1 — THE FULLNESS ✅ DRAFTED — 1,222 words
 **Thesis:** what there is, before there is a before.
 **Beats:**
 1. The opening sentence is Clayton's: *a complete totality must within it admit an aspect of
@@ -124,7 +124,7 @@ the structural model is already in the corpus).
    featureless *from nowhere*, and there is no nowhere. There are only insides. **(Trap 4 — Clayton's
    own objection, and the strongest attack on our axiom, answered in the register where it was raised.)**
 
-### I.6 — THE RECOGNITION ✅ DRAFTED — 1,048 words
+### I.6 — THE RECOGNITION ✅ DRAFTED — 1,374 words
 *(★ RETITLED Day 187, drafting. Was **THE RETURN**, under the standing instruction seven lines below
 — which said retitle rather than bend the doctrine, and the doctrine did not bend. A return is a
 journey back to somewhere; every load-bearing sentence in this chapter says there is nowhere to go
@@ -1088,7 +1088,7 @@ vocabulary and in the game register**, neither of which exists in the source.*
 `Research/Corpus-Perspectival/ecology-of-perspectival-beings-merged.md` (25,541w — **Tiers 1–4, measured**) ·
 `Perspective` 04-the-ecology · `ecology_collective_expansion.md` · `atlas-staging/atlas_entries_*.md`.
 
-### IV.1 — THE CENSUS AND ITS METHOD ✅ DRAFTED — 3,247 words
+### IV.1 — THE CENSUS AND ITS METHOD ✅ DRAFTED — 3,890 words
 **Beats:** what a five-line card is — what it sees, its null space, what complements it, its boundary,
 its navigational implication · why a catalogue and not a taxonomy: no gates · **the under-attribution
 principle**, stated as the book's standing bias: where the evidence is thin, we have historically
@@ -1562,7 +1562,7 @@ flatness flag is now two chapters clear.** `meta_textual` **2.46**, the Book IV 
 the Book IV low. `vague_allusion` **0.0**. `named_ref` **17.59/1k**, the Book IV high, which is what a
 chapter that reads two primary texts in two languages should look like.
 
-### IV.10 — WHAT THE CENSUS CANNOT SEE ✅ DRAFTED — 8,737 words
+### IV.10 — WHAT THE CENSUS CANNOT SEE ✅ DRAFTED — 9,078 words
 **Beats:** the atlas's own null space, traced as far as an atlas can trace its own blindness · the
 cryptids and boundary entities, and why they are a *methodological* chapter «rather than a credulous one» ·
 why the catalogue is permanently open · «the handoff to the CODA's» living-book claim.
@@ -2268,7 +2268,7 @@ DISCRIMINATION** — named things, a specific stopping point, an exact objection
 consequence of it rather than a target. *(The brief got longer. That is a side effect and must not be
 read as the fix.)*
 
-### V.3 — THE SCHOLASTICS AND THE GOD WITHOUT A FACE ✅ DRAFTED — 5,796 words
+### V.3 — THE SCHOLASTICS AND THE GOD WITHOUT A FACE ✅ DRAFTED — 5,878 words
 
 ⚠⚠ **BRIEF REWRITTEN DAY 189, BEFORE DRAFTING, AND THE GAUGE FOUND IT THIS TIME RATHER THAN A HUNCH.**
 The struck beat list read: *Aquinas and Augustine «(8 and 14 mentions)» · the classical theologians
@@ -2559,7 +2559,7 @@ Gaon's. ⚠ **`emptied` is live in V.2:133 and V.3:102** (buildings; the theolog
 hollowed the word). Different objects, three chapters back — **run `prose_echo.py` after drafting and
 let it adjudicate rather than the ear.**
 
-### V.7 — MAGIC, OPERATIVE ✅ DRAFTED — 4,961 words
+### V.7 — MAGIC, OPERATIVE ✅ DRAFTED — 5,173 words
 ⚠⚠ **RULING 156(d), Day 189 — THIS BEAT SHEET WAS MISSING THE CHAPTER'S ASSIGNED JOB, and the
 assignment was in `07` all along.** C12's register row states that *"V.7 (magic, operative) and
 VIII.3 (editing) are where it is either disciplined or lost, and neither chapter can be drafted
@@ -2612,7 +2612,7 @@ again**» · the dead and the visited ·
 hardest case» · OBE-as-proof-of-survival stays out, and the reason on the page is *we do not hold it*,
 never *a skeptic would object*.
 
-### V.9 — THE ROAD BEING WALKED NOW ✅ DRAFTED — 5,863 words
+### V.9 — THE ROAD BEING WALKED NOW ✅ DRAFTED — 6,166 words
 ✅ **DRAFTED Day 189 · `book/V-09-the-road-being-walked-now.md` · C-LICENSE: C27 · C30 · C29 · C14.**
 ⛔ **The block is lifted:** IV.10's Tier 1.4 census line landed first, in that order, as ruling 128
 required.
@@ -2673,7 +2673,7 @@ felt reason to go back. **Check the atlas before opening this chapter.**
 **Named:** the demarcation, performed a second time — V.8 takes the method, V.9 takes the case that
 tests it.
 
-### V.10 — THE MYSTICS' REPORT ✅ DRAFTED — 6,115 words
+### V.10 — THE MYSTICS' REPORT ✅ DRAFTED — 6,378 words
 ✅ **DRAFTED Day 189 · `book/V-10-the-mystics-report.md` · C-LICENSE: C30 · C29 · C1 · C27.**
 
 **Source:** ⚠ **ADDED AT DRAFTING, Day 189, and the brief was the thinnest in Book V — 12 lines, over
@@ -2755,7 +2755,7 @@ what is local idiom · the Christian numinous given the same standing as the Ved
 behind us has done, so there is no earlier handling to lean on and the parity must be built here» ·
 **why the reports converge on structure and diverge on furniture.**
 
-### V.11 — WHAT THE OLD ROADS KNEW THAT WE DO NOT — **AND THE ONE THING THEY ALL GOT WRONG** ✅ DRAFTED — 6,577 words
+### V.11 — WHAT THE OLD ROADS KNEW THAT WE DO NOT — **AND THE ONE THING THEY ALL GOT WRONG** ✅ DRAFTED — 6,740 words
 ✅ **DRAFTED Day 189 · `book/V-11-what-the-old-roads-knew.md` · C-LICENSE: C30 · C14 · C27 · C15.**
 ★★ **BOOK V IS CLOSED — 11/11.** The chapter's second half named **two parties who have been in this
 book's argument since V.1 and had never been named in it**: the **perennialist** (Huxley 1945, Schuon
@@ -2910,7 +2910,7 @@ re-filed as a fact about the observer **prior to evaluation**, so no observation
 the column. **Navigational implication: this render cannot discover the error by looking harder,
 because looking harder is the operation that performs the reassignment.**
 
-### VI.4 — PRINT, AND THE INTERIOR ✅ DRAFTED — 5,116 words
+### VI.4 — PRINT, AND THE INTERIOR ✅ DRAFTED — 5,256 words
 ✅ **DRAFTED Day 190 · `book/VI-04-print-and-the-interior.md` · C-LICENSE: C11 · C10 · **C30** ·
 C12.** Four beats, all delivered (lowest coverage 0.80, none under the floor), `card_sweep VI`
 **4/4 — the book is fully carded**, seven endnotes plus an axis note and the standing grade note.
@@ -2990,7 +2990,7 @@ asked to notice what they are doing, which is available for no other era in Book
 restates the other; VI.6 inherits the embedding and need not re-establish it, VI.4 does not touch
 the ethics.
 
-### VI.5 — ELECTRIC ✅ DRAFTED — 4,007 words
+### VI.5 — ELECTRIC ✅ DRAFTED — 4,163 words
 ✅ **DRAFTED Day 190 · `book/VI-05-electric.md` · C-LICENSE: C11 · C10 · **C30** · C12.** Four beats,
 carded (`card_sweep VI` **5/5**), six endnotes with publishers and dates, the standing grade note.
 **Committed before the screen ran** (fourth time; the rule holds).
@@ -3077,7 +3077,7 @@ scarcity** — allocation does not stop when carriage ceases to be scarce, it mo
 people choosing a schedule* to *continuously, individually, by a process fitted to each viewer*.
 **Not the same render with more channels.**
 
-### VI.6 — THE ALGORITHMIC TUNNEL ✅ DRAFTED — 4,576 words
+### VI.6 — THE ALGORITHMIC TUNNEL ✅ DRAFTED — 4,792 words
 ✅ **DRAFTED Day 190 · `book/VI-06-the-algorithmic-tunnel.md` · C-LICENSE: C11 · C12 · C10.** Carded
 (`card_sweep VI` **6/6**), **endnote-square** (7 sources / 7 notes / 0 owed). **Committed before the
 screen ran** (fifth time; the rule holds).
@@ -3161,7 +3161,7 @@ could never have surfaced the asymmetry that is this chapter's whole finding.
 out of is **to hold no model at all** — which is the next chapter's subject, has a serious tradition
 behind it, and has a price.
 
-### VI.7 — MODEL AGNOSTICISM AND ITS PRICE ✅ DRAFTED — 6,136 words
+### VI.7 — MODEL AGNOSTICISM AND ITS PRICE ✅ DRAFTED — 6,290 words
 ✅ **DRAFTED Day 190 · `book/VI-07-model-agnosticism-and-its-price.md` · C-LICENSE: C30 (explicit) ·
 C5 · C10.** Carded (`card_sweep VI` **7/7**), **14 endnotes**. **Committed before the screen ran**
 (sixth time; the rule holds).
@@ -3289,7 +3289,7 @@ Korzybski only because he is spelled the same in both places. ✅ **Confirmed cl
 start is the one the reader is standing in — **the render they have read this book from, which this
 book has spent fifty chapters editing without asking permission.**
 
-### VI.8 — THE TUNNEL YOU ARE IN ✅ DRAFTED — 5,063 words
+### VI.8 — THE TUNNEL YOU ARE IN ✅ DRAFTED — 5,271 words
 **Beats:** the present render, named without flattery · what this book is itself doing to the reader's
 filter stack, said openly · **the one thing a reader can check today** · handoff to Book VII: if all
 this is true, some things follow, and they are not comfortable.
@@ -3453,7 +3453,7 @@ That application is **new here and is not in III.4**, which is why the endnote s
 **Why it is first:** it is the question the ruled reader most often arrived with, and every prior
 answer they tried was either a promise or a shrug.
 
-### VII.2 — WHAT THE NO-NPC RULE COSTS ✅ DRAFTED — 8,499 words
+### VII.2 — WHAT THE NO-NPC RULE COSTS ✅ DRAFTED — 8,618 words
 ✅ **DRAFTED Day 190 · `book/VII-02-what-the-no-npc-rule-costs.md`.** All 11 beats land, plus the
 C19 section 156(d) added. **R-33 held: it ran long and did not split** (Book IV scale, and longer
 than the 6–7k the ruling anticipated). `claim_sweep` **0 USE-class hits** — the first new chapter in
@@ -3666,7 +3666,7 @@ and **Schweitzer 0, reproducing `06`'s own recorded zero** (sees absence). But *
 here against `ancestor_gap`'s canonical 14** — the methods differ. ★ **So only the ORDERING survives:
 the zeros are zeros, and the magnitudes are not this file's to quote.**
 
-### VII.3 — THE FLOOR ✅ DRAFTED — 5,450 words
+### VII.3 — THE FLOOR ✅ DRAFTED — 6,946 words
 ✅ **DRAFTED Day 190 · `book/VII-03-the-floor.md`.** All seven beats land, including both amended
 ones. **First v3-canonical card in the book** — `instrument_sweep` PASS on all three forward
 bindings at their first live run. Card subject: **the indexical egoist**, not the framework's own
@@ -3741,7 +3741,7 @@ across the drafted book and does NOT appear in `05-THE-LEXICON.md`.** Filed as *
 not VII.3's to fix, but VII.3 is where the cost lands, because it is the chapter that makes the word
 decide something.
 
-### VII.4 — THE TWO EVILS ✅ DRAFTED — 5,440 words
+### VII.4 — THE TWO EVILS ✅ DRAFTED — 5,622 words
 ⚠⚠ **REBUILT Day 190 by its own pre-draft screen, and the old brief's problem was the opposite of
 thin: FOUR OF ITS FIVE BEATS HAD ALREADY SHIPPED.** Measured against drafted prose before a word was
 written — beat 2 (*I am the totality; nothing is not mine*) is printed at `VII-02`:185; beat 3 (the
@@ -3813,7 +3813,7 @@ required that sentence since Day 186 and put it in VII.5 because it was watching
 where the word first does ethical work, so VII.4 is where the split is owed.** *Every perspective is
 focused; not every perspective is contractive.*
 
-### VII.5 — SUFFERING ✅ DRAFTED — 5,024 words
+### VII.5 — SUFFERING ✅ DRAFTED — 5,217 words
 **Beats:** the two arrows — the world's, and the one you add · appropriate **focusing**: sometimes the
 focusing is the care · **malheur, and the chapter's hard floor: no clause of this book overrides the
 one that names it** · the altitude rule · **no theodicy.** The framework does not get to make affliction
@@ -3892,7 +3892,7 @@ source's vocabulary pulled straight through** — this chapter quotes the source
 chapter works to it the more retired vocabulary arrives with the material. VII.4 scored 6 raw at
 1.08/1k; VII.5 scored 9 at 1.76/1k, and the difference is a measurement of proximity, not of care.
 
-### VII.6 — LOVE ✅ DRAFTED — 5,117 words
+### VII.6 — LOVE ✅ DRAFTED — 5,307 words
 **Source:** `Perspective` **03 §3.5 Mutual crystallisation and parasitic dissolution** — taken
 entire; this chapter is its only housing, and `mutual crystallisation`, `parasitic dissolution`,
 `E+`/`E−` were all **0 across 56 drafted chapters** before it. **+ 03 §3.4 Orientations in practice**
@@ -3923,7 +3923,7 @@ appears once in fifty-seven chapters**, in one bounded section, carrying the cou
 forced the amendment — Clayton and Finnley, on the merits, with the self-serving reading declared
 rather than concealed.
 
-### VII.7 — FREEDOM WHEN EVERY PATH ALREADY EXISTS ✅ DRAFTED — 6,792 words
+### VII.7 — FREEDOM WHEN EVERY PATH ALREADY EXISTS ✅ DRAFTED — 6,997 words
 ✅ **DRAFTED Day 191 · `book/VII-07-freedom-when-every-path-already-exists.md`.** All four beats land,
 0 misses. The pre-draft screen found the ⛔ span defect above **in this brief** — Theorem 6’s gloss quoted
 one clause short, in a direction that overcharged the source. Card written after `instrument_sweep` caught
@@ -3986,7 +3986,7 @@ Whitehead, Kauffman, Hegel are all 0 and all optional — the chapter does not n
 exists · why this is not fatalism and why the difference is checkable · **the one place we say plainly
 what is lost** — something *is* lost here, and pretending otherwise is the hedge in its most tempting form.
 
-### VII.8 — MEANING WITHOUT A MANDATE ✅ DRAFTED — 6,034 words
+### VII.8 — MEANING WITHOUT A MANDATE ✅ DRAFTED — 6,249 words
 ✅ **DRAFTED Day 191 · `book/VII-08-meaning-without-a-mandate.md`.** All six beats land. The two
 sub-1.0 coverages are inflections and one `grounded[heading-only]` — which is **ruling 114**, found
 here: `beat_delivery` strips headings by design and printed the stripped word as a plain absence,
@@ -4068,7 +4068,7 @@ off while reading perfectly well, which is ruling 125's renumbering hazard exact
 VII** this time and by re-reading rather than by any gauge. `order_sweep` is book-level and cannot
 see it; nothing in the repo checks a `VII.x` pointer against the title it names.
 
-### VII.9 — IDENTITY ACROSS GAPS ✅ DRAFTED — 4,201 words
+### VII.9 — IDENTITY ACROSS GAPS ✅ DRAFTED — 4,403 words
 ✅ **DRAFTED Day 191 · `book/VII-09-identity-across-gaps.md`. ★★ BOOK VII CLOSED 9/9 · 50,057
 words.** All five beats land. The carrier assumption is argued rather than assumed; the attractor
 is cashed property-by-property with its weakest transfer named in the note; beat 2 answers **no
@@ -4191,7 +4191,7 @@ that is the honest state of it.** ⚠ Also noted while filing: **R-114 was never
 a collision; recorded rather than silently reused, because reusing it would make two findings share a
 number and neither would be findable by it.
 
-### VIII.1 — NAVIGATION, NOT TOURISM ✅ DRAFTED — 3,787 words
+### VIII.1 — NAVIGATION, NOT TOURISM ✅ DRAFTED — 3,985 words
 ★ **This chapter's title has been waiting for its content since the scaffold was written, and `01` §10
 just supplied it.** *Exploration is the point* — but exploration alone **is** tourism, which is what the
 title already named as the failure without yet knowing what the alternative was. The missing half is
@@ -4222,7 +4222,7 @@ VII.8's finding it must **not present the refusal of the summit as unaccompanied
 the same conclusion at §13.4 by a weaker route while leaving §13.1's summit standing, and the honest
 claim is that our route is *stronger*, not that it is *only*.
 
-### VIII.2 — READING YOUR OWN FILTER STACK ✅ DRAFTED — 4,910 words
+### VIII.2 — READING YOUR OWN FILTER STACK ✅ DRAFTED — 5,381 words
 ✅ **DRAFTED Day 191 · `book/VIII-02-reading-your-own-filter-stack.md`.** All four beats land
 (`beat_delivery` 0.86–1.00, misses are inflections). Card v3-canon, 6 fields, `instrument_sweep`
 PASS. ★ **The pre-draft screen supplied the spine, again, and the chapter is the screen's finding
@@ -4277,7 +4277,7 @@ cannot see or the model you are seeing with.** · ⛔ **`blind spot` = 11, all i
 VI.8's and the retinal analogy goes with it. · **Dunning** = 0 and stays 0: the competence framing is a
 different claim and importing it would put an empirical dispute under a structural one.
 
-### VIII.3 — EDITING ✅ DRAFTED — 6,442 words
+### VIII.3 — EDITING ✅ DRAFTED — 6,793 words
 ✅ **DRAFTED Day 191 · `book/VIII-03-editing.md`.** All four beats 1.00, card v3-canon 6 fields,
 `instrument_sweep` PASS. **R-116 PAID** — Class VIII is the chapter's census card, not a mention, and
 its failure mode is the first in the series that is not a defect of perception: **exact about what it
@@ -4346,7 +4346,7 @@ each class is different, which means complementary practices illuminate each oth
 which is the chapter's argument for why the taxonomy is a taxonomy and not a menu. ⛔ **`blind spot`
 belongs to VI.8** (11 hits, all there); use §4.2's sense without the phrase.
 
-### VIII.4 — HOLDING IT OPEN ✅ DRAFTED — 4,051 words
+### VIII.4 — HOLDING IT OPEN ✅ DRAFTED — 4,244 words
 ✅ **DRAFTED Day 191 · `book/VIII-04-holding-it-open.md`.** All four beats 1.00, card v3-canon 6 fields, `claim_sweep --chapter` **0**, zero echo pairs. ★ **The screen's finding is the chapter's spine:** the beats said *stay open* and never defined *open*; C25 defines it with **three necessary conditions** (contact · could-have-come-out-otherwise · lands) and lists this chapter as a dependent. Section I runs the three as a test on a case, and what falls out is that most of what sits in a person's *undecided* pile fails the first condition — **not open, closed and being mourned.** C1's dependence rebuilt beat 2: there is no runtime, so undecided time is not the world waiting, and the whole bill is a standing allocation of attention (§2.3 Principle 2). **C25's physics trap held — no quantum vocabulary in the chapter.** ⚠ **A second finding, about the manuscript rather than this chapter: `the Coherence Principle` is the planning apparatus's name for the book's most-repeated structural claim (`03`, `04`, `06`) and had occurred ZERO times in sixty-three drafted chapters.** Named here once, minimally; the full statement is left to VIII.7, whose subject it is.
 ⛔ **RETITLED Day 191, one breath before it would have shipped. The old title was `HOLDING THE
 SUPERPOSITION`, and `superposition` was ★ BANNED by ruling 31 on Day 187** — the strongest verdict in
@@ -4405,7 +4405,7 @@ dichotomy of control are VIII.5's** (already 1 and 2 hits, both planning) and **
 in VI.5** (10 hits, the attention-economics passage) — so *satisficing* and bounded rationality are
 not available here without re-opening his bill.
 
-### VIII.5 — THE SECOND ARROW ✅ DRAFTED — 3,839 words
+### VIII.5 — THE SECOND ARROW ✅ DRAFTED — 4,025 words
 ✅ **DRAFTED Day 191 · `book/VIII-05-the-second-arrow.md`.** All four beats 1.00, card v3-canon 6 fields, `claim_sweep --chapter` **0**, zero echo pairs. ★★ **The screen's finding IS the chapter, and it is a subtraction: the distinction VII.5 established is real and is NOT AVAILABLE AT THE TIME.** The two arrows arrive as one sensation, the classifying instrument is the injured party, and asking the question is itself a pass around the loop. So the standard instruction requires exactly the classification the sufferer does not have — and the practice that is left is §5.4's four responses, every one of which is **performable without a diagnosis.** ★ Beat 3's discriminator made **behavioural** rather than introspective, on §2.4's own line, with three checkable questions, the last of which needs somebody who knew you before. ⛔ **Beat 2 delivered in its AMENDED form** — the cut is chosen-versus-imposed and *the imposed term is not on the contraction axis*; the chapter's own addition is that a teaching which bills the imposed to the chosen installs a shame arrow, which is the most common injury this tradition does. **Card = the clinical pain scale**, picked up from VII.5's own card (*'not the top of a scale that begins with a stubbed toe'*): an **eighth** mode, and the first in which the exclusion is not a defect but the **operating principle** — the compression is what makes it useful, so there is no better scale, only a second question. ★ **The chapter ends addressed to somebody other than its reader**, which no other chapter does: if social degradation is constitutive of affliction, the only reliable countermeasure is another person staying, and that is not an instruction the sufferer can carry out.
 **Beats:** the practice for the only arrow whose loop-gain is partly yours · the dichotomy of control read
 as chosen-versus-imposed · **the focusing as care**, and how to tell it from contraction as
@@ -4461,7 +4461,7 @@ chapter's most important content is the region where that instrument **fails**. 
 preference for a tidier chapter, and the party proposing that repair is the party who benefits.**
 Same discipline as R-101's on `aperture`. → revision pass.
 
-### VIII.6 — OTHER PLAYERS ✅ DRAFTED — 5,206 words
+### VIII.6 — OTHER PLAYERS ✅ DRAFTED — 5,417 words
 ★ **Promoted Day 185: this is no longer one practice among seven. It is half the telos** (`01` §10),
 and the book's ethics is downstream of the §9 cut and of nothing else — **remove the divine player and
 the other players become real.** Consider moving it earlier in Book VIII; it currently sits sixth,
