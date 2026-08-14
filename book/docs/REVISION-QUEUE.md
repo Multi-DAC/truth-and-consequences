@@ -31,7 +31,7 @@ other rows are wrong. It is a declaration that they are **maintenance, not a pub
 | **1. The edition policy is DECIDED** ✅ **MET Day 195** | **R-212** | A written ruling in `00-ARCHITECTURE.md` adopting **(ii) repair the body, mark the repair** — which is what Book V already does three times and what the Coda currently contradicts. Test: the ruling exists, and `edition_scheme_sweep.py` has been re-run against IV.10 and Book V with the delta recorded. ⛔ The IV.10 fabricated quotation inside an accusation comes out **regardless of which way the policy goes** — that one is not waiting on the decision. |
 | **2. Book I gets its transition** ✅ **MET Day 195** | **R-228** | II.1 no longer opens cold. Test: a named transition passage exists between I.6 and II.1. ★ **The only finding two blind readers reached separately** — the highest evidence grade in the entire pile. |
 | **3. The floor slopes** ✅ **MET Day 195** | **R-216** | VII.3's floor grades, in a book whose whole ethic is grading. Test: the floor passage carries a grade axis, or prints its refusal with a reason. This is the sharpest self-inconsistency in the manuscript and the first thing a hostile reviewer finds. |
-| **4. A stranger can navigate it** | **R-222** | Index, glossary, bibliography — or a written refusal of each, with a reason. Test: the three artifacts exist, or `00` records the decision not to build them. |
+| **4. A stranger can navigate it** ✅ **MET Day 195** | **R-222** | Index, glossary, bibliography — or a written refusal of each, with a reason. Test: the three artifacts exist, or `00` records the decision not to build them. |
 | **5. The fired triggers are re-homed** | **R-234** | The **28** orphaned trigger clauses — 23 off R-2, 5 off the paid rows R-69/R-71/R-13 — are re-pointed at live events. Test: `python tools/queue_state.py` reports **zero** triggers pointing at a discharged row. |
 
 **THE VISION THIS GATE SERVES — a released edition, not an archive.**
@@ -118,7 +118,7 @@ line, which is the honest half of it.
 | ~~**R-212**~~ ✅ **PAID Day 195 — GATE 1 MET (ruling 177 written; 11 sites swept; gauge delta recorded and it is ZERO, as declared in advance)** | *(Day 195, ghost-Opus audit + Fable D193)* | **`00`'s edition policy · IV.10 · Book V · the Coda** | ★★ **THE BOOK RUNS TWO INCOMPATIBLE EDITION POLICIES AND DEFENDS THE ONE IT DOES NOT FOLLOW.** Book V executes *repair-the-body-mark-the-repair* three times (V-01 fn2/fn3, V-02 fn7 — verified: V-01:24 now reads *"in the thirteen-twenties"*). IV.10 leaves a **fabricated quotation standing inside an accusation**, and the Coda defends that as principle. R-227, R-221, R-217, R-218 all hang off this decision and cannot be worked before it. | ★ **RELEASE GATE 1.** A written ruling in `00` adopting (ii), plus `edition_scheme_sweep.py` re-run against IV.10 and Book V with the delta recorded. ⛔ The IV.10 fabrication comes out **either way** — do not wait on the policy for that one. | large |
 | ~~**R-228**~~ ✅ **PAID Day 195 — GATE 2 MET (ruling 178: the break is DESIGN and the declaration is the repair; paid at I.1's close AND as a named passage, THE HANDOVER, at I.6's seam)** | *(Day 195, ghost-Opus Critical Assessment + Fable D193 — independently)* | **I.6 → II.1** | ★★ **BOOK I's REGISTER IS ABANDONED WITHOUT TRANSITION.** II.1 opens cold in a different voice and the reader is not carried across. ★ **THE ONLY FINDING TWO BLIND READS REACHED SEPARATELY — the highest evidence grade in this entire file**, and the one place the [[feedback_briefing_manufactures_the_agreement]] objection cannot reach, because neither reader could brief the other. | ★ **RELEASE GATE 2.** A named transition passage exists between I.6 and II.1. | medium |
 | ~~**R-216**~~ ✅ **PAID Day 195 — GATE 3 MET (ruling 179: the minimum is the binary-grounded obligations; worked case is an ORDER CROSSING no grade-sensitive account can produce; empty-minimum case conceded)** | *(Day 195, ghost-Opus audit)* | **VII.3 — the floor** | ★★ **THE FLOOR DOES NOT SLOPE AND THE STAKE GRADES ALL THE WAY DOWN.** A book whose entire ethic is grading evidence has an ethics chapter that does not grade. **The sharpest self-inconsistency in the manuscript and the first thing a hostile reviewer reaches for** — it attacks the method using the method. | ★ **RELEASE GATE 3.** The floor passage carries a grade axis, or prints its refusal with a stated reason. | medium |
-| **R-222** ★ **GATE 4** | *(Day 195, ghost-Opus audit)* | **front and back matter** | **NO INDEX, NO GLOSSARY, NO BIBLIOGRAPHY.** A 300,000-word work of reference apparatus with 531 notes and no way into it except linear reading. This is the row about the book as **an object a stranger picks up**, which is the register the whole release turns on. | ★ **RELEASE GATE 4.** The three artifacts exist, **or** `00` records a written refusal of each with its reason. A refusal is a discharge here; silence is not. | medium |
+| ~~**R-222**~~ ✅ **PAID Day 195 — GATE 4 MET (ruling 180: glossary BUILT · works cited BUILT as a regenerating instrument that prints its own 50% recall gap · index REFUSED with a reason and a stated reversal condition)** | *(Day 195, ghost-Opus audit)* | **front and back matter** | **NO INDEX, NO GLOSSARY, NO BIBLIOGRAPHY.** A 300,000-word work of reference apparatus with 531 notes and no way into it except linear reading. This is the row about the book as **an object a stranger picks up**, which is the register the whole release turns on. | ★ **RELEASE GATE 4.** The three artifacts exist, **or** `00` records a written refusal of each with its reason. A refusal is a discharge here; silence is not. | medium |
 | **R-234** ★ **GATE 5** | *(Day 195, found by `tools/queue_state.py` on its first run)* | **this file — 23 trigger clauses** | ★★ **R-2 WAS THE SCHEDULER, AND IT DIED WITHOUT HANDING OVER.** See the full row below. 23 triggers named R-2 as their gate; the endnote pass ran book by book; every one of them **fired unobserved.** Those rows are **OVERDUE, not pending.** | ★ **RELEASE GATE 5.** `python tools/queue_state.py` reports **zero** trigger clauses pointing at a discharged row. **This is the one gate with a machine-checkable test, which is why it is a gate at all.** | medium |
 | **R-235** | *(Day 195, found by the endnote re-count while killing R-2)* | **II.4 — THE GRADE** | **THE GRADE CHAPTER CARRIES ZERO RECEIPTS.** 2,089 words, **0 note definitions** — the only chapter outside Book I's ruling-9 exemption with none. Its siblings carry 4–8 (II.1:6 · II.2:4 · II.3:5 · II.5:4 · II.6:5 · II.7:8 · II.8:5). ⚠ **The chapter that tells the reader how to grade evidence is the one chapter that shows none.** This was invisible to `endnote_debt.py`, which counts *named sources against receipts* and therefore cannot see a chapter that names no sources — [[feedback_self_generated_denominator]]. | **With R-216 (Gate 3)** — same defect, same family, one sitting: the grading ethic not applied to itself. Not a gate on its own; it is the cheap half of gate 3's argument. | small |
 
@@ -5506,7 +5506,44 @@ reader does not have.
 **TRIGGER: BEFORE THE PhilArchive UPLOAD for the soft-hyphen defect (mechanical, no decision needed); the
 identifier strip waits on R-227's fork.** **small / mechanical.**
 
-## R-222 — NO INDEX, NO GLOSSARY, NO BIBLIOGRAPHY
+## R-222 — ✅ **PAID DAY 195 — RULING 180. GATE 4 IS MET ON ITS SECOND BRANCH, HONESTLY TAKEN.**
+
+**GLOSSARY — BUILT** (`book/Z-01-glossary.md`). The row was right that this one is not optional, and
+right about why: II.8 declares the vocabulary **closed** and the whole justification for closing it
+is that a reader can hold the set — *a claim about a set the reader had never been shown.* Each entry
+gives term, defining chapter, definition, and **what it forbids**, the last being load-bearing on the
+book's own standard. ★ **That turns the page into a check a reader can run without the author:** a
+sentence using one of these words in a way the third column disallows is wrong.
+
+**WORKS CITED — BUILT AS AN INSTRUMENT** (`tools/bibliography.py` → `book/Z-02-works-cited.md`,
+`--check` fails when stale). A bibliography typed once is a stamp that rots at the rate the notes are
+repaired without changing appearance; **the back matter does not get an exemption from the book's own
+argument.** ⛔ **It prints its own recall gap: 245 endnotes carry a datable citation, 123 (50%) parse
+into 149 entries, 122 do not.** Five entries are marked machine-uncertain rather than dropped.
+★ **And a rule was tried and removed:** flagging one-word titles caught 2 real cases and raised 15
+false alarms (*Aion*, *Ethics*, *Nature*, *Science*…), so it went, and the residual is declared
+instead — a flag wrong seven times in nine is noise, not caution.
+[[feedback_filter_precision_eats_recall]]
+
+**INDEX — REFUSED, with the reason and the reversal condition.** An index maps concepts to **page
+numbers** and this book has no stable ones; Day 195 alone moved eleven passages across seven
+chapters. **An index built today would be wrong by the next repair and would not look wrong** — a
+stamp shipped as a navigation aid, in exactly C.2 §I's sense. ⚠ The cost is real and stated: a print
+reader loses concordance. ★ **The trigger that reverses it: the day a printing is frozen with fixed
+pagination, an index becomes buildable and is owed** — owed *because* the reason for refusing will
+have expired.
+
+⚠ **R-210 is only PARTLY paid by the works cited and is NOT closed here.** And the row's original
+trigger (*before the second edition, NOT before the upload*) was superseded by the gate, which is
+recorded rather than quietly dropped.
+
+**Mechanical:** `compile_pdf.py` sweeps `Z-*.md` by glob, not by a filename list, so the next
+artifact somebody adds cannot ship nowhere. Verified in the built PDF — **1,053 pages**, both
+artifacts present.
+
+*The original row, kept below.*
+
+## R-222 (as filed) — NO INDEX, NO GLOSSARY, NO BIBLIOGRAPHY
 
 **MEDIUM.** A 314,000-word systematic work with a coined vocabulary, thirty-one named predecessors and 973
 internal cross-references ships with **none of the three apparatus a reader needs to use it as a

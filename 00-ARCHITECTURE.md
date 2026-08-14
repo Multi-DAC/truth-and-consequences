@@ -3114,3 +3114,71 @@ is now structural. **R-220's main charge is untouched** (whether the ethics uses
 sense requiring it to have been a finding rather than a stipulation), and **R-230** — the word
 *violates* in step three — is deliberately not paid here, because it is a craft fix that must not be
 mistaken for the conceptual repair.
+
+
+---
+
+### **RULING 180 — TWO OF THE THREE APPARATUS SHIP; THE INDEX IS REFUSED, AND THE REFUSAL HAS A REASON RATHER THAN AN APOLOGY.** *(Gate 4 of the release gate. Filed as R-222 by the Day-195 ghost audit, and named independently in a second read.)*
+
+**The finding:** a 314,000-word systematic work with a coined vocabulary, thirty-one named
+predecessors and 973 internal cross-references shipped with **none of the three apparatus a reader
+needs to use it as a reference.**
+
+**1. THE GLOSSARY — BUILT. `book/Z-01-glossary.md`.** ⚠ **This one was never optional and the row
+said why:** II.8 declares the vocabulary **closed**, and the entire justification for a closed
+vocabulary is that a reader can hold the set — *which is a claim about a set the reader had never
+been shown.* A closure rule with no list is an assertion about the reader's head. **Every entry gives
+the term, the chapter that defines it, the definition, and what the definition FORBIDS** — the last
+column being the load-bearing one, on the book's own standard that a definition which forbids nothing
+is a mood. ★ **That makes it a check a reader can run without the author's cooperation:** if a
+sentence anywhere uses one of these words in a way the third column disallows, the sentence is wrong.
+The page ends by subordinating itself — *where this page and a chapter disagree, the chapter is right
+and this page is the thing that rotted.*
+
+**2. THE WORKS CITED — BUILT, AS AN INSTRUMENT RATHER THAN A PAGE. `tools/bibliography.py` →
+`book/Z-02-works-cited.md`.** A bibliography typed once is a **stamp**: accurate on the day it is
+typed, rotting at exactly the rate the notes are repaired, and not changing appearance while it rots.
+That is the object this book spends a volume diagnosing, and **the back matter is not exempt from the
+argument**, so the list is generated and regenerable, with `--check` to fail when it is stale.
+
+⛔ **AND IT PRINTS ITS OWN RECALL GAP ON THE PAGE, WHICH IS THE PART THAT MATTERS.** Measured Day 195:
+**245** endnotes carry a datable citation, **123 (50%)** parse into the **149** entries, **122 do
+not.** The extractor refuses to guess — a citation given in running prose, split across a clause, or
+carried by a locus rather than an imprint is *counted* and not rendered. **A works-cited list that
+silently dropped half its sources would be a partial result wearing the authority of a complete one**,
+which is precisely what the endnote apparatus exists to prevent elsewhere in the volume.
+[[feedback_partial_delivery_beats_no_gauge]]
+
+★ **A gauge decision worth recording, because the first version was worse.** Five entries are marked
+**machine-uncertain** rather than dropped, since dropping them would improve the page's appearance and
+conceal a limit. **A sixth rule was tried and REMOVED:** flagging every one-word title caught the two
+real author-as-title cases (*Harner*, *Sartre*) and also flagged *Aion*, *Angst*, *Ethics*,
+*Counterfactuals*, *Inquiry*, *Elite*, *Nature*, *Science*, *Neuron*, *Noûs* and *PNAS* — **fifteen
+false alarms against two catches.** A flag wrong seven times in nine is not a conservative gauge, it
+is noise, and a reader learns within one page to skip it. The discrimination is not mechanically
+available, so **the residual is declared on the page instead of being papered over with an alarm
+nobody would read.** [[feedback_filter_precision_eats_recall]] · [[feedback_true_signal_inside_the_noise_band]]
+
+**3. THE INDEX — REFUSED, and here is the reason.** A real index is a map from concepts to **page
+numbers**, and this book has no stable page numbers. It is a living volume: every repair re-flows the
+PDF, and Day 195 alone moved eleven passages across seven chapters. **An index built today would be
+wrong by the next repair and would not look wrong** — a stamp, in the exact sense C.2 §I spends its
+length on, shipped as navigation aid. ⚠ **This is a refusal, not a deferral, and it is not free:** a
+reader who wants to find every occurrence of *null space* is being sent to the search function of
+whatever they are reading in, and that is a worse answer for print. **What stands in its place** is
+the apparatus that already exists and does not rot: 973 internal cross-references naming chapters
+rather than pages, the glossary above, and the endnotes. ★ **The condition on which this reverses is
+stated so it can fire:** the day a printing is frozen — an edition with a fixed pagination that will
+not be re-flowed — **an index becomes buildable and is owed**, and it is owed *because* the reason for
+refusing it will have expired. Until then a page-number index is a promise this book cannot keep.
+
+⚠ **PARTIAL, AND SAID SO.** R-222's own trigger read *before the second edition, NOT before the
+upload*; the release gate promoted it anyway. **Two of three are built and one is refused with a
+dated reversal condition** — that is the gate's second branch honestly taken, not the first branch
+quietly claimed. **R-210** (the apparatus is promised and not shipped) is *partly* paid by the works
+cited and is **not** closed by this ruling.
+
+**Mechanical note:** `book/compile_pdf.py` now sweeps `Z-*.md` into a **BACK MATTER** part by glob
+rather than by a list of filenames, because a hand-listed loop is a mechanism that silently drops the
+next artifact somebody adds. Verified in the built PDF: glossary and works cited both present,
+**1,053 pages.**

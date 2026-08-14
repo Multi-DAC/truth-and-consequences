@@ -61,6 +61,7 @@ def render_chapter(path):
     # would otherwise be inconsistent with the rest.
     lines = [ln for ln in lines
              if not ln.lstrip().startswith("# BOOK")
+             and not ln.lstrip().startswith("# BACK MATTER")
              and not re.match(r"#{1,4}\s+Notes\s*$", ln.strip())]
     text = "\n".join(lines).strip()
     md.reset()
@@ -102,6 +103,26 @@ for path in files_for(coda_prefix):
     toc_entries.append(("chapter", ctitle, anchor))
     html = render_chapter(os.path.join(HERE, path))
     body_parts.append(f'<section class="chapter" id="{anchor}">{html}</section>')
+
+# Back matter (Z-*) — glossary and works cited, added Day 195 under ruling 180.
+# ⚠ These are the two of R-222's three artifacts that got BUILT. The index is
+# refused with a reason recorded in `00`; see ruling 180. If a Z-* file is added
+# and this loop does not pick it up, the artifact ships nowhere and nothing says
+# so — which is why the loop is a glob and not a list of filenames.
+back_matter = files_for("Z")
+if back_matter:
+    toc_entries.append(("part", "BACK MATTER", "back-matter"))
+    body_parts.append(
+        '<section class="part" id="back-matter">'
+        '<div class="part-kicker">BACK MATTER</div>'
+        '<h1 class="part-title">THE APPARATUS</h1></section>'
+    )
+    for path in back_matter:
+        anchor = f"ch-{os.path.splitext(os.path.basename(path))[0]}"
+        ctitle = chapter_title(os.path.join(HERE, path))
+        toc_entries.append(("chapter", ctitle, anchor))
+        html = render_chapter(os.path.join(HERE, path))
+        body_parts.append(f'<section class="chapter" id="{anchor}">{html}</section>')
 
 # --- Table of contents ------------------------------------------------------
 toc_html = ['<section class="toc"><h1>Contents</h1>']
