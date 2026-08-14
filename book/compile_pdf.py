@@ -64,6 +64,11 @@ def render_chapter(path):
              and not ln.lstrip().startswith("# BACK MATTER")
              and not re.match(r"#{1,4}\s+Notes\s*$", ln.strip())]
     text = "\n".join(lines).strip()
+    # `[[feedback_*]]` tags were flowing as ordinary prose, so the justifier
+    # hyphenated them at line breaks. Mark them as code so the hyphens:none rule
+    # above reaches them; the brackets go, since they are wiki syntax and mean
+    # nothing to a reader of the printed page. (R-227's mechanical half.)
+    text = re.sub(r"\[\[([A-Za-z0-9_\-]+)\]\]", r'<code class="tag">\1</code>', text)
     md.reset()
     return md.convert(text)
 
@@ -207,8 +212,14 @@ th, td { border: 1px solid #999; padding: 3px 5px; text-align: left; vertical-al
 th { background: #eee; font-weight: bold; }
 
 /* Code */
-code { font-family: "DejaVu Sans Mono", monospace; font-size: 8.2pt;
-  background: #f0f0f0; padding: 0 2px; border-radius: 2px; }
+/* ⛔ hyphens:none is LOAD-BEARING, not cosmetic. The body sets hyphens:auto for
+   justified prose, and the typesetter cheerfully hyphenated identifiers across
+   line breaks — the shipped PDF carried `feed-\nback_quotation_connective_tissue`.
+   A hyphen inserted into a filename is not a typographic nicety, it is a
+   fabricated string, in a book whose subject is quotation integrity. */
+code, .tag { font-family: "DejaVu Sans Mono", monospace; font-size: 8.2pt;
+  background: #f0f0f0; padding: 0 2px; border-radius: 2px;
+  hyphens: none; -webkit-hyphens: none; overflow-wrap: break-word; word-break: break-all; }
 pre { background: #f4f4f4; padding: 6px 8px; overflow-wrap: break-word;
   white-space: pre-wrap; font-size: 8pt; border-radius: 3px; }
 pre code { background: none; padding: 0; }

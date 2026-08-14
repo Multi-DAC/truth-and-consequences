@@ -32,7 +32,7 @@ other rows are wrong. It is a declaration that they are **maintenance, not a pub
 | **2. Book I gets its transition** ✅ **MET Day 195** | **R-228** | II.1 no longer opens cold. Test: a named transition passage exists between I.6 and II.1. ★ **The only finding two blind readers reached separately** — the highest evidence grade in the entire pile. |
 | **3. The floor slopes** ✅ **MET Day 195** | **R-216** | VII.3's floor grades, in a book whose whole ethic is grading. Test: the floor passage carries a grade axis, or prints its refusal with a reason. This is the sharpest self-inconsistency in the manuscript and the first thing a hostile reviewer finds. |
 | **4. A stranger can navigate it** ✅ **MET Day 195** | **R-222** | Index, glossary, bibliography — or a written refusal of each, with a reason. Test: the three artifacts exist, or `00` records the decision not to build them. |
-| **5. The fired triggers are re-homed** | **R-234** | The **28** orphaned trigger clauses — 23 off R-2, 5 off the paid rows R-69/R-71/R-13 — are re-pointed at live events. Test: `python tools/queue_state.py` reports **zero** triggers pointing at a discharged row. |
+| **5. The fired triggers are re-homed** ✅ **MET Day 195 — the only gate with a machine test, and it passes** | **R-234** | The **28** orphaned trigger clauses — 23 off R-2, 5 off the paid rows R-69/R-71/R-13 — are re-pointed at live events. Test: `python tools/queue_state.py` reports **zero** triggers pointing at a discharged row. |
 
 **THE VISION THIS GATE SERVES — a released edition, not an archive.**
 
@@ -119,7 +119,7 @@ line, which is the honest half of it.
 | ~~**R-228**~~ ✅ **PAID Day 195 — GATE 2 MET (ruling 178: the break is DESIGN and the declaration is the repair; paid at I.1's close AND as a named passage, THE HANDOVER, at I.6's seam)** | *(Day 195, ghost-Opus Critical Assessment + Fable D193 — independently)* | **I.6 → II.1** | ★★ **BOOK I's REGISTER IS ABANDONED WITHOUT TRANSITION.** II.1 opens cold in a different voice and the reader is not carried across. ★ **THE ONLY FINDING TWO BLIND READS REACHED SEPARATELY — the highest evidence grade in this entire file**, and the one place the [[feedback_briefing_manufactures_the_agreement]] objection cannot reach, because neither reader could brief the other. | ★ **RELEASE GATE 2.** A named transition passage exists between I.6 and II.1. | medium |
 | ~~**R-216**~~ ✅ **PAID Day 195 — GATE 3 MET (ruling 179: the minimum is the binary-grounded obligations; worked case is an ORDER CROSSING no grade-sensitive account can produce; empty-minimum case conceded)** | *(Day 195, ghost-Opus audit)* | **VII.3 — the floor** | ★★ **THE FLOOR DOES NOT SLOPE AND THE STAKE GRADES ALL THE WAY DOWN.** A book whose entire ethic is grading evidence has an ethics chapter that does not grade. **The sharpest self-inconsistency in the manuscript and the first thing a hostile reviewer reaches for** — it attacks the method using the method. | ★ **RELEASE GATE 3.** The floor passage carries a grade axis, or prints its refusal with a stated reason. | medium |
 | ~~**R-222**~~ ✅ **PAID Day 195 — GATE 4 MET (ruling 180: glossary BUILT · works cited BUILT as a regenerating instrument that prints its own 50% recall gap · index REFUSED with a reason and a stated reversal condition)** | *(Day 195, ghost-Opus audit)* | **front and back matter** | **NO INDEX, NO GLOSSARY, NO BIBLIOGRAPHY.** A 300,000-word work of reference apparatus with 531 notes and no way into it except linear reading. This is the row about the book as **an object a stranger picks up**, which is the register the whole release turns on. | ★ **RELEASE GATE 4.** The three artifacts exist, **or** `00` records a written refusal of each with its reason. A refusal is a discharge here; silence is not. | medium |
-| **R-234** ★ **GATE 5** | *(Day 195, found by `tools/queue_state.py` on its first run)* | **this file — 23 trigger clauses** | ★★ **R-2 WAS THE SCHEDULER, AND IT DIED WITHOUT HANDING OVER.** See the full row below. 23 triggers named R-2 as their gate; the endnote pass ran book by book; every one of them **fired unobserved.** Those rows are **OVERDUE, not pending.** | ★ **RELEASE GATE 5.** `python tools/queue_state.py` reports **zero** trigger clauses pointing at a discharged row. **This is the one gate with a machine-checkable test, which is why it is a gate at all.** | medium |
+| ~~**R-234**~~ ✅ **PAID Day 195 — GATE 5 MET, MACHINE-CHECKED: `queue_state.py` reports ZERO triggers pointing at a discharged row. 32 clauses re-homed and adjudicated one at a time — 11 fired-unobserved, 19 still-owed, 2 satisfied-in-passing** | *(Day 195, found by `tools/queue_state.py` on its first run)* | **this file — 23 trigger clauses** | ★★ **R-2 WAS THE SCHEDULER, AND IT DIED WITHOUT HANDING OVER.** See the full row below. 23 triggers named R-2 as their gate; the endnote pass ran book by book; every one of them **fired unobserved.** Those rows are **OVERDUE, not pending.** | ★ **RELEASE GATE 5.** `python tools/queue_state.py` reports **zero** trigger clauses pointing at a discharged row. **This is the one gate with a machine-checkable test, which is why it is a gate at all.** | medium |
 | **R-235** | *(Day 195, found by the endnote re-count while killing R-2)* | **II.4 — THE GRADE** | **THE GRADE CHAPTER CARRIES ZERO RECEIPTS.** 2,089 words, **0 note definitions** — the only chapter outside Book I's ruling-9 exemption with none. Its siblings carry 4–8 (II.1:6 · II.2:4 · II.3:5 · II.5:4 · II.6:5 · II.7:8 · II.8:5). ⚠ **The chapter that tells the reader how to grade evidence is the one chapter that shows none.** This was invisible to `endnote_debt.py`, which counts *named sources against receipts* and therefore cannot see a chapter that names no sources — [[feedback_self_generated_denominator]]. | **With R-216 (Gate 3)** — same defect, same family, one sitting: the grading ethic not applied to itself. Not a gate on its own; it is the cheap half of gate 3's argument. | small |
 
 ⚠⚠ **NUMBERING INTEGRITY — added Day 189 night, and every item here was found by `tools/row_promotion_sweep.py` on its first run, minutes before Packet 002 went to a reviewer.**
@@ -458,7 +458,7 @@ That is *a deferral with no trigger* wearing the clothes of an efficiency argume
 NOW R-32, WITH ITS OWN TRIGGER, AND ITS FIRST CUT IS PAID.** The reading half still rides with R-8 —
 but it no longer **waits** on it, which is the whole difference.
 
-~~★ **TRIGGER FOR THE SWEEP: it runs at the same time as R-2's endnote gauge and R-8's claim-strength
+~~★ **TRIGGER FOR THE SWEEP (struck): it ran at the same time as the endnote gauge and R-8's claim-strength
 pass** — three lists, one reading of every drafted chapter, because doing it three times is the only
 way this gets skipped.~~ **Struck.** The rationale was real and the coupling was not: *doing it three
 times is how it gets skipped* argues for **co-scheduling**, and what was written was **dependency**.
@@ -1239,8 +1239,7 @@ the measurement above was taken with, so it is tested rather than proposed.
 hand of the party it clears. **A repair proposed by the party it exonerates runs cold or it does not
 run.** It belongs to the retrofit block, executed by a pass that is not cashing it, against a
 before/after delta across all drafted files rather than an exit code.
-**TRIGGER: first action of the endnote retrofit block, before any receipt is written** — the retrofit
-cannot be steered by a gauge that is blind to half of what it is producing. Folds into R-69/R-71.
+**TRIGGER: ⛔ OVERDUE — 531 receipts are written.** ⛔ **FIRED UNOBSERVED — SHIPPED UNGUARDED, now a defect.** The retrofit ran steered by a gauge blind to half its output, exactly as this clause predicted, so the prediction is now a description. Re-homed to **the receipt audit**; R-69 and R-71 are paid and can no longer host it.
 high — it is the instrument the next block runs on
 
 ---
@@ -2251,8 +2250,7 @@ are two different facts, and prose that names one while numbering by the other r
 correct citation. Nothing in `tools/` can see this — there is no gauge here that knows what edition a
 number belongs to.
 
-**Owed:** one clause — *(Harvey `II. vi. 3`; Massuet/ANF `II. 7. 5`)*. **TRIGGER: with the Book IV
-endnote pass (R-2), or the next time IV.9 is opened for any reason, whichever is first** — it is
+**Owed:** one clause — *(Harvey `II. vi. 3`; Massuet/ANF `II. 7. 5`)*. **TRIGGER: the next time IV.9 is opened for any reason** ⛔ **FIRED UNOBSERVED — SHIPPED UNGUARDED, now a defect.** — its endnote-pass half fired days ago and nothing announced it; the surviving half is live and is now the whole trigger — it is
 receipt-level and it is the receipt the retrofit exists to write. ⚠ **And check the same pair
 everywhere the book cites a critical edition by a standard-scheme number** — this is one instance and
 the sweep has never run. small.
@@ -2292,8 +2290,7 @@ marked `Rev. 1.5`, a revised digital text rather than the 2012 print. Recorded a
 rounded up.
 
 **Owed:** `Vilna, 1824` (or drop the imprint and let the translation carry the citation); an ellipsis
-or a restoration at the two cuts. **TRIGGER: with the Book V endnote pass (R-2), or the next time
-V.6 is opened for any reason, whichever is first.** small.
+or a restoration at the two cuts. **TRIGGER: the next time V.6 is opened for any reason.** ⛔ **FIRED UNOBSERVED — SHIPPED UNGUARDED, now a defect.** Its endnote-pass half fired unobserved; the surviving half is live. small.
 
 ---
 
@@ -2318,8 +2315,7 @@ number `2.7%` is a statement about the apparatus, not about the citations.
 **Owed:** not a fix — a **standing obligation**. `edition_scheme_sweep.py` is a **mandatory step
 inside R-2**, re-run per book as each book's notes are written, with the delta recorded. Written in
 three places so it cannot go silent: this row, the tool's docstring, the tool's printed LIMIT line.
-**TRIGGER: the first book of R-2, whenever R-2 starts — and R-2 may not be declared complete for any
-book until this has run against that book.** medium.
+**TRIGGER: ✅ RE-HOMED TO THE EDITION-POLICY RULING (`00`, ruling 177), where this obligation now lives in writing.** ✅ **SATISFIED IN PASSING.** R-110's standing obligation — *`edition_scheme_sweep.py` may not be skipped before a book is declared complete* — **lost its host when R-2 died.** The sweep **ran Day 195** against IV.10 and Book V with the delta recorded (and the delta is **zero**, which ruling 177 predicted in advance and is the honest reading, not a pass). **The obligation now rides on ruling 177 and is written there, so it cannot go silent a second time.** medium.
 
 ---
 
@@ -2438,8 +2434,7 @@ pages later.
 **Owed:** one paragraph in `VII-04`, in the *Where the asymmetry actually lives* section, conceding the
 inheritance explicitly: the seat is a violation **given impartiality**, impartiality is wagered at
 VII.3, and the conviction of the predator is therefore as strong as that wager and no stronger. C19's
-register entry gets the same limiter. **Do not** repair by weakening VII.3. **TRIGGER: R-2, Book VII,
-first row.** large.
+register entry gets the same limiter. **Do not** repair by weakening VII.3. **TRIGGER: Book VII revision pass, first row.** ◻ **STILL OWED** (the pass is a live event and has not run). large.
 
 ---
 
@@ -2463,8 +2458,7 @@ demonstrated, and it is **mechanical**. Any chapter asserting *"the nth X in thi
 checkable claim, and nothing in `tools/` checks it. See R-126.
 
 **Owed:** pick one series definition and renumber all four cards to it. The honest one includes VII.6 —
-four members — because VII.7's card already counts it. **TRIGGER: R-2, Book VII, after R-126 runs.**
-medium.
+four members — because VII.7's card already counts it. **TRIGGER: Book VII revision pass, after R-126's instrument runs.** ◻ **STILL OWED** (the pass is a live event and has not run). medium.
 
 ---
 
@@ -2499,8 +2493,7 @@ thing to say is stronger than the false one: **the I arrives whenever the book h
 this is where it stops arriving under pressure and gets declared.**
 
 ⚠ Also delete or re-scope *"That is about to be broken once, deliberately"* (line 307) and check the
-matching claim in `07`/the card. **TRIGGER: R-2, Book VII — but the sentence is FALSE AS PRINTED, so
-the minimal correction may run early.** medium.
+matching claim in `07`/the card. **TRIGGER: Book VII revision pass — but the sentence is FALSE AS PRINTED, so the minimal correction may run early.** ◻ **STILL OWED** (the pass is a live event and has not run). medium.
 
 ---
 
@@ -2520,7 +2513,7 @@ happen**, and VII.9's section title reads oddly against a reader who met the sam
 length in the chapter that produced the book's best argument.
 
 **Owed:** amend fn 11 in `VII-02` to route to VII.6 as the full statement and VII.9 as the recall, and
-either retitle VII.9 §V or cut it to the one line the title claims. **TRIGGER: R-2, Book VII.** small.
+either retitle VII.9 §V or cut it to the one line the title claims. **TRIGGER: Book VII revision pass.** ◻ **STILL OWED** (the pass is a live event and has not run). small.
 
 ---
 
@@ -2569,7 +2562,7 @@ this is a fifth silence in the chapter that can least afford one.
 **Owed:** name him in `VII-01` with the *Tractatus* locus, and keep the book's further step visible —
 *no position, therefore no recipient anywhere in the sentence* — as the book's own. Naming him costs
 nothing and buys the grammatical reading a hundred-year-old owner. Plus the coda C.1 acknowledgement,
-when the coda is written. **TRIGGER: R-2, Book VII / coda draft.** small.
+when the coda is written. **TRIGGER: Book VII revision pass, or the C.2 revision, whichever is first.** ◻ **STILL OWED** (the pass is a live event and has not run). small.
 
 ---
 
@@ -2586,7 +2579,7 @@ in a chapter that already names Aquinas, Arendt and Augustine and could supply t
 footnotes. A universal negative about the history of philosophy with nothing under it.
 
 **Owed:** fix the footnote; give (b) two or three named reductions and say why each failed, or narrow
-the claim to what the chapter can carry. **TRIGGER: R-2, Book VII.** small (a) / medium (b).
+the claim to what the chapter can carry. **TRIGGER: Book VII revision pass.** ◻ **STILL OWED** (the pass is a live event and has not run). small (a) / medium (b).
 
 ---
 
@@ -2631,8 +2624,7 @@ hand-classification R-121 needed, so **the tool reports candidates and a human c
 pointer, not a worklist. [[self-generated-denominator]]: it cannot see a self-claim phrased in a form
 it has no pattern for, and must say so in its own output.
 
-**TRIGGER: before R-2 starts — it is the instrument R-2 needs for Book VII and it retro-scans I–VI in
-the same run.** large.
+**TRIGGER: before the Book VII revision pass, and it retro-scans I–VI in the same run.** ⛔ **FIRED UNOBSERVED — SHIPPED UNGUARDED, now a defect.** Its original gate was the endnote row, and the clause read *"before that row starts"* — the pass it was meant to instrument **ran to completion without it**, 531 receipts across 62 chapters. The instrument was never built and the work it was to steer is already on disk, so this is a retro-scan now, not a guard. large.
 
 ---
 
@@ -2684,7 +2676,7 @@ word has a problem, and the fix is not an exemption.*
 
 ★ **[[diagnosis-without-a-hand]] again, twice.** VIII.4 and VIII.7 each diagnose this correctly in a
 footnote and neither repaired it, because a footnote *feels* like discharge. Two accurate diagnoses,
-zero rows, zero register edits — until this one. **TRIGGER: R-2, before Book VIII.** large.
+zero rows, zero register edits — until this one. **TRIGGER: Book VIII revision pass, before its first row.** ◻ **STILL OWED** (the pass is a live event and has not run). large.
 
 ---
 
@@ -2712,7 +2704,7 @@ with nothing linking them.
 **This is not a defect to repair; V.2 was right.** It is an unsettled account. **Owed:** the chapters
 that most depend on another person say so **in V.2's own terms**, and the coda settles it rather than
 leaving it implied. ⛔ The coda is unwritten — **so this one is cheap now and expensive later. Write
-C.2's paragraph before C.1.** **TRIGGER: coda drafting, and R-2 Book VIII.** medium.
+C.2's paragraph before C.1.** **TRIGGER: the C.2 revision, and the Book VIII revision pass.** ◻ **STILL OWED** (the pass is a live event and has not run). medium.
 
 ---
 
@@ -2740,7 +2732,7 @@ reputationally expensive class got no card and no note saying why not. **There i
 absence-with-no-author** — V.4:198, in the volume that named the organ, three books before it operated.
 
 **Owed:** run the card criterion on Class IV **out loud** and either card it or print the refusal with
-its reason. **TRIGGER: R-2, Book VIII.** medium.
+its reason. **TRIGGER: Book VIII revision pass.** ◻ **STILL OWED** (the pass is a live event and has not run). medium.
 
 ---
 
@@ -2772,8 +2764,7 @@ exclusivity is retained where it is true (the disguise) and dropped where it was
 `beat_delivery` VIII.3 re-run after the edit: **4 beats, coverage 1.00, zero MISS.** ★ **And this is a live positive control for R-126 family 2** (COUNT / NEGATION: *none of the
 other seven*): a self-claim, mechanically detectable, false, and it sat through the pre-draft screen,
 the beat sweep, `instrument_sweep` and an outside read by a reader looking at this exact section.
-**Add it to R-126's test fixtures before the gauge is written.** **TRIGGER: R-2, Book VIII; fixture
-immediately.** small (fix) / free (fixture).
+**Add it to R-126's test fixtures before the gauge is written.** **TRIGGER: Book VIII revision pass; fixture immediately.** ◻ **STILL OWED** (the pass is a live event and has not run). ⚠ The fixture half is *"immediately" and it has not been built either — a sub-clause with no gate of its own. small (fix) / free (fixture).
 
 ---
 
@@ -2807,8 +2798,7 @@ The stronger word was not in the evidence and it was the first word a reader wou
 ★ **The general lesson, and it is a gauge request:** `endnote_debt.py` extracts **persons**, and this
 citation had a source — it just had the wrong *kind* of source. **A self-citation for an external
 empirical claim passes every gauge the project owns**, because every gauge asks *is there a receipt*
-and none asks *is the receipt ours*. **TRIGGER: R-2, Book VIII — the fix is landed, the gauge is not.**
-free (done) / small (gauge).
+and none asks *is the receipt ours*. **TRIGGER: Book VIII revision pass — the fix is landed, the gauge is not.** ◻ **STILL OWED** (the pass is a live event and has not run). free (done) / small (gauge).
 
 ---
 
@@ -2854,8 +2844,7 @@ not, isn't** — `where_the_book_is.py` counts chapters and nothing counts serie
 for is R-126, already top of queue and already specced for exactly this** (family 2, COUNT/NEGATION).
 **This is R-126's third fixture, and the first that is a *series* rather than a single claim** — the
 gauge must reconcile an ordinal across chapters, not just check one sentence against the corpus.
-**TRIGGER: R-2, Book VII (a) — and (b) belongs with it, not with Book VIII, because the taxonomy is
-VII's.** medium.
+**TRIGGER: Book VII revision pass (a) — and (b) belongs with it, not with Book VIII, because the taxonomy is VII's.** ◻ **STILL OWED** (the pass is a live event and has not run). medium.
 
 ---
 
@@ -3045,8 +3034,7 @@ one contains.
 did not author** — SEP article bibliographies are the cheapest honest source — and diff it against the
 roster. Rows the diff adds are the finding; a diff returning nothing is the first evidence the roster
 has ever had for its own coverage. ⚠ **Wittgenstein goes in as a row regardless, and NOT as the fix** —
-adding the name the reader found is R-19's procedure again, one instance at a time. **TRIGGER: with
-R-2's Books I–III pass, which is where R-52's four living rivals already come due.** Medium.
+adding the name the reader found is R-19's procedure again, one instance at a time. **TRIGGER: the Books I–III revision pass, where R-52's four living rivals already come due.** ◻ **STILL OWED** (the pass is a live event and has not run). Medium.
 
 ---
 
@@ -3209,7 +3197,7 @@ Books IV–V cite *works*: *Minds, Brains, and Programs*, *Is the Brain a Digita
 and Mystery in Tibet*, *Anattalakkhaṇa Sutta*, *Chāndogya Upaniṣad*, *De perenni philosophia*, *The
 Theology of Aristotle* — every one invisible to it. **The debt figure 50 is a floor, not a count.**
 R-2 stays hand-enumerated per book. This repair makes the gauge stop *lying*; it does not make it a
-worklist. **TRIGGER: R-2 Book IV, which is next.** small.
+worklist. **TRIGGER: the Book IV revision pass.** ◻ **STILL OWED** (the pass is a live event and has not run). small.
 
 ---
 
@@ -3469,8 +3457,7 @@ all three, which would have indicted a file that had one of them right.
 count and the *"escalation is the finding"* paragraph that rests on it; (3) cut the sasquatch bar
 claim and with it *"three is where it stops being an accident"*; (4) repair `06`:1600; (5) locate
 `Unreleased-Work/Perspective` or declare it unreachable in writing — **third chapter to owe this,
-and it is now the single cheapest unpaid item in the tree.** **TRIGGER: the revision pass, IV.10 —
-and R-2 Book V may not close without item (5).** medium.
+and it is now the single cheapest unpaid item in the tree.** **TRIGGER: the revision pass, IV.10 — and the Book V revision pass may not close without item (5).** ◻ **STILL OWED** (the pass is a live event and has not run). medium.
 
 ---
 
@@ -3559,7 +3546,7 @@ obligation. [[feedback_diagnosis_without_a_hand]]
 chapter is wrong"*, *"what would make this refusal wrong"*, *"the condition under which"*, *"would
 have been"* — and emit each with a **RUN / NOT RUN** field that defaults to NOT RUN and can only be
 set by a named check. ⚠ **It must not be satisfiable by prose**, or it becomes the thing it
-measures. **TRIGGER: R-2 Book V, at the first chapter that names a falsifier.** medium.
+measures. **TRIGGER: the Book V revision pass, at the first chapter that names a falsifier.** ◻ **STILL OWED** (the pass is a live event and has not run). medium.
 
 ---
 
@@ -3640,9 +3627,7 @@ was compressed correctly and one was inherited whole, from the same paragraph, t
 of *"IV.10 refused both"*, which becomes *one*; (2) V.9's rule-following demonstration survives on
 the first sentence alone and should be rewritten to rest on it; (3) **check V.9 against IV.10 [^15]
 too** — V.9:103's *"IV.10 already graded this correctly"* leans on the grading section whose own
-centrepiece [^15] catches awarding a press conference the word *published*. **TRIGGER: R-2 Book V,
-V.9 — and it must be settled BEFORE V.9's own notes are written, or the note will certify the
-inheritance.** high.
+centrepiece [^15] catches awarding a press conference the word *published*. **TRIGGER: ⛔ OVERDUE — the condition it named has already failed.** ⛔ **FIRED UNOBSERVED — SHIPPED UNGUARDED, now a defect.** It required settlement *before V.9's own notes were written*; **V.9's notes are written and shipped**, so the note this clause existed to prevent is on the page. Re-homed to **the V.9 note audit, first item of the Book V revision pass** — a repair now, not a precaution. high.
 
 ---
 
@@ -3695,7 +3680,7 @@ Tillich characterisation, which V.2 leans on to license its own central cut.
 **Owed:** (1) fix the Aquinas address — *Rome* or drop the location; (2) run the three unchecked
 attributions before V.2's notes are written; (3) **re-hand-enumerate all eleven Book V chapters —
 the gauge's 30 is a floor of unknown depth, and V.2 alone proves the error is not a small
-percentage.** **TRIGGER: R-2 Book V, before any Book V note is written.** high.
+percentage.** **TRIGGER: ⛔ OVERDUE — Book V carries 174 notes.** ⛔ **FIRED UNOBSERVED — SHIPPED UNGUARDED, now a defect.** Re-homed to **the Book V note audit**, which is the same work done late. high.
 
 **FILED — R-153: R-74 CALLED THE SOURCE COUNT A *CEILING*. IT IS NOT A CEILING. THE ERROR RUNS BOTH
 WAYS AND THE UNMEASURED DIRECTION IS THE LARGER ONE.**
@@ -5422,7 +5407,7 @@ makes the NEXT read agree with it and stop there.** Payment is the aiming *plus*
 the flag count going down, not the confession count going up. [[feedback_overstated_self_criticism]] ·
 [[feedback_reporting_gauge_is_not_preventing_gauge]]
 
-**TRIGGER: with the C.2 revision, and it does not close until R-212's sweep has run.** **medium.**
+**TRIGGER: the C.2 revision.** ◻ **STILL OWED** (the pass is a live event and has not run). ⚠ Its second condition — *does not close until the edition sweep has run* — **is now met**: the sweep ran Day 195 under ruling 177, eleven sites across eight files. **The gate that remains is the C.2 aiming, and this row must not be paid by the sweep alone.** **medium.**
 
 ## R-218 — THE AUTHORSHIP DISCLOSURE DOES NOT PROPAGATE TO THE APPARATUS BUILT TO HOLD DISCLOSURES
 
@@ -5483,7 +5468,7 @@ equivocation — **and then never checks whether the ethics is using sense (a) i
 have been a finding.** VII.3's honest conditional (*"if anything is owed to anyone, then it is owed here
 too"*) largely rescues it, **but the rescue is stated once and the unconditional phrasing runs throughout.**
 
-**TRIGGER: Book VII revision pass, with R-216.** **medium.**
+**TRIGGER: Book VII revision pass.** ◻ **STILL OWED** (the pass is a live event and has not run). ⚠ It was coupled to the floor row, which was **paid Day 195 under ruling 179 — and this row was not paid with it.** Coupling is not payment. **medium.**
 
 ## R-221 — 382 TOKENS OF PRODUCTION SCAFFOLDING IN THE BODY, AND THE `[[feedback_*]]` TAGS ARE BROKEN ACROSS LINES IN THE PDF
 
@@ -5503,8 +5488,26 @@ identifier."* A reader benefits from *measured by tool rather than recalled*; `t
 costs them their footing. ⚠ The C-code half is **R-210's** other end — 90 references to a register the
 reader does not have.
 
-**TRIGGER: BEFORE THE PhilArchive UPLOAD for the soft-hyphen defect (mechanical, no decision needed); the
-identifier strip waits on R-227's fork.** **small / mechanical.**
+✅ **THE SOFT-HYPHEN HALF IS PAID, DAY 195 — structurally, not cosmetically.** `compile_pdf.py` now
+renders `[[…]]` tags as `<code class="tag">` and the code rule carries `hyphens: none`. **A justifier
+cannot insert a hyphen into a span that forbids hyphenation**, so the defect is closed by
+construction rather than by inspection. The `hyphens:auto` on `body` — correct for justified prose —
+was reaching identifiers, and *a hyphen inserted into a filename is a fabricated string*, in a book
+whose subject is quotation integrity.
+
+⚠ **AND THE VERIFICATION WAS INCONCLUSIVE, WHICH IS SAID HERE RATHER THAN GLOSSED.** Attempting a
+before/after on the two PDFs, `pypdf` extracted **zero** occurrences of `feedback` from the previous
+build and 105 from the new one — and the tempting reading of that (*the whole apparatus was missing
+from the shipped PDF*) **is a measurement artefact, not a finding.** The serif body font's text layer
+extracts unreliably in this build (whole words come back mangled), while the monospace code font
+extracts cleanly; the new number is high because the tags are now *in a different font*, not because
+they were absent before. **The defect is closed on the mechanism. It is NOT closed on an observed
+before/after, and the difference is recorded so nobody cites the 105 as evidence.**
+[[feedback_measured_a_shape_the_consumer_does_not_use]] · [[feedback_outside_read_numbers_are_estimates]]
+
+**TRIGGER: the identifier strip waits on R-227's fork — NOT paid here, and deliberately so:** the
+mechanical fix must not be mistaken for the editorial decision about whether a reader should see
+these identifiers at all, which is R-221's question. **small / mechanical (paid) · decision (open).**
 
 ## R-222 — ✅ **PAID DAY 195 — RULING 180. GATE 4 IS MET ON ITS SECOND BRANCH, HONESTLY TAKEN.**
 
@@ -5558,7 +5561,22 @@ payment of both, since `03-THE-ANCESTORS.md` already holds most of it.
 anything currently in the book. ⚠ **Do not let that defer it silently: it is on the list because two of six
 reads named it, and it is the item most likely to be dropped for being unglamorous.** **medium–large.**
 
-## R-223 — VIII.3's CLASS VII EVIDENCE LINE IS THE WEAKEST EVIDENTIAL SENTENCE IN THE BOOK
+## R-223 — ✅ **PAID DAY 195. CUT, BECAUSE THERE IS NO RECEIPT.**
+
+The line now reads **"Evidence: the framework predicts it; nothing here confirms it."** The row said
+there was no third option that left the clause standing, and there was not.
+
+★ **The part worth keeping: *"some classified research programmes"* is the sharpest single defect the
+six reads found**, because it cites evidence **whose inaccessibility is the reason it cannot be
+checked** — which is IV.7's refused clause, *otherwise, anyone could perceive them*, wearing a
+security classification instead of a cosmology. The book refuses that move in Book IV and made it in
+Book VIII. ⚠ **And the contrast that makes it legible: the same entry printed *practice: none
+prescribable* without flinching** — it could say *no practice* and could not bring itself to say
+*no evidence.* That asymmetry is the finding, not the sentence.
+
+*The original row, kept below.*
+
+## R-223 (as filed) — VIII.3's CLASS VII EVIDENCE LINE IS THE WEAKEST EVIDENTIAL SENTENCE IN THE BOOK
 
 **HIGH, and cheap.** VIII.3's Class VII evidence line: *"convergent reports across contemplative
 traditions, **some classified research programmes**, and a theoretical framework that predicts it."*
@@ -5587,8 +5605,7 @@ practice line is honest; the evidence line should either carry a real receipt or
 ⚠ **The repair is per-item: measure, or reword to what is actually held.** ⛔ **Not "soften the adverb"** —
 a hedged unmeasured superlative is the same claim with deniability, which is the move R-217 names.
 
-**TRIGGER: with R-212's sweep** — items 1 and 2 are literally the same amplification the sweep is
-chasing. [[feedback_no_handwaving]] · [[feedback_full_computation]] **medium.**
+**TRIGGER: the quantitative-claim pass.** ⛔ **FIRED UNOBSERVED — SHIPPED UNGUARDED, now a defect.** The edition sweep **ran Day 195 and items 1 and 2 were not among its eleven sites** — the sweep chased fabricated *quotation*, this row is unmeasured *superlative*, and the two were folded together in one clause. Adjacency is not identity, and this row was carried past on the strength of it. [[feedback_no_handwaving]] · [[feedback_full_computation]] **medium.**
 
 ## R-225 — SUMMATION ARITHMETIC, AND THE POINTER CLASS NO GAUGE WATCHES
 
@@ -5701,8 +5718,7 @@ in the structure and one in the diction. ⛔ **And the tell that a diction pass 
 gets more varied and less plain**: the one-metaphor rule and the ban list are what produce the voice both
 reads praised. The pass removes repetitions, not the register.
 
-**TRIGGER: the prose pass, after R-212** — repairing bodies first means the diction pass reads the final
-sentences rather than sentences about to be rewritten. **small.**
+**TRIGGER: ✅ UNBLOCKED — the prose pass, which may now run.** ✅ **SATISFIED IN PASSING.** Its precondition was that bodies be repaired first, so the diction pass reads final sentences rather than sentences about to be rewritten; **the repairs landed Day 195.** The pass itself is still owed. **small.**
 
 ## R-230 — *VIOLATES* IN STEP 3 OF THE FLOOR
 
@@ -5720,7 +5736,7 @@ paid for."*
 ⚠ **Do not pay R-216 with this.** Fixing the word repairs the leak; the floor/stake incompatibility is
 untouched.
 
-**TRIGGER: Book VII revision pass, with R-216 and R-220 — read together, fixed separately.** **one word.**
+**TRIGGER: Book VII revision pass, read together with R-220 and fixed separately.** ◻ **STILL OWED** (the pass is a live event and has not run). ⛔ **Deliberately NOT paid when the floor was repaired Day 195**, which is why it was filed apart: a one-word craft fix must not be mistaken for the conceptual repair. **one word.**
 
 ## R-231 — THE WILBER ORIENTATION IS IN THE CODA AND BELONGS IN THE FRONT MATTER
 
@@ -5743,10 +5759,10 @@ file exists to forbid. Each carries its own.*
 - **(a) II.8's *vocabulary closed* vs IV.9's contour notation.** IV.9 pays the cost honestly; II.8's promise
   was *"nothing after this coins a term."* One sentence in IV.9 acknowledging notation-vs-term. ★ Fable
   measured the escape hatch and it held: *"the contour has stayed narrow through the draft's end; only IV.9
-  uses it."* — **TRIGGER: with R-222's glossary**, which is the same question asked from the reader's side.
+  uses it."* — **TRIGGER: ⛔ FIRED — the glossary shipped Day 195.** ⛔ **FIRED UNOBSERVED — SHIPPED UNGUARDED, now a defect.** It is the same question asked from the reader's side, and **the glossary was built without it**, so the term went into the closed-vocabulary list unrepaired. Re-homed to **the first glossary revision**, which is a repair now rather than a co-write.
 - **(b) V.6's memale/sovev inversion** (fn10). The body still calls it a *"sharpening"*; the terms **swap**
   between the Tanya and the Nefesh HaChayim. ⛔ **A reader who goes to the sources with the chapter's
-  glosses reads both backwards.** — **TRIGGER: R-212's sweep** — it is a body-vs-note divergence.
+  glosses reads both backwards.** — **TRIGGER: the Book V note audit.** ⛔ **FIRED UNOBSERVED — SHIPPED UNGUARDED, now a defect.** The edition sweep ran Day 195 and **this item was not among its eleven sites**; it is a body-vs-note divergence of the same family and it did not travel with them.
 - **(c) VI.1's branching-roads tension**, registered and unresolved. One sentence in VI.8 acknowledging the
   ladder shape is an artefact of the render being described. — **TRIGGER: Book VI revision pass.**
 - **(d) VII.2's four-case section runs long.** The river case is strongest and last; consider compressing
@@ -5778,7 +5794,7 @@ it to the links that carry.**"*
 **R-212's sweep and this row are the same repair reached from opposite ends: R-212 fixes the citers, this
 fixes the beam. Do the beam first or the sweep re-propagates the strong form.**
 
-★ **TRIGGER: FIRST ITEM INSIDE R-212's SWEEP, before the V.9/V.11 citation repairs.** Pay R-232(g)'s
+★ **TRIGGER: ⛔ OVERDUE — it asked to run FIRST INSIDE the edition sweep, and the sweep ran without it.** ⛔ **FIRED UNOBSERVED — SHIPPED UNGUARDED, now a defect.** The V.9 and V.11 citation repairs it was supposed to precede **were made on Day 195 ahead of it**, which is the ordering this clause existed to prevent. Re-homed to **the V.1 six-statements repair, first item of the Book V revision pass.** Pay R-232(g)'s
 translator/edition debt in the same sitting — same six statements, same chapter.
 [[feedback_correction_does_not_reach_citers]] **small–medium** *(the repair is one paragraph; the ordering
 is what makes it work)*.
@@ -5817,7 +5833,53 @@ parser answers *what points at what*, and the second question was the one carryi
 
 ---
 
-## ★ R-234 — R-2 WAS THE SCHEDULER, AND IT DIED WITHOUT HANDING OVER · **RELEASE GATE 5**
+## ★ R-234 — ✅ **PAID DAY 195. ZERO DANGLING TRIGGERS, MEASURED — AND THE COUNT GREW BEFORE IT FELL.**
+
+**`python tools/queue_state.py` → `R-234 ✅ met (0 dangling triggers — measured)`.** The only gate in
+the five with a machine-checkable test, and the only one whose closure is not a claim.
+
+★★ **THE GAUGE CAUGHT ITS OWN AUTHOR, FOUR TIMES, IN THE ACT OF PAYING THE OTHER GATES.** The count
+did not start at 28 and fall. It went **28 → 33 → 36 → 37 → 0**: every gate discharged today
+stranded the clauses that named *it* as their gate — R-212 stranded 5, R-216 stranded 3, R-222
+stranded 1 — **which is R-2's failure recurring four times inside the very pass built to stop it, and
+each time the tool announced it in the same run.** ⛔ **That is the argument for this row.** A hand
+count taken at the start of the day would have read 28, been correct at the time, and been wrong by
+the afternoon, with nothing to say so. [[feedback_never_relax_the_gauge_that_caught_you]]
+
+**32 clauses re-homed and ADJUDICATED SEPARATELY, because the row forbade batching them:**
+
+| verdict | n | what it means |
+|---|---|---|
+| ⛔ **FIRED UNOBSERVED — shipped unguarded** | **11** | the guarded work is already on disk. These are **defects now, not schedule items** |
+| ◻ **STILL OWED** | **19** | the named pass is a live event and has not run |
+| ✅ **SATISFIED IN PASSING** | **2** | the condition was met by other work, checked rather than assumed |
+
+**The eleven are the finding, and they are not interchangeable with the nineteen.** Among them:
+*"settle BEFORE V.9's own notes are written, or the note will certify the inheritance"* — **V.9's
+notes are written and shipped**, so the note that clause existed to prevent is on the page. *"first
+action of the endnote retrofit, before any receipt is written"* — **531 receipts are written**; the
+retrofit ran steered by a gauge blind to half its output, exactly as the clause predicted, so the
+prediction is now a description. **R-233 asked to run FIRST INSIDE the edition sweep and the sweep
+ran without it**, making the very ordering error it was filed to prevent — on the same day, by me.
+
+✅ **R-110's orphaned standing obligation is re-homed and DISCHARGED**: *`edition_scheme_sweep.py`
+may not be skipped before a book is declared complete.* It now lives in **ruling 177** rather than
+inside a dead row, and the sweep ran Day 195 with its delta recorded — **zero**, which the ruling
+predicted in advance.
+
+⚠ **AN INSTRUMENT FIX WAS NEEDED TO REACH ZERO, AND IT IS NOT A RELAXATION — the fixture is in the
+tool's comment where the two differ.** The last three "orphans" were **window bleed**: clauses whose
+own text is live (*"before VI.4 is drafted"*) inheriting a dead row's name from the heading below
+them. `### R-nn` and `✅ **R-nn — DISCHARGED` end a row as surely as `---` does, and the 240-character
+window was reading past both. **Narrowing the window to the clause's true extent removes false
+positives only.** A relaxation would have been widening an ignore-list or dropping PAID gates from
+the check; neither was done. ★ **Positive control run the same minute: a trigger deliberately
+re-pointed at a PAID row is still caught, and the count returns to zero when it is removed.**
+[[feedback_instrument_fix_vs_relaxation]] · [[feedback_zero_needs_a_positive_control]]
+
+*The original row, kept below — it is the best thing in this file.*
+
+## ★ R-234 (as filed) — R-2 WAS THE SCHEDULER, AND IT DIED WITHOUT HANDING OVER
 
 **Filed Day 195 morning, by `tools/queue_state.py` on its first run, while killing R-2.**
 
@@ -5926,5 +5988,4 @@ of why the grade chapter argues from structure rather than authority. **The seco
 answer and may be the better one.** What is not legitimate is the current state, where the absence is
 undeclared and reads as an oversight.
 
-**TRIGGER: with R-216 (Gate 3)** — same defect, same sitting: the grading ethic not applied to
-itself. The floor that does not slope and the grade chapter with no grades are one argument. small.
+**TRIGGER: the Book VII revision pass, in the sitting that opens II.4's grade chapter.** ⛔ **FIRED UNOBSERVED — SHIPPED UNGUARDED, now a defect.** ⛔ It named the floor row as its gate, that row was **paid Day 195**, and **this one was not paid with it** — the floor got its grade axis and the grade chapter still has no receipts. Same defect, and only one end of it was repaired. The floor that does not slope and the grade chapter with no grades are one argument. small.

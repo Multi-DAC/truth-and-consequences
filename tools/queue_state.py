@@ -190,7 +190,21 @@ def analyse(lines: list[str]) -> dict:
         # GATE 5 — before upload") inherited an R-2 from the row below it and
         # reported itself as its own dependent. Cut at the first `---`, `**FILED`
         # or `## ` — the file's own row separators.
-        clause = re.split(r"\s---\s|\*\*FILED|\s## ", m.group(0))[0]
+        # (5) TWO MORE SEPARATORS, Day 195, and this is an INSTRUMENT FIX AND NOT
+        #     A RELAXATION — the distinction is the whole of it, so here is the
+        #     fixture where the two differ. `### R-nn` (a new row heading) and
+        #     `✅ **R-nn — DISCHARGED` (a discharge declaration) both END a row
+        #     as surely as `---` does, and the window was reading past them into
+        #     the NEXT row's identifier. Three clauses whose own text is live
+        #     ("before VI.4 is drafted", "with R-67's second half") were being
+        #     reported as orphaned by their neighbours' names. Narrowing the
+        #     window to the clause's true extent REMOVES FALSE POSITIVES ONLY;
+        #     a relaxation would have been widening the ignore-list or dropping
+        #     PAID gates from the check, and neither is done here. Positive
+        #     control run the same minute: a trigger deliberately re-pointed at
+        #     a PAID row is still caught after the fix.
+        #     [[feedback_instrument_fix_vs_relaxation]] · [[feedback_zero_needs_a_positive_control]]
+        clause = re.split(r"\s---\s|\*\*FILED|\s## |\s### |✅ \*\*R-\d+ — ", m.group(0))[0]
         gates = {"R-" + g for g in re.findall(r"\bR-(\d+)\b", clause)}
         if not gates:
             continue

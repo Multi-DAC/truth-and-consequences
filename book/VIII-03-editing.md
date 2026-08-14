@@ -114,9 +114,8 @@ mentioned less: group contraction is exactly as real as group expansion, and the
 panic are the same machine running the other way.
 
 **Class VII — Macroscopic quantum.** Theoretical. Movement that would exploit quantum coherence at the
-scale of a living system. The evidence is convergent reports across contemplative traditions, some
-classified research programmes, and a theoretical framework that predicts it. **Practice: none
-prescribable.**
+scale of a living system. **Evidence: the framework predicts it; nothing here confirms it.**
+**Practice: none prescribable.**[^8]
 
 That last line is why Class VII is in this chapter rather than quietly dropped from it. A practice
 chapter that silently omits the one class with no practice is doing the tidy thing this book spent
@@ -524,3 +523,17 @@ here, because the party who would benefit from making it is the drafter who want
 word.** Recorded for the revision pass, which is where a reader who did not write the sentence can
 rule on it. The rendered form is also stronger: what makes the act coercive is that it operates
 beneath the level at which consent could be given.
+
+[^8]: ⛔ **THE EVIDENCE LINE READ *"convergent reports across contemplative traditions, some
+    classified research programmes, and a theoretical framework that predicts it"* UNTIL DAY 195.**
+    Repaired under ruling 177. **It was unfalsifiable by construction, unmarked by grade, and it is
+    the exact register II.8's ban list exists to keep out** — in the volume about practice, in a book
+    whose subject is evidence-grading. ★ *"Some classified research programmes"* is the worst clause
+    in the manuscript: it cites evidence **whose inaccessibility is the reason it cannot be checked**,
+    which is IV.7's refused clause — *otherwise, anyone could perceive them* — wearing a security
+    classification instead of a cosmology. **There were two honest options and no third that left the
+    clause standing:** produce the receipt, or cut to what can be said. There is no receipt, so it is
+    cut. ⚠ **The empty practice line beside it was always honest and is untouched**, which is the
+    contrast that makes the defect legible: the same entry could print *none prescribable* without
+    flinching and could not bring itself to print *nothing here confirms it.*
+    [[feedback_evidence_grade_distinction]] · [[feedback_audit_the_last_clause]]
