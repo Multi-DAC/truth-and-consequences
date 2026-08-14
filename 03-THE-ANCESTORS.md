@@ -120,6 +120,44 @@ until we take it away they will read every subsequent sentence as a variant of i
 inside it.* Ours says: **nobody made it, it always was, and you are making the part of it
 you are standing on.**
 
+### D. M. Armstrong / the plain actualist — **0 mentions**, and this one stands under the axiom rather than under a book. *(Added Day 195, paying R-21 / ruling 111.)*
+
+`Armstrong` — 0. `actualis*` — 0 across all six chapters of Book I. `combinatorial` — 0.
+`truthmaker` — 0. **The load-bearing move of the entire edifice — *separation is a
+possibility, therefore separation* — was made in a book that named no modal party of any
+kind.**
+
+**The one modal name in the volume is Lewis, in II.1, and he is a co-signer, not an
+opponent.** II.1 takes his expensive half whole — the other ways things could have gone
+are concrete, exactly as real as this one — and cuts one word, **plurality**. That is a
+cut to his *storage architecture*. He grants that unactualised possibilities are real
+before the argument starts. **An ancestor who grants the premise satisfies rule 5
+typographically and violates it functionally.**
+
+The actual opponent wants no warehouse either, which is why the chapter's opening move
+missed them entirely: possibility is not an inventory, it is **recombination of what is
+actually there** (Armstrong's combinatorialism, *A Combinatorial Theory of Possibility*,
+1989, is the strongest form), and a truth about what *could* be needs a **truthmaker**,
+not a room. Their bill is the boundary that gets them: recombination is capped by the
+stock, so a way of being wanting an ingredient nothing anywhere has ever had is not absent
+but **impossible** — Armstrong's own alien-universals problem, which he saw and paid.
+
+✅ **PAID in the body of I.2, Day 195, and paid as a CONCESSION rather than a cut** —
+ruling 111's explicit warning that cuts are the house style and this is the one place the
+house style is wrong. The passage grants that the opening move has no target, relocates
+the disagreement onto the truthmaker, prices both sides, and ends on **two senses of
+"possible"** — one downstream of an inventory, one not — conceding that the axiom goes
+through in the second and begs the question in the first.
+
+⚠ **AND THE NAME IS NOT IN THE CHAPTER, ON PURPOSE.** Measured before drafting: **Book I
+contains zero proper names and zero endnotes across all six chapters** — ruling 9 exempts
+it, and the naked-claim-before-any-authority register is the design. R-21 said *"the
+opponent's best move must be on the page"* and did not price the register; putting the
+first proper name in the book into the axiom chapter would buy the fight with the thing
+Book I is. **So the move is on the page and the name is here.** → **`03`, Tier 0, beside
+Bostrom.** If a later ruling reverses the Book I no-names policy, this is the first
+sentence that changes.
+
 ---
 
 ## 3. TIER 1 — THE MEASURED SILENCES. Zero mentions, load-bearing anyway.
