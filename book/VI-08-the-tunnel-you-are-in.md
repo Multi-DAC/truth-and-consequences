@@ -315,7 +315,7 @@ Mannheim's stratum with your name in it.
 
 **THE INSTRUMENTED PRESENT — the render this sentence is being read in.**
 
-*What it renders superbly*, and the complement is real or nobody would be in it: **scale, checked**.
+*What it renders superbly*, and it is real or nobody would be in it: **scale, checked**.
 True statements about millions of people, verifiable in seconds, available to anyone. No prior stack
 in this book could be right about that much, and the ones that tried were making it up.
 
@@ -324,6 +324,21 @@ under it arrives soft, one rank down, filed as preference. Most of what decides 
 The filter does not conceal these things; it *deprecates* them, which is harder to notice, because
 nothing is missing from the picture and you can point at every item you have been quietly declining
 to weigh.
+
+*Its complement — who sees the unmeasured:* the positions whose entire subject is what has no gauge
+under it. The critical traditions, which have argued for three centuries about quality with nothing
+to count. Clinical judgement, which is the recognised name for a practitioner reading a case the
+protocol does not cover. Every tradition in Book V. And the one nearly every reader has standing in
+the same room: **a parent, who holds a quantity of information about a particular child that no
+instrument has ever come near and would not know how to write down.**
+
+⚠ **This card carries a third failure the census must keep distinct from the other two, because it is
+the one this render actually commits.** A complement can fail by not existing, or by existing out of
+reach — `VI.6` is the volume's clearest case of the second. **Here the complement is reachable, free
+and standing next to you, and is discounted on arrival**, because it comes without a number and the
+render has already decided what an unnumbered report is worth. Accessibility was never the binding
+constraint. **Admissibility is.** That is worse than distance, since distance is at least visible as
+distance, and a witness you have already downgraded feels like a witness you consulted.
 
 *Its boundary:* the point at which something would have to be counted. Invisible in ordinary
 conversation. Asserts itself at the moment of decision, where the option carrying a number wins by

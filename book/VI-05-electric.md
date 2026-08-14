@@ -283,8 +283,19 @@ That is VI.6.
 enough that most living adults were formed inside it; over recently enough to be looked at from
 outside, which is true of no other render in this book.
 
-**Complement:** the live event; the shared instant of an unsettled outcome; a common referent
+**Renders:** the live event; the shared instant of an unsettled outcome; a common referent
 beneath disagreement; the national schedule as a structure of the day; attention as a budget.
+
+**Complement — who sees what this render cannot:** every position that does not allocate by audience
+size. The parish newsletter and the county paper. The town meeting, where a population of forty is
+not too small to constitute anything. The amateur society's bulletin, the specialist journal with
+four hundred subscribers, and private correspondence, which has no threshold at all. ⚠ **And this is
+the card where reachability has to be dated, because the complement was reachable and has since
+largely been dismantled** — the local paper is the class of witness this render's own economics
+retired. A reader who wants it now is looking for an institution rather than walking into one, and
+that is a harder errand than the law's phrasing suggests. **The render that did reach the
+too-small-to-be-an-audience is the one in the next chapter**, which is the least comfortable true
+sentence in Book VI and is not an endorsement of it.
 
 **Null space:** **the unshared** — the local, the slow, the unresolvable-by-segment, the
 background-dependent, and every population too small to constitute an audience.

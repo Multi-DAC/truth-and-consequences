@@ -450,11 +450,23 @@ distributive politics it has not earned.
 **Whose:** the indexical egoist — the opponent this chapter takes most seriously, because he is the
 one the theorem does not touch.
 
-**Complement:** what it renders superbly. The structure of a life lived from the inside, at full
+**Renders:** what it renders superbly. The structure of a life lived from the inside, at full
 resolution and without self-deception. He sees that his reasons are *his*, that his access is
 positional, that no summit issues the weighting, and that everyone else is in the identical
 situation. Every one of those is true, and each is a thing this book also says. He is not a fool and
 he is not lying to himself; he has correctly read the cosmology and drawn a conclusion from it.
+
+**Complement — who sees what he cannot:** the second person, and nobody else. Not a book, not a
+theorem, not this chapter: **a particular other navigator who asks him, out loud, to justify the
+weighting** — because the thing he cannot see from inside the index is that sayability is a property
+of indices in general, and the only place that becomes visible is where his account is said to
+somebody who is running the same account and returns the opposite answer. That witness is not
+scarce. Every person he has ever spoken to is one, and this is the cheapest complement in the atlas
+to reach and the only one whose consultation the position itself has a motive to decline. ⚠ **So the
+failure here is not distance and not admissibility — it is the fourth mode `IV.1` registers,
+election.** He can reach it whenever he
+likes. The card cannot make him ask, and the chapter's whole argument is that the asking is the
+event, not the conclusion.
 
 **Null space:** what it structurally cannot render. That the symmetry he grants is *itself* the
 thing that costs him the position. He can see that every other aperture may say what he says. He

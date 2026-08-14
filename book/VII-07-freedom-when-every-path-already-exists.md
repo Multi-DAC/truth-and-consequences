@@ -279,13 +279,27 @@ determinist share this instrument and disagree only about its reading. It is als
 every legal system on earth, of the ordinary attribution of praise and blame, and of the reader's
 own account of his last difficult decision.
 
-**Complement:** what it renders superbly, and the list is long enough that nobody should be
+**Renders:** what it renders superbly, and the list is long enough that nobody should be
 condescending about it. Coercion. Duress. Manipulation. Addiction, which is where Frankfurt built
 his half of it. The difference between a signature given freely and one given at gunpoint. The
 entire apparatus of legal responsibility, which works, and which no account developed in this
 chapter could replace or would want to. At the scale where human beings actually adjudicate each
 other, the node-based instrument is not merely serviceable — it is the correct tool, and its
 readings are the ones this book's own ethics defers to.[^7]
+
+**Complement — who sees the interval between the nodes:** every position that samples a life
+continuously instead of at the moment of decision. **The biographer**, whose entire craft is reading
+a life as a curve and who will tell you that the famous choice was over before it was made. The
+coach and the trainer, working on what a body will do under load in six months. The practice
+traditions of Book V, which have never had a doctrine of the decisive instant and organise
+everything around what is being formed between instants. The therapist doing longitudinal work —
+notably *not* the therapist doing crisis work, who is at a node. And the most ordinary one:
+**anybody who has known you for fifteen years**, who can date the change to a period and would
+find the question *which moment* faintly beside the point. All reachable, several of them free. ⚠
+**What no complement supplies is the metaphysical case** — the configuration in which no alternative
+is ever closed has no witness at all, because a witness is a position and the claim is about the
+whole. That half of the null space stays uncovered, and the card says so rather than letting the
+first half stand in for both.
 
 **Null space:** what it structurally cannot render. A configuration in which no alternative is ever
 closed. It has no reading for that case — not a low reading, *no* reading — because its entire

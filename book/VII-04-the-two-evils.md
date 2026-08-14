@@ -373,12 +373,25 @@ not by being the same, but by being the two halves of one mark, neither of which
 **Whose:** the privation account — evil as *privatio boni*, absence rather than substance. Augustine's,
 after he left the Manichees, and the tradition's ever since.
 
-**Complement:** what it renders superbly. That evil has no positive principle, no independent
+**Renders:** what it renders superbly. That evil has no positive principle, no independent
 kingdom, nothing of its own to be made of. It is the instrument that killed the two-powers cosmology
 and it killed it correctly. It renders, with great precision, why goodness needs no explanation and
 malice does — why an account of the world that starts from a plenum does not have to find room in the
 plenum for its opposite. Every one of those results is one this book also needs, and it did not have
 to derive them because he did.
+
+**Complement — who sees the competence:** every position that has to deal with the organiser
+operationally rather than describe him metaphysically. The investigators and prosecutors who
+reconstruct how a thing was actually built, and whose files are public. The forensic and clinical
+literature on organised, instrumental harm, which has an axis for capacity because it cannot function
+without one. The military historian, for whom the formidability of an enemy is the first fact and not
+an embarrassment. And, closer than any of those, **anyone who has worked under a competent bully and
+can tell you in detail how good he was at it** — a witness most readers have and few think to
+consult, because the vocabulary the culture hands them for the encounter is the privation
+vocabulary, which has no word for what they saw. All of these are reachable. **What none of them
+supply is the metaphysics**, and the account under this card is still the reason the two-powers
+cosmology is dead; the complement corrects the person and leaves the ontology standing, which is the
+correct division and not a compromise.
 
 **Null space:** what it structurally cannot render. **Competence.** If evil is a lack, then the more
 evil a thing is, the less of it there should be — and the organiser of a horror is not less. He is

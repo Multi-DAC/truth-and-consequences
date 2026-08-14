@@ -175,12 +175,24 @@ in the world, it is administered to almost everyone eventually, and it is picked
 previous chapter's card named it in passing and did not open it: the two-arrow instrument's boundary,
 it said, *is not the top of a scale that begins with a stubbed toe.*
 
-**Complement:** what it renders, and it renders it better than any alternative anybody has built.
+**Renders:** what it renders, and it renders it better than any alternative anybody has built.
 **Intensity, communicably, across people who share no vocabulary and possibly no language.** It gets
 a number out of a frightened person in ninety seconds. It permits comparison of the same person on
 Tuesday and Thursday, which is what actually drives treatment. It is cheap, portable, requires no
 training, and it converted an entirely private quantity into something that can be written down and
 acted on by a stranger. That is not a small achievement and this card is not a debunking.
+
+**Complement — who sees the kind:** the sentence after the number. **The same patient, asked one more
+question** — *what sort of pain is it, and what is it doing to you* — which returns kind immediately,
+in any language, from anybody still able to speak, and takes about ninety seconds. The clinician who
+asks it. The nurse on the ward who has watched this person for three days and can tell grief from
+dread from the thing that is dismantling them. `VII.5`'s own instrument, which separates the arrows
+and is the correct complement for exactly one of the distinctions this scale flattens. ⚠ **This is
+the sharpest case in the atlas of a complement that is free, immediate, universally available, and
+not asked for by the procedure** — nothing prevents the question except that the form has a box for a
+number and no box for an answer, and what has no box does not get collected, does not enter the
+record, and is therefore not in the data anybody later studies. **The complement is not missing. It
+is unrecorded**, which is `VI.4`'s mechanism running inside a clipboard.
 
 **Null space:** what it structurally cannot render — **kind.** It has exactly one axis and suffering
 has several. The pain that is the first arrow, the suffering a person is adding on top of it, the

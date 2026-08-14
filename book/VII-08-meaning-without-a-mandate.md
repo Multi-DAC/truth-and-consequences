@@ -223,11 +223,25 @@ compatibilist and hard determinist. **In a debate that has run for centuries wit
 parties are the people who agree most — they agree about the instrument, which is why they can
 disagree so precisely about the reading.**
 
-**Complement:** what it renders superbly. The detection of fake mandates, which is a real and
+**Renders:** what it renders superbly. The detection of fake mandates, which is a real and
 valuable job. It is excellent at catching an authority that has quietly stopped existing while its
 sentences continue to circulate, excellent on inherited obligation, and correct in its central
 historical claim — the mandate *is* gone, its loss *was* a genuine loss, and the people who tell the
 reader it never mattered are wrong. Nothing in this chapter recovers the mandate or wants to.
+
+**Complement — who sees the third state:** the positions whose meaning has been carried by a relation
+for long enough that the question of who authorised it has never come up. **A marriage of forty
+years.** Somebody who has looked after the same piece of land, or the same patient list, or the same
+instrument, for a working lifetime. The aesthetic tradition, which has argued about value for three
+centuries with no authoriser available and did not conclude that value was absent — the one place in
+the record where the exact move this render cannot make has been made continuously and in public.
+Book V's practice lineages, whose meaning is in the doing and survives the collapse of every
+cosmological warrant they were once issued under, which several of them have now outlived. **These
+witnesses are everywhere and they are almost never asked, because the question this render puts to
+them — *by what authority?* — is one they have no answer to and do not need**, and the absence of
+an answer reads to the instrument as the absence of the thing. ⚠ **The complement is reachable and
+the interview is the part that goes wrong.** Ask what they do and how long they have done it; the
+render's own question returns nothing here and returns it confidently.
 
 **Null space:** what it structurally cannot render. **Meaning that is neither issued nor absent.**
 It has two output states and the correct answer is a third, so the third does not read as an

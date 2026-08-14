@@ -173,13 +173,27 @@ is the most sophisticated member and still a member. Also the reader's own accou
 this is worth saying — the account embedded in nearly every institution that has to decide whether
 this person is that person.
 
-**Complement:** what it renders superbly, and it is a great deal. Amnesia. Dementia, where the
+**Renders:** what it renders superbly, and it is a great deal. Amnesia. Dementia, where the
 question of what is left is not academic and the carrier account gives the right answer for the
 right reason. Dissociation. Brain injury. The whole clinical literature on what happens to a person
 when a specific mechanism fails, which is real knowledge obtained by exactly this instrument. Also
 the legal and moral work: continuity of obligation, the standing of a promise made by someone who
 has changed, the question of whether punishing a man for what he did at twenty is punishing the same
 man. **These are not toy problems and nothing here replaces the instrument that solves them.**
+
+**Complement — who sees identity constituted by form:** the practices in which a thing is
+unquestionably the same thing and nothing material crossed the gap, and they are ordinary rather than
+exotic. **A piece of music**, which is the same piece in Vienna in 1805 and in a room tonight, with
+no carrier between the two performances and nobody confused about it. A craft tradition reproducing a
+form for four hundred years through people who never met. A liturgy. A game, which is the same game
+on a new board. The instrument-makers and the restorers, who have a worked-out and unsentimental
+professional vocabulary for when a repaired object stops being the object — the nearest thing to a
+technical literature on this question that exists, and it is not in philosophy. Every one of these is
+reachable in an afternoon. ⚠ **And the honest limit: they are complements for the *concept*, not
+witnesses to the reader's own case.** They establish that form-persistence without transport is a
+real category, which is exactly what the render denies. Whether the reader is that kind of thing is
+not settled by watching a quartet, and this card does not pretend the borrowing goes further than it
+does.
 
 **Null space:** what it structurally cannot render. **Identity constituted by form rather than by
 transport.** It has no reading for a case in which nothing crossed the gap and the thing is there

@@ -89,13 +89,26 @@ they stay meaningful, and invert.
 dichotomy of control, the cognitive therapies, and very nearly all of the practical advice about pain
 that a person in a difficult year is likely to be handed.
 
-**Complement:** what it renders superbly. The added suffering, isolated and made actionable. Nothing
+**Renders:** what it renders superbly. The added suffering, isolated and made actionable. Nothing
 else in the human record separates the event from the elaboration this cleanly, and the separation is
 what makes the elaboration workable — you cannot stop doing a thing you have not noticed you are
 doing. It renders the second arrow with a precision that has survived every reformulation and every
 translation into every idiom that has picked it up, which is the signature of an instrument reading
 something real. It is also, and this matters for how the rest of this section should be read, *right
 about the overwhelming majority of the suffering in an ordinary life.*
+
+**Complement — who sees the affliction:** whoever is in the room, and it has to be somebody else.
+This is the one card in the atlas where the complement is *structurally* prohibited from being the
+subject: the instrument fails exactly where the self that would have reported is gone, so a witness
+who is not that self is not a convenience here, it is the only available channel. The palliative
+nurse. The psychiatric ward. The person who sat with someone through the year and can say what they
+watched, in sentences, without a scale. The traditions that debrief the far side after a return —
+Book V holds several, and their reports agree with each other more than the literature expects. **All
+of them are reachable and none of them are asked**, because the practical advice this render supplies
+is addressed to the sufferer, and the one person who by construction cannot supply the missing
+reading is the sufferer. ⚠ **A card that says *ask someone else* to a reader in affliction has
+already failed. It is written for the person beside them, and that is the only form in which this
+line can be delivered.**
 
 **Null space:** what it structurally cannot render. Affliction — suffering that destroys the archer.
 The instrument requires that there be someone in there to fire or not fire the second arrow, and its

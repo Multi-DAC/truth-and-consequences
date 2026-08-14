@@ -193,11 +193,24 @@ every modern account that treats love as a relation between peers — the recipr
 therapeutic vocabulary of balanced give-and-take, and the ordinary intuition that a relationship in
 which one party does most of the giving is thereby defective.
 
-**Complement:** what it renders superbly. Love between adults of comparable capacity, which is where
+**Renders:** what it renders superbly. Love between adults of comparable capacity, which is where
 almost all the trouble is. It catches the drain, names the pattern in which one coherence is being
 spent to build another, and gives a test — the longitudinal one — that is genuinely hard to fool from
 inside the relation. Against romantic accounts that make intensity the criterion, it is a decisive
 improvement, and it is right about the majority of cases a reader will bring to it.
+
+**Complement — who sees across the grade-difference:** the people already living in one, which is
+most people, and they are not hard to find. **A parent with an infant**, who is under no illusion
+that the ledger balances and has never once thought the relation defective for it. Anyone nursing a
+person out of the world. Anyone who keeps an animal and knows exactly what is and is not returned.
+The long chain of contemplative and devotional traditions in Book V that took the asymmetric case as
+the *paradigm* rather than the exception — and whose vocabulary for it is better developed than
+anything the reciprocity literature has built, for the straightforward reason that they were working
+on it for two millennia and had no stake in symmetry. This complement is abundant, close, and
+articulate. **It is also the one most likely to be dismissed as sentimental by a reader holding the
+render**, because a report from inside an unbalanced relation reads, to the instrument, exactly like
+the testimony of somebody being drained — which is the failure the instrument was built to catch and
+the reason it cannot hear the difference.
 
 **Null space:** what it structurally cannot render. Any relation across a grade-difference, which
 includes the parent and the infant, the carer and the dying, the human and the non-human, and every

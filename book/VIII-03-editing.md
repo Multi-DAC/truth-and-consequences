@@ -278,7 +278,7 @@ implements the restriction. Temporal interference stimulation, transcranial magn
 neurofeedback, brain-computer interfaces. Not the folk category *brain gadget*: the specific claim
 that a restriction with a physical implementation can be adjusted at the implementation.
 
-**Complement:** what it does that nothing else does — **selectivity**. Two kilohertz-frequency currents
+**Renders:** what it does that nothing else does — **selectivity**. Two kilohertz-frequency currents
 delivered at the scalp produce an interference envelope where they cross, oscillating at the
 difference between them; neurons at the intersection respond and neurons elsewhere do not, which
 permits focal modulation of a structure six to eight centimetres deep with only minimal exposure of
@@ -289,6 +289,18 @@ accessible. Enhance it and the restriction tightens: more focus, firmer sense of
 accessible. Theta reaches memory and spaciousness; gamma reaches binding. **No other class can move
 one of those and hold the rest still.** Class IV opens everything; Class I changes only the aim. This
 one is the first dial in a room that previously contained a single switch.
+
+**Complement — who has been where the parameter opens:** the traditions holding maps of the region,
+which is the entire content of Book V and is why Book V is in this book. A teacher inside one of
+them, who has been to the place the setting opens onto, can tell you what is ordinary there and what
+is a wrong turn, and has watched several hundred other people arrive. The clinical literature on
+what happens after an induced state, which reports outcomes the device does not measure. ⚠ **The
+reachability here is real and unevenly distributed, and pretending otherwise would be the comfortable
+version: the traditions with the best-developed maps are largely not the ones with access to the
+instrumentation, and the laboratories with the instrumentation mostly do not employ anybody trained
+to read the destination.** So the complement exists, is consultable, and is *split across two
+institutions that rarely speak* — the fifth failure mode `IV.1` registers, and the only one on that
+list that an ordinary human act repairs. It costs one introduction. Nothing structural prevents it.
 
 **Null space:** what it structurally cannot render — **anything about where you have arrived.** It
 operates on the parameter and has nothing to say about the region the parameter opens, no account of

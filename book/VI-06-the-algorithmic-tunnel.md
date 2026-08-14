@@ -316,8 +316,22 @@ assigned to a treatment arm. This one has an experiment, and the evidence grade 
 therefore different in kind from VI.3's, VI.4's and VI.5's. C30 is **not** licensed here and is not
 claimed; the argument does not rest on convergence, and saying so is the point.
 
-**Complement:** the inventory fitted to the person; salience as a delivered quantity; the standing
+**Renders:** the inventory fitted to the person; salience as a delivered quantity; the standing
 connection as the real product; relevance experienced as the natural shape of the world.
+
+**Complement — who sees what this render cannot:** ⚠ **this is the card where IV.1's stated cost
+arrives in full, and it is recorded rather than smoothed.** A complement here must be a position that
+sees a *distribution* rather than a person, because the exclusion is individuated and no single
+viewer holds enough of it. Three exist. **The operator's own instrumentation** sees the whole surface
+and is the best-placed witness in this book — and it is not consultable, by anybody, on request; it
+is the clearest case in the volume of a complement that certainly exists and cannot be reached, which
+is the distinction `IV.1` marks and this card pays for. **The audit literature** — sock-puppet
+accounts, donated-data panels, algorithmic accountability work — reaches it partially, at
+institutional cost, on a lag, and its findings are public. **And one move is available to the reader
+this afternoon at no cost: put your feed beside another person's and read both.** That recovers the
+*fact* of divergence, which is the thing this render most needs an outsider for, and it does not
+recover the shape. **Two of the three witnesses are out of reach and the cheap one is partial** —
+which is a true report about where the reader is standing and not a defect of the card.
 
 **Null space:** **THE UNENGAGING — and, for the first time in this book, an unshared one.** Not
 merely what a person is not shown, but the fact that the *shape* of what they are not shown differs

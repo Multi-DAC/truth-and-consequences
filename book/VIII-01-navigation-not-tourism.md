@@ -191,7 +191,7 @@ book's blindest spot, because it is the water. Not any particular modality: the 
 underneath CBT and psychodynamics and coaching and most of what is meant by *self-work*, and the one
 the reader has almost certainly used, probably to his benefit.
 
-**Complement:** what it renders superbly, and this section is long because the instrument is very
+**Renders:** what it renders superbly, and this section is long because the instrument is very
 good and a short paragraph here would be dishonest. Distress. Dysfunction. Trauma, and the actual
 repair of actual damage, which is not a small thing and which no amount of metaphysics substitutes
 for. The mechanisms of avoidance. The way a belief formed at seven runs a life at forty. It gets the
@@ -199,6 +199,19 @@ for. The mechanisms of avoidance. The way a belief formed at seven runs a life a
 it without apology — and its empirical base is better than that of any tradition in Book V. **A
 reader in genuine distress should be in therapy and not reading this**, and the fact that a book
 about navigation has to say so plainly is itself a use of the instrument.
+
+**Complement — who sees whether the thing is worth being oriented toward:** the positions that have a
+term for a well-adjusted life aimed at nothing, and they are the ones this render replaced. Every
+tradition in Book V, all of which will tell a functioning person that their functioning is beside the
+point, and several of which are rude about it. Book VII's ethics, which is the part of this volume
+that answers the question directly. **And the cheapest and least respectable witness of the lot: a
+friend who will say that the thing you are working toward is not worth having, and who is not being
+paid.** That last one is genuinely reachable — most readers have such a person and can identify them
+in ten seconds — and it is the clearest case in Book VIII of the `VI.8` failure: **not distance,
+admissibility.** The render has a well-developed vocabulary for discounting exactly this witness. He
+is projecting, he has his own material, he is not a professional, this is *your* journey. Each of
+those is sometimes true and together they constitute a complete immune system against the only line
+of report the instrument cannot generate for itself.
 
 **Null space:** what it structurally cannot render. **Whether what you are oriented toward is worth
 being oriented toward.** It can tell you that you are distressed about X, that your distress is

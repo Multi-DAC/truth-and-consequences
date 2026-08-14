@@ -335,11 +335,21 @@ to the untransportable in the only place the render is looking.
 > **Whose:** ours, and the reader's while reading this. Installed unevenly from the sixteenth
 > century, standard by the nineteenth, invisible by the twentieth.
 >
-> **Complement — what it renders superbly:** the detachable claim. Anything that can be lifted out
+> **Renders — what it renders superbly:** the detachable claim. Anything that can be lifted out
 > of its encounter, held still, compared against another instance of itself, and checked by a
 > stranger. The cumulative correction of error. Argument in sequence, and history as a sequence.
 > This is not a weak render. On its own ground it is the most powerful one any human population has
 > ever operated, and the null space below is the price of that power and not an argument against it.
+>
+> **Complement — who sees what this render cannot:** the performance traditions that never conceded
+> the record was the archive, and they are all still running. A liturgy said rather than read. A
+> raga carried student to teacher with the notation admitted to be a souvenir. A trade taught
+> hand-over-hand because the manual has never once produced a competent apprentice. Every
+> transmission chain in Book V, which is Book V's actual subject. These are attendable this month,
+> in person, without permission, which is the only property that makes this line usable rather than
+> decorative. ⚠ **And what they cannot do is hand the null space back in print** — they can put you
+> in front of what does not transport; they cannot give you a form of it you could take home. If
+> they could, the exclusion would not have been real.
 >
 > **Null space:** the untransportable — anything whose truth does not survive detachment from the
 > one who said it, the moment it was said, or the body that holds it.

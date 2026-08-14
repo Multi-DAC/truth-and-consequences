@@ -100,12 +100,26 @@ the shared operation underneath contemplative self-inquiry, therapeutic reflecti
 examen, and the ordinary act of asking yourself what you think. It is the reader's first move and it
 is very nearly the only instrument the culture recognises as legitimate for this domain.
 
-**Complement:** what it renders, and it renders it better than anything else there is. **The contents
+**Renders:** what it renders, and it renders it better than anything else there is. **The contents
 of the render, live and at high resolution.** What you are feeling, right now, with a precision no
 external observer can match. What you want. What you are attending to and what it is like. Whether
 you have understood something. The distinction between a felt certainty and an argued one. It is the
 only access anybody has to the inside of a perspective, it is not replaceable, and every practice in
 the next five chapters depends on it working.
+
+**Complement — who sees what never reached the render:** two witnesses, and this chapter is about
+both of them, which is why the field had better name them rather than leave them in the prose.
+**The dated record**, which is the only instrument that can be consulted by the same mind that wrote
+it and still return an answer that mind did not want — because the entry was made before the outcome
+was known and the wanting had nothing to attach to yet. It is not another position; it is *this*
+position, from a date the render cannot revise, and that is enough to make it an outside witness in
+the only sense the law requires. **And another person**, who has the ordinary and undramatic property
+of seeing the parts of you that never arrived in your own survey — including the ones you would
+notice instantly in them. Both are reachable: one costs a notebook and a year, the other costs a
+conversation most people are willing to have if asked seriously. ⚠ **Neither can be replaced by more
+introspection, and the failure of the substitution is silent** — the render will happily produce a
+confident account of what it missed, in the same voice it uses for what it has, which is the
+mechanism below and the reason this line is not optional.
 
 **Null space:** what it structurally cannot render. **Anything that never reached the render at all.**
 It surveys what is present to consciousness — that is not a limitation of technique, it is what the

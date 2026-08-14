@@ -385,7 +385,7 @@ adopted for the same reason: it makes the world easy to be in.
 
 **THE UNIVERSAL MAYBE — no dates, available in every era, at its most attractive in this one.**
 
-*What it renders superbly*, and the complement is real or nobody would buy it: **plurality**. Under
+*What it renders superbly*, and it is real or nobody would buy it: **plurality**. Under
 this filter you see options where other people see one road. Positions that a committed person
 cannot even parse arrive intact and comparable. That is a genuine capacity and most people do not
 have it.
@@ -396,6 +396,17 @@ wearing the same *maybe* as everything that never risked anything. Uniform doubt
 added to every term, and a constant added to every term destroys the ordering. The filter does not
 hide the settled thing. **It delivers it at the same rank as its counterfeit**, which is worse,
 because a hidden thing can be looked for and a flattened one cannot.
+
+*Its complement — who sees the settled:* anybody who has staked something on a claim, named in
+advance what would defeat it, gone and looked, and either paid or been vindicated in public. The
+experimental sciences at their best, and their pre-registration machinery exists precisely because
+the settled and its counterfeit are hard to tell apart from inside. A tradesman, whose work is
+inspected by gravity. Anyone who has been wrong at cost and can describe the bill. **This complement
+is the cheapest to reach of any in the atlas — every reader knows such a person — and the filter's
+particular strength is that it makes consulting them feel unnecessary**, since under uniform doubt
+the person who paid and the person who postured arrive at the same rank. The line to ask for is not
+*what do you believe*; it is *what would have shown you were wrong, and what did it cost when you
+checked.*
 
 *Its boundary:* the point at which a claim would have to be defended. The filter is invisible in
 ordinary conversation, where nothing is being decided, and asserts itself precisely at the moment

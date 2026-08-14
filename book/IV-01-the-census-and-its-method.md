@@ -48,6 +48,51 @@ which is the other's remedy in one direction and its ignorance in another. There
 census from which the whole census can be taken. **That includes ours, and it is the reason this
 chapter exists.**
 
+⚠ **The middle clause of that law is weaker than it sounds, and it is marked here rather than left
+for the reader to find in Book VIII.** *Every null space is covered by some other position* is an
+existence claim, and its warrant is the one Book I already paid for: if everything that could be the
+case is the case, then some arrangement resolves what this one cannot. **That is enough to defeat
+ranking, which is the job the line was installed to do. It is not enough to fill the fifth line.**
+NAVIGATIONAL IMPLICATION asks where to *go*. A complement that exists somewhere in the plenum and
+cannot be consulted from here is no use whatever to somebody standing here. Existence is
+metaphysical; the card is practical; the distance between them is a real step, and this book takes
+it too quickly everywhere it is not marked.
+
+So the field carries a second obligation, and every card in this atlas is written to it: **name a
+complement that could actually be reached — a person, a tradition, an instrument, a species you can
+go and watch, a position somebody is currently occupying — or say plainly that you cannot.**
+*Anything with a second dimension* is true and discharges nothing; it restates the law in the slot
+where the law was supposed to cash out. The thermostat's card above is left exactly as it stands so
+that the difference is visible on the first page of the atlas: it is the weak form, and every card
+after it is the strong one.
+
+⛔ **And the honest version has a cost that must be stated rather than absorbed: it produces a
+ranking, of precisely the kind this line exists to prevent.** Positions whose complements are
+reachable will read as better-off than positions whose complements are real and unavailable. That is
+not an artefact of the instrument and it cannot be tuned out. It is a true fact about where the
+reader is standing, and burying it inside a formal guarantee — *the complement exists, therefore all
+is well* — would be the more comfortable error and the worse one. The census refuses the line
+outright exactly once, at `IV.8`, and the refusal is the correct move rather than a gap in the
+atlas.
+
+So a complement can fail in more ways than the law contemplates, and the atlas records the ones its
+own cards ran into rather than tidying them into the tightest list. It can fail to **exist**, which
+the law says it never does. It can exist and be **out of reach** — `VI.6`, where the best-placed
+witness is a company's internal instrumentation and no reader will ever see it. It can be reachable,
+free, standing in the room, and **inadmissible**, discounted on arrival for arriving in the wrong
+currency: `VI.8`'s case, and `VIII.1`'s, and the worst of them, because distance at least presents as
+distance and a witness you have already downgraded feels like a witness you consulted. It can be
+reachable and **declined** — `VII.3`, where the position has a standing motive not to ask and the
+card cannot make it ask. And it can be reachable in two halves held by **institutions that do not
+speak to each other**, which is `VIII.3` and is the only one on this list that an ordinary human act
+repairs.
+
+⚠ **That list is not claimed to be complete, and the incompleteness is the point.** It was not
+derived; it accumulated, one card at a time, from cases that would not fit the previous version — the
+same way the atlas got everything else it knows. A sixth mode is likelier than not. What the law
+guarantees is existence, and every step past existence has had to be paid for on the individual card
+by naming somebody and saying honestly how hard they are to get to.
+
 **BOUNDARY** is where a position goes from reliable to unreliable. Not where it stops — where it
 keeps producing readings and the readings stop being about anything. This is the most practically
 useful line on any card, and the least often asked for, because a boundary is invisible from inside

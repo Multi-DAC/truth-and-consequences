@@ -177,12 +177,25 @@ modes named above almost exactly: **seizing**, the tendency to take the first av
 measured, replicated, decades-old instrument, and the only one anybody has built for the question
 this chapter's fourth beat asks.
 
-**Complement:** what it renders, and it renders it well. **A disposition, across situations, relative
+**Renders:** what it renders, and it renders it well. **A disposition, across situations, relative
 to other people.** It can tell you that you sit high on the dial and it can tell you that the person
 you keep arguing with sits low, which is very often the entire content of the argument. For the
 question *which of the two failure modes is mine*, it is genuinely informative, and self-knowledge on
 this axis is unusually hard to obtain by reflection because both failure modes feel like competence
 from inside — one feels like clarity, the other like rigour.
+
+**Complement — who sees this decision:** the people holding the situational information the trait
+instrument averaged away, and for once they are not a tradition or a literature but **the specific
+individuals standing in the matter with you.** The colleague who knows what is actually still
+outstanding. The person on the other side of the question, who knows what they have not told you yet
+and whether it is coming. Anyone who has run this particular kind of decision before and can say what
+usually turns up after the point where you are minded to close. This is the most reachable complement
+in the book and the shortest-lived: **it decays, because it is information about a live matter and it
+is only true this week.** ⚠ **And the render discounts it in a characteristic direction** — these
+witnesses are interested parties, which is exactly why they hold the situational detail and exactly
+what makes them easy to set aside in favour of a number that is about nobody in particular. A trait
+score is disinterested and irrelevant; they are interested and relevant, and the instrument reads
+that trade as though it went the other way.
 
 **Null space:** what it structurally cannot render — **any particular decision.** It has nothing to
 say about whether *this* matter should be closed on Thursday. It is silent on whether contact is
