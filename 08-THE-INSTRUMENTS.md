@@ -148,8 +148,17 @@ position itself renders superbly***, which is the sentence that law forbids, and
 on the page: VII.5 *"what it renders superbly"*, VIII.2 *"what it renders, and it renders it better
 than anything else there is."* **The field kept its name and swapped its referent** — ruling 14's
 one-word-two-referents, inside the apparatus rather than in the prose, which is why axis 3 never
-caught it. **18 of 44 cards carry the inverted sense: v2 ×3, v3 ×2, v3-canon ×13** — and the inversion
-**survived into v3-canon**, so it is binding rather than a Book VI artefact.
+caught it. **18 of the 43 cards that carry the field ran under the inverted sense: v2 ×3, v3 ×2,
+v3-canon ×13** — and the inversion **survived into v3-canon**, so it was binding rather than a Book VI
+artefact. ✅ **REPAIRED Day 195, all eighteen, by splitting the field rather than renaming it** — see
+the v4-canonical ruling below, `IV.1`'s argument for the law it is rewritten under, and `VIII.2`'s
+audit, which now reports the defect in the past tense and states what the repair cost the reader.
+⚠ **Two corrections to this row's own figures, both found while paying it:** the denominator is **43,
+not 44** — 25 cards carry the field in the v1 sense (one of them `IV.8`'s explicit refusal) and 18
+carried it inverted; the 44 was never re-derived after it was first written. And the repair touched
+**16 labels, not 18**, because `VI.7` and `VI.8` already labelled the line *What it renders superbly*
+and needed only their editorial clause cut — a gauge counting relabelled fields reads 16 and is
+correct.
 
 ⛔ **The cost is not tidiness. COMPLEMENTS is the line that discharges VIII.2's Neptune/Vulcan bound**
 — a null space with a *named outside witness* licenses the step from hole to object; a null space
@@ -184,14 +193,32 @@ Book IV's. The reviewer's ruling — *rule the new line into the card format exp
 book inherits two* — is accepted. It is kept **as a declared field**, not as an undeclared
 inheritance.
 
-**Six fields, in this order, with these exact labels:**
+⚠⚠ **THIS RULING SHIPPED THE INVERSION AND IS SUPERSEDED — v4-canonical, Day 195, R-136 part 2 +
+R-219.** The six-field version below carried `Complement: what it renders superbly` as a *fixed
+string*, which is how a Book VI drift became a binding standard: the register did not merely fail to
+catch the defect, **it promoted it to law and then required the next thirteen cards to comply.** That
+is the worst thing an instrument register can do and it is kept on the page for the same reason every
+other correction here is. **The collapse is undone by splitting rather than renaming**, because the
+self-praise content is real and load-bearing — it is `SEES`, and it now has its own line.
+
+**Seven fields, in this order, with these exact labels:**
 
 > **Whose:** *(or* **Era:** *for a render bounded in time — both admissible, one per card)*
-> **Complement:** what it renders superbly
+> **Renders:** what it renders superbly — *this position's own strengths, and they are usually real*
+> **Complement:** ***another*** *position that sees into this one's null space, named specifically
+> enough to be gone to — plus how hard it is to reach* *(see* `IV.1` *on the five failure modes; a
+> refusal in* `IV.8`*'s form is admissible and is not a gap)*
 > **Null space:** what it structurally cannot render
 > **Boundary:** where it goes from reliable to unreliable
 > **Mechanism of the exclusion:** what the render identifies with what
-> **Navigational implication:** what to do about the other five
+> **Navigational implication:** what to do about the other six
+
+⛔ **`Renders` and `Complement` are never merged again, and the reason is not tidiness.**
+`COMPLEMENTS` is the line that discharges `VIII.2`'s Neptune/Vulcan bound; a card whose only named
+complement is its own subject has certified its own residual, which is the exact operation the book
+spends a chapter proving is unlicensed. **A merged field cannot fail visibly** — it reads well,
+scores on every prose gauge, and passes any string check, which is why this one survived thirteen
+chapters inside a register built to prevent drift.
 
 **Render:** bold sentence-case labels, one field per paragraph, blockquote optional.
 **Labels are fixed strings.** Editorial clauses that currently live in v3's labels move into the

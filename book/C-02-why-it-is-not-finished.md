@@ -129,14 +129,26 @@ shape is us.
 Two things, so that a reader can hold this book to them rather than take the general admission of
 fallibility that costs an author nothing.
 
-**The central instrument has a field whose name and referent disagree.** The census card's
-COMPLEMENTS line exists to name *another position that sees what this one cannot* — that is the law
-in `IV.1` and it is what licenses the card's central move. Partway through Book VI the field kept its
-name and quietly began reporting something else: what the position itself renders superbly. True,
-useful, and the wrong content for that slot. **18 of this volume's 44 cards carry it.** `VIII.2`
-diagnoses this against its own card, in the chapter whose subject is exactly that error, and at the
-time of this printing **it is diagnosed and not repaired.** It is named here because a defect the
-author has fixed only in private is not a defect the reader can check.
+**The central instrument had a field whose name and referent disagreed, and the repair is more
+interesting than the defect.** The census card's COMPLEMENTS line exists to name *another position
+that sees what this one cannot* — that is the law in `IV.1` and it is what licenses the card's
+central move. Partway through Book VI the field kept its name and quietly began reporting something
+else: what the position itself renders superbly. True, useful, and the wrong content for that slot.
+**18 of the 43 cards that carry the field ran under the wrong meaning**, from `VI.4` to the end of
+the volume, and `VIII.2` diagnosed it against its own card, in the chapter whose subject is exactly
+that error. **All eighteen are repaired here.** What stays open is what the episode exposed and a
+rewrite does not close: the law was on the page from `IV.1`, it was violated for eighteen consecutive
+cards, and **nothing in the project noticed until an outside reader compared the field's stated job
+against its delivered content.** A rule the author holds and nothing checks is not a guard. That
+condition is not specific to this field, and the volume does not claim to have found the other places
+it obtains.
+
+**And the fix installed a cost the first version did not have.** `IV.1` now concedes that the law
+delivers *existence* and the card needs *reachability*, which means the atlas admits it produces a
+ranking — positions whose complements can be consulted read as better off than positions whose
+complements are real and out of reach. That ranking is true and the line was installed to prevent
+one. **The book prefers the visible ranking to the formal guarantee, and a reader is entitled to
+think that trade was the wrong way round.**
 
 **And this manuscript has never been met cold.** Every reader it has had — every one — read it while
 it was being written, some of them repeatedly, all of them knowing what it was trying to do. That is

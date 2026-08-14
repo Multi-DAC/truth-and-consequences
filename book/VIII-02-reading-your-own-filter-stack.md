@@ -332,16 +332,32 @@ that names one has earned the step from residual to object. A card that names no
 Vulcan — and the honest form of that card is `IV.8`'s, *"⚠ The census declines this line,"* which
 occurs exactly once in the atlas.
 
-⛔ **This chapter's own card fails that test.** Its `Complement:` line names what introspection
-renders superbly — true, useful, and *not a complement*, because it describes this instrument's
-strengths rather than another position that sees what this one misses. The outside witness that
-covers introspection's null space is the entire subject of the chapter — the dated prediction, and
-another person — and it is in the prose and not in the field built to hold it. Nor is it one card
-slipping: the field kept its name and swapped its referent partway through Book VI, and **18 of the
-volume's 44 cards have run under the wrong meaning since**, in the device the argument leans on
-hardest. It is recorded here as an open defect rather than a repaired one, because the book you are
-holding still prints it, and a limit the author has only fixed in private is not a limit the reader
-can check.
+⛔ **This chapter's own card failed that test, in the draft, in the chapter that proves the bound.**
+Its `Complement:` line named what introspection renders superbly — true, useful, and *not a
+complement*, because it described this instrument's strengths rather than another position that sees
+what this one misses. The outside witness that covers introspection's null space is the entire
+subject of the chapter — the dated record, and another person — and it sat in the prose, three pages
+from a field built to hold it and holding something else. Nor was it one card slipping: the field
+kept its name and swapped its referent partway through Book VI, and **18 of the volume's 43 carded
+slots ran under the wrong meaning from there to the end of the draft**, in the device the argument
+leans on hardest. **All eighteen are repaired in the edition you are reading**, the self-praise
+content kept under the name it always deserved — `Renders` — and a complement named on each; `IV.1`
+carries the argument that had to be settled before any of them could be rewritten, since a card
+repaired under an unargued law repeats the error in a better hand.
+
+⚠ **Three things about that repair belong here rather than in a changelog, because the chapter's
+subject is what a self-examination cannot reach.** First, **the defect was not found by
+introspection.** It was found by an outside reader, working from the printed cards, who could compare
+the field's stated job against its delivered content without having been present when the drift
+happened — which is this chapter's own thesis arriving as an event rather than an example, and there
+is no version of the story in which the author noticed it by looking harder. Second, **the book had
+already stated the law that forbids it**, at `IV.1`, in the sentence most readers skim, and went on
+printing the violation for eighteen cards; **a rule you hold and do not check is not a guard, it is a
+sentence.** Third, and least comfortable: the repair means this passage can no longer be verified by
+a reader against the cards in front of them the way the unrepaired version could. **You are now
+taking the failure on the author's word and the fix on the evidence** — the reverse of the position
+you were in, and worth naming, since the whole chapter argues that the direction of that asymmetry is
+exactly what nobody checks.
 
 This is also the chapter's defeat condition, which is owed since the book has been demanding them of
 everyone else. **If your register of predictions runs for a year and shows no stable bias in any

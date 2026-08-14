@@ -3008,6 +3008,45 @@ match; it is R-126 family 2's hand-classified shape.** **TRIGGER: ★ BEFORE THE
 work's own status and this is a claim about what the work's central instrument is licensed to do.**
 Large.
 
+✅ **PAID IN FULL, Day 195 — all three parts, with R-219 discharged first because it binds.**
+
+**(1) was already paid** — `VIII-02`:321 audits its own card and names the count. It is now rewritten
+into the past tense, and three things about the repair were added that a changelog would have
+swallowed: the defect **was not found by introspection** (an outside reader compared the field's
+stated job against its delivered content — the chapter's thesis arriving as an event); the book **had
+the law on the page from `IV.1` and printed the violation for eighteen cards anyway**, so a rule
+nothing checks is a sentence and not a guard; and the repair **inverts what the reader can verify** —
+the failure is now taken on the author's word and the fix on the evidence, which is the reverse of
+the position the unrepaired version left them in and is said out loud.
+
+**(2) Restored by SPLITTING, not renaming.** *What it renders superbly* is real, load-bearing and
+frequently the best paragraph on the card — it is `SEES`, and it now has its own line, `Renders`. All
+18 gained a `Complement` naming outside witnesses keyed to that card's own null space. `08`'s
+v3-canon ruling — which had promoted the inverted gloss to a **fixed string** and required thirteen
+subsequent cards to comply — is superseded by a seven-field **v4-canonical** and the old ruling is
+kept on the page as the register's own worst moment.
+
+**(3) `tools/complement_referent.py`, wired into `card_sweep.py` so running the existing gauge runs
+it.** It does not judge sense and says so: it forces a **hand ruling per card** into
+`tools/complement_rulings.json` and fails on UNRULED (a card nobody has ruled on), STALE (a ruled
+field whose text has since changed — the ruling described text that is gone) and SELF. Positive
+control run before it was trusted: reverting `VII.6` to the inverted sense produces STALE and exit 1;
+restore returns green and a clean tree.
+
+⚠ **Two corrections to this row's own figures, both found only because paying it required
+re-deriving them** — the row is a measurement wearing the authority of a written fact.
+**The denominator is 43, not 44.** 25 cards carry the field in the v1 sense (one being `IV.8`'s
+explicit refusal) plus 18 inverted; the 44 was written once and never re-derived, and no card count
+in this project reproduces it. **And the repair relabelled 16 fields, not 18** — `VI.7` and `VI.8`
+already labelled the line *What it renders superbly* and needed only their editorial clause cut, so a
+gauge counting relabelled fields honestly reads 16.
+
+★ **What the repair opened, and it is not closed: 19 of the 43 cards are UNGRADED for
+reachability.** `IV.1` now requires a complement that can be gone to, and most v1 cards answer with
+an existence claim — *"Anything with a second dimension"*. They are OUTWARD and they are not yet
+known to discharge the stronger obligation. The gauge prints all 19 by name every run rather than
+reporting a green over a population it has only half read. **Filed as R-235.**
+
 ---
 
 **FILED — R-137: THE GENRE ROSTER IS A SELF-GENERATED DENOMINATOR, AND WITTGENSTEIN WAS NEVER A ROW.**
@@ -5453,6 +5492,27 @@ higher-status than those without."* — a **ranking**, produced by the line inst
 **TRIGGER: with R-136's repair, because a card rewritten under an unargued law repeats the defect in a
 cleaner hand.** **medium.**
 
+✅ **PAID Day 195, and paid FIRST, exactly on the trigger's reasoning.** `IV.1`'s COMPLEMENTS
+paragraph now marks the step the book was sliding across: the plenum premise delivers **existence**,
+`NAVIGATIONAL IMPLICATION` demands **reachability**, and the field carries the second obligation
+explicitly — *name a complement that could actually be reached, or say plainly that you cannot.* The
+thermostat card is deliberately left in the weak form on the atlas's first page so the difference is
+visible where the instrument is introduced.
+
+★ **This row's own load-bearing sentence is now IN THE BOOK rather than about it:** the honest
+version produces a ranking of the kind the line was installed to prevent, and `IV.1` states that,
+declines to tune it out, and says the visible ranking is preferred to the formal guarantee. `C.2`
+carries the same admission and invites the reader to think the trade went the wrong way round.
+
+⚠ **And the rewrite found more failure modes than this row contemplated.** Writing 18 cards against
+the law surfaced cases neither passage anticipated: reachable-but-**inadmissible** (`VI.8`, `VIII.1` —
+discounted on arrival for arriving without a number, and worse than distance because a downgraded
+witness feels consulted), reachable-but-**declined** (`VII.3`, where the position has a standing
+motive not to ask), and **split across institutions that do not speak** (`VIII.3`, the only one an
+ordinary human act repairs). `IV.1` registers all five and **explicitly declines to claim the list is
+complete** — it was not derived, it accumulated one card at a time, which is how the atlas got
+everything else it knows.
+
 ## R-220 — THE STIPULATION IS DECLARED AT II.4 AND QUIETLY EXCEEDED BY VII.2
 
 **MEDIUM.** II.4 declares *reactivity is awareness* a **definition**, states the right test (*a definition
@@ -5989,3 +6049,37 @@ answer and may be the better one.** What is not legitimate is the current state,
 undeclared and reads as an oversight.
 
 **TRIGGER: the Book VII revision pass, in the sitting that opens II.4's grade chapter.** ⛔ **FIRED UNOBSERVED — SHIPPED UNGUARDED, now a defect.** ⛔ It named the floor row as its gate, that row was **paid Day 195**, and **this one was not paid with it** — the floor got its grade axis and the grade chapter still has no receipts. Same defect, and only one end of it was repaired. The floor that does not slope and the grade chapter with no grades are one argument. small.
+
+---
+
+## R-235 — 19 OF 43 CARDS ARE OUTWARD AND UNGRADED FOR REACHABILITY
+
+**MEDIUM. Opened BY R-136's repair, which is the honest way for a row to arrive — the fix raised the
+standard and the older cards have not been read against the new one.**
+
+`IV.1` now requires a complement that could actually be reached — *a person, a tradition, an
+instrument, a species you can go and watch* — and states that the field carries that obligation. **The
+25 v1 cards were written before the obligation existed and mostly answer with an existence claim:**
+*"Anything with a second dimension"* · *"Everything"* · *"Anything with a seat"* · *"Anything that can
+go and look"*. Those are true, they discharge the anti-ranking job, and **they do not tell a reader
+standing in the null space where to go**, which is what the fifth line promises them.
+
+✅ **Five of the 25 already pass and are ruled `reachable`:** `IV.3`'s *its own bees*, `IV.5`'s
+*anyone who has left*, `IV.7`'s *every reader*, `VI.2`'s *population epidemiology*, `VI.3`'s *every
+tradition in Book V*. **One is ruled `n/a`** — `IV.8`'s explicit refusal, which is a ruling and not a
+gap. **That leaves 19, named individually by `tools/complement_referent.py` on every run.**
+
+⚠ **The instrument does NOT report this as a failure and that is deliberate**, because an ungraded
+card is not a defective card — nobody has looked. The registry keeps `reach` as five values rather
+than a boolean for exactly this reason: *graded and out of reach* (`VI.6`) and *nobody looked* are
+opposite epistemic states, and a boolean prints them as one number, **which is the collapse the whole
+instrument exists because of.** [[feedback_field_keeps_name_swaps_referent]]
+
+⛔ **Do not batch-rewrite these.** `IV.1` leaves the thermostat card in the weak form on purpose, so
+the difference between the two is visible where the card is introduced — at least one weak instance
+must survive, and which ones are *legitimately* generic (a mineral's complement really is close to
+*everything*) is a judgement per card, not a sweep. **The first act on each is to read the field body,
+which is the one thing the D195 pass did not do for these 19.**
+
+**TRIGGER: the Book IV revision pass — these are all Book IV/V/VI.1 cards and they should be read in
+the sitting that opens those chapters, not as a separate errand.** medium.

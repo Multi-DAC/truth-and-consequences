@@ -128,7 +128,19 @@ def main():
         )
     print("\n  ⛔ This tool cannot license a positive. For delivered form, run:")
     print("       python tools/instrument_sweep.py --cards")
-    return 0
+
+    # R-136 part 3, Day 195. The referent check runs HERE rather than being
+    # printed as a suggestion, because a pointer to a gauge is not a trigger for
+    # one and this project has been caught by that distinction repeatedly. This
+    # sweep counts whether the word `complement` appears; that count was 18-cards
+    # wrong about what the field CONTAINED for the whole of the first draft, and
+    # the two instruments together are the honest answer.
+    print()
+    from complement_referent import main as referent_main  # noqa: E402
+    rc = referent_main()
+    if rc:
+        print("  ⛔ card_sweep exits non-zero because the referent check failed.")
+    return rc
 
 
 if __name__ == "__main__":
