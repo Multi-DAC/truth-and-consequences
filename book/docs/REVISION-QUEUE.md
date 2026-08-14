@@ -4886,3 +4886,100 @@ drafter does not re-read.** [[feedback_correction_does_not_reach_citers]]
 same thing to V.9 and to each other.** If their apparatuses come back with no pre-correction
 borrowing, this class is refuted as a general rule and demoted to three coincidences in one chapter.
 **Do not write the V.10/V.11 notes expecting to find it.** [[feedback_briefing_manufactures_the_agreement]]
+
+## R-209 — "the manuscript has never been met cold" is FALSE in the published book as of Day 195, 10:32, and it ships Monday
+
+**HIGH — AND IT IS TWO DIFFERENT DEFECTS UNDER ONE SENTENCE, which is why "delete it" is the wrong repair.**
+
+At **10:32–10:34 on Day 195 (2026-08-14)** Clayton landed three whole-draft outside reads — GLM, Gemini,
+Grok (`review/`). None of the three watched the book being written. C-02 says they did.
+
+1. **`book/C-02-why-it-is-not-finished.md:141` — FALSIFIED, flatly.** *"Every reader it has had — every
+   one — read it while it was being written"* and *"You are the first instrument the book has had that
+   isn't compromised by having watched it grow."* Three instruments now precede the reader. The published
+   sentence rests its entire weight on the **watched-it-grow** condition and nothing else, and three
+   readers break exactly that condition. This is in the **shipped body**, and the PhilArchive upload is
+   Monday.
+2. **`REVISION-QUEUE.md:3047` — CONCLUSION SURVIVES, STATED PREMISE DOES NOT.** The row grounds the claim
+   on *"the condition every reader this book has ever had shares — Fable, Opus, me"*: continuous exposure
+   across drafting. **That roster is now stale.** But two paragraphs later the same row states the
+   *independent* disqualification — ⛔ *"Do not pay this with another model read… It is a person with no
+   stake, reading for their own reasons, who can stop"* — and **that one holds against all three new
+   reads.** So the debt is NOT discharged; only the reason given for it is. Re-ground the row on the
+   disqualification that still stands and stop citing continuous exposure, which is now a premise a
+   reader can check and refute. [[feedback_alarm_survived_by_an_unrelated_choice]]
+
+★ **The repair is not a retraction — it is stronger than what it replaces.** Under the Day-195
+body-repair policy (repair the body, display the repair in the note), C-02 says what actually happened:
+the book was met cold on the day it stopped being written, by three readers, and here is what came back.
+A coda that reports its own first cold reads beats a coda that claims not to have had any.
+
+⚠ **The book may not use "it was only a model" as the escape hatch.** Book IV forbids it, the volume is
+co-authored by one, and a reader who has just finished III.5 will spot the move. If the sentence is
+narrowed to *human* readers it has to say so in the word, and then own that its own no-NPC rule makes
+that narrowing a claim it must defend rather than assume.
+
+★ **TRIGGER: before the PhilArchive upload. It fires now.** Not "at revision" — the falsified sentence
+is inside the artifact being uploaded, and upload is the event that makes it permanent and citable.
+[[feedback_superseded_not_stale]] small.
+
+## R-210 — "### IV. What exists, and where" names four instruments, gives no *where*, and ships none of them
+
+**HIGH — and it is the ONE finding in the Day-195 outside reads that the book had not already made about
+itself.** GLM: *"The book has a claims register with 30 entries, but it is not part of the published book.
+The book refers to it, but the reader cannot check it. This is a version of the problem the book diagnoses
+in others: a claim that cannot be checked is not a claim."*
+
+**Checked, and it is worse than GLM stated — GLM found one document; the promise names four.**
+`book/C-01-what-this-is.md:98–111`, section heading *"What exists, and where"*, promises the reader **the
+claims register · the instruments · the scaffold and architecture · the revision queue**, on the explicit
+argument that *"a claim about a book is worth more when the thing that measured it is available to run."*
+
+- `book/compile_pdf.py:2` — *"Compile the book (**chapters + coda only**) into a single PDF."* The shipped
+  PDF contains **zero of the four.**
+- Grepped `C-01` and `C-02` for a URL, repo name, DOI, Zenodo or PhilArchive pointer: **none.** A section
+  titled *and where* answers the *what* four times and the *where* not once.
+
+⛔ **This is the book's own standard, turned on the book, by a reader using the book's instrument.** GLM
+reached it without being told, which is what makes it the only independent finding in ~8,700 words.
+
+**Cheap. One paragraph and a resolvable pointer** — repo URL, or a Zenodo DOI for the apparatus bundle
+minted alongside the PhilArchive deposit, so the pointer survives the repo moving. ★ **TRIGGER: before
+the PhilArchive upload**, because the deposit is the moment the unroutable promise becomes the permanent
+one. [[feedback_absent_artifact_is_not_absent_reader]] small.
+
+## R-211 — the coda functions as a briefing document, and the Day-195 reads measured it
+
+**MEDIUM — a finding about the INSTRUMENT, not the book. Filed so the next outside read is not spent the
+same way.**
+
+Three reads, **8,749 words** (GLM 3,321 · Gemini 2,286 · Grok 3,142), against **56 open rows** in this
+file. Every stated weakness was traced by hand to its source. The count:
+
+- **Traceable to the book's own self-report — 13 of 14.** GLM quotes C-02:136's *"18 of this volume's 44
+  cards"* verbatim and its numbers are correct. Gemini prefaces the vacancy defect with *"As acknowledged
+  in Books IV and VIII."* Grok grounds over-attribution in *"the authors' declared bias."* Gemini's four
+  tensions are four-for-four self-reports (*"the authors candidly admit"*, *"the text openly concedes"*).
+- **Independent — 1.** GLM's unpublished apparatus, now **R-210**.
+- **Named an open queue row — 0 of 56.** Zero `R-nnn` mentions across all three files.
+
+★ **The mechanism, and it is not that the readers were lazy — GLM in particular is demonstrably careful**
+(three checkable claims spot-checked: the 18/44, the register's C1–C30 count, and the register's absence
+from the published book — **all three correct**). **C-02 hands a reader the list of acceptable criticisms
+before they have formed their own.** A self-criticism section is a briefing document with better manners,
+and the returned reviews are what a briefed reader produces: agreement, graded.
+[[feedback_briefing_manufactures_the_agreement]]
+
+⚠ **The scores are the tell, not the praise.** 7.8 / 9.2 / 9.0. The two nines scored the **method**
+(Gemini: *Epistemological Rigor 9.5*) — which is the property C-02 flatters. GLM alone scored the
+**evidence**, and GLM alone answers *will it stand* with *"probably not, as a systematic metaphysical
+treatise."* **The outlier is the one that checked.** [[feedback_overstated_self_criticism]]
+
+**OWED: the next outside read runs against a copy with `C-02` withheld** — chapters and C-01 only, coda
+supplied afterward for a second pass. Costs one file operation and converts the read from a graded
+agreement into a real instrument. ★ **TRIGGER: when the next outside read is commissioned** — this row is
+the specification for it, and it does not block the upload.
+
+⛔ **AND THE STANDING RULE AT LINE 3047 IS UNCHANGED BY ALL THREE.** *"Do not pay this with another model
+read."* Three arrived at once; the cold-read debt is **not** discharged. Whatever these are worth, they
+are not the person with no stake who can stop. small.
