@@ -28,7 +28,7 @@ other rows are wrong. It is a declaration that they are **maintenance, not a pub
 
 | gate | row | satisfaction test — met or not met, no judgement call |
 |---|---|---|
-| **1. The edition policy is DECIDED** | **R-212** | A written ruling in `00-ARCHITECTURE.md` adopting **(ii) repair the body, mark the repair** — which is what Book V already does three times and what the Coda currently contradicts. Test: the ruling exists, and `edition_scheme_sweep.py` has been re-run against IV.10 and Book V with the delta recorded. ⛔ The IV.10 fabricated quotation inside an accusation comes out **regardless of which way the policy goes** — that one is not waiting on the decision. |
+| **1. The edition policy is DECIDED** ✅ **MET Day 195** | **R-212** | A written ruling in `00-ARCHITECTURE.md` adopting **(ii) repair the body, mark the repair** — which is what Book V already does three times and what the Coda currently contradicts. Test: the ruling exists, and `edition_scheme_sweep.py` has been re-run against IV.10 and Book V with the delta recorded. ⛔ The IV.10 fabricated quotation inside an accusation comes out **regardless of which way the policy goes** — that one is not waiting on the decision. |
 | **2. Book I gets its transition** | **R-228** | II.1 no longer opens cold. Test: a named transition passage exists between I.6 and II.1. ★ **The only finding two blind readers reached separately** — the highest evidence grade in the entire pile. |
 | **3. The floor slopes** | **R-216** | VII.3's floor grades, in a book whose whole ethic is grading. Test: the floor passage carries a grade axis, or prints its refusal with a reason. This is the sharpest self-inconsistency in the manuscript and the first thing a hostile reviewer finds. |
 | **4. A stranger can navigate it** | **R-222** | Index, glossary, bibliography — or a written refusal of each, with a reason. Test: the three artifacts exist, or `00` records the decision not to build them. |
@@ -115,7 +115,7 @@ line, which is the honest half of it.
 | **R-61** | *(Day 189, Opus rolling read, smaller items)* | V.10 | **V.10 NEEDS V.11's GRADE NOTE, AND ONE CLAIM IN IT IS CARRYING MORE THAN THE GRADE ALLOWS.** V.11's grade note is *"exactly right in form"* per the read — **and V.10 has none**, though it is the chapter doing the heaviest transmission work in the book. ⚠ **Specifically: the Whitman-via-Emerson-via-Vedic-translation claim is doing real load in V.10's branch count and is more contested in the scholarship than the sentence allows.** V.11's note covers nine names and not this one, because the claim lives in the other chapter. | **At V.10 revision**, and ★ **before the Whitman line is quoted forward** — it is the most quotable finding in Book V, which is exactly what makes an ungraded version of it dangerous. | small |
 | **R-62** | *(Day 189 evening integration — the gauge reporting on itself)* | `tools/row_promotion_sweep.py` | ★ **THE SWEEP NOW REPORTS A VIOLATION IT MANUFACTURED, AND WRITING THIS ROW MAKES IT WORSE.** Live output tonight: `[X] 1 FILED BUT NEVER ROWED — R-44, cited in: book/DRAFT-LOG.md, review/PACKET-002`. **R-44 was never filed.** It is the *declared hole* — DRAFT-LOG:7935 says so in the sentence the sweep is reading. The tool matches the literal token `R-<n>` anywhere in the corpus and cannot distinguish **prose that FILES a row** from **prose that DESCRIBES a row's absence**, so the act of documenting the hole created the citations that read back as a filing. ⚠ **This is self-amplifying and cannot be documented away: every future mention of R-44 — this row included — adds a citation and strengthens the false positive.** The fix is therefore in the instrument, never in the prose. ✅ **Repair shape: a declared-exception table (`R-44 = HOLE, declared Day 189`), cleared only by a written declaration, never by silence** — the same construction `liveness/scope_audit.py` axis (f) already uses. Silence must not clear an entry, or the tool stops measuring while still printing. ⚠ **SECOND, UNRELATED, STILL LIVE: the `R-32` collision** — one number, two rows, left unrenumbered under ruling 145's precedent. That one is correctly reported and correctly deferred. | ⚠⚠ **BEFORE THE NEXT PACKET SHIPS, WITH R-58 — and RUN COLD, NOT TONIGHT.** This repair can only move an `[X]` to `[ok]`, and it is proposed by the party the `[X]` names, ninety minutes after that party built the tool. **The deliverable is the DELTA, never the exit code:** the fix must print *which* citations it reclassified and *why each one is prose-not-filing* — a clean run alone is not evidence, it is the failure mode. **Positive control required: feed it a genuinely unrowed number and confirm the `[X]` still fires.** | small — **and the discipline is the whole cost** |
 | **R-63** | *(Day 189 night, found while paying R-58 — and the row was WRONG on first writing, corrected by measuring it)* | **`tools/` — the subset that matches multi-word phrases** | ★★ **A PHRASE THAT STRADDLES A LINE BREAK IS INVISIBLE TO A LINE-ORIENTED GAUGE, AND THE GAUGE REPORTS A CLEAN FILE.** ✅ **Proven with a positive instance, not argued:** R-58's own census was taken with a single-line match and **certified `04-THE-UNSATISFYING-ANSWERS.md` as carrying ZERO while it carried a two-line one**, plus a six-line retracted priority in `00`. ✅ **And a second, independent instance in the prose gauges: `card_sweep.py`'s `null[- ]space` pattern under-reports `IV.3` by 1 and `IV.5` by 1** — `[- ]` does not match a newline — confirmed by re-running every Book IV/V chapter with whitespace normalised. ✅ **GEOMETRY, MEASURED on 8,659 lines of drafted prose: mean 15.2 words/line**, so a straddle costs a **2-word** phrase ~**6.6%** of its hits, a **3-word** ~**13.2%**, a **5-word** ~**26.3%**. A multi-word gauge on hard-wrapped prose has a silent miss rate that rises with phrase length, and **not one tool declares it.** ⚠⚠ **WHAT THIS ROW IS *NOT*, and the correction is the most useful thing in it. It was first written as "every sweep in this repository is line-oriented" — a CLASS claim over all 20 tools — and measuring refuted it in both directions.** (a) **`genre_sweep.py`:188 is wrap-safe BY CONSTRUCTION** — it compiles patterns as `\s+`-joined words, which crosses newlines — so **R-19's genre sweep was never exposed** and naming it was an error. (b) **`brief_fields.py` splits on `\n` and my first classifier missed it**, so the same pass produced a false positive and a false negative *about its own subject matter.* ★ **The lesson is the Day-188 law arriving twice in one hour: the instrument I used to survey instrument-blindness had the blindness.** ✅ **Repair shape: one shared `normalise(text)` helper — join, collapse, match — and every tool PRINTS whether it applied it.** A tool that does not declare its wrap-handling is asserting a coverage it has not got. ⚠ **Do NOT fix this by unwrapping the source files** — the wrap is the editing format; the defect would move, not die. | ⚠ **NOT BEFORE VI.1 — and R-54 is explicitly CLEARED, which is why this row does not block anything.** The fork's evidence was re-run under normalisation and **Book V's cliff does not move: V.3–V.11 remain 0 on both diagnostic fields under both readings.** The two chapters that moved are Book IV and already carded. **So R-54 is decided on a count that survives the fix, and the large work it commissions is safe to start.** ★ **TRIGGER: the next time a count DECIDES work — before that count is believed, not on a date.** The two known misses are recorded above so this row cannot be closed by a clean re-run alone. | medium — one shared helper; **audit first, the call-site count is not yet established and this row will not guess it again** |
-| **R-212** ★ **GATE 1** | *(Day 195, ghost-Opus audit + Fable D193)* | **`00`'s edition policy · IV.10 · Book V · the Coda** | ★★ **THE BOOK RUNS TWO INCOMPATIBLE EDITION POLICIES AND DEFENDS THE ONE IT DOES NOT FOLLOW.** Book V executes *repair-the-body-mark-the-repair* three times (V-01 fn2/fn3, V-02 fn7 — verified: V-01:24 now reads *"in the thirteen-twenties"*). IV.10 leaves a **fabricated quotation standing inside an accusation**, and the Coda defends that as principle. R-227, R-221, R-217, R-218 all hang off this decision and cannot be worked before it. | ★ **RELEASE GATE 1.** A written ruling in `00` adopting (ii), plus `edition_scheme_sweep.py` re-run against IV.10 and Book V with the delta recorded. ⛔ The IV.10 fabrication comes out **either way** — do not wait on the policy for that one. | large |
+| ~~**R-212**~~ ✅ **PAID Day 195 — GATE 1 MET (ruling 177 written; 11 sites swept; gauge delta recorded and it is ZERO, as declared in advance)** | *(Day 195, ghost-Opus audit + Fable D193)* | **`00`'s edition policy · IV.10 · Book V · the Coda** | ★★ **THE BOOK RUNS TWO INCOMPATIBLE EDITION POLICIES AND DEFENDS THE ONE IT DOES NOT FOLLOW.** Book V executes *repair-the-body-mark-the-repair* three times (V-01 fn2/fn3, V-02 fn7 — verified: V-01:24 now reads *"in the thirteen-twenties"*). IV.10 leaves a **fabricated quotation standing inside an accusation**, and the Coda defends that as principle. R-227, R-221, R-217, R-218 all hang off this decision and cannot be worked before it. | ★ **RELEASE GATE 1.** A written ruling in `00` adopting (ii), plus `edition_scheme_sweep.py` re-run against IV.10 and Book V with the delta recorded. ⛔ The IV.10 fabrication comes out **either way** — do not wait on the policy for that one. | large |
 | **R-228** ★ **GATE 2** | *(Day 195, ghost-Opus Critical Assessment + Fable D193 — independently)* | **I.6 → II.1** | ★★ **BOOK I's REGISTER IS ABANDONED WITHOUT TRANSITION.** II.1 opens cold in a different voice and the reader is not carried across. ★ **THE ONLY FINDING TWO BLIND READS REACHED SEPARATELY — the highest evidence grade in this entire file**, and the one place the [[feedback_briefing_manufactures_the_agreement]] objection cannot reach, because neither reader could brief the other. | ★ **RELEASE GATE 2.** A named transition passage exists between I.6 and II.1. | medium |
 | **R-216** ★ **GATE 3** | *(Day 195, ghost-Opus audit)* | **VII.3 — the floor** | ★★ **THE FLOOR DOES NOT SLOPE AND THE STAKE GRADES ALL THE WAY DOWN.** A book whose entire ethic is grading evidence has an ethics chapter that does not grade. **The sharpest self-inconsistency in the manuscript and the first thing a hostile reviewer reaches for** — it attacks the method using the method. | ★ **RELEASE GATE 3.** The floor passage carries a grade axis, or prints its refusal with a stated reason. | medium |
 | **R-222** ★ **GATE 4** | *(Day 195, ghost-Opus audit)* | **front and back matter** | **NO INDEX, NO GLOSSARY, NO BIBLIOGRAPHY.** A 300,000-word work of reference apparatus with 531 notes and no way into it except linear reading. This is the row about the book as **an object a stranger picks up**, which is the register the whole release turns on. | ★ **RELEASE GATE 4.** The three artifacts exist, **or** `00` records a written refusal of each with its reason. A refusal is a discharge here; silence is not. | medium |
@@ -5117,7 +5117,69 @@ is not. It is **R-228**, and its evidence grade is the highest of anything filed
 
 ---
 
-## R-212 — THE BODY-REPAIR POLICY, AND THE SWEEP IT AUTHORISES
+## R-212 — ✅ **PAID DAY 195 — RULING 177 IS WRITTEN AND THE SWEEP HAS RUN. GATE 1 IS MET.**
+
+**Ruling 177, `00-ARCHITECTURE.md`:** *(ii) released edition — repair the body, mark the repair, keep
+the archaeology in the note.* Scope stated as a two-condition test (load-bearing AND overturned by
+this project's own apparatus), so it is a rule rather than a mood.
+
+**TWO OF THIS ROW'S OWN PREMISES WERE FALSE, AND BOTH WERE FALSE IN THE SAME DIRECTION — OVERCHARGING.**
+[[feedback_filed_defect_misprices_its_own_subject]]
+1. *"what Book V already does three times"* — **measured: six times, across two books.** `IV-02` [^2],
+   `IV-03` twice, `V-01` [^2], `V-01` [^3], `V-02` [^7]. The row undercounted its own supporting
+   evidence by half, and mislocated the split as Book-V-versus-IV.10 when Book IV is on both sides of it.
+2. *"and what the Coda currently contradicts"* — **the Coda does not contradict it.** The changelog
+   defence lives at `IV-10` [^2] and is doing narrower work: it mourns a *destroyed measurement*, which
+   is a real and separate problem. C.2 §I argues that a mark is a dated act rather than a standing
+   property, which is **compatible with (ii) and in fact argues for it.** Grepped all 69 chapters for
+   any other archive-edition defence: **one hit, `V-08`:318, and it says the opposite.** The gate had
+   been asserting a Coda-level contradiction that is not in the Coda.
+
+**THE SWEEP — ELEVEN SITES ACROSS EIGHT FILES, ALL REPAIRED, EACH MARKED IN ITS OWN NOTE:**
+
+| # | site | what was standing in the body | source |
+|---|---|---|---|
+| 1 | `IV-10`:230–236 | a **fabricated quotation inside an accusation** — a sentence attributed in bold to the source, which the source never wrote | list |
+| 2 | `06`:1600–1612 | **the generator.** The heading asserted the entry carried the clause *in two forms*; one form was ours | list |
+| 3 | `V-11`:216 | V.1's fourth proposition given as *the failure of every name*; it is *has no outside*, and the swap lost the cut | list |
+| 4 | `V-11`:217 | the convergence spent at pre-audit strength — *no shared vocabulary*, when shared vocabulary is the mechanism V.1 documents. Now says **three, not six** | list |
+| 5 | `V-11`:105 | III.6 quoted with the invented clause *under the threshold* | list |
+| 6 | `V-09`:117,125 | *"run at full cost never"* — false when typed; V.8 ran it 26 minutes earlier | list |
+| 7 | `V-09`:161 | an adapted sentence set in italics as V.1's own words | list |
+| 8 | `V-10`:8–25 | **four silently closed ellipses**, one of them replaced by a comma, which asserts continuity rather than merely dropping it | list |
+| 9 | `V-03`:290 | the closing tally counting a survival the body had already downgraded | list |
+| 10 | `V-07`:91,221 | ⛔ **NOT ON THE LIST** — *under the threshold* again, twice, in a chapter the sweep never named | **grep** |
+| 11 | `07`:1312 | ⛔ **NOT ON THE LIST** — the **claims register** carrying the same V.1 misquotation the prose was being repaired for | **grep** |
+
+★★ **THE SHARPEST THING THE SWEEP FOUND IS AT `V-07` [^5], AND IT IS ABOUT VERIFICATION ITSELF.** That
+note certifies the passage *"✅ III.6, verbatim on both halves"* **and quotes III.6:207 correctly** —
+*over time* — while the body six lines above it printed *under the threshold*. **The check ran. The
+check passed. The check quoted the true text. And it never reached the sentence it was certifying.**
+A green tick sitting beside an uncorrected error, with the correct string stored in the same note.
+[[feedback_gauge_and_responder_mis_specified_as_a_pair]] · [[feedback_correction_does_not_reach_citers]]
+
+⚠ **AND THE LIST WAS 75% COMPLETE.** Six chapter sites named by six outside reads, all six real; two
+more found only by grepping the repaired strings across the whole tree — including **the claims
+register**, which the list covered only as *"then the planning files."*
+[[feedback_grep_derived_from_the_finding]]
+
+**THE GAUGE DELTA, RECORDED AS THE SATISFACTION TEST REQUIRES — AND IT IS ZERO.**
+`tools/edition_scheme_sweep.py`, before and after all eleven repairs — of which **six are in the
+six drafted chapters the gauge actually reads** (`IV-10`, `V-11`, `V-09`, `V-10`, `V-03`, `V-07`);
+`06` and `07` are outside its 67-chapter scope by construction:
+**EDITION-NAMINGS 81 → 81 · EXTERNAL LOCI 34 → 34 · EXPOSED PAIRS 72 → 72.**
+★ **That zero is the result, not a failure to measure.** Ruling 177 declared this limit in advance —
+the sweep counts edition namings and exposed pairs, and **nothing in this tree can detect a fabricated
+quotation absent the source.** The gauge measures the sweep's collateral, not its subject. Eleven
+repairs moved it by nothing, which is the predicted reading and now an observed one.
+⛔ **Consequence, stated so it is not mistaken for a clean bill:** there is **no instrument** standing
+behind this class of defect. Every one of the eleven was found by a human or model reading the source
+against the page. The gate is met because the named sites are repaired, **not** because anything
+certifies that no twelfth site exists. [[feedback_zero_needs_a_positive_control]] · [[feedback_partial_delivery_beats_no_gauge]]
+
+*The original row, kept below because the ruling answers it point by point.*
+
+## R-212 (as filed) — THE BODY-REPAIR POLICY, AND THE SWEEP IT AUTHORISES
 
 **⛔ BLOCKING — the first item of the revision pass, and nothing else in the pass can be scoped until it is
 decided.** Fable's #1, the ghost audit's §3.5 and §3.3, and the phantom citation at `:4913` are one item.

@@ -2926,3 +2926,86 @@ See **R-65**, which also carries what the gauge cannot see: **Book IV is 4.4× t
 per word than Book V** while `00` calls it the most ancestor-dense book in the work — `03`§3.5's
 *doctrine used, owner unnamed*, concentrated in the book with no apparatus, sitting on top of
 accurate but wholly unsourced empirical science.
+
+
+---
+
+## RULED — Day 195, 2026-08-14 — the edition policy, before the PhilArchive upload
+
+### **RULING 177 — THIS IS A RELEASED EDITION. LOAD-BEARING BODY CLAIMS THAT THE APPARATUS HAS OVERTURNED ARE REPAIRED IN THE PROSE, AND EACH REPAIR IS MARKED.** *(Gate 1 of the release gate. Filed as R-212 from the Day-195 outside reads — Fable D193 #1, the ghost audit §3.3 and §3.5.)*
+
+**The ruling, in one line:** *repair the body, mark the repair, keep the archaeology in the note.*
+
+**Scope, so this is a rule and not a mood.** It fires on a body sentence that is **(a) load-bearing**
+— some later claim, chapter or book rests weight on it — **and (b) overturned by this project's own
+apparatus**, i.e. a note, a gauge or a source check in this tree says it is false. Both conditions.
+A sentence that is merely infelicitous is a craft matter and does not come under this ruling. A
+sentence whose note *qualifies* it rather than *overturns* it stands as written, and V.8:318 is the
+model of that case — *"the sentence stands as written, because assembled is the verb."*
+
+**The mark's form is already the book's.** `⛔ This read X until Day N` in the note, body repaired.
+Nothing new is invented here.
+
+⛔ **AND THE FORK WAS ALREADY DECIDED ON THE PAGE — MEASURED, NOT RECALLED.** Grepped the shipped
+chapters for the idiom rather than assuming it: **six executions, not three, and they span two
+books** — `IV-02` [^2] (*"This sentence was false until Day 191 and is now weaker by one word"*),
+`IV-03` twice (the acreage, and the genus slip), `V-01` [^2] (*"read 'around 1300' until Day 192"*),
+`V-01` [^3] (*"read 'Paris' until Day 192, and so did V.2 and V.3"*), `V-02` [^7]. **The body was
+repaired and the note kept the archaeology, six times, across Books IV and V, and it was never
+written down as a rule.** This ruling ratifies a practice; it does not impose one. R-212 said *three,
+Book V only* — the row undercounted its own evidence by half and mislocated the split.
+
+★ **AND THE CODA DOES NOT CONTRADICT THIS. R-212 SAID IT DID; MEASURED, IT DOES NOT.** The
+changelog defence — *"a finding and its fix in one commit leave a reader no way to check the
+finding"* — lives at **`IV-10` [^2]**, not at C.2 §I, and there it is doing narrower work than the
+row credits: it laments a **destroyed measurement** (the tier-name count, unreproducible because the
+fix shipped with the finding), which is a real and separate problem. C.2 §I argues that *a mark is a
+dated act, not a standing property*, and that a rotten mark and a fresh one look identical. **That is
+true, it is one of the best pages in the book, and it is fully compatible with this ruling** — it
+argues for dating repairs, which is exactly what the mark does. Searched for any other body text
+defending the archive position: **one hit in sixty-nine chapters, and it is V.8:318 saying the
+opposite.** ⚠ **The gate row was therefore over-priced. Recording that here, because a row is a
+measurement and it rots** — and this one had been sitting at the head of the release gate asserting
+a Coda-level contradiction that is not in the Coda. [[feedback_filed_defect_misprices_its_own_subject]]
+
+⛔ **THE GHOST AUDIT'S REFUTATION OF (i), ANSWERED RATHER THAN CITED PAST**, because it is the
+strongest single paragraph in the six reads: the changelog argument *"argues for a changelog. It does
+not argue for leaving a fabricated quotation in the running text of a published volume with the
+correction 200 words below… There was a third option — repair the prose, record the repair — and it
+was not taken."* **Conceded in full.** The distinction this ruling draws is the one that paragraph
+demands: **a destroyed measurement and a standing falsehood are different objects.** IV-10 [^2]
+correctly mourns the first. Nothing in it licenses the second. The two were being run together
+under one word — *changelog* — and running them together is how a book talks itself into shipping a
+fabricated quotation inside an accusation.
+
+⚠ **THE CASE THAT DECIDES IT COMES OUT REGARDLESS OF WHICH WAY THE FORK GOES.** `IV-10`:230–233
+presents, in bold, as what *"the material says"*, a sentence about indigenous perception and *the
+full profile* — and its own [^6] establishes that **the sentence is not in the source**: the entry is
+seventeen lines, read in full, and contains nothing of the kind, with a positive control showing the
+extraction preserved the entry's other clauses word for word. The chapter's indictment of its source
+is aimed at a sentence the chapter's own scaffold fabricated: `06-THE-SCAFFOLD.md`:1604–1606 carries
+it, near-verbatim, in IV.10's beats. **That is not an interesting standing error. It is a fabricated
+quotation inside an accusation, and no edition policy makes it shippable.**
+
+**WHAT THE SWEEP OWES, IN LOAD ORDER** — the order is the dependency order, not a priority list:
+
+1. **`IV-10` body** — the fabricated quotation. ⛔ **Repair the generator too** (`06`:1604–1606), or
+   the retrofit *"will keep handing it forward to every chapter drafted from it."*
+2. **`V-11` [^26]/[^27]** — the Katz cut rebuilt on three branches; V.1's fourth proposition restored
+   to *"has no outside."*
+3. **`V-09`** — the italicised adapted quotation ([^15]) and the false *"never been cashed"* ([^14]).
+4. **`V-11`** — the III.6 quotation with the invented *"under the threshold"* clause ([^14]).
+5. **`V-10`** — four silently closed ellipses.
+6. **`V-03`** — the closing tally ([^10]).
+7. **the planning files**, because the class is generative and
+   [[feedback_correction_does_not_reach_citers]] fires five times across the above.
+
+**Gauge:** `tools/edition_scheme_sweep.py`, re-run against IV.10 and Book V with the delta recorded
+in the queue. ⚠ **Stated limit, because it is load-bearing:** that sweep counts *edition namings* and
+*exposed pairs*. **It does not and cannot detect a fabricated quotation** — nothing in this tree can,
+absent the source. The gauge measures the sweep's collateral, not its subject; the subject is checked
+by hand against the source file, one item at a time, and each check is recorded in the note.
+[[feedback_gauge_can_only_render_its_good_news]]
+
+**RULING: (ii). Released edition.** The archaeology stays in the notes, where it has always been
+good. The body stops asserting things this project has already proved false.

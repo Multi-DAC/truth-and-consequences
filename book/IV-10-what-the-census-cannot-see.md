@@ -227,22 +227,26 @@ specimens — which is P. The sentence predicts its own evidence from its own co
 circle is small enough to fit inside a single line of a bulleted list, which is exactly why nobody
 saw it there for five months.
 
-The second is worse, and it is worse in a way that will matter for the whole of the next book.
-Discussing the indigenous traditions that treat these entities as known co-inhabitants rather than as
-mysteries to be solved, the material says that **indigenous peoples' wider access allows them to
+The second is worse, and it is worse in a way that will matter for the whole of the next book. It is
+also not the source's. It is ours. Setting out how this chapter should handle the indigenous
+traditions that treat these entities as known co-inhabitants rather than as mysteries to be solved,
+this project's own planning document wrote that **indigenous peoples' wider access allows them to
 perceive the full profile, while the modern focus on physical evidence can detect only the
-intermittent cross-section.**[^6]
+intermittent cross-section** — and the chapter arrived at the desk carrying that sentence as though
+it had been quoted, ready to hold it up as the inherited material's worst line.[^6]
 
 Look at what that does. Someone reports the entity: evidence. Someone searches and finds nothing:
 evidence, because the searcher's access is too narrow to find anything. There is no observation
 either party could make that the sentence does not absorb, and the absorption is performed by
 attributing the null result to a deficiency in whoever produced it.
 
-**And it is dressed as respect.** That is the part to sit with. The sentence appears in a passage
-being careful and generous about traditions that this project genuinely credits, and the carefulness
-is real. But treating a tradition's testimony as unfalsifiable is not deference. It is exemption —
-and exemption from the standard applied to everyone else is the softest available form of not taking
-somebody seriously.
+**And it is dressed as respect.** That is the part to sit with, and it is worse for being ours. The
+sentence was written in a passage being careful and generous about traditions this project genuinely
+credits, by someone taking pains, and the carefulness is real. But treating a tradition's testimony
+as unfalsifiable is not deference. It is exemption — and exemption from the standard applied to
+everyone else is the softest available form of not taking somebody seriously. It got written here
+because it felt like respect while it was being written. That is the whole mechanism, and there is
+no version of it that announces itself.
 
 The Sts'ailes account is an account of a co-inhabitant. It is offered as knowledge about the world.
 Knowledge about the world is the kind of thing that can be right, which means it is the kind of
@@ -257,13 +261,17 @@ Both sentences are the clause the non-physical chapter named and refused when it
 French Islamicist writing about the world of images — *otherwise, anyone could perceive them*. The
 clause that predicts, in advance, that no one else will be able to check.[^8]
 
-It was refused in a borrowed text. It has been sitting in our own source since March, in the tier
-this chapter was assigned, in two forms, one of them pointed at the very traditions the next book
-exists to credit. **The escalation is the finding.** Three chapters running, the method has been *go
-and read the primary text, and read the span rather than the phrase*. This chapter ran that method
-on our own document, and the same defect was there, in the same place — the connective tissue, not
-the content — and the first party to have misquoted it would have been this chapter, if the clause
-had been paraphrased from memory instead of fetched.[^9]
+It was refused in a borrowed text. Then it came back twice, and the two returns are not the same
+object, which is the finding. **Once in the inherited source**, in the tier this chapter was
+assigned, where it has been sitting since March. **Once in our own planning file, written by us,
+pointed at the very traditions the next book exists to credit** — and that one arrived here wearing
+quotation marks it was never given. **The escalation is the finding, and the last step of the
+escalation is this chapter.** Three chapters running, the method has been *go and read the primary
+text, and read the span rather than the phrase*. This chapter ran that method on our own document
+and found the defect in the same place as always — the connective tissue, not the content. It did
+not run the method on its own scaffold. Had the second sentence been fetched rather than carried,
+the escalation would have stopped one step earlier, and the accusation above would not have been
+aimed at a source that never made it.[^9]
 
 There is a third thing in that entry, smaller and sharper. The source gives the sasquatch a profile
 in filled bars — a graded score on four axes, three of five bars on physical presence.[^10] The previous
@@ -527,9 +535,18 @@ expanding a correct compressed note into a sentence, with the source closed. Tha
 more actionable diagnosis than *"written from memory"*, and it is the opposite of what I first wrote
 here — I attributed it upstream before checking the upstream file.
 
-[^6]: ⛔ **THE SECOND SENTENCE — THE ONE THE CHAPTER CALLS WORSE AND SAYS "WILL MATTER FOR THE WHOLE
-OF THE NEXT BOOK" — IS NOT IN THE SOURCE.** The entry is **seventeen lines long** (L2448-2464) and was
-read in full. It contains no sentence about indigenous perception, no *full profile*, and no contrast
+[^6]: ⛔ **THE BODY ATTRIBUTED THIS SENTENCE TO THE SOURCE UNTIL DAY 195, AND THE SOURCE DID NOT
+WRITE IT.** Repaired under ruling 177 (released edition: repair the body, mark the repair). The
+paragraph above read *"the material says that…"* and presented the sentence in bold as quotation,
+with this note carrying the correction two hundred words below — **a fabricated quotation inside an
+accusation, standing in the running text with its refutation in the apparatus.** The argument was
+never the problem and is unchanged; only its target moved, from the inherited source to this
+project's own scaffold, which is where the sentence was in fact written. ⚠ **The correction makes
+the chapter's case stronger, not weaker, and that is the uncomfortable part** — the exemption clause
+this book spends the chapter refusing was produced *here*, under the conditions the chapter says
+produce it, by the party writing the refusal.
+**THE ORIGINAL FINDING, UNCHANGED — THE SECOND SENTENCE IS NOT IN THE SOURCE.** The entry is
+**seventeen lines long** (L2448-2464) and was read in full. It contains no sentence about indigenous perception, no *full profile*, and no contrast
 with *the modern focus on physical evidence*. Measured across the whole 884 KB file: `cryptid` occurs
 **once** (the header, L2448); `indigenous` occurs twenty-odd times, the nearest hit **eighty lines
 away** in the mineral/panpsychism material, the next **380 lines** downstream — neither about boundary
@@ -542,13 +559,18 @@ The pipeline is not eating content in this region.
 `tools/brief_source.py`:71 names the real drafting tree as `Unreleased-Work/Perspective`, **which is
 not on this machine.** If a fuller rendering exists there, the sentence may be in it. I cannot
 distinguish that from a sentence that was never written — **and neither can a reader**, which is the
-defect on either reading. What does not survive any reading is *"in two forms"*: the chapter counts
-two instances of IV.7's refused clause in this entry, and the checkable count is one.
+defect on either reading. ✅ **The *"in two forms"* count is now repaired in the body** — it claimed
+two instances of IV.7's refused clause **in this entry**, and the checkable count in the entry is
+one. The body now says what is true: one in the source, one in our own planning file, and they are
+different objects.
 ⛔ **AND THIS ONE DID ENTER AT PLANNING.** `06-THE-SCAFFOLD.md`:1604–1606 carries the sentence in
 IV.10's beats, near-verbatim, as item (b) under the heading *"THE INHERITED CRYPTID ENTRY CARRIES
 IV.7'S REFUSED CLAUSE IN TWO FORMS."* So the prose inherited this fabrication rather than producing
 it — **the opposite of [^5], in the same paragraph of the same chapter.** Repairing the chapter alone
-leaves the generator intact. [[feedback_repair_scoped_to_named_cause]]
+leaves the generator intact. [[feedback_repair_scoped_to_named_cause]] ✅ **The generator was repaired
+in the same pass, Day 195** — `06`:1604–1606 now carries the correction and the heading no longer
+asserts the two-forms claim, so a chapter drafted from the scaffold after this date cannot inherit
+it again.
 
 [^7]: **The Sts'ailes are not in the source, and the external record complicates the charge rather
 than the principle.** `sasquatch`, `bigfoot`, `sts'ailes` and `chehalis` occur **zero** times in the

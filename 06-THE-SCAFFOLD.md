@@ -1597,19 +1597,30 @@ earlier is exactly the entry IV.1 predicted the standing bias would produce. Sch
 **new V.9** (this file, above), with `00` §884/§895/§901/§1871, `06` §138 and `07` C2 renumbered in
 the same commit — **and the renumber is the chapter's own thesis arriving as a chore**: seven live
 pointers that would have kept reading correctly while pointing one chapter off.
-★★ **THE INHERITED CRYPTID ENTRY CARRIES IV.7'S REFUSED CLAUSE IN TWO FORMS, AND ONE OF THEM IS
-DRESSED AS RESPECT.** (a) *the failure to produce specimens is predicted by the framework if their
-primary coherence is non-physical* — read as the **conditional it actually is**, which is the fairer
-and the more damning reading: the only support offered for the antecedent is the consequent. (b)
-*indigenous peoples' wider access allows them to perceive the full profile, while the modern focus on
-physical evidence can detect only the cross-section* — **a null result absorbed by attributing it to
-a deficiency in whoever produced it.** ★ **The finding, and it is installed one book early as V.1's
-missing fourth term: treating a tradition's testimony as unfalsifiable is EXEMPTION, not deference,
+★★ **IV.7'S REFUSED CLAUSE COMES BACK TWICE, FROM TWO DIFFERENT PLACES, AND ONE OF THEM IS DRESSED
+AS RESPECT.** ⛔ **THIS HEADING READ "THE INHERITED CRYPTID ENTRY CARRIES IV.7'S REFUSED CLAUSE IN
+TWO FORMS" UNTIL DAY 195, AND ONLY ONE OF THE TWO IS THE ENTRY'S.** Repaired under **ruling 177**
+together with the IV.10 body it generated; see `IV-10` [^6] for the source check and its positive
+control. **(a) IS THE SOURCE'S** — *the failure to produce specimens is predicted by the framework if
+their primary coherence is non-physical* — read as the **conditional it actually is**, which is the
+fairer and the more damning reading: the only support offered for the antecedent is the consequent.
+**(b) IS OURS, WRITTEN HERE, IN THIS FILE** — *indigenous peoples' wider access allows them to
+perceive the full profile, while the modern focus on physical evidence can detect only the
+cross-section* — **a null result absorbed by attributing it to a deficiency in whoever produced it.**
+⛔ **It is not in the source. It is not a quotation. It was written at planning, in this paragraph,
+and IV.10 drafted from it and printed it in bold as the material's own worst line** — an accusation
+aimed at a source that never made the statement. **This is the generator. Repairing the chapter and
+leaving this heading intact would have handed the same fabrication to every chapter drafted from
+here after it.** [[feedback_repair_scoped_to_named_cause]]
+★ **The finding survives the correction and sharpens: it is installed one book early as V.1's
+missing fourth term — treating a tradition's testimony as unfalsifiable is EXEMPTION, not deference,
 and exemption is the softest available form of not taking somebody seriously. NO EXEMPTION, in
-either direction.** ⚠ **AND THE ESCALATION IS THE POINT: the method that paid three chapters running
-— go to the primary text, read the SPAN — was run here on OUR OWN source, and found the same defect
-in the same place, the connective tissue.** The first party to have misquoted that clause would have
-been this chapter, if it had been paraphrased from memory instead of fetched.
+either direction** — including the direction that runs back into this file. ⚠ **AND THE ESCALATION
+IS THE POINT, WITH ONE MORE STEP ON IT THAN WAS FILED: the method that paid three chapters running —
+go to the primary text, read the SPAN — was run on OUR OWN source and found the same defect in the
+same place, the connective tissue. It was never run on OUR OWN SCAFFOLD, and that is where the
+worse of the two sentences actually lived.** The first party to have misquoted that clause was this
+chapter, because the clause was carried from here instead of fetched.
 ★ **RULING 127 — THE NOTATION HAS NO ZERO. Third refusal in Book IV, third distinct mechanism.**
 IV.8 declined a card because the entity had no testable signature; IV.9 declined four lines because
 the question was ungrammatical for the notation; **IV.10 declines because every line of a card

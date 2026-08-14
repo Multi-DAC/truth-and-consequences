@@ -1309,8 +1309,11 @@ in eleven chapters.
 traditions are saying **the same thing** in different words. They are not; V.11's whole second half
 is the error they **all** share, and a book that only harmonises its ancestors has not read them.
 ② ⚠ **the flattering inversion — treating the convergence as stronger because WE also converge on
-it.** Our agreement with the roster is not an independent datum; it is the position doing the
-reading. **V.1 must not count itself as one of the many perspectives.**
+it.** Our agreement with the roster is not a fourth datum supporting the roster; it is the position
+doing the reading, and a reading cannot corroborate what it read. **V.1 must not count itself as one
+of the many perspectives.** ⛔ *This register read "not an independent datum" until Day 195 and V.1
+says "a fourth datum" — the register was propagating the same substitution V.9 [^15] caught in the
+prose, which is why the sweep under ruling 177 was extended to the planning files.*
 
 ---
 

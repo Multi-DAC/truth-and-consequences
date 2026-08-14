@@ -6,25 +6,32 @@ Four reports, from four languages, across thirteen centuries. Read them before a
 about them.
 
 *That art Thou*, say the Upanishads, and the Vedantists add: not a part, not a mode of That, but
-identically That. *As pure water poured into pure water remains the same, thus, O Gautama, is the
-Self of a thinker who knows.*[^1]
+identically That … — and then, from three hundred pages away in the same translator's second
+volume: *As pure water poured into pure water remains the same, thus, O Gautama, is the Self of a
+thinker who knows.* Two texts, one English hand, Max Müller's.[^1]
 
 A Persian, in the fourteenth century: *Every man whose heart is no longer shaken by any doubt knows
-with certainty that there is no being save only One. In his divine majesty the me, the we, the thou,
-are not found, for in the One there can be no distinction.*[^2]
+with certainty that there is no being save only One … In his divine majesty the me, the we, the thou,
+are not found, for in the One there can be no distinction …*[^2]
 
 Plotinus, on the vision of God: *what sees is not our reason, but something prior and superior to our
-reason. He who thus sees does not properly see, does not distinguish or imagine two things. He
+reason … He who thus sees does not properly see, does not distinguish or imagine two things. He
 changes, he ceases to be himself, preserves nothing of himself. Absorbed in God, he makes but one
 with him, like a centre of a circle coinciding with another centre.*[^3]
 
 And Heinrich Suso, a Dominican in the Rhineland, writing in German for women in convents who would
 never read a word of the other three: *Here the spirit dies, and yet is all alive in the marvels of
-the Godhead, and is lost in the stillness of the glorious dazzling obscurity and of the naked simple
+the Godhead … and is lost in the stillness of the glorious dazzling obscurity and of the naked simple
 unity. It is in this modeless* where *that the highest bliss is to be found.*[^4]
 
-That is a striking page and it is not mine. It is William James's, in the seventeenth of the
-Gifford Lectures he gave at Edinburgh in 1901 and 1902[^5], and he set those four passages in that order,
+**Four passages, and four of the gaps in them were closed on the way here.** They are open again
+now, and the marks are James's, restored. That correction is not decoration: the argument this
+chapter is about to make turns on how much a report loses in transmission, and a chapter that
+smoothed its own four transmissions while counting everyone else's would have been the strongest
+possible evidence for its own thesis and no use at all as an argument for it.
+
+That is a striking page and it is not mine. It is William James's, in the mysticism
+lectures he gave at Edinburgh in 1901 and 1902[^5], and he set those four passages in that order,
 on facing pages, to make a point. The point is stated in the sentence immediately before them:
 
 > This is the everlasting and triumphant mystical tradition, hardly altered by differences of clime
@@ -266,7 +273,7 @@ unnamed. Read on Day 192 from the Gutenberg text of the 1902 first edition (PG #
 bodies included; in that file the markers and the footnote section sit 190,000 characters apart,
 which is why a reader who stops at the marker sees no citation at all.*
 
-[^1]: ⛔ **Two Upanishads, two pages, one voice — and James's own note says so.** The passages are
+[^1]: ✅ **REPAIRED DAY 195 under ruling 177 — the body now names Müller, splits the two texts and marks the cut.** The finding, as filed: ⛔ **Two Upanishads, two pages, one voice — and James's own note says so.** The passages are
     Max Müller's, and James cites them together: *Upanishads, M. MÜLLER'S translation, ii. 17, 334*
     (Varieties, fn 270). **One footnote, two page numbers, three hundred and seventeen pages apart**
     — so the sentence this chapter prints as a single utterance of *the Upanishads* is a splice of
@@ -276,7 +283,7 @@ which is why a reader who stops at the marker sees no citation at all.*
     this chapter stops at *identically That* with no ellipsis. **Owed: name Müller, split the two
     texts, and mark the cut.** [[feedback_quotation_connective_tissue]]
 
-[^2]: ⛔ **The chapter is LESS identified than the book it is auditing for lack of provenance.** This
+[^2]: ✅ **THE CLOSED ELLIPSIS IS REPAIRED, DAY 195, ruling 177 — the body prints James's gap and no longer joins what he marked as separated.** ⚠ **The naming half of this note is NOT paid** and is left open on purpose: it is a provenance debt, not a quotation falsehood, and it belongs to the row that owns naming rather than to the edition sweep. The finding, as filed: ⛔ **The chapter is LESS identified than the book it is auditing for lack of provenance.** This
     is the chapter's own flagged gap — a Persian given by nationality and century — and the reason
     the name is missing is that this chapter removed one James supplied. James writes: *Every man,
     says the Sufi Gulshan-Râz* (Varieties, near fn 271). The text is the *Gulshan-i Rāz*, Mahmud
@@ -290,7 +297,7 @@ which is why a reader who stops at the marker sees no citation at all.*
     I am God.* **The chapter joins what its source marked as separated.** That is this project's
     signature defect, on its own opening page. [[feedback_quotation_connective_tissue]]
 
-[^3]: ⛔ **Plotinus reaches this page through French, and the same ellipsis is closed again.** Fn 272:
+[^3]: ✅ **THE ELLIPSIS IS OPEN AGAIN, DAY 195, ruling 177.** The finding, as filed: ⛔ **Plotinus reaches this page through French, and the same ellipsis was closed again.** Fn 272:
     *Enneads, BOUILLIER'S translation, Paris, 1861, iii. 561.* The translation is **Marie-Nicolas
     Bouillet, *Les Ennéades de Plotin*, 3 vols., Hachette, Paris 1857–1861** — vol. iii is 1861,
     matching. ⚠ **James prints the name wrong**: *Bouillier* is Francisque Bouillier, a different
@@ -298,7 +305,7 @@ which is why a reader who stops at the marker sees no citation at all.*
     prints *superior to our reason.... He who thus sees*; this chapter prints a full stop. Third
     ellipsis closed of three so far.
 
-[^4]: ⛔ **Suso's translator is named in the same book, sixty-five footnotes earlier.** Fn 273 gives
+[^4]: ✅ **THE COMMA IS GONE AND THE GAP IS MARKED, DAY 195, ruling 177 — this was the worst of the four, because a comma does not drop a gap, it asserts there was none.** ⚠ Knox is still unnamed in the body; see [^2] on why the naming debt is held separately. The finding, as filed: ⛔ **Suso's translator is named in the same book, sixty-five footnotes earlier.** Fn 273 gives
     only *Autobiography, pp. 309, 310*, but fn 208 supplies it in full: **The Life of the Blessed
     Henry Suso, by Himself, translated by KNOX, London, 1865** — T. F. Knox. ⛔ **And this is the
     worst of the four cuts.** James prints *marvels of the Godhead ... and is lost in the stillness*.
@@ -307,7 +314,7 @@ which is why a reader who stops at the marker sees no citation at all.*
     slip; it is a house style, and it is the one this book exists to diagnose.
     [[feedback_quotation_connective_tissue]]
 
-[^5]: ⚠ **The book does not divide the lectures the way this sentence divides them.** *Varieties*
+[^5]: ✅ **REPAIRED DAY 195 under ruling 177 — the body now says *the mysticism lectures*.** The finding, as filed: ⚠ **The book did not divide the lectures the way that sentence divided them.** *Varieties*
     prints a single undivided chapter headed **LECTURES XVI AND XVII. MYSTICISM.**, and the next
     heading in the volume is LECTURE XVIII. PHILOSOPHY. The four passages sit inside that combined
     chapter with no internal boundary assigning them to the seventeenth rather than the sixteenth.

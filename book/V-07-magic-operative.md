@@ -88,8 +88,8 @@ Read mechanically, that is a procedure for putting something into the seed by th
 says the seed takes.
 
 III.6 ruled that what can be edited is not the render but what the procedure runs on; that it takes
-an edit the way it took the installation, by repetition, under the threshold, at the pace of the
-thing being laid down; and that *wanting is not on that list*, and does not get onto it by being
+an edit the way it took the installation, by repetition, over time, at the pace of whatever is
+being laid down; and that *wanting is not on that list*, and does not get onto it by being
 stronger.[^5] Spare reached the second half of that in 1913, from inside a practice, and built a
 technique whose entire design is the defeat of conscious wanting. He is not a witness to III.6's
 rule. He is a man who hit the same wall from the other side and left a workaround.
@@ -218,7 +218,7 @@ word is *filter*.
 So, in the plainest available form. **The edit is to the filter. The filter is not the world.**
 
 Everything in this chapter that survives its own deflation survives as a change in the operator: a
-filter stack rebuilt on purpose, by procedures that work because repetition under the threshold is
+filter stack rebuilt on purpose, by procedures that work because repetition over time is
 how filter stacks have always been laid down. What comes back is a different meeting with what is
 there. It is not a different *what is there*. By C10 the render was never solely the operator's, and
 nothing on these four lists gives anyone a second vote in it. An operation cannot deliver a chosen
@@ -312,7 +312,21 @@ hedge: [^14]. [[feedback_test_inherits_hypothesis_expiry]]
     contested part**: the forgetting is structural to the method rather than a coda, and it is the
     element modern chaos-magic practice retained when it dropped nearly everything else of Spare's.
 
-[^5]: ✅ **III.6, verbatim on both halves.** *"The seed takes an edit the way it took the installation
+[^5]: ⛔ **THE BODY READ "under the threshold" UNTIL DAY 195 — AND THIS NOTE ALREADY HELD THE RIGHT
+    WORDS.** Repaired under ruling 177. ★★ **The instructive part is not the substitution, it is that
+    the check had already run and passed.** This note quotes III.6:207 correctly — *over time* — and
+    certifies the passage *verbatim on both halves*, while the sentence six lines above it printed
+    *under the threshold*. **A verification that quotes the true text and never reaches the sentence
+    it is certifying is not a verification; it is a second copy of the source stored next to an
+    uncorrected error, wearing a green tick.** ⚠ This site was **not on ruling 177's sweep list** —
+    the list named V.11 only. It was found by grepping the repaired string across the whole tree
+    instead of trusting the list, which also turned up `07`:1312. **The list named six chapter sites
+    and all six were real; the grep found two more it had not named** — this one, a chapter the list
+    did not reach at all, and the claims register, which the list covered only under the generic
+    heading *then the planning files.* **A sweep list assembled from six outside reads was 75%
+    complete, and the missing quarter included the register.** [[feedback_grep_derived_from_the_finding]]
+    · [[feedback_correction_does_not_reach_citers]]
+    **The source check, which was right all along:** *"The seed takes an edit the way it took the installation
     — by repetition, over time, at the pace of"* (III.6:207), and *"has already ruled out the version
     everybody wants. Wanting is not on that list, it cannot get onto the"* (III.6:210). V.7's *"and
     does not get onto it by being stronger"* is a fair completion of a sentence III.6 finishes the

@@ -114,16 +114,21 @@ same column, and the column is not the phenomenon.[^12]
 
 ---
 
-**Third, the frames — and here a rule of this book comes due that has been quoted three times and
-run at full cost never.**
+**Third, the frames — and here a rule of this book comes due in the hardest form it has yet been
+asked for.**
 
 The source material carries three readings and declines to choose among them, on the grounds that the
 framework does not require choosing. **The framework does require choosing, and it said so in
 public.** IV.7, in these words: *two frames may be held at once precisely where they predict the same
 thing, and where they diverge you must pick, and the divergence is where all the work is.*[^13]
 
-That sentence has now been quoted in three drafted chapters. It has never been cashed on a case where
-the picking hurt.[^14] This is that case, so here are the three, stated as what each **predicts** rather
+That sentence has now been quoted in three drafted chapters, and it has been cashed twice — V.3 ran
+it cheaply and V.8 ran it at full cost, picking the state reading over the more interesting one and
+refusing to spread the load evenly to make the case look broader. **What is new here is narrower and
+worse: this is the first case where the pick cannot be separated from the null.** In V.8 the losing
+frame lost on the evidence. Here the frame that wins turns out to predict exactly what the
+no-occupants null predicts, so the pick cannot be separated from the null, and the rule delivers a
+verdict it cannot cash.[^14] So here are the three, stated as what each **predicts** rather
 than as what each proposes, because a frame that predicts nothing is not in this competition:
 
 **One — travellers across physical distance.** Craft, built by somebody, crossing space. It predicts
@@ -157,8 +162,13 @@ because frame two is ours.**
 
 It is the reading the framework makes cheapest. It costs this book nothing to hold; it is nearly
 implied by what Book II already established about access and position. V.1 named this failure in
-advance and named it precisely — *our agreement with the roster is not an independent datum; it is
-the position doing the reading.*[^15] A frame that your own metaphysics hands you for free is not
+advance and named it precisely, in a passage that was counting branches: *"Our agreement with the
+roster is not a fourth datum supporting the roster. It is the position doing the reading, and a
+reading cannot corroborate what it read."* The arithmetic there was V.1's — three defended branches,
+and our assent offered as a fourth. There is one branch here and no fourth to refuse, so what
+carries over is not the count but the principle underneath it, which holds at any count: **assent
+from inside the position is not a datum, and a reading cannot corroborate what it read.**[^15] A
+frame that your own metaphysics hands you for free is not
 confirmed by the evidence fitting it. **It is the frame you should be checking hardest, and here is
 what the check returns.**
 
@@ -424,7 +434,11 @@ people sitting still.
     dropped-obligation form is the one that travelled, **including into V.9's own brief**. The shipped
     prose of this chapter takes the correct form. The brief did not.
 
-[^14]: ⛔ **THE COUNT IS DEFENSIBLE AND THE "NEVER" IS FALSE — REFUTED BY THE CHAPTER DRAFTED
+[^14]: ⛔ **THE BODY CLAIMED THIS RULE HAD BEEN "run at full cost never" UNTIL DAY 195, AND V.8 HAD
+    RUN IT TWENTY-SIX MINUTES EARLIER.** Repaired under ruling 177: the chapter now concedes V.8 and
+    V.3 by name and makes the narrower claim this note prescribed — *the first case where the pick
+    cannot be separated from the null* — which is true and is the harder thing to say. The finding as
+    filed: **THE COUNT IS DEFENSIBLE AND THE "NEVER" IS FALSE — REFUTED BY THE CHAPTER DRAFTED
     TWENTY-SIX MINUTES EARLIER.**
     **The count first.** Measured across all 67 chapters, the full sentence appears in four files:
     IV.7 (its origin), V.3, V.8 and this one. Excluding the origin and counting this chapter, *"three
@@ -447,7 +461,12 @@ people sitting still.
     claim the chapter can actually defend — that this is the first case where the pick cannot be
     separated from the null. That is true, and it is the harder thing to say.
 
-[^15]: ⛔ **NOT VERBATIM, AND THE SUBSTITUTED WORD IS THE LOAD-BEARING ONE.** The chapter prints, in
+[^15]: ⛔ **THE BODY PRINTED AN ADAPTED SENTENCE IN ITALICS AS V.1'S OWN UNTIL DAY 195.** Repaired
+    under ruling 177 by the second of the two routes this note offered: V.1 is now quoted **exactly**,
+    including *a fourth datum* and the dropped closing clause, and the arithmetic bridge from three
+    branches to one is built in the chapter's own voice instead of being smuggled through a
+    substituted word. The finding as filed: **NOT VERBATIM, AND THE SUBSTITUTED WORD IS THE
+    LOAD-BEARING ONE.** The chapter printed, in
     italics, as V.1's own words: *"our agreement with the roster is not an independent datum; it is the
     position doing the reading."* **V.1 says *fourth*, not *independent*:** *"Our agreement with the
     roster is not a fourth datum"* (V.1:244) *"supporting the roster. It is the position doing the

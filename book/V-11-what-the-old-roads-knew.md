@@ -102,7 +102,7 @@ says it takes.
 
 **That is why the loss is a technical loss and not a nostalgic one.** III.6 ruled that what takes an
 edit is not the render but what the render runs on; that it takes the edit the way it took the
-installation — by repetition, under the threshold, at the pace of the thing being laid down; and
+installation — by repetition, over time, at the pace of whatever is being laid down; and
 that wanting is not on the list and does not get onto it by being stronger.[^14] A practice with a
 duration, a sequence and a checker satisfies that description. A practice without them does not. It
 is not a weaker version of the same thing. It is a different thing wearing the name.
@@ -213,9 +213,12 @@ because a project that keeps insisting on named owners does not get to quietly r
 And then the cut, which is real and which the framework requires by C27,[^25] because Katz's picture and
 this one do not predict the same thing everywhere. **If mediation were total, it would predict
 divergence at the structure too, and the structure does not diverge.** V.1's four propositions — the
-completeness, the non-thinghood, the unaddressability, the failure of every name[^26] — arrive from
-traditions whose doctrines are flatly incompatible, in languages with no shared vocabulary for any
-of it,[^27] and they arrive in the same shape. A report constituted by its
+completeness, the non-thinghood, the unaddressability, and the claim that it has no outside[^26] —
+arrive along the **three** branches V.1 defends as independent, from traditions whose doctrines are
+flatly incompatible, and they arrive in the same shape. **Three, not six**, and the smaller number
+is the one the cut has to survive on: V.1's own audit collapsed the Mediterranean line to a single
+witness quoted back five times, and a convergence cannot be spent at a strength its own frame
+chapter has already withdrawn.[^27] A report constituted by its
 doctrine should carry that doctrine's fingerprints all the way down. These carry them in the
 furniture, heavily; in the artefact, exactly as Katz would predict; and in the structure, not at
 all.
@@ -394,8 +397,10 @@ expensive are in the same sentence — the one that makes the cut against Katz.*
     dates. The chapter's gloss (*the desire has to get past the part of you doing the wanting*) is
     V.7's reading, not Spare's phrasing, and is not presented as a quotation.
 
-[^14]: ⛔ **III.6 IS QUOTED WITH A SUBSTITUTED CLAUSE, AND THE SUBSTITUTION IS A CLAIM III.6 DOES NOT
-    MAKE.** This chapter renders the ruling as *by repetition, **under the threshold**, at the pace
+[^14]: ⛔ **THIS READ "under the threshold" UNTIL DAY 195, AND III.6 DOES NOT SAY IT.** Body repaired
+    to III.6's words under ruling 177; the finding stands as recorded. **III.6 WAS QUOTED WITH A
+    SUBSTITUTED CLAUSE, AND THE SUBSTITUTION WAS A CLAIM III.6 DOES NOT MAKE.** The chapter rendered
+    the ruling as *by repetition, **under the threshold**, at the pace
     of the thing being laid down.* III.6:207 reads: *by repetition, **over time**, at the pace of
     whatever is being laid down.* **The word `threshold` occurs zero times in III.6.** *Over time* is
     a rate claim; *under the threshold* is a claim about subliminality — that the edit works below
@@ -490,7 +495,9 @@ expensive are in the same sentence — the one that makes the cut against Katz.*
     picture and this one diverge — is what C27 licenses, and the chapter makes the cut rather than
     holding both. A correct use of a claim against the chapter's own interest.
 
-[^26]: ⛔ **V.1'S FOURTH PROPOSITION IS NOT "the failure of every name" {absent: V.1}. IT IS "has no outside" — AND THE SWAP LOSES THE CUT AGAINST KATZ.** V.1:29–31 states the four exactly: what
+[^26]: ⛔ **THIS READ "the failure of every name" UNTIL DAY 195. V.1'S FOURTH PROPOSITION IS "has no
+    outside", and the swap lost the cut against Katz.** Body repaired under ruling 177; the finding
+    below is the reason and stands unchanged. V.1:29–31 states the four exactly: what
     everything is made of is *"complete, has no outside, is not itself a thing, and cannot be
     addressed because addressing needs an inside."* Three of this chapter's four map cleanly — completeness,
     non-thinghood, unaddressability. The fourth is a substitution, and it is the worst possible one
@@ -503,8 +510,13 @@ expensive are in the same sentence — the one that makes the cut against Katz.*
     attached — is the item that does the work, and it was dropped.
     [[feedback_field_keeps_name_swaps_referent]] [[feedback_compression_that_keeps_truth]]
 
-[^27]: ⛔ **AND THE SAME SENTENCE RECRUITS V.1'S CONVERGENCE IN ITS PRE-AUDIT FORM — the strength
-    V.1's own audit withdrew, in the paragraphs immediately after making it.** This chapter says the
+[^27]: ⛔ **THIS SENTENCE READ "in languages with no shared vocabulary for any of it" UNTIL DAY 195,
+    AND IT RECRUITED V.1'S CONVERGENCE IN ITS PRE-AUDIT FORM — the strength V.1's own audit withdrew,
+    in the paragraphs immediately after making it.** Body repaired under ruling 177: the clause is
+    gone, the count now says **three**, and the withdrawal is stated on the page instead of only
+    here. ⚠ **The cut is thinner than it was and the chapter now says so** — whether it holds at
+    three is the question the repair exposes rather than settles, and that is the correct place for
+    it. The finding as filed: the chapter said the
     four arrive *from traditions whose doctrines are flatly incompatible, **in languages with no
     shared vocabulary for any of it***. V.1:118–131 exists to demolish precisely that: Plotinus →
     Proclus → Dionysius → Latin in the ninth century → Aquinas and Eckhart, *and* the Baghdad

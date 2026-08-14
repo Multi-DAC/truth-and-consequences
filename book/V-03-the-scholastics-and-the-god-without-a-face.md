@@ -287,7 +287,9 @@ Focusing because it is what the rest of the structure forces, and that is a reas
 evidence. It is the weakest joint in this book, it is load-bearing, and it is where a reader who
 wants to break the thing should push.
 
-What survives the audit is three predicates out of five,[^10] and the three are the hard ones. The
+What survives the audit is two clean survivals out of five, plus a third that is analogous with a
+matching gate on both sides — and the count has to be said that way, because the body of this
+chapter already refused to call the gated one clean.[^10] The three are still the hard ones. The
 scholastics got to a ground with no face, by argument, from inside an institution that needed a
 face, and they did not blink. This account gets to the same three denials by a different road and
 finds them already occupied. **That is not agreement in the sense the roll-call wanted, and it is
@@ -456,7 +458,10 @@ It does not mean the chapter is.
     It is not entitled to leave it unnamed while calling the machinery *"the most impressive thing in
     the corpus."*
 
-[^10]: ⚠ **The closing tally counts a survival the body of the chapter has already downgraded.**
+[^10]: ✅ **PAID DAY 195 under ruling 177. This read *"three predicates out of five"* until then**, and
+    the count now names the gated survival for what it is. It cost the closing sentence its rhythm
+    and none of its substance, exactly as predicted below. The finding, as filed: ⚠ **The closing
+    tally counted a survival the body of the chapter had already downgraded.**
     *"Three predicates out of five"* treats agreement two as a clean survival — but after R-161,
     agreement two reads *"two gated fences, gated on close to the same principle"*, with the chapter
     itself saying *"neither fence is absolute and it would be convenient here to say both were."*
