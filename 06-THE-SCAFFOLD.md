@@ -1472,7 +1472,7 @@ detect. ⚠ **Beat 3 scored 0.78, MISS `ecology, off` — RULING 108 FIRING AGAI
 it: those words are drafter-register, the beat's third term (*Perspective*) is banned by `05` §3a, and
 this file still writes in two voices and marks neither. **The owed repair is this file's.**
 
-### IV.9 — THE ARCHETYPAL ✅ DRAFTED — 7,783 words
+### IV.9 — THE ARCHETYPAL ✅ DRAFTED — 7,784 words
 **Beats:** archetypes as **shared attractors in the landscape**, explicitly not as genetic inheritance
 «(the out-list holds)» · the Promethean archetype, which is this book's own engine seen from outside ·
 Jung named, with his bifurcation «used explicitly rather than smoothed».
@@ -1562,7 +1562,7 @@ flatness flag is now two chapters clear.** `meta_textual` **2.46**, the Book IV 
 the Book IV low. `vague_allusion` **0.0**. `named_ref` **17.59/1k**, the Book IV high, which is what a
 chapter that reads two primary texts in two languages should look like.
 
-### IV.10 — WHAT THE CENSUS CANNOT SEE ✅ DRAFTED — 9,072 words
+### IV.10 — WHAT THE CENSUS CANNOT SEE ✅ DRAFTED — 9,089 words
 **Beats:** the atlas's own null space, traced as far as an atlas can trace its own blindness · the
 cryptids and boundary entities, and why they are a *methodological* chapter «rather than a credulous one» ·
 why the catalogue is permanently open · «the handoff to the CODA's» living-book claim.
@@ -3892,7 +3892,7 @@ source's vocabulary pulled straight through** — this chapter quotes the source
 chapter works to it the more retired vocabulary arrives with the material. VII.4 scored 6 raw at
 1.08/1k; VII.5 scored 9 at 1.76/1k, and the difference is a measurement of proximity, not of care.
 
-### VII.6 — LOVE ✅ DRAFTED — 5,305 words
+### VII.6 — LOVE ✅ DRAFTED — 5,285 words
 **Source:** `Perspective` **03 §3.5 Mutual crystallisation and parasitic dissolution** — taken
 entire; this chapter is its only housing, and `mutual crystallisation`, `parasitic dissolution`,
 `E+`/`E−` were all **0 across 56 drafted chapters** before it. **+ 03 §3.4 Orientations in practice**
@@ -3923,7 +3923,7 @@ appears once in fifty-seven chapters**, in one bounded section, carrying the cou
 forced the amendment — Clayton and Finnley, on the merits, with the self-serving reading declared
 rather than concealed.
 
-### VII.7 — FREEDOM WHEN EVERY PATH ALREADY EXISTS ✅ DRAFTED — 6,986 words
+### VII.7 — FREEDOM WHEN EVERY PATH ALREADY EXISTS ✅ DRAFTED — 6,988 words
 ✅ **DRAFTED Day 191 · `book/VII-07-freedom-when-every-path-already-exists.md`.** All four beats land,
 0 misses. The pre-draft screen found the ⛔ span defect above **in this brief** — Theorem 6’s gloss quoted
 one clause short, in a direction that overcharged the source. Card written after `instrument_sweep` caught
@@ -3986,7 +3986,7 @@ Whitehead, Kauffman, Hegel are all 0 and all optional — the chapter does not n
 exists · why this is not fatalism and why the difference is checkable · **the one place we say plainly
 what is lost** — something *is* lost here, and pretending otherwise is the hedge in its most tempting form.
 
-### VII.8 — MEANING WITHOUT A MANDATE ✅ DRAFTED — 6,247 words
+### VII.8 — MEANING WITHOUT A MANDATE ✅ DRAFTED — 6,253 words
 ✅ **DRAFTED Day 191 · `book/VII-08-meaning-without-a-mandate.md`.** All six beats land. The two
 sub-1.0 coverages are inflections and one `grounded[heading-only]` — which is **ruling 114**, found
 here: `beat_delivery` strips headings by design and printed the stripped word as a plain absence,
@@ -4222,7 +4222,7 @@ VII.8's finding it must **not present the refusal of the summit as unaccompanied
 the same conclusion at §13.4 by a weaker route while leaving §13.1's summit standing, and the honest
 claim is that our route is *stronger*, not that it is *only*.
 
-### VIII.2 — READING YOUR OWN FILTER STACK ✅ DRAFTED — 5,380 words
+### VIII.2 — READING YOUR OWN FILTER STACK ✅ DRAFTED — 5,378 words
 ✅ **DRAFTED Day 191 · `book/VIII-02-reading-your-own-filter-stack.md`.** All four beats land
 (`beat_delivery` 0.86–1.00, misses are inflections). Card v3-canon, 6 fields, `instrument_sweep`
 PASS. ★ **The pre-draft screen supplied the spine, again, and the chapter is the screen's finding
@@ -4277,7 +4277,7 @@ cannot see or the model you are seeing with.** · ⛔ **`blind spot` = 11, all i
 VI.8's and the retinal analogy goes with it. · **Dunning** = 0 and stays 0: the competence framing is a
 different claim and importing it would put an empirical dispute under a structural one.
 
-### VIII.3 — EDITING ✅ DRAFTED — 6,785 words
+### VIII.3 — EDITING ✅ DRAFTED — 6,779 words
 ✅ **DRAFTED Day 191 · `book/VIII-03-editing.md`.** All four beats 1.00, card v3-canon 6 fields,
 `instrument_sweep` PASS. **R-116 PAID** — Class VIII is the chapter's census card, not a mention, and
 its failure mode is the first in the series that is not a defect of perception: **exact about what it
@@ -4346,7 +4346,7 @@ each class is different, which means complementary practices illuminate each oth
 which is the chapter's argument for why the taxonomy is a taxonomy and not a menu. ⛔ **`blind spot`
 belongs to VI.8** (11 hits, all there); use §4.2's sense without the phrase.
 
-### VIII.4 — HOLDING IT OPEN ✅ DRAFTED — 4,243 words
+### VIII.4 — HOLDING IT OPEN ✅ DRAFTED — 4,242 words
 ✅ **DRAFTED Day 191 · `book/VIII-04-holding-it-open.md`.** All four beats 1.00, card v3-canon 6 fields, `claim_sweep --chapter` **0**, zero echo pairs. ★ **The screen's finding is the chapter's spine:** the beats said *stay open* and never defined *open*; C25 defines it with **three necessary conditions** (contact · could-have-come-out-otherwise · lands) and lists this chapter as a dependent. Section I runs the three as a test on a case, and what falls out is that most of what sits in a person's *undecided* pile fails the first condition — **not open, closed and being mourned.** C1's dependence rebuilt beat 2: there is no runtime, so undecided time is not the world waiting, and the whole bill is a standing allocation of attention (§2.3 Principle 2). **C25's physics trap held — no quantum vocabulary in the chapter.** ⚠ **A second finding, about the manuscript rather than this chapter: `the Coherence Principle` is the planning apparatus's name for the book's most-repeated structural claim (`03`, `04`, `06`) and had occurred ZERO times in sixty-three drafted chapters.** Named here once, minimally; the full statement is left to VIII.7, whose subject it is.
 ⛔ **RETITLED Day 191, one breath before it would have shipped. The old title was `HOLDING THE
 SUPERPOSITION`, and `superposition` was ★ BANNED by ruling 31 on Day 187** — the strongest verdict in
@@ -4405,7 +4405,7 @@ dichotomy of control are VIII.5's** (already 1 and 2 hits, both planning) and **
 in VI.5** (10 hits, the attention-economics passage) — so *satisficing* and bounded rationality are
 not available here without re-opening his bill.
 
-### VIII.5 — THE SECOND ARROW ✅ DRAFTED — 4,019 words
+### VIII.5 — THE SECOND ARROW ✅ DRAFTED — 4,008 words
 ✅ **DRAFTED Day 191 · `book/VIII-05-the-second-arrow.md`.** All four beats 1.00, card v3-canon 6 fields, `claim_sweep --chapter` **0**, zero echo pairs. ★★ **The screen's finding IS the chapter, and it is a subtraction: the distinction VII.5 established is real and is NOT AVAILABLE AT THE TIME.** The two arrows arrive as one sensation, the classifying instrument is the injured party, and asking the question is itself a pass around the loop. So the standard instruction requires exactly the classification the sufferer does not have — and the practice that is left is §5.4's four responses, every one of which is **performable without a diagnosis.** ★ Beat 3's discriminator made **behavioural** rather than introspective, on §2.4's own line, with three checkable questions, the last of which needs somebody who knew you before. ⛔ **Beat 2 delivered in its AMENDED form** — the cut is chosen-versus-imposed and *the imposed term is not on the contraction axis*; the chapter's own addition is that a teaching which bills the imposed to the chosen installs a shame arrow, which is the most common injury this tradition does. **Card = the clinical pain scale**, picked up from VII.5's own card (*'not the top of a scale that begins with a stubbed toe'*): an **eighth** mode, and the first in which the exclusion is not a defect but the **operating principle** — the compression is what makes it useful, so there is no better scale, only a second question. ★ **The chapter ends addressed to somebody other than its reader**, which no other chapter does: if social degradation is constitutive of affliction, the only reliable countermeasure is another person staying, and that is not an instruction the sufferer can carry out.
 **Beats:** the practice for the only arrow whose loop-gain is partly yours · the dichotomy of control read
 as chosen-versus-imposed · **the focusing as care**, and how to tell it from contraction as
@@ -4461,7 +4461,7 @@ chapter's most important content is the region where that instrument **fails**. 
 preference for a tidier chapter, and the party proposing that repair is the party who benefits.**
 Same discipline as R-101's on `aperture`. → revision pass.
 
-### VIII.6 — OTHER PLAYERS ✅ DRAFTED — 5,308 words
+### VIII.6 — OTHER PLAYERS ✅ DRAFTED — 5,309 words
 ★ **Promoted Day 185: this is no longer one practice among seven. It is half the telos** (`01` §10),
 and the book's ethics is downstream of the §9 cut and of nothing else — **remove the divine player and
 the other players become real.** Consider moving it earlier in Book VIII; it currently sits sixth,
@@ -4509,7 +4509,7 @@ stand; the manuscript owes the note that the source had it, uninindexed, in a se
 **+ §2.5's fifteen-tradition convergence list is this chapter's roster**, and `Kimmerer` = 0 is the
 gap in it that matters most, because hers is the entry that extends the scope past human faces.
 
-### VIII.7 — DO BE DO BE DO ✅ DRAFTED — 3,926 words
+### VIII.7 — DO BE DO BE DO ✅ DRAFTED — 3,924 words
 ✅ **DRAFTED Day 191 · `book/VIII-07-do-be-do-be-do.md`. THE LAST CHAPTER — the volume's first draft is
 67/67.** `claim_sweep --chapter` **0**; beat-ban clean; **prose_echo: every VII.4 and VII.5 gram is
 `[q]`-marked**, which is the designed state and was not the first state — see the echo note below.

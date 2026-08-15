@@ -89,7 +89,19 @@ import sys
 from collections import Counter
 from pathlib import Path
 
-QUEUE = Path(__file__).resolve().parent.parent / "book" / "docs" / "REVISION-QUEUE.md"
+# ⛔ ARCHIVE-ONLY AS OF DAY 195 NIGHT, AND THE REDIRECT IS THE SAFETY PROPERTY.
+# Clayton retired the queue this file was built to analyse. Pointing it at the NEW
+# queue would be worse than useless: it would report 0 live rows over a file with a
+# different structure and read as a finished book. Pointing it at the archive is
+# correct for its actual job -- historical questions about the retired 229 rows --
+# but it means EVERY NUMBER THIS FILE PRINTS IS ABOUT DEAD TEXT.
+# ⚠ Which is exactly why the release gates were MOVED OUT to `release_gates.py`.
+# A gate evaluated over archived text is a defect this project has already paid for:
+# the retirement gets honoured in one pass and not the other, and a dead row blocks
+# a live upload. Nothing in this file is a gate any more.
+# [[feedback_exclusion_marker_honoured_in_one_pass_only]]
+QUEUE = (Path(__file__).resolve().parent.parent / "book" / "docs" / "archive"
+         / "REVISION-QUEUE-RETIRED-D195.md")
 
 # The rows named as the publication gate (Day 195 ruling). Everything else in
 # the queue is a maintenance backlog and explicitly does NOT block release.
@@ -308,7 +320,10 @@ def main() -> None:
     def key(r: str) -> int:
         return int(r.split("-")[1])
 
-    print("QUEUE STATE — book/docs/REVISION-QUEUE.md")
+    print("QUEUE STATE — ⛔ THE RETIRED QUEUE. Every number below is about ARCHIVED text.")
+    print("  archive : book/docs/archive/REVISION-QUEUE-RETIRED-D195.md  (retired Day 195)")
+    print("  live    : book/docs/REVISION-QUEUE.md — different structure; its gauge is")
+    print("            tools/fresh_read.py, and its gates are tools/release_gates.py.")
     print(f"  file            : {len(lines)} lines")
     print(f"  OPEN table      : lines {a['bounds'][0]}–{a['bounds'][1]}")
     print()
@@ -368,7 +383,7 @@ def main() -> None:
         print("no trigger clause points at a discharged row.")
     print()
 
-    print("RELEASE GATE (Day 195 ruling) — these block upload; nothing else does:")
+    print("RELEASE GATE — ⛔ HISTORICAL. Superseded by tools/release_gates.py; blocks nothing:")
     for r in RELEASE_GATE:
         # ⚠ GATE 5 IS NOT READ FROM ITS OWN DECLARATION. R-234's test is
         # "zero triggers point at a discharged row" — so it is answered by the
