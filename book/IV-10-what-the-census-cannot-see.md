@@ -466,10 +466,9 @@ apart.
 
 ---
 
-[^1]: **Tier 1.4 verified against the source, and the chapter is *less* specific than the material it
-is indicting.** The Corpus of Perspectival Idealism (cited in full at `C.1` §V), local full text
-L2409-2447, *1.4 Non-Human Intelligences
-(Physically Manifest)*. Every element the chapter reports is there: the three interpretive frames —
+[^1]: **Tier 1.4 checked line by line, and the chapter is *less* specific than the material it
+is indicting.** The tier in question is *non-human intelligences,
+physically manifest*. Every element the chapter reports is there: the three interpretive frames —
 *Visitors*, *Interdimensional travelers*, *Temporal navigators* — the refusal to choose (*"the
 framework does not require choosing one interpretation"*), the dual-frame problem set out at length,
 and an *Evidence basis* line naming exactly three grades: *scientific observation (military sensor
@@ -557,7 +556,7 @@ clauses word for word (the *Under DoPI* sentence, the *Theorem 12* dimensional-l
 three-part *Evidence basis*) and preserves the source's box-bar glyphs `■`/`□` elsewhere in the file.
 The pipeline is not eating content in this region.
 ⚠ **Limit, stated because it is load-bearing and because it is inherited from IV.9:**
-`tools/brief_source.py`:71 names the real drafting tree as `Unreleased-Work/Perspective`, **which is
+`tools/brief_source.py`:71 names a drafting tree, **which is
 not on this machine.** If a fuller rendering exists there, the sentence may be in it. I cannot
 distinguish that from a sentence that was never written — **and neither can a reader**, which is the
 defect on either reading. ✅ **The *"in two forms"* count is now repaired in the body** — it claimed

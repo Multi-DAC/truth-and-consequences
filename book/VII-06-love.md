@@ -400,32 +400,33 @@ axiom rather than of taste. ⚠ Receipt status: Frankfurt reaches this chapter t
 literature on non-appraisive love rather than from the text directly, and the paraphrase above is in
 my words for that reason. The endnote retrofit owes him a primary check.
 
-[^2]: Source: `Perspective` **06 §6.3 The gift of limitation**, quoted closely — "Love requires two
-beings… Without limitation, there is no other. Without an other, there is no love." The refusal of
+[^2]: **The gift of limitation, and it is the hinge of the chapter:** love requires two
+beings. Without limitation there is no other; without an other there is no love. The refusal of
 the union account is C15's, already established twice in Part One, and is not re-argued here.
 
-[^3]: Source: `Perspective` **03 §3.5 Mutual crystallisation and parasitic dissolution**, taken
-entire; this chapter is its only housing in the manuscript. First appearance of both terms in
+[^3]: **Mutual crystallisation and parasitic dissolution**, taken
+entire; this chapter is their only housing in the manuscript. First appearance of both terms in
 drafted prose — checked, zero prior occurrences across fifty-six chapters.
 
-[^4]: Source: `Perspective` **03 §3.4 Orientations in practice** (E+ / E− / V, and the somatic
-test). Also first housing. The precedence rule where the somatic and longitudinal readings disagree
-is this chapter's, not the source's, and follows from the source's own statement that the felt
-quality of an interaction does not discriminate crystallisation from dissolution.
+[^4]: **Orientations in practice** — E+ / E− / V, and the somatic
+test. Also first housing. The precedence rule where the somatic and longitudinal readings disagree
+is this chapter's own, and it follows directly from the taxonomy: if the felt
+quality of an interaction does not discriminate crystallisation from dissolution, the felt reading
+cannot be the one that decides.
 
 [^5]: R-98's mechanism, fourth instance and first non-claim instance: C18 and C19 each lost a limit
-to a section boundary the source's argument crossed, C21's scope was narrowed by the same operation,
+to a section boundary the argument crossed, C21's scope was narrowed by the same operation,
 and here a *definition* is severed from its *reason* across two Parts. The signpost heuristic —
-reading for *two sections on*, *pays in full below* — does not catch this one, because the source
-gives no signpost at all; the joint is discoverable only by holding the taxonomy against the census.
+reading for *two sections on*, *pays in full below* — does not catch this one, because there
+is no signpost at all; the joint is discoverable only by holding the taxonomy against the census.
 Filed rather than swept: the batch sweep R-98 called for still owes the other twenty-eight.
 
 [^6]: The floor is C18, established at VII.3 with both its limits — validity without motivational
 grip, and impartiality as a wagered premise rather than a derived one. Neither limit is loosened
-here. The care-and-capture diagnostic is the source's, `Perspective` **03 §3.6**, where it is stated
-for teaching and coercive control; the grade-difference application is this chapter's extension of
+here. The care-and-capture diagnostic is inherited, stated first
+for teaching and for coercive control; the grade-difference application is this chapter's extension of
 it, and it inherits rather than re-argues the *through*/*over* distinction. Evan Stark on coercive
-control, and the Hassan and Lifton material on group capture, are cited in the source at this point
+control, and the Hassan and Lifton material on group capture, arrive with the diagnostic
 and are used in this manuscript at VII.3 and VII.4; they are not re-sourced here.
 
 [^7]: Aristotle, *Nicomachean Ethics* VIII.7 on friendship between unequals and the proportional

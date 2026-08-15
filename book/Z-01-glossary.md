@@ -147,6 +147,7 @@ harder charge — it imports *passivity*, a watcher of a world that was already 
 opposite of co-constitution wearing this book's clothes. Where a watcher is meant, say **the
 perspective**; where a participant is meant, say **the player**.
 
+<!-- self-citation-gate: quoting-the-ban -->
 **Any past work of ours, by name — and the anonymous form with it.** No *as we argued elsewhere*, no
 *in our earlier work*, no *we have shown*. An unnamed self-reference is still a reference and is
 strictly worse, because it points a reader at something they cannot look up. **If it is worth

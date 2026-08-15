@@ -362,7 +362,7 @@ He belongs to the next chapter and is pointed at rather than spent here.)*[^10]
 Now the positive account, and it comes down to a single property that the reader can check against
 his own history tonight.
 
-The source's own statement of the position is in the Atlas, in the entry on what every framework's
+The sharpest statement of the position sits in the census, in the entry on what every framework's
 null space has in common:
 
 > Shannon information theory explicitly excludes meaning. Physics has no concept of purpose.
@@ -448,19 +448,20 @@ gets asked about the reader.
 
 ---
 
-[^1]: Source: `Perspective` **Doctrine §13.1 The Journey of Return** — *"The ultimate goal, or telos,
-is to overcome the very limitations that define its individuality and return to a state of integrated
-unity with its source."* ⚠ **The source contradicts this at §13.4** — *"The culmination is not a
-terminal state of static reintegration"* — and says there that it is refining the traditional
-teleological account. It is; and §13.1's thesis sentence and section heading stand unrepaired. The
-manuscript has been quoting the half it agrees with. Filed for the Book VIII pass on C15's
+[^1]: **The journey of return, in the formulation this chapter refuses:** the ultimate goal, or telos,
+is to overcome the very limitations that define individuality and return to a state of integrated
+unity with the ground. ⚠ **A second and incompatible formulation stands beside it** — *the culmination
+is not a terminal state of static reintegration* — and that one is explicitly refining the traditional
+teleological account. It is; and the first sentence has gone on standing unrepaired. The
+manuscript had been using the half it agrees with. Filed for the Book VIII pass on C15's
 establishing chapters: VIII.1 states the telos and must not present the refusal as unaccompanied.
 The specific correction owed is about **originality, not correctness** — our route (a metaphysics in
 which being-the-case requires a vantage cannot name the elimination of vantage as its goal) is
-stronger than the source's (the Promethean impulse is eternal, so the oscillation never terminates),
+stronger than the received one (the Promethean impulse is eternal, so the oscillation never terminates),
 and the honest claim is *stronger*, not *only*.
 
-[^2]: `Perspective` **Doctrine §13.4 Culmination: The Ongoing Oscillation**, quoted exact.
+[^2]: **The culmination is the ongoing oscillation and not a terminal state** — stated in the body
+exactly as it stands here.
 
 [^3]: VII.5, where this same passage is quoted in full and refused as a theodicy under C21, together
 with the finding that Book V's dissolution of the *God-shaped* theodicy is a narrower alibi than it
@@ -468,22 +469,22 @@ looks and leaves the mechanical kind untouched. Not re-argued here. **The observ
 passage carries two separable defects — a theodicy and a mandate — is this chapter's**, and it is
 the reason a culminating paragraph deserves more screening than a body one rather than less.
 
-[^4]: `Perspective` **Doctrine §12.2 Resolving the Mystic-Existentialist Debate**, quoted exact. ★
-§12.1's Theorem 16 (the Fundamental Oscillation) and its *"Do be do be do"* formulation are **VIII.7's**
-and are pointed at rather than spent here; this chapter needs only §12.2's verdict on which half of
+[^4]: **The resolution of the mystic–existentialist debate**, taken as stated. ★
+Theorem 16 (the Fundamental Oscillation) and its *do be do be do* formulation are **VIII.7's**
+and are pointed at rather than spent here; this chapter needs only the verdict on which half of
 the existentialist survives.
 
-[^5]: `Perspective` **Atlas #61, Existential Philosophy of Suffering (Kierkegaard, Heidegger,
-Frankl, Weil)**, NULL SPACE, first entry, quoted exact. ★★ **This is the source's own census card
-diagnosing the exact defect this chapter's central argument turns on, and no chapter of this
-manuscript has cited it before now.** Frankl's three pathways to meaning — creative work,
+[^5]: **The census card for the existential philosophy of suffering — Kierkegaard, Heidegger,
+Frankl, Weil — NULL SPACE, first entry.** ★★ **The card diagnoses the exact defect
+this chapter's central argument turns on, and no chapter of this
+manuscript had used it before now.** Frankl's three pathways to meaning — creative work,
 experiential encounter, and the attitude taken toward unavoidable suffering — are on the same card
 and are the tradition's partial exception to its own blindness; `Frankl` occurred zero times across
 fifty-eight drafted chapters, `Camus` zero, `MacIntyre` zero, `Sisyphus` zero, `eternal recurrence`
 zero. Ruling 141's pattern, sixth firing, and this time in a chapter whose brief predicted every one
 of the zeros — which is progress of a kind: the brief caught what the drafting would have missed,
 and the brief only caught it because someone counted.
- ⚠ **The receipt owed for Sartre, added Day 191:** *pour-soi* — being-for-itself — is Sartre's, from *L'Être et le néant* (1943), and it reaches this chapter **inside the Atlas card's own quoted sentence, not from a reading of Sartre.** That is the honest provenance and it is the reason he is not argued with here: the card is citing him as an instance of existentialism's individualist default, this chapter takes the card's diagnosis, and **a name that arrives through a quotation is owed the note that says so.**
+ ⚠ **The receipt owed for Sartre, added Day 191:** *pour-soi* — being-for-itself — is Sartre's, from *L'Être et le néant* (1943), and it reaches this chapter **inside the census card's own sentence, not from a reading of Sartre.** That is the honest provenance and it is the reason he is not argued with here: the card cites him as an instance of existentialism's individualist default, this chapter takes the card's diagnosis, and **a name that arrives through a quotation is owed the note that says so.**
 [^6]: Albert Camus, *Le Mythe de Sisyphe* (1942): the absurd as the confrontation between the human
 demand for clarity and the world's *silence déraisonnable*; the refusal of both suicide and the
 philosophical leap; revolt as the sustained holding-open of the confrontation. ⚠ Receipt status:
@@ -521,9 +522,9 @@ grant our side of it.
 between *idem* (sameness, permanence of the same) and *ipse* (selfhood, self-constancy through
 change). VII.9's problem. Pointed at, not spent.
 
-[^11]: `Perspective` **Atlas**, universal null spaces, the entry on **Meaning**, quoted exact apart
-from the bracketed substitution of the framework's name. This is C16's positive half in the source's
-own words and it is the only place in the source where it is stated as a claim about what meaning
-*is* rather than as a consequence of the telos. ★ That it appears in an inventory of what *other*
+[^11]: **The universal null spaces, the entry on Meaning** — taken entire apart
+from the bracketed substitution of the framework's name. This is C16's positive half, and it is the
+only place the claim is made about what meaning
+*is* rather than about what follows from the telos. ★ That it appears in an inventory of what *other*
 frameworks cannot see, rather than in the section on purpose, is the same pattern as note 5: the
 census contains findings its builder did not make.

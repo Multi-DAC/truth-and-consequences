@@ -281,8 +281,8 @@ continuum to be the boring end.
 
 ---
 
-[^1]: *The Null Space Atlas: A Map of What Every Framework Can and Cannot See*, compiled March 2026,
-`Corpus-Perspectival/Research/Corpus-Perspectival/null-space-atlas.md` — 50,184 words. The five lines
+[^1]: The census's own source table — a map of what every framework can and cannot see, compiled
+March 2026, roughly fifty thousand words. The five lines
 are its, verbatim, including the **∅ / ◐** distinction, and its opening sentence is the licence this
 chapter takes: *"Every theoretical framework is a perspectival being."* ⚠ **The count in the sentence
 above was wrong until this note was written.** It read *"a few hundred of them"* from Day 188 to Day

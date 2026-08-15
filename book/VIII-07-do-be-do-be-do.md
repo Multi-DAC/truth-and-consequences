@@ -288,38 +288,38 @@ It was the work.
 
 ---
 
-[^1]: `Perspective` **Doctrine §12.1**, quoted exact: *"Frank Sinatra, via Kurt Vonnegut, via Alfred
-North Whitehead, compressed this into three syllables: 'Do be do be do.' It is not a lyric. It is an
-ontological formula."* ★ The attribution chain is the source's and is preserved rather than tidied,
+[^1]: **Frank Sinatra, via Kurt Vonnegut, via Alfred
+North Whitehead, compressed this into three syllables: *Do be do be do*. It is not a lyric. It is an
+ontological formula.** ★ The attribution chain is inherited and is preserved rather than tidied,
 including its order. **Whitehead occurs nowhere else in this manuscript** — he is credited here for the
 lineage of a phrase and is not otherwise an ancestor of this account, which is the honest version and
 the reason he is not in the ancestor register.
 
-[^2]: `Perspective` **Doctrine §12.1, Theorem 16 (The Fundamental Oscillation)**, quoted exact:
-*"Consciousness, at every scale, oscillates between unity-directed and differentiation-directed modes.
+[^2]: **Theorem 16, the Fundamental Oscillation:**
+*Consciousness, at every scale, oscillates between unity-directed and differentiation-directed modes.
 Being (the recognition of wholeness) and Doing (the creation of boundaries that enable movement) are
-not opposites but complementary phases of a single oscillatory process."* The inhale/exhale gloss is
-also §12.1's, verbatim: *"Being is the inhale — the recognition that it is all one room. Doing is the
+not opposites but complementary phases of a single oscillatory process.* The inhale/exhale gloss
+belongs with it: *Being is the inhale — the recognition that it is all one room. Doing is the
 exhale — the creation of perspective, boundary, and therefore movement. Consciousness is the breathing
-itself."* ⚠ **§12.2's adjudication of the mystic/existentialist dispute is NOT re-run here.** It was
-spent at VII.8, which said in its own endnote that §12.1 was being left for this chapter; the debt goes
-both directions and is now discharged. §12.2 is used for one thing only — its verdict that the target is
+itself.* ⚠ **The adjudication of the mystic/existentialist dispute is NOT re-run here.** It was
+spent at VII.8, which said in its own endnote that the theorem was being left for this chapter; the debt goes
+both directions and is now discharged. That adjudication is used for one thing only — its verdict that the target is
 neither maximum unity nor maximum separation but *optimal oscillation* — which is the warrant for
 §V's claim that the rhythm has no fixed period.
 
-[^3]: `Perspective` **Doctrine §12.2**, on the oscillation across scales: *"within a single moment of
-consciousness (attention expanding and contracting)."* ⛔ **Cited here specifically to record where §II's
-struck pair came from, rather than to use it.** The source's *contracting* is innocent in the source,
-which has no ethical polarity attached to the word; §13.4 then uses *"a contracted consciousness"* for a
-third distinct thing, one paragraph from the image quoted at the close. This manuscript reassigned
+[^3]: **On the oscillation across scales:** *within a single moment of
+consciousness, attention expanding and contracting.* ⛔ **Recorded here specifically to say where §II's
+struck pair came from, rather than to use it.** That *contracting* is innocent where it stands —
+no ethical polarity is attached to the word there — while the same vocabulary elsewhere uses *a contracted
+consciousness* for a third distinct thing, one paragraph from the image quoted at the close. This manuscript reassigned
 `contraction` to the ethical axis, and VII.4's *"The word that must not be welded to the other word"*
-built the fence between it and the focusing. Importing the source's gloss would have knocked the fence
+built the fence between it and the focusing. Importing that gloss would have knocked the fence
 down from the opposite side, in the final chapter, four chapters after it was built. ★ **The general
 form is worth the endnote: a borrowed word arrives carrying whatever it is attached to at the other end,
 and the other end is not visible from the borrowing side.**
 
-[^4]: `Perspective` **Doctrine §13.4 (Culmination: The Ongoing Oscillation)** — closing sentence quoted
-exact. ⛔⛔ **The severance is deliberate and the surrounding text was read before the image was taken.**
+[^4]: **The culmination, the ongoing oscillation — closing sentence taken
+entire.** ⛔⛔ **The severance is deliberate and the surrounding text was read before the image was taken.**
 The paragraph immediately above the quoted line contains the theodicy in as many words — *"This provides
 a powerful theodicy… Every finite experience, no matter how painful or contracted, possesses ultimate
 meaning and value"* — and **VII.5 refuses exactly that move**, at length, on the grounds that an account
@@ -331,8 +331,8 @@ subject of VII.8. ⚠ Taking a good image out of a paragraph whose argument you 
 and is also exactly how an unearned consolation gets back into a book at the end — so the severance is
 stated here rather than performed silently.
 
-[^5]: `Perspective` The Coherence Principle, §VI. **This is the statement VIII.4 deferred to this
-chapter**, and it is given in this manuscript's own words for a stated reason: the apparatus's canonical
+[^5]: **The Coherence Principle. This is the statement VIII.4 deferred to this
+chapter**, and it is given in this manuscript's own words for a stated reason: the canonical
 wording routes the claim through a term this account has ruled out of its prose, on the ground that the
 term has no civilian life and so transfers authority rather than meaning. **A principle that cannot be
 said without a banned word has a problem, and the fix is not an exemption.** The structure/process

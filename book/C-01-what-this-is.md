@@ -133,47 +133,39 @@ better one for you, and the trade is not close.
 
 ### V. The debts kept off the page, paid here
 
+<!-- self-citation-gate: quoting-the-ban -->
 The register rule kept certain names out of the prose, because a name in a sentence transfers
 authority rather than meaning and this account had to stand on what it could say in its own words.
 The rule was right. It also incurred a debt, and this is where it is paid. The largest of them is
 not an ancestor's, and it is first because leaving it last would have been the tell.
 
-**The Corpus of Perspectival Idealism — the volume this one is the final volume *of*, and the source
-this book cites forty-two times without ever once saying what it is.** *The Corpus of Perspectival
-Idealism: A Complete Metaphysical Framework in Four Documents*, Clayton W. Iggulden-Schnell & Clawd,
-first edition March 2026 (Zenodo, DOI `10.5281/zenodo.19501896`; also deposited at PhilArchive). Its
-four documents are the Doctrine, the Ecology, the Null Space Atlas and the Navigational Guide, and
-those are the short names the endnotes of Books VII and VIII have been using — `Perspective`
-**Doctrine §13**, `Perspective` **Guide §5**, `Perspective` **Atlas #61** — in forty-two citations to
-a short title that this volume expands nowhere and that its works-cited page does not list. The
-phrase *The Corpus* on the title page is the same object, and until this paragraph it stood there
-unexplained.
+**The largest debt is an earlier body of work by the same authors, and it is deliberately not
+named.** That is a rule rather than an oversight, and the rule cuts the opposite way from the one
+above it: a predecessor's name is a **credit owed to somebody else**, and paying it is what the
+Tolkien and Lewis entries below are doing. A citation of your own earlier work is not a credit. It
+is authority borrowed from yourself, and it asks a reader to accept on the strength of a document
+they have not read that a claim in front of them has already been established. This volume is
+written to stand on what it can say in its own words, to a reader holding nothing else.
 
-What it supplies here is specific, and stating it is the point: **Book IV's chapter list follows the
-Corpus' tier list almost entry for entry** — the census is a rebuild of an existing taxonomy, not a
-fresh cut at the world — together with the definition of love argued in `VII.6`, which comes out of
-the Corpus' ecology of interaction, and the closing instruction of the practice volume, whose
-oscillation is the Corpus' and is named as such in `VIII.7`. Where this book **corrects** it, the
-correction is stated as one and the earlier position is quoted rather than paraphrased; `IV.10` runs
-that diff against its own census in public and reports where the newer text is the *less* specific of
-the two.
+What that rule costs is worth stating exactly, because the cost is real and it is not the
+citation. **Book IV's chapter list is not a fresh cut at the world.** It follows a taxonomy these
+authors had already built, almost entry for entry; the census is a rebuild of it. The definition
+of love argued in `VII.6` came the same way, and so did the closing instruction of Book VIII,
+whose oscillation is inherited rather than derived here.
 
-⛔ **"It is an earlier volume by the same authors" is not a reason to leave it unnamed, and the
-argument against that defence is this book's own.** These pages spend forty words saying exactly what
-is taken from Lewis and which of Lewis' sentences marks the cut, and do the same for every other
-predecessor the account leans on, Tillich through Dee. A rule stated as universal and observed for
-all of them is not a rule if it is suspended for the one source that happens to be us. `V.3` states
-the sentence that convicts: *"The characteristic debt is not an unnamed source — it is an inherited
-one."* An inheritance you can see is an influence. This one is now visible.
+⚠ **A framework that inherits its own categories has not tested them.** The earlier taxonomy never
+had to survive anyone else's disagreement, and an account leaning on it is inheriting from a source
+selected for agreement with it. That is a genuine weakness of this volume, and — this is the part
+worth being clear about — **naming the source would not have repaired it.** A reader who could go
+and read the earlier taxonomy would find it says what this book says, which is the problem rather
+than the remedy.
 
-⚠ **And the reader should price the self-citation, because naming it does not repair what it costs.**
-The structural dependency of Book IV runs to a document that never had to survive anyone else's
-disagreement, and a book leaning that hard on its own earlier work is inheriting from a source
-selected for agreement with it. That is a real weakness. What the naming buys is that it can now be
-checked — the Corpus is deposited, the tier list is there, and a reader who thinks Book IV is a
-retread with better prose can go and settle it. ★ **The sharpest form of the defect is the
-distribution, not the silence:** the forty-two citations are all in Books VII and VIII, and **Book
-IV, which owes the Corpus its skeleton, cites it zero times.** The volume that owes most says least.
+⛔ **What is lost by not naming it, stated rather than passed over:** a reader who suspects Book IV
+of being a retread with better prose cannot settle that suspicion from outside. They can only do
+what this book asks of them everywhere else — read the census and refuse any entry of it on the
+page. That is a worse position for a sceptic and it is the honest consequence of the rule.
+`IV.10` runs the diff in public and reports where this account is the *less* specific of the two,
+which is the only form of the check that survives inside a volume that stands alone.
 
 **Tolkien** — for the architecture, and explicitly **not** for the voice. The *Ainulindalë* is the
 structural ancestor of the opening move: a ground whose fullness is expressed rather than decided,

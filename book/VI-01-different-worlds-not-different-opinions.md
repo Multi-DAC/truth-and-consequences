@@ -139,7 +139,7 @@ configuration of sight. Gebser's fifth, the **integral** or aperspectival, is no
 to magic; it is the whole spectrum held at once and transparently — *diaphanously*, his word — so
 that the earlier structures become apertures one can use rather than prisons one is kept in.
 
-That last one is the Atlas discipline of Book IV restated as a stage of history: the mind that can
+That last one is the census discipline of Book IV restated as a stage of history: the mind that can
 hold many keyholes and be captured by none. It is also the most suspicious item on the list, for a
 reason worth naming now rather than letting a reader find it: it is the stage Gebser was writing
 from, and every scheme of historical stages ever proposed has placed its author at the summit. Hold

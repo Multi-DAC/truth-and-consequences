@@ -309,7 +309,7 @@ model in this section was rebuilt around that constraint and is better for it �
 (*possibilities are perishable*) is both false on our premises and, separately, the engine of most
 bad urgency.
 
-[^3]: `Perspective` **Guide §2.3, Principle 2** — attentional scarcity is perspectival: attention is
+[^3]: **Principle 2 — attentional scarcity is perspectival:** attention is
 finite *for you*, because you are a restricted being, and not because attention is a limited quantity
 in the world. The standing-allocation model in this section is that principle applied to a matter
 held rather than to a thing attended, which is a small extension and is flagged as one. ★ The claim
@@ -324,14 +324,14 @@ usual; what matters is that the symmetric-tie picture has become the default ima
 that the default image is wrong about nearly every real case. `Buridan` occurs nowhere else in this
 manuscript.
 
-[^5]: `Perspective` **Guide §2.4**, quoted exact for both halves — *"Expansion is not always good.
-Contraction is not always bad"* — and again for the closing-end failure, *"the narrow channel feels
-like the only channel, and the being forgets that the wider landscape exists."* ⛔ The opening-end
-failure is our own completeness result from Book II and is not the source's phrasing. ★ Note what the
-source does that most practice writing does not: it names the failure mode of the mode it prefers, in
-the same paragraph, without softening. That is the reason this section could be written at all.
+[^5]: **Both halves, and they are held together on purpose — expansion is not always good;
+contraction is not always bad** — together with the closing-end failure: *the narrow channel feels
+like the only channel, and the being forgets that the wider landscape exists.* ⛔ The opening-end
+failure is this book's own completeness result from Book II and is a separate sentence. ★ Note what the
+pair does that most practice writing does not: it names the failure mode of the mode it prefers, in
+the same breath, without softening. That is the reason this section could be written at all.
 
-[^6]: `05` §3a, the **Coherence** row, quoted for the definition: *"the structural agreement of a
+[^6]: **The Coherence row, and the definition it fixes:** *"the structural agreement of a
 thing's levels with one another and the felt rightness of going the way one goes — the claim is that
 these are one thing, met from its two sides."* ⚠ **Recorded because it is a finding about the
 manuscript rather than about this chapter: `the Coherence Principle` is the planning apparatus's name

@@ -1298,7 +1298,7 @@ VI.1 was the first chapter in the work to ship with endnotes (ruling 9's second 
 chapters) and the first outside Book IV to carry a census card. **Book VI drafted WITH notes rather
 than joining the retrofit**, so the endnote debt stopped growing at VI.1.
 
-    CHAPTERS-DRAFTED: 67/67 · 308,275 words
+    CHAPTERS-DRAFTED: 67/67 · 308,087 words
 
 ⚠ **That slot is a DECLARED number and it WILL rot — it is here so
 `tools/where_the_book_is.py` can fail on it, not so anyone can read it.**
@@ -3182,3 +3182,51 @@ cited and is **not** closed by this ruling.
 rather than by a list of filenames, because a hand-listed loop is a mechanism that silently drops the
 next artifact somebody adds. Verified in the built PDF: glossary and works cited both present,
 **1,053 pages.**
+
+---
+
+### **RULING 181 — THE VOLUME STANDS ON ITS OWN. PAST WORK OF OURS MAY BE USED AND MAY NOT BE POINTED AT — AND THE RULE GETS AN INSTRUMENT, BECAUSE AS PROSE IT ALREADY LOST ONCE.** *(Gate 6 of the release gate. Filed as R-238. ⚠ It exists because R-214 was paid in the opposite direction earlier the same day.)*
+
+**The standard is Clayton's and it is older than this queue:** the book must stand on what it can say
+in its own words, to a reader holding nothing else. Earlier work by the same authors may be *used* —
+its arguments, its taxonomy, its sentences — and may not be *named* or *pointed at*. `Z-01 §THE BAN
+LIST` legislates it in almost those words and did so before any of this.
+
+⛔ **AND ON DAY 195 THE BOOK WAS MOVED THE OTHER WAY, CAREFULLY, BY SOMEONE WHO KNEW THE RULE.** R-214
+reported that the source was never named. It was paid by naming it: full title, both authors, the
+deposit DOI, the four document titles, and forty-two endnote pointers left standing and newly
+legible. The patch was sourced, self-critical, and wrong at the level of the standard — **and nothing
+objected.**
+
+**The mechanism of that failure is the ruling's whole content, because it generalises past this
+book.** The row was concrete, present, and in front of the drafter. The standard was prose in another
+file. **A standard with no instrument loses to any queue row that contradicts it, on the day the row
+is worked** — not occasionally, reliably, and the better the row's evidence the more certainly it
+wins. Hence: gate 6's satisfaction test is `tools/self_citation_gate.py` exiting 0, and
+`queue_state.py` RUNS it rather than reading a sentence about it.
+
+**What the repair actually did — 64 violations to 0, both ends measured.** The gate was written and
+run *before* the clean-up, so its detection is evidenced rather than asserted; its own positive
+control caught a defect in the gate on the first run and withheld the verdict. ~50 endnotes were
+**absorbed** — pointer out, substance in, and where a sentence had been quoted from prior work of
+ours it is now *stated*, since it is ours and quotation marks around your own sentence are a pointer
+wearing punctuation. One note was **cut**. Both passages that *confessed* the defect were repaired in
+the same commit, because a de-citation sweep converts every honest disclosure of it into a false
+statement.
+
+⚠ **WHAT THE GATE DOES NOT CERTIFY, PRINTED BY THE GATE ITSELF ON EVERY GREEN RUN.** Green means the
+book no longer POINTS. It does not mean the book is honest about what it inherited — an absorbed debt
+is invisible to any grep, which is the intended end state and therefore a permanent limit. And **50
+bare *"the source"* references remain in body prose**, the anonymous form Z-01 calls strictly worse.
+They are declared beside the green rather than gated, because book-wide that phrase runs to 111
+occurrences of which the great majority mean somebody else's text, and any regex sharp enough for the
+rest would be tuned until it agreed with whoever tuned it. **They are R-239, and they are a ruling
+Clayton owns, not a sweep** — several of those passages *argue with* what they call the source, and a
+correction addressed to a document the book never names is a weaker claim, not the same claim
+reworded.
+
+★ **The asymmetry a reader will notice, stated so it reads as a rule rather than a convenience:** a
+predecessor's name is a **credit owed to somebody else** and this book pays those at length, Lewis
+through Dee. A citation of your own earlier work is not a credit. It is authority borrowed from
+yourself, and it asks a reader to accept, on the strength of a document they have not read, that
+something in front of them is already settled.

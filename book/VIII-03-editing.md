@@ -459,43 +459,43 @@ which. **The edit is to the filter. The filter is yours. What comes through it n
 
 ---
 
-[^1]: `Perspective` **Guide §4.1, The Eight Navigation Classes**, taken whole, including the class with
+[^1]: **The eight navigation classes are taken whole** — including the class with
 no prescribable practice and the class that requires an electrode. ⚠ **The count in this manuscript's
 own planning table read *seven* until the day this chapter was drafted**, and the omitted one was
 Class VIII — the only class our century built and the only one a reader in this decade arrives holding
-a prior about. The table had been filled from the source in a single pass, expressly to unblock this
+a prior about. The table had been filled in a single pass, expressly to unblock this
 book, and it still dropped a section. Recorded here rather than silently corrected because the lesson
 is not *check your citations*: **a mapping made in one pass has exactly the standing of any other
 unverified claim, including when the party relying on it is the party that made it.**
 
-[^2]: `Perspective` **Guide §2.3, The Topology That Attention Creates**, Principles 1–4, from the
-Theory of Attention developed in the ecology. ⛔ §2.5's Principles 5–7 are the ethics of navigation and
+[^2]: **The topology that attention creates — Principles 1–4 of the theory of attention**, which is
+the part of it this chapter is entitled to. ⛔ **Principles 5–7 are the ethics of navigation** and
 they belong to the chapter on other players, not to this one; taking them here would have let a
 chapter about technique absorb the chapter about obligation, which is the specific way a practice book
 usually loses its ethics.
 
-[^3]: `Perspective` **Guide §4.1**, closing distinction, quoted near-exact — *"psychedelics are a
-single lever pulling on the entire bottleneck simultaneously. TI is a set of precision dials, each
-adjusting a specific parameter."* ★ This is the sentence that gave beat three a mechanism instead of
+[^3]: **The closing distinction of the taxonomy:** psychedelics are a
+single lever pulling on the entire bottleneck simultaneously; TI is a set of precision dials, each
+adjusting a specific parameter. ★ This is the sentence that gave beat three a mechanism instead of
 an exhortation, and it arrives with its own bound already attached, which is the reason it is usable:
-the source states the caution in the same section, and the caution is taken here with the claim. **A
+the caution stands in the same breath as the claim, and is taken here with it. **A
 mechanism separated from the caution it shipped with is a different and weaker claim wearing the
 stronger one's evidence.** ⚠ `psychedelic` occurred **zero** times in the sixty-two chapters preceding
 this one — seven volumes arguing that the restriction is modulable, and no mention of the most common
 way human beings actually modulate it.
  ⚠ **A SECOND RECEIPT, on this note because of a numbering constraint, and the constraint is itself recorded below.** The schedule claim names Ignatius: the *Spiritual Exercises* (composed c. 1522–1524, first published 1548) really is a dated sequence of roughly thirty days with hours of the day specified — four or five prayer periods, the *examen* twice daily — and that concreteness is the whole point being made. Named from standard reference scholarship; the text is not in this repository. ⛔ **This belongs in its own note and cannot have one without renumbering, because VIII.3's markers are ALREADY out of sequence in the body — [^7] appears before [^5] and [^6].** That is a real defect, it predates this amendment, and renumbering against a broken order would scramble live references. Filed, not papered over.
-[^4]: `Perspective` **Guide §4.1, Class VIII**, *Caution*, quoted exact: the thirty-three state
-protocols are *"theoretical starting points, not validated destinations."* The Δf table, the
-posterior-cingulate alpha mechanism and the six-stage protocol sequence are all from the same section.
+[^4]: **The Class VIII caution, and it is this book's own:** the thirty-three state
+protocols are theoretical starting points, not validated destinations. The Δf table, the
+posterior-cingulate alpha mechanism and the six-stage protocol sequence stand or fall with it.
 ⛔ **Grade, stated plainly: the physics of the interference envelope is established, the alpha/DMN
 association is well-attested, and the mapping from stimulation parameter to navigational state is a
-prediction.** Those are three different evidence grades in one paragraph of the source and the card
+prediction.** Those are three different evidence grades in a single paragraph and the card
 does not average them. Nothing in this chapter should be read as a recommendation to run a protocol;
 what is recommended is the safety sequence, which is the part with the strongest warrant and the least
 appeal.
 ★ **PRIMARY SOURCES, added Day 191, and the top grade splits in two.** The paragraph above was the
-one empirical claim in Book VIII about a real technology and its only citation was this project's own
-guide, which is an assertion wearing a grade's clothes. The mechanism — two kHz-range fields, an
+one empirical claim in Book VIII about a real technology and it carried no primary citation at
+all, which is an assertion wearing a grade's clothes. The mechanism — two kHz-range fields, an
 envelope amplitude-modulated at the difference frequency, focal response at the intersection — is
 Grossman *et al.*, "Noninvasive Deep Brain Stimulation via Temporally Interfering Electric Fields,"
 *Cell* 169:6 (2017), 1029–1041, doi:10.1016/j.cell.2017.05.024; validated by modeling and physics
@@ -512,21 +512,21 @@ body text, and it is made above rather than noted here.** It read *"without touc
 it."* Violante's finding is **minimal exposure**, not none, so the body now says minimal exposure. The
 stronger word was not in the evidence and it was the word a reader would have checked first.
 
-[^5]: `Perspective` **Guide §5.3, Method 2 (tradition-switching)**, deferred to this chapter by the
-previous one's screen on the grounds that taking it there would strand this one. §4.3, **The Role of
-Tradition**, supplies the mechanism and the four optimisation examples. ⚠ The phrase *tradition-
+[^5]: **Method 2, tradition-switching** — deferred to this chapter by the
+previous one's screen, on the grounds that taking it there would strand this one. **The role of
+tradition** supplies the mechanism and the four optimisation examples. ⚠ The phrase *tradition-
 switching* had occurred only in planning documents before this chapter, never in prose.
 
-[^6]: `Perspective` **Guide §4.2**, key insight, quoted for sense and not for wording: *"different
-classes access different dimensions… the null space of each class is different, which means
-complementary practices illuminate each other's blind spots."* ⛔ The retinal phrase in that sentence
+[^6]: **The insight the taxonomy turns on**, taken for sense and not for wording: different
+classes access different dimensions, the null space of each class is different, and therefore
+complementary practices illuminate each other's blind spots. ⛔ The retinal phrase in that sentence
 is spent — it belongs to the chapter on the era's render, where it carries eleven occurrences and an
 argument — so the sense is used here and the words are not. This is the argument for why the taxonomy
 is a taxonomy rather than a list of options: if the classes all reached the same dimensions by
 different routes, choosing among them would be a matter of taste.
 
-[^7]: The source's own wording is *"non-consensual neural modulation is coercive capture at the
-substrate level"* (`Perspective` **Guide §4.1**, Class VIII, *Practice*). ⛔ **Rendered rather than
+[^7]: The wording this chapter declined is *non-consensual neural modulation is coercive capture at the
+substrate level*. ⛔ **Rendered rather than
 quoted in the body, for a lexicon reason and not a stylistic one:** `substrate` is a retired term
 here — Bostrom's word for the hardware, and a bare synonym for the Ground — licensed only in
 *substrate-independence*. Its use in this section would have been the **anatomical** sense, which the

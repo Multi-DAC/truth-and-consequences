@@ -609,32 +609,30 @@ paragraphs fall.* **That falsifier has not been run, and it is cheap** — the s
 where a stated falsifier sat unexecuted three sections from the claim it would have killed. Named
 here so the next pass inherits a target rather than a caveat.
 
-[^12]: ⛔ **THE CHAPTER'S SHARPEST SECTION QUOTES NUMBERS THAT ARE NOT IN THE SOURCE.** Full
-measurement: `review/SCAN-002-day191-iv9-source-audit.md`; filed as **R-146**. Against
-the Corpus of Perspectival Idealism (full citation at `C.1` §V; the local
-full-text cache `tools/brief_source.py:70` reads is `work/perspective-v1-fulltext.txt`) — and
-the chapter's declared Source is *ecology Tier 4.1–4.2*: the **moderate Cognitive-Experiential**
-rating is **verbatim**, definition included ✅. But **§4.2, the Promethean entry, carries no
+[^12]: ⛔ **THE CHAPTER'S SHARPEST SECTION QUOTED NUMBERS WITH NOTHING BEHIND THEM.** Full
+measurement: `review/SCAN-002-day191-iv9-source-audit.md`; filed as **R-146**. Checked line by line
+against the tier material the chapter was built from: the **moderate Cognitive-Experiential**
+rating is **exact**, definition included ✅. But **§4.2, the Promethean entry, carries no
 `Dimensional profile:` line at all** — it is formatted *"A special case:"* and has no scores, so
 *"scored maximal"* has no cell behind it. And **three `Orientation:` lines exist in the entire 884 KB
 file**, all three in the Decomposers section; **neither archetypes nor minerals carries one**, so
 *"Archetypes are marked S, and so are minerals"* has no assignment behind it either. The positive
 control holds: bar-profiles and orientation lines **do** survive extraction — three of each, glyphs
 intact — so the absence is in the entries, not in the pipeline.
-⚠ **Limit, and it is load-bearing:** `brief_source.py:71` names the real drafting tree as
-`Unreleased-Work/Perspective`, **which is not on this machine.** If a fuller rendering exists there,
-these numbers may be right and merely uncheckable from here. **I cannot distinguish that from a
-filled-in table — and neither can a reader.** That is the defect either way.
-★ **And the source holds better evidence for the chapter's thesis than the chapter used.** `S` is
-defined **twice, incompatibly**: in the Guide as *"orientation toward the architecture of the space
-itself… analysis, contemplation, mathematical reasoning"* — **a stance a navigator takes, which a
-human can occupy** — and in the appendix table as *"**Forms the landscape itself**."* One letter, two
-incompatible jobs, verbatim and checkable. Better still, the Guide cross-references *"Ecology Part II
-for orientation assignments (E+, E−, V, N, S) across all entity types"* — **and Ecology Part II
-contains no orientation assignments at all.** A pointer to a table that was never built. That is
-mechanism-without-a-trigger *inside the inherited source*, and it is a **sharper instance of this
-chapter's own argument** than the figures the chapter reported: the apparatus could not report that
-the assignment was missing, so it cited it instead.
+⚠ **Limit, and it is load-bearing:** a fuller rendering of that table may exist somewhere the
+drafting could not reach, in which case these numbers may be right and merely uncheckable. **That
+cannot be distinguished from a filled-in table — not by the author and still less by a reader**, and
+no citation would have distinguished it either. That is the defect either way, and the figures are
+withdrawn rather than defended.
+★ **And the material the chapter drew on holds better evidence for its thesis than the chapter
+used.** `S` is defined **twice, incompatibly** — once as *orientation toward the architecture of the
+space itself: analysis, contemplation, mathematical reasoning*, **a stance a navigator takes, which a
+human can occupy** — and once, in a table, as ***forms the landscape itself***. One letter, two
+incompatible jobs. Sharper still, that same apparatus cross-refers to a table of orientation
+assignments across all entity types — **and no such table was ever built.** A pointer to something
+that does not exist is mechanism-without-a-trigger inside the inheritance, and it is a **sharper
+instance of this chapter's own argument** than the figures the chapter reported: the apparatus could
+not report that the assignment was missing, so it cited it instead.
 
 ---
 

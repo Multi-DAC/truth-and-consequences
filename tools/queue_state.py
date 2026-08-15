@@ -93,7 +93,15 @@ QUEUE = Path(__file__).resolve().parent.parent / "book" / "docs" / "REVISION-QUE
 
 # The rows named as the publication gate (Day 195 ruling). Everything else in
 # the queue is a maintenance backlog and explicitly does NOT block release.
-RELEASE_GATE = ["R-212", "R-228", "R-216", "R-222", "R-234"]
+RELEASE_GATE = ["R-212", "R-228", "R-216", "R-222", "R-234", "R-238"]
+
+# Gates whose answer is MEASURED by running something, never read off a
+# sentence in the row. R-234 was the first and its rule generalises: a gate whose
+# only evidence is its own prose is satisfiable by writing prose. R-238 joins it
+# because its whole reason for existing is that a standard without an instrument
+# loses to any row that contradicts it — so recording it AS a sentence would have
+# rebuilt the exact defect it was filed against.
+MEASURED_GATES = {"R-238": "self_citation_gate.py"}
 
 ROW_RE = re.compile(r"\bR-(\d+)(\([a-z]\))?\b")
 OPEN_TABLE_ROW = re.compile(r"^\|\s*(~~)?\*\*(R-[\w()]+)\*\*")
@@ -372,6 +380,21 @@ def main() -> None:
                       f"point at a dead row — MEASURED, not declared)")
             else:
                 print(f"    {r:8s} ✅ met    (0 dangling triggers — measured)")
+            continue
+        if r in MEASURED_GATES:
+            # Run it. Exit 0 = clean, 1 = violations, 2 = the tool's own positive
+            # control failed — and a 2 is reported as UNKNOWN rather than folded
+            # into either answer, because a detector that has stopped detecting
+            # produces a zero indistinguishable from a real one.
+            import subprocess
+            tool = Path(__file__).resolve().parent / MEASURED_GATES[r]
+            rc = subprocess.run([sys.executable, str(tool)],
+                                capture_output=True, text=True).returncode
+            verdict = {0: "✅ met    (gate tool exits 0 — MEASURED, not declared)",
+                       1: "◻ OPEN   (gate tool reports violations)",
+                       2: "⚠ UNKNOWN (the tool's OWN positive control failed — "
+                          "verdict withheld)"}.get(rc, f"⚠ UNKNOWN (exit {rc})")
+            print(f"    {r:8s} {verdict}")
             continue
         if r not in all_rows:
             print(f"    {r:8s} ❓ NOT PRESENT IN THE FILE")

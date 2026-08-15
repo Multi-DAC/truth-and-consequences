@@ -392,7 +392,7 @@ better than their cosmologies deserve, is editing.
 ---
 
 [^1]: VI.8 — THE TUNNEL YOU ARE IN, whose procedure — *"convert one week of yourself into behaviour,
-and let somebody else read it"* — is the Guide's Method 1 delivered in operational form, with its
+and let somebody else read it"* — is Method 1 delivered in operational form, with its
 defeat condition and its ceiling both stated there. It is referenced rather than reproduced here
 because a practice volume that re-issues a procedure already given in the metaphysics volume has
 taught the reader that its cross-references are decorative. ⚠ `blind spot` occurs eleven times in this
@@ -413,19 +413,19 @@ scope of the 1977 result is real and this chapter does not need its strong readi
 claim is **structural**, and would hold if every subject in every such study had been accurate, since
 it is about what an operation can sample rather than about how often it errs.
 
-[^3]: The Observational Null Space Theorem, established in Book II and applied throughout Book IV;
-`Perspective` **Guide §5.1**, quoted exact for the patterning claim — *"your null space is not
-random… your blind spots are patterned. They are predictable. They can be mapped, even though they
-cannot be directly observed."* The whole method in this chapter is downstream of that sentence and of
+[^3]: The Observational Null Space Theorem, established in Book II and applied throughout Book IV,
+together with the patterning claim it licenses: **your null space is not
+random. Your blind spots are patterned, they are predictable, and they can be mapped, even though they
+cannot be directly observed.** The whole method in this chapter is downstream of that sentence and of
 nothing else; a null space that was *random* would leave residuals that cancel, and there would be no
 practice to write.
 
-[^4]: `Perspective` **Guide §5.3, Method 3**, quoted exact and refused. ⛔ The refusal is narrow and
-should not be read wider than it is: §5.3's Methods 1 and 2 stand entirely, §5.2's four symptoms are
-correct and are in fact this chapter's instrument, and §5.4's four responses — acknowledge, develop
+[^4]: **Method 3, taken as stated and refused.** ⛔ The refusal is narrow and
+should not be read wider than it is: Methods 1 and 2 stand entirely, the four symptoms are
+correct and are in fact this chapter's instrument, and the four responses — acknowledge, develop
 sensitivity to indirect signals, build alliances, accept irreducible mystery — are all sound. What
-fails is one image and the operation it licenses. ★ And the finding runs in the source's favour twice:
-the residual instrument this chapter substitutes was **already in §5.2**, one subsection earlier,
+fails is one image and the operation it licenses. ★ And the finding runs in the inherited account's favour twice:
+the residual instrument this chapter substitutes was **already among the symptoms**, one step earlier,
 described as symptoms rather than as a method, so the correction is a promotion rather than an import.
 **Fifth instance of a pattern this manuscript has now recorded five times: the thing the book worked
 out from first principles was already in the source, in a section filed under a heading that gave

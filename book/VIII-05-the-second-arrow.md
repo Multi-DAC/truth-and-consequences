@@ -289,23 +289,23 @@ the moves which survive not finding it are the ones worth having.**
 
 ---
 
-[^1]: `Perspective` **Guide §5.4, Being Acted Upon by the Invisible** — the four responses, in the
-source's own order of depth: acknowledge the limitation · develop sensitivity to indirect signals ·
-build navigational alliances · accept irreducible mystery. ★ **They are used here for a property the
-source does not name: every one of them is performable *without a diagnosis*,** which is what makes
+[^1]: **Being acted upon by the invisible — the four responses, in their
+order of depth:** acknowledge the limitation · develop sensitivity to indirect signals ·
+build navigational alliances · accept irreducible mystery. ★ **They are used here for a property
+nobody has named alongside them: every one of them is performable *without a diagnosis*,** which is what makes
 them the right material for a chapter whose whole premise is that the diagnosis is unavailable at the
 time. The alliance move's tell — *"the discomfort of genuine disagreement is the feeling of having
 your null space illuminated"* — is quoted for sense, and it is the sharpest line in the section.
-⛔ **§5.5, The Invisible Others, is not used**: its central term was banned by ruling 109 on the
+⛔ **The companion treatment of the invisible others is not used**: its central term was banned by ruling 109 on the
 grounds that an analogy has to be made of something the reader already has, and the credit-and-refusal
 is spent in Book IV.
 
-[^2]: `Perspective` **Guide §2.4**, quoted exact — *"the narrow channel feels like the only channel,
-and the being forgets that the wider landscape exists."* ★ The source records this as a description of
+[^2]: **The narrow channel feels like the only channel, and the being forgets that the wider
+landscape exists.** ★ That is set down as a description of
 a failure mode. It is used here as a **test**, which is a promotion rather than an import: what makes
 it operable is that *the wider landscape still existing for you* is checkable by a third party in a
 way that the felt quality of the focusing is not. ⚠ The three questions in this section are the
-chapter's own and are not in the source; they are offered as checkable rather than as validated, and
+chapter's own and are new here; they are offered as checkable rather than as validated, and
 the claim that all three failing together is diagnostic is **observational and unmeasured**, and is
 graded as such on the page rather than here.
 

@@ -487,51 +487,51 @@ established: the path is the one part of the arrangement that is yours.
 
 ---
 
-[^1]: Source: `Perspective` **05 §5.2** — Theorem 6 (Navigational Freedom) and its gloss, quoted in
-full. ⚠ The full sentence matters and this manuscript nearly shipped a truncated one: the brief for
+[^1]: **Theorem 6, Navigational Freedom, and its gloss — taken in
+full.** ⚠ The full sentence matters and this manuscript nearly shipped a truncated one: the brief for
 this chapter carried the quote ending at *"whether navigation feels directed,"* which is not where
 the sentence ends. The remainder — *and whether that felt direction has phenomenological
-consequences* — is the source's only move beyond pure report, and cutting it made the source look
-worse than it is. Caught in the pre-draft screen by reading the source rather than the brief. The
+consequences* — is the theorem's only move beyond pure report, and cutting it made the position look
+worse than it is. Caught in the pre-draft screen by reading the theorem entire rather than the brief. The
 indictment survives the correction because the consequences named are consequences for experience,
 which is the same circle in a wider radius; but it survives weaker, and the difference between an
 indictment that is right and one that is overcharged is the difference between a reader who trusts
 the next chapter and one who does not.
 
-[^2]: `Perspective` **05 §5.2**, Theorem 6, stated: *"Free will is the capacity of a stream to
+[^2]: **Theorem 6 in full:** free will is the capacity of a stream to
 navigate toward or away from its own coherence. The configuration space provides the possibility
 landscape; the stream provides the navigational direction. The choice is genuine, and the
-consequences are phenomenologically real."* The reading of this as an exchange of a binary quantity
-at an instant for a continuous quantity across a life is this chapter's, not the source's; the
-source does not compare the two measurements and does not appear to notice that it has changed what
-freedom is measured in.
+consequences are phenomenologically real. ⚠ **The reading of this as an exchange of a binary quantity
+at an instant for a continuous quantity across a life is this chapter's own, and is new here.** The
+theorem as stated does not compare the two measurements, and nothing in it registers that it has
+changed what freedom is measured in.
 
-[^3]: `Perspective` **05 §5.2.1**: *"This mechanism is deeply informed by the existentialist
-philosophy of Jean-Paul Sartre, particularly his concept of the 'project.'"* Sartre, *L'Être et le
+[^3]: **The mechanism is deeply informed by the existentialist philosophy of Jean-Paul Sartre**,
+and specifically by his concept of the *project*: Sartre, *L'Être et le
 Néant* (1943). ⚠ Receipt status: the account of consciousness as *néant*, of anguish as the
 discovery of groundlessness, and of *mauvaise foi* as the appeal to a nature one does not have, is
 given here from the argument rather than from the text in hand, and the endnote retrofit owes a
 primary check on all three. ⚠ **`Sartre` occurred zero times across the fifty-seven drafted chapters
 before this one**, together with `dramaturgy` at zero and `existence precedes essence` at zero. Ruling
 141's pattern, fifth firing, and the worst of the five by a distance: the previous four were
-ornaments the book had declined to pick up, and this is the source's own declared engine for this
-chapter — cited by name in the section being drafted from, and silent through a whole Book whose
+ornaments the book had declined to pick up, and this is the chapter's own declared engine —
+named in the very passage that sets the mechanism up, and silent through a whole Book whose
 subject is traditions. Three consecutive chapters have now turned one of these up, every time
 because someone counted rather than because anything counted for him. That is not a rate; it is the
 absence of a rate, which is what an unscheduled check produces.
 
-[^4]: `Perspective` **05 §5.2.2**, The Teleology-Existentialism Synthesis: the *what* inherited and
-teleological (Aristotelian entelechy, §5.1), the *how* self-determined through the Sartrean project.
-The characterisation of this as the use of Sartre's mechanism against Sartre's conclusion is this
-chapter's, and is a correction to the source rather than a reading of it. The source presents the
-synthesis as a reconciliation of two traditions; it is better described as a selective borrowing
+[^4]: **The teleology–existentialism synthesis:** the *what* inherited and
+teleological — Aristotelian entelechy — the *how* self-determined through the Sartrean project.
+⚠ **The characterisation of this as the use of Sartre's mechanism against Sartre's conclusion is this
+chapter's own, and it is a correction rather than a restatement.** The synthesis presents itself as a
+reconciliation of two traditions; it is better described as a selective borrowing
 from one of them, and saying so costs the argument nothing it was entitled to keep.
 
 [^5]: Harry G. Frankfurt, "Freedom of the Will and the Concept of a Person," *The Journal of
 Philosophy* 68, no. 1 (1971): 5–20 — an article, not a book, and italicised as one here until the
 Day-191 outside read caught it. The hierarchical
 account: second-order volitions, and the wanton as the being who has first-order desires and no
-second-order stance toward them. Cited by the source at Theorem 6. ⚠ This is Frankfurt's second
+second-order stance toward them. Cited at Theorem 6. ⚠ This is Frankfurt's second
 appearance one chapter after his first, on a different work and in the reversed role — VII.6 spent
 *The Reasons of Love* (2004) as the foil whose conferral thesis C9 refuses. Both readings reach this
 manuscript through the secondary literature rather than from the texts directly; the retrofit owes a
@@ -553,19 +553,19 @@ both places, joined in neither.
 [^8]: C26 — there is no stuff; what there is, is arrangement. The defence of *phenomenologically
 real* as a full grade rather than a hedge depends entirely on C26 and on II's account of
 being-the-case as requiring a vantage, and it is not available to a reader who has not accepted
-those. A reader who rejects C26 should read section VI's second point as the source's hedge
+those. A reader who rejects C26 should read section VI's second point as a hedge
 restated, and should be told so rather than left to discover it.
 
-[^9]: `Perspective` **Guide 06 §6.1 The Price of Being Someone**: *"To be someone is to not be
-everything else. To see something is to not see everything else."* Theorem 5, the Promethean
+[^9]: **The price of being someone:** to be someone is to not be
+everything else, and to see something is to not see everything else. Theorem 5, the Promethean
 Configuration, is part-spent at IV.9 and again at VII.6 and is pointed at rather than re-argued
-here. Plotinus and Tzimtzum carry the source's emanation parallel at §4.1 and are **housed in Book
+here. Plotinus and Tzimtzum carry the emanation parallel and are **housed in Book
 V** — eighteen occurrences across V.1, V.3, V.6, V.9 and V.10 — and are deliberately not re-spent in
 Book VII.
 
-[^10]: `Perspective` **Guide 06 §6.2 The Dissolution Limit**: *"The Guide's position: the dissolution
-limit is real, it is reachable, and it is not the goal."* ⚠ **First housing in the manuscript: §6.2
-had zero occurrences across fifty-seven drafted chapters.** The section also supplies the reading of
+[^10]: **The dissolution limit, and the position this book holds: it is real, it is reachable, and
+it is not the goal.** ⚠ **First housing in the manuscript: the claim
+had zero occurrences across fifty-seven drafted chapters.** It carries with it the reading of
 nirvana, Christian mystical annihilation and high-dose ego death as independent reports of the same
 approach from different navigational traditions; that material is C15's territory and is pointed at
 here rather than developed, because the refused summit belongs to VIII.1 and this chapter needs only

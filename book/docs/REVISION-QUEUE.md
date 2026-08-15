@@ -24,7 +24,8 @@ end: **what has to be true before this ships?** Without that line, a queue that 
 drains is a book that audits itself forever and never publishes. Nothing below is a promise that the
 other rows are wrong. It is a declaration that they are **maintenance, not a publication gate.***
 
-**FIVE ROWS BLOCK UPLOAD. Nothing else in this file does.**
+**SIX ROWS BLOCK UPLOAD. Nothing else in this file does.** *(Was five. Gate 6 was added Day 195
+night, and it is the only gate that arrived by REVERSING work already paid — see R-236.)*
 
 | gate | row | satisfaction test — met or not met, no judgement call |
 |---|---|---|
@@ -33,6 +34,8 @@ other rows are wrong. It is a declaration that they are **maintenance, not a pub
 | **3. The floor slopes** ✅ **MET Day 195** | **R-216** | VII.3's floor grades, in a book whose whole ethic is grading. Test: the floor passage carries a grade axis, or prints its refusal with a reason. This is the sharpest self-inconsistency in the manuscript and the first thing a hostile reviewer finds. |
 | **4. A stranger can navigate it** ✅ **MET Day 195** | **R-222** | Index, glossary, bibliography — or a written refusal of each, with a reason. Test: the three artifacts exist, or `00` records the decision not to build them. |
 | **5. The fired triggers are re-homed** ✅ **MET Day 195 — the only gate with a machine test, and it passes** | **R-234** | The **28** orphaned trigger clauses — 23 off R-2, 5 off the paid rows R-69/R-71/R-13 — are re-pointed at live events. Test: `python tools/queue_state.py` reports **zero** triggers pointing at a discharged row. |
+
+| **6. The volume stands on its own** ✅ **MET Day 195 night — machine-tested, and it INVERTS R-214** | **R-238** | Clayton's standing condition, which predates this queue and lost to a queue row anyway: **no reference to previous work of ours, named or anonymous.** The old work may be *used*; it may not be *pointed at*. Test: `python tools/self_citation_gate.py` exits 0. ⛔ **The gate's own positive control must pass in the same run or its verdict is withheld** — a zero from a detector that has stopped detecting is the failure this whole family exists to prevent. ⚠ **Green here means the book no longer POINTS. It does not certify honesty about what was inherited**, and the tool prints the 50 un-gated *the source* references beside the green so the two claims cannot be confused. |
 
 **THE VISION THIS GATE SERVES — a released edition, not an archive.**
 
@@ -3045,7 +3048,7 @@ gauge counting relabelled fields honestly reads 16.
 reachability.** `IV.1` now requires a complement that can be gone to, and most v1 cards answer with
 an existence claim — *"Anything with a second dimension"*. They are OUTWARD and they are not yet
 known to discharge the stronger obligation. The gauge prints all 19 by name every run rather than
-reporting a green over a population it has only half read. **Filed as R-236** — *renumbered
+reporting a green over a population it has only half read. **Filed as R-238** — *renumbered
 from R-235 on the same day it was filed: R-235 was already taken by the GRADE-chapter row filed
 hours earlier, and `queue_state.py` deduped the collision into one row rather than reporting it.*
 
@@ -6106,7 +6109,7 @@ carriers re-synced by the gauge. **small — and it was never the small half.**
 
 ---
 
-## R-236 — 19 OF 43 CARDS ARE OUTWARD AND UNGRADED FOR REACHABILITY
+## R-238 — 19 OF 43 CARDS ARE OUTWARD AND UNGRADED FOR REACHABILITY
 
 **MEDIUM. Opened BY R-136's repair, which is the honest way for a row to arrive — the fix raised the
 standard and the older cards have not been read against the new one.**
@@ -6238,3 +6241,83 @@ conclusion survives and its evidence base was understated:** briefing manufactur
 *fast* reads, and the two reads that got past it were the two long ones. ⚠ The prose of R-211 is left
 standing and this correction sits here rather than replacing it — the row is a measurement with a
 window, and the window is now written down. [[feedback_superseded_not_stale]]
+
+---
+
+## R-238 — THE VOLUME STANDS ON ITS OWN, AND THIS ROW EXISTS BECAUSE R-214 MOVED IT THE OTHER WAY
+
+**GATE 6 · ✅ PAID Day 195 night, machine-tested · `tools/self_citation_gate.py`**
+
+⛔ **THE ORDER OF EVENTS IS THE FINDING, AND IT IS NOT A NICE ONE.** Clayton's standard predates this
+queue and is not a preference: **the volume must stand on its own — past work of ours may be used,
+never named and never pointed at.** `Z-01 §THE BAN LIST` legislates it, in almost those words, and
+had done so before R-214 was filed. Then, on Day 195, R-214 was worked and **paid by naming the
+source** — full title, both authors, the Zenodo DOI, the four document titles, and 42 endnote
+pointers left standing and newly legible. Every step was careful, sourced and self-critical. Every
+step was also against a rule written in this same book, **and nothing objected.**
+
+**Why nothing objected, stated plainly because it generalises:** the row was concrete, present and in
+front of me; the standard was prose in another file. **A standard with no instrument loses to any
+queue row that contradicts it, on the day the row is worked.** Not sometimes — reliably. That is the
+whole argument for gate 6 being a *tool* and not a paragraph. [[feedback_reporting_gauge_is_not_preventing_gauge]]
+
+**PAID — 64 violations → 0, measured both ends.**
+
+- `tools/self_citation_gate.py` written FIRST and run against the un-repaired book: **64 violations
+  across 16 files** (59 named · 2 anonymous · 3 dangling). A gate authored after the clean-up would
+  have had nothing to prove it worked.
+- ⚠ **Its positive control caught its own defect on the first run** — two patterns matching one
+  sentence reported as two violations, 5 for 3 planted — and the tool **refused to give a verdict**
+  rather than reporting a number it could not justify. The unit became *a line that points*.
+- **~50 endnotes absorbed rather than deleted:** the pointer goes, the substance stays. Where a
+  sentence had been *quoted* from prior work of ours it is now *stated*, because it is ours and
+  quotation marks around your own sentence are a pointer wearing punctuation.
+- **ONE CUT, recorded because a cut is the lossy move:** `VIII.6` [^6] carried a structural note
+  about a Part heading absent from the cited document. Honest while the citation stood; describing
+  nothing once it went.
+- **Both confessions repaired in the same commit**, and this is the lesson-board trigger firing
+  exactly as written: `C.2` said the source *"is named in full at `C.1` §V"* and `IV.9` [^12] said
+  the chapter's figures were absent from a source a reader could consult. A de-citation sweep
+  silently converts every honest disclosure of the defect into a false statement, and both sat in
+  the most credibility-bearing passage of their chapter, **because admitting it was the point.**
+- `C.1` §V's entry replaced rather than deleted: it now states the **dependency and its cost**
+  without the citation — Book IV's list is a rebuild of a taxonomy these authors already had, an
+  account that inherits its own categories has not tested them, and **naming the source would not
+  have repaired that.** ⛔ What is lost is stated on the page: a sceptic can no longer settle the
+  retread question from outside.
+
+⚠ **ONE JUDGMENT CALL, FLAGGED RATHER THAN BURIED AND REVERSIBLE IN ONE EDIT.** The replacement says
+an earlier body of work by the same authors *exists*, without naming it. That is the anonymous form
+Z-01 calls strictly worse — but the ban is on IMPORTING a claim from an unnamed source, and this
+DISCLOSES provenance while importing nothing. A book that concealed the dependency entirely would
+score better on the gate and be less honest. **If that call is wrong, the paragraph comes out; the
+gate does not change.**
+
+---
+
+## R-239 — THE ANONYMOUS RESIDUE: 50 BARE *"THE SOURCE"* REFERENCES, DECLARED AND NOT GATED
+
+**OPEN · filed Day 195 night by R-238's own instrument · trigger: BEFORE UPLOAD, and it is a
+RULING owed from Clayton, not a sweep I should perform alone.**
+
+`self_citation_gate.py` prints this beside its green, on purpose — **a gauge that renders only its
+good news is the failure this book has now recorded five times.** Named pointers: zero. Bare *the
+source* / *the source's* in body prose: **50, across 14 apparatus chapters**, worst at `IV.10` (17),
+`VII.6` (6), `VII.7` (5). Z-01 bans this form too and calls it strictly worse than the named one.
+
+⛔ **IT IS NOT GATED AND THE REASON IS NOT SQUEAMISHNESS.** Book-wide there are **111** occurrences
+of *the source* and the great majority mean **somebody else's text** — Enoch, the Tibetan material,
+Mariotte. Any regex sharp enough to catch the remaining 50 would be tuned until it agreed with
+whoever tuned it. [[feedback_filter_precision_eats_recall]]
+
+⚠ **AND IT IS NOT A WORDING PROBLEM, WHICH IS WHY IT IS A RULING AND NOT A TASK.** Several of these
+passages **argue with** the thing they call *the source*: `IV.10` [^7] corrects it on the Sts'ailes,
+`IV.9` [^12] withdraws figures that were not in it, `VIII.2` §IV declares its method broken. **A
+correction addressed to a document the book never names is a different and weaker claim, not the
+same claim reworded.** The fork is real and belongs to Clayton:
+
+- **(a) STRIP** — the comparisons become the book's own findings, stated without a counterparty.
+  Cleanest against the standard; costs the several passages whose whole content is the diff.
+- **(b) RECAST** — *the account this book inherited*. Keeps the diff intelligible. ⚠ Still an
+  anonymous reference, so it satisfies the letter of nothing; it is a softening, and should be
+  called one.
