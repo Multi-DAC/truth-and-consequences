@@ -1,0 +1,253 @@
+﻿TRUTH AND CONSEQUENCES — MASTER REVISION QUEUE
+Release Gate & Post-Release Deferral Register, v2.0 (Full Synthesis)
+Synthesized: 15 August 2026 Scope: Complete Volume (Books I–VIII, Coda C.1–C.2, Glossary, Works Cited & Tooling Infrastructure) Total Tracked Items: 146
+MASTER INDEX
+┌───────────────────────────────────────────────────────────────────────────────────┐
+│ SECTION 1   Book-by-book itemized audit .................... items 001–042  (42)   │
+│ SECTION 2   Card-format repairs (COMPLEMENTS drift) ........ items 043–060  (18)   │
+│ SECTION 3   Axiomatic / claims-register items .............. items 061–068   (8)   │
+│ SECTION 4   Tooling, works-cited, glossary ................. items 069–076   (8)   │
+│ SECTION 5   [SUPERSEDED — see Section 12] ..................                      │
+│ SECTION 6   Amendments to existing items ................... items 077–084   (8)   │
+│ SECTION 7   Correction-propagation & filed body defects .... items 085–101  (17)   │
+│ SECTION 8   Per-chapter Owed backlog (retrofit repairs) .... items 102–134  (33)   │
+│ SECTION 9   Grade decisions — flagged-for-reading .......... items 135–136   (2)   │
+│ SECTION 10  Content-tier additions & deferrals with triggers  items 137–143   (7)   │
+│ SECTION 11  Reconciliation & meta .......................... items 144–146   (3)   │
+│ SECTION 12  Final pre-release verification gate (rebuilt) ..                      │
+│                                                                                   │
+│ TOTAL ITEMS ........................................................... 146       │
+└───────────────────────────────────────────────────────────────────────────────────┘
+
+COMBINED SEVERITY LEDGER
+Classification
+	Items 001–076
+	Items 077–146
+	Total Count
+	CRITICAL
+	26
+	16
+	42
+	MAJOR
+	19
+	29
+	48
+	MODERATE
+	9
+	17
+	26
+	MINOR
+	4
+	8
+	12
+	CARD-REPAIR (Section 2)
+	18
+	0
+	18
+	TOTAL
+	76
+	70
+	146
+	Verification Enumeration for New Items (077–146):
+* CRITICAL (16): 080, 081, 084, 085, 086, 097, 098, 099, 100, 101, 102, 118, 125, 132, 136, 144.
+* MAJOR (29): 082, 083, 087, 088, 091, 094, 095, 096, 103, 104, 107, 108, 109, 112, 113, 114, 119, 122, 123, 126, 127, 130, 131, 135, 137, 138, 140, 143, 145.
+* MODERATE (17): 077, 079, 089, 090, 092, 093, 105, 106, 110, 116, 121, 128, 129, 139, 141, 142, 146.
+* MINOR (8): 078, 111, 115, 117, 120, 124, 133, 134.
+DISPOSITION KEY
+* BLOCKING — Must be executed and verified before volume release.
+* DEFER-WITH-TRIGGER — May ship unexecuted only if an explicit empirical/textual falsifier is named in the ruling file.
+* VERIFY-ONLY — Textual repair already committed; gate action is validation against the printed body text.
+* [CARRIED] — Original item from v1.0, text governed by internal register.
+* [AMENDED → 0XX] — Modified by the designated Section 6 amendment.
+SECTION 1 — BOOK-BY-BOOK ITEMIZED AUDIT (Items 001–042)
+* 001 [MODERATE] [AMENDED → 077] — Dao De Jing tri-chapter quotation alignment (V.1:140 / V.5:193 / V.10:50). Spliced lines 1 and 2 of Chapter 1. Verification must be paragraph-tokenized. BLOCKING.
+* 002 [MINOR] [CARRIED] — Böhme Ungrund chronology (II.1 n5). Clarify 1612 Aurora ban vs. 1622/1623 late works. VERIFY-ONLY.
+* 003 [MODERATE] [CARRIED] — Tononi IIT 3.0 feed-forward zero vs. autoregressive transformer loops (II.4 n4 / IV.6 n4). VERIFY-ONLY.
+* 004 [MINOR] [CARRIED] — Tabula Smaragdina Arabic transmission dating (II.6 n4). VERIFY-ONLY.
+* 005 [MODERATE] [CARRIED] — Ācārāṅga Sūtra translation parentheses normalization (III.5 n6). Restore Jacobi brackets. BLOCKING.
+* 006 [MINOR] [CARRIED] — Antonio Machado Proverbios y cantares XXIX dating (III.7 n1). Confirm Poesías completas (1917) locus. VERIFY-ONLY.
+* 007 [MODERATE] [CARRIED] — EPICA Dome C ice core \text{CO}_2 record (IV.2 n3). Confirm Lüthi et al. (2008) receipt. VERIFY-ONLY.
+* 008 [CRITICAL] [CARRIED] — John Searle (1990) APA address p. 27 quantifier check (IV.6:284 / n3). Resolve existential vs. universal mismatch. BLOCKING.
+* 009 [MAJOR] [CARRIED] — W. Dewi Rees (1971) BMJ bereavement statistics (IV.7:311 / n4). Collate 1/3 interview statistic against primary scan. BLOCKING.
+* 010 [CRITICAL] [CARRIED] [AMENDED → 084] — Henry Corbin (1964) French otherwise clause collation (IV.7:326 / n9). BLOCKING.
+* 011 [MAJOR] [CARRIED] — Findhorn community deva sourcing (IV.7:316 / n7). Provide primary citation to The Findhorn Garden (1975). BLOCKING.
+* 012 [MAJOR] [CARRIED] — Pseudo-Dionysius Parker 1894 vs. 1899 collation (IV.8:341 / n6). Confirm Greek text of CH VI.2 (\epsilon\nu\nu\epsiloń\alpha). VERIFY-ONLY.
+* 013 [CRITICAL] [CARRIED] — Retraction of phantom table numbers in IV.9 (IV.9:376 / n12). VERIFY-ONLY.
+* 014 [CRITICAL] [CARRIED] — Loch Ness eDNA technical status correction (IV.10:398 / n15). Re-grade from "published paper" to "official 2019 press/institutional release." VERIFY-ONLY.
+* 015 [CRITICAL] [CARRIED] — Dawkins/Harris quote reassignment (V.4:463 / n3). Reattribute "faith as cop-out" to Dawkins (1992). BLOCKING.
+* 016 [CRITICAL] [CARRIED] — Standardize Dao De Jing Ch. 1 translation across V.1, V.5, and V.10. BLOCKING.
+* 017 [CRITICAL] [CARRIED] — Correct historical interval understatements in V.5 (Nāgārjuna, Anattā, Western co-constitution lag). BLOCKING.
+* 018 [CRITICAL] [CARRIED] — Lurianic Tzimtzum dating repair in V.6 (V.6:502). Replace "twelfth century" with "sixteenth century in Safed." BLOCKING.
+* 019 [CRITICAL] [CARRIED] — Explicit gloss on Memale vs. Sovev Kol Almin inversion between Tanya and Nefesh HaChayim (V.6:500). BLOCKING.
+* 020 [MAJOR] [CARRIED] — Tanya Part II Shaar HaYichud VehaEmunah citation un-coordination (V.6:498). VERIFY-ONLY.
+* 021 [CRITICAL] [CARRIED] — John Dee scrying tenure correction in V.7 (V.7:522). Replace "rest of his life" with "seven years (1582–1589)." BLOCKING.
+* 022 [MINOR] [AMENDED → 078] — V.8 Barcelona drumming study integration (V.8:535 / n14–n15). VERIFY-ONLY.
+* 023 [MAJOR] [AMENDED → 079] — V.9 Hill / Outer Limits (1964) grey alien wraparound eye node (V.9:548 / n8). BLOCKING.
+* 024 [CRITICAL] [AMENDED → 080] — V.11 roster enumeration count reconciliation (9 vs. 8 vs. 10). BLOCKING.
+* 025 [CRITICAL] [CARRIED] — V.11 quote correction of III.6:207 ("over time" instead of "under the threshold"). VERIFY-ONLY.
+* 026 [MAJOR] [CARRIED] — Carl Wernicke (1874) anatomical landmark status in VI.2. VERIFY-ONLY.
+* 027 [MODERATE] [CARRIED] — Print fixity dialectic in VI.4 (Eisenstein vs. Adrian Johns). VERIFY-ONLY.
+* 028 [CRITICAL] [CARRIED] — Gauthier et al. (2026 Nature) X algorithm trial randomization protocol description in VI.6 (VI.6:681). VERIFY-ONLY.
+* 029 [MAJOR] [CARRIED] — Disentangle Birkhoff–von Neumann quantum logic from Łukasiewicz/Reichenbach three-valued logic in VI.7 (VI.7:700). VERIFY-ONLY.
+* 030 [CRITICAL] [CARRIED] — Thomas Nagel dual-citation distinction (II.3/VII.3 View from Nowhere vs. VII.1 Mortal Questions). VERIFY-ONLY.
+* 031 [CRITICAL] [CARRIED] — Enforce impartiality wager framing in VII.3 (VII.3:793). BLOCKING.
+* 032 [CRITICAL] [CARRIED] — Bounded over-ness & A/B case steering prerequisite in VII.3 (VII.3:787). BLOCKING.
+* 033 [CRITICAL] [CARRIED] — Harry Frankfurt dual-role notation (VII.6 foil vs. VII.7 ally). VERIFY-ONLY.
+* 034 [CRITICAL] [CARRIED] — Sartre L'Être et le Néant engine attribution in VII.7 (VII.7:866). VERIFY-ONLY.
+* 035 [CRITICAL] [CARRIED] — Derek Parfit Reasons and Persons (1984) Part III citation anchor in VII.9. BLOCKING.
+* 036 [CRITICAL] [CARRIED] — Re-sequence out-of-order endnote markers in VIII.3 (7 before 5 and 6). BLOCKING.
+* 037 [MAJOR] [CARRIED] — Temporal Interference stimulation primary receipts in VIII.3 (Grossman 2017 / Violante 2023). VERIFY-ONLY.
+* 038 [CRITICAL] [CARRIED] — Class VII Macro Quantum evidence line correction in VIII.3 (VIII.3:960). VERIFY-ONLY.
+* 039 [MAJOR] [CARRIED] — Kruglanski & Webster need-for-closure scale citation anchor in VIII.4. VERIFY-ONLY.
+* 040 [MAJOR] [CARRIED] — Robin Wall Kimmerer Braiding Sweetgrass (2013) receipt in VIII.6. BLOCKING.
+* 041 [CRITICAL] [AMENDED → 081] — Mint public persistent DOI for research repository (C.1/C.2). BLOCKING.
+* 042 [MAJOR] [CARRIED] — Add Ken Wilber (SES) to 03-THE-ANCESTORS.md. BLOCKING.
+SECTION 2 — CARD-FORMAT REPAIRS (COMPLEMENTS Drift Sweep, Items 043–060)
+All 18 items CARRIED from internal v1.0. Action: Confirm replacement of internal capability
+summaries with true external witnesses across all affected cards. Re-run tools/instrument_sweep.py.
+
+* 043 [CARD-REPAIR] — Book VI.4: The Print Render (VI.4:657). Complement: Performance traditions, embodied crafts, oral lineages.
+* 044 [CARD-REPAIR] — Book VI.5: The Broadcast Render (VI.5:674). Complement: Local presses, town meetings, non-audience-scaled publications.
+* 045 [CARD-REPAIR] — Book VI.6: The Algorithmic Render (VI.6:691). Complement: Cross-feed comparison pairs, data-donation panels, platform audit logs.
+* 046 [CARD-REPAIR] — Book VI.7: The Universal Maybe (VI.7:712). Complement: Pre-registered experimentalists, physical tradesmen.
+* 047 [CARD-REPAIR] — Book VI.8: The Instrumented Present (VI.8:733). Complement: Parents, clinical diagnosticians, qualitative critics.
+* 048 [CARD-REPAIR] — Book VII.3: The Indexical Egoist (VII.3:799). Complement: The second person in address (the demanding interlocutor).
+* 049 [CARD-REPAIR] — Book VII.4: The Privation Account (VII.4:820). Complement: Forensic investigators, military historians, targets of bullies.
+* 050 [CARD-REPAIR] — Book VII.5: The Two-Arrow Model (VII.5:829). Complement: Palliative nurses, ward witnesses, observers of affliction.
+* 051 [CARD-REPAIR] — Book VII.6: Mutualist Love (VII.6:851). Complement: Parents of infants, carers of the dying, animal companions.
+* 052 [CARD-REPAIR] — Book VII.7: Node-Free Will (VII.7:873). Complement: Longitudinal biographers, 15-year companions.
+* 053 [CARD-REPAIR] — Book VII.8: Mandate-Only (VII.8:893). Complement: 40-year marriages, generational land stewards, aesthetic critics.
+* 054 [CARD-REPAIR] — Book VII.9: Carrier Identity (VII.9:913). Complement: Musical performance traditions, ritual liturgies, restoration crafts.
+* 055 [CARD-REPAIR] — Book VIII.1: The Therapeutic Frame (VIII.1:930). Complement: Contemplative traditions, Book VII ethics, uncompensated friends.
+* 056 [CARD-REPAIR] — Book VIII.2: Introspection (VIII.2:941). Complement: Dated predictive registers, outside behavioral observers.
+* 057 [CARD-REPAIR] — Book VIII.4: Need-for-Closure (VIII.4:985). Complement: Live situational stakeholders holding unrevealed data.
+* 058 [CARD-REPAIR] — Book VIII.5: The Pain Scale (VIII.5:999). Complement: The patient answering the second question ("what kind of pain").
+* 059 [CARD-REPAIR] — Book VIII.6: Empathy (VIII.6:1012). Complement: Direct unmodeled testimony of the other, actuarial/statistical tables.
+* 060 [CARD-REPAIR] — Book VIII.3: Instrument-Assisted Navigation (VIII.3:967). Complement: Contemplative cartographers, clinical outcome monitors.
+SECTION 3 — AXIOMATIC / CLAIMS-REGISTER ITEMS (Items 061–068)
+* 061 [CRITICAL] [CARRIED] — Impartiality Wager (VII.3). Confirm transition from "is" to "ought" is strictly framed as an open wager, not a geometric proof. BLOCKING.
+* 062 [CRITICAL] [CARRIED] — Minimum Content of Ethical Floor (VII.3). Enforce conditional limitation on bypassable steering dynamics. BLOCKING.
+* 063 [MAJOR] [CARRIED] — Altitude Rule Enforcement (VII.5). Strict ban on cosmological explanations as personal consolation for affliction. BLOCKING.
+* 064 [MAJOR] [CARRIED] — Strange Attractor vs. Path Model of Self (VII.9 / VIII.1). Formally define identity as dynamical invariant geometry. BLOCKING.
+* 065 [MAJOR] [AMENDED → 082] — Subtractive Summit Illusion Theorem (V.10 / V.11). BLOCKING.
+* 066 [MAJOR] [CARRIED] — Non-Symmetric Love Definition (VII.6). Define love as mutual in sign of coherence growth, not in magnitude. BLOCKING.
+* 067 [MODERATE] [CARRIED] — Invariant Null Space Theorem (II.3 / IV.1). Reiterate that shape entails omission across all finite perspectives. VERIFY-ONLY.
+* 068 [MODERATE] [CARRIED] — Language Model Card First-Line Contested Status (IV.6). Retain explicit ⚠ Contested status on SEES: line. VERIFY-ONLY.
+SECTION 4 — TOOLING, WORKS-CITED, GLOSSARY (Items 069–076)
+* 069 [CRITICAL] [CARRIED] — tools/bibliography.py Parser Expansion. Add regex tokenizers for classical loci and prose citations to reach 100% (245/245) capture. BLOCKING.
+* 070 [CRITICAL] [CARRIED] — Eliminate 5 machine-uncertain bibliography entries (Corbin/Fox, Nag Hammadi, Monroe, Harris, Tillich). BLOCKING.
+* 071 [MAJOR] [CARRIED] — Normalize alphabetical sorting in tools/bibliography.py to ignore leading English/foreign articles. BLOCKING.
+* 072 [MAJOR] [CARRIED] — Re-synchronize 07-THE-CLAIMS-REGISTER.md cross-references with final pagination and chapter numbers. BLOCKING.
+* 073 [MAJOR] [AMENDED → 083] — Expand 03-THE-ANCESTORS.md with Wilber, Parfit, MacIntyre, and Whitehead. BLOCKING.
+* 074 [MODERATE] [CARRIED] — Closed Vocabulary Glossary Audit. Reconcile defining loci across Books II, IV, VII, and VIII. BLOCKING.
+* 075 [MODERATE] [CARRIED] — Paragraph-tokenized AST search replacement for line-scoped greps across tools/. BLOCKING.
+* 076 [MINOR] [CARRIED] — Standardize IAST diacritical spelling across Glossary and Back Matter. VERIFY-ONLY.
+SECTION 5 — [SUPERSEDED]
+Superseded by Section 12.
+SECTION 6 — AMENDMENTS TO EXISTING ITEMS (Items 077–084)
+* 077 [MODERATE] — Amendment to Item 001 (Dao De Jing AST Tokenization) Action: The sweep across V.1:140, V.5:193, and V.10:50 must use paragraph-buffered AST tokens rather than line-scoped regexes to prevent missed wraps. BLOCKING.
+* 078 [MINOR] — Amendment to Item 022 (V.8 Drumming Study Status) Action: Reclassify Item 022 to VERIFY-ONLY. The integration of Aparicio-Terrés et al. (2026) and deletion of the false-absence accusation are already printed in V.8 n14–n15. VERIFY-ONLY.
+* 079 [MODERATE] — Amendment to Item 023 (V.9 Strieber / Hill Node) Action: The required action for Item 023 must explicitly incorporate Endnote V.9.8's limit language: 12 days between "The Bellero Shield" broadcast and Barney Hill's hypnosis is opportunity/correlation, not proven historical descent. BLOCKING.
+* 080 [CRITICAL] — Amendment to Item 024 (V.11 Roster Harmonization Scope) Action: The roster fix cannot be V.11-local. Reconcile V.11 opening (claims 9, lists 8) and closing (claims 10) against Book V's 9 historical chapters (V.2–V.10), V.1 frame, and V.11 synthesis. BLOCKING.
+* 081 [CRITICAL] — Amendment to Item 041 (Public Repository Deposit Contents) Action: The public archive deposit (Zenodo / OSF DOI) must include the full versioned Git history of 07-THE-CLAIMS-REGISTER.md, 06-THE-SCAFFOLD.md, 00-ARCHITECTURE.md, and this Revision Queue. BLOCKING.
+* 082 [MAJOR] — Amendment to Item 065 (Subtractive Summit Formulation) Action: Replace "proves" with "demonstrates the mechanism by which": subtractive contemplative methods mechanically filter out structural features, returning an empty output reflecting instrument direction rather than cosmic architecture. BLOCKING.
+* 083 [MAJOR] — Amendment to Item 073 (Whitehead Entry in Ancestors Register) Action: Add A.N. Whitehead to 03-THE-ANCESTORS.md under Lexical/Lineage Credit Only: credited for the "do be do be do" transmission in VIII.7; excluded from systematic metaphysical ancestry. BLOCKING.
+* 084 [CRITICAL] — Amendment to Item 010 (Henry Corbin French Collation) Action: If French collation of Cahiers internationaux de symbolisme 6 (1964) confirms droit (right/entitlement) over pouvoir (capacity), re-grade IV.7's refusal paragraph from an empirical falsification strike to an entitlement-presupposition critique. BLOCKING.
+SECTION 7 — CORRECTION-PROPAGATION & FILED BODY DEFECTS (Items 085–101)
+* 085 [CRITICAL] — V.6 Tzimtzum 12th-Century Body Drift (V.6:502) Defect: Body text claims tzimtzum was stated in the twelfth century. Lurianic tzimtzum is 16th-century (Safed); 12th-century sources meant local concentration. Action: Update body prose to 16th century. BLOCKING.
+* 086 [CRITICAL] — V.11 III.6 Quote Drift (V.11:587) Defect: Body quotes III.6 as "under the threshold." III.6:207 reads "over time." Action: Replace "under the threshold" with "over time." BLOCKING.
+* 087 [MAJOR] — V.6 Tanya Coordination Error (V.6:498) Defect: Coordinates Tanya and Shaar HaYichud VehaEmunah as separate works. Action: Revise prose to: "in the second part of the Tanya, Shaar HaYichud VehaEmunah..." BLOCKING.
+* 088 [MAJOR] — V.6 Memale / Sovev Semantic Inversion (V.6:500) Defect: Chaim of Volozhin inverted the Zoharic/Chabad referents without textual acknowledgment. Action: Insert parenthetical disclosing the inversion. BLOCKING.
+* 089 [MODERATE] — V.6 Chaim of Volozhin Intro Attribution (V.6:506) Defect: States Chaim wrote the preface; it was written by his son Yitzchak. Action: Attribute preface to Yitzchak of Volozhin. BLOCKING.
+* 090 [MODERATE] — V.6 Luria Safed Tenure Ceiling (V.6:496) Defect: Gives Luria tenure as "about three years" (actual: 1569/70–1572, ~2 years). Action: Update to "roughly two years." BLOCKING.
+* 091 [MAJOR] — V.7 John Dee Scrying Biography (V.7:522) Defect: States Dee gave the rest of his life to scrying (actual: 1582–1589, 7 years). Action: Update prose to: "gave seven years at the height of his career." BLOCKING.
+* 092 [MODERATE] — V.8 Chapter Ordinal Count (V.8:531) Defect: Refers to itself as "eighth among the ten" (actual: seventh of the ten chapters V.2–V.11). Action: Correct to "seventh among the ten." BLOCKING.
+* 093 [MODERATE] — V.8 Eliade Le Chamanisme Edition Splicing (V.8:533) Defect: 1951 French vs. 1964 English Bollingen (revised) vs. 1968 2nd French edition. Action: Add explicit edition marker to Endnote V.8.9. BLOCKING.
+* 094 [MAJOR] — V.9 Strieber Communion Origin Precedent (V.9:548) Defect: Attributes grey alien wraparound eyes to Strieber (1987) instead of Barney Hill (1964). Action: Note Hill’s 1964 sketch following The Outer Limits broadcast. BLOCKING.
+* 095 [MAJOR] — V.9 Military Sensor Track Denominator (V.9:549) Defect: "Very few" multi-sensor tracks has no published denominator. Action: Explicitly state that government reports do not break out the surviving multi-sensor subset. BLOCKING.
+* 096 [MAJOR] — V.9 Two-Frames Rule "Never Run" Falsehood (V.9:551) Defect: Claims the rule was "run at full cost never," refuting V.8 (drafted 26 mins earlier). Action: Concede V.8 and make the narrower defensible claim: first case where the pick cannot be separated from the null. BLOCKING.
+* 097 [CRITICAL] — V.9 V.1 Italicized Quote Alteration (V.9:552) Defect: Substituted "independent datum" for "fourth datum" inside italics. Action: Restore V.1's exact text ("fourth datum") and build the branch arithmetic bridge in authorial prose. BLOCKING.
+* 098 [CRITICAL] — V.10 Max Müller Spliced Upaniṣad Quotation (V.10:564) Defect: Spliced Chāndogya 6.8.7 and Kaṭha 4.15 across 317 pages with silent truncation. Action: Un-splice into distinct citations and restore full text. BLOCKING.
+* 099 [CRITICAL] — V.10 Shabistari Gulshan-i Raz Closed Ellipsis (V.10:564) Defect: Closed ellipsis, dropped ending ("hears resound... I am God"), and omitted author name. Action: Name Shabistari, restore James’s ellipsis, and disclose French transmission. BLOCKING.
+* 100 [CRITICAL] — V.10 Heinrich Suso / Knox Closed Ellipsis (V.10:564) Defect: Comma replaced ellipsis, asserting continuity across a textual gap. Action: Restore ellipsis and name T.F. Knox (1865). BLOCKING.
+* 101 [CRITICAL] — V.10 Inoculation Numbering Error (V.10:566) Defect: Inoculation hypothesis collapses Sufism (#3) into Hinduism (#1), but text asserted it collapsed #2 (Neoplatonism) into #1. Action: Correct numbering: #3 into #1, #4 (Suso) into #2 (Plotinus). BLOCKING.
+SECTION 8 — PER-CHAPTER OWED BACKLOG (Items 102–134)
+* 102 [CRITICAL] — IV.6 Searle (1990) APA Address p. 27 Collation (IV.6:298) Action: Collate APA p. 27 text; resolve universal vs. existential quantifier; clear UNVERIFIED flag. BLOCKING.
+* 103 [MAJOR] — IV.7 W. Dewi Rees (1971) BMJ Scan Verification (IV.7:330) Action: Confirm 1/3 interview statistic in 1971 scan; clear UNVERIFIED flag. BLOCKING.
+* 104 [MAJOR] — IV.7 Findhorn Devas Primary Citation (IV.7:332) Action: Add formal citation to The Findhorn Garden (1975). BLOCKING.
+* 105 [MODERATE] — IV.7 Besant 1896 Lucifer Article Distinction (IV.7:330) Action: Disclose 1896 article vs. 1901 book in Endnote IV.7.3. VERIFY-ONLY.
+* 106 [MODERATE] — IV.7 Landnámabók Hauksbók Dating (IV.7:331) Action: Confirm c. 1306–1308 date in Endnote IV.7.6. VERIFY-ONLY.
+* 107 [MAJOR] — IV.8 Five-Branch Independence Reduction (IV.8:356) Action: Reduce independent branches to 3 in IV.8 text and notes. BLOCKING.
+* 108 [MAJOR] — V.4 Dawkins 747 Gambit Lead-In (V.4:473) Action: Disentangle Laplace superfluity from Dawkins 747 improbability gambit. BLOCKING.
+* 109 [MAJOR] — V.4 Hitchens Quote Precision (V.4:474) Action: Restore full force of Hitchens's "wish to be a slave" in Endnote V.4.4. BLOCKING.
+* 110 [MODERATE] — V.4 Universal Negative on Authority Warrants (V.4:475) Action: Weaken unverified universal negative to an explicit policy commitment. BLOCKING.
+* 111 [MINOR] — V.4 IV.10 Quotation Word Substitution (V.4:475) Action: Restore exact word "tier" across italics boundary. BLOCKING.
+* 112 [MAJOR] — V.4 Lean Front-Matter Placement (V.4:476) Action: Correct locator from "front of volume" to Book IV.1. BLOCKING.
+* 113 [MAJOR] — V.4 / V.1 Policy Conflict Resolution (V.4:476) Action: Align V.4 with V.1’s policy (grade declared once at origin). BLOCKING.
+* 114 [MAJOR] — V.4 Voucher for V.1 Defense (V.4:476) Action: State that V.1 provides an argument for insufficiency, not a formal refutation. BLOCKING.
+* 115 [MINOR] — V.5 "900 Years of Debate" Chronology (V.5:490) Action: Disclose that Chāndogya and early Buddhist strata precede classical Advaita-Buddhist debate by a millennium. BLOCKING.
+* 116 [MODERATE] — V.5 Chāndogya 6.13 Brereton (1986) Syntax Dispute (V.5:490) Action: Note Brereton's adverbial construal of tat tvam asi in Endnote V.5.2. BLOCKING.
+* 117 [MINOR] — V.5 V.1 Indian Illusion Bar Clarification (V.5:491) Action: Remove claim that V.1 barred reading Indian world as unreal; ground directly in Śaṅkara. BLOCKING.
+* 118 [CRITICAL] — V.5 Śaṅkara Mithyā vs. Post-Śaṅkara Anirvacanīya (V.5:491) Action: Attribute anirvacanīya to post-Śaṅkara school and vyāvahārika/pāramārthika to Śaṅkara. BLOCKING.
+* 119 [MAJOR] — V.5 Anattalakkhaṇa Sutta Canonical Title (V.5:492) Action: Note canonical title Pañca Sutta (SN 22.59) alongside traditional title. BLOCKING.
+* 120 [MINOR] — V.5 Jay Garfield MMK 13.8 Translation Anchor (V.5:492) Action: Name Garfield (Oxford, 1995) in Endnote V.5.9. BLOCKING.
+* 121 [MODERATE] — V.5 Universal Negative on Dao De Jing Inertia (V.5:493) Action: Qualify universal negative regarding Chapters 47 and 80. BLOCKING.
+* 122 [MAJOR] — V.5 Zhuangzi Ch. 6 Yan Hui Zuowang Truncation (V.5:494) Action: Restore truncated Watson clause ("This is what I mean by sitting down and forgetting..."). BLOCKING.
+* 123 [MAJOR] — V.5 Indra’s Net Vedic Weapon Origin (V.5:495) Action: Disclose Atharva Veda 8.8.6–8 snare/illusion origin and Huayan inversion. BLOCKING.
+* 124 [MINOR] — V.6 Lurianic Transmission Branching (V.6:508) Action: Note Sarug and Ibn Tabul rival recensions alongside Vital in Endnote V.6.2. BLOCKING.
+* 125 [CRITICAL] — V.6 Vilna Gaon / Leshem Ratzon vs. Atzmut Dispute (V.6:509) Action: Disclose that the Ratzon interpretation is the Leshem's contested reading. BLOCKING.
+* 126 [MAJOR] — V.6 Chaim of Volozhin Break with Gaon Dispute (V.6:510) Action: Note that whether Chaim broke with the Gaon remains a live dispute (Schneerson vs. Fraenkel). BLOCKING.
+* 127 [MAJOR] — V.6 V.1 Thesis False Backdating (V.6:513) Action: Remove false claim that V.1 coined "summit statement." BLOCKING.
+* 128 [MODERATE] — V.7 Jung Psychology and Alchemy Dilemma Sharpness (V.7:527) Action: Disclose that Jung held alchemists operated on both matter and psyche unawares. BLOCKING.
+* 129 [MODERATE] — V.7 "400 Years of Failure Records" Scope (V.7:527) Action: Rephrase from unmeasured total corpus claim to documented early modern laboratory logs. BLOCKING.
+* 130 [MAJOR] — V.7 "Grimoires Are, by Volume, Warnings" Scope (V.7:528) Action: Scope claim to standard procedural grimoires (Goetia, Abramelin). BLOCKING.
+* 131 [MAJOR] — V.7 Eight-Circuit Model Attribution (V.7:530) Action: Attribute eight-circuit model to Timothy Leary (1973/1977); note RAW as popularizer. BLOCKING.
+* 132 [CRITICAL] — V.11 "V.1 Ninth Paragraph" Locus Error (V.11:596) Action: Correct locator from paragraph 9 to paragraph 51 (V.1:236–241). BLOCKING.
+* 133 [MINOR] — V.11 Drum Specification Rate Caution (V.11:597) Action: Maintain V.8’s rate caution in V.11 summary note. VERIFY-ONLY.
+* 134 [MINOR] — V.11 Harner Efficacy vs. Phenomenology Scope (V.11:597) Action: Clarify Harner's extraction demonstrates phenomenological induction, not objective transit. BLOCKING.
+SECTION 9 — GRADE DECISIONS — FLAGGED-FOR-READING REGISTER (Items 135–136)
+* 135 [MAJOR] — Primary Collation of High-Impact Philosophical Loci Scope: Perform direct primary collation on all high-impact loci:
+   * Locke Essay II.xxvii (VII.9 n1)
+   * Parfit Reasons and Persons Part III (VII.9 n2)
+   * Sartre L'Être et le néant (VII.7 n3)
+   * Frankfurt Reasons of Love (VII.6 n1) & J. Phil. 1971 (VII.7 n5)
+   * Camus Le Mythe de Sisyphe (VII.8 n6)
+   * MacIntyre After Virtue ch. 15 (VII.8 n9)
+   * Ricœur Soi-même comme un autre (VII.8 n10)
+   * Simone Weil Gravity and Grace / Waiting for God (VII.5 n2)
+   * Iris Murdoch The Sovereignty of Good (VII.5 n3)
+   * Heidegger Being and Time §40 (VII.5 n4) Action: Confirm exact phrasing and eliminate secondary-dependence notes. BLOCKING.
+* 136 [CRITICAL] — Primary Collation of Empirical & Experimental Citations Scope: Verify all empirical studies against primary journal records:
+   * Nisbett & Wilson (1977 Psychological Review) (VIII.2 n2)
+   * Lorenz (1963 J. Atmos. Sci.) (VII.9 n3)
+   * Kruglanski & Webster (1996 Psychological Review) (VIII.4 n7)
+   * Grossman (2017 Cell) & Violante (2023 Nature Neuroscience) (VIII.3 n4)
+   * Gauthier et al. (2026 Nature) (VI.6 n4)
+   * Winawer et al. (2007 PNAS) (VI.1 n3)
+   * Simons & Levin (1998) / Johansson et al. (2005/2006) (IV.4 n2, n3)
+   * Anand & Hickey (1987 NEJM) / Birch et al. (2021 Defra) (IV.1 n2, n3) Action: Confirm effect sizes, sample parameters, and eliminate all lingering UNVERIFIED tags. BLOCKING.
+SECTION 10 — CONTENT-TIER ADDITIONS & DEFERRALS WITH TRIGGERS (Items 137–143)
+* 137 [MAJOR] — Tier 1.4 Non-Human Intelligences / UAP Integration (V.9) Requirement: Maintain strict demarcation: sensor tracks establish unidentified physical returns, not biological/conscious occupants. VERIFY-ONLY.
+* 138 [MAJOR] — Cryptid / Boundary Entity Protocol Trigger (IV.10) Trigger: A physical type specimen or independent multi-site DNA sequence. DEFER-WITH-TRIGGER.
+* 139 [MODERATE] — Macro Quantum Navigation Class VII Protocol Trigger (VIII.3) Trigger: Replicated room-temperature macroscopic quantum coherence in living neural tissue. DEFER-WITH-TRIGGER.
+* 140 [MAJOR] — II.6 Coherence Dual-Definition Identity Tracking Requirement: Confirm C24 in 07-THE-CLAIMS-REGISTER.md explicitly designates the structural-felt identity as a primitive axiomatic postulate. BLOCKING.
+* 141 [MODERATE] — VII.7 Navigational Freedom / Determinism Proof Border Requirement: Confirm freedom is measured as a continuous trajectory across a life rather than a binary bit at an instant. VERIFY-ONLY.
+* 142 [MODERATE] — VII.8 Narrative Traversal vs. Emotivism Grounding Requirement: Verify that meaning is grounded in the structural features of configuration space rather than subjective projection. VERIFY-ONLY.
+* 143 [MAJOR] — VIII.7 Fundamental Oscillation Orthogonal Axes Requirement: Ensure the 2x2 matrix crossing Rhythmic (Being/Doing) against Ethical (Radiant/Contractive) axes is clearly maintained in prose. VERIFY-ONLY.
+SECTION 11 — RECONCILIATION & META (Items 144–146)
+* 144 [CRITICAL] — Public DOI Repository Archive Linkage Action: Mint persistent Zenodo/OSF DOI and insert permanent link in C.1 §IV and C.2 §IV. BLOCKING.
+* 145 [MAJOR] — Complete AST Parser Overhaul for tools/bibliography.py Action: Refactor parser to capture classical loci and running-prose citations \to achieve 245/245 citation capture with 0 machine-uncertain flags. BLOCKING.
+* 146 [MODERATE] — Full-Tree Automated Tooling Sweep Action: Execute tools/crossref_rot.py --all, tools/apparatus_rot.py, tools/instrument_sweep.py, and tools/placement_sweep.py across all 67 chapter files; confirm zero syntax/pointer errors. BLOCKING.
+SECTION 12 — FINAL PRE-RELEASE VERIFICATION GATE
+═════════════════════════════════════════════════════════════════════════════════════════
+                             PRE-RELEASE SIGN-OFF GATE
+═════════════════════════════════════════════════════════════════════════════════════════
+Stage 1: Philological & Citation Gating (Items 001–042, 085–101, 102–134)   [ ] PENDING
+Stage 2: Census Card Field Verification (Items 043–060)                     [ ] PENDING
+Stage 3: Axiomatic & Proof Boundary Reconciliation (Items 061–068, 137–143) [ ] PENDING
+Stage 4: Tooling, Works Cited & DOI Gating (Items 069–076, 144–146)         [ ] PENDING
+Stage 5: Final Automated Full-Tree Linting (All scripts clean)              [ ] PENDING
+═════════════════════════════════════════════════════════════════════════════════════════
+
+Sign-Off Certification
+Upon completion of all BLOCKING items, clearing of all UNVERIFIED flags, regeneration of the Works Cited index, and insertion of the public archive DOI, Truth and Consequences: The Corpus — Final Volume will be certified Release-Ready.

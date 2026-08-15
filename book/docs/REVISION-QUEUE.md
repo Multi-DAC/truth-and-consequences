@@ -97,6 +97,87 @@ a read does not find them, that is a finding about them. [[feedback_briefing_man
 
 ---
 
+## INBOUND REGISTER — Clayton, Day 196: a 146-item synthesis, machine-triaged
+
+**What arrived.** *TRUTH AND CONSEQUENCES — MASTER REVISION QUEUE, v2.0 (Full Synthesis)*, 146
+numbered rows, 31 KB, stamped 15 August 2026. Held at
+`carapace/Architecture/data/telegram_docs/doc_32133221.txt`.
+
+⛔ **IT DOES NOT KNOW THE QUEUE WAS RETIRED.** Its items 001–076 are marked `[CARRIED] from internal
+v1.0` — that is the register this repo retired the night before, at `fc52b0f`, for the stated reason
+that **a queue row is a measurement and it rots.** A synthesis of a rotted register inherits the rot
+and adds a fresh date stamp on top of it, which is strictly worse than the original: the file now
+*looks* current. Adopting it wholesale would have re-opened the exact backlog Clayton's own ruling
+closed. So it is triaged as an INBOUND SOURCE, alongside the archive — **not promoted to the queue.**
+
+**The triage is machine-run, not read.** `tools/inbound_triage.py` ignores what each row claims about
+its own status and instead takes the row's *quoted target string* to the chapter files, asking
+whether that string is still in the **body**, survives only in the **apparatus**, or is gone.
+
+| | count | meaning |
+|---|---|---|
+| **LIVE** | 6 | the defect text is still standing in body prose |
+| **PAID** | 6 | the row's own prescribed replacement is already printed |
+| **PAID?** | 1 | defect text survives only inside an endnote — body repaired, note kept |
+| ABSENT | 13 | quoted target found nowhere in the named chapter |
+| **NOQUOTE** | **119** | **the row quotes no testable string at all** |
+| NOLOCUS | 1 | no resolvable chapter |
+
+⚠ **THE HEADLINE IS 119, NOT 6.** Eighty-one per cent of the register is prose that names a defect
+without quoting the text that carries it — *"disclose the edition marker"*, *"confirm the receipt"*,
+*"maintain strict demarcation."* Those rows cannot be checked, cannot be closed by evidence, and
+cannot rot visibly. **A row no instrument can decide is a row that will read OPEN forever**, which is
+how a 206-row backlog happened the first time.
+
+⚠ **AND THE MEASURED SET IS 13 OF 146.** Everything outside LIVE/PAID/PAID? is *undecided by this
+instrument*, not clean. It is reported in its own buckets and folded into neither answer.
+
+⚠ **THE PAID COLUMN HAS AT LEAST ONE KNOWN FALSE POSITIVE.** Row 083 scored PAID off *"do be do be
+do"* in `VIII.7`; the row is actually about adding Whitehead to `03-THE-ANCESTORS.md`, and the locus
+resolver took the wrong file. Hand-checked: **Whitehead is present (6 mentions) — Wilber and
+MacIntyre are absent (0), so rows 042 and 073 are LIVE and the tool missed them.** Row 127 is
+likewise not trustworthy at PAID and needs a hand read. The instrument's controls prove it can
+separate repaired from standing; they do not prove it resolves a locus correctly.
+
+**THE CONTROL, which failed twice before it passed.** Four rows hand-grepped against the chapter
+files *before the parser existed* — 130 and 018 and 021 LIVE, 096 PAID?. Run 1: control mis-specified
+(085 quotes nothing; the instrument was right and the control was wrong). Run 2: the register
+punctuates American-style, so `run at full cost,` carries a comma the book does not print. Run 3
+exposed the defect that mattered — **`Replace "A" with "B"` puts the OLD text after the verb**, so
+the first parser scored *"twelfth century"* as prescribed-and-present and called a standing
+CRITICAL defect PAID. Three constructions invert a plain `Defect:`/`Action:` split and all three are
+in this register.
+
+**Disposition: the fresh-read loop stays primary.** Coverage is still 0 of 71 and that number governs.
+The six LIVE rows below are entered because they are machine-confirmed against body text, not because
+a register asserted them.
+
+| R2 | Register row | Locus | Defect text still in the body |
+|----|----|----|----|
+| R2-002 | 018 / 085 CRITICAL | `V.6:178` | *"stated it in the twelfth century"* — Lurianic *tzimtzum* is 1572. `[^11]` already rules on it |
+| R2-003 | 021 / 091 CRITICAL | `V.7:191` | *"gave the rest of his life"* — the conferences ran 1582–1589. `[^14]` already rules on it |
+| R2-004 | 090 MODERATE | `V.6:12` | *"about three years"* — Luria taught ~2. `[^1]` already rules on it |
+| R2-005 | 014 CRITICAL | `IV.10` | Loch Ness eDNA graded *"published paper"*; it is a 2019 institutional release |
+| R2-006 | 095 MAJOR | `V.9` | *"Very few"* multi-sensor tracks, no published denominator |
+| R2-007 | 130 MAJOR | `V.7:147` | *"The grimoires are, by volume, warnings"* — `[^11]` says nothing has measured it |
+| R2-008 | 042 / 073 MAJOR | `03-THE-ANCESTORS.md` | Wilber and MacIntyre absent (hand-checked, 0 mentions) |
+| R2-009 | 041 / 144 CRITICAL | `C.1:127` | No DOI minted. `C.1` prints *"Until that line carries a DOI…"* — a **release gate**, not a backlog row |
+
+★ **FIVE OF THESE NINE ARE ALREADY DIAGNOSED IN THE BOOK'S OWN ENDNOTES.** The note says the body is
+wrong; the body still says it. That is not a discovery the register made — it is a **standing debt
+the volume prints against itself**, and it is machine-enumerable: 140 ⛔ flags across 27 chapter
+files, concentrated in Books IV, V and VIII. **The register found by hand a subset of what a sweep
+over ⛔ would enumerate whole.** That sweep does not exist yet and is worth more than the other 137
+rows combined. [[feedback_instruments_go_where_instruments_are_cheap]]
+
+⚠ **DUPLICATION.** The 146 are not 146 distinct findings. At minimum sixteen pairs are the same
+defect filed twice under the v1.0/v2.0 merge — 018↔085, 021↔091, 025↔086, 008↔102, 009↔103, 011↔104,
+041↔144, 069↔145, 010↔084, 022↔078, 024↔080, 065↔082, 073↔083, 001↔016↔077, 023↔079↔094. The total
+is a merge artefact, and the severity ledger inherits it: a CRITICAL counted twice is not two
+criticals. [[feedback_self_generated_denominator]]
+
+---
+
 ## FINDINGS — filed as `R2-nnn`
 
 New numbering on purpose: `R2-` cannot collide with the retired `R-nnn`, so a row number in a commit
