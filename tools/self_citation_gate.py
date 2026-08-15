@@ -175,17 +175,49 @@ The Corpus Dionysiacum is late fifth century at the earliest.
 The office for Corpus Christi was commissioned by Urban IV in 1264.
 """
 
+# ⚠ THE DECLARED-GAP COUNTER GETS ITS OWN KNOWN ANSWER, and it exists because
+# the counter was wrong the whole time it was being quoted. `\bthe source\b`
+# fires on *the source-mapping screens* — a compound noun naming an instrument
+# of THIS book, not a reference to any document — and VIII-04's entire count of
+# one was that. The headline read 50 across 14 chapters; it is 49 across 13.
+# Hand-counted, line by line, BEFORE running it: L1 sentence-initial = 1 ·
+# L2 possessive mid-sentence = 1 · L3 compound noun = 0 · L4 plural = 0.
+# Expected: 2. (It was written as 3 first, from the prose gloss rather than
+# from the fixture, and the control caught that too — the known answer has to
+# be derived from the text, not from the sentence describing the text.)
+COUNTER_FIXTURE = """
+The source declines to settle the question, and says so plainly.
+That reading is the source's, not this chapter's.
+The specific error the source-mapping screens exist to catch is this one.
+The sources disagree about the dating by a full century.
+"""
+COUNTER_EXPECTED = 2
+
 
 def selftest():
     hits, _ = scan_text(SELFTEST, "<selftest>")
     fams = sorted({f for _, f, _, _ in hits})
     ok = fams == ["ANONYMOUS", "DANGLING", "NAMED"] and len(hits) == 3
+    n = sum(len(THE_SOURCE.findall(l)) for l in COUNTER_FIXTURE.split("\n"))
+    ok = ok and n == COUNTER_EXPECTED
+    if n != COUNTER_EXPECTED:
+        hits = list(hits) + [(0, "COUNTER", f"declared-gap counter returned {n}, "
+                             f"expected {COUNTER_EXPECTED}", COUNTER_FIXTURE.strip()[:160])]
     return ok, hits
 
 
 # Chapters whose apparatus drew on prior work of ours. Inside these, a bare
 # "the source" is an anonymous self-reference; everywhere else in the book it
 # overwhelmingly means somebody else's text and must not be counted.
+# TWO defects, found together, pointing OPPOSITE ways — which is why the total
+# looked plausible and was wrong at both ends. (1) `\b` holds at a hyphen, so
+# *the source-mapping screens* — an instrument of THIS book — was counted as a
+# reference to a document. (2) The pattern was case-SENSITIVE, so every
+# sentence-initial *The source* was invisible: EIGHTEEN of them, a quarter of
+# the real total, in the count this gate printed beside its own green as the
+# thing it was honest about not gating. Declared 50; it is 66.
+THE_SOURCE = re.compile(r"\bthe source(?:'s)?(?![\w-])", re.I)
+
 APPARATUS = ("C-01", "C-02", "IV-09", "IV-10", "VII-06", "VII-07", "VII-08",
              "VIII-01", "VIII-02", "VIII-03", "VIII-04", "VIII-05", "VIII-06", "VIII-07")
 
@@ -195,7 +227,7 @@ def report_the_source():
 
     A gate that reports only what it gates is a gauge that can only render its good
     news. Named pointers are gone; the ANONYMOUS body-prose form — bare *the source*
-    — is not gated, because 111 occurrences book-wide are mostly other people's texts
+    — is not gated, because 101 occurrences across book/ are mostly other people's texts
     and any regex that caught the rest would be tuned until it agreed with me. So the
     residue is COUNTED and PRINTED beside the green, where it cannot be mistaken for
     zero. ⚠ These are not a wording problem: several passages ARGUE WITH the thing
@@ -209,7 +241,7 @@ def report_the_source():
         if not base.startswith(APPARATUS):
             continue
         for line in open(f, encoding="utf-8").read().split("\n"):
-            per[base] += len(re.findall(r"\bthe source(?:'s)?\b", line))
+            per[base] += len(THE_SOURCE.findall(line))
     n = sum(per.values())
     print()
     print(f"DECLARED GAP — NOT GATED, AND NOT ZERO: {n} bare \"the source\" reference(s) "

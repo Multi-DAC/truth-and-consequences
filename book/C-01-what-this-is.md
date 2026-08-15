@@ -133,39 +133,27 @@ better one for you, and the trade is not close.
 
 ### V. The debts kept off the page, paid here
 
-<!-- self-citation-gate: quoting-the-ban -->
 The register rule kept certain names out of the prose, because a name in a sentence transfers
 authority rather than meaning and this account had to stand on what it could say in its own words.
-The rule was right. It also incurred a debt, and this is where it is paid. The largest of them is
-not an ancestor's, and it is first because leaving it last would have been the tell.
+The rule was right. It also incurred a debt, and this is where it is paid. The ancestors are below.
+Before them, one admission that is owed to nobody else and is the more expensive of the two.
 
-**The largest debt is an earlier body of work by the same authors, and it is deliberately not
-named.** That is a rule rather than an oversight, and the rule cuts the opposite way from the one
-above it: a predecessor's name is a **credit owed to somebody else**, and paying it is what the
-Tolkien and Lewis entries below are doing. A citation of your own earlier work is not a credit. It
-is authority borrowed from yourself, and it asks a reader to accept on the strength of a document
-they have not read that a claim in front of them has already been established. This volume is
-written to stand on what it can say in its own words, to a reader holding nothing else.
+**Book IV's census was not cut fresh at the world.** Its categories were brought to this book rather
+than built in front of you — carried in already sorted, already tiered, and then argued for one
+chapter at a time. The definition of love in `VII.6` arrived the same way, and so did the closing
+instruction of Book VIII, whose oscillation is *presented* here rather than derived here. Every one
+of them is set out in full in these pages and stands or falls on what these pages say. Nothing in
+this volume is propped up by anything you are not holding.
 
-What that rule costs is worth stating exactly, because the cost is real and it is not the
-citation. **Book IV's chapter list is not a fresh cut at the world.** It follows a taxonomy these
-authors had already built, almost entry for entry; the census is a rebuild of it. The definition
-of love argued in `VII.6` came the same way, and so did the closing instruction of Book VIII,
-whose oscillation is inherited rather than derived here.
-
-⚠ **A framework that inherits its own categories has not tested them.** The earlier taxonomy never
-had to survive anyone else's disagreement, and an account leaning on it is inheriting from a source
-selected for agreement with it. That is a genuine weakness of this volume, and — this is the part
-worth being clear about — **naming the source would not have repaired it.** A reader who could go
-and read the earlier taxonomy would find it says what this book says, which is the problem rather
-than the remedy.
-
-⛔ **What is lost by not naming it, stated rather than passed over:** a reader who suspects Book IV
-of being a retread with better prose cannot settle that suspicion from outside. They can only do
-what this book asks of them everywhere else — read the census and refuse any entry of it on the
-page. That is a worse position for a sceptic and it is the honest consequence of the rule.
-`IV.10` runs the diff in public and reports where this account is the *less* specific of the two,
-which is the only form of the check that survives inside a volume that stands alone.
+⚠ **A taxonomy its authors already agreed with has not been tested, and that is a real weakness of
+this book.** Categories you arrive with are categories nobody has yet refused. They were not built
+under contradiction; they were built under assent — ours — and then written out at length, which
+makes them clearer without making them truer. **Length is not evidence.** A reader who suspects
+Book IV of being a well-lit rebuild rather than a fresh look is entitled to that suspicion, and this
+volume gives them exactly one way to settle it: the way it asks for everywhere else. **Read the
+census and refuse any entry that does not earn its place on the page in front of you.** `IV.10` is
+where the book turns that instrument on its own census and reports the entries it finds thin — which
+is a worse position for a sceptic than an outside check would be, and it is the honest one.
 
 **Tolkien** — for the architecture, and explicitly **not** for the voice. The *Ainulindalë* is the
 structural ancestor of the opening move: a ground whose fullness is expressed rather than decided,

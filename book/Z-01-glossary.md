@@ -148,10 +148,10 @@ opposite of co-constitution wearing this book's clothes. Where a watcher is mean
 perspective**; where a participant is meant, say **the player**.
 
 <!-- self-citation-gate: quoting-the-ban -->
-**Any past work of ours, by name — and the anonymous form with it.** No *as we argued elsewhere*, no
-*in our earlier work*, no *we have shown*. An unnamed self-reference is still a reference and is
-strictly worse, because it points a reader at something they cannot look up. **If it is worth
-invoking, it is written in here, in full.**
+**Self-citation, in any form — named or anonymous.** No *as we argued elsewhere*, no *in our earlier
+work*, no *we have shown*. The unnamed form is the worse of the two, because it gestures at
+something a reader cannot go and look up. **If it is worth invoking, it is written in here, in
+full**, and it carries its own weight on the page where it appears.
 
 ---
 

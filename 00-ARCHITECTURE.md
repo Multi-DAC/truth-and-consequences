@@ -3216,14 +3216,29 @@ statement.
 
 ⚠ **WHAT THE GATE DOES NOT CERTIFY, PRINTED BY THE GATE ITSELF ON EVERY GREEN RUN.** Green means the
 book no longer POINTS. It does not mean the book is honest about what it inherited — an absorbed debt
-is invisible to any grep, which is the intended end state and therefore a permanent limit. And **50
+is invisible to any grep, which is the intended end state and therefore a permanent limit. And **70
 bare *"the source"* references remain in body prose**, the anonymous form Z-01 calls strictly worse.
-They are declared beside the green rather than gated, because book-wide that phrase runs to 111
+They are declared beside the green rather than gated, because across `book/` that phrase runs to 101
 occurrences of which the great majority mean somebody else's text, and any regex sharp enough for the
 rest would be tuned until it agreed with whoever tuned it. **They are R-239, and they are a ruling
 Clayton owns, not a sweep** — several of those passages *argue with* what they call the source, and a
 correction addressed to a document the book never names is a weaker claim, not the same claim
 reworded.
+
+⛔ **THE FIGURE ABOVE READ *50 across 14 chapters* UNTIL DAY 195 NIGHT, AND BOTH HALVES WERE WRONG,
+IN OPPOSITE DIRECTIONS.** The counter behind the declared gap used `\bthe source(?:'s)?\b`. `\b`
+holds at a hyphen, so *the source-mapping screens* — an instrument of this book, not a reference to
+anything — was counted, which was `VIII-04`'s entire count of one. And the pattern was
+**case-sensitive**, so every sentence-initial *The source* was invisible: **eighteen** of those, plus
+four in the all-caps editorial headers of `IV.10`'s notes. Twenty-two references — **just under a
+third of the real total, missing from the number this gate printed beside its green as the thing it
+was being honest about not gating.** ⚠ The lesson is not the regex. It is that **the un-gated figure was the only
+number in the whole instrument with no control behind it** — the gated families had a positive
+control from the first run; the count that was supposed to keep the green from being mistaken for
+zero was hand-written and never checked against a known answer. The declared gap now has its own
+fixture with a hand-derived expected value, and `--selftest` fails the whole gate if the counter
+misses it. *(The fixture's expected value was itself written down wrong first — as 3, from the
+sentence describing the fixture rather than from the fixture — and the control caught that too.)*
 
 ★ **The asymmetry a reader will notice, stated so it reads as a rule rather than a convenience:** a
 predecessor's name is a **credit owed to somebody else** and this book pays those at length, Lewis
