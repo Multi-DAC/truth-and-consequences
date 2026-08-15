@@ -408,3 +408,67 @@ Neither R2-010 nor R2-011 nor R2-012 could have been found by the inbound regist
 triage, because nothing here is misquoted; and none could have been found by a ⛔ sweep, because Book
 VI has no ⛔ to sweep. They required a person reading a chapter to the end. That is the argument for
 the gauge, made by the gauge's first two rows. **69 chapters and 315,011 words remain unread.**
+
+---
+
+## FILED BY INSTRUMENT, NOT BY READING — and the distinction is load-bearing
+
+⚠ **Coverage is still 2/71.** The row below was not produced by reading a chapter. It came from a
+whole-volume gauge, `tools/note_binding.py`, and it is filed here rather than held back because its
+subject is machine-decidable and reader-visible in the shipped PDF. **It does not advance the read.**
+Nothing in it excuses the 69 unread chapters, and it is not evidence the unread half is clean — it
+is evidence that a defect can survive 527 endnotes of hand-editing without a single person noticing,
+which is the argument for instruments and for reading, not for either instead of the other.
+
+---
+
+### R2-013 — 22 ENDNOTES ARE PRINTED IN THE VOLUME AND NOTHING IN THE PROSE POINTS AT THEM ⛔ OPEN
+
+**Locus: `VII.4` (10 notes, PDF p.823–824), `VII.5` (7, p.841–842), `C.1` (2, p.1047), `C.2` (3,
+p.1056). Machine-measured across all 71 chapters, both directions.**
+
+```
+NOTE BINDING — 71 chapters, 527 endnote definitions
+  ORPHANED (note exists, nothing points at it) : 22
+  DANGLING (marker exists, no note)            :  0
+```
+
+In four chapters the endnote definitions sit after a `---` at the foot of the file and **there is no
+`[^n]` marker anywhere in the body.** The other 67 chapters bind cleanly, which is what makes this a
+defect rather than a house style: the volume has a convention and these four fell out of it.
+
+⛔ **THE NOTES ARE NOT MISSING — THAT IS THE WHOLE POINT.** Checked against the shipped PDF:
+**22/22 orphaned notes render**, under a `Notes` heading, in a numbered list, correctly typeset. A
+reader finishing VII.4 meets ten numbered notes and has no route back into the prose from any of
+them, and no route out of the prose into any of them. **The apparatus is intact and unreachable.**
+This is the project's signature defect wearing the book's clothes: mechanism without a trigger, and
+the rendered page looks completely normal. [[feedback_carried_not_triggered]]
+
+**The asymmetry is why it survived.** A *dangling* marker is loud — a stray `[^7]` in the text, a
+broken link, something a proofreader trips over. An *orphaned* note is silent in every channel the
+project has: it compiles clean, it prints clean, `endnote_debt.py` counts it as a note that exists,
+and the ⛔ register has nothing to say about it. Nothing errors, so nothing was looked at.
+
+⚠ **AND THE NOTES THEMSELVES SAY THEY WERE MEANT TO ATTACH.** VII.4 `[^10]` reads *"which is why the
+sentence in the text says* not the overman but the corpse *rather than borrowing the phrase
+quietly"* — it is written to hang off a specific sentence that is sitting fifteen pages away with no
+superscript on it. These are not standing notes-by-design; they are numbered notes that lost their
+numbers.
+
+**Fix:** 22 markers, one per note, at the sentence each note is about. No prose moves. Filed as
+`EM-022`–`EM-025`, **SCOPED not READY** — several notes name their own target in the first clause
+and are cheap, but others grade a claim that occurs more than once in the chapter, and a marker on
+the wrong instance is worse than no marker. **Gauge: `python tools/note_binding.py` must read
+`0 ORPHAN` after the pass, and it runs its own positive control first.**
+
+⚠ **What this row does NOT claim:** that any note is wrong, unsupported, or absent from the volume.
+All 22 are present and correctly typeset. The claim is about reachability only.
+
+⚠ **The instrument nearly manufactured a worse finding than the true one.** The first PDF probe
+reported three of these notes *missing from the shipped book*, which would have been a far more
+serious row. It was the ligature encoding: the PDF renders `ff`/`fi`/`fl` as glyphs `pypdf` cannot
+map, so *suffering* extracts as *suering* and a literal search misses. Three of the four false
+misses were words with an f-ligature in the first sixty characters. The gauge now strips ligatures
+on the source side and refuses to report a miss unless its positive control — notes known to be
+referenced — hits first. **A zero needs a positive control, and so does an absence.**
+[[feedback_zero_needs_a_positive_control]]

@@ -15,7 +15,7 @@ silently patched from memory at implementation time.
 | state | count | meaning |
 |---|---|---|
 | **READY** | 2 | anchor chosen and resolving; applying is mechanical |
-| **SCOPED** | 19 | agreed, exact text **not yet chosen** — never summed with READY |
+| **SCOPED** | 23 | agreed, exact text **not yet chosen** — never summed with READY |
 | APPLIED | 0 | done, verified both directions |
 
 ---
@@ -199,3 +199,35 @@ Given in the body as *observed* with no study named; self-declared in the standi
 Given with no number. The chapter's own standing note calls it *“the thinnest thing in this chapter”* — a grade the body never states.
 
 ⚠ **Text not chosen.** Anchor NOT chosen: the honest repair may be a number rather than a clause, and no denominator has been found yet.
+
+### EM-022 — R2-013 · `VII-04-the-two-evils.md`
+
+**Locus:** 10 endnotes, `[^1]`–`[^10]`, PDF p.823–824
+
+Every one of this chapter's ten endnotes is defined and never called. The definitions sit after a `---` at the foot of the file with no `[^n]` marker anywhere in the prose, so the compiled chapter prints a numbered Notes block whose numbers attach to nothing. The notes are NOT missing from the volume — all of them render, checked against the shipped PDF — they are unreachable. The repair is one marker per note at the sentence the note is about; no prose changes.
+
+⚠ **Text not chosen.** Anchor NOT chosen: each marker's attachment point is a judgement about which sentence the note answers. Several notes name their own target in their first clause (VII.4 `[^10]` quotes *not the overman but the corpse*), which makes those cheap; others grade a claim that appears more than once in the chapter, and putting the marker on the wrong instance is worse than leaving it off. Gauge: tools/note_binding.py — it must read 0 ORPHAN after.
+
+### EM-023 — R2-013 · `VII-05-suffering.md`
+
+**Locus:** 7 endnotes, `[^1]`–`[^7]`, PDF p.841–842
+
+Every one of this chapter's seven endnotes is defined and never called. The definitions sit after a `---` at the foot of the file with no `[^n]` marker anywhere in the prose, so the compiled chapter prints a numbered Notes block whose numbers attach to nothing. The notes are NOT missing from the volume — all of them render, checked against the shipped PDF — they are unreachable. The repair is one marker per note at the sentence the note is about; no prose changes.
+
+⚠ **Text not chosen.** Anchor NOT chosen: each marker's attachment point is a judgement about which sentence the note answers. Several notes name their own target in their first clause (VII.4 `[^10]` quotes *not the overman but the corpse*), which makes those cheap; others grade a claim that appears more than once in the chapter, and putting the marker on the wrong instance is worse than leaving it off. Gauge: tools/note_binding.py — it must read 0 ORPHAN after.
+
+### EM-024 — R2-013 · `C-01-what-this-is.md`
+
+**Locus:** 2 endnotes, `[^1]`–`[^2]`, PDF p.1047
+
+Every one of this chapter's two endnotes is defined and never called. The definitions sit after a `---` at the foot of the file with no `[^n]` marker anywhere in the prose, so the compiled chapter prints a numbered Notes block whose numbers attach to nothing. The notes are NOT missing from the volume — all of them render, checked against the shipped PDF — they are unreachable. The repair is one marker per note at the sentence the note is about; no prose changes.
+
+⚠ **Text not chosen.** Anchor NOT chosen: each marker's attachment point is a judgement about which sentence the note answers. Several notes name their own target in their first clause (VII.4 `[^10]` quotes *not the overman but the corpse*), which makes those cheap; others grade a claim that appears more than once in the chapter, and putting the marker on the wrong instance is worse than leaving it off. Gauge: tools/note_binding.py — it must read 0 ORPHAN after.
+
+### EM-025 — R2-013 · `C-02-why-it-is-not-finished.md`
+
+**Locus:** 3 endnotes, `[^1]`–`[^3]`, PDF p.1056
+
+Every one of this chapter's three endnotes is defined and never called. The definitions sit after a `---` at the foot of the file with no `[^n]` marker anywhere in the prose, so the compiled chapter prints a numbered Notes block whose numbers attach to nothing. The notes are NOT missing from the volume — all of them render, checked against the shipped PDF — they are unreachable. The repair is one marker per note at the sentence the note is about; no prose changes.
+
+⚠ **Text not chosen.** Anchor NOT chosen: each marker's attachment point is a judgement about which sentence the note answers. Several notes name their own target in their first clause (VII.4 `[^10]` quotes *not the overman but the corpse*), which makes those cheap; others grade a claim that appears more than once in the chapter, and putting the marker on the wrong instance is worse than leaving it off. Gauge: tools/note_binding.py — it must read 0 ORPHAN after.
