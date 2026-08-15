@@ -18,8 +18,12 @@
 > | VIII | 12 | 3 | 21 |
 > | C | 1 | 1 | 3 |
 >
-> **The ⛔-mirror finding is true of block 2 only** — 59 of its 70 items land in the two
-> ⛔-heavy books. **Block 1 spans the whole volume, including 38 items in II/III/VI/VII
+> Cells count *locus mentions*, so the 9 items naming two books (003, 012, 025, 030, 064,
+> 067, 086, 111, 112) appear twice. By unique item: **35 of block 1 and 4 of block 2 touch
+> II/III/VI/VII — 39 in all.**
+>
+> **The ⛔-mirror finding is true of block 2 only** — 59 of its 70 locus mentions land in the
+> two ⛔-heavy books. **Block 1 spans the whole volume, including 35 items in II/III/VI/VII
 > where the book carries no stop-marks at all.** Items 026 (Wernicke 1874 as anatomical
 > landmark, VI.2), 027 (Eisenstein vs Adrian Johns on print fixity, VI.4), 030 (Nagel
 > dual-citation, II.3/VII.3), 035 (Parfit *Reasons and Persons* Part III anchor, VII.9) are
