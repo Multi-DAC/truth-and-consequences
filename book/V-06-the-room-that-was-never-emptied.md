@@ -411,6 +411,16 @@ error that flatters has a motive *keeping* it. [[feedback_guard_built_in_the_fea
     [[feedback_verification_anchor_must_be_unique]] ⚠ Also, at V.6:141: I.3 does its refusing in its
     **second** paragraph, not its *"opening paragraph"* — the opening paragraph states the position,
     the second denies it is a hole. R-186's class, at its smallest.
+    ★ **AND A RULING THE ACCURACY CHECK ABOVE HAD NO STANDING TO MAKE.** *The Fullness* is Book I's
+    mythic name for the Ground and it is **retired at the I/II boundary** (ruling 14): Books II–VIII
+    may not use it. The block-quotation at V.6:109 carries it into Book V — and it is **licensed
+    here, as a stated exception**, because a quotation reproduces its source or it is not a
+    quotation, and tidying I.3's sentence into the current vocabulary would make this endnote's own
+    verbatim claim false. The exception is the marked quotation and **nothing else**: any use of the
+    retired name in this chapter's own voice is a breach, and the sweep is set to say so. What this
+    note originally recorded was that the quotation is *accurate*. Whether it was *permitted* is a
+    second question, and it went unasked for six days — the accuracy pass ran, the permission pass
+    did not exist. [[feedback_two_guards_only_independent_in_the_untested_case]]
 
 [^10]: ⛔★ **He does not sharpen the Zohar's formula. He inverts it — and the inversion is why the
     quotation says what this chapter needs it to say.** Bezalel Naor: *"It is incontrovertible that

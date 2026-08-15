@@ -221,7 +221,20 @@ RULES = [
      "is still live. LICENSED: the banned-words roster in II.8, which names it; the ruling "
      "rows in `00`/`05`/`06`; and `04`'s quotation of the source sentence. All exempted by "
      "pair below — never by widening this pattern."),
-    ("TERM/fullness", "book-after-one", r"\bthe Fullness\b|\bthe still\b", None,
+    # ⚠ CASE WIDENED AT THE ARTICLE ONLY, Day 196. This pattern read `\bthe Fullness\b` and is
+    # in CASE_SENSITIVE_RULES, so every SENTENCE-INITIAL occurrence — `The Fullness` — was
+    # invisible, in a rule whose whole job is Books II–VIII. It missed V.6:109, a verbatim
+    # blockquote of I.3 carrying the retired name in Book V, and missed it silently: the term
+    # census printed 0 for this scope and 0 is what a clean chapter prints too. The
+    # discriminator was never the capital T — it is the capital **F**. `the fullness of God`
+    # and `The fullness of time` are English and still do not match; `The Fullness` is the
+    # title and now does. Precision unchanged, recall repaired.
+    # `The still` widened with it, on a worse trade and said so: `still` has NO capital-letter
+    # discriminator, so this admits `The still air was…`. Measured cost today is zero (0
+    # sentence-initial `The still` in Books II–VIII), and the asymmetry that decides it is this
+    # file's own: a false positive argues with you, a false negative prints the same output as
+    # a clean book. Any legitimate one earns a named-line exemption below, like everything else.
+    ("TERM/fullness", "book-after-one", r"\b[Tt]he Fullness\b|\b[Tt]he still\b", None,
      "05 §3a — RULING 14 (Day 187). *The Fullness* and *the still* are Book I's mythic names for "
      "the Ground, and they are RETIRED at the I/II boundary. I.6's closing move — 'they will not "
      "hold' — makes the supersession deliberate, and a deliberate supersession leaks the moment a "
@@ -798,6 +811,24 @@ EXEMPTIONS = [
      "into the current vocabulary would destroy the evidence** — this table's opening paragraph, "
      "arriving at its own first case. NAMED LINE, not whole-file: any un-quoted use of the term "
      "in this chapter is a fresh breach and must fire."),
+    # --- Day 196, V.6. THE RETIRED NAME CARRIED IN A MARKED QUOTATION OF OUR OWN BOOK I.
+    ("book/V-06-the-room-that-was-never-emptied.md", "TERM/fullness",
+     "> The Fullness is not less for having a vantage in it",
+     "★ CLAYTON'S RULING, Day 196: the quotation stands as a STATED exception, declared in the "
+     "endnote that already confirms it verbatim. I.3:46–49 block-quoted in Book V, carrying Book "
+     "I's retired mythic name across the boundary ruling 14 retired it at. A quotation reproduces "
+     "its source or it is not a quotation, and tidying the sentence into the current vocabulary "
+     "would falsify [^9]'s own verbatim claim — the VI.8 precedent above, second case. ⚠ WHAT MADE "
+     "THIS WORTH A RULE CHANGE RATHER THAN A ROW: nothing was suppressing it. The rule is "
+     "case-sensitive and read `\\bthe Fullness\\b`, so the sentence-initial `The` walked past a "
+     "gauge that printed 0 for this scope — and 0 is what a clean book prints. Named line, never "
+     "the chapter: an unquoted use of the retired name in V.6's own voice is a fresh breach."),
+    ("book/V-06-the-room-that-was-never-emptied.md", "TERM/fullness",
+     "is verbatim (I.3:46",
+     "[^9] itself — the endnote that confirms the quotation above is verbatim, and now also "
+     "declares the exception. It cannot check a quotation it is forbidden to reproduce. Own line "
+     "per the standing rule; same shape as the DRAFT-LOG receipts, one floor up: the record of an "
+     "adjudication reproduces what was adjudicated."),
 ]
 
 
