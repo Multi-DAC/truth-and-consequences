@@ -227,7 +227,7 @@ levelling wearing a sad face. It is the render there is, it has contents, and th
 where the person is. Meeting them there is harder than either failure mode, and it is the only one of
 the three that is about them.
 
-And there is a scope question underneath this that the source raises and declines to settle, which is
+And there is a scope question underneath this that the account raises and declines to settle, which is
 the honest treatment: whether recognition is owed to human faces only, to all living things, or
 further out still, to systems nobody has decided about yet.[^5] This book's own premises push
 outward — if there is no gate, there is no obvious line — and it will not pretend that gives a rule
@@ -329,7 +329,7 @@ distributed, and it is what you owe.**
 ★ And the last thing, which is where this chapter's ethics actually comes from and which the
 manuscript owes an acknowledgment. This book argued its way to an asymmetry — that recognition is
 owed by you regardless of whether it is returned, that what makes it an obligation is not a contract
-between two parties. **That conclusion was already in our own source's ethics section, in Levinas's
+between two parties. **That conclusion was already in this project's own ethics material, in Levinas's
 words, in a subsection nobody had reason to open: the responsibility is asymmetrical, and you owe it
 regardless of reciprocity.**[^9] Arriving at it independently does not make it more true and the
 independent route is not thereby wasted — but the honest form is to say that it was already there.
@@ -431,5 +431,5 @@ was being spent elsewhere in this manuscript on a different job.** `regardless o
 nowhere else in this book. ★ The finding is not that the argument was wasted — on this book's own
 account, convergence from unrelated starting positions is evidence rather than redundancy. It is that
 **a claim you worked out is owed as a citation the moment you discover somebody had it**, and that the
-discovery keeps happening in the same place: our own source, under a heading nobody had a reason to
+discovery keeps happening in the same place: this project's earlier material, under a heading nobody had a reason to
 open.

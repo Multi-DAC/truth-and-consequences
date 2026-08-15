@@ -88,7 +88,7 @@ It is still deferred and there is now a down payment on it, and the down payment
 chapter opened with. **The inheritance did not show up where it was expected.** It was expected in
 the content — in the census agreeing with a tradition about something, where the agreement might be
 an echo rather than a convergence. That is a real risk and it remains one. What actually happened is
-that the inheritance showed up in the *shape*: the chapter list follows the source's tier list
+that the inheritance showed up in the *shape*: the chapter list follows the inherited material's tier list
 almost exactly, entry for entry, and it follows so closely that the one entry with no chapter
 produced no gap in the sequence.
 
@@ -161,7 +161,7 @@ cost, named once, so the register of the rest can be trusted.
 
 It is not about the past. **The organ is working now, it operated during the drafting of this book,
 and what it removed was not a hedge or a qualifier. It removed a tier.** The material in that entry
-is the single most reputationally expensive content in the source. It is the one where a reader's
+is the single most reputationally expensive content in the inherited material. It is the one where a reader's
 prior is loudest and least argued. And it is the one that vanished, from a project that had already
 written five thousand words about the interior life of a corporation and eight thousand about beings
 with no bodies, without the vanishing producing a sentence anywhere.
@@ -228,7 +228,7 @@ circle is small enough to fit inside a single line of a bulleted list, which is 
 saw it there for five months.
 
 The second is worse, and it is worse in a way that will matter for the whole of the next book. It is
-also not the source's. It is ours. Setting out how this chapter should handle the indigenous
+also not the inherited material's. It is ours. Setting out how this chapter should handle the indigenous
 traditions that treat these entities as known co-inhabitants rather than as mysteries to be solved,
 this project's own planning document wrote that **indigenous peoples' wider access allows them to
 perceive the full profile, while the modern focus on physical evidence can detect only the
@@ -262,7 +262,7 @@ French Islamicist writing about the world of images — *otherwise, anyone could
 clause that predicts, in advance, that no one else will be able to check.[^8]
 
 It was refused in a borrowed text. Then it came back twice, and the two returns are not the same
-object, which is the finding. **Once in the inherited source**, in the tier this chapter was
+object, which is the finding. **Once in the inherited material**, in the tier this chapter was
 assigned, where it has been sitting since March. **Once in our own planning file, written by us,
 pointed at the very traditions the next book exists to credit** — and that one arrived here wearing
 quotation marks it was never given. **The escalation is the finding, and the last step of the
@@ -271,9 +271,9 @@ text, and read the span rather than the phrase*. This chapter ran that method on
 and found the defect in the same place as always — the connective tissue, not the content. It did
 not run the method on its own scaffold. Had the second sentence been fetched rather than carried,
 the escalation would have stopped one step earlier, and the accusation above would not have been
-aimed at a source that never made it.[^9]
+aimed at material that never made it.[^9]
 
-There is a third thing in that entry, smaller and sharper. The source gives the sasquatch a profile
+There is a third thing in that entry, smaller and sharper. The inherited material gives the sasquatch a profile
 in filled bars — a graded score on four axes, three of five bars on physical presence.[^10] The previous
 chapter caught the same notation handing back two confident numbers for an entity whose card had
 just come apart in its hands, and gave the reason: a field with a scale in it has no way to decline.
@@ -391,7 +391,7 @@ mistaken for.**
 There is a version of this ending that is a courtesy. *Of course the list is incomplete; of course
 we are limited; no doubt much has been missed.* It costs nothing, it commits to nothing, and it is
 indistinguishable from the same sentence written by someone who believed their list was complete and
-wanted to seem modest. The source this book was quarried from ends its own atlas of frameworks with
+wanted to seem modest. The material this book was quarried from ends its own atlas of frameworks with
 a version of it — the room is always larger than any account of it — and the sentence is true, and
 in five months it did not cause one thing to be found.
 
@@ -474,13 +474,13 @@ framework does not require choosing one interpretation"*), the dual-frame proble
 and an *Evidence basis* line naming exactly three grades: *scientific observation (military sensor
 data, radar tracks); phenomenological testimony (encounter reports across cultures); governmental
 acknowledgment*. ✅
-⚠ **Two things the source names and the chapter drops, and both cost it.** The governmental line
+⚠ **Two things the inherited material names and the chapter drops, and both cost it.** The governmental line
 names its offices — *AARO, Congressional hearings, Grusch testimony* — so the chapter's *"named
 offices, hearings on the record, sworn statements"* is a paraphrase of a list that had already been
 named, inside a passage whose whole complaint is that specificity is lost in transmission. And the
-temporal-navigator frame is attributed in the source to *"the Burisch hypothesis"*, a named and
+temporal-navigator frame is attributed in the inherited material to *"the Burisch hypothesis"*, a named and
 contestable attribution the chapter renders as unattributed *"navigators from a different position in
-time."* **Dropping an attribution makes a claim look more settled than the source made it** — IV.8's
+time."* **Dropping an attribution makes a claim look more settled than the inherited material made it** — IV.8's
 finding about the inherited hierarchy, running in the opposite direction.
 
 [^2]: **The measurement is real, it is dated, and it is no longer reproducible from this tree —
@@ -513,7 +513,7 @@ coined by **John E. Wall in 1983** in a letter to the *ISC Newsletter*. *"The pe
 word have done a great deal of patient fieldwork under it"* is true of the field and loose about the
 word. The argument does not rest on it.
 
-[^5]: ⛔ **THE SENTENCE IN ITALICS IS NOT THE SENTENCE IN THE SOURCE.** The chapter says the entry
+[^5]: ⛔ **THE SENTENCE IN ITALICS IS NOT THE SENTENCE IN THE INHERITED MATERIAL.** The chapter says the entry
 *"handles them in two sentences that have to be read exactly"* and then prints, italicised and
 colon-introduced, a rendering with an added conjunct.
 **Source, L2458-2459, verbatim:** *"The persistent failure to produce physical specimens despite
@@ -521,31 +521,31 @@ centuries of sightings is predicted by the framework if these entities' primary 
 non-physical."*
 **Chapter:** *"their persistence across cultures and their failure to produce permanent physical
 specimens are both predicted by the framework if their primary coherence is non-physical."*
-The source predicts **one** thing. The chapter gives it **two**.
+The inherited material predicts **one** thing. The chapter gives it **two**.
 ★ **And the alteration runs against the chapter's own case.** The circularity charge that follows —
 *the only thing offered in support of Q is P* — is **stronger** on the real sentence, whose consequent
-is nothing but P. By handing the source an extra prediction, the chapter made the target marginally
+is nothing but P. By handing the inherited material an extra prediction, the chapter made the target marginally
 harder to hit. Same class as IV.7's false pedigree, IV.8's two-texts translator and IV.9's misplaced
 locus: **four chapters running, and not one of the four errors flatters the argument.**
 ★★ **AND THE PLAN HAD IT RIGHT.** `06-THE-SCAFFOLD.md`:1601–1602 renders the clause as *"the failure
 to produce specimens is predicted by the framework if their primary coherence is non-physical"* —
-**one predicted item, matching the source.** The conjunct was added **between the beat and the
+**one predicted item, matching the inherited material.** The conjunct was added **between the beat and the
 prose.** So this defect has a location, and it is not research and not planning: it is the act of
-expanding a correct compressed note into a sentence, with the source closed. That is a narrower and
+expanding a correct compressed note into a sentence, with the material closed. That is a narrower and
 more actionable diagnosis than *"written from memory"*, and it is the opposite of what I first wrote
 here — I attributed it upstream before checking the upstream file.
 
-[^6]: ⛔ **THE BODY ATTRIBUTED THIS SENTENCE TO THE SOURCE UNTIL DAY 195, AND THE SOURCE DID NOT
-WRITE IT.** Repaired under ruling 177 (released edition: repair the body, mark the repair). The
+[^6]: ⛔ **THE BODY ATTRIBUTED THIS SENTENCE TO THE INHERITED MATERIAL UNTIL DAY 195, AND THE MATERIAL
+DOES NOT CONTAIN IT.** Repaired under ruling 177 (released edition: repair the body, mark the repair). The
 paragraph above read *"the material says that…"* and presented the sentence in bold as quotation,
 with this note carrying the correction two hundred words below — **a fabricated quotation inside an
 accusation, standing in the running text with its refutation in the apparatus.** The argument was
-never the problem and is unchanged; only its target moved, from the inherited source to this
+never the problem and is unchanged; only its target moved, from the inherited material to this
 project's own scaffold, which is where the sentence was in fact written. ⚠ **The correction makes
 the chapter's case stronger, not weaker, and that is the uncomfortable part** — the exemption clause
 this book spends the chapter refusing was produced *here*, under the conditions the chapter says
 produce it, by the party writing the refusal.
-**THE ORIGINAL FINDING, UNCHANGED — THE SECOND SENTENCE IS NOT IN THE SOURCE.** The entry is
+**THE ORIGINAL FINDING, UNCHANGED — THE SECOND SENTENCE IS NOT IN THE INHERITED MATERIAL.** The entry is
 **seventeen lines long** (L2448-2464) and was read in full. It contains no sentence about indigenous perception, no *full profile*, and no contrast
 with *the modern focus on physical evidence*. Measured across the whole 884 KB file: `cryptid` occurs
 **once** (the header, L2448); `indigenous` occurs twenty-odd times, the nearest hit **eighty lines
@@ -553,7 +553,7 @@ away** in the mineral/panpsychism material, the next **380 lines** downstream �
 entities.
 **Positive control, so the null carries weight:** the same extraction preserves this entry's other
 clauses word for word (the *Under DoPI* sentence, the *Theorem 12* dimensional-leakage clause, the
-three-part *Evidence basis*) and preserves the source's box-bar glyphs `■`/`□` elsewhere in the file.
+three-part *Evidence basis*) and preserves the inherited material's box-bar glyphs `■`/`□` elsewhere in the file.
 The pipeline is not eating content in this region.
 ⚠ **Limit, stated because it is load-bearing and because it is inherited from IV.9:**
 `tools/brief_source.py`:71 names a drafting tree, **which is
@@ -561,7 +561,7 @@ not on this machine.** If a fuller rendering exists there, the sentence may be i
 distinguish that from a sentence that was never written — **and neither can a reader**, which is the
 defect on either reading. ✅ **The *"in two forms"* count is now repaired in the body** — it claimed
 two instances of IV.7's refused clause **in this entry**, and the checkable count in the entry is
-one. The body now says what is true: one in the source, one in our own planning file, and they are
+one. The body now says what is true: one in the inherited material, one in our own planning file, and they are
 different objects.
 ⛔ **AND THIS ONE DID ENTER AT PLANNING.** `06-THE-SCAFFOLD.md`:1604–1606 carries the sentence in
 IV.10's beats, near-verbatim, as item (b) under the heading *"THE INHERITED CRYPTID ENTRY CARRIES
@@ -572,15 +572,15 @@ in the same pass, Day 195** — `06`:1604–1606 now carries the correction and 
 asserts the two-forms claim, so a chapter drafted from the scaffold after this date cannot inherit
 it again.
 
-[^7]: **The Sts'ailes are not in the source, and the external record complicates the charge rather
+[^7]: **The Sts'ailes are not in the inherited material, and the external record complicates the charge rather
 than the principle.** `sasquatch`, `bigfoot`, `sts'ailes` and `chehalis` occur **zero** times in the
-884 KB file. The account the chapter credits and then defends is not one the source cited; it is the
+884 KB file. The account the chapter credits and then defends is not one the inherited material cited; it is the
 chapter's own, imported without a locus.
 ⚠ **Grade, declared: secondary characterisation. No primary ethnography was opened in this pass.**
 The Sts'ailes (Chehalis) are a Halkomelem-speaking people of the lower Harrison River, British
 Columbia; *Sasquatch* is an anglicisation of **Sasq'ets**, *wild man* / *hairy man*; and the reported
 Sts'ailes understanding is that Sas'q'ets **moves between the physical and the spiritual**.
-★ **That last clause cuts.** The chapter charges the source's frame with *imposing* unfalsifiability
+★ **That last clause cuts.** The chapter charges the inherited material's frame with *imposing* unfalsifiability
 on a tradition — *"exemption dressed as respect."* If the tradition's own account already holds a
 being that crosses between physical and non-physical, then on this point the frame is partly
 **reporting** the tradition rather than exempting it, and the accusation needs its narrower form: not
@@ -606,7 +606,7 @@ cheap and reads as rigour; running is the work. Filed as a queue row rather than
 repair is a check, not a sentence.
 
 [^10]: ⛔ **THERE IS NO SASQUATCH PROFILE, AND THE TIER ENTRIES DO NOT USE BARS AT ALL.** Two
-measurements. (a) The source contains no sasquatch — see [^7]. (b) The filled-bar notation the chapter
+measurements. (a) The inherited material contains no sasquatch — see [^7]. (b) The filled-bar notation the chapter
 describes is real and occurs **exactly three times in 884 KB**, all three in the Decomposers material:
 `Profile: NS ■■■■■  VI ■■■■■  AC ■■■■ □ CE ■■■■■` (L3897, Divine), L3906 (Trickster), L3913
 (Intimate). **None is a tier entry.** The tier entries — 1.4, 1.5, 2.1, and the archetype entry IV.9
@@ -649,7 +649,7 @@ five-bar physical-spatial field, written out rather than omitted.
 — grief is not a thing in a forest — which is a statement about **mode**, not about **existence**. The
 notation has a zero for presence and none for *there may be no entity here*, and those are different
 absences.
-★ The correction makes the card refusal **stronger**, not weaker: the source's bar apparatus *can*
+★ The correction makes the card refusal **stronger**, not weaker: the inherited material's bar apparatus *can*
 decline on an axis, and the atlas's card apparatus still cannot decline on the occupant. The defect is
 the atlas's specifically, not a general property of graded notations — which is a sharper finding than
 the one the chapter printed.
@@ -712,7 +712,7 @@ spokesman, not a checked table.
 
 *The standing note on grade.* **This chapter set out to show that the census cannot see a vacancy, and
 the retrofit found that the chapter cannot see its own quotations.** Three of its four indictments of
-the inherited source do not survive contact with the source: the first sentence is altered ([^5]), the
+the inherited material do not survive contact with it: the first sentence is altered ([^5]), the
 second does not exist ([^6]), and the sasquatch bar-profile is neither a sasquatch nor a bar ([^10]).
 ⛔ **And the direction is once again the thing to keep.** Every one of the three alterations made the
 chapter's case *weaker*, not stronger — the real quoted sentence is a tighter circle than the printed
@@ -720,7 +720,7 @@ one, and the atlas's card defect is a sharper finding than the general claim abo
 that replaced it ([^12]). **There is no motive anywhere in this pass**, which is the fourth chapter
 running to produce that result and the point at which it stops being worth remarking that the errors
 are not self-serving and starts being worth asking what *does* produce them. On this evidence: writing
-about a source with the source closed. Nothing subtler than that.
+about material with the material closed. Nothing subtler than that.
 ★★ **The two findings that outlive the chapter are structural, not textual.** [^9]: the chapter wrote
 down the precise condition under which it would be guilty, declared it unmet, and met it in the next
 paragraph — a chapter that names its own falsifier reliably names it well and reliably does not run

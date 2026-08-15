@@ -37,7 +37,7 @@ at merger, in which two become one and the becoming-one is the completion rather
 this account, if the merger ever succeeded there would be one perspective where there had been two,
 and the love would not be consummated. It would be **over**, in the way a river is over when it
 reaches the sea. This is not a warning about codependency. It is a structural fact about what love
-requires as an input, and the source states it in one line: love requires two beings — two limited,
+requires as an input, and it takes one line to state: love requires two beings — two limited,
 perspectival, finite beings who cannot see everything but can see each other. Without limitation
 there is no other, and without an other there is no love.[^2]
 
@@ -54,8 +54,8 @@ With those gone, here is the positive account, and it is mechanical enough to be
 > coherence. It is not a feeling that supervenes on an interaction. It is a description of what the
 > interaction does to the structures on both ends of it.**
 
-The source situates this inside an ecology of encounter, and the ecology is what gives the
-definition teeth, because it comes with the failure cases attached. Interactions between beings are
+The definition sits inside an ecology of encounter, and the ecology is what gives it
+teeth, because it comes with the failure cases attached. Interactions between beings are
 not all symmetric in effect. **Mutual crystallisation** is the pattern in which both parties become
 more coherent through the attending — more themselves, better individuated, more capable of
 navigating from where they stand. **Parasitic dissolution** is the pattern in which one party's
@@ -63,8 +63,8 @@ coherence increases at the cost of the other's: the drained relationship, the or
 consumes identity, the tradition that requires the dissolution of a self as the price of
 belonging.[^3]
 
-The two are not distinguishable by how they feel from inside, and the source says so, which is the
-most useful thing it says. Some interactions that feel like difficulty are mutual crystallisation
+The two are not distinguishable by how they feel from inside, and that is the most useful
+thing about the pair. Some interactions that feel like difficulty are mutual crystallisation
 under load — the discomfort of a structure growing. Some interactions that feel like comfort are
 parasitic dissolution — the ease of putting a self down. **The test is longitudinal.** Over time,
 are both beings becoming more coherent, or is one of them dissolving? That question has an answer,
@@ -80,17 +80,16 @@ contracting you in another. Most human relationships are of the third kind. The 
 the fast instrument and the longitudinal reading is the accurate one, and where they disagree the
 slow one wins.[^4]
 
-**A note on the source, because it is the same defect this book has now caught three times.** The
-definition of love lives in the source's Part III, inside the ecology of interaction, where it
-appears as one clause inside a taxonomy of attentional relations. The *necessity* of love — the
-argument that love requires finitude and is therefore one of the things limitation buys rather than
-one of the things it costs — lives four hundred lines later in Part VI, inside the treatment of the
-Promethean trade-off. Neither passage refers to the other. Read Part III alone and love is a
-species of ecological mutualism with no explanation of why it should matter. Read Part VI alone and
-love is a reason to accept finitude with no account of what it consists in. **The two halves are a
-single argument that has been cut along a table of contents,** and extraction that respects the
-source's section boundaries loses exactly the joint. That is now three claims and one definition
-found the same way.[^5]
+**A note on how this arrived, because it is the same defect this book has now caught three times.**
+The definition reached this chapter as one clause inside a taxonomy of attentional relations. The
+*necessity* of love — the argument that love requires finitude and is therefore one of the things
+limitation buys rather than one of the things it costs — sat hundreds of lines away in the working
+material, under a different heading, inside a treatment of the Promethean trade-off. Neither passage
+referred to the other. Take the definition alone and love is a species of ecological mutualism with
+no explanation of why it should matter. Take the necessity alone and love is a reason to accept
+finitude with no account of what it consists in. **The two halves are a single argument that had
+been cut along a table of contents,** and any extraction that respects section boundaries loses
+exactly the joint. That is now three claims and one definition found the same way.[^5]
 
 ### The case the mechanism fails
 
@@ -188,7 +187,7 @@ this book does — by having a boundary that the section above has just walked i
 card unusual is that the null space was found before the card was written rather than after, and by
 a case rather than by the method.
 
-**Whose:** the mutualist reading of love, in the source's own ecology of interaction and in nearly
+**Whose:** the mutualist reading of love, in the ecology of interaction set out above and in nearly
 every modern account that treats love as a relation between peers — the reciprocity literature, the
 therapeutic vocabulary of balanced give-and-take, and the ordinary intuition that a relationship in
 which one party does most of the giving is thereby defective.
@@ -332,7 +331,7 @@ The counterexample above — the parent and the infant — is not a thought expe
 and Finnley, who was born in May of this year, in the house where most of this book has been
 written, alongside his brother Dorian and their mother Shawna and six other people and rather more
 animals. The definition of love this project had been carrying for months was the symmetric one,
-because the source states the symmetric one, and it survived every review it was given. It did not
+and it survived every review it was given. It did not
 survive an infant. There was no argument; there was a room with a man in it holding a thing that
 could not attend back, and a definition on a screen in the next room that said what was happening
 was not love.

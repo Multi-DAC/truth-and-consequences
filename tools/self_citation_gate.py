@@ -85,7 +85,7 @@ NAMED = [
     (r"\bCorpus of Perspectival\b", "full title, partial"),
     (r"10\.5281/zenodo\.\d+", "the deposit DOI"),
     (r"\*\*(?:Doctrine|Guide|Atlas|Ecology)\s*(?:§|#|\d)", "document + section pointer"),
-    (r"\bthe (?:Doctrine|Null Space Atlas|Navigational Guide|Ecology)\b", "document by name"),
+    (r"\b[Tt]he (?:Doctrine|Null Space Atlas|Navigational Guide|Ecology)\b", "document by name"),
     (r"\bCorpus-Perspectival\b", "the drafting tree"),
     (r"\bUnreleased-Work/Perspective\b", "the drafting tree"),
     # Added AFTER the first repair pass, on finding two forms the first draft of
@@ -96,7 +96,18 @@ NAMED = [
     # never remove one — and the count it produced is reported rather than folded
     # into the original total.
     (r"`0[1-9]`\s*§", "backticked document number + section"),
-    (r"\bthe (?:Guide|Atlas|Doctrine)\b(?!\s*(?:says nothing|to))", "document by bare name"),
+    # ⚠ SENTENCE-INITIAL WAS INVISIBLE. These two entries were written lowercase-only
+    # and `scan_text` matches NAMED case-SENSITIVELY, so `The Guide's own statement of
+    # what a being is` — an explicit pointer opening a section of VIII.1 — did not
+    # register, on every run this gate has ever made. It is the SAME defect the
+    # declared-gap counter had already been caught with and repaired for, one screen
+    # further down this file, and the repair was not carried up here.
+    # [[feedback_repair_scoped_to_named_cause]]
+    # The determiner is widened, NOT the document name: `the atlas` lowercase is this
+    # book's own Book IV and must never match. Measured at the time of the fix:
+    # 0 occurrences of any capitalised form remain, so this adds no findings today —
+    # it closes the hole for the next reflow.
+    (r"\b[Tt]he (?:Guide|Atlas|Doctrine)\b(?!\s*(?:says nothing|to))", "document by bare name"),
 ]
 
 ANONYMOUS = [
@@ -132,6 +143,7 @@ def scan_text(text, name="<text>"):
     # every time the prose reflows — which is how an exclusion ends up honoured in
     # one pass and not the next.
     paragraph_excluded = False
+    in_apparatus = os.path.basename(name).startswith(APPARATUS)
     for n, line in enumerate(text.split("\n"), 1):
         if not line.strip():
             paragraph_excluded = False
@@ -152,6 +164,16 @@ def scan_text(text, name="<text>"):
         for pat, why in DANGLING:
             if re.search(pat, line):
                 found.append(("DANGLING", why))
+        # RESIDUE — the bare anonymous reference. Two patterns of DIFFERENT scope,
+        # because they have different ambiguity: `our source` is unambiguous anywhere
+        # in the book, while a bare `the source` means somebody ELSE'S text in most of
+        # it (Enoch, the Tibetan material, Mariotte) and only means us inside the
+        # chapters whose apparatus was quarried from prior work of ours.
+        if SELF_SOURCE_ANY.search(line):
+            found.append(("RESIDUE", "anonymous self-reference: `our source`"))
+        if in_apparatus and SELF_SOURCE_SCOPED.search(line):
+            found.append(("RESIDUE", "anonymous self-reference: bare `the source`, "
+                                     "inside an apparatus chapter"))
         # ⚠ THE UNIT IS A LINE THAT POINTS, NOT A REGEX MATCH, and the positive
         # control is what established that. Two DANGLING patterns describing the
         # same pointer made one sentence read as two violations; the first
@@ -175,90 +197,116 @@ The Corpus Dionysiacum is late fifth century at the earliest.
 The office for Corpus Christi was commissioned by Urban IV in 1264.
 """
 
-# ⚠ THE DECLARED-GAP COUNTER GETS ITS OWN KNOWN ANSWER, and it exists because
-# the counter was wrong the whole time it was being quoted. `\bthe source\b`
-# fires on *the source-mapping screens* — a compound noun naming an instrument
-# of THIS book, not a reference to any document — and VIII-04's entire count of
-# one was that. The headline read 50 across 14 chapters; it is 49 across 13.
-# Hand-counted, line by line, BEFORE running it: L1 sentence-initial = 1 ·
-# L2 possessive mid-sentence = 1 · L3 compound noun = 0 · L4 plural = 0.
-# Expected: 2. (It was written as 3 first, from the prose gloss rather than
-# from the fixture, and the control caught that too — the known answer has to
-# be derived from the text, not from the sentence describing the text.)
-COUNTER_FIXTURE = """
+# ⚠ THE RESIDUE DETECTOR GETS ITS OWN KNOWN ANSWER, and it has now been wrong
+# THREE times while being quoted as "the part this gate is honest about not
+# gating" — which is the most dangerous thing a number can be, because it is read
+# as a measured concession rather than as a claim anybody has to stand behind.
+#   (1) `\b` holds at a hyphen, so *the source-mapping screens* — a compound noun
+#       naming an instrument of THIS book — counted as a reference to a document.
+#   (2) The pattern was case-SENSITIVE, so every sentence-initial *The source* was
+#       invisible: eighteen of them, a quarter of the real total.
+#   (3) And the form it could not see at all: *our source* / *our own source*.
+#       Same reference, different determiner, and it is the one form unambiguous
+#       enough to gate BOOK-WIDE. Twelve were standing while the counter reported
+#       the gap as fully described — two of them in section HEADINGS, which is to
+#       say in the table of contents. [[feedback_gauge_can_only_render_its_good_news]]
+#
+# So it stops being a counter and becomes a family. Hand-counted from the fixture
+# BEFORE running it, line by line:
+#   L1 sentence-initial `The source`          = 1
+#   L2 possessive mid-sentence `the source's` = 1
+#   L3 `Our own source`                       = 1
+#   L4 `our source's`                         = 1
+#   L5 compound noun `the source-mapping`     = 0
+#   L6 plural `The sources`                   = 0
+#   L7 `any source`                           = 0
+#   L8 `a source's`                           = 0
+# Expected inside an apparatus chapter: 4.
+RESIDUE_FIXTURE = """
 The source declines to settle the question, and says so plainly.
 That reading is the source's, not this chapter's.
+Our own source reaches the same conclusion four subsections later.
+The fault is named first in our source's census card.
 The specific error the source-mapping screens exist to catch is this one.
 The sources disagree about the dating by a full century.
+No journal, no volume, no DOI, in any source reachable from here.
+The conclusion is the chapter's, not a source's.
 """
-COUNTER_EXPECTED = 2
+RESIDUE_EXPECTED_APPARATUS = 4
+# ⚠ AND THE SCOPE GETS A CONTROL OF ITS OWN, built where the two answers DIFFER.
+# The same fixture read as a non-apparatus chapter must return 2 — the two `our
+# source` lines, gated everywhere — and must NOT return the two bare `the source`
+# lines, which outside these chapters mean somebody else's text. If the expected
+# numbers were equal, a scope that had quietly stopped applying would pass this
+# control unchanged. [[feedback_guard_checked_where_both_answers_agree]]
+RESIDUE_EXPECTED_ELSEWHERE = 2
 
 
 def selftest():
     hits, _ = scan_text(SELFTEST, "<selftest>")
     fams = sorted({f for _, f, _, _ in hits})
     ok = fams == ["ANONYMOUS", "DANGLING", "NAMED"] and len(hits) == 3
-    n = sum(len(THE_SOURCE.findall(l)) for l in COUNTER_FIXTURE.split("\n"))
-    ok = ok and n == COUNTER_EXPECTED
-    if n != COUNTER_EXPECTED:
-        hits = list(hits) + [(0, "COUNTER", f"declared-gap counter returned {n}, "
-                             f"expected {COUNTER_EXPECTED}", COUNTER_FIXTURE.strip()[:160])]
-    return ok, hits
+
+    inside, _ = scan_text(RESIDUE_FIXTURE, "IV-10-residue-fixture.md")
+    outside, _ = scan_text(RESIDUE_FIXTURE, "II-01-residue-fixture.md")
+    n_in = sum(1 for _, f, _, _ in inside if f == "RESIDUE")
+    n_out = sum(1 for _, f, _, _ in outside if f == "RESIDUE")
+    if n_in != RESIDUE_EXPECTED_APPARATUS:
+        ok = False
+        hits = list(hits) + [(0, "CONTROL", f"residue detector returned {n_in} inside an "
+                              f"apparatus chapter, expected {RESIDUE_EXPECTED_APPARATUS}", "")]
+    if n_out != RESIDUE_EXPECTED_ELSEWHERE:
+        ok = False
+        hits = list(hits) + [(0, "CONTROL", f"residue SCOPE returned {n_out} outside the "
+                              f"apparatus, expected {RESIDUE_EXPECTED_ELSEWHERE}", "")]
+    return ok, hits, (n_in, n_out)
 
 
 # Chapters whose apparatus drew on prior work of ours. Inside these, a bare
 # "the source" is an anonymous self-reference; everywhere else in the book it
 # overwhelmingly means somebody else's text and must not be counted.
-# TWO defects, found together, pointing OPPOSITE ways — which is why the total
-# looked plausible and was wrong at both ends. (1) `\b` holds at a hyphen, so
-# *the source-mapping screens* — an instrument of THIS book — was counted as a
-# reference to a document. (2) The pattern was case-SENSITIVE, so every
-# sentence-initial *The source* was invisible: EIGHTEEN of them, a quarter of
-# the real total, in the count this gate printed beside its own green as the
-# thing it was honest about not gating. Declared 50; it is 66.
-THE_SOURCE = re.compile(r"\bthe source(?:'s)?(?![\w-])", re.I)
-
+# ⚠ THIS TUPLE IS THE WEAKEST PART OF THE GATE, AND IT IS NAMED HERE RATHER THAN
+# LEFT TO BE DISCOVERED: it is a hand-drawn scope. A chapter that begins quarrying
+# prior work tomorrow falls outside it silently, and nothing in this file notices.
+# That is exactly why the `our source` family below is UNSCOPED — it is the form
+# that needs no judgment about which chapter it is standing in.
+# [[feedback_denylist_encodes_the_corpus_as_it_was]]
 APPARATUS = ("C-01", "C-02", "IV-09", "IV-10", "VII-06", "VII-07", "VII-08",
              "VIII-01", "VIII-02", "VIII-03", "VIII-04", "VIII-05", "VIII-06", "VIII-07")
 
+# Gated book-wide: `our source`, `our own source`, `our source's`. There is no
+# reading of this phrase in which the possessor is somebody else.
+SELF_SOURCE_ANY = re.compile(r"\bour (?:own )?sources?(?:'s|')?(?![\w-])", re.I)
+# Gated inside APPARATUS only: the bare definite form. Case-insensitive and
+# hyphen-guarded, both of which were repairs. Elsewhere in the book this phrase
+# overwhelmingly means Enoch, the Tibetan material or Mariotte.
+SELF_SOURCE_SCOPED = re.compile(r"\bthe source(?:'s)?(?![\w-])", re.I)
 
-def report_the_source():
+
+def report_scope():
     """PRINTS ON A GREEN RUN, ON PURPOSE.
 
     A gate that reports only what it gates is a gauge that can only render its good
-    news. Named pointers are gone; the ANONYMOUS body-prose form — bare *the source*
-    — is not gated, because 101 occurrences across book/ are mostly other people's texts
-    and any regex that caught the rest would be tuned until it agreed with me. So the
-    residue is COUNTED and PRINTED beside the green, where it cannot be mistaken for
-    zero. ⚠ These are not a wording problem: several passages ARGUE WITH the thing
-    they call *the source*, and a correction addressed to a document the book never
-    names is a different and weaker claim, not the same claim reworded.
+    news. The RESIDUE family is now GATED rather than counted, so this no longer
+    prints a number it declines to act on — it prints the two things a green here
+    still cannot cover, both of which are real.
     """
-    import collections
-    per = collections.Counter()
-    for f in sorted(glob.glob(os.path.join(BOOK, "*.md"))):
-        base = os.path.basename(f)
-        if not base.startswith(APPARATUS):
-            continue
-        for line in open(f, encoding="utf-8").read().split("\n"):
-            per[base] += len(THE_SOURCE.findall(line))
-    n = sum(per.values())
     print()
-    print(f"DECLARED GAP — NOT GATED, AND NOT ZERO: {n} bare \"the source\" reference(s) "
-          f"remain in body prose")
-    print(f"  across {sum(1 for v in per.values() if v)} apparatus chapter(s). Z-01 bans this form too, "
-          f"and calls it strictly")
-    print("  worse than the named one. It is left standing because removing it changes what")
-    print("  several passages CLAIM — a correction aimed at an unnamed document is weaker")
-    print("  than one aimed at a named document, and that is an editorial ruling, not a sweep.")
-    for k, v in per.most_common():
-        if v:
-            print(f"      {v:3d}  {k}")
+    print("WHAT THE GREEN DOES NOT COVER — two limits, stated because a clean run is")
+    print("  otherwise read as a stronger claim than it is:")
+    print(f"  1. SCOPE. The bare `the source` family is gated inside {len(APPARATUS)} named apparatus")
+    print("     chapters only, because everywhere else the phrase means somebody else's")
+    print("     text. The list is hand-drawn. A NEW chapter that quarries prior work is")
+    print("     outside it silently. (`our source` is gated book-wide and needs no list.)")
+    print("  2. ABSORPTION. This measures POINTING, not honesty about inheritance. A debt")
+    print("     absorbed into the prose is invisible here by construction — that is the")
+    print("     intended end state, and it means a green cannot certify the absorption")
+    print("     happened, only that nothing points.")
 
 
 def main():
     verbose = "--verbose" in sys.argv
-    ok, control = selftest()
+    ok, control, residue = selftest()
     print("POSITIVE CONTROL — synthetic text, 3 planted violations, 3 foreign corpora:")
     for n, fam, why, line in control:
         print(f"    caught  {fam:9s} L{n}  {why}")
@@ -266,7 +314,11 @@ def main():
         print(f"  [X] CONTROL FAILED — expected exactly 3 catches across 3 families, got "
               f"{len(control)}. The gate is not measuring; its verdict is withheld.")
         return 2
-    print("  [ok] 3/3 planted caught, 0/3 foreign corpora flagged. Detector is live.\n")
+    print("  [ok] 3/3 planted caught, 0/3 foreign corpora flagged.")
+    print(f"  [ok] residue control: {residue[0]}/{RESIDUE_EXPECTED_APPARATUS} caught inside an "
+          f"apparatus chapter, {residue[1]}/{RESIDUE_EXPECTED_ELSEWHERE} outside it — the two "
+          f"numbers differ, so the scope is doing work rather than passing by agreement.")
+    print("  Detector is live.\n")
 
     if "--selftest" in sys.argv:
         return 0
@@ -297,10 +349,7 @@ def main():
         print("SELF-CITATION GATE: ✅ CLEAN — 0 named or anonymous pointers to prior work "
               "of ours, across all book files.")
         print(f"  ({all_sup} suppression(s), all carrying the explicit ban marker.)")
-        print("  LIMIT: this measures POINTING, not honesty about inheritance. A debt")
-        print("  absorbed into the prose is invisible here, which is the intended end")
-        print("  state — but it means a green cannot certify that the absorption happened.")
-        report_the_source()
+        report_scope()
         return 0
 
     print(f"SELF-CITATION GATE: ◻ OPEN — {total} violation(s) across {files} file(s).")

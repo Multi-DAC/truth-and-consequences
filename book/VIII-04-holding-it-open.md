@@ -130,7 +130,7 @@ dial is not decisiveness. It is tolerance for a loss you have to watch yourself 
 
 ### IV. Both ends are real, and neither one is the good end
 
-The source is blunt about this and it is worth taking whole: **expansion is not always good;
+This has to be blunt and it is worth taking whole: **expansion is not always good;
 contraction is not always bad.**[^5] They are two navigational modes with structural consequences,
 not a virtue and a vice.
 

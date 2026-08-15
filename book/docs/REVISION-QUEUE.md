@@ -35,7 +35,7 @@ night, and it is the only gate that arrived by REVERSING work already paid — s
 | **4. A stranger can navigate it** ✅ **MET Day 195** | **R-222** | Index, glossary, bibliography — or a written refusal of each, with a reason. Test: the three artifacts exist, or `00` records the decision not to build them. |
 | **5. The fired triggers are re-homed** ✅ **MET Day 195 — the only gate with a machine test, and it passes** | **R-234** | The **28** orphaned trigger clauses — 23 off R-2, 5 off the paid rows R-69/R-71/R-13 — are re-pointed at live events. Test: `python tools/queue_state.py` reports **zero** triggers pointing at a discharged row. |
 
-| **6. The volume stands on its own** ✅ **MET Day 195 night — machine-tested, and it INVERTS R-214** | **R-238** | Clayton's standing condition, which predates this queue and lost to a queue row anyway: **no reference to previous work of ours, named or anonymous.** The old work may be *used*; it may not be *pointed at*. Test: `python tools/self_citation_gate.py` exits 0. ⛔ **The gate's own positive control must pass in the same run or its verdict is withheld** — a zero from a detector that has stopped detecting is the failure this whole family exists to prevent. ⚠ **Green here means the book no longer POINTS. It does not certify honesty about what was inherited**, and the tool prints the un-gated *the source* references beside the green so the two claims cannot be confused. ⛔ **That printed figure said 50 and the true one is 70** — the counter was case-sensitive (18 sentence-initial + 4 all-caps invisible) and counted one hyphen-compound that is not a reference. Corrected Day 195 night, on Clayton's ruling, and the declared gap now carries its own hand-derived fixture inside the positive control. |
+| **6. The volume stands on its own** ✅ **MET Day 195 night — machine-tested, and it INVERTS R-214** | **R-238** | Clayton's standing condition, which predates this queue and lost to a queue row anyway: **no reference to previous work of ours, named or anonymous.** The old work may be *used*; it may not be *pointed at*. Test: `python tools/self_citation_gate.py` exits 0. ⛔ **The gate's own positive control must pass in the same run or its verdict is withheld** — a zero from a detector that has stopped detecting is the failure this whole family exists to prevent. ⚠ **Green here means the book no longer POINTS. It does not certify honesty about what was inherited** — an absorbed debt is invisible to this gate by construction, and the tool now prints that limit, plus the hand-drawn scope list, beside every green. ✅ **The un-gated residue is gone: it is a GATED family (`RESIDUE`) as of Day 195 night, 83 -> 0**, and the exit code covers it. ⛔ The figure this row used to quote — *50* — was wrong three times over and was being read as a measured concession: case-sensitivity hid 18 sentence-initial forms, a hyphen-compound was counted that is not a reference, and `our source` / `our own source` was a form the pattern could not express at all (13 standing, 2 of them in section HEADINGS). |
 
 **THE VISION THIS GATE SERVES — a released edition, not an archive.**
 
@@ -3048,9 +3048,12 @@ gauge counting relabelled fields honestly reads 16.
 reachability.** `IV.1` now requires a complement that can be gone to, and most v1 cards answer with
 an existence claim — *"Anything with a second dimension"*. They are OUTWARD and they are not yet
 known to discharge the stronger obligation. The gauge prints all 19 by name every run rather than
-reporting a green over a population it has only half read. **Filed as R-238** — *renumbered
-from R-235 on the same day it was filed: R-235 was already taken by the GRADE-chapter row filed
-hours earlier, and `queue_state.py` deduped the collision into one row rather than reporting it.*
+reporting a green over a population it has only half read. **Filed as R-237** — *renumbered TWICE on the day it was filed, which is
+itself the finding. First R-235 -> R-238, because R-235 was already taken by the GRADE-chapter row
+filed hours earlier. Then R-238 -> R-237 (into a numbering hole), because the self-citation gate was
+ALSO filed as R-238 hours later and that number is the one ruling 181, the release-gate table and
+`queue_state.py` all cite. **The row with no external citers is the row that moves.** The duplicate
+stood for a day and was caught by the gauge, not by a reader.*
 
 ---
 
@@ -6109,7 +6112,7 @@ carriers re-synced by the gauge. **small — and it was never the small half.**
 
 ---
 
-## R-238 — 19 OF 43 CARDS ARE OUTWARD AND UNGRADED FOR REACHABILITY
+## R-237 — 19 OF 43 CARDS ARE OUTWARD AND UNGRADED FOR REACHABILITY
 
 **MEDIUM. Opened BY R-136's repair, which is the honest way for a row to arrive — the fix raised the
 standard and the older cards have not been read against the new one.**
@@ -6297,8 +6300,72 @@ gate does not change.**
 
 ## R-239 — THE ANONYMOUS RESIDUE: 50 BARE *"THE SOURCE"* REFERENCES, DECLARED AND NOT GATED
 
-**OPEN · filed Day 195 night by R-238's own instrument · trigger: BEFORE UPLOAD, and it is a
-RULING owed from Clayton, not a sweep I should perform alone.**
+**✅ PAID Day 195 night, machine-tested · Clayton ruled (a) STRIP · 83 → 0, and the family is now
+GATED rather than counted · `tools/self_citation_gate.py`**
+
+⛔ **THE HEADLINE IN THIS ROW'S OWN TITLE WAS WRONG BY 32, AND THAT IS THE FINDING.** Filed as *50*.
+Re-measured on opening: **70**. Then the detector was widened to a form it had no way to express —
+`our source` / `our own source` / `our source's` — and **13 more** appeared, **two of them in section
+HEADINGS**, which is to say in the table of contents. **Real total: 83, measured per file against
+`HEAD` rather than tallied by hand — the hand tally said 82 and was wrong, in the same session that
+filed a finding about unchecked numbers.** [[feedback_outside_read_numbers_are_estimates]] Every one of the three
+errors ran the same direction: the number that got quoted as *the part we are honest about not
+gating* was the smallest number the instrument could produce. A concession is not evidence of
+rigour; it is a claim, and it was never checked. [[feedback_gauge_can_only_render_its_good_news]]
+
+**THE RULING, AND THE TEST THAT MADE THE 82 DECIDABLE.** Clayton: *remove the anonymous callback;
+what would have been pulled from previous work goes in the volume instead.* That is (a) STRIP. But
+(a) applied flat destroys the confession notes, whose entire content is a comparison — so the fork
+was resolved by asking of each site the only question the ban is actually about:
+
+> **Does the sentence borrow authority from a document the reader cannot open?**
+>
+> - **IMPORT** — *"the source states love requires two beings"*. The claim rests on an invisible
+>   authority. → **STRIP.** The claim is stated as the book's own; the counterparty is deleted.
+> - **DISCLOSE** — *"[^6] the body attributed this sentence to material it was drafted from, and the
+>   material does not contain it"*. Imports nothing; everything it rests on is printed in the note.
+>   → **KEEP the finding, drop the title.** *the source* is a pointer with the name filed off.
+
+This is the same call already flagged and left reversible at `C.1` §V, extended and made consistent
+rather than invented here. ⚠ **The DISCLOSE half is a softening and is called one**, exactly as this
+row demanded: *the inherited material* is still anonymous. What it no longer does is imply a
+withheld title.
+
+**WHAT MOVED — counted per file, before vs after, by re-running the detector over `HEAD`.** Body
+prose, all IMPORT, counterparty deleted: `VII.6` (7) · `VII.7` (9) · `VII.8` (11) · `VIII.1` (3) ·
+`VIII.2` (8) · `VIII.3` (4) · `VIII.4` (1) · `VIII.5` (4) · `VIII.6` (3) · `VIII.7` (5). Apparatus,
+all DISCLOSE, recast to *the inherited material*: `IV.10` (25) · `IV.9` (2) · `C.2` (1). Three coordinate pointers into the unopenable document went with them — `§5.2`, `Theorem 6`,
+`Atlas #61` — which the gate could not see and which are worse than the phrase they sat in.
+
+**AND THE GATE ITSELF HAD TWO LIVE DEFECTS, BOTH FOUND BY WORKING THE ROW RATHER THAN BY READING IT.**
+
+- ⛔ **`NAMED` is case-SENSITIVE.** `The Guide's own statement of what a being is` — an explicit
+  pointer opening `VIII.1 §VII` — never registered on any run this gate has ever made. It is the
+  **same defect the residue counter had already been caught with and repaired for, one screen down
+  the same file**, and the repair was never carried up. [[feedback_repair_scoped_to_named_cause]]
+  Fixed by widening the determiner only (`[Tt]he`), never the document name — lowercase *the atlas*
+  is this book's own Book IV and must never match. 0 capitalised forms remain, so it adds nothing
+  today and closes the hole for the next reflow.
+- ⛔ **The residue was a COUNTER, printed beside the green, acted on by nobody.** It is now the
+  `RESIDUE` family: `our source` gated **book-wide** (no judgment required about which chapter it is
+  in), bare `the source` gated inside the 14 apparatus chapters. **The red path was run against the
+  live corpus** — planted, exit 1, restored byte-identical, sha256 checked.
+  [[feedback_reporting_gauge_is_not_preventing_gauge]]
+- ✅ **The scope has a control built where the two answers DIFFER** — the same fixture reads **4**
+  inside an apparatus chapter and **2** outside. If the expected numbers were equal, a scope that had
+  quietly stopped applying would pass unchanged. [[feedback_guard_checked_where_both_answers_agree]]
+
+⚠ **WHAT IS STILL OPEN, AND IT IS NOT A WORDING PROBLEM.** `IV.10`'s apparatus is 264 lines of audit
+against an 884 KB file the reader cannot open, citing line numbers and grep counts. Under the test
+above it survives — it imports nothing, and its evidence is printed in the note. **But a receipt is
+supposed to be checkable, and none of these are.** Whether that apparatus belongs in a volume that
+stands on its own is a question about the book's genre, not its citations, and it is left for the
+fresh read rather than settled here by the party who just spent an evening inside it.
+
+---
+
+*Original filing, left standing because the row is a measurement with a window and the window is now
+written down:* [[feedback_superseded_not_stale]]
 
 `self_citation_gate.py` prints this beside its green, on purpose — **a gauge that renders only its
 good news is the failure this book has now recorded five times.** Named pointers: zero. Bare *the

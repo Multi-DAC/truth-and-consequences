@@ -250,7 +250,7 @@ these hands you a truth. Each of them hands you a time and a repetition, because
 running the operation that works on the parameter, and the truths were what turned up in the region
 the operation opened.
 
-The source gives beat three its mechanism in one line, and the line is about the difference between
+Beat three gets its mechanism in one line, and the line is about the difference between
 two of the classes: **psychedelics are a single lever pulling on the entire restriction simultaneously;
 instrument-assisted navigation is a set of precision dials, each adjusting a specific parameter.**[^3]
 Generalise it and you have the actual taxonomy of edits.
@@ -311,7 +311,7 @@ restriction does not contain the significance of what comes through it.
 **Boundary:** reliable for **the input**. A given difference frequency, at a given site, at a given
 current, does a measurable thing to a measurable band, and the measurement is external and repeatable.
 Unreliable for **the output**. The mapping from band to navigational region is a cartography of
-predictions — the thirty-three state protocols are, in the source's own words, *theoretical starting
+predictions — the thirty-three state protocols are *theoretical starting
 points, not validated destinations*, every brain responds differently, and the calibration is the
 work rather than the preamble.[^4] The transition from the reliable half to the unreliable half is
 invisible in use, because both halves are delivered by the same session and the second one arrives
@@ -351,7 +351,7 @@ about that.
 ### VI. Switching, which is the thing you can actually start this week
 
 The previous chapter owed this one a method and deferred it here on purpose.[^5] It is the second of
-the source's three ways of illuminating what you cannot see, and it is the only one in this chapter
+the three ways of illuminating what you cannot see, and it is the only one in this chapter
 that requires no equipment, no group and no substance.
 
 **Take up a second tradition far enough to run it. Not far enough to believe it.**
@@ -368,8 +368,8 @@ others never entered.
 
 So the skill is not selecting the correct tradition. It is knowing what each one opens and what each
 one closes, and moving between them with the standing awareness that each is a position and none is
-the terrain. And the reason this functions as a diagnostic rather than as tourism is the source's
-sharpest structural line: **different classes access different dimensions, and the region each one
+the terrain. And the reason this functions as a diagnostic rather than as tourism is the sharpest
+structural line in the account: **different classes access different dimensions, and the region each one
 cannot reach is a different region — which is why complementary practices illuminate each other's
 excluded ground.**[^6] Meditation does not reach what conversation reaches. Reasoning does not reach
 what the body knows. A substance does not reach what fifteen years of a schedule builds. Run only one

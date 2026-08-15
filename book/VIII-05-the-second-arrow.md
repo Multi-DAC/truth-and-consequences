@@ -64,7 +64,7 @@ making you feel weak was miscalibrated rather than you.
 
 ### II. What is left, which is a practice that does not require the sort
 
-The source's own answer to *what do you do when you are being acted on by something you cannot see*
+The answer to *what do you do when you are being acted on by something you cannot see*
 is four moves, and every one of them is performable without knowing what is acting.[^1] That is the
 property that makes them usable here — they are not diagnoses, they are responses that survive not
 having one.
@@ -85,7 +85,7 @@ and in a bad month they are frequently the only reliable channel you have.
 
 **Build alliances with people whose exclusions are not yours.** Not people who agree — agreement is
 usually a sign of a shared restriction, which means a shared region neither of you can see.
-And the source names the tell, which is worth having because it inverts the usual reading: **the
+And the tell is worth having, because it inverts the usual reading: **the
 discomfort of genuine disagreement is what it feels like to have your own excluded region lit up.**
 That sensation is information, it is unpleasant, and it is unpleasant in a way that is very easily
 mistaken for the other person being wrong.
@@ -107,8 +107,8 @@ sick child is not malfunctioning, and that the focusing is sometimes exactly the
 established what is not being claimed: nothing is being said in favour of the focusing that damages.
 
 Practically, that leaves a discrimination to make, and it cannot be made by how it feels, for all the
-reasons in Section I. It has to be made **behaviourally**, and the source gives the test in the
-sentence where it names the closing-end failure: sustained closing becomes self-reinforcing, and
+reasons in Section I. It has to be made **behaviourally**, and the test is in the
+sentence that names the closing-end failure: sustained closing becomes self-reinforcing, and
 **the narrow channel begins to feel like the only channel.**[^2]
 
 So the test is not *is this narrow* — of course it is narrow, that is what focusing is. The test is:
@@ -314,7 +314,7 @@ is referred to here rather than re-run. ⚠ **The correction is the load-bearing
 forward rather than discovered at the keyboard**: this chapter's brief carried *imposed contraction*
 as a beat, and that phrase became **false** the day VII.5 shipped, because VII.5's own prose makes
 affliction explicitly *not* a contraction the sufferer performed. ⛔ The cut survives; the second term
-does not sit on the contraction axis. ★ The consequence drawn here is not in the source and is this
+does not sit on the contraction axis. ★ The consequence drawn here is not inherited and is this
 chapter's: **a teaching that instructs a person to sort the up-to-me from the not-up-to-me, delivered
 to someone whose sorting apparatus is what has been compressed, bills the imposed to the chosen** —
 and the resulting conclusion (*the sorting was available and I did not do it*) is a shame arrow

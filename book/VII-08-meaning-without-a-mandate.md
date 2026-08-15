@@ -21,7 +21,7 @@ failed attempt at exactly this — which half of what they already tried was loa
 
 ---
 
-### I. Three things that are not on offer, and the awkward fact that our own source offers all three
+### I. Three things that are not on offer, and the awkward fact that this account once offered all three
 
 Begin with the subtractions, because the reader has been promised for seven books that this account
 does not buy more than it has.
@@ -42,27 +42,28 @@ office standing empty with your name over it, and no register in which your comp
 recorded.
 
 Now the awkward part, and it is awkward enough that it should be said before the argument rather
-than buried in a note: **our own source supplies all three of those, and we are taking them back.**
+than buried in a note: **this framework's own earlier statement supplied all three of those, and we
+are taking them back.**
 
-The source's culminating section states the telos as *"to overcome the very limitations that define
-its individuality and return to a state of integrated unity with its source."* That is a summit, and
-it is the summit this book has refused since Book I, stated in our source's voice under a heading
-reading *Reintegration*.[^1] Four subsections later the same source reverses itself — *"the
-culmination is not a terminal state of static reintegration"* — and says explicitly that it is
+That earlier statement's culminating section put the telos as *to overcome the very limitations that
+define its individuality and return to a state of integrated unity with its ground.* That is a summit, and
+it is the summit this book has refused since Book I, stated in our own voice under a heading
+reading *Reintegration*.[^1] Four subsections later it reverses itself — *the
+culmination is not a terminal state of static reintegration* — and says explicitly that it is
 refining the traditional teleological account. It is. It leaves the earlier statement standing
 anyway, thesis sentence and heading both, which is how a framework ends up holding two positions and
 citing whichever one the local paragraph needs.
 
 **This costs us something worth paying, and the currency is not correctness but originality.** Our
 refusal of the summit is right, and it is less unaccompanied than this manuscript has implied,
-because the source arrived at the same conclusion by a different and weaker route: the impulse
+because the earlier account arrived at the same conclusion by a different and weaker route: the impulse
 toward differentiation is as eternal as the impulse toward unity, so the oscillation never
 terminates. That is an argument from the perpetuity of a drive. Ours is an argument from what
 being-the-case requires. Ours is stronger, and it should be described as stronger rather than as
 solitary, because a book that presents an accompanied position as a lonely one has misrepresented
 the evidence in its own favour and will be caught by the first reader who checks.
 
-And then the third subtraction, which the source does not merely fail to make but actively reverses.
+And then the third subtraction, which the earlier account does not merely fail to make but actively reverses.
 The same culminating paragraph reads:
 
 > Every finite experience, no matter how painful or contracted, possesses ultimate meaning and
@@ -115,20 +116,20 @@ tired.
 
 ---
 
-### III. The existentialist gets exactly that half wrong, and our own source's census already said so
+### III. The existentialist gets exactly that half wrong, and this book's own census already said so
 
 The tradition that told the reader to invent it is the existentialist one, and it is a great
 tradition that has been right about several things this book depends on. It was right that existence
 is not preceded by an essence, right that bad faith is the appeal to a nature one does not have, and
-right — as our source concedes in a passage that is better than the one it contradicts — that *"the
+right — as this account concedes in a passage that is better than the one it contradicts — that *the
 boundaries are generative. They create the conditions for experience, meaning, and value. Asserting
 individual existence is not delusion."*[^4]
 
 So where is the fault? Not in the freedom. In the solitude.
 
-And here is the part that ought to have been noticed years ago: **our own source's census card on
+And here is the part that ought to have been noticed years ago: **this project's own census card on
 that tradition names the fault, first in its list, and no chapter of this book has ever cited it.**
-Atlas #61 covers the existential philosophy of suffering — Kierkegaard, Heidegger, Frankl, Weil —
+That card covers the existential philosophy of suffering — Kierkegaard, Heidegger, Frankl, Weil —
 and the very first entry under its null space reads: *communal suffering (existentialism is almost
 entirely individualist — Kierkegaard's "single individual," Heidegger's Dasein, Sartre's pour-soi,
 Camus's rebel all face their crises alone; Ubuntu, intergenerational trauma, broken reciprocity are
@@ -141,8 +142,8 @@ instrument cannot render anybody else in the room. The reader did what the tradi
 got the result the tradition's own null space predicts.
 
 This is the fifth or sixth time in this manuscript that a thing the book worked out has turned out
-to be sitting in the source, unindexed, in a section nobody had reason to open. It stops being a
-coincidence at about the third. What it is evidence of is not that the source is smarter than the
+to be sitting in the earlier material, unindexed, in a section nobody had reason to open. It stops being a
+coincidence at about the third. What it is evidence of is not that the earlier material is smarter than the
 book; it is that a census of null spaces, once built, contains findings its builder did not make,
 and nobody has been reading it as a place to look things up.
 

@@ -53,8 +53,8 @@ be about.
 I want to be careful with that sentence, because it is the most dangerous one in the chapter and it
 is the exact move the reader should have been trained by now to distrust. A framework that dissolves
 a hard question rather than answering it has done one of two things: it has made a genuine advance,
-or it has changed the subject and hoped the reader would enjoy the new one. The book's own source
-does this here, and does it in the open. Theorem 6 arrives with a gloss attached:
+or it has changed the subject and hoped the reader would enjoy the new one. This book does it
+here, and does it in the open. The theorem arrives with a gloss attached:
 
 > This sidesteps the classical free will debate (libertarianism vs. compatibilism vs. hard
 > determinism) by reframing the question entirely. The issue is not whether a stream's navigation
@@ -68,7 +68,7 @@ and not merely a report about the inside. That last clause is the only asset the
 it is worth about a third of what it looks like, because the consequences named are consequences
 *for experience*. The circle is smaller than the classical one. It is still a circle.
 
-So the honest statement of the position, before any of the good news, is this: **the source declines
+So the honest statement of the position, before any of the good news, is this: **the account declines
 to answer the question it names, and the reason it can afford to is that its own axioms have removed
 the question's subject matter.** That is a legitimate move exactly once, and only if you can say what
 replaced it. If the replacement is a redescription of the feeling of choosing, dressed better, then
@@ -136,15 +136,15 @@ event and the person living it experiences the reverse.
 
 ### III. The existentialist we are using and the one we are not
 
-The source names its engine, and it names it once, and the name has not appeared in this manuscript
-before now: Sartre. The mechanism of §5.2 is declared *"deeply informed by the existentialist
-philosophy of Jean-Paul Sartre,"* specifically the concept of the **project** and the dictum that
+The engine has a name, it has been named exactly once, and it has not appeared in this manuscript
+before now: Sartre. The mechanism set out above is deeply informed by the existentialist
+philosophy of Jean-Paul Sartre — specifically the concept of the **project** and the dictum that
 **existence precedes essence** — that a person is not born with a nature and instead becomes one
 through choices, continuously, without ever arriving at a fixed thing that could be described in
 advance.[^3]
 
-The mechanism is exactly right and the attribution needs correcting, in the source's disfavour and
-in a way that makes the position stronger rather than weaker.
+The mechanism is exactly right and the attribution needs correcting — against this book's own
+interest, and in a way that makes the position stronger rather than weaker.
 
 Sartre's freedom is groundless. That is not incidental to it — it is the whole load-bearing claim of
 *Being and Nothingness*. Consciousness for Sartre is a **nothingness**, a hole in being, precisely
@@ -155,7 +155,7 @@ would make the choice for you — is **bad faith**. A Sartre handed an *entelech
 toward the expansion of perspective, is a Sartre with the floor put back under him. He spent seven
 hundred pages taking that floor out.
 
-So the source's synthesis — the *what* is inherited and teleological, the *how* is authored and
+So the synthesis just set out — the *what* is inherited and teleological, the *how* is authored and
 Sartrean — is not a reconciliation of Aristotle and Sartre.[^4] It is the use of Sartre's
 **mechanism** against Sartre's **conclusion**. We take the account of self-creation through project
 and we refuse the groundlessness that motivated it.
@@ -185,8 +185,8 @@ VII.6 as a foil — his account of love as conferring value was refused there, b
 nothing confers value that was not already there to be seen. He appears here as **support**, on a
 different work and a different argument: the hierarchical theory of freedom, in which what matters
 is not whether you could have done otherwise but whether you *want to want* what you want — whether
-your first-order desires are endorsed by your second-order ones.[^5] The source cites him at exactly
-this point, and it is the right citation, because hierarchical freedom is orientation described from
+your first-order desires are endorsed by your second-order ones.[^5] He belongs at exactly
+this point, and the citation is the right one, because hierarchical freedom is orientation described from
 the inside of a single agent at a single time. Frankfurt got to the same structure through a
 question about addiction; we get to it through a question about configuration space. **The turn from
 foil to ally in adjacent chapters is declared here so that it reads as two arguments rather than as
@@ -420,11 +420,11 @@ in an account this uniform, the one thing that varies is the thing worth studyin
 It looked like one in section I and the difference is now stateable. In a framework where being-the-
 case requires a vantage — where there is no fact about the afternoon that is not a fact for some
 inside — *phenomenologically real* is not a demotion from *really real*. It is the only grade of
-reality on offer for anything, including tables.[^8] The source's retreat to the phenomenological
-in Theorem 6 reads as a retreat because the classical debate has trained everyone to hear it as one.
-On our axioms it is a retreat to the only ground there is. That is a genuine defence of the source's
-move and it is the strongest one available, and it does not fully rescue it, because the source
-takes the retreat without giving this argument for it — it sidesteps and moves on, leaving the
+reality on offer for anything, including tables.[^8] The retreat to the phenomenological
+in the theorem reads as a retreat because the classical debate has trained everyone to hear it as one.
+On our axioms it is a retreat to the only ground there is. That is a genuine defence of the
+move and it is the strongest one available, and it does not fully rescue it, because the theorem as
+first written took the retreat without giving this argument for it — it sidesteps and moves on, leaving the
 reader to supply the ontology that makes the sidestep legitimate. **The move is right and the
 warrant was left out**, which has been the shape of a good deal of what this book has had to do.
 
@@ -465,7 +465,7 @@ and it is bounded by the fact that the expander is a boundary.** Push far enough
 is explicit that this is reachable rather than theoretical — and the null space goes to zero, and
 so does the identity that was doing the navigating. The being who could see everything would be
 everything, which is indistinguishable from nothing at all from the position of any particular
-being. The source names this the dissolution limit and states its verdict without hedging: it is
+being. This is the dissolution limit, and the verdict goes without hedging: it is
 real, it is reachable, and it is not the goal.[^10]
 
 So the shape of the thing, complete:

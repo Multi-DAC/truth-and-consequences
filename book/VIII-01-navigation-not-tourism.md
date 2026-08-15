@@ -109,7 +109,7 @@ Mutuality survives as a property of the **field** rather than of the pair. Every
 itself recognising something. The network is mutual where no two of its members are.
 
 ⚠ And one thing this book owes on the record, because it has been implying otherwise by omission.
-**The refusal of the summit is not unaccompanied.** Our own source reaches the same conclusion —
+**The refusal of the summit is not unaccompanied.** This account's own earlier statement reaches it too —
 *"the culmination is not a terminal state of static reintegration"* — four subsections after stating
 the opposite as its ultimate telos, and it leaves the earlier statement standing.[^2] Its route is
 different and weaker than ours: it argues that the impulse toward differentiation is as eternal as
@@ -278,9 +278,9 @@ of. It is the Promethean structure operating exactly as specified, at a position
 
 ---
 
-### VII. One correction to our own source, and it is the reason this chapter opens the volume
+### VII. One correction this book owes itself, and it is the reason this chapter opens the volume
 
-The Guide's own statement of what a being is has a sentence in it that the previous chapter refuted,
+The inherited statement of what a being is has a sentence in it that the previous chapter refuted,
 and it is not a peripheral sentence — it is the thesis of the section this chapter is built from.
 
 > You do not have a fixed self that then navigates. Your navigation IS your self. The trajectory you
@@ -324,7 +324,7 @@ the theorem guaranteeing you cannot see them also tells you exactly what to do a
 
 [^1]: C15, **amended Day 191**, and this chapter is one of the places it is established — *the only
 place Part Two states a telos*, which is why the amended form appears here in full rather than by
-reference. The amendment arrived from VII.6, where the source's definition of love was found to fail
+reference. The amendment arrived from VII.6, where the symmetric definition of love was found to fail
 on the parent and the infant and was repaired with *sign, not symmetry*; C15's canonical carried the
 same reciprocal construction and was killed by the same case. The sibling sweep across all thirty
 canonicals found C15 to be the only inheritor. ⚠ What the plural *each other* was also guarding —

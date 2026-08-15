@@ -32,7 +32,7 @@ absence, not blankness, but the perceptual state in which the boundaries you hav
 relax and what shows up is the field rather than the figures in it. This is the mode in which nothing
 happens and something is nevertheless the case.
 
-The source's gloss is the best short one available and it is worth having exactly: *being is the
+The gloss is the best short one available and it is worth having exactly: *being is the
 inhale, doing is the exhale, and consciousness is the breathing itself.*[^2]
 
 Take the metaphor seriously enough to notice what it rules out. **You cannot inhale as a lifestyle.**
@@ -77,7 +77,7 @@ That is VII.4's, and the whole of the present difficulty is that the oscillation
 than expressed as part of it — and the two are not merely different, they are on different axes
 entirely.
 
-Import the source's word into this book's vocabulary and the fence falls over from the other side. Write
+Import that word into this book's vocabulary and the fence falls over from the other side. Write
 *radiance and contraction* as the two phases of the fundamental rhythm and the last chapter of this book
 instructs the reader to **oscillate between the good direction and the adversary's.** As a life
 practice. Alternating.
@@ -86,9 +86,9 @@ That sentence is not a rhetorical flourish; it is what the words mean here, and 
 chapters after they were defined.
 
 The defect has a name and a history in this account: one word, two referents. It is worth noting that
-it did not arrive here through carelessness. **It arrived by quotation.** The source's word is innocent
-*in the source*, which has no ethical polarity for it to collide with, and which uses *contracted* in at
-least three unrelated senses across its own closing chapters. Borrowing a term is borrowing whatever
+it did not arrive here through carelessness. **It arrived by quotation.** The word is innocent
+where it was carried in from — a vocabulary with no ethical polarity for it to collide with, which used
+*contracted* in at least three unrelated senses across its own closing pages. Borrowing a term is borrowing whatever
 else it is attached to at the other end, and the other end is not visible from here.
 
 So the pair is struck. What replaces it is not a synonym.
@@ -272,7 +272,7 @@ because *do, then be, then do* on its own is a fortune cookie, and it stops bein
 know what is doing the oscillating, what the boundaries are made of, why there is nobody above the game
 to be doing this for, and what the other players are.
 
-The source's own last image is the right one to end on, and it is taken alone, severed from the
+The last image is the right one to end on, and it is taken alone, severed from the
 paragraphs around it, which this account has refused elsewhere and does not get to quietly re-adopt at
 the close.[^4] The image survives the severance intact:
 

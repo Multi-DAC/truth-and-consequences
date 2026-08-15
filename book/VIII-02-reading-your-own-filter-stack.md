@@ -170,17 +170,17 @@ a darkness. **It does not arrive.** The picture is complete-looking from inside 
 the picture is a picture.[^3]
 
 And now the practical consequence, which the theorem states and almost nobody draws: **your null
-space is patterned.** The source is emphatic about this and it is the sentence that turns a
-metaphysical result into a method — *"your blind spots are patterned. They are predictable. They can
-be mapped, even though they cannot be directly observed."* The restriction has a shape, the shape is
+space is patterned.** This book is emphatic about it, because it is the sentence that turns a
+metaphysical result into a method: *your blind spots are patterned. They are predictable. They can
+be mapped, even though they cannot be directly observed.* The restriction has a shape, the shape is
 stable, and a stable shape has consequences that recur. **Recurrence is detectable from inside.** That
 is the opening, and it is the only one.
 
 ---
 
-### IV. What you can do instead — and the source's method is broken
+### IV. What you can do instead — and where the standard method breaks
 
-Our source gives three methods for illuminating the null space. Two of them have already been spent
+There are three methods for illuminating the null space. Two of them have already been spent
 in this book and the third does not work as written.
 
 **Method 1 — complementary perspectives.** Get a being whose restriction differs from yours to tell
@@ -209,7 +209,7 @@ incorrectly. And the failure is not benign, because the method returns output re
 your perceptions end, you will produce a boundary, it will be the edge of the well-lit region, and it
 will feel like a finding.
 
-So here is the repair, and it is this chapter's contribution rather than its source's.
+So here is the repair, and it is this chapter's contribution rather than an inheritance.
 
 > **What is visible from inside is not the boundary. It is the residual.**
 >
@@ -224,13 +224,13 @@ the reason unseen things are discoverable at all. You do not see the dark thing.
 arithmetic about the visible things keeps coming out wrong, in the same direction, by an amount that
 does not shrink when you check the arithmetic.
 
-And it is already in our source, filed one section early and under the wrong heading. **§5.2's four
-symptoms of null-space influence are four residuals**, described as symptoms and therefore as things
+And it was already here, filed one section early and under the wrong heading. **The four
+symptoms of null-space influence given above are four residuals**, described as symptoms and therefore as things
 that happen to you rather than as things you compute. *Persistent patterns without apparent cause* is
 a residual — you have a model of why things happen and this keeps happening anyway. *Emotional
 responses disproportionate to visible triggers* is a residual, and the word *disproportionate* is
-doing the subtraction. **The source has the instrument. It has it in the symptoms chapter, one
-subsection before it says the methods are three, and it is not among them.**
+doing the subtraction. **The instrument was already here. It sits in the symptoms above, one
+subsection before the methods are counted at three, and it is not among them.**
 
 ---
 
@@ -265,7 +265,7 @@ apparatus, and it will have moved. The written line is the only part of the oper
 inside the frame under audit.
 
 **And the errors accumulate into a shape.** One wrong prediction is noise. Forty are a pattern, and
-the pattern is the silhouette the source wanted and could not get at directly — not the edge of your
+the pattern is the silhouette the method wanted and could not get at directly — not the edge of your
 perception, which you cannot find, but **the standing bias of your model, which you can measure.**
 Where are you consistently wrong, in which direction, about what kind of thing? *I systematically
 overestimate how much other people are thinking about the thing I said.* *I systematically expect
@@ -373,7 +373,7 @@ must be allowed to report.
 
 Four layers, installed by four different parties, invisible in four different ways. One instrument
 disqualified for the job it is most often used for, and kept for the job it is unmatched at. One
-method from our source repaired: not the silhouette, which cannot be seen, but the residual, which
+inherited method repaired: not the silhouette, which cannot be seen, but the residual, which
 can be computed. One practice, cheap and slow and solitary, whose entire content is *write down what
 you expect, with the date, before.* And one hard bound on all of it, held by a man who found Neptune
 and then found nothing at all, twice as carefully.
@@ -428,7 +428,7 @@ fails is one image and the operation it licenses. ★ And the finding runs in th
 the residual instrument this chapter substitutes was **already among the symptoms**, one step earlier,
 described as symptoms rather than as a method, so the correction is a promotion rather than an import.
 **Fifth instance of a pattern this manuscript has now recorded five times: the thing the book worked
-out from first principles was already in the source, in a section filed under a heading that gave
+out from first principles was already in the material this book was quarried from, filed under a heading that gave
 nobody a reason to open it.**
 
 [^5]: Le Verrier's Neptune prediction was published in August 1846 and Galle's confirmation from

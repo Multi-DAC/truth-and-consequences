@@ -397,7 +397,7 @@ a sentence, the last two paragraphs fall.
 
 **Where the inherited apparatus cannot decide, and it is legible in its own numbers.**
 
-One more finding, and it is the sort that is only available to somebody using the source rather than
+One more finding, and it is the sort that is only available to somebody using the material rather than
 admiring it.
 
 The material this census inherits scores every entity across a set of dimensions on a five-point
@@ -490,7 +490,7 @@ supplies is the valley and the whirlpool, which are the honest content and are a
 half-knows this — *"the word for the strong version of this is an attractor"* — but naming a
 borrowing is not the same as paying for it, and the sentence that follows (*"Nothing in a valley
 wants you at the bottom"*) is doing real work that the technical term is not. This is the same defect
-class the chapter catches in its source at the end: **a notation imported for its precision, applied
+class the chapter catches in the inherited material at the end: **a notation imported for its precision, applied
 where its preconditions are absent, returning a confident word instead of an error.**
 
 [^3]: **Verified against the primary text, and the chapter's locational hedges are all exact.**
@@ -646,7 +646,7 @@ the thing to keep, and it is now unmistakable.** [^5] understates the chapter's 
 [^6] and [^12] both sit in passages whose posture is *"I am being rigorous, including about myself."*
 None of the three flatters anything. The discipline this book has built catches errors that serve the
 argument, because that discipline is looking for **motive** — and there is no motive in any of these.
-What catches them is the same thing every time and only that thing: **opening the source and
+What catches them is the same thing every time and only that thing: **opening the material and
 counting.** [^6] is the sharpest single line in the pass: the chapter wrote down the exact condition
 under which its central move would be illegitimate, then asserted the condition was met without
 checking a register that sits two files away and says otherwise by omission — with the one entry that

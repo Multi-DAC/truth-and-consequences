@@ -170,7 +170,7 @@ from which Book IV takes its skeleton — leaned on throughout Books VII and VII
 No inside reader had flagged it in eight volumes; an outsider read the whole thing cold and noticed
 that a book which spends forty words crediting Lewis had said nothing at all about what it had
 inherited from itself. ⚠ **The repair was made twice, in opposite directions, and the second one
-stands.** The first named the source in full, which is what the finding literally asked for and what
+stands.** The first named it in full, which is what the finding literally asked for and what
 this volume's own standard forbids; `C.1` §V now states the dependency and its cost without the
 citation. A finding can be right about the defect and wrong about the remedy, and this one was.
 
