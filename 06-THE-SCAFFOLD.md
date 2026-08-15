@@ -75,7 +75,7 @@ the structural model is already in the corpus).
    focus, because there is nowhere else a telling can occur. **This is what licenses every "then"
    in the next five chapters.** (Trap 2.)
 
-### I.2 — THE NECESSITY ✅ DRAFTED — 1,155 words
+### I.2 — THE NECESSITY ✅ DRAFTED — 1,761 words
 **Thesis:** separation is an item in the inventory of everything, not a defect in it.
 **Beats:**
 1. Completeness *contains* the possibility of separation — therefore it is realised. Nobody chose it.
