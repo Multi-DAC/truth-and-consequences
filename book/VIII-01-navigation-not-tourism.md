@@ -109,7 +109,7 @@ Mutuality survives as a property of the **field** rather than of the pair. Every
 itself recognising something. The network is mutual where no two of its members are.
 
 ⚠ And one thing this book owes on the record, because it has been implying otherwise by omission.
-**The refusal of the summit is not unaccompanied.** This account's own earlier statement reaches it too —
+**The refusal of the summit is not unaccompanied.** The material this book was quarried from reaches it too —
 *"the culmination is not a terminal state of static reintegration"* — four subsections after stating
 the opposite as its ultimate telos, and it leaves the earlier statement standing.[^2] Its route is
 different and weaker than ours: it argues that the impulse toward differentiation is as eternal as

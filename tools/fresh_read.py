@@ -84,13 +84,37 @@ def chapters_on_disk():
 
 def toc_from_pdf(path=PDF):
     """(id, title, start_page) parsed out of the compiled PDF's own contents pages."""
-    try:
-        import pypdf
-    except ImportError:
-        return None, "pypdf not installed — the map cannot be built from the PDF"
+    # ⛔ THE EXTRACTOR IS PART OF THE INSTRUMENT AND THE FIRST CHOICE WAS WRONG.
+    # This began on pypdf, which cannot apply the custom `/WP-Encod-0` CMap the
+    # compiled book uses for its SERIF faces — i.e. for every word of body prose.
+    # It returns two-byte CIDs split into Latin-1 pairs: *offered* comes back as
+    # `o)ò e r e d`, letter-spaced, with apostrophes as `Æ`. It looked at first like
+    # a defect in the BOOK — a volume whose text a reader cannot copy or search —
+    # and it was checked before being filed: every font carries a ToUnicode map, and
+    # PyMuPDF returns the same page perfectly. **The book is fine; the instrument was
+    # broken.** A finding produced by a tool is a claim about the tool until a second
+    # tool agrees. [[feedback_test_the_alibi_it_has_a_boundary]]
+    #
+    # ⚠ And the reason this had to be fixed rather than noted: pypdf parsed the TOC
+    # correctly, because the contents page has no ligatures and no curly quotes. The
+    # map verified 71/71 in both directions on a reader that cannot read the book.
+    # A component that passes on the easy page and fails on every other one is the
+    # worst kind, because its first output is a green.
     if not os.path.exists(path):
         return None, f"no compiled PDF at {path} — recompile before reading"
-    reader = pypdf.PdfReader(path)
+    try:
+        import fitz
+        reader = [p for p in fitz.open(path)]
+        get_text = lambda p: p.get_text()
+    except ImportError:
+        try:
+            import pypdf
+            reader = pypdf.PdfReader(path).pages
+            get_text = lambda p: p.extract_text() or ""
+            print("  ⚠ PyMuPDF absent — falling back to pypdf, which CANNOT read this")
+            print("    book's serif body text. The TOC will parse; do not read prose with it.")
+        except ImportError:
+            return None, "neither PyMuPDF nor pypdf installed — no map can be built"
     entries, seen = [], set()
     # The contents run in the front matter; stop once the body starts. Bounded rather
     # than whole-document because a chapter TITLE also appears at its own opening page,
@@ -103,9 +127,9 @@ def toc_from_pdf(path=PDF):
     # a reader, that caught it: coverage was refused rather than reported at 62/69,
     # which is the whole reason the control checks both directions before printing a
     # number. Lines are now joined until a page number closes the entry.
-    for page in reader.pages[:12]:
+    for page in reader[:12]:
         buf = ""
-        for line in (page.extract_text() or "").split("\n"):
+        for line in get_text(page).split("\n"):
             line = line.replace("\xa0", " ").rstrip()
             buf = (buf + " " + line).strip() if buf else line
             m = TOC_LINE.match(buf)

@@ -21,7 +21,7 @@ failed attempt at exactly this — which half of what they already tried was loa
 
 ---
 
-### I. Three things that are not on offer, and the awkward fact that this account once offered all three
+### I. Three things that are not on offer, and the awkward fact that this book's own inheritance offered all three
 
 Begin with the subtractions, because the reader has been promised for seven books that this account
 does not buy more than it has.
@@ -42,10 +42,10 @@ office standing empty with your name over it, and no register in which your comp
 recorded.
 
 Now the awkward part, and it is awkward enough that it should be said before the argument rather
-than buried in a note: **this framework's own earlier statement supplied all three of those, and we
-are taking them back.**
+than buried in a note: **the material this book was quarried from supplied all three of those, and
+we are taking them back.**
 
-That earlier statement's culminating section put the telos as *to overcome the very limitations that
+Its culminating section put the telos as *to overcome the very limitations that
 define its individuality and return to a state of integrated unity with its ground.* That is a summit, and
 it is the summit this book has refused since Book I, stated in our own voice under a heading
 reading *Reintegration*.[^1] Four subsections later it reverses itself — *the
@@ -142,8 +142,8 @@ instrument cannot render anybody else in the room. The reader did what the tradi
 got the result the tradition's own null space predicts.
 
 This is the fifth or sixth time in this manuscript that a thing the book worked out has turned out
-to be sitting in the earlier material, unindexed, in a section nobody had reason to open. It stops being a
-coincidence at about the third. What it is evidence of is not that the earlier material is smarter than the
+to be sitting in the inherited material, unindexed, in a section nobody had reason to open. It stops being a
+coincidence at about the third. What it is evidence of is not that the inherited material is smarter than the
 book; it is that a census of null spaces, once built, contains findings its builder did not make,
 and nobody has been reading it as a place to look things up.
 

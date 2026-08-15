@@ -102,5 +102,42 @@ a read does not find them, that is a finding about them. [[feedback_briefing_man
 New numbering on purpose: `R2-` cannot collide with the retired `R-nnn`, so a row number in a commit
 message, a docstring or a chapter note is unambiguous about which queue it belongs to, forever.
 
-**Nothing filed yet. 0 of 71 chapters read.** The first finding and the coverage number are read
-together or neither means anything.
+**0 of 71 chapters read.** The first finding and the coverage number are read together or neither
+means anything.
+
+---
+
+### R2-001 — THE ABSORPTION SWAPPED AN EXTERNAL POINTER FOR AN IMPLIED **INTERNAL** ONE ✅ FIXED
+
+**Found by the first fresh read, four hours after the defect was introduced, by the party who
+introduced it. Filed anyway and in full, because a defect caught by its author is still a defect and
+the interesting thing here is the mechanism.**
+
+R-239 absorbed 83 anonymous references. At two sites the absorption removed the citation and **kept
+the grammar of citation**, replacing *the source* with **`this framework's own earlier statement`**
+and **`this account's own earlier statement`**. Read cold at `VII.8` p.885, that sentence says the
+reader is being told about an earlier passage of **this book** — and it comes with coordinates:
+*"Its culminating section"*, *"Four subsections later"*, *"under a heading reading Reintegration"*.
+There is no such section. **A reader who goes looking finds nothing, which is strictly worse than
+the pointer it replaced**: the old form at least implied an outside document.
+
+⛔ **THE MECHANISM IS THE PART WORTH KEEPING.** *this account's own* is a possessive that asserts the
+referent is INSIDE. The repair was aimed at the noun (*source*) and never checked the determiner,
+so it removed the thing that pointed outward and left the thing that points inward. Repairing the
+named cause is not the same as repairing the sentence. [[feedback_repair_scoped_to_named_cause]]
+
+✅ **AND THE CORRECTION RUNS AGAINST MY OWN TALLY, WHICH IS WHY IT IS WORTH WRITING DOWN.** The first
+read of the grep suggested the recast vocabulary was a coinage introduced last night across a dozen
+chapters. It is not. **`the inherited material` was already this book's established idiom** — `IV.7`
+(2), `IV.8` (4), `IV.9`, `IV.10` and `VI.8` all carry it in prose written well before D195, and none
+of those files were touched by the sweep. So the DISCLOSE recast matched the volume's register
+instead of inventing one, and the defect is **two sites, not a class**.
+
+**Repaired in the same pass, to the idiom already in the book:** `VII.8` §I (×2 plus two
+*earlier material* → *inherited material* for consistency) and `VIII.1` §the-summit. Gate 6 re-run,
+exit 0.
+
+⚠ **`VII.8` IS NOT MARKED READ AND THAT IS DELIBERATE.** The read covered the body through §II and
+did not cover §III onward or the endnotes. Marking it read would put a green on the coverage gauge
+for a pass that did not happen, on the gauge's first use, which is the exact failure the gauge was
+built to prevent. **Coverage stays 0/71.**

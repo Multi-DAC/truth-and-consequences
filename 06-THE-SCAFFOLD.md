@@ -4191,7 +4191,7 @@ that is the honest state of it.** ⚠ Also noted while filing: **R-114 was never
 a collision; recorded rather than silently reused, because reusing it would make two findings share a
 number and neither would be findable by it.
 
-### VIII.1 — NAVIGATION, NOT TOURISM ✅ DRAFTED — 3,992 words
+### VIII.1 — NAVIGATION, NOT TOURISM ✅ DRAFTED — 3,994 words
 ★ **This chapter's title has been waiting for its content since the scaffold was written, and `01` §10
 just supplied it.** *Exploration is the point* — but exploration alone **is** tourism, which is what the
 title already named as the failure without yet knowing what the alternative was. The missing half is
