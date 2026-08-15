@@ -1,5 +1,41 @@
 # SCAN-005 — Master Revision Queue v2.0: coverage measurement
 
+> ## ⛔ CORRECTION — Day 196, later the same day. §1 and the Disposition are WRONG.
+>
+> Clayton supplied the fact this scan lacked: **Fable and Gemini Spark read the entire
+> volume from the PDF — every book, both codas.** Re-measured all 146 items instead of the
+> 4 sampled, bucketed by locus and by block:
+>
+> | book | 001–076 (Fable's synthesis of Gemini's first pass) | 077–146 (Gemini's completion) | ⛔ in book |
+> |---|---|---|---|
+> | I | 0 | 0 | 0 |
+> | II | 5 | 1 | 0 |
+> | III | 3 | 1 | 0 |
+> | IV | 11 | 10 | 27 |
+> | V | 13 | 49 | 87 |
+> | VI | 10 | 0 | 0 |
+> | VII | 18 | 2 | 0 |
+> | VIII | 12 | 3 | 21 |
+> | C | 1 | 1 | 3 |
+>
+> **The ⛔-mirror finding is true of block 2 only** — 59 of its 70 items land in the two
+> ⛔-heavy books. **Block 1 spans the whole volume, including 38 items in II/III/VI/VII
+> where the book carries no stop-marks at all.** Items 026 (Wernicke 1874 as anatomical
+> landmark, VI.2), 027 (Eisenstein vs Adrian Johns on print fixity, VI.4), 030 (Nagel
+> dual-citation, II.3/VII.3), 035 (Parfit *Reasons and Persons* Part III anchor, VII.9) are
+> outside-source checks the book's own register could not have generated — 026 targets a
+> ⚠ receipt, not a ⛔. **The outside aperture is real and it was spent.**
+>
+> **My error was the sample.** All four items I checked came from Sections 7–8 — i.e. all
+> four from block 2, the one block that *is* a ⛔ extraction — and I generalised to the file.
+> A sample drawn entirely from where the two hypotheses agree. §3's numbers stand as a fact
+> about the *book's own* ⛔ register: 235 endnotes in II/III/VI/VII carry 1 stop-mark between
+> them, and that register is still the audited half. But "ask them what the book cannot tell
+> them" was already answered before I asked it.
+>
+> **Also superseded: the release framing.** The volume was released 2026-08-15 ~13:36 local
+> (public repo + PhilPapers record). This is an errata register for v1.1, not a gate.
+
 **Day 196 / 2026-08-15.** Subject: `Master Revision Queue.txt` (146 items, synthesized
 15 Aug 2026 by Fable + Gemini Spark from a full-volume read), delivered by Clayton.
 Question asked: not "are the items right" but **"what surface does this queue cover, and
