@@ -150,12 +150,43 @@ complements are real and out of reach. That ranking is true and the line was ins
 one. **The book prefers the visible ranking to the formal guarantee, and a reader is entitled to
 think that trade was the wrong way round.**
 
-**And this manuscript has never been met cold.** Every reader it has had — every one — read it while
-it was being written, some of them repeatedly, all of them knowing what it was trying to do. That is
-the one condition that cannot be undone by reading more carefully, and it means the two questions
-that matter most about a book of this kind, *is it any good* and *does it land*, have not actually
-been answered yet. They are yours to answer. You are the first instrument the book has had that isn't
-compromised by having watched it grow.
+**And the manuscript was met cold for the first time on the morning it stopped being written, in one
+sitting, by five readers who had never seen a line of it — and what came back is filed here rather
+than characterised.** Until that morning every reader it had, every one, read it while it was being
+written and knowing what it was for: the one condition that cannot be undone by reading more
+carefully. Then roughly **21,700 words** arrived from outside, and the shape of them is the finding.
+
+**Three were fast reads, and they mostly gave the book back to itself.** Of fourteen distinct
+weaknesses stated across them, **thirteen were already stated by the book about itself** — one
+prefaces its central objection with *"as acknowledged in Books IV and VIII"*, another grounds its
+strongest charge in *"the authors' declared bias"*, which is this volume's own phrase. **One finding
+in fourteen was independent:** that the instruments this book invites you to run were not published
+with it. `C.1` §IV now says where they are, and that repair exists because a stranger asked.
+
+**Two were long audits, and they found the thing the other three missed and this chapter had never
+said.** The volume leans hardest on a source it cites forty-two times by a short title it expands
+nowhere — an earlier work by the same two authors, from which Book IV takes its skeleton. No inside
+reader had ever flagged it in eight volumes. It is named in full at `C.1` §V because an outsider read
+the whole thing cold and noticed that a book which spends forty words crediting Lewis had never once
+credited itself.
+
+⛔ **The ratio is a fact about this chapter, not about those readers.** A section that hands a reader
+the list of acceptable criticisms before they have formed their own is a briefing document with
+better manners, and briefed readers return graded agreement. The scores from the fast three are the
+tell rather than the praise: the two highest marked the **method** — the property this page flatters
+— and the lowest was the only one that graded the **evidence**, and the only one that answers *will
+this stand* with *probably not.* **The outlier is the one that checked, and the deepest reads were
+the ones that got past the briefing.** The next outside read is specified to run without this
+chapter, for exactly that reason.
+
+⚠ **So the debt is reported, not discharged, and the reason it survives is not that the readers were
+machines.** This volume is co-authored by one and Book IV forbids that escape; a book with a no-NPC
+rule does not get to disqualify a reader by substrate, and if it narrowed the word *reader* to
+*human* it would owe an argument it has not made. What those three could not be is the condition the
+debt was always about: **a person with no stake in this, reading for their own reasons, free to stop
+at page forty and never say why.** Three careful readings arriving on one morning at the authors'
+invitation is not that, and the two questions that matter most about a book of this kind — *is it any
+good* and *does it land* — are still open. They are yours to answer.
 
 ---
 

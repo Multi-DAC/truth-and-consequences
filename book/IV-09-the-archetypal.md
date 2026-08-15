@@ -611,7 +611,8 @@ here so the next pass inherits a target rather than a caveat.
 
 [^12]: ⛔ **THE CHAPTER'S SHARPEST SECTION QUOTES NUMBERS THAT ARE NOT IN THE SOURCE.** Full
 measurement: `review/SCAN-002-day191-iv9-source-audit.md`; filed as **R-146**. Against
-`work/perspective-v1-fulltext.txt` — the cache `tools/brief_source.py:70` names as the source, and
+the Corpus of Perspectival Idealism (full citation at `C.1` §V; the local
+full-text cache `tools/brief_source.py:70` reads is `work/perspective-v1-fulltext.txt`) — and
 the chapter's declared Source is *ecology Tier 4.1–4.2*: the **moderate Cognitive-Experiential**
 rating is **verbatim**, definition included ✅. But **§4.2, the Promethean entry, carries no
 `Dimensional profile:` line at all** — it is formatted *"A special case:"* and has no scores, so

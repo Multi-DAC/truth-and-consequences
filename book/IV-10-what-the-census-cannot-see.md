@@ -467,7 +467,8 @@ apart.
 ---
 
 [^1]: **Tier 1.4 verified against the source, and the chapter is *less* specific than the material it
-is indicting.** `work/perspective-v1-fulltext.txt` L2409-2447, *1.4 Non-Human Intelligences
+is indicting.** The Corpus of Perspectival Idealism (cited in full at `C.1` §V), local full text
+L2409-2447, *1.4 Non-Human Intelligences
 (Physically Manifest)*. Every element the chapter reports is there: the three interpretive frames —
 *Visitors*, *Interdimensional travelers*, *Temporal navigators* — the refusal to choose (*"the
 framework does not require choosing one interpretation"*), the dual-frame problem set out at length,

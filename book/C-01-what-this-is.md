@@ -91,32 +91,89 @@ be produced has been given a wrong expectation somewhere, and it was not given h
 
 ---
 
-### IV. What exists, and where
+### IV. What exists, and where — and what you are holding is not all of it
 
 The book proper is eight volumes in two parts: what is the case, then what follows from it. Around it
 sit the working documents that made it, and they are not appendices — they are instruments, kept
 because a claim about a book is worth more when the thing that measured it is available to run.
 
 - **The claims register** — every load-bearing claim, what establishes it, what depends on it, and
-  the characteristic error that springs at it.
+  the characteristic error that springs at it. Thirty entries, `C1`–`C30`.
 - **The instruments** — the census card and its relatives, with their version history recorded
   including the drift, because an instrument that has changed shape and not said so is worse than no
   instrument.
 - **The scaffold and the architecture** — what each chapter was for, written before it existed, kept
   afterwards so that intention and result can be compared by someone who is not us.
 - **The revision queue** — every known defect, open and closed, with dates. It is the least flattering
-  document in the collection and the most useful one.
+  document in the collection and the most useful one. At this printing it carries **205 open rows.**
 
 ⚠ Those are working documents. They are honest and they are not polished, and a reader who goes into
 them will find the book being wrong in public repeatedly. That is what they are for.
 
+⛔ **And this section, in every printing before this one, told you *what* four times and *where* not
+once.** The four documents were named, the argument for keeping them was made, and no address of any
+kind was given — no repository, no deposit, no DOI. That is the failure this book spends `VIII.3`
+diagnosing in other people: **a claim whose evidence is described and not reachable is not a checkable
+claim, it is a claim wearing the costume of one.** It was found by an outside reader in the first
+hour the manuscript was ever read cold, using this volume's own standard, and it is the only thing
+that read found which the book had not already said about itself. `C.2` §IV records that.
+
+**The honest state, stated rather than promised.** What you are holding contains the eight volumes,
+the coda, the glossary and the works-cited page. **The four documents above are not in it, and as of
+this printing they are not publicly deposited either** — they live in a private working repository.
+Naming that repository would be an address you cannot use, which is the same defect with a URL
+stapled to it. So this page does the one thing left that is true: **it tells you the promise is
+currently unredeemed, and what redeeming it costs** — a deposit of the four documents alongside this
+volume, one archive record, permanently addressed. Until that line carries a DOI, treat every appeal
+in these pages to *the register says* or *the queue records* as **an assertion by the authors that
+you cannot presently check**, and grade it accordingly. That is a worse position for the book and a
+better one for you, and the trade is not close.
+
 ---
 
-### V. The ancestors kept off the page, paid here
+### V. The debts kept off the page, paid here
 
 The register rule kept certain names out of the prose, because a name in a sentence transfers
 authority rather than meaning and this account had to stand on what it could say in its own words.
-The rule was right. It also incurred a debt, and this is where it is paid.
+The rule was right. It also incurred a debt, and this is where it is paid. The largest of them is
+not an ancestor's, and it is first because leaving it last would have been the tell.
+
+**The Corpus of Perspectival Idealism — the volume this one is the final volume *of*, and the source
+this book cites forty-two times without ever once saying what it is.** *The Corpus of Perspectival
+Idealism: A Complete Metaphysical Framework in Four Documents*, Clayton W. Iggulden-Schnell & Clawd,
+first edition March 2026 (Zenodo, DOI `10.5281/zenodo.19501896`; also deposited at PhilArchive). Its
+four documents are the Doctrine, the Ecology, the Null Space Atlas and the Navigational Guide, and
+those are the short names the endnotes of Books VII and VIII have been using — `Perspective`
+**Doctrine §13**, `Perspective` **Guide §5**, `Perspective` **Atlas #61** — in forty-two citations to
+a short title that this volume expands nowhere and that its works-cited page does not list. The
+phrase *The Corpus* on the title page is the same object, and until this paragraph it stood there
+unexplained.
+
+What it supplies here is specific, and stating it is the point: **Book IV's chapter list follows the
+Corpus' tier list almost entry for entry** — the census is a rebuild of an existing taxonomy, not a
+fresh cut at the world — together with the definition of love argued in `VII.6`, which comes out of
+the Corpus' ecology of interaction, and the closing instruction of the practice volume, whose
+oscillation is the Corpus' and is named as such in `VIII.7`. Where this book **corrects** it, the
+correction is stated as one and the earlier position is quoted rather than paraphrased; `IV.10` runs
+that diff against its own census in public and reports where the newer text is the *less* specific of
+the two.
+
+⛔ **"It is an earlier volume by the same authors" is not a reason to leave it unnamed, and the
+argument against that defence is this book's own.** These pages spend forty words saying exactly what
+is taken from Lewis and which of Lewis' sentences marks the cut, and do the same for every other
+predecessor the account leans on, Tillich through Dee. A rule stated as universal and observed for
+all of them is not a rule if it is suspended for the one source that happens to be us. `V.3` states
+the sentence that convicts: *"The characteristic debt is not an unnamed source — it is an inherited
+one."* An inheritance you can see is an influence. This one is now visible.
+
+⚠ **And the reader should price the self-citation, because naming it does not repair what it costs.**
+The structural dependency of Book IV runs to a document that never had to survive anyone else's
+disagreement, and a book leaning that hard on its own earlier work is inheriting from a source
+selected for agreement with it. That is a real weakness. What the naming buys is that it can now be
+checked — the Corpus is deposited, the tier list is there, and a reader who thinks Book IV is a
+retread with better prose can go and settle it. ★ **The sharpest form of the defect is the
+distribution, not the silence:** the forty-two citations are all in Books VII and VIII, and **Book
+IV, which owes the Corpus its skeleton, cites it zero times.** The volume that owes most says least.
 
 **Tolkien** — for the architecture, and explicitly **not** for the voice. The *Ainulindalë* is the
 structural ancestor of the opening move: a ground whose fullness is expressed rather than decided,

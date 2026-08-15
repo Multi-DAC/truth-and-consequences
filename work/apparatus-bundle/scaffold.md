@@ -1472,7 +1472,7 @@ detect. ⚠ **Beat 3 scored 0.78, MISS `ecology, off` — RULING 108 FIRING AGAI
 it: those words are drafter-register, the beat's third term (*Perspective*) is banned by `05` §3a, and
 this file still writes in two voices and marks neither. **The owed repair is this file's.**
 
-### IV.9 — THE ARCHETYPAL ✅ DRAFTED — 7,807 words
+### IV.9 — THE ARCHETYPAL ✅ DRAFTED — 7,796 words
 **Beats:** archetypes as **shared attractors in the landscape**, explicitly not as genetic inheritance
 «(the out-list holds)» · the Promethean archetype, which is this book's own engine seen from outside ·
 Jung named, with his bifurcation «used explicitly rather than smoothed».
@@ -1562,7 +1562,7 @@ flatness flag is now two chapters clear.** `meta_textual` **2.46**, the Book IV 
 the Book IV low. `vague_allusion` **0.0**. `named_ref` **17.59/1k**, the Book IV high, which is what a
 chapter that reads two primary texts in two languages should look like.
 
-### IV.10 — WHAT THE CENSUS CANNOT SEE ✅ DRAFTED — 9,087 words
+### IV.10 — WHAT THE CENSUS CANNOT SEE ✅ DRAFTED — 9,078 words
 **Beats:** the atlas's own null space, traced as far as an atlas can trace its own blindness · the
 cryptids and boundary entities, and why they are a *methodological* chapter «rather than a credulous one» ·
 why the catalogue is permanently open · «the handoff to the CODA's» living-book claim.
