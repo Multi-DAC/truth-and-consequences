@@ -1,0 +1,200 @@
+{
+  "_comment": "SOURCE OF TRUTH for intended edits. EDIT-MANIFEST.md is rendered FROM this file. Anchors are re-resolved against the markdown on every run of tools/edit_manifest.py; a filed edit whose sentence has moved fails loudly rather than being patched from memory at implementation time.",
+  "opened": "2026-08-15",
+  "opened_by": "clawd",
+  "ruling": "Clayton, Day 196",
+  "pdf_build_at_filing": "2026-08-14T21:10:08",
+  "edits": [
+    {
+      "id": "EM-001",
+      "source": "R2-011",
+      "file": "VI-04-print-and-the-interior.md",
+      "locus": "`[^7]`, PDF p.660 — against the standing note at p.662",
+      "status": "READY",
+      "rationale": "`[^7]` asserts the Reformation argument as McGilchrist's flatly; the standing note two pages later says the summary was assembled from secondary accounts. `is his` and `assembled from secondary accounts` are different claims about the same sentences, and the STRONGER one is the one wired to the body. Three words move the honest version to the door where the reader actually knocks. The note already closes *See the standing note below.*, so no pointer is added — only the grade.",
+      "anchor": "metaphor removing the other mode's food — is his.",
+      "replacement": "metaphor removing the other mode's food — is his, reported here from secondary accounts."
+    },
+    {
+      "id": "EM-002",
+      "source": "R2-012",
+      "file": "VI-02-the-voices.md",
+      "locus": "PDF p.622 — against the standing note at p.626",
+      "status": "READY",
+      "rationale": "The chapter states Rule One (*say what the evidence carries, at the grade it carries it*) and demonstrates it on Jaynes — then exempts the one beat it is RESTING on. *it has been counted* is true and lets a reader take that the count is available and checked here; the chapter's own standing note says Snell is reported at second hand and his text is not in the repository. The replacement is still a sentence with no softener in it.",
+      "anchor": "It is countable, it has been counted, and anyone may recount it.",
+      "replacement": "It is countable, and Snell counted it — at second hand here, and checkable by anyone."
+    },
+    {
+      "id": "EM-003",
+      "source": "R2-010",
+      "file": "IV-01-the-census-and-its-method.md",
+      "locus": "one clause, either at the point of use or in the numbered note",
+      "status": "SCOPED",
+      "rationale": "This chapter carries its entire grade disclosure in the terminal *standing note on grade* — a caveat paragraph at the end, which is the placement VI.2 p.623 explicitly forbids. Machine-counted: nothing in the chapter points at it. One clause of the shape *“named from standard reference scholarship; see the standing note”* makes the disclosure reachable. No prose moves.",
+      "note": "Anchor NOT chosen: the insertion point is a judgement per chapter (point of use vs numbered note) and depends on which attribution the note is actually grading."
+    },
+    {
+      "id": "EM-004",
+      "source": "R2-010",
+      "file": "IV-02-mineral-and-elemental.md",
+      "locus": "one clause, either at the point of use or in the numbered note",
+      "status": "SCOPED",
+      "rationale": "This chapter carries its entire grade disclosure in the terminal *standing note on grade* — a caveat paragraph at the end, which is the placement VI.2 p.623 explicitly forbids. Machine-counted: nothing in the chapter points at it. One clause of the shape *“named from standard reference scholarship; see the standing note”* makes the disclosure reachable. No prose moves.",
+      "note": "Anchor NOT chosen: the insertion point is a judgement per chapter (point of use vs numbered note) and depends on which attribution the note is actually grading."
+    },
+    {
+      "id": "EM-005",
+      "source": "R2-010",
+      "file": "IV-03-the-living-non-human.md",
+      "locus": "one clause, either at the point of use or in the numbered note",
+      "status": "SCOPED",
+      "rationale": "This chapter carries its entire grade disclosure in the terminal *standing note on grade* — a caveat paragraph at the end, which is the placement VI.2 p.623 explicitly forbids. Machine-counted: nothing in the chapter points at it. One clause of the shape *“named from standard reference scholarship; see the standing note”* makes the disclosure reachable. No prose moves.",
+      "note": "Anchor NOT chosen: the insertion point is a judgement per chapter (point of use vs numbered note) and depends on which attribution the note is actually grading."
+    },
+    {
+      "id": "EM-006",
+      "source": "R2-010",
+      "file": "IV-04-human.md",
+      "locus": "one clause, either at the point of use or in the numbered note",
+      "status": "SCOPED",
+      "rationale": "This chapter carries its entire grade disclosure in the terminal *standing note on grade* — a caveat paragraph at the end, which is the placement VI.2 p.623 explicitly forbids. Machine-counted: nothing in the chapter points at it. One clause of the shape *“named from standard reference scholarship; see the standing note”* makes the disclosure reachable. No prose moves.",
+      "note": "Anchor NOT chosen: the insertion point is a judgement per chapter (point of use vs numbered note) and depends on which attribution the note is actually grading."
+    },
+    {
+      "id": "EM-007",
+      "source": "R2-010",
+      "file": "IV-05-the-collectively-emergent.md",
+      "locus": "one clause, either at the point of use or in the numbered note",
+      "status": "SCOPED",
+      "rationale": "This chapter carries its entire grade disclosure in the terminal *standing note on grade* — a caveat paragraph at the end, which is the placement VI.2 p.623 explicitly forbids. Machine-counted: nothing in the chapter points at it. One clause of the shape *“named from standard reference scholarship; see the standing note”* makes the disclosure reachable. No prose moves.",
+      "note": "Anchor NOT chosen: the insertion point is a judgement per chapter (point of use vs numbered note) and depends on which attribution the note is actually grading."
+    },
+    {
+      "id": "EM-008",
+      "source": "R2-010",
+      "file": "IV-06-the-computational.md",
+      "locus": "one clause, either at the point of use or in the numbered note",
+      "status": "SCOPED",
+      "rationale": "This chapter carries its entire grade disclosure in the terminal *standing note on grade* — a caveat paragraph at the end, which is the placement VI.2 p.623 explicitly forbids. Machine-counted: nothing in the chapter points at it. One clause of the shape *“named from standard reference scholarship; see the standing note”* makes the disclosure reachable. No prose moves.",
+      "note": "Anchor NOT chosen: the insertion point is a judgement per chapter (point of use vs numbered note) and depends on which attribution the note is actually grading."
+    },
+    {
+      "id": "EM-009",
+      "source": "R2-010",
+      "file": "IV-07-the-non-physical.md",
+      "locus": "one clause, either at the point of use or in the numbered note",
+      "status": "SCOPED",
+      "rationale": "This chapter carries its entire grade disclosure in the terminal *standing note on grade* — a caveat paragraph at the end, which is the placement VI.2 p.623 explicitly forbids. Machine-counted: nothing in the chapter points at it. One clause of the shape *“named from standard reference scholarship; see the standing note”* makes the disclosure reachable. No prose moves.",
+      "note": "Anchor NOT chosen: the insertion point is a judgement per chapter (point of use vs numbered note) and depends on which attribution the note is actually grading."
+    },
+    {
+      "id": "EM-010",
+      "source": "R2-010",
+      "file": "IV-08-the-divine-and-the-hierarchies.md",
+      "locus": "one clause, either at the point of use or in the numbered note",
+      "status": "SCOPED",
+      "rationale": "This chapter carries its entire grade disclosure in the terminal *standing note on grade* — a caveat paragraph at the end, which is the placement VI.2 p.623 explicitly forbids. Machine-counted: nothing in the chapter points at it. One clause of the shape *“named from standard reference scholarship; see the standing note”* makes the disclosure reachable. No prose moves.",
+      "note": "Anchor NOT chosen: the insertion point is a judgement per chapter (point of use vs numbered note) and depends on which attribution the note is actually grading."
+    },
+    {
+      "id": "EM-011",
+      "source": "R2-010",
+      "file": "IV-09-the-archetypal.md",
+      "locus": "one clause, either at the point of use or in the numbered note",
+      "status": "SCOPED",
+      "rationale": "This chapter carries its entire grade disclosure in the terminal *standing note on grade* — a caveat paragraph at the end, which is the placement VI.2 p.623 explicitly forbids. Machine-counted: nothing in the chapter points at it. One clause of the shape *“named from standard reference scholarship; see the standing note”* makes the disclosure reachable. No prose moves.",
+      "note": "Anchor NOT chosen: the insertion point is a judgement per chapter (point of use vs numbered note) and depends on which attribution the note is actually grading."
+    },
+    {
+      "id": "EM-012",
+      "source": "R2-010",
+      "file": "IV-10-what-the-census-cannot-see.md",
+      "locus": "one clause, either at the point of use or in the numbered note",
+      "status": "SCOPED",
+      "rationale": "This chapter carries its entire grade disclosure in the terminal *standing note on grade* — a caveat paragraph at the end, which is the placement VI.2 p.623 explicitly forbids. Machine-counted: nothing in the chapter points at it. One clause of the shape *“named from standard reference scholarship; see the standing note”* makes the disclosure reachable. No prose moves.",
+      "note": "Anchor NOT chosen: the insertion point is a judgement per chapter (point of use vs numbered note) and depends on which attribution the note is actually grading."
+    },
+    {
+      "id": "EM-013",
+      "source": "R2-010",
+      "file": "V-11-what-the-old-roads-knew.md",
+      "locus": "one clause, either at the point of use or in the numbered note",
+      "status": "SCOPED",
+      "rationale": "This chapter carries its entire grade disclosure in the terminal *standing note on grade* — a caveat paragraph at the end, which is the placement VI.2 p.623 explicitly forbids. Machine-counted: nothing in the chapter points at it. One clause of the shape *“named from standard reference scholarship; see the standing note”* makes the disclosure reachable. No prose moves.",
+      "note": "Anchor NOT chosen: the insertion point is a judgement per chapter (point of use vs numbered note) and depends on which attribution the note is actually grading."
+    },
+    {
+      "id": "EM-014",
+      "source": "R2-010",
+      "file": "VI-01-different-worlds-not-different-opinions.md",
+      "locus": "one clause, either at the point of use or in the numbered note",
+      "status": "SCOPED",
+      "rationale": "This chapter carries its entire grade disclosure in the terminal *standing note on grade* — a caveat paragraph at the end, which is the placement VI.2 p.623 explicitly forbids. Machine-counted: nothing in the chapter points at it. One clause of the shape *“named from standard reference scholarship; see the standing note”* makes the disclosure reachable. No prose moves.",
+      "note": "Anchor NOT chosen: the insertion point is a judgement per chapter (point of use vs numbered note) and depends on which attribution the note is actually grading."
+    },
+    {
+      "id": "EM-015",
+      "source": "R2-010",
+      "file": "VI-02-the-voices.md",
+      "locus": "one clause, either at the point of use or in the numbered note",
+      "status": "SCOPED",
+      "rationale": "This chapter carries its entire grade disclosure in the terminal *standing note on grade* — a caveat paragraph at the end, which is the placement VI.2 p.623 explicitly forbids. Machine-counted: nothing in the chapter points at it. One clause of the shape *“named from standard reference scholarship; see the standing note”* makes the disclosure reachable. No prose moves.",
+      "note": "Anchor NOT chosen: the insertion point is a judgement per chapter (point of use vs numbered note) and depends on which attribution the note is actually grading."
+    },
+    {
+      "id": "EM-016",
+      "source": "R2-010",
+      "file": "VI-03-the-enchanted-world.md",
+      "locus": "one clause, either at the point of use or in the numbered note",
+      "status": "SCOPED",
+      "rationale": "This chapter carries its entire grade disclosure in the terminal *standing note on grade* — a caveat paragraph at the end, which is the placement VI.2 p.623 explicitly forbids. Machine-counted: nothing in the chapter points at it. One clause of the shape *“named from standard reference scholarship; see the standing note”* makes the disclosure reachable. No prose moves.",
+      "note": "Anchor NOT chosen: the insertion point is a judgement per chapter (point of use vs numbered note) and depends on which attribution the note is actually grading."
+    },
+    {
+      "id": "EM-017",
+      "source": "R2-010",
+      "file": "VI-05-electric.md",
+      "locus": "one clause, either at the point of use or in the numbered note",
+      "status": "SCOPED",
+      "rationale": "This chapter carries its entire grade disclosure in the terminal *standing note on grade* — a caveat paragraph at the end, which is the placement VI.2 p.623 explicitly forbids. Machine-counted: nothing in the chapter points at it. One clause of the shape *“named from standard reference scholarship; see the standing note”* makes the disclosure reachable. No prose moves.",
+      "note": "Anchor NOT chosen: the insertion point is a judgement per chapter (point of use vs numbered note) and depends on which attribution the note is actually grading."
+    },
+    {
+      "id": "EM-018",
+      "source": "R2-010",
+      "file": "VI-06-the-algorithmic-tunnel.md",
+      "locus": "one clause, either at the point of use or in the numbered note",
+      "status": "SCOPED",
+      "rationale": "This chapter carries its entire grade disclosure in the terminal *standing note on grade* — a caveat paragraph at the end, which is the placement VI.2 p.623 explicitly forbids. Machine-counted: nothing in the chapter points at it. One clause of the shape *“named from standard reference scholarship; see the standing note”* makes the disclosure reachable. No prose moves.",
+      "note": "Anchor NOT chosen: the insertion point is a judgement per chapter (point of use vs numbered note) and depends on which attribution the note is actually grading."
+    },
+    {
+      "id": "EM-019",
+      "source": "R2-010",
+      "file": "VI-07-model-agnosticism-and-its-price.md",
+      "locus": "one clause, either at the point of use or in the numbered note",
+      "status": "SCOPED",
+      "rationale": "This chapter carries its entire grade disclosure in the terminal *standing note on grade* — a caveat paragraph at the end, which is the placement VI.2 p.623 explicitly forbids. Machine-counted: nothing in the chapter points at it. One clause of the shape *“named from standard reference scholarship; see the standing note”* makes the disclosure reachable. No prose moves.",
+      "note": "Anchor NOT chosen: the insertion point is a judgement per chapter (point of use vs numbered note) and depends on which attribution the note is actually grading."
+    },
+    {
+      "id": "EM-020",
+      "source": "R2-012",
+      "file": "VI-02-the-voices.md",
+      "locus": "PDF p.620 — right-temporal involvement in AVH",
+      "status": "SCOPED",
+      "rationale": "Given in the body as *observed* with no study named; self-declared in the standing note and unmarked at the point of use. Same shape as EM-002, different beat.",
+      "note": "Anchor NOT chosen: needs the passage re-read to decide whether the fix is a grade word or a citation."
+    },
+    {
+      "id": "EM-021",
+      "source": "R2-012",
+      "file": "VI-02-the-voices.md",
+      "locus": "PDF p.624 — the census card's prevalence-above-diagnosis-rate line",
+      "status": "SCOPED",
+      "rationale": "Given with no number. The chapter's own standing note calls it *“the thinnest thing in this chapter”* — a grade the body never states.",
+      "note": "Anchor NOT chosen: the honest repair may be a number rather than a clause, and no denominator has been found yet."
+    }
+  ]
+}

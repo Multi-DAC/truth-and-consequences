@@ -178,6 +178,50 @@ criticals. [[feedback_self_generated_denominator]]
 
 ---
 
+## THE EDIT MANIFEST — where a row's PRESCRIPTION lives, separately from its diagnosis
+
+**Clayton's ruling, Day 196:** *"keep a list of intended edits for a full revision pass. If we use
+the queue as a method of checking, we can determine the actual edits necessary and keep a list for
+ease of use when it comes time to actually implement edits."*
+
+That splits a job this file has been doing badly by doing it twice. **A queue row DIAGNOSES** — it
+argues that something is wrong and why, in prose, at length, because the argument is the part that
+has to survive. **An edit PRESCRIBES** — which bytes in which file become which other bytes. Mixed
+together, the prescription is buried inside the argument and has to be re-derived by hand at
+implementation time, which is when it gets re-derived *wrong*.
+
+```
+book/docs/edit-manifest.json     ← source of truth
+book/docs/EDIT-MANIFEST.md       ← rendered FROM the json; hand edits are lost by design
+python tools/edit_manifest.py    ← re-resolves every READY anchor against the markdown
+```
+
+⛔ **THE PROPERTY THAT MAKES IT WORTH THE FILE: AN ENTRY CANNOT ROT SILENTLY.** Every READY entry
+carries the exact text it expects to find. Between filing and applying, prose moves — a sweep
+absorbs a citation, a sentence gets rewritten, a chapter is reflowed. In a prose queue that shows up
+as *nothing at all*: you arrive to implement, the sentence is different, and you patch from memory.
+Here the checker re-resolves every anchor on every run and a miss is an ERROR with an exit code.
+**The manifest measures its own staleness.** That is the direct answer to the defect that retired
+the last queue. [[feedback_filed_defect_misprices_its_own_subject]]
+
+⚠ **TWO STATES, NEVER SUMMED.** **READY** = anchor chosen and resolving; applying is mechanical.
+**SCOPED** = agreed in principle, file named, *exact text not yet chosen*. As of filing: **2 READY,
+19 SCOPED.** Reporting 21 would say twenty-one things are applicable tonight when it means two are,
+and nineteen are still decisions somebody has to make. That arithmetic is how the inbound register
+reached 146. [[feedback_bucket_derived_by_subtraction]]
+
+⚠ **The alarm branch has a positive control.** `--selftest` fabricates both failures against a real
+chapter — an anchor that is gone (STALE) and one that matches many times (AMBIGUOUS) — and fails if
+either reads clean, plus a fourth check that the fixture text is really present so a green cannot
+come from an empty read. A checker that has only ever printed OK has not been shown capable of
+printing anything else. [[feedback_gauge_can_only_render_its_good_news]]
+
+⚠ **Applying is still gated on the recompile.** The volume is public as of ~13:36 Day 196. Every
+`--apply` prints the reminder that markdown-without-rebuild splits the shipped artefact from its
+source; the tool will not recompile for you and must not.
+
+---
+
 ## FINDINGS — filed as `R2-nnn`
 
 New numbering on purpose: `R2-` cannot collide with the retired `R-nnn`, so a row number in a commit
