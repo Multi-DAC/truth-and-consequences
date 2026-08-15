@@ -148,7 +148,7 @@ the first parser scored *"twelfth century"* as prescribed-and-present and called
 CRITICAL defect PAID. Three constructions invert a plain `Defect:`/`Action:` split and all three are
 in this register.
 
-**Disposition: the fresh-read loop stays primary.** Coverage is still 0 of 71 and that number governs.
+**Disposition: the fresh-read loop stays primary.** Coverage was 0 of 71 when this was written and that number governs.
 The six LIVE rows below are entered because they are machine-confirmed against body text, not because
 a register asserted them.
 
@@ -183,8 +183,8 @@ criticals. [[feedback_self_generated_denominator]]
 New numbering on purpose: `R2-` cannot collide with the retired `R-nnn`, so a row number in a commit
 message, a docstring or a chapter note is unambiguous about which queue it belongs to, forever.
 
-**0 of 71 chapters read.** The first finding and the coverage number are read together or neither
-means anything.
+**2 of 71 chapters read — VI.2 and VI.4, both whole, both from the PDF, Day 196.** The findings and
+the coverage number are read together or neither means anything. **8,893 of 323,904 words. 2.7%.**
 
 ---
 
@@ -222,3 +222,145 @@ exit 0.
 did not cover §III onward or the endnotes. Marking it read would put a green on the coverage gauge
 for a pass that did not happen, on the gauge's first use, which is the exact failure the gauge was
 built to prevent. **Coverage stays 0/71.**
+
+---
+
+## READ SESSION 1 — Day 196, VI.2 and VI.4, whole, from the PDF
+
+**Chapters chosen by measurement, not by interest.** SCAN-005 found the ⛔ register is a photograph
+of where the audit went: 0.47 stop-marks per endnote in IV/V/VIII/C, **0.004 across the 235 endnotes
+of II/III/VI/VII.** Book VI carries more endnotes than Book VIII (59 vs 43) and 21 fewer stop-marks,
+and all eight books were last touched the same day — so the asymmetry is *unswept*, not *clean*. The
+first fresh reads therefore go into the unswept half. VI.2 and VI.4 specifically because SCAN-005
+named them as the two places an outside reader had checked something the book could not tell it.
+
+⚠ **THE POSITIVE CONTROL ON MY OWN READ, STATED FIRST BECAUSE IT IS THE PART THAT COULD HAVE GONE
+BADLY.** A read that finds only structural defects and no factual ones is indistinguishable from an
+inattentive read. So the citations were checked rather than admired — **and they held.** Gladstone
+1858 → Snell 1946 is exactly the "eighty-eight years" the first sentence claims. Knox, *GRBS* 9
+(1968), 421–435 ✓. Gavrilov, *CQ* 47 (1997), 56–73 with Burnyeat's postscript at 74–76 in the same
+volume ✓ — **and Burnyeat's neglected evidence really is Ptolemy**, which is the kind of specific
+detail a bluffing paragraph gets wrong. *altruism* first attested 1853 ✓. Williams, Sather 57, 1993
+✓. Wernicke, *Der aphasische Symptomencomplex*, 1874 ✓. Augustine at Milan 384, and 384 → the press
+is *"more than a thousand years"* ✓. Eisenstein 1979 2 vols. CUP ✓, Johns 1998 Chicago ✓, Havelock
+1963 Belknap ✓, Taylor 2007 Belknap ✓, McGilchrist 2009 Yale ✓. **Fifteen checks, fifteen good.**
+The defects below are therefore about *grade and placement*, not about facts — and one candidate
+died under checking: VI.4's *"roughly four hundred years after the press"* looked short for radio
+(1450 → 1920 is 470), until VI.5 turned out to open by **giving simultaneity back to print**. The
+chapter that would have been wrong argues against my reading of it. Not filed.
+
+---
+
+### R2-010 — THE VOLUME'S GRADE DISCLOSURES SIT IN THE ONE PLACE THE VOLUME SAYS THEY MUST NOT ⛔ OPEN
+
+**Locus: 18 chapters — IV.1–IV.10, V.11, VI.1–VI.7. The rule it breaks is printed in VI.2, p.623.**
+
+VI.2 states the book's disclosure discipline in three numbered parts, and part two is unambiguous:
+
+> **Two: say where the mechanism is open, in the open, at the moment you use the claim** — not in a
+> footnote, **not in a caveat paragraph at the end that the reader has already learned to skip.**
+
+Eighteen chapters then carry their entire grade disclosure in *the standing note on grade* — an
+unnumbered italic paragraph, terminal, immediately before the Notes heading. **It is a caveat
+paragraph at the end.** That is the placement the book names and forbids, and it is not an
+occasional slip: it is the volume's standard apparatus for exactly this job.
+
+⛔ **AND IT IS UNREACHABLE, WHICH IS THE HALF THAT MAKES IT A DEFECT RATHER THAN A STYLE CHOICE.**
+Machine-counted across all 18: the phrase *standing note* occurs **exactly once** in seventeen of
+them — the note itself. **Nothing points at it.** Those seventeen chapters carry **146 numbered
+endnotes between them, and not one of them routes a reader to the grade.** A reader who does the
+thing the apparatus is built to reward — follow the superscript, check the source — lands on the
+flat attribution and is never told what grade it was asserted at. The disclosure is only found by
+reading to the end of a chapter you have finished.
+
+**VI.4 is the sole exception in the volume**, where `[^7]` closes *"See the standing note below."*
+One cross-reference in 147. **And VI.4 is the one chapter where the two notes disagree** — see
+R2-011. The single link that exists is at the single site where following it changes the answer,
+which is the strongest possible argument that the other 146 need it too.
+
+**Fix, and it is small:** one clause per chapter, either at the point of use or in the numbered note
+— *"named from standard reference scholarship; see the standing note."* Seventeen edits. No prose
+moves. [[feedback_gauge_reachable_from_its_own_subject]]
+
+⚠ **What this row does NOT claim:** that any attribution is wrong. Fifteen citation checks in these
+two chapters held. It claims the volume's own stated rule about *where* a grade lives is broken by
+the volume's own standard apparatus, at scale, and that the fix is a pointer rather than a rewrite.
+
+---
+
+### R2-011 — `VI.4`: THE SAME ATTRIBUTION IS GIVEN TWO DIFFERENT GRADES, AND THE READER REACHES THE STRONGER ONE FIRST ⛔ OPEN
+
+**Locus: `VI-04-print-and-the-interior.md`, `[^7]` vs the standing note. PDF p.649, p.660, p.662.**
+
+Body, p.649: *"McGilchrist's historical argument … reaches a conclusion this book agrees with almost
+word for word."* The numbered note the reader follows says:
+
+> `[^7]` … the account of the Reformation given here — individual scripture reading and literal
+> sense strengthening a rule-bound, text-driven, univalent mode, and the rejection of image and
+> metaphor removing the other mode's food — **is his.**
+
+The standing note, two pages earlier in the flow and unnumbered, says of the same passage:
+
+> **McGilchrist's Reformation chapter specifically**, because this chapter attributes to him a
+> historical argument … and **the summary above was assembled from secondary accounts of a very long
+> book** … **the route he takes to it is the part reported thinnest.**
+
+**`is his` and `assembled from secondary accounts` are different claims about the same sentences.**
+The first asserts the argument as McGilchrist's, flatly, at the point of use. The second says the
+book has not read the argument in the primary text and is reporting a route at second hand — and the
+standing note's own header confirms it: *"None of their texts is in this repository."*
+
+⚠ **THE ORDERING IS THE DEFECT.** The stronger claim is the one wired to the sentence. The weaker
+and truer one is the one nothing links to except, by luck, this very note. A reader checking the
+Reformation attribution stops at `[^7]`, because `[^7]` answers the question it was asked.
+
+**Fix:** three words in `[^7]` — *"is his, reported here from secondary accounts; see the standing
+note."* The standing note already carries the honest version; it just has to arrive at the door
+where the reader knocks. [[feedback_audit_the_last_clause]]
+
+---
+
+### R2-012 — `VI.2`: THE CHAPTER'S HIGHEST-GRADE SENTENCE IS ITS ONLY SECOND-HAND ONE ⛔ OPEN
+
+**Locus: `VI-02-the-voices.md`, PDF p.622 against p.626.**
+
+VI.2's whole architecture is a grading exercise performed in public on Julian Jaynes — three claims,
+three grades, three sentences, each with its falsifier named. It is the best thing in the chapter.
+Rule One is stated and then demonstrated:
+
+> **One: say what the evidence carries, at the grade it carries it, in a sentence with no softener
+> in it.** The *Iliad*'s psychological lexicon differs from the *Odyssey*'s in the ways Snell
+> describes. That is not *arguably*. **It is countable, it has been counted, and anyone may recount
+> it.**
+
+Four pages later, in the standing note:
+
+> **Snell's lexical claim**, because beat one is **load-bearing for the whole of Book VI** and is
+> **reported here at second hand. The counts are checkable and should be checked.**
+
+⛔ **THE GRADING DISCIPLINE IS APPLIED TO THE CLAIM THE CHAPTER IS ARGUING WITH AND EXEMPTED FOR THE
+CLAIM IT IS RESTING ON.** *"It has been counted"* is true — Snell counted. What the sentence lets a
+reader take is that the count is *available and checked here*, and it is neither: no count is
+reproduced, Snell's text is not in the repository, and the chapter's own apparatus says so. This is
+the sentence the chapter uses as its fallback position — *"if Jaynes is wholly false … the work he
+was going to do was already done, four pages ago, by a word-count."* **The load-bearing beat of Book
+VI is the one beat in VI.2 whose grade is not stated where it is used.**
+
+Two further instances of the same shape in the same chapter, both self-declared in the standing note
+and neither marked in the body: right-temporal involvement in AVH given as *observed* with no study
+(p.620), and the population-prevalence-above-diagnosis-rate line in the census card given with no
+number (p.624) — which the note itself calls *"the thinnest thing in this chapter."*
+
+**Fix, and it costs the chapter nothing rhetorically:** *"It is countable, and Snell counted it —
+at second hand here, and checkable by anyone."* That is still a sentence with no softener in it. It
+is Rule One obeyed on the chapter's own premise. [[feedback_evidence_grade_distinction]]
+
+---
+
+⚠ **WHAT SESSION 1 SAYS ABOUT THE ⛔ REGISTER, AND IT IS THE REASON TO KEEP READING.** Book VI
+carries **zero** stop-marks across 59 endnotes. Two chapters of it, read whole, produced three open
+rows — one of them volume-wide and structural. **The 0.004 was never a measurement of cleanliness.**
+Neither R2-010 nor R2-011 nor R2-012 could have been found by the inbound register's quoted-string
+triage, because nothing here is misquoted; and none could have been found by a ⛔ sweep, because Book
+VI has no ⛔ to sweep. They required a person reading a chapter to the end. That is the argument for
+the gauge, made by the gauge's first two rows. **69 chapters and 315,011 words remain unread.**
