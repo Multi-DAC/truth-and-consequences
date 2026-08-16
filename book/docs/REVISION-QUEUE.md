@@ -472,3 +472,175 @@ misses were words with an f-ligature in the first sixty characters. The gauge no
 on the source side and refuses to report a miss unless its positive control — notes known to be
 referenced — hits first. **A zero needs a positive control, and so does an absence.**
 [[feedback_zero_needs_a_positive_control]]
+
+---
+
+## READ SESSION 2 — Day 196, III.1, whole, from the PDF
+
+**Coverage 2/71 → 3/71.** `III.1` read whole from the shipped PDF, pp.115–121 body and pp.122–123
+notes, all four. Chosen because Book III has had **no outside read at all** and carries C9, the
+hinge everything in Book VII is downstream of.
+
+⚠ **POSITIVE CONTROL, STATED FIRST.** Two controls ran before either measurement below was believed.
+(1) `fresh_read.py`'s own synthetic map, one gap planted in each direction — both live. (2) A
+synthetic chapter for the mark census: three notes, one ⛔ and two ⚠ inside note definitions, one ⛔
+and one ⚠ planted in the *body* which must **not** be counted. Read back 3 / 1 / 2. The body marks
+were correctly excluded; without that control the census below would have silently counted prose.
+
+**Four candidates died under checking, and they are the reason to trust the three that lived.**
+(a) The body says the Valentinian account survives only because its prosecutors reproduced it, then
+two pages later cites a text *"found in a jar in 1945 rather than in a prosecutor's summary"* — not
+a contradiction: the body marks the *Apocryphon* as a school Irenaeus **files separately**, and
+`[^1]` already scopes the claim to before 1945. (b) `[^2]`: both quoted sentences do sit in
+*Adv. haer.* I.5.3 ✓. (c) `[^3]`: the *"I am God, and besides me there is none else"* boast is
+I.5.4 ✓, and Isaiah 45:5 / 46:9 are the right verses ✓. (d) *"the thirteen recovered near Nag
+Hammadi in December 1945"* ✓. **One check is left open and not filed:** whether Wisse prints *"The
+Man exists and the son of Man"* with the definite article. `[^4]` flags the *first* of its three
+spans as compressed, which by implication certifies the third as exact; I cannot settle the article
+without the printed page, and an unsettled check is not a row.
+
+---
+
+### R2-014 — THE VOLUME DECLARES A CITATION DISCIPLINE TWICE AND BREAKS IT IN THE CHAPTER THAT DECLARES IT ⛔ OPEN
+
+**Locus: `III-01-the-wrong-game.md` `[^1]` vs `[^3]` — same chapter, one note apart. Second site:
+`IV-09-the-archetypal.md`. Declared again at `II-08-the-return.md` `[^1]`. PDF p.122.**
+
+`III.1` `[^1]` states the rule and states the reason:
+
+> *Adversus haereses* I.5.2, Ante-Nicene Fathers translation (Roberts–Rambaut), **Massuet's
+> numbering** — the scheme ANF follows and the one used at every Irenaeus citation in this book,
+> **stated each time rather than assumed**, because Harvey's edition divides the text differently
+> and **a reader carrying one scheme into the other edition does not find the passage.**
+
+`II.8` `[^1]` makes the same declaration independently: *"the scheme is therefore stated at every
+Irenaeus citation rather than assumed."* Two chapters, two promises, one roster.
+
+⛔ **`[^3]` OF THE SAME CHAPTER READS, IN FULL, `*Adv. haer.* I.5.4.`** No translation, no scheme.
+`[^2]` honours the rule — *"same translation and scheme"* — and `[^3]`, the very next note, does
+not. The declaration and its violation are eleven lines apart in one file.
+
+**The second site is the one that costs something.** `IV.9`'s whole argument is that Jung's
+Irenaeus citation has been reproduced for ninety years without anyone going to look. The chapter
+prints Jung's reference as *Adversus haereses* II, 7, 5 — unlabelled — and then prints **the Latin
+as Harvey prints it** against it. That is the single place in the volume where two editions are
+cross-read, and it is the one citation with no scheme on it. A reader doing exactly what `IV.9`
+demands — going to look — is given a reference in one scheme and a text from another edition, with
+nothing saying whether they agree.
+
+**What this row does NOT claim:** that Massuet and Harvey actually diverge at II.7.5. I have not
+checked, and the defect does not need it — the promise was that the scheme is *stated*, and at these
+two sites it is not. **Fix: four words in `III.1` `[^3]`, and a scheme label at `IV.9`.**
+[[feedback_artifact_states_its_own_roster]]
+
+---
+
+### R2-015 — `III.1` `[^1]`: THE QUALIFYING NOTE IT POINTS AT IS NOT THE ONE THAT QUALIFIES IT ⚠ OPEN
+
+**Locus: `III-01-the-wrong-game.md` `[^1]`, PDF p.122.**
+
+> The claim in the body that the system survives largely through its prosecutors is true of the
+> state of knowledge before 1945 and **is qualified by the next-but-one note**.
+
+From `[^1]`, next is `[^2]` and next-but-one is `[^3]`. **`[^3]` is about Isaiah** — the boast in
+the Demiurge's mouth, *Adv. haer.* I.5.4 — and says nothing about 1945, manuscripts, or survival.
+The qualification lives in **`[^4]`**: Nag Hammadi, December 1945, four copies, two recensions. The
+pointer is off by one, and it points at a note that reads plausibly enough that a reader may take
+the qualification as delivered and stop.
+
+⚠ **The failure mode is the one this project keeps filing.** Nothing errors. Both notes exist, both
+are correct, the prose is fluent, and the cross-reference resolves to a real target — it is simply
+the wrong one. A dangling pointer would have been caught; a pointer onto the wrong live note is
+silent in every channel the book has.
+
+**Fix: name the note, not its position** — *"is qualified by note 4"* — because a positional
+reference re-breaks the moment a note is inserted, and this chapter has already had notes inserted.
+[[feedback_orphan_is_silent_dangle_is_loud]]
+
+---
+
+### R2-016 — `III.1` `[^4]`: THREE OF THE FOUR COPIES ARE FROM NAG HAMMADI AND THE SENTENCE SAYS FOUR ⚠ OPEN
+
+**Locus: `III-01-the-wrong-game.md` `[^4]`, final sentence. PDF p.123.**
+
+> The codex was one of the **thirteen recovered near Nag Hammadi in December 1945**; *Apocryphon of
+> John* **survives in four copies**, in a long and a short recension.
+
+Both halves are true and the order makes them read as one claim. Three of the four copies are Nag
+Hammadi codices — **II,1 and IV,1** (long recension) and **III,1** (short). The fourth is
+**Papyrus Berolinensis 8502,2**, the Berlin Codex, bought in Cairo in **1896**, half a century
+before the jar and unconnected to it. A reader taking the sentence as written takes four of the
+thirteen, and the note's own point — *"there is no single text to cite"* — is actually stronger
+than that: the witnesses are not even one find.
+
+⚠ **Grade: precision, not error.** No sentence here is false and the argument is untouched. It is
+filed because `[^4]` is a note whose declared job is to police an unmarked compression in the body,
+and it carries one of its own in its last clause. **Fix: one clause — *"three of them among the
+thirteen, the fourth the Berlin Codex, bought in Cairo in 1896."*** [[feedback_audit_the_last_clause]]
+
+---
+
+## FILED BY INSTRUMENT — and it reorders the sweep
+
+⚠ **Coverage is 3/71, not 4/71.** What follows is a whole-volume census, not a read. It advances no
+chapter. It is filed here because it **corrects the frame SCAN-005 set for this entire queue**, and
+a reading plan built on a one-axis measurement should not survive to session 3.
+
+**SCAN-005 measured ⛔ per endnote and found the audit's footprint.** It counted 0.47 stop-marks per
+endnote in IV/V/VIII/C against **0.004 across the 235 endnotes of II/III/VI/VII** — a ratio of about
+105 — and concluded those 235 endnotes *"have not been audited."* It said, correctly, that it could
+not distinguish **clean** from **never swept**.
+
+**The ⚠ axis is the discriminator it lacked, and it was sitting in the same files.**
+
+```
+book  notes  STOP/note  WARN/note      (marks counted inside note DEFINITIONS only)
+ I       0      —          —
+ II     41    0.000      0.195
+ III    46    0.000      0.500   <-- inside the audited band
+ IV     76    0.342      0.618
+ V     168    0.512      0.595
+ VI     59    0.000      0.203
+ VII    89    0.011      0.281
+ VIII   43    0.442      0.605
+ C       5    0.000      0.400
+
+AUDITED  (IV,V,VIII,C)   292 notes   stop/note 0.449   warn/note 0.599
+UNSWEPT  (II,III,VI,VII) 235 notes   stop/note 0.004   warn/note 0.289
+```
+
+**On the ⛔ axis the two halves differ by a factor of 105. On the ⚠ axis they differ by a factor of
+2.07.** And **Book III sits at 0.500 ⚠ per endnote — inside the audited band (0.400–0.618), above
+Book C and level with Book V.** The two marks do different jobs: ⛔ records an *unpaid defect*, ⚠
+records a *paid receipt* — a precision point found, worked, and left visible. A book dense in ⚠ and
+empty of ⛔ is what **audited and clean** looks like. It is not what unswept looks like.
+
+⚠ **The scope of the count is stated because it differs from SCAN-005's, and the difference is not
+an error in either.** SCAN-005 counted marks anywhere in the file; the table above counts only
+inside note definitions. Whole-file, my count reproduces SCAN-005 exactly — IV 27, V 87, VIII 21,
+C 3, VII 1 — so the two are the same instrument at two scopes, and the notes-only scope is the
+stricter one. Book C is the only place they disagree in kind: **3 whole-file, 0 in notes**, i.e. all
+three of the coda's stop-marks are in its prose, not its apparatus.
+
+⚠ **WHAT THIS DOES NOT LICENSE, AND THE READ IS THE WITNESS AGAINST IT.** It is a proxy. It cannot
+tell a ⚠ written during drafting from one written by a later audit pass. `III.1`'s two ⚠ marks are
+unambiguously audit artefacts — a quotation boundary and an unmarked elision, both found and both
+recorded — but that is **n = 1 chapter**. The independent check is the read itself, and it agrees
+only weakly: `III.1` read whole yielded **three rows, and not one of them is a defect a ⚠ pass would
+have caught.** A broken cross-reference, a violated roster claim, and an outside-source imprecision
+are all invisible to an apparatus review that is checking quotations against sources — which is
+exactly what Book III's 23 ⚠ marks appear to have been doing. **Being audited on one axis is not
+being clean on the others**, and R2-014's second site is in Book IV, the *audited* half.
+
+**The actionable output is a reordering, not a retirement.**
+
+| book | STOP/note | WARN/note | reading |
+|---|---|---|---|
+| **II** | 0.000 | 0.195 | low on both axes — **sweep first** |
+| **VI** | 0.000 | 0.203 | low on both axes — **sweep first** (2/8 read) |
+| **VII** | 0.011 | 0.281 | low-ish; 22 of the volume's orphaned notes live here |
+| **III** | 0.000 | **0.500** | audited-looking; **demote, do not skip** |
+
+Session 3 goes to **VI.1 and VI.3**, finishing the low-⚠ book already started, rather than deeper
+into III. The 235-endnote figure stands as a count. The word *unswept* attached to it does not, for
+Book III. [[feedback_measured_a_shape_the_consumer_does_not_use]] [[feedback_zero_needs_a_positive_control]]
