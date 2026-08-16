@@ -10647,7 +10647,7 @@ being quoted, and in each case the standard modern edition would make the chapte
   assumed. Two English versions of one Coptic text in one chapter would have made a translator's
   vocabulary shift read as a shift in the source.
 
-### The unmarked-compression class, four instances, all recorded rather than repaired
+### The unmarked-compression class, four instances, recorded rather than repaired — ⚠ ONE OF THE FOUR REPAIRED DAY 197, HEADING AMENDED RATHER THAN REWRITTEN
 
 III.1 prints Irenaeus's *productive power* and glosses *of Achamoth* away outside the italics · the
 *Apocryphon* quote drops Wisse's *he had not approved* · the *Ācārāṅga* quotation strips Jacobi's
@@ -10656,6 +10656,16 @@ that, one note earlier, is careful to say a parenthesis is the translator's** ·
 subordinate clause is capitalised as a sentence. **None changes a meaning. All four are the route by
 which a paraphrase acquires a quotation's authority**, which is [[quotation-check-the-span]] at the
 apparatus level rather than the argument level.
+
+⚠ **AMENDMENT, Day 197 / 2026-08-16 — the third instance is repaired and this entry would otherwise
+have gone on asserting it.** The `III.5` `[^6]` parentheses are restored to the body (queue row
+`R2-018`), which makes *all four recorded rather than repaired* false as written and makes the
+count-of-four a count of a historical class rather than a standing one. **The entry is amended, not
+rewritten:** what it observed was true on the day it was written, and a log that edits its past to
+match its present stops being a log. What is worth carrying forward is that this passage — an honest
+disclosure, in the most credibility-bearing register available — is exactly the kind of sentence a
+later fix silently converts into a lie, and it was found by grepping for the confession *before*
+making the fix rather than by anything watching. [[feedback_correction_does_not_reach_citers]]
 
 ### ★ AND ONE QUOTATION RUN DOWN THAT THE REFERENCE WORKS SAY CANNOT BE
 

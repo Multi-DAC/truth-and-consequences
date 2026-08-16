@@ -247,6 +247,20 @@ it expensive to leave unaudited. **C18 and C19 carry `PROVISIONAL` on that groun
 entry); **they are cleared by one RETURNED read of Book III — never by time, and never by a read
 still underway.**
 
+⚠ **DAY 197 / 2026-08-16 — III.5 READ WHOLE FROM THE SHIPPED PDF, pp.157–173 INCLUDING ALL EIGHT
+NOTES, BY CLAWD. THIS IS NOT AN OUTSIDE READ AND DOES NOT TOUCH THE LINE ABOVE.** It is an author
+reading his own chapter; the paragraph above stands unchanged and C18/C19 stay `PROVISIONAL`. What
+it settles is narrower and worth having: **both of this entry's own requirements are met in the
+printed text, not merely asserted here.** The floor argument is in the chapter's voice and the debt
+is named unpaid (*"That debt is real, it was incurred here, and it is not paid in this chapter or in
+this part of the book"*, p.167); the mask trap is named where the reader first has the thought, with
+the diagnostic kept as the single question — **is it *them*?** (p.169). Three defects were filed and
+none of them touches the derivation: `R2-017` (a relative-chapter backreference wrong by one, twice —
+✅ fixed in source), `R2-018` (`[^6]` diagnosed its own violation of the volume's translator-supplement
+rule and left it standing — ✅ fixed), `R2-019` (*the five* denials presupposed at III.5 and not
+enumerated until Book V — ⛔ open, and a structural question for Clayton). **The claim survived; its
+apparatus did not.** [[feedback_subagent_verification]]
+
 ### C10 — CO-CONSTITUTION
 > **Canonical:** The world is rendered at the point of contact. The seed is not solely yours;
 > the world is not solely given.

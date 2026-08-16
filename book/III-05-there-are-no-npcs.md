@@ -15,7 +15,7 @@ The first was signed in the naming. *Reactivity is awareness* — put down as a 
 price on the label, forbidding a first moment, forbidding a floor, forbidding the one exemption
 every other account keeps in reserve. The second was signed in the same place: the focusing is
 continuous, everything that reacts is somewhere on it, and there is no gate. The third was signed
-two chapters ago, when the last of the five denials was made against a friend. Nobody is playing
+three chapters ago, when the last of the five denials was made against a friend. Nobody is playing
 from outside. The many play, and the One is what playing is made of.
 
 Put the three together and the sentence falls out without a further premise. If whatever reacts is
@@ -218,10 +218,10 @@ some things visibly do not react, and that their stillness is evidence. The pass
 earth-bodies — the Jain teaching grants an inside to earth, water, fire and air, which is further
 than any Western position has ever gone — and its argument is a simile:
 
-> As somebody may cut or strike a blind man, as somebody may cut or strike the foot, the ankle, the
-> knee, the thigh, the hip, the navel, the belly, the flank, the back, the bosom, the heart, the
-> breast, the neck, the arm, the finger, the nail, the eye, the brow, the forehead, the head, as
-> some kill openly, as some extirpate secretly.[^6]
+> As somebody may cut or strike a blind man (who cannot see the wound), as somebody may cut or
+> strike the foot, the ankle, the knee, the thigh, the hip, the navel, the belly, the flank, the
+> back, the bosom, the heart, the breast, the neck, the arm, the finger, the nail, the eye, the
+> brow, the forehead, the head, as some kill (openly), as some extirpate (secretly).[^6]
 
 The list is long on purpose. It is doing what a list does — making a reader stay in a sentence long
 enough for it to work on them — and what it works toward is the point that the absence of a signal
@@ -312,7 +312,7 @@ warmth.**
 *Everyone is God in a mask.* Every face the one face, every inside the same inside, the stranger and
 the son and the crow all the single thing looking out through different holes.
 
-It sounds like the maximum of respect and it is the deletion of the claim. Two chapters ago the
+It sounds like the maximum of respect and it is the deletion of the claim. Three chapters ago the
 divine player was taken apart on his own merits, and this is the same figure returning by the back
 door with better manners. If there is one player wearing every face then there is exactly one
 inside, and the person in front of you is not somebody — they are a position that the one somebody
@@ -410,14 +410,19 @@ generally taken as the oldest surviving text of the Śvetāmbara canon, which is
 means above; a date around the fourth or third century BCE is the usual estimate for its oldest
 strata and is what the body's "roughly twenty-four centuries" rests on.
 
-[^6]: *Ācārāṅga Sūtra*, Book I, Lecture 1, Lesson 2, Jacobi, on earth-bodies. ⚠ **The quotation
-strips the translator's parentheses and that is worth saying, because Jacobi's parentheses are the
-mark of what he has supplied.** He prints "As somebody may cut or strike a blind man **(who cannot
-see the wound)**," and "as some kill **(openly)**, as some extirpate **(secretly)**." The chapter
-prints all three without brackets, which turns three of Jacobi's supplements into the text. It
-changes no meaning and it is inconsistent with the previous note, where the chapter is careful to
-say a parenthesis is the translator's — **the same convention observed in one note and silently
-dropped in the next**, which is how a house rule stops being one.
+[^6]: *Ācārāṅga Sūtra*, Book I, Lecture 1, Lesson 2, Jacobi, on earth-bodies. **Jacobi's
+parentheses are printed here as he printed them**, and the reason is the house rule stated one note
+above: a parenthesis in Jacobi is the mark of what the translator has supplied, and the Prakrit does
+not say it in so many words. The chapter ran for a day with all three silently absorbed into the
+text — *a blind man*, *some kill*, *some extirpate* — which changed no meaning and quietly promoted
+three supplements to scripture. ⚠ **Restoring them costs the chapter something and the cost is the
+honest half of this note.** The strongest of the three, *(who cannot see the wound)*, is the clause
+that most directly says what the body then says: that the absence of a signal is not the absence of
+an inside. It is Jacobi's gloss, not the *Ācārāṅga*'s sentence. The simile carries the argument
+without it — a blind man is already, in the text, someone struck where the striking does not come
+back — but a reader entitled to know which words are the tradition's and which are 1884's is
+entitled to know it here most of all, because this is the one place where the supplement and the
+thesis coincide.
 
 [^7]: Albert Schweitzer, *Civilization and Ethics*, being Part II of *The Philosophy of
 Civilization*, the Dale Memorial Lectures delivered at Mansfield College, Oxford, in 1922 and

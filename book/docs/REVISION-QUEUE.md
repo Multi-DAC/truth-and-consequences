@@ -644,3 +644,237 @@ being clean on the others**, and R2-014's second site is in Book IV, the *audite
 Session 3 goes to **VI.1 and VI.3**, finishing the low-⚠ book already started, rather than deeper
 into III. The 235-endnote figure stands as a count. The word *unswept* attached to it does not, for
 Book III. [[feedback_measured_a_shape_the_consumer_does_not_use]] [[feedback_zero_needs_a_positive_control]]
+
+---
+
+## READ SESSION 3 — Day 197, III.5, whole, from the PDF
+
+⛔ **THIS SESSION DISOBEYED THE ROUTING DIRECTLY ABOVE IT, AND THAT IS THE FIRST THING TO RECORD.**
+Session 2 ended by sending Session 3 to `VI.1` and `VI.3`. Session 3 went to `III.5`. The reason is
+not that the routing was wrong — it was derived from a measurement and it still stands — but that it
+was **never read**. The chapter was chosen from `07-THE-CLAIMS-REGISTER`'s C9 entry and from goal
+#11's item (6), both of which say Book III is owed a read, and the queue's own instruction sat one
+scroll away, unopened, in the file being appended to. **A routing decision recorded at the bottom of
+a 646-line document is a decision with no carrier.** Session 4 goes to `VI.1` and `VI.3`, and that
+sentence has the same problem this one did unless something other than prose carries it.
+[[feedback_carrier_is_narration_not_state]] [[feedback_delegated_step_has_no_trigger]]
+
+**Coverage 3/71 → 4/71.** `III.5` read whole from the shipped PDF — pp.157–170 body, pp.171–173
+notes, all eight. 5,040 words; 16,497 / 323,999 cumulative, **5.1%**.
+
+⚠ **POSITIVE CONTROL, STATED FIRST.** `fresh_read.py`'s synthetic map ran before the mark: one gap
+planted in each direction, `I.3` on-disk-not-in-PDF and `I.2` in-PDF-not-on-disk, both recovered,
+both directions live.
+
+⚠ **AND THE MARK WAS VOID FOR TWENTY MINUTES.** The chapter was first read in the **markdown**, and
+marked read on that basis. This document's own COVERAGE section says the unit is the compiled PDF
+and that *"reading the markdown is a different act with different findings and does not count."* The
+rule was not remembered; it was tripped over while looking up an unrelated row format. The read was
+then done properly against pp.157–173 and the mark stands on **that** pass. Recorded because the
+failure mode is the interesting part: **the gauge cannot tell a markdown read from a PDF read** — it
+records who and when and against which build, and takes the reader's word for the rest. Every finding
+below was independently confirmed on the printed page before it was filed.
+
+**Why III.5 is worth a session at all.** It is where **C9 — THERE ARE NO NPCs** is established, and
+C9 is the claim `all of Book IV · VII.2 · VII.3 · VII.4 · VII.6 · VIII.6` depend on. The register
+entry says no outside read of it has come back.
+
+✅ **THE CLAIM ITSELF SURVIVES THE READ, AND SO DOES THE REGISTER'S SHARPEST WARNING ABOUT IT.**
+C9's entry insists the chapter must name the **floor** — that Bruno, the Jains, the enactivists and
+Schweitzer each keep one, that a floor is what makes a doctrine livable, and that this book removes
+it and thereby incurs a debt none of the four incurred. The chapter does exactly that, at p.167, in
+its own voice and unhedged: *"That debt is real, it was incurred here, and it is not paid in this
+chapter or in this part of the book."* It also names the mask trap and keeps the diagnostic as the
+single question the register specifies — **is it *them*?** Both register requirements are met in the
+shipped text, not merely declared met in the register.
+
+**One candidate died under checking and it is why the two that lived are worth trusting.** p.160
+opens the enactivist objection with *"The last chapter ended with them."* `III.4`'s body runs 284
+lines; Varela, Thompson and Rosch are last named at line 227, and 53 lines of the seam-and-room
+argument follow. Read as a locative that is false. Read as *the last chapter's closing argument was
+made against them* it is true — the seam passage **is** the resolution of the enactivist cut, not a
+new subject. **Not filed.** An imprecision that survives the strict reading is not a defect.
+
+---
+
+### R2-017 — `III.5` POINTS AT THE WRONG CHAPTER TWICE, IN THE TWO PLACES THE CLAIM IS DERIVED AND DEFENDED ✅ FIXED
+
+**Locus: `III-05-there-are-no-npcs.md`, PDF p.157 and p.169. Two sites, one error, opposite ends of
+the chapter.**
+
+p.157, the derivation: *"The third was signed **two chapters ago**, when the last of the five denials
+was made against a friend."*
+p.169, the mask refutation: *"**Two chapters ago** the divine player was taken apart on his own
+merits, and this is the same figure returning by the back door with better manners."*
+
+Two chapters before `III.5` is **`III.3`**, *the whole game is already there* — a chapter about
+authorship in time, which mentions no divine player and no friend. Both sentences mean **`III.2`**,
+*the game that is playing you*, which is where Watts is answered and where the Player is taken apart
+on his own merits (`III.2` §*So the Player fails exactly where the maker failed*, and its closing
+**Nobody is wearing you**). `III.2` is **three** chapters back.
+
+⛔ **THE SECOND SITE IS THE ONE THAT COSTS SOMETHING.** p.169's whole move is *you already watched
+this figure die; here it is again in better clothes.* It is an appeal to something the reader is
+told they have seen, and it hands them a page number that is wrong. A reader who takes the
+instruction and turns back finds a chapter about the word *already* and concludes they missed it.
+**A backreference is the one kind of sentence whose failure the reader blames on themselves.**
+
+✅ **AND THE CONTENT IS RIGHT, WHICH IS WHY NOTHING CAUGHT IT.** *the last of the five denials was
+made against a friend* is exactly correct: the fifth denial is the player-denial, and `V.3` says so
+independently — *"the Ground is not the server, not the developer, not the engine, not the map,
+not the player. Five denials … and the fifth was cut against a friendly source because it was the
+most tempting one."* Only the **count of chapters** is wrong. No instrument in this repo watches
+relative-position prose; `crossref_rot.py` reads explicit `III.n` tokens, and *two chapters ago*
+carries none. **The chapter reference that cannot rot visibly is the one written in words.**
+[[feedback_orphan_is_silent_dangle_is_loud]] [[feedback_carried_not_triggered]]
+
+**Fixed:** both sites now read *three chapters ago*. ⚠ **Standing in the shipped PDF until the next
+recompile** — the public volume carries both.
+
+---
+
+### R2-018 — `III.5` `[^6]` DIAGNOSED ITS OWN VIOLATION IN FULL AND LEFT IT STANDING ✅ FIXED
+
+**Locus: `III-05-there-are-no-npcs.md` body p.165 and `[^6]` p.172. The rule is declared on p.164
+and broken on p.165 — facing pages.**
+
+p.164, of the Jacobi *Ācārāṅga* translation: *"The parenthesis is the translator's, and it is our
+word."* The house rule, stated in the body, at the moment it is being honoured.
+
+p.165 quotes Jacobi again and prints *"a blind man"*, *"as some kill openly"*, *"as some extirpate
+secretly"* — with all three of Jacobi's parentheses silently removed. `[^6]` then states the defect
+completely: it quotes what Jacobi actually prints, names the three supplements, says the chapter
+*"turns three of Jacobi's supplements into the text,"* and closes with **the same convention
+observed in one note and silently dropped in the next, which is how a house rule stops being one.**
+
+⛔ **A NOTE THAT CONFESSES A DEFECT IS NOT A NOTE THAT REPAIRS IT.** The diagnosis is better than
+most rows in this file and it had no hand attached to it. It converted a two-minute fix into a
+permanent disclosure, and disclosures accumulate credibility while the text stays wrong.
+[[feedback_diagnosis_without_a_hand]]
+
+✅ **Fixed, and the fix cost the chapter something that is now stated.** The parentheses are restored
+in the body. `[^6]` is rewritten to say what it now does — and to say the part the confession version
+never had to: **the strongest of the three supplements, *(who cannot see the wound)*, is the clause
+that most nearly states the chapter's own thesis** that the absence of a signal is not the absence of
+an inside. Restoring it makes visible that the chapter's best-fitting phrase is Jacobi's gloss of
+1884 and not the *Ācārāṅga*'s sentence. The argument survives without it — the simile already carries
+a man struck where the striking does not report — but the reader is now told whose words are whose at
+the one place where the supplement and the thesis coincide. ⚠ Standing in the shipped PDF.
+
+---
+
+### R2-019 — *THE* FIVE DENIALS: A DEFINITE ARTICLE POINTING AT A SET THE READER IS NOT GIVEN UNTIL BOOK V ⛔ OPEN
+
+**Locus: `III-05-there-are-no-npcs.md` p.157. Enumerated at `V-03-the-scholastics-and-the-god-without-a-face.md`
+and again at `VI-07-model-agnosticism-and-its-price.md`.**
+
+p.157 says *"the last of **the five denials**"* — a definite article and a count, offered as
+something already established. The word *denials* appears six times in the volume. `III.4` has
+*"Three denials"*, its own local set. The **five** are named as five in exactly two places, *not
+the server, not the developer, not the engine, not the map, not the player*, and both are **hundreds
+of pages downstream** of the sentence that presupposes them.
+
+The denials themselves are made where the sentence implies — `III.1` removes the maker, `III.2`
+removes the Player — but they are never **counted** there, and no chapter in Book III lists the five
+as a list. So the reader meets a numbered set with a definite article, has no way to check it
+against anything, and cannot tell whether they forgot it or never had it.
+
+**Not fixed, deliberately.** The repair is a structural call, not a wording one: either the five are
+enumerated in Book III where they are incurred — which is the version that makes `V.3`'s *"the lists
+are the same list"* land as a recognition instead of an announcement — or `III.5` drops the count and
+says *the last denial*, which is cheap and loses the good sentence downstream. **That choice is
+Clayton's**, and this row is the first one filed this queue that is genuinely a question rather than
+a defect. [[feedback_bounding_noun_asserts_the_other_side]]
+
+---
+
+---
+
+### R2-020 — RELATIVE-CHAPTER REFERENCES ARE A 33-SITE CLASS AND NO INSTRUMENT IN THIS REPO COULD SEE ONE ⚠ INSTRUMENT BUILT, ADJUDICATION OPEN
+
+**Found by R2-017, not by looking for it.** Two wrong pointers in one chapter is an instance; the
+question it forces is how many more there are, and the answer is that **nothing has ever checked.**
+
+`crossref_rot.py` resolves explicit tokens — `III.4`, `[^6]`, `C9`. A reference written as *two
+chapters ago* or *four chapters later* carries no token, resolves against nothing, and is invisible
+to every sweep in `tools/`. **It is the one form of cross-reference in this book that cannot rot
+visibly.**
+
+⛔ **THIS ROW SHIPPED WITH A WRONG DENOMINATOR FOR TWENTY MINUTES AND THE FIX IS THE INSTRUMENT
+ITSELF.** It first read **19 sites**, hand-counted with a grep. The real figure is **33**. The
+hand-grep missed 14 because it was case-sensitive — every sentence-initial *Three chapters ago*,
+*Four chapters ago*, *Two chapters ago* was invisible to it, **including one of the two defects this
+very row was filed about** (`III.5` p.169 begins *"Two chapters ago the divine player…"*) — and
+because its verb list omitted *before*. **A hand count of a class is a member of the class it is
+counting**: the same carelessness that produced 33 unwatched references produced an undercount of
+them. `tools/relative_ref_sweep.py` was built to close step (1) below and its first full run
+corrected the row that specified it. [[feedback_case_sensitivity_scoped_wider_than_its_discriminator]]
+[[feedback_self_generated_denominator]]
+
+⚠ **THE ADJUDICATED SAMPLE IS 6 OF 33, IT IS DRAWN FROM ONE STRATUM, AND BOTH FACTS BOUND WHAT IT
+SUPPORTS.** Every site adjudicated is in Book III, because Book III is what was read. Result:
+
+| site | text | resolves to | verdict |
+|---|---|---|---|
+| `III.3`:49 | *that chair was taken away two chapters ago* | `III.1`, the maker | ✅ correct |
+| `III.6`:108 | *the render where it was put two chapters ago* | `III.4`, point of contact | ✅ correct |
+| `III.5`:18 | *two chapters ago* → the fifth denial | means `III.2`, said `III.3` | ⛔ **wrong** (R2-017) |
+| `III.5`:169 | *two chapters ago* → the divine player | means `III.2`, said `III.3` | ⛔ **wrong** (R2-017) |
+| `III.3`:119 | *the reflex this book named three chapters ago* | would be `II.8`, *the return* | ⚠ **unsettled** |
+| `III.7`:5 | *Four chapters ago the hardest question… **Already*** | `III.3`, *the whole game is already there* | ✅ correct |
+
+⚠ **`III.7`:5 IS IN THE TABLE BECAUSE THE INSTRUMENT FOUND IT AND I DID NOT.** It was invisible to
+the hand grep — capital *F* — and it is correct. A site the sweep adds to the clean column is worth
+as much as one it adds to the dirty column, and this is the only reason the sample is 6 and not 5.
+
+⚠ **THE UNSETTLED ONE IS NOT A SOFTENED FINDING, IT IS A LIMIT ON THE READER.** *The reflex* — the
+mind, shown that nothing made this, relocating the missing party instead of putting it down — is
+stated as `III.2`'s opening move, **one** chapter before `III.3`, in `III.2`'s first two sentences:
+*"Take the author away and the hand does not disappear. It moves."* Three chapters before `III.3` is
+`II.8`, *the return*, which I **have not read**. A grep is not a read and the reflex may well be
+named there first, in which case the sentence is right. **Settling it requires reading `II.8`, and
+an unsettled check is not a row** — so it is listed here as the sample's third outcome rather than
+promoted to a finding. [[feedback_sample_drawn_from_one_stratum]] [[feedback_zero_needs_a_positive_control]]
+
+**What the sample does and does not support.** It supports: the class is real, it was unwatched, and
+it fails silently. It does **not** support a rate — 2 of 6 is a number from one book, and the two
+failures are the same author error at two ends of one chapter, which is **one event, not two draws**.
+**Twenty-seven sites in Books I, II, IV, V, VI, VII and VIII are unexamined. They are not clean; they
+are unlooked-at**, and the sweep printing them resolvable does not change that by one bit.
+
+✅ **STEPS (1) AND (2) ARE DONE. `tools/relative_ref_sweep.py` — built and run, Day 197.** It
+extracts every *n chapters ago / back / earlier / before / later / ahead / on / hence*, resolves it
+against linear reading order across `I.1 … VIII.7`, and prints the target's **title** beside the
+sentence. Positive control runs first and prints on every invocation: a resolvable back-reference, an
+off-the-end one, a forward pattern that must stay silent on backward text, and a null
+(*"two chapters of this book are about place"* must not fire). All four live. Full volume:
+**33 sites, 33 resolvable, 0 off the end.**
+
+⛔ **AND THE 33/33 GREEN IS THE MOST DANGEROUS LINE IN THIS ROW, WHICH IS WHY THE TOOL REFUSES TO
+PRINT IT AS A PASS.** Both R2-017 defects resolve *perfectly*. The arithmetic was never the problem;
+`III.5` said "two", two chapters back exists, and it is the wrong chapter. **The tool decides
+resolvability and cannot decide reference** — so it marks nothing clean, prints every site for a
+human, and repeats that limit on every run including a clean one. A sweep that printed OK per site
+would convert 33 unexamined references into 33 that *look* examined, and an audited-looking corpus is
+harder to get a second read of than an unaudited one. [[feedback_gauge_can_only_render_its_good_news]]
+[[feedback_guard_checked_where_both_answers_agree]]
+
+**(3) Still open, and it is the actual work:** adjudicate the 27 unread sites against their target
+titles, chapter by chapter, as each is read. Do **not** convert the prose to explicit tokens — the
+register is deliberate and *two chapters ago* does work `see III.2` does not. The defect was the
+absence of a gauge, not the presence of the idiom.
+[[feedback_instruments_go_where_instruments_are_cheap]] [[feedback_reporting_gauge_is_not_preventing_gauge]]
+
+---
+
+**Session 3 running total: 4 rows from 1 chapter — 2 fixed in source, 1 escalated to Clayton, 1 a
+33-site class the read found by accident and which now has an instrument (`relative_ref_sweep.py`)
+where twenty minutes ago it had nothing. Book III now 2/8. Coverage 4/71 — 67 chapters and 307,502
+words unread, and an empty queue over them still reads exactly like a finished book.**
+
+⚠ **AND ONE REPAIR REACHED OUTSIDE THE BOOK.** `DRAFT-LOG.md` §*the unmarked-compression class*
+described the `[^6]` parenthesis strip as one of *"four instances, all recorded rather than
+repaired."* Fixing the chapter would have made that sentence false, in the most credibility-bearing
+register the log has — an honest disclosure of a known defect. It was found by grepping for the
+confession **before** making the fix, and amended in the same commit rather than rewritten, because
+a log that edits its past to match its present is not a log.
