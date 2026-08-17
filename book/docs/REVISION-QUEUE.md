@@ -878,3 +878,145 @@ repaired."* Fixing the chapter would have made that sentence false, in the most 
 register the log has — an honest disclosure of a known defect. It was found by grepping for the
 confession **before** making the fix, and amended in the same commit rather than rewritten, because
 a log that edits its past to match its present is not a log.
+
+---
+
+## READ SESSION 4 — Day 198, III.2, whole, from the PDF
+
+**Coverage 4/71 → 5/71.** `III.2 — THE GAME THAT IS PLAYING YOU` read whole from the shipped PDF,
+pp.124–130 body and pp.131–132 notes, all five. **Chosen by following the dependency the last read
+exposed**, not by position: session 3's two defects (R2-017) both pointed *at* III.2 — it is the
+chapter where Watts is answered and the Player is taken apart, and C9's derivation leans on it.
+
+⚠ **CONTROLS FIRST.** `fresh_read.py`'s synthetic map, one gap planted in each direction — both
+live. Text extracted with PyMuPDF, not pypdf: this volume uses a custom `/WP-Encod-0` CMap that
+pypdf cannot apply, and pypdf additionally drops f-ligatures, which in a read whose subject is
+*wording* would make an extraction artefact read as a defect in the book.
+
+**Two candidates died under checking, and they are why the two that lived are worth something.**
+(a) p.127's *"the last chapter has already spent what that costs"* — resolves to III.1 **and is
+content-true**: III.1 establishes *"Before and after are what an arrangement has"* and *"there is no
+arrangement that everything is in"*, and III.2 reproduces both sentences verbatim as a refrain. This
+is the check `relative_ref_sweep.py` structurally cannot do, run by hand, on the exact class that
+burned session 3. (b) The three Watts spans in the body against *The Book* ch. 1 — the hide-and-seek
+story, the give-back, and *you're IT* — all sit where `[^3]` says they sit.
+
+---
+
+### R2-021 — A QUOTATION IS PRINTED IN THE CHAPTER'S EMPHASIS FACE, AT THE POINT OF MAXIMUM PROSECUTORIAL FORCE ✅ FIXED
+
+**Locus: `III-02-the-game-that-is-playing-you.md` L112–113. PDF p.128.**
+
+The chapter's marking is consistent and it is legible: **italic = the source's words**, **bold = the
+chapter's own voice raised**. The deathbed passage uses italic four times in six lines — *In death we
+doff the persona…*, *real only for a while, not eternally real*, *when the game has gone on long
+enough…* — and bold for its own lead-ins (**Play, yes. Nobody's play.** / **That is refused too**).
+
+⛔ **In the middle of that passage, one genuine Watts span is set in bold:**
+
+> One's friends should gather, as friends gather backstage, **to applaud the show.**
+
+`[^4]` certifies *"to applaud the show."* as one of the two spans quoted from *The Book* ch. 2. It is
+Watts's. It is printed in the face this chapter uses for its own raised voice.
+
+**The adjacent clause proves this is an inconsistency and not a policy.** *"as friends gather
+backstage"* is roman — because it is a **paraphrase**, and `[^4]` gives Watts's actual wording as
+*"as their friends come behind the stage."* Roman-for-paraphrase is exactly right. So the passage
+runs paraphrase (roman) → paraphrase (roman) → **quotation (bold)**, and only the third is mismarked.
+
+⚠ **The direction of the harm is the part worth stating.** This is the sentence the chapter's whole
+case against Watts turns on — the charge two paragraphs later is that he *"is trying to console,
+which is worse."* Setting his actual words in the prosecution's own face means a reader cannot tell
+whether *applaud the show* is Watts or is the chapter being scathing about Watts. **The chapter is
+giving away its strongest evidence**: that the damning phrase is not a caricature, it is a quotation.
+Fixing this makes the argument stronger, not weaker, which is the tell that the marking is wrong
+rather than the reading. Precedent that the volume treats this face as load-bearing:
+`00-ARCHITECTURE.md` line 2996 files V.9's *italicised adapted quotation* as a defect. This is the
+inverse error and no row covers it. [[feedback_field_keeps_name_swaps_referent]]
+
+**Fix:** `*to applaud the show.*` — italic. ⚠ **Do not fix by widening the italic to swallow the
+roman paraphrase beside it**; that would convert a marking error into a misquotation.
+
+---
+
+### R2-022 — *"THIS BOOK"* MEANS TRUTH AND CONSEQUENCES IN ONE NOTE AND WATTS'S *THE BOOK* IN THE NEXT ✅ FIXED
+
+**Locus: `III-02` `[^2]` vs `[^3]`, adjacent notes. Third site `[^5]`. PDF pp.131–132.**
+
+`[^2]` closes: *"the lifting is **this book's** operation on his text."* — Truth and Consequences.
+`[^3]` closes: *"All spans quoted from **this book** in this chapter were checked against the text
+rather than recalled."* — Watts's *The Book*, whose title is the words *The Book*.
+
+Same two words, adjacent notes, opposite referents. The body compounds it: III.2 uses *this book* for
+the volume six times (*this book's position*, *what this book is carrying*, *this book keeps asking*).
+
+⛔ **And it lands on the one sentence where the referent decides what was verified.** `[^3]`'s
+instance is the chapter's **verification certificate**. Read as the volume, it certifies nothing —
+*"spans quoted from Truth and Consequences in this chapter"* is vacuous. Read as Watts, it is the
+whole warrant for the chapter's central quotations. A reader who resolves it the first way concludes
+the Watts spans were never checked; they were. `[^5]` repeats the collision: *"not a stray sentence
+recruited from elsewhere in **the book**."*
+
+**Fix:** `[^3]` → *"All spans quoted from* The Book *in this chapter…"*; `[^5]` → *"elsewhere in* The
+Book*."* Italicising the title does the whole job, because the collision is between a title and a
+demonstrative and only one of them takes italics.
+
+---
+
+### R2-023 — THE INSTRUMENT BUILT YESTERDAY SAW 20% OF ITS SUBJECT, AND THE FIX TO IT SAW 97% ✅ PAID (tool), ⛔ 12 SITES OWED A HUMAN
+
+**Locus: `tools/relative_ref_sweep.py`. Filed and paid in this session.**
+
+R2-020 shipped this tool citing **19** sites; the case-sensitivity correction made it **33**. Both
+figures were the *counted* form only — *two chapters ago*. The **uncounted** form — *the last
+chapter*, *the next chapter* — was never in its vocabulary. **Real denominator 169. It saw 33.**
+
+| form | sites | |
+|---|---|---|
+| counted (`two chapters ago`) | 33 | all it ever saw |
+| uncounted (`the next chapter`) | 116 | **invisible** |
+| postpositive (`the chapter before last`) | 3 | invisible, and see below |
+| plural span (`the chapters after this one`) | 4 | no single target; scope is the finding |
+| sense-ambiguous (`the last chapter of the atlas`) | 8 | FINAL, not PREVIOUS — different word |
+| out of scope by decision (`earlier in this book`) | 5 | counted, never silently dropped |
+
+⛔ **THE BLIND CLASS IS THE MORE DANGEROUS ONE.** *Two chapters back* carries a count and can be
+wrong the day it is typed. *The last chapter* is correct **by adjacency** — true when written, and it
+stays true until a chapter is inserted, split, moved or cut, at which point **every affected site
+flips wrong at once**, silently, with no token for any sweep to resolve. The loud class was
+instrumented first because it was the class that had already made noise.
+[[feedback_orphan_is_silent_dangle_is_loud]]
+
+★ **AND THE FIX HAD TO BE MEASURED AGAINST ITSELF, which is where the real finding is.** The
+extension for the uncounted class was written to the examples in hand, then diffed against a wider
+hand-pattern: **9 more sites in forms the extension still could not see.** One of them is a trap of
+exactly the kind the extension had just been written to avoid:
+
+- *"the next chapter but one"* (IV.3) is **+2**. Caught by the first fix.
+- *"the chapter before last"* (IV.9) is **−2**. **NOT caught by that fix** — the backward twin, and
+  the repair had been scoped to the named cause. [[feedback_repair_scoped_to_named_cause]]
+
+Adjudicated by hand: IV.9's site resolves to IV.7, and IV.7's closing section *"What is owed"* does
+hold an objection the chapter says it *"did not settle."* Content-true. **A naive −1 would have
+pointed confidently at IV.8, whose ending is not an unsettled objection** — a wrong answer printed in
+the same face as a right one, which is the failure the tool's own header exists to refuse.
+
+**Three controls now exist that did not: the `+2` trap, the `−2` trap, and the sense family.** Fifteen
+assertions in `--selftest`, all live. The summary's by-form breakdown is **derived and asserted to
+reconcile** — its first version named four forms by hand and printed 161 against 169 counted, in the
+summary of a tool whose entire subject is a matcher narrower than its class.
+
+⚠ **THE SECOND LIMIT, now printed on every run.** The 116 uncounted sites resolve by adjacency, so
+they are **all green today by construction** and this tool will print them green forever. Its answer
+can only change on the day a chapter moves. **A sweep whose subject cannot vary between runs has
+stopped being a gauge** — so it is re-run after any reorder, split, insertion or cut, and the run
+that matters is the one *after* the move, not the reassuring one before it.
+[[feedback_gauge_that_does_not_move]]
+
+⚠ **Precision is measured, not asserted:** a 14-site random sample of the uncounted class, read by
+hand, found 12 genuine positional pointers and 2 of the FINAL-sense family — which is why that family
+now gets its own section rather than a resolution.
+
+⛔ **Docstring rot, fixed here:** the header still read *"19 sites in the volume"* after the commit
+that corrected it to 33. The correction reached the commit message and the queue row and never
+reached the file it was about. [[feedback_correction_does_not_reach_citers]]

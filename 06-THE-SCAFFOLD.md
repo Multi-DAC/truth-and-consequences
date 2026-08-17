@@ -864,7 +864,7 @@ decision, not an omission.** `03` routes neutral monism's naming — Russell, an
 without the doctrine) in the chapter that most needs the doctrine. The claim is made in mechanics and
 the naming stays where `03` put it.
 
-### III.5 — THERE ARE NO NPCs ✅ DRAFTED — 4,944 words
+### III.5 — THERE ARE NO NPCs ✅ DRAFTED — 5,039 words
 ✅ **DRAFTED Day 187 · 4,188 words · `book/III-05-there-are-no-npcs.md`.** All four beats land plus
 the trap and the note. **Primary text only, eight quoted passages from three works, every one checked
 against a second independent source** — Bruno against Lindsay's English **and the 1584 Italian**
@@ -2472,7 +2472,7 @@ inside, not about the Ground, and is therefore not this chapter's. **Real zeros,
 corpus:** `Ātman`, `māyā`, `anattā`, `wu wei`, `Indra`, `Vedānta`, `Nāgārjuna`, `pratītya` = 0 files;
 positive control on the same command line — `Advaita`, `Brahman`, `Tao`, `Buddh`, `Śaṅkara` = hits.
 
-### V.6 — THE ROOM THAT WAS NEVER EMPTIED ✅ DRAFTED — 6,412 words
+### V.6 — THE ROOM THAT WAS NEVER EMPTIED ✅ DRAFTED — 6,575 words
 **Beats:** Kabbalah and *tzimtzum* — the Infinite withdraws to make room for a world · **the tradition
 ran I.3's own argument internally and split over it** — *kipshuto* (the withdrawal is real, and the
 space is truly vacated) against *shelo kipshuto* (the concealment is real only from the created side;

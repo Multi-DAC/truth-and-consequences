@@ -110,8 +110,8 @@ himself, and he writes it at a deathbed.**
 If there is one player wearing every face, then every face is a costume — and he says so, in the
 place where saying so has consequences. The word *person*, he notes, comes from the mask of the
 ancient stage. *In death we doff the persona, as actors take off their masks and costumes in the
-green room behind the scenes.* One's friends should gather, as friends gather backstage, **to applaud
-the show.** Earlier, the same claim without the kindness: the universe of seemingly separate things
+green room behind the scenes.* One's friends should gather, as friends gather backstage, *to applaud
+the show.* Earlier, the same claim without the kindness: the universe of seemingly separate things
 is *real only for a while, not eternally real.*[^4]
 
 That is the sentence to refuse, and not because it is bleak. It is trying to console, which is worse
@@ -215,7 +215,7 @@ is stated as an amputation rather than as a reading.
 ch. 1, "Inside Information," where the hide-and-seek story is told and where Watts gives it back:
 "In fact, it isn't my story at all, for any student of the history of religions will know that it
 comes from ancient India, and is the mythical way of explaining the Vedanta philosophy." *The taboo
-of taboos: you're IT!* is the same chapter. All spans quoted from this book in this chapter were
+of taboos: you're IT!* is the same chapter. All spans quoted from *The Book* in this chapter were
 checked against the text rather than recalled.
 
 [^4]: The deathbed passage is *The Book*, ch. 2, "The Game of Black-and-White" — the *persona* as
@@ -229,4 +229,4 @@ reader can check whether the licensing is really there.
 enough, all of us will wake up, stop pretending, and remember that we are all one single Self — the
 God who is all that there is and who lives for ever and ever." Taken above at full strength and as
 the story's destination, which is what it is — it is the last movement of the passage the chapter
-has been quoting throughout, not a stray sentence recruited from elsewhere in the book.
+has been quoting throughout, not a stray sentence recruited from elsewhere in *The Book*.
