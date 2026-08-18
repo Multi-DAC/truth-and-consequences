@@ -164,7 +164,7 @@ described, which is the point of doing it here.
 
 **One: say what the evidence carries, at the grade it carries it, in a sentence with no softener in
 it.** The *Iliad*'s psychological lexicon differs from the *Odyssey*'s in the ways Snell describes.
-That is not *arguably*. It is countable, it has been counted, and anyone may recount it. The next
+That is not *arguably*. It is countable, and Snell counted it — at second hand here, and checkable by anyone. The next
 claim down — that this reflects a difference in how deciding was experienced — is weaker, is a
 reading, and gets said as a reading. The claim below that — that the mechanism was auditory
 hallucination generated in the right temporal lobe — is weaker still and is where the evidence stops
@@ -256,7 +256,7 @@ world, in stock.
 [^1]: Bruno Snell, *Die Entdeckung des Geistes: Studien zur Entstehung des europäischen Denkens bei
 den Griechen* (Hamburg: Claassen & Goverts, 1946); translated by T. G. Rosenmeyer as *The Discovery
 of the Mind* (Oxford: Blackwell, 1953). The lexical argument about *sōma* and about the plurality of
-psychic terms is in the opening chapter.
+psychic terms is in the opening chapter. **See the standing note on grade above**, which states at what level this chapter's attributions are made and which of them are flagged for reading.
 
 [^2]: *Iliad* I, the intervention of Athena at the quarrel with Agamemnon. Given by the episode and
 not quoted; no translation is being relied on for any word of the argument above.

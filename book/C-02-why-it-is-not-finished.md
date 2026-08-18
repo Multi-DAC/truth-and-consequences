@@ -56,7 +56,7 @@ the same knife on itself:
 > point where it would be most useful to imply otherwise, what that volume will not contain: a list
 > with a three-week column on it, and somebody who has kept the list for nineteen years. **Practices
 > can be written down. A rota cannot, because a rota is not a practice — it is other people, and a
-> book cannot supply other people.**
+> book cannot supply other people.**[^1]
 
 That is a debt filed **with a pointer at its own due date.** The volume at the end of this one is
 Book VIII. It has now been written.
@@ -134,8 +134,8 @@ interesting than the defect.** The census card's COMPLEMENTS line exists to name
 that sees what this one cannot* — that is the law in `IV.1` and it is what licenses the card's
 central move. Partway through Book VI the field kept its name and quietly began reporting something
 else: what the position itself renders superbly. True, useful, and the wrong content for that slot.
-**18 of the 43 cards that carry the field ran under the wrong meaning**, from `VI.4` to the end of
-the volume, and `VIII.2` diagnosed it against its own card, in the chapter whose subject is exactly
+**18 of the 43 cards that carry the field ran under the wrong meaning**,[^2] from `VI.4` to the end
+of the volume, and `VIII.2` diagnosed it against its own card, in the chapter whose subject is exactly
 that error. **All eighteen are repaired here.** What stays open is what the episode exposed and a
 rewrite does not close: the law was on the page from `IV.1`, it was violated for eighteen consecutive
 cards, and **nothing in the project noticed until an outside reader compared the field's stated job
@@ -196,7 +196,7 @@ good* and *does it land* — are still open. They are yours to answer.
 
 ### V.
 
-The book stops because books stop. That is a fact about the form, not a claim about the subject.
+The book stops because books stop.[^3] That is a fact about the form, not a claim about the subject.
 
 Everything it describes was running before the first sentence, went on running through all eight
 volumes, and does not pause now. The account is unfinished in the way a map of a river is unfinished:

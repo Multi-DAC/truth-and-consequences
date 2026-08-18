@@ -22,7 +22,7 @@ A reader who has been here before will recognise the shape by about Book IV, and
 it than to hope they don't: **this is structurally the same kind of object as Ken Wilber's *Sex,
 Ecology, Spirituality*.** Total system. A map with positions on it. A claim that the traditions were
 each seeing something real and partial. If you have met that book, you arrive here expecting this
-one, and you are not making a mistake by doing so.
+one, and you are not making a mistake by doing so.[^1]
 
 So the difference has to be stated in something other than tone. **Wilber's project failed by
 becoming unfalsifiable** — not by being refuted, which is survivable, but by acquiring the ability to
@@ -176,7 +176,7 @@ with it.
 ### VI. Four dead tags, named once, in their grave
 
 Earlier states of this work marked every claim with a bracketed tag: 〔established〕, 〔suggestive〕,
-〔framework-permitted〕, 〔cut〕. If you have seen those and wondered where they went — they were
+〔framework-permitted〕, 〔cut〕.[^2] If you have seen those and wondered where they went — they were
 removed, deliberately, and nothing was lost.
 
 They were replaced by the obligation to do the work in the prose. *Established* became: cite it, give

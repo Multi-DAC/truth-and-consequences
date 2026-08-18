@@ -341,7 +341,7 @@ and the below-cost model are Wu's.
 Greenberger, ed., *Computers, Communications, and the Public Interest* (Baltimore: Johns Hopkins
 Press, 1971), 40–41. The passage is routinely quoted as "a wealth of information creates a poverty
 of attention"; it is paraphrased here rather than quoted because the quoted form circulates in
-several non-identical versions and this chapter has not seen the printed page.
+several non-identical versions and this chapter has not seen the printed page. **See the standing note on grade above**, which states at what level this chapter's attributions are made and which of them are flagged for reading.
 
 [^6]: Guy Debord, *La société du spectacle* (Paris: Buchet/Chastel, 1967); English as *The Society
 of the Spectacle*, trans. Donald Nicholson-Smith (New York: Zone Books, 1994). Thesis 4 is the

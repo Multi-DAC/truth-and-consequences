@@ -290,7 +290,7 @@ above was wrong until this note was written.** It read *"a few hundred of them"*
 excess in the last is prose usage, not entries). Corrected to *ninety-odd* here. **The error is the
 one this book keeps naming: a remembered magnitude, never gauged, sitting in a sentence whose
 argument did not depend on it** — which is exactly why nothing caught it for three days. Nothing in
-`tools/` could have; there is no instrument that counts a source's entries against a prose adjective.
+`tools/` could have; there is no instrument that counts a source's entries against a prose adjective. **See the standing note on grade above**, which states at what level this chapter's attributions are made and which of them are flagged for reading.
 
 [^2]: K. J. S. Anand and P. R. Hickey, "Pain and Its Effects in the Human Neonate and Fetus," *New
 England Journal of Medicine* 317 (19 November 1987): 1321–29 — the review that broke the practice,

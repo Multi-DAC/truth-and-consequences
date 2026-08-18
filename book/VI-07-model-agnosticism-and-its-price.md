@@ -485,7 +485,7 @@ criticised and did not become the standard reading of the formalism.
 [^6]: Garrett Birkhoff and John von Neumann, "The Logic of Quantum Mechanics," *Annals of
 Mathematics* 37, no. 4 (1936): 823–843. The propositions form an orthocomplemented lattice in which
 distributivity fails; Birkhoff and von Neumann proposed modularity in its place, and the modern
-standard treatment weakens this further to orthomodularity. **The system is two-valued throughout.**
+standard treatment weakens this further to orthomodularity. **The system is two-valued throughout.** **See the standing note on grade above**, which states at what level this chapter's attributions are made and which of them are flagged for reading.
 
 [^7]: D. David Bourland Jr., "A Linguistic Note: Writing in E-Prime," *General Semantics Bulletin*
 (1965). Bourland studied under Korzybski and devised the constraint in the late 1940s. Korzybski had

@@ -467,7 +467,7 @@ expensive are in the same sentence — the one that makes the cut against Katz.*
     its own chapter**, so the disclaimer that covers everyone covers everyone but one. Smith is
     *The Religions of Man* (1958), retitled *The World's Religions* (1991): the popularising vehicle,
     which is exactly the role the sentence assigns him. Owed: ten, or cut him.
-    [[feedback_artifact_states_its_own_roster]] [[feedback_disclaimer_not_coupled_to_verdict]]
+    [[feedback_artifact_states_its_own_roster]] [[feedback_disclaimer_not_coupled_to_verdict]] **See the standing note on grade above**, which states at what level this chapter's attributions are made and which of them are flagged for reading.
 
 [^22]: **Steuco, *De perenni philosophia libri X*, Lyon, 1540, and he was Vatican librarian.**
     Standard reference; not in this repository. ✅ The rhetorical use is sound and is the chapter's

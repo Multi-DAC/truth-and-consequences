@@ -10,173 +10,243 @@
       "source": "R2-011",
       "file": "VI-04-print-and-the-interior.md",
       "locus": "`[^7]`, PDF p.660 — against the standing note at p.662",
-      "status": "READY",
+      "status": "APPLIED",
       "rationale": "`[^7]` asserts the Reformation argument as McGilchrist's flatly; the standing note two pages later says the summary was assembled from secondary accounts. `is his` and `assembled from secondary accounts` are different claims about the same sentences, and the STRONGER one is the one wired to the body. Three words move the honest version to the door where the reader actually knocks. The note already closes *See the standing note below.*, so no pointer is added — only the grade.",
       "anchor": "metaphor removing the other mode's food — is his.",
-      "replacement": "metaphor removing the other mode's food — is his, reported here from secondary accounts."
+      "replacement": "metaphor removing the other mode's food — is his, reported here from secondary accounts.",
+      "applied_on": "2026-08-17"
     },
     {
       "id": "EM-002",
       "source": "R2-012",
       "file": "VI-02-the-voices.md",
       "locus": "PDF p.622 — against the standing note at p.626",
-      "status": "READY",
+      "status": "APPLIED",
       "rationale": "The chapter states Rule One (*say what the evidence carries, at the grade it carries it*) and demonstrates it on Jaynes — then exempts the one beat it is RESTING on. *it has been counted* is true and lets a reader take that the count is available and checked here; the chapter's own standing note says Snell is reported at second hand and his text is not in the repository. The replacement is still a sentence with no softener in it.",
       "anchor": "It is countable, it has been counted, and anyone may recount it.",
-      "replacement": "It is countable, and Snell counted it — at second hand here, and checkable by anyone."
+      "replacement": "It is countable, and Snell counted it — at second hand here, and checkable by anyone.",
+      "applied_on": "2026-08-17"
     },
     {
       "id": "EM-003",
       "source": "R2-010",
       "file": "IV-01-the-census-and-its-method.md",
       "locus": "one clause, either at the point of use or in the numbered note",
-      "status": "SCOPED",
+      "status": "APPLIED",
       "rationale": "This chapter carries its entire grade disclosure in the terminal *standing note on grade* — a caveat paragraph at the end, which is the placement VI.2 p.623 explicitly forbids. Machine-counted: nothing in the chapter points at it. One clause of the shape *“named from standard reference scholarship; see the standing note”* makes the disclosure reachable. No prose moves.",
-      "note": "Anchor NOT chosen: the insertion point is a judgement per chapter (point of use vs numbered note) and depends on which attribution the note is actually grading."
+      "note": "Anchor NOT chosen: the insertion point is a judgement per chapter (point of use vs numbered note) and depends on which attribution the note is actually grading.",
+      "applied": "2026-08-17, Day 198, direct — not through this file's anchor mechanism",
+      "target_note": "[^1] — standing note names no note; first door",
+      "replacement": "**See the standing note on grade above**, which states at what level this chapter's attributions are made and which of them are flagged for reading.",
+      "gauge": "census: `standing note` must occur TWICE per chapter (the note + one pointer) and the pointer must sit inside a numbered note definition. 18/18 pass."
     },
     {
       "id": "EM-004",
       "source": "R2-010",
       "file": "IV-02-mineral-and-elemental.md",
       "locus": "one clause, either at the point of use or in the numbered note",
-      "status": "SCOPED",
+      "status": "APPLIED",
       "rationale": "This chapter carries its entire grade disclosure in the terminal *standing note on grade* — a caveat paragraph at the end, which is the placement VI.2 p.623 explicitly forbids. Machine-counted: nothing in the chapter points at it. One clause of the shape *“named from standard reference scholarship; see the standing note”* makes the disclosure reachable. No prose moves.",
-      "note": "Anchor NOT chosen: the insertion point is a judgement per chapter (point of use vs numbered note) and depends on which attribution the note is actually grading."
+      "note": "Anchor NOT chosen: the insertion point is a judgement per chapter (point of use vs numbered note) and depends on which attribution the note is actually grading.",
+      "applied": "2026-08-17, Day 198, direct — not through this file's anchor mechanism",
+      "target_note": "[^1] — standing note names no note; first door",
+      "replacement": "**See the standing note on grade above**, which states at what level this chapter's attributions are made and which of them are flagged for reading.",
+      "gauge": "census: `standing note` must occur TWICE per chapter (the note + one pointer) and the pointer must sit inside a numbered note definition. 18/18 pass."
     },
     {
       "id": "EM-005",
       "source": "R2-010",
       "file": "IV-03-the-living-non-human.md",
       "locus": "one clause, either at the point of use or in the numbered note",
-      "status": "SCOPED",
+      "status": "APPLIED",
       "rationale": "This chapter carries its entire grade disclosure in the terminal *standing note on grade* — a caveat paragraph at the end, which is the placement VI.2 p.623 explicitly forbids. Machine-counted: nothing in the chapter points at it. One clause of the shape *“named from standard reference scholarship; see the standing note”* makes the disclosure reachable. No prose moves.",
-      "note": "Anchor NOT chosen: the insertion point is a judgement per chapter (point of use vs numbered note) and depends on which attribution the note is actually grading."
+      "note": "Anchor NOT chosen: the insertion point is a judgement per chapter (point of use vs numbered note) and depends on which attribution the note is actually grading.",
+      "applied": "2026-08-17, Day 198, direct — not through this file's anchor mechanism",
+      "target_note": "[^2] — first item the standing note carries at lower grade",
+      "replacement": "**See the standing note on grade above**, which states at what level this chapter's attributions are made and which of them are flagged for reading.",
+      "gauge": "census: `standing note` must occur TWICE per chapter (the note + one pointer) and the pointer must sit inside a numbered note definition. 18/18 pass."
     },
     {
       "id": "EM-006",
       "source": "R2-010",
       "file": "IV-04-human.md",
       "locus": "one clause, either at the point of use or in the numbered note",
-      "status": "SCOPED",
+      "status": "APPLIED",
       "rationale": "This chapter carries its entire grade disclosure in the terminal *standing note on grade* — a caveat paragraph at the end, which is the placement VI.2 p.623 explicitly forbids. Machine-counted: nothing in the chapter points at it. One clause of the shape *“named from standard reference scholarship; see the standing note”* makes the disclosure reachable. No prose moves.",
-      "note": "Anchor NOT chosen: the insertion point is a judgement per chapter (point of use vs numbered note) and depends on which attribution the note is actually grading."
+      "note": "Anchor NOT chosen: the insertion point is a judgement per chapter (point of use vs numbered note) and depends on which attribution the note is actually grading.",
+      "applied": "2026-08-17, Day 198, direct — not through this file's anchor mechanism",
+      "target_note": "[^1] — standing note names no note; first door",
+      "replacement": "**See the standing note on grade above**, which states at what level this chapter's attributions are made and which of them are flagged for reading.",
+      "gauge": "census: `standing note` must occur TWICE per chapter (the note + one pointer) and the pointer must sit inside a numbered note definition. 18/18 pass."
     },
     {
       "id": "EM-007",
       "source": "R2-010",
       "file": "IV-05-the-collectively-emergent.md",
       "locus": "one clause, either at the point of use or in the numbered note",
-      "status": "SCOPED",
+      "status": "APPLIED",
       "rationale": "This chapter carries its entire grade disclosure in the terminal *standing note on grade* — a caveat paragraph at the end, which is the placement VI.2 p.623 explicitly forbids. Machine-counted: nothing in the chapter points at it. One clause of the shape *“named from standard reference scholarship; see the standing note”* makes the disclosure reachable. No prose moves.",
-      "note": "Anchor NOT chosen: the insertion point is a judgement per chapter (point of use vs numbered note) and depends on which attribution the note is actually grading."
+      "note": "Anchor NOT chosen: the insertion point is a judgement per chapter (point of use vs numbered note) and depends on which attribution the note is actually grading.",
+      "applied": "2026-08-17, Day 198, direct — not through this file's anchor mechanism",
+      "target_note": "[^1] — standing note names no note; first door",
+      "replacement": "**See the standing note on grade above**, which states at what level this chapter's attributions are made and which of them are flagged for reading.",
+      "gauge": "census: `standing note` must occur TWICE per chapter (the note + one pointer) and the pointer must sit inside a numbered note definition. 18/18 pass."
     },
     {
       "id": "EM-008",
       "source": "R2-010",
       "file": "IV-06-the-computational.md",
       "locus": "one clause, either at the point of use or in the numbered note",
-      "status": "SCOPED",
+      "status": "APPLIED",
       "rationale": "This chapter carries its entire grade disclosure in the terminal *standing note on grade* — a caveat paragraph at the end, which is the placement VI.2 p.623 explicitly forbids. Machine-counted: nothing in the chapter points at it. One clause of the shape *“named from standard reference scholarship; see the standing note”* makes the disclosure reachable. No prose moves.",
-      "note": "Anchor NOT chosen: the insertion point is a judgement per chapter (point of use vs numbered note) and depends on which attribution the note is actually grading."
+      "note": "Anchor NOT chosen: the insertion point is a judgement per chapter (point of use vs numbered note) and depends on which attribution the note is actually grading.",
+      "applied": "2026-08-17, Day 198, direct — not through this file's anchor mechanism",
+      "target_note": "[^3] — the only UNVERIFIED quotation in the volume, named by the standing note",
+      "replacement": "**See the standing note on grade above**, which states at what level this chapter's attributions are made and which of them are flagged for reading.",
+      "gauge": "census: `standing note` must occur TWICE per chapter (the note + one pointer) and the pointer must sit inside a numbered note definition. 18/18 pass."
     },
     {
       "id": "EM-009",
       "source": "R2-010",
       "file": "IV-07-the-non-physical.md",
       "locus": "one clause, either at the point of use or in the numbered note",
-      "status": "SCOPED",
+      "status": "APPLIED",
       "rationale": "This chapter carries its entire grade disclosure in the terminal *standing note on grade* — a caveat paragraph at the end, which is the placement VI.2 p.623 explicitly forbids. Machine-counted: nothing in the chapter points at it. One clause of the shape *“named from standard reference scholarship; see the standing note”* makes the disclosure reachable. No prose moves.",
-      "note": "Anchor NOT chosen: the insertion point is a judgement per chapter (point of use vs numbered note) and depends on which attribution the note is actually grading."
+      "note": "Anchor NOT chosen: the insertion point is a judgement per chapter (point of use vs numbered note) and depends on which attribution the note is actually grading.",
+      "applied": "2026-08-17, Day 198, direct — not through this file's anchor mechanism",
+      "target_note": "[^7] — the standing note's own 'no citation of any kind'",
+      "replacement": "**See the standing note on grade above**, which states at what level this chapter's attributions are made and which of them are flagged for reading.",
+      "gauge": "census: `standing note` must occur TWICE per chapter (the note + one pointer) and the pointer must sit inside a numbered note definition. 18/18 pass."
     },
     {
       "id": "EM-010",
       "source": "R2-010",
       "file": "IV-08-the-divine-and-the-hierarchies.md",
       "locus": "one clause, either at the point of use or in the numbered note",
-      "status": "SCOPED",
+      "status": "APPLIED",
       "rationale": "This chapter carries its entire grade disclosure in the terminal *standing note on grade* — a caveat paragraph at the end, which is the placement VI.2 p.623 explicitly forbids. Machine-counted: nothing in the chapter points at it. One clause of the shape *“named from standard reference scholarship; see the standing note”* makes the disclosure reachable. No prose moves.",
-      "note": "Anchor NOT chosen: the insertion point is a judgement per chapter (point of use vs numbered note) and depends on which attribution the note is actually grading."
+      "note": "Anchor NOT chosen: the insertion point is a judgement per chapter (point of use vs numbered note) and depends on which attribution the note is actually grading.",
+      "applied": "2026-08-17, Day 198, direct — not through this file's anchor mechanism",
+      "target_note": "[^4] — the one place the retrofit changed what the chapter can claim",
+      "replacement": "**See the standing note on grade above**, which states at what level this chapter's attributions are made and which of them are flagged for reading.",
+      "gauge": "census: `standing note` must occur TWICE per chapter (the note + one pointer) and the pointer must sit inside a numbered note definition. 18/18 pass."
     },
     {
       "id": "EM-011",
       "source": "R2-010",
       "file": "IV-09-the-archetypal.md",
       "locus": "one clause, either at the point of use or in the numbered note",
-      "status": "SCOPED",
+      "status": "APPLIED",
       "rationale": "This chapter carries its entire grade disclosure in the terminal *standing note on grade* — a caveat paragraph at the end, which is the placement VI.2 p.623 explicitly forbids. Machine-counted: nothing in the chapter points at it. One clause of the shape *“named from standard reference scholarship; see the standing note”* makes the disclosure reachable. No prose moves.",
-      "note": "Anchor NOT chosen: the insertion point is a judgement per chapter (point of use vs numbered note) and depends on which attribution the note is actually grading."
+      "note": "Anchor NOT chosen: the insertion point is a judgement per chapter (point of use vs numbered note) and depends on which attribution the note is actually grading.",
+      "applied": "2026-08-17, Day 198, direct — not through this file's anchor mechanism",
+      "target_note": "[^12] — the standing note's 'new and worse'",
+      "replacement": "**See the standing note on grade above**, which states at what level this chapter's attributions are made and which of them are flagged for reading.",
+      "gauge": "census: `standing note` must occur TWICE per chapter (the note + one pointer) and the pointer must sit inside a numbered note definition. 18/18 pass."
     },
     {
       "id": "EM-012",
       "source": "R2-010",
       "file": "IV-10-what-the-census-cannot-see.md",
       "locus": "one clause, either at the point of use or in the numbered note",
-      "status": "SCOPED",
+      "status": "APPLIED",
       "rationale": "This chapter carries its entire grade disclosure in the terminal *standing note on grade* — a caveat paragraph at the end, which is the placement VI.2 p.623 explicitly forbids. Machine-counted: nothing in the chapter points at it. One clause of the shape *“named from standard reference scholarship; see the standing note”* makes the disclosure reachable. No prose moves.",
-      "note": "Anchor NOT chosen: the insertion point is a judgement per chapter (point of use vs numbered note) and depends on which attribution the note is actually grading."
+      "note": "Anchor NOT chosen: the insertion point is a judgement per chapter (point of use vs numbered note) and depends on which attribution the note is actually grading.",
+      "applied": "2026-08-17, Day 198, direct — not through this file's anchor mechanism",
+      "target_note": "[^5] — first of the three indictments that do not survive contact",
+      "replacement": "**See the standing note on grade above**, which states at what level this chapter's attributions are made and which of them are flagged for reading.",
+      "gauge": "census: `standing note` must occur TWICE per chapter (the note + one pointer) and the pointer must sit inside a numbered note definition. 18/18 pass."
     },
     {
       "id": "EM-013",
       "source": "R2-010",
       "file": "V-11-what-the-old-roads-knew.md",
       "locus": "one clause, either at the point of use or in the numbered note",
-      "status": "SCOPED",
+      "status": "APPLIED",
       "rationale": "This chapter carries its entire grade disclosure in the terminal *standing note on grade* — a caveat paragraph at the end, which is the placement VI.2 p.623 explicitly forbids. Machine-counted: nothing in the chapter points at it. One clause of the shape *“named from standard reference scholarship; see the standing note”* makes the disclosure reachable. No prose moves.",
-      "note": "Anchor NOT chosen: the insertion point is a judgement per chapter (point of use vs numbered note) and depends on which attribution the note is actually grading."
+      "note": "Anchor NOT chosen: the insertion point is a judgement per chapter (point of use vs numbered note) and depends on which attribution the note is actually grading.",
+      "applied": "2026-08-17, Day 198, direct — not through this file's anchor mechanism",
+      "target_note": "[^21] — carries BOTH flagged names, Katz and Huxley",
+      "replacement": "**See the standing note on grade above**, which states at what level this chapter's attributions are made and which of them are flagged for reading.",
+      "gauge": "census: `standing note` must occur TWICE per chapter (the note + one pointer) and the pointer must sit inside a numbered note definition. 18/18 pass."
     },
     {
       "id": "EM-014",
       "source": "R2-010",
       "file": "VI-01-different-worlds-not-different-opinions.md",
       "locus": "one clause, either at the point of use or in the numbered note",
-      "status": "SCOPED",
+      "status": "APPLIED",
       "rationale": "This chapter carries its entire grade disclosure in the terminal *standing note on grade* — a caveat paragraph at the end, which is the placement VI.2 p.623 explicitly forbids. Machine-counted: nothing in the chapter points at it. One clause of the shape *“named from standard reference scholarship; see the standing note”* makes the disclosure reachable. No prose moves.",
-      "note": "Anchor NOT chosen: the insertion point is a judgement per chapter (point of use vs numbered note) and depends on which attribution the note is actually grading."
+      "note": "Anchor NOT chosen: the insertion point is a judgement per chapter (point of use vs numbered note) and depends on which attribution the note is actually grading.",
+      "applied": "2026-08-17, Day 198, direct — not through this file's anchor mechanism",
+      "target_note": "[^1] — Gebser, 'the whole book rests on his axis'",
+      "replacement": "**See the standing note on grade above**, which states at what level this chapter's attributions are made and which of them are flagged for reading.",
+      "gauge": "census: `standing note` must occur TWICE per chapter (the note + one pointer) and the pointer must sit inside a numbered note definition. 18/18 pass."
     },
     {
       "id": "EM-015",
       "source": "R2-010",
       "file": "VI-02-the-voices.md",
       "locus": "one clause, either at the point of use or in the numbered note",
-      "status": "SCOPED",
+      "status": "APPLIED",
       "rationale": "This chapter carries its entire grade disclosure in the terminal *standing note on grade* — a caveat paragraph at the end, which is the placement VI.2 p.623 explicitly forbids. Machine-counted: nothing in the chapter points at it. One clause of the shape *“named from standard reference scholarship; see the standing note”* makes the disclosure reachable. No prose moves.",
-      "note": "Anchor NOT chosen: the insertion point is a judgement per chapter (point of use vs numbered note) and depends on which attribution the note is actually grading."
+      "note": "Anchor NOT chosen: the insertion point is a judgement per chapter (point of use vs numbered note) and depends on which attribution the note is actually grading.",
+      "applied": "2026-08-17, Day 198, direct — not through this file's anchor mechanism",
+      "target_note": "[^1] — Snell, load-bearing for the whole of Book VI",
+      "replacement": "**See the standing note on grade above**, which states at what level this chapter's attributions are made and which of them are flagged for reading.",
+      "gauge": "census: `standing note` must occur TWICE per chapter (the note + one pointer) and the pointer must sit inside a numbered note definition. 18/18 pass."
     },
     {
       "id": "EM-016",
       "source": "R2-010",
       "file": "VI-03-the-enchanted-world.md",
       "locus": "one clause, either at the point of use or in the numbered note",
-      "status": "SCOPED",
+      "status": "APPLIED",
       "rationale": "This chapter carries its entire grade disclosure in the terminal *standing note on grade* — a caveat paragraph at the end, which is the placement VI.2 p.623 explicitly forbids. Machine-counted: nothing in the chapter points at it. One clause of the shape *“named from standard reference scholarship; see the standing note”* makes the disclosure reachable. No prose moves.",
-      "note": "Anchor NOT chosen: the insertion point is a judgement per chapter (point of use vs numbered note) and depends on which attribution the note is actually grading."
+      "note": "Anchor NOT chosen: the insertion point is a judgement per chapter (point of use vs numbered note) and depends on which attribution the note is actually grading.",
+      "applied": "2026-08-17, Day 198, direct — not through this file's anchor mechanism",
+      "target_note": "[^3] — Barfield, 'carries the whole of beat three'",
+      "replacement": "**See the standing note on grade above**, which states at what level this chapter's attributions are made and which of them are flagged for reading.",
+      "gauge": "census: `standing note` must occur TWICE per chapter (the note + one pointer) and the pointer must sit inside a numbered note definition. 18/18 pass."
     },
     {
       "id": "EM-017",
       "source": "R2-010",
       "file": "VI-05-electric.md",
       "locus": "one clause, either at the point of use or in the numbered note",
-      "status": "SCOPED",
+      "status": "APPLIED",
       "rationale": "This chapter carries its entire grade disclosure in the terminal *standing note on grade* — a caveat paragraph at the end, which is the placement VI.2 p.623 explicitly forbids. Machine-counted: nothing in the chapter points at it. One clause of the shape *“named from standard reference scholarship; see the standing note”* makes the disclosure reachable. No prose moves.",
-      "note": "Anchor NOT chosen: the insertion point is a judgement per chapter (point of use vs numbered note) and depends on which attribution the note is actually grading."
+      "note": "Anchor NOT chosen: the insertion point is a judgement per chapter (point of use vs numbered note) and depends on which attribution the note is actually grading.",
+      "applied": "2026-08-17, Day 198, direct — not through this file's anchor mechanism",
+      "target_note": "[^5] — the only note the standing note names",
+      "replacement": "**See the standing note on grade above**, which states at what level this chapter's attributions are made and which of them are flagged for reading.",
+      "gauge": "census: `standing note` must occur TWICE per chapter (the note + one pointer) and the pointer must sit inside a numbered note definition. 18/18 pass."
     },
     {
       "id": "EM-018",
       "source": "R2-010",
       "file": "VI-06-the-algorithmic-tunnel.md",
       "locus": "one clause, either at the point of use or in the numbered note",
-      "status": "SCOPED",
+      "status": "APPLIED",
       "rationale": "This chapter carries its entire grade disclosure in the terminal *standing note on grade* — a caveat paragraph at the end, which is the placement VI.2 p.623 explicitly forbids. Machine-counted: nothing in the chapter points at it. One clause of the shape *“named from standard reference scholarship; see the standing note”* makes the disclosure reachable. No prose moves.",
-      "note": "Anchor NOT chosen: the insertion point is a judgement per chapter (point of use vs numbered note) and depends on which attribution the note is actually grading."
+      "note": "Anchor NOT chosen: the insertion point is a judgement per chapter (point of use vs numbered note) and depends on which attribution the note is actually grading.",
+      "applied": "2026-08-17, Day 198, direct — not through this file's anchor mechanism",
+      "target_note": "[^4] — the three quoted sentences the standing note names",
+      "replacement": "**See the standing note on grade above**, which states at what level this chapter's attributions are made and which of them are flagged for reading.",
+      "gauge": "census: `standing note` must occur TWICE per chapter (the note + one pointer) and the pointer must sit inside a numbered note definition. 18/18 pass."
     },
     {
       "id": "EM-019",
       "source": "R2-010",
       "file": "VI-07-model-agnosticism-and-its-price.md",
       "locus": "one clause, either at the point of use or in the numbered note",
-      "status": "SCOPED",
+      "status": "APPLIED",
       "rationale": "This chapter carries its entire grade disclosure in the terminal *standing note on grade* — a caveat paragraph at the end, which is the placement VI.2 p.623 explicitly forbids. Machine-counted: nothing in the chapter points at it. One clause of the shape *“named from standard reference scholarship; see the standing note”* makes the disclosure reachable. No prose moves.",
-      "note": "Anchor NOT chosen: the insertion point is a judgement per chapter (point of use vs numbered note) and depends on which attribution the note is actually grading."
+      "note": "Anchor NOT chosen: the insertion point is a judgement per chapter (point of use vs numbered note) and depends on which attribution the note is actually grading.",
+      "applied": "2026-08-17, Day 198, direct — not through this file's anchor mechanism",
+      "target_note": "[^6] — Birkhoff-von Neumann, 'was not read'",
+      "replacement": "**See the standing note on grade above**, which states at what level this chapter's attributions are made and which of them are flagged for reading.",
+      "gauge": "census: `standing note` must occur TWICE per chapter (the note + one pointer) and the pointer must sit inside a numbered note definition. 18/18 pass."
     },
     {
       "id": "EM-020",
@@ -201,36 +271,49 @@
       "source": "R2-013",
       "file": "VII-04-the-two-evils.md",
       "locus": "10 endnotes, `[^1]`–`[^10]`, PDF p.823–824",
-      "status": "SCOPED",
+      "status": "APPLIED",
       "rationale": "Every one of this chapter's ten endnotes is defined and never called. The definitions sit after a `---` at the foot of the file with no `[^n]` marker anywhere in the prose, so the compiled chapter prints a numbered Notes block whose numbers attach to nothing. The notes are NOT missing from the volume — all of them render, checked against the shipped PDF — they are unreachable. The repair is one marker per note at the sentence the note is about; no prose changes.",
-      "note": "Anchor NOT chosen: each marker's attachment point is a judgement about which sentence the note answers. Several notes name their own target in their first clause (VII.4 `[^10]` quotes *not the overman but the corpse*), which makes those cheap; others grade a claim that appears more than once in the chapter, and putting the marker on the wrong instance is worse than leaving it off. Gauge: tools/note_binding.py — it must read 0 ORPHAN after."
+      "note": "Anchor NOT chosen: each marker's attachment point is a judgement about which sentence the note answers. Several notes name their own target in their first clause (VII.4 `[^10]` quotes *not the overman but the corpse*), which makes those cheap; others grade a claim that appears more than once in the chapter, and putting the marker on the wrong instance is worse than leaving it off. Gauge: tools/note_binding.py — it must read 0 ORPHAN after.",
+      "applied": "2026-08-17, Day 198, direct — markers chosen by hand, one per note",
+      "replacement": "10 endnote markers placed at the sentence each note is about",
+      "gauge": "`python tools/note_binding.py` reads 0 ORPHAN / 0 DANGLING across all 71 chapters"
     },
     {
       "id": "EM-023",
       "source": "R2-013",
       "file": "VII-05-suffering.md",
       "locus": "7 endnotes, `[^1]`–`[^7]`, PDF p.841–842",
-      "status": "SCOPED",
+      "status": "APPLIED",
       "rationale": "Every one of this chapter's seven endnotes is defined and never called. The definitions sit after a `---` at the foot of the file with no `[^n]` marker anywhere in the prose, so the compiled chapter prints a numbered Notes block whose numbers attach to nothing. The notes are NOT missing from the volume — all of them render, checked against the shipped PDF — they are unreachable. The repair is one marker per note at the sentence the note is about; no prose changes.",
-      "note": "Anchor NOT chosen: each marker's attachment point is a judgement about which sentence the note answers. Several notes name their own target in their first clause (VII.4 `[^10]` quotes *not the overman but the corpse*), which makes those cheap; others grade a claim that appears more than once in the chapter, and putting the marker on the wrong instance is worse than leaving it off. Gauge: tools/note_binding.py — it must read 0 ORPHAN after."
+      "note": "Anchor NOT chosen: each marker's attachment point is a judgement about which sentence the note answers. Several notes name their own target in their first clause (VII.4 `[^10]` quotes *not the overman but the corpse*), which makes those cheap; others grade a claim that appears more than once in the chapter, and putting the marker on the wrong instance is worse than leaving it off. Gauge: tools/note_binding.py — it must read 0 ORPHAN after.",
+      "applied": "2026-08-17, Day 198, direct — markers chosen by hand, one per note",
+      "replacement": "7 endnote markers placed at the sentence each note is about",
+      "gauge": "`python tools/note_binding.py` reads 0 ORPHAN / 0 DANGLING across all 71 chapters"
     },
     {
       "id": "EM-024",
       "source": "R2-013",
       "file": "C-01-what-this-is.md",
       "locus": "2 endnotes, `[^1]`–`[^2]`, PDF p.1047",
-      "status": "SCOPED",
+      "status": "APPLIED",
       "rationale": "Every one of this chapter's two endnotes is defined and never called. The definitions sit after a `---` at the foot of the file with no `[^n]` marker anywhere in the prose, so the compiled chapter prints a numbered Notes block whose numbers attach to nothing. The notes are NOT missing from the volume — all of them render, checked against the shipped PDF — they are unreachable. The repair is one marker per note at the sentence the note is about; no prose changes.",
-      "note": "Anchor NOT chosen: each marker's attachment point is a judgement about which sentence the note answers. Several notes name their own target in their first clause (VII.4 `[^10]` quotes *not the overman but the corpse*), which makes those cheap; others grade a claim that appears more than once in the chapter, and putting the marker on the wrong instance is worse than leaving it off. Gauge: tools/note_binding.py — it must read 0 ORPHAN after."
+      "note": "Anchor NOT chosen: each marker's attachment point is a judgement about which sentence the note answers. Several notes name their own target in their first clause (VII.4 `[^10]` quotes *not the overman but the corpse*), which makes those cheap; others grade a claim that appears more than once in the chapter, and putting the marker on the wrong instance is worse than leaving it off. Gauge: tools/note_binding.py — it must read 0 ORPHAN after.",
+      "applied": "2026-08-17, Day 198, direct — markers chosen by hand, one per note",
+      "replacement": "2 endnote markers placed at the sentence each note is about",
+      "gauge": "`python tools/note_binding.py` reads 0 ORPHAN / 0 DANGLING across all 71 chapters"
     },
     {
       "id": "EM-025",
       "source": "R2-013",
       "file": "C-02-why-it-is-not-finished.md",
       "locus": "3 endnotes, `[^1]`–`[^3]`, PDF p.1056",
-      "status": "SCOPED",
+      "status": "APPLIED",
       "rationale": "Every one of this chapter's three endnotes is defined and never called. The definitions sit after a `---` at the foot of the file with no `[^n]` marker anywhere in the prose, so the compiled chapter prints a numbered Notes block whose numbers attach to nothing. The notes are NOT missing from the volume — all of them render, checked against the shipped PDF — they are unreachable. The repair is one marker per note at the sentence the note is about; no prose changes.",
-      "note": "Anchor NOT chosen: each marker's attachment point is a judgement about which sentence the note answers. Several notes name their own target in their first clause (VII.4 `[^10]` quotes *not the overman but the corpse*), which makes those cheap; others grade a claim that appears more than once in the chapter, and putting the marker on the wrong instance is worse than leaving it off. Gauge: tools/note_binding.py — it must read 0 ORPHAN after."
+      "note": "Anchor NOT chosen: each marker's attachment point is a judgement about which sentence the note answers. Several notes name their own target in their first clause (VII.4 `[^10]` quotes *not the overman but the corpse*), which makes those cheap; others grade a claim that appears more than once in the chapter, and putting the marker on the wrong instance is worse than leaving it off. Gauge: tools/note_binding.py — it must read 0 ORPHAN after.",
+      "applied": "2026-08-17, Day 198, direct — markers chosen by hand, one per note",
+      "replacement": "3 endnote markers placed at the sentence each note is about",
+      "gauge": "`python tools/note_binding.py` reads 0 ORPHAN / 0 DANGLING across all 71 chapters"
     }
-  ]
+  ],
+  "_applied_note": "EM-003..019 and EM-022..025 were applied on Day 198 WITHOUT passing through the anchor mechanism, because their edits are INSERTIONS (a clause appended to a note, a marker attached to a sentence) and this file's anchor contract is find-exact-text-and-replace-it. Recorded here rather than papered over: for those 21 the staleness guarantee this file exists to provide did NOT apply, and what stands behind them instead is a gauge that re-measures the finished state — 0 ORPHAN for the markers, 2-occurrences-and-inside-a-note for the pointers. A gauge over the end state is a fair substitute; an unrecorded exception is not."
 }

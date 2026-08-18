@@ -418,9 +418,9 @@ version this chapter adopts.
 Western World* (New Haven: Yale University Press, 2009). The historical argument occupies the book's
 second part; the account of the Reformation given here — individual scripture reading and literal
 sense strengthening a rule-bound, text-driven, univalent mode, and the rejection of image and
-metaphor removing the other mode's food — is his. **This chapter takes his conclusion that two modes
+metaphor removing the other mode's food — is his, reported here from secondary accounts. **This chapter takes his conclusion that two modes
 of attention yield two worlds rather than two views of one, and declines his hemispheric mechanism**,
-which is an anatomical claim this book does not make and does not need. See the standing note below.
+which is an anatomical claim this book does not make and does not need. See the standing note on grade above.
 
 [^8]: Eric A. Havelock, *Preface to Plato* (Cambridge, Mass.: Belknap Press, 1963). The argument
 that the formulaic and metrical apparatus of Homeric verse is a memory technology rather than a

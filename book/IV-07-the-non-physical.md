@@ -792,7 +792,7 @@ group available and rarely run" — which is a methodological criticism levelled
 note has just admitted it has not read. **That is the wrong order and the chapter keeps it anyway**,
 because the criticism is structural rather than about any particular claim; but a structural criticism
 made from outside a literature is worth less than one made from inside it, and this one is priced
-accordingly. Filed for the revision pass.
+accordingly. Filed for the revision pass. **See the standing note on grade above**, which states at what level this chapter's attributions are made and which of them are flagged for reading.
 
 [^8]: Henry Corbin, "Mundus Imaginalis, or the Imaginary and the Imaginal," delivered at the
 Colloquium on Symbolism, Paris, June 1964, and printed in *Cahiers internationaux de symbolisme* 6

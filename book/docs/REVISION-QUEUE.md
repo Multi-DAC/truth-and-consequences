@@ -295,7 +295,7 @@ chapter that would have been wrong argues against my reading of it. Not filed.
 
 ---
 
-### R2-010 — THE VOLUME'S GRADE DISCLOSURES SIT IN THE ONE PLACE THE VOLUME SAYS THEY MUST NOT ⛔ OPEN
+### R2-010 — THE VOLUME'S GRADE DISCLOSURES SIT IN THE ONE PLACE THE VOLUME SAYS THEY MUST NOT ✅ FIXED
 
 **Locus: 18 chapters — IV.1–IV.10, V.11, VI.1–VI.7. The rule it breaks is printed in VI.2, p.623.**
 
@@ -332,7 +332,7 @@ the volume's own standard apparatus, at scale, and that the fix is a pointer rat
 
 ---
 
-### R2-011 — `VI.4`: THE SAME ATTRIBUTION IS GIVEN TWO DIFFERENT GRADES, AND THE READER REACHES THE STRONGER ONE FIRST ⛔ OPEN
+### R2-011 — `VI.4`: THE SAME ATTRIBUTION IS GIVEN TWO DIFFERENT GRADES, AND THE READER REACHES THE STRONGER ONE FIRST ✅ FIXED
 
 **Locus: `VI-04-print-and-the-interior.md`, `[^7]` vs the standing note. PDF p.649, p.660, p.662.**
 
@@ -364,7 +364,7 @@ where the reader knocks. [[feedback_audit_the_last_clause]]
 
 ---
 
-### R2-012 — `VI.2`: THE CHAPTER'S HIGHEST-GRADE SENTENCE IS ITS ONLY SECOND-HAND ONE ⛔ OPEN
+### R2-012 — `VI.2`: THE CHAPTER'S HIGHEST-GRADE SENTENCE IS ITS ONLY SECOND-HAND ONE ◐ MAIN SITE FIXED, TWO SUB-ITEMS OPEN
 
 **Locus: `VI-02-the-voices.md`, PDF p.622 against p.626.**
 
@@ -422,7 +422,7 @@ which is the argument for instruments and for reading, not for either instead of
 
 ---
 
-### R2-013 — 22 ENDNOTES ARE PRINTED IN THE VOLUME AND NOTHING IN THE PROSE POINTS AT THEM ⛔ OPEN
+### R2-013 — 22 ENDNOTES ARE PRINTED IN THE VOLUME AND NOTHING IN THE PROSE POINTS AT THEM ✅ FIXED
 
 **Locus: `VII.4` (10 notes, PDF p.823–824), `VII.5` (7, p.841–842), `C.1` (2, p.1047), `C.2` (3,
 p.1056). Machine-measured across all 71 chapters, both directions.**
@@ -501,7 +501,7 @@ without the printed page, and an unsettled check is not a row.
 
 ---
 
-### R2-014 — THE VOLUME DECLARES A CITATION DISCIPLINE TWICE AND BREAKS IT IN THE CHAPTER THAT DECLARES IT ⛔ OPEN
+### R2-014 — THE VOLUME DECLARES A CITATION DISCIPLINE TWICE AND BREAKS IT IN THE CHAPTER THAT DECLARES IT ✅ FIXED
 
 **Locus: `III-01-the-wrong-game.md` `[^1]` vs `[^3]` — same chapter, one note apart. Second site:
 `IV-09-the-archetypal.md`. Declared again at `II-08-the-return.md` `[^1]`. PDF p.122.**
@@ -535,7 +535,7 @@ two sites it is not. **Fix: four words in `III.1` `[^3]`, and a scheme label at 
 
 ---
 
-### R2-015 — `III.1` `[^1]`: THE QUALIFYING NOTE IT POINTS AT IS NOT THE ONE THAT QUALIFIES IT ⚠ OPEN
+### R2-015 — `III.1` `[^1]`: THE QUALIFYING NOTE IT POINTS AT IS NOT THE ONE THAT QUALIFIES IT ✅ FIXED
 
 **Locus: `III-01-the-wrong-game.md` `[^1]`, PDF p.122.**
 
@@ -559,7 +559,7 @@ reference re-breaks the moment a note is inserted, and this chapter has already 
 
 ---
 
-### R2-016 — `III.1` `[^4]`: THREE OF THE FOUR COPIES ARE FROM NAG HAMMADI AND THE SENTENCE SAYS FOUR ⚠ OPEN
+### R2-016 — `III.1` `[^4]`: THREE OF THE FOUR COPIES ARE FROM NAG HAMMADI AND THE SENTENCE SAYS FOUR ✅ FIXED
 
 **Locus: `III-01-the-wrong-game.md` `[^4]`, final sentence. PDF p.123.**
 
@@ -1020,3 +1020,112 @@ now gets its own section rather than a resolution.
 ⛔ **Docstring rot, fixed here:** the header still read *"19 sites in the volume"* after the commit
 that corrected it to 33. The correction reached the commit message and the queue row and never
 reached the file it was about. [[feedback_correction_does_not_reach_citers]]
+
+---
+
+## IMPLEMENTATION SESSION 1 — Day 198, 2026-08-17 evening. NOT A READ.
+
+⚠ **COVERAGE IS STILL 5/71 AND NOTHING BELOW MOVES IT.** This was the batch pass the queue has been
+accumulating toward: seven rows closed, 41 edits, across 24 chapter files. **It advances no chapter
+and it is not evidence the 66 unread chapters are clean.** Stated first because a session that closes
+seven rows *feels* like progress against the book and is progress against the queue only.
+
+**Closed:** R2-010 (17 pointer clauses), R2-011, R2-012 main site, R2-013 (22 endnote markers),
+R2-014 (both sites), R2-015, R2-016. **Still open:** R2-002 – R2-009 (the inbound LIVE set),
+R2-012's two sub-items (EM-020, EM-021), R2-019 (Clayton's call), R2-020 step 3, R2-023's 12 sites.
+
+---
+
+### R2-024 — THE VOLUME'S ONE POINTER AT THE STANDING NOTE SENDS THE READER THE WRONG WAY ✅ FIXED
+
+**Locus: `VI-04-print-and-the-interior.md` `[^7]`. PDF p.662 against pp.659–661.**
+
+R2-010 called `VI.4`'s `[^7]` *"the sole exception in the volume"* — one cross-reference in 147, the
+single place a numbered note routes a reader to the grade. It closes: **`See the standing note
+below.`**
+
+⛔ **In the printed volume the standing note is ABOVE.** `[^7]` renders on p.662; the standing note it
+points at runs pp.659–661, ending two pages *before* the `Notes` heading. Measured across the whole
+volume, not inferred: 17 standing-note pages found in the PDF, and in **17 of 17** the `Notes`
+heading falls on the same page or later. There is no chapter in which *below* is right.
+
+⛔ **THE MECHANISM IS THE SOURCE ORDER, AND IT IS WHY THIS WAS INVISIBLE.** In the markdown, 16 of
+the 17 chapters put the standing-note paragraph *after* the `[^n]:` definitions — so from inside a
+note, in the file, the standing note genuinely is below. Pandoc hoists every footnote definition to
+the end at render, which silently inverts the two. **The sentence was true of the artefact its author
+was looking at and false of the artefact the reader holds**, and no gauge in this repo compares the
+two orders. [[feedback_measured_a_shape_the_consumer_does_not_use]]
+
+★ **AND IT WAS ABOUT TO BECOME EIGHTEEN SITES INSTEAD OF ONE.** R2-010's fix is a pointer clause in
+seventeen chapters, and the volume's own established exemplar for that clause is this sentence. The
+draft clause said *below*. What stopped it was checking the printed page for the wording rather than
+copying the one instance already in the book — which is the same act R2-010 exists to demand of the
+reader. **A defect at its only site is a defect; a defect at the site you are about to copy is a
+template.** [[feedback_a_filed_defect_still_gets_rebuilt]]
+
+**Fixed:** `[^7]` now reads *"See the standing note on grade above."*, and all seventeen new clauses
+say *above*. ⚠ Standing in the shipped PDF until the next recompile.
+
+---
+
+### R2-010 — HOW THE SEVENTEEN NOTES WERE CHOSEN, so the choice is auditable rather than taste
+
+The clause is uniform: **"See the standing note on grade above**, which states at what level this
+chapter's attributions are made and which of them are flagged for reading."
+
+The *target note* is not uniform, and picking one of a chapter's notes by feel seventeen times is
+seventeen ungrounded decisions. The rule used instead is grounded in the text: **the pointer goes
+into the note the chapter's own standing note singles out.** Ten standing notes name a `[^n]` or a
+flagged person outright; five name none, and those took `[^1]` — the first door a reader knocks on.
+The full mapping with its per-chapter reason is recorded in `edit-manifest.json`, not here, because a
+table of seventeen judgements belongs where the checker can read it.
+
+⚠ **THE GAUGE IS NOT THE EDIT.** `standing note` must now occur **twice** in each of the eighteen
+chapters — the note itself, plus exactly one pointer — **and the pointer must sit inside a numbered
+note definition**, which is the half that matters: a mention in body prose would satisfy a naive
+count and fix nothing, because the defect was reachability *from the apparatus*. 18/18 pass, 0 say
+*below*. [[feedback_gauge_reachable_from_its_own_subject]]
+
+⚠ **What it still does not do.** The rule VI.2 states is *say it at the moment you use the claim*.
+A pointer from one numbered note is not that; it is the reachability half. The placement half — a
+grade clause at each point of use — is the larger edit R2-010 explicitly did not prescribe, and it
+stays unprescribed. **The row is closed against its own stated fix, not against its own stated
+complaint**, and those are different things. [[feedback_repair_scoped_to_named_cause]]
+
+---
+
+### R2-013 — CLOSED, AND THE GAUGE SAYS SO
+
+```
+NOTE BINDING — 71 chapters, 527 endnote definitions
+  ORPHANED (note exists, nothing points at it) :  0
+  DANGLING (marker exists, no note)            :  0
+  every endnote in the volume is reachable from the prose.
+```
+
+22 markers placed by hand, one per note, at the sentence each note is about — `VII.4` (10),
+`VII.5` (7), `C.2` (3), `C.1` (2). The row's own warning was that *"a marker on the wrong instance is
+worse than no marker"*, so every insertion was made through a script that **refuses to write unless
+its anchor matches exactly once in the file**, and it refused twice before it ran: once on a
+blockquote whose `> ` prefixes broke the match, once on an anchor that turned out to be a prefix of a
+longer sentence. Both would have been silent hand-edits. `self_citation_gate.py`, `apparatus_rot.py`
+and `relative_ref_sweep.py` all still exit 0.
+
+---
+
+### TWO THINGS FOUND IN PASSING AND NOT FILED AS ROWS, because an unsettled check is not a row
+
+⚠ **`C.2` `[^2]` and its body sentence disagree on the denominator.** The body says *"18 of the 43
+cards that carry the field"*; the note says *"The 18-of-44 figure"* and adds that *"IV.9's two v1b
+cards have no complement field at all."* If 44 is the total and two carry no field, cards carrying
+the field is 42, not 43 — three numbers where there should be two. It is one grep and one tool run
+from being settled and it was not run tonight, so it is written here rather than filed.
+[[feedback_bucket_derived_by_subtraction]]
+
+✅ **One of R2-020's 27 unexamined relative references is now adjudicated, for free.** `VII.4`'s
+*"Two chapters ago, arguing about how wide to draw the circle of concern"* resolves to `VII.2` — and
+`[^4]`, the note just attached to that very sentence, independently names `VII.2` and describes the
+same argument. **Correct.** 26 unexamined. It cost nothing because the marker pass had already put
+the note and the sentence side by side, which is the argument for doing apparatus work in batches.
+
+---

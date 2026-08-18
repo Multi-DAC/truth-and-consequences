@@ -229,7 +229,7 @@ the target is displaced unpredictably during the saccade, so that spatial contin
 illusion disappears. The filling-in is not automatic padding — it is conditional on the system
 concluding it is looking at the same object, which makes it a *judgement* the reader never made and
 cannot inspect. ⚠ Third author is **Heal**, not *Heald*; checked against the published citation
-because the two are one letter apart and the wrong one is the more familiar-looking name.
+because the two are one letter apart and the wrong one is the more familiar-looking name. **See the standing note on grade above**, which states at what level this chapter's attributions are made and which of them are flagged for reading.
 
 [^2]: Daniel J. Simons and Daniel T. Levin, "Failure to detect changes to people during a real-world
 interaction," *Psychonomic Bulletin & Review* 5 (1998): 644–49 — the door study, run on a college

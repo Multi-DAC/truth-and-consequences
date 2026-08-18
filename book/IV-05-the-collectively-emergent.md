@@ -327,7 +327,7 @@ pointed out that this is impossible** — the word is purely Greek and has never
 it was about collectives**, and it was adopted on that basis. That is precisely the failure mode the
 paragraph above uses to retire the word: **a borrowing that transfers authority rather than meaning**,
 demonstrated inside the word's own history. Ruling 109 banned the term and credited the tradition
-once; this note is the credit, and it is now also the argument.
+once; this note is the credit, and it is now also the argument. **See the standing note on grade above**, which states at what level this chapter's attributions are made and which of them are flagged for reading.
 
 [^2]: **Dunbar's number** — R. I. M. Dunbar, "Neocortex size as a constraint on group size in
 primates," *Journal of Human Evolution* 22 (1992): 469–93, and the argument as extended to humans in

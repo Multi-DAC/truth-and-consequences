@@ -351,7 +351,7 @@ the only text reproduced.
 [^3]: The "Great War" between Barfield and Lewis is a documented exchange of philosophical papers
 and letters running through the 1920s; it is named as such by both men and by the scholarship on
 the Inklings. Lewis's *Discarded Image* [^1] and Barfield's work in this section therefore stand in
-a closer relation than their placement in this chapter suggests.
+a closer relation than their placement in this chapter suggests. **See the standing note on grade above**, which states at what level this chapter's attributions are made and which of them are flagged for reading.
 
 [^4]: Owen Barfield, *Poetic Diction: A Study in Meaning* (London: Faber & Gwyer, 1928). The
 argument about the undivided ancient meaning, the direction of semantic change from unity toward

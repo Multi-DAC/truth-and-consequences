@@ -389,7 +389,7 @@ any form.** Verified against the PMC full text (PMC13061628) rather than the abs
 first full text read for this chapter and revises the grade note below by one source. The error ran
 in the safe direction — controlling is weaker than stratifying, so the chapter had *over*-credited
 the design — but it was an invented methodological detail, which is the defect class this book
-spends VI.7 diagnosing in other people.
+spends VI.7 diagnosing in other people. **See the standing note on grade above**, which states at what level this chapter's attributions are made and which of them are flagged for reading.
 
 [^5]: Jennifer Allen, Baird Howland, Markus Mobius, David Rothschild and Duncan J. Watts,
 "Evaluating the fake news problem at the scale of the information ecosystem," *Science Advances* 6,

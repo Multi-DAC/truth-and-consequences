@@ -22,7 +22,7 @@ observation — the man is struck by a second arrow, and the second one he fires
 recoil: the *why me*, the rehearsal of how it could have gone otherwise, the resistance to the fact
 that it did not, the story assembling itself around the wound about what the wound means concerning
 his life. The first arrow was fired by the world. The second was fired from inside, at a target that
-was already hit.
+was already hit.[^1]
 
 The claim is not that the second arrow is imaginary. It is a real wound and it hurts in the same
 currency. The claim is that it is *added* — that a quantity of the suffering in a life is generated
@@ -154,7 +154,7 @@ conjunction is the whole content: physical pain, psychological anguish, and soci
 three present and converging at once. Any two of them is a very bad time. All three is a different
 category, and her point is that the third term is what makes it different, because social degradation
 is what removes the position from which a person could be someone-suffering rather than a thing being
-damaged.
+damaged.[^2]
 
 Affliction does not hurt the self. It destroys the self, from the outside. Weil's phrase for what it
 leaves is the mark of slavery — a stamp on the soul, put there by an agency that was never in
@@ -168,7 +168,7 @@ sufferer performed and could in principle stop performing. A crushing, done from
 apparatus by which a stopping could be chosen. The focusing is not tightened by it. It is shut.
 
 **So the floor is this, stated once and without qualification: not all suffering discloses, and not
-all suffering can be navigated through. Some suffering annihilates the navigator.** No clause in this
+all suffering can be navigated through. Some suffering annihilates the navigator.**[^4] No clause in this
 book overrides that sentence. Not the plenum, not the completeness of configuration space, not the
 oscillation, not the account of meaning that arrives three chapters from now. If any of them appears
 to, the appearance is a mistake in the reading or a mistake in the writing, and this sentence is the
@@ -186,7 +186,7 @@ Everything above raises a question about permissions that this book has been cir
 and now has to state as a rule, because from here to the end of the work it is the rule that does the
 most restraining.
 
-**A truth is not an answer unless it is true at the altitude the question was asked from.**
+**A truth is not an answer unless it is true at the altitude the question was asked from.**[^7]
 
 The propositions in this book are, as far as I can argue them, true. They are true about the
 structure of things — about grounds, plenums, positions, the completeness of what is realizable. That
@@ -227,7 +227,7 @@ Here is the move, quoted in full so that it cannot be softened by paraphrase:
 > for the drama of choice, striving, and self-creation. **Every finite experience, no matter how
 > painful or contracted, possesses ultimate meaning and value.** It contributes a unique and
 > irreplaceable quality to the cosmic totality, imbuing all of existence with profound and inalienable
-> purpose.
+> purpose.[^5]
 
 I am refusing that, and refusing it here rather than quietly declining to repeat it, because it is not
 a stray sentence. It is a culmination — the last thing said before the argument turns to evidence, and
@@ -320,7 +320,7 @@ this chapter owes is the consequence, which the previous one deliberately held b
 rather than a permission.
 
 **The full focusing of a perspective onto one other perspective, with nothing withheld and nothing
-gained by it, is not a diminishment of the person doing it. It is what care is made of.** Attention is
+gained by it, is not a diminishment of the person doing it. It is what care is made of.**[^6] Attention is
 not a preliminary to caring, a thing you do in order to then do something helpful. In the cases that
 matter most it is the entire act, because there is nothing helpful to do.
 
@@ -345,7 +345,7 @@ attention is the moral act, and its difficulty is the difficulty of getting the 
 long enough to see something that is not the self. She called that unselfing, and she thought — I
 think rightly — that most moral failure is not a failure of will at the moment of choice but a failure
 of attention long beforehand, such that by the time the choice arrives the person is choosing between
-options a poorer looking has already generated. Weil is upstream of her and put it more starkly: the
+options a poorer looking has already generated.[^3] Weil is upstream of her and put it more starkly: the
 capacity to give one's attention to a sufferer is rare to the point of being nearly miraculous, and
 almost everyone who believes they possess it does not.
 

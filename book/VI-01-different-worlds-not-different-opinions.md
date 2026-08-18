@@ -260,7 +260,7 @@ instruction.
 
 [^1]: Jean Gebser, *Ursprung und Gegenwart* (Stuttgart, 1949–53); translated by Noel Barstad with
 Algis Mickunas as *The Ever-Present Origin* (Athens, Ohio: Ohio University Press, 1985). The
-structures and the perspectivity axis are developed across Part One.
+structures and the perspectivity axis are developed across Part One. **See the standing note on grade above**, which states at what level this chapter's attributions are made and which of them are flagged for reading.
 
 [^2]: Brent Berlin and Paul Kay, *Basic Color Terms: Their Universality and Evolution* (Berkeley:
 University of California Press, 1969). The implicational hierarchy has been revised repeatedly

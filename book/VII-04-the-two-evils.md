@@ -48,7 +48,7 @@ known for a century and moral philosophy has never borrowed:
 
 > **From inside an ordered phase, the order-parameter presents as law. From outside, it presents as
 > contingency. Both presentations are veridical about their respective positions, and neither is
-> about the ground.**
+> about the ground.**[^3]
 
 Ask anyone inside a ferromagnet which way is north and they will tell you with total conviction — and
 they will be *right*, phase-locally. The conviction is not a bug and not an illusion to be therapised
@@ -77,7 +77,7 @@ That is the vocabulary. Now the case that shows what it buys.
 ### The angels who cannot repent
 
 Aquinas asks a question that sounds like a curiosity of medieval angelology and turns out to be the
-sharpest limit case anyone has produced: why can the fallen angels not repent?
+sharpest limit case anyone has produced: why can the fallen angels not repent?[^2]
 
 His answer is not that they are too proud or too far gone. It is structural, and it is about the kind
 of mind they have. The angelic will is *non-discursive*. An angel does not deliberate its way toward
@@ -94,7 +94,7 @@ reorganises the whole demonology.
 
 **A being locked wholly at a pole has not *maximised* that pole. It has lost the axis.** Its moral
 dimension has collapsed to a point. It is not superlatively wicked; it is morally *dimensionless* — a
-flatlander in the good-and-evil plane, beyond good and evil not as the overman but as the corpse.
+flatlander in the good-and-evil plane, beyond good and evil not as the overman but as the corpse.[^9]
 
 That sentence is the chapter's hinge and it is also the chapter's most dangerous sentence, so it gets
 its correction immediately, from us, before anyone else supplies it.
@@ -172,7 +172,7 @@ cosmology depends on it.
 holding of one's individuation against the whole rather than as an expression of it.
 
 > **The focusing is metaphysical — it is what makes you a somebody. Contraction is ethical — it is a
-> stance a somebody can take. Every perspective is focused. Not every perspective is contractive.**
+> stance a somebody can take. Every perspective is focused. Not every perspective is contractive.**[^10]
 
 The two share a shape and share nothing else, and if they are welded then the next chapter's central
 claim — that sometimes the focusing *is* the care, that a parent bringing their whole attention down onto
@@ -185,7 +185,7 @@ decided is the final truth is something else wearing its coat.
 
 Now the uncomfortable part, and it must be said without cushioning or the rest is not honest.
 
-**These two orientations are dynamically symmetric.**
+**These two orientations are dynamically symmetric.**[^7]
 
 Both are genuinely navigable. Both are coherent. Both ascend in their own terms, and each has a
 literature, a discipline, a set of exemplars, and an account of what the other is doing wrong. Each
@@ -244,7 +244,7 @@ has swallowed everything. It fails identically, by the same theorem, for the mys
 into the biosphere and says the same sentence warmly. The reasoning there turned on what is left to
 owe *with* once a boundary has gone, and it convicts the swallower and the melter without a word
 changed between them. That chapter concluded, in its own voice, that the asymmetry between the errors
-is a claim about the middle of the range and not about the ends.
+is a claim about the middle of the range and not about the ends.[^4]
 
 Hold that against what has just been argued.
 
@@ -278,13 +278,13 @@ privileged standpoint, a place from which he counts and others do not, and the n
 exactly the proof that no position holds such a place. Or he can **refuse the exemption** and be
 consistent, willing that overriding is permitted for all, himself included — which is coherent to say
 and purchases nothing he wanted, licensing the world to override him and delivering not mastery but
-the dimensionless point, the loop's corpse reached from the other side.
+the dimensionless point, the loop's corpse reached from the other side.[^5]
 
 That argument was made there to answer a challenge about agency. Here is what it also establishes,
 and this is the thing C19 is actually claiming:
 
 > **The asymmetry does not live in a doctrine professed. It lives in the exemption an action
-> performs.**
+> performs.**[^1]
 
 The egoist who *says* he knows he is not the whole *acts* as though he were the one position the
 reciprocity cannot reach. He has not asserted the totality standpoint; he has occupied it. And the
@@ -308,7 +308,7 @@ doctrine at all, and it belongs in this chapter because it arrives at the same p
 Arendt, watching Eichmann in the glass booth in Jerusalem, expected a monster and found a
 functionary: a man of clichés, unable to think from anyone else's standpoint, whose defence was
 procedural and whose manner was tedious. Her phrase — *the banality of evil* — is one of the most
-misused in the language, and it does not mean that evil is trivial or that anyone might do it. It
+misused in the language[^6], and it does not mean that evil is trivial or that anyone might do it. It
 means that the enormity did not require an enormous inner life to produce it. The doctrine was not in
 the man. It was in the arrangement, and he was fluent in the arrangement.
 
@@ -371,7 +371,7 @@ not by being the same, but by being the two halves of one mark, neither of which
 ### The census entry
 
 **Whose:** the privation account — evil as *privatio boni*, absence rather than substance. Augustine's,
-after he left the Manichees, and the tradition's ever since.
+after he left the Manichees, and the tradition's ever since.[^8]
 
 **Renders:** what it renders superbly. That evil has no positive principle, no independent
 kingdom, nothing of its own to be made of. It is the instrument that killed the two-powers cosmology

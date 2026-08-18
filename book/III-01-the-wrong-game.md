@@ -185,7 +185,7 @@ That question has one answer left, and the next chapter is what it costs.
 Irenaeus citation in this book, stated each time rather than assumed, because Harvey's edition
 divides the text differently and a reader carrying one scheme into the other edition does not find
 the passage. The claim in the body that the system survives largely through its prosecutors is
-true of the state of knowledge before 1945 and is qualified by the next-but-one note; Irenaeus
+true of the state of knowledge before 1945 and is qualified by note 4; Irenaeus
 writes c. 180 and the Valentinian material he reports is his own summary of a school, not a
 quotation from it.
 
@@ -198,7 +198,8 @@ quotation stops — Achamoth is the fallen Sophia of the previous section, and n
 the sentence a paragraph of apparatus the chapter does not want. The substitution is a compression,
 not a correction: it says what Irenaeus's clause says.
 
-[^3]: *Adv. haer.* I.5.4. The boast the Valentinians place in the Demiurge's mouth is Isaiah's —
+[^3]: *Adv. haer.* I.5.4, same translation and scheme. The boast the Valentinians place in the
+Demiurge's mouth is Isaiah's —
 compare Isaiah 45:5 and 46:9 — and the body's remark that this is "the part that got everyone
 killed" is a claim about what the ascription *means*, not a claim that Irenaeus says so. It is the
 God of Israel's own self-declaration reassigned to an ignorant functionary, which is why the system
@@ -214,5 +215,7 @@ without his consideration." The chapter drops the parenthetical *he had not appr
 removes an emphasis and adds nothing, but it is recorded here because an unmarked elision inside a
 quotation is the ordinary route by which a paraphrase acquires a quotation's authority. The codex
 was one of the thirteen recovered near Nag Hammadi in December 1945; *Apocryphon of John* survives
-in four copies, in a long and a short recension, which is why the body says "its own version" —
-there is no single text to cite.
+in four copies, in a long and a short recension — three of them among the thirteen (II,1 and IV,1
+long, III,1 short), the fourth the Berlin Codex, Papyrus Berolinensis 8502,2, bought in Cairo in
+1896 and unconnected to the jar. Which is why the body says "its own version" — there is no single
+text to cite, and the witnesses are not even one find.

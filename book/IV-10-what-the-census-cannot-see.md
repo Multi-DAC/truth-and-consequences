@@ -533,7 +533,7 @@ to produce specimens is predicted by the framework if their primary coherence is
 prose.** So this defect has a location, and it is not research and not planning: it is the act of
 expanding a correct compressed note into a sentence, with the material closed. That is a narrower and
 more actionable diagnosis than *"written from memory"*, and it is the opposite of what I first wrote
-here — I attributed it upstream before checking the upstream file.
+here — I attributed it upstream before checking the upstream file. **See the standing note on grade above**, which states at what level this chapter's attributions are made and which of them are flagged for reading.
 
 [^6]: ⛔ **THE BODY ATTRIBUTED THIS SENTENCE TO THE INHERITED MATERIAL UNTIL DAY 195, AND THE MATERIAL
 DOES NOT CONTAIN IT.** Repaired under ruling 177 (released edition: repair the body, mark the repair). The

@@ -228,12 +228,14 @@ that has been reproduced for ninety years without anyone going to look:
 > (God-image) in man. It can also be found in Irenaeus, who says: "The creator of the world did not
 > fashion these things directly from himself but copied them from archetypes outside himself."
 
-His footnote gives the reference and the Latin: *Adversus haereses* II, 7, 5 — *"Mundi fabricator
-non a semetipso fecit haec, sed de alienis archetypis transtulit."*[^8]
+His footnote gives the reference and the Latin: *Adversus haereses* II, 7, 5 — Massuet's numbering,
+the scheme the Ante-Nicene Fathers follow — *"Mundi fabricator non a semetipso fecit haec, sed de
+alienis archetypis transtulit."*[^8]
 
 Go and read II, 7, 5.
 
-The Latin as Harvey prints it, with the words Jung's quotation does not include:
+The Latin as Harvey prints it — Harvey divides the text differently and carries this passage at
+II.vi.3, so the address changes under you here — with the words Jung's quotation does not include:
 
 > **Si enim** mundi fabricator non a semetipso fecit hæc, sed **quemadmodum nullius momenti artifex,
 > et quasi primum discens puer**, de alienis archetypis transtulit, Bythus ipsorum unde habuit
@@ -569,13 +571,16 @@ exact against W. W. Harvey's edition (*Sancti Irenaei… libros quinque adversus
 Ante-Nicene Fathers (Roberts–Donaldson) — including the preceding sentence, and including the chapter
 title, *"Created things are not the images of those Æons who are within the Pleroma,"* which the
 chapter characterises correctly. *"Two sentences later"* is also correct: the regress conclusion is
-the second sentence after the excerpted one. ⛔ **But the citation names one scheme and quotes
-another.** Jung's *"II, 7, 5"* is **Massuet's** numbering, which the ANF follows; **Harvey prints
-this passage at II.vi.3**, and Harvey's own II.vii is three sections long and is about *umbra*. The
-chapter gives the Massuet address and then says *"the Latin as Harvey prints it"* without marking
-that the scheme changed under the reader. **Already filed — R-108, `SWEEP-001` row 1** — and repeated
-here because a defect filed in a sweep file is invisible at the site where a reader meets it, which
-is how it gets rebuilt: [[feedback_filed_defect_still_gets_rebuilt]].
+the second sentence after the excerpted one. ⚠ **The citation names one scheme and quotes another,
+and the body now says so.** Jung's *"II, 7, 5"* is **Massuet's** numbering, which the ANF follows;
+**Harvey prints this passage at II.vi.3**, and Harvey's own II.vii is three sections long and is
+about *umbra*. Until Day 198 the chapter gave the Massuet address, then said *"the Latin as Harvey
+prints it"*, and left the reader to discover in a note that the scheme had changed underneath them —
+in the one chapter of this volume whose entire argument is that a citation nobody follows up is a
+citation nobody has checked. **Filed twice before it was fixed — R-108, `SWEEP-001` row 1, and again
+here** — because a defect filed in a sweep file is invisible at the site where a reader meets it,
+which is how it gets rebuilt: [[feedback_filed_defect_still_gets_rebuilt]]. Both schemes are now
+labelled at the point of use; this note records the divergence and no longer carries the repair.
 ⚠ **A correction to this pass's own working, kept because the method is the transferable part.** I
 first placed the passage in Harvey's CAP. V and said so. That was wrong. The scan's OCR **drops the
 `CAP. VI.` heading line entirely**, so an anchored `^CAP\.` search returns V and VII and all but
@@ -632,7 +637,7 @@ incompatible jobs. Sharper still, that same apparatus cross-refers to a table of
 assignments across all entity types — **and no such table was ever built.** A pointer to something
 that does not exist is mechanism-without-a-trigger inside the inheritance, and it is a **sharper
 instance of this chapter's own argument** than the figures the chapter reported: the apparatus could
-not report that the assignment was missing, so it cited it instead.
+not report that the assignment was missing, so it cited it instead. **See the standing note on grade above**, which states at what level this chapter's attributions are made and which of them are flagged for reading.
 
 ---
 
