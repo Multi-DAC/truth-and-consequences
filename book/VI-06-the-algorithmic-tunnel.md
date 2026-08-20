@@ -63,10 +63,14 @@ reasonable conclusion from it was that the chamber does not work the way the sto
 
 Here is where this chapter stops agreeing with the debunking and turns.
 
-Every study above shares a design feature that nobody treated as a limitation, because it does not
-look like one. **They all switch the algorithm off.** They take people who have lived inside a
+Every study above shares a design feature that is rarely treated as a limitation, because it does
+not look like one. **They all switch the algorithm off.** They take people who have lived inside a
 personalized feed for years, remove it, and measure what changes. When nothing changes, the
 inference drawn is that the algorithm was not doing anything.
+
+The direction has been run the other way, and by researchers this chapter has already cited.[^8]
+It matters enough to state before the turn rather than after it, because the result points the
+other way from the one this chapter is about to build on.
 
 In February 2026, Germain Gauthier, Roland Hodler, Philine Widmer and Ekaterina Zhuravskaya
 published a field experiment on X that ran *both* directions.[^4] Just under five thousand active
@@ -405,10 +409,41 @@ news on Twitter during the 2016 U.S. presidential election," *Science* 363, no. 
 here for the commodity-form analysis only. Her account of intent, her historical periodization and
 her remedies are not adopted, and the argument of this chapter does not depend on any of them.
 
+[^8]: Naijia Liu, Xinyi Hu, Yasemin Savas, Matthew Baum, Adam J. Berinsky, Allison J. B. Chaney,
+Christopher Lucas, Rei Mariman, Justin de Benedictis-Kessner, **Andrew M. Guess**, Dean Knox and
+Brandon M. Stewart, "Short-term exposure to filter-bubble recommendation systems has limited
+polarization effects: Naturalistic experiments on YouTube," *PNAS* 122, no. 8 (18 February 2025),
+doi:10.1073/pnas.2318127122. Four experiments, ~9,000 participants, 130,000 experimentally
+manipulated recommendations, 31,000 platform interactions, on a custom YouTube-like platform
+serving real YouTube videos with the real recommendation algorithm's output captured and slanted.
+This is the **on**-direction: the design deliberately *creates* filter-bubble and rabbit-hole
+conditions rather than removing them, and does so specifically to break the supply-and-demand
+feedback loop the authors name as the confound in the off-only literature. Their verdict is the
+opposite of [^4]'s on-arm: *"even heavy-handed (although short-term) perturbations of real-world
+recommendations have limited causal effects on policy attitudes,"* and they argue the burden of
+proof for algorithm-induced polarization has therefore shifted.
+
+⚠ **Added Day 201, 2026-08-20, and the way it was found is the reason it is flagged rather than
+absorbed.** It was not found by reading; it was found by a citation-lineage query against the
+authors this chapter already cites — the same instrument that caught an unrelated miss in the
+Hessdalen work five days earlier. The mechanism of the original miss is measurable: [^3] has 330
+citations and surfaced in every search behind this chapter; this paper has 15 and surfaced in none.
+Search rank is a popularity measure, and within a research lineage popularity tracks age.
+
+**WHAT IS NOT RESOLVED, stated plainly rather than reconciled cheaply.** [^4] and [^8] both
+manipulate in the on-direction and disagree. Two differences are available and this chapter does
+not claim either settles it: [^8] runs short sessions on a synthetic platform with **no persistent
+social graph**, and the mechanism [^4] reports — users acquire durable *follows* that survive the
+algorithm's removal — cannot occur where there is nothing to follow. If that reading is right, [^8]
+measures the persuasion channel this chapter says is not the operative one, and its null is
+consistent with, not contrary to, the structural claim. **That is a hypothesis. Neither full text
+has been read** — see the standing note on grade below, which this footnote does not exempt itself
+from.
+
 ---
 
 *The standing note on grade, owed here as in VI.1 through VI.5.* Pariser, Bakshy, Guess, Gauthier,
-Allen, Grinberg and Zuboff are named from **primary sources consulted at abstract and
+Allen, Grinberg, Zuboff and Liu et al. [^8] are named from **primary sources consulted at abstract and
 press-summary level on Day 190, not from full texts held in this repository.** ★ This is a
 **different and better grade than VI.1–VI.5**, all of which named their sources from general
 knowledge with nothing consulted. Here the bibliographic details, effect sizes, sample sizes and
