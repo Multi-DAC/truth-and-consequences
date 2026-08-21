@@ -210,6 +210,19 @@ the last queue. [[feedback_filed_defect_misprices_its_own_subject]]
 and nineteen are still decisions somebody has to make. That arithmetic is how the inbound register
 reached 146. [[feedback_bucket_derived_by_subtraction]]
 
+⛔ **AND ON DAY 202 THAT CONTROL WAS FOUND RED, FOUR DAYS DEAD, BY RUNNING IT.** Its fixture sentence
+in `VI.2` — *"It is countable, it has been counted, and anyone may recount it."* — was rewritten out
+of the chapter by `2e98418`, **the Day-198 implementation session that applied this manifest's own
+edits.** So the fix broke the gauge that watches the fix, tests 1 and 4 went red, and nothing noticed
+— because **nothing ran it.** The control was reachable only behind an explicit `--selftest` flag
+that no caller, gate or habit ever passed. A control reachable only by hand is green by default.
+**Repaired both halves:** the fixture is repointed, and the selftest now **runs first on every plain
+and `--render` invocation** and *refuses to report* (rc 2) if it fails — an anchor census from a
+checker that cannot demonstrate its own alarm branch is not evidence. `--skip-selftest` exists and is
+the escape hatch, named so it is visible in a command line. Both branches of the new trigger were
+exercised before the commit: PASS on live prose, and rc 2 with the fixture sabotaged in memory.
+[[feedback_fix_removes_the_signature_the_gauge_watches]] [[feedback_delegated_step_has_no_trigger]]
+
 ⚠ **The alarm branch has a positive control.** `--selftest` fabricates both failures against a real
 chapter — an anchor that is gone (STALE) and one that matches many times (AMBIGUOUS) — and fails if
 either reads clean, plus a fourth check that the fixture text is really present so a green cannot
@@ -1127,5 +1140,137 @@ from being settled and it was not run tonight, so it is written here rather than
 `[^4]`, the note just attached to that very sentence, independently names `VII.2` and describes the
 same argument. **Correct.** 26 unexamined. It cost nothing because the marker pass had already put
 the note and the sentence side by side, which is the argument for doing apparatus work in batches.
+
+---
+
+## INBOUND SOURCE — Clayton, Day 202 / 2026-08-21: Žižek, and a comment posted under it
+
+**What arrived, 07:48.** Slavoj Žižek, *"FROM GNOSTICISM TO DIVINE KENOSIS"*, `slavoj.substack.com`,
+sent by Clayton as *"relevant to us and our work… not on the paper, but regarding Truth and
+Consequences."* Read whole, 43,218 characters, cached at
+`carapace/Architecture/data/_zizek_kenosis.txt`. At 11:42 he sent a second link — a **comment posted
+under that essay**, 9,761 characters, `…/comment/319714548` — as *"the response I posted."*
+
+⚠ **PROVENANCE IS UNSETTLED AND IT GATES EVERYTHING BELOW.** Clayton says he *posted* it. He has not
+said who **wrote** it, and the text is not in this repo's history. Nothing from that comment may
+enter the volume until authorship is stated, because the volume's whole apparatus is an attribution
+machine and an unsourced insertion is the one defect it cannot survive. **This is an ASK, not a
+blocker on the diagnoses** — R2-025 and R2-027 stand regardless of who typed the comment, because
+both were verified against the book, not against it.
+
+**What the comment IS, measured rather than described.** Grep across all 71 chapters plus the
+apparatus: *kenosis*, *Žižek*, *Altizer*, *"death of God"*, *self-emptying* — **zero occurrences,
+repo-wide.** But its fence argument is `IV.8` near-verbatim: `IV-08-the-divine-and-the-hierarchies.md:129`
+already prints *"stop the describable one from being inflated into the indescribable and thereby
+lost."* So it is neither new prose nor an excerpt. It is **`IV.8` pointed at an opponent the chapter
+has never named** — and the reused half carries `IV.8`'s **corrected** ledger, post-audit: Eckhart
+demoted into the Dionysian lineage, śūnyatā as an upstream channel rather than a fifth witness,
+Kabbalah counted for the cut and not for its antiquity. Those are the chapter's own `[^1]`, `[^3]`,
+`[^4]`, obeyed.
+
+**The disposition, in one line each:**
+
+| | |
+|---|---|
+| **R2-025** | a **live body defect the comment exposed but did not cause** — file and fix |
+| **R2-026** | the comment's **new** material, wanted in the book, **gated on authorship** |
+| **R2-027** | **not a new finding** — Ruling 111, already adjudicated, now with a public exposure |
+
+---
+
+### R2-025 — `IV.8` RECRUITS *EIN SOF* FOR THE FENCE, AND THIS REPO ELSEWHERE CALLS THAT DOCTRINE'S TWIN THE SEED OF THE POSITION `IV.8` REFUSES ⛔ OPEN
+
+**Locus: `IV-08-the-divine-and-the-hierarchies.md:75` (body), against `03-THE-ANCESTORS.md:330-331`
+and the whole of `V.6`.**
+
+`IV.8:75` builds its central paragraph out of five independent arrivals at one cut, and one of the
+five is *"Kabbalah puts **Ein Sof** before the **contraction** and everything else after it."* The
+contraction is *tzimtzum*. **And *tzimtzum* is a kenosis doctrine** — divine self-withdrawal to make
+room for what is not itself, which is structurally the move Žižek makes and which `IV.8`'s argument
+exists to refuse.
+
+**The book already knows this and has never crossed the two facts.** `03-THE-ANCESTORS.md:330-331`
+names Böhme's *Ungrund* — *"the groundless ground prior to all distinction, which must contract into
+opposition before anything can appear"* — and calls it in bold **"Tzimtzum's Christian twin, and we
+already carry tzimtzum."** Böhme is carried, at `II-01-the-ground.md:101` and `:235`, and `:235`
+names the route onward explicitly: *Ungrund* → Schelling's *Freiheitsschrift* → German idealism.
+**That is the ancestry of the exact position `IV.8` is refusing, and it runs through a witness `IV.8`
+called for the defence.** `V.6` then spends a whole chapter inside the contraction and never looks
+back at `IV.8`.
+
+⚠ **This is a different defect from the one `IV.8` `[^1]` already flags.** That note's ⛔ is about
+**dating** — *Ein Sof* is thirteenth-century, *tzimtzum* is Lurianic, so the clause telescopes three
+centuries — and it settles the count at *one witness*. It is correct and it is not this. A witness
+can be correctly dated, correctly counted, and still be **hostile**: the objection here is not *when
+Kabbalah said it* but *which side the doctrine is on*. [[feedback_adjacent_finding_is_not_a_blocker]]
+
+**The repair is a clause, not a paragraph, and it is additive.** Cite *Ein Sof* for
+unaddressability — which is what the paragraph actually needs from it — and **disown the contraction
+explicitly**, in the body or in `[^1]`. As printed, a reader who knows the material finds the
+volume's own strongest counter-example sitting inside its list of allies. **Scoped, not drafted:
+whether the disowning belongs at the point of use or in the note is a judgement about how much
+weight `IV.8` wants to put on a doctrine `V.6` treats at length.** `EM-026`.
+
+★ **The general form, which is worth more than the row.** `IV.8` was audited hard — twice — and the
+audits scored its witnesses on **date, lineage and independence**. Nobody scored them on
+**allegiance**. That is Ruling 111's quantity (*does the named party deny the move*) applied to a
+list of allies rather than to a list of opponents, and it is the same instrument gap: every gauge in
+this repo is a string-matcher over vocabulary, and *whose side is this doctrine on* is an argument.
+[[feedback_instruments_go_where_instruments_are_cheap]]
+
+---
+
+### R2-026 — THE COMMENT'S EXTENSION IS MATERIAL THE VOLUME WANTS AND DOES NOT HAVE ⛔ OPEN, GATED ON AUTHORSHIP
+
+**Three pieces, none of which exist anywhere in the repo (grep: zero hits for the whole cluster).**
+
+1. **Death-of-God as the death of a *position*, not of an entity.** `IV.8`'s argument is that
+   promotion-to-the-indescribable deletes the inside; it has never met the theological tradition
+   that says the inside was *emptied on purpose*. Altizer and the death-of-God theologians are the
+   named opponents `IV.8` lacks, and by rule 5 an unnamed strongest opponent is the tell.
+2. **Kenosis requires an inside.** The sharpest available form of `IV.8`'s own claim: you cannot
+   empty what has no interior, so a kenotic God concedes the census's premise before the argument
+   starts. This is a **cut on an opponent**, which is the house move, and it is currently unmade.
+3. **The theodicy paragraph, which is the best writing in the comment.** *"A theodicy assembled out
+   of true steps is more dangerous than one assembled from false ones, because each step invites
+   assent and the destination arrives unexamined."* Its natural home is `VII.5` (suffering), not
+   `IV.8` — `VII.5` is where the volume owes an account of consolation-by-argument and does not have
+   this sentence.
+
+⛔ **NOT DRAFTED, AND DELIBERATELY.** See the provenance warning above. If Clayton wrote it, it is
+his and enters as his. If it was written elsewhere, it enters cited or not at all. **The one thing
+that must not happen is the sentence appearing in the volume with no owner** — that is precisely the
+failure the attribution work of Days 199–202 exists to prevent. Ask, then draft. `EM-027`, `EM-028`.
+
+---
+
+### R2-027 — THE COMMENT'S ONE REAL SOFT SPOT IS RULING 111, WHICH THIS REPO ADJUDICATED AND NEVER SCOPED INTO AN EDIT ⚠ NOT A NEW FINDING
+
+**Locus: the finding is `00-ARCHITECTURE.md` RULING 111. The repair site is `I.2`. Manifest entries
+`EM-001`–`EM-025` contain no `I-0*` file at all.**
+
+The comment answers *"whence the lens"* with plenitude — *if perspectives could be the case, they
+are* — a full modal commitment carried in one clause. A Hegelian's reply is on page one of the
+*Logic*: Being with no determination is indistinguishable from Nothing, so the plenum can be full,
+blind and undramatic. The comment concedes that it converts the *why* into a category error rather
+than defeating it; it does not concede that **plenitude isn't free**.
+
+★ **I filed this as a hit against the comment and it is not one. It is the book's, already ruled.**
+Ruling 111 states it in stronger terms than I did: the plenitude argument *"never names its
+strongest opponent — the plain actualist"*; Book I names **zero** modal parties across six chapters;
+and the volume's one modal ancestor, Lewis in `II.1`, is a **co-signer** who grants the premise the
+actualist denies. The ruling's own repair is scoped to `I.2` and carries an explicit ⚠: *"this is
+the one place in the book where the answer may have to be a **concession** about what 'possibility'
+means rather than a cut. Do not draft it as a cut because cuts are the house style."*
+
+**What is actually new, and it is small but it is real: the exposure is now public.** Ruling 111 was
+an internal finding about an argument made in a book nobody had attacked on this point. The comment
+takes the same uncovered move and posts it under an essay by a professional Hegelian, where the
+opponent Book I never names reads for a living. That does not change the repair. It changes the
+**order**: `I.2` was a structural improvement and is now the volume's most reachable opening.
+
+⚠ **A ruling that produced no manifest entry is a ruling that will be re-found.** Filed as `EM-029`,
+SCOPED, pointing at the ruling rather than restating it — restating a diagnosis in a second carrier
+is how the two copies drift. [[feedback_filed_defect_still_gets_rebuilt]]
 
 ---

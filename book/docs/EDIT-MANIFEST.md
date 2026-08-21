@@ -14,13 +14,65 @@ silently patched from memory at implementation time.
 
 | state | count | meaning |
 |---|---|---|
-| **READY** | 2 | anchor chosen and resolving; applying is mechanical |
-| **SCOPED** | 23 | agreed, exact text **not yet chosen** — never summed with READY |
-| APPLIED | 0 | done, verified both directions |
+| **READY** | 0 | anchor chosen and resolving; applying is mechanical |
+| **SCOPED** | 6 | agreed, exact text **not yet chosen** — never summed with READY |
+| APPLIED | 23 | done, verified both directions |
 
 ---
 
-## READY
+## SCOPED
+
+### EM-020 — R2-012 · `VI-02-the-voices.md`
+
+**Locus:** PDF p.620 — right-temporal involvement in AVH
+
+Given in the body as *observed* with no study named; self-declared in the standing note and unmarked at the point of use. Same shape as EM-002, different beat.
+
+⚠ **Text not chosen.** Anchor NOT chosen: needs the passage re-read to decide whether the fix is a grade word or a citation.
+
+### EM-021 — R2-012 · `VI-02-the-voices.md`
+
+**Locus:** PDF p.624 — the census card's prevalence-above-diagnosis-rate line
+
+Given with no number. The chapter's own standing note calls it *“the thinnest thing in this chapter”* — a grade the body never states.
+
+⚠ **Text not chosen.** Anchor NOT chosen: the honest repair may be a number rather than a clause, and no denominator has been found yet.
+
+### EM-026 — R2-025 · `IV-08-the-divine-and-the-hierarchies.md`
+
+**Locus:** line 75 (body, the five-arrivals paragraph) or [^1]
+
+The paragraph recruits *Ein Sof before the contraction* as one of five independent fence-builders. The contraction is *tzimtzum*, which is a kenosis doctrine — divine self-withdrawal to make room — i.e. the move IV.8 exists to refuse. 03-THE-ANCESTORS.md:330-331 already calls Böhme's *Ungrund* “Tzimtzum's Christian twin” and II-01:235 traces Ungrund → Schelling → German idealism, which is the ancestry of the refused position. Repair is additive: cite Ein Sof for unaddressability, disown the contraction explicitly.
+
+⚠ **Text not chosen.** Anchor NOT chosen: point-of-use vs [^1] is a judgement about how much weight IV.8 wants on a doctrine V.6 treats at length. NOT the same as [^1]'s existing dating ⛔ — that one settles WHEN, this one settles WHICH SIDE.
+
+### EM-027 — R2-026 · `IV-08-the-divine-and-the-hierarchies.md`
+
+**Locus:** the chapter's opponent-handling — site not chosen
+
+Name the death-of-God position (Altizer, and Zižek's divine kenosis) as the strongest unnamed opponent of IV.8's promotion-deletes-the-inside argument, and make the cut: kenosis requires an inside, so a kenotic God concedes the census's premise before the argument starts. Rule 5 — an unnamed strongest opponent is the tell. Grep: kenosis/Zižek/Altizer/death of God/self-emptying = ZERO occurrences repo-wide.
+
+⚠ **Text not chosen.** ⛔ GATED ON AUTHORSHIP. The argument reached this repo via a comment Clayton POSTED under the Zižek essay; who WROTE it is unstated. Nothing enters the volume unowned. Ask first, draft second.
+
+### EM-028 — R2-026 · `VII-05-suffering.md`
+
+**Locus:** the consolation-by-argument beat — site not chosen
+
+The volume owes an account of why a theodicy built from true steps is more dangerous than one built from false ones — each step invites assent and the destination arrives unexamined. VII.5 is where that belongs, not IV.8. Currently absent.
+
+⚠ **Text not chosen.** ⛔ GATED ON AUTHORSHIP, same gate as EM-027. This is the sharpest sentence in the source and therefore the one most likely to be lifted without an owner.
+
+### EM-029 — R2-027 · `I-02-the-necessity.md`
+
+**Locus:** the plenitude argument in the body of I.2 — see 00-ARCHITECTURE.md RULING 111 for the diagnosis, which is NOT restated here on purpose
+
+Ruling 111 adjudicated this and produced no manifest entry, so it was on course to be re-found. The named ancestor (Lewis, II.1) AGREES with the move; the strongest opponent (the plain actualist: exclusion is as much a category error as selection) is named nowhere in Books I-II. Ruling 111's own ⚠ stands: the answer may have to be a CONCESSION about what 'possibility' means, not a cut.
+
+⚠ **Text not chosen.** Anchor NOT chosen; the ruling says the repair is a fight in the body, which is prose, not a byte-swap. Filed D202 because the same uncovered move was posted publicly under an essay by a professional Hegelian — that changes the ORDER, not the repair.
+
+---
+
+## APPLIED
 
 ### EM-001 — R2-011 · `VI-04-print-and-the-interior.md`
 
@@ -43,10 +95,6 @@ The chapter states Rule One (*say what the evidence carries, at the grade it car
 - It is countable, it has been counted, and anyone may recount it.
 + It is countable, and Snell counted it — at second hand here, and checkable by anyone.
 ```
-
----
-
-## SCOPED
 
 ### EM-003 — R2-010 · `IV-01-the-census-and-its-method.md`
 
@@ -183,22 +231,6 @@ This chapter carries its entire grade disclosure in the terminal *standing note 
 This chapter carries its entire grade disclosure in the terminal *standing note on grade* — a caveat paragraph at the end, which is the placement VI.2 p.623 explicitly forbids. Machine-counted: nothing in the chapter points at it. One clause of the shape *“named from standard reference scholarship; see the standing note”* makes the disclosure reachable. No prose moves.
 
 ⚠ **Text not chosen.** Anchor NOT chosen: the insertion point is a judgement per chapter (point of use vs numbered note) and depends on which attribution the note is actually grading.
-
-### EM-020 — R2-012 · `VI-02-the-voices.md`
-
-**Locus:** PDF p.620 — right-temporal involvement in AVH
-
-Given in the body as *observed* with no study named; self-declared in the standing note and unmarked at the point of use. Same shape as EM-002, different beat.
-
-⚠ **Text not chosen.** Anchor NOT chosen: needs the passage re-read to decide whether the fix is a grade word or a citation.
-
-### EM-021 — R2-012 · `VI-02-the-voices.md`
-
-**Locus:** PDF p.624 — the census card's prevalence-above-diagnosis-rate line
-
-Given with no number. The chapter's own standing note calls it *“the thinnest thing in this chapter”* — a grade the body never states.
-
-⚠ **Text not chosen.** Anchor NOT chosen: the honest repair may be a number rather than a clause, and no denominator has been found yet.
 
 ### EM-022 — R2-013 · `VII-04-the-two-evils.md`
 

@@ -292,7 +292,15 @@ def selftest():
     ok = True
 
     # 1. an anchor that IS there, exactly once — the control on the control
-    good = "It is countable, it has been counted, and anyone may recount it."
+    #
+    # ⚠ REPOINTED Day 202. The previous fixture — "It is countable, it has been counted, and
+    # anyone may recount it." — was rewritten out of VI.2 by `2e98418`, the Day-198 implementation
+    # session that applied this very manifest's edits. So the fix broke the gauge that watches the
+    # fix, tests 1 and 4 went red, and nothing noticed for four days because NOTHING RAN IT: the
+    # selftest was reachable only behind an explicit --selftest flag that no other caller passes.
+    # The repointing is the small half. The trigger below is the repair.
+    # [[feedback_fix_removes_the_signature_the_gauge_watches]] [[feedback_delegated_step_has_no_trigger]]
+    good = "It is countable, and Snell counted it"
     v, h = resolve({"file": victim, "anchor": good})
     if v != "OK":
         print("SELFTEST FAIL: known-present anchor scored %s (%d hits), expected OK" % (v, h))
@@ -326,6 +334,20 @@ def main():
     if "--selftest" in args:
         return selftest()
     data = load()
+
+    # The selftest now has a TRIGGER. It used to sit behind --selftest alone, which meant the one
+    # control proving this checker can print bad news ran only when somebody remembered — and the
+    # Day-198 edit session that rotted its fixture was exactly the moment nobody did. A control
+    # reachable only by hand is a control that is green by default. It runs first, on every plain
+    # or --render invocation, and a failed control POISONS the run: an anchor report from a
+    # checker that cannot demonstrate its own alarm branch is not evidence.
+    # [[feedback_orphan_is_silent_dangle_is_loud]] [[feedback_run_the_existing_gauge_first]]
+    if "--skip-selftest" not in args:
+        if selftest() != 0:
+            print("\n⛔ REFUSING TO REPORT: the checker's own positive control failed (above).")
+            print("   Fix the control first — its findings would be unwitnessed either way.")
+            return 2
+
     if "--render" in args:
         rc = check(data, quiet=True)
         render(data)
