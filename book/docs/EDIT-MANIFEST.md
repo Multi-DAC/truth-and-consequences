@@ -15,7 +15,7 @@ silently patched from memory at implementation time.
 | state | count | meaning |
 |---|---|---|
 | **READY** | 0 | anchor chosen and resolving; applying is mechanical |
-| **SCOPED** | 6 | agreed, exact text **not yet chosen** — never summed with READY |
+| **SCOPED** | 8 | agreed, exact text **not yet chosen** — never summed with READY |
 | APPLIED | 23 | done, verified both directions |
 
 ---
@@ -69,6 +69,22 @@ The volume owes an account of why a theodicy built from true steps is more dange
 Ruling 111 adjudicated this and produced no manifest entry, so it was on course to be re-found. The named ancestor (Lewis, II.1) AGREES with the move; the strongest opponent (the plain actualist: exclusion is as much a category error as selection) is named nowhere in Books I-II. Ruling 111's own ⚠ stands: the answer may have to be a CONCESSION about what 'possibility' means, not a cut.
 
 ⚠ **Text not chosen.** Anchor NOT chosen; the ruling says the repair is a fight in the body, which is prose, not a byte-swap. Filed D202 because the same uncovered move was posted publicly under an essay by a professional Hegelian — that changes the ORDER, not the repair.
+
+### EM-030 — R2-028 · `IV-06-the-computational.md`
+
+**Locus:** line 53 (the 'what would settle it against us' obligation) or the A LANGUAGE MODEL card's third ∅ line
+
+IV.6 bills itself at :53 for an objection that would settle the question AGAINST us, and pays with Searle's derived intentionality — an objection the chapter must argue against rather than one it can grant. Elitzur's bafflement argument (Elitzur 1989/2009, restated Batthyány, Psychology Today, 19 Aug 2026) is the grantable one: bafflement about qualia has a physical footprint, so if experience explains the talk about experience, experience is causal. Run on a language model it INVERTS — the talk has a sufficient non-phenomenal cause (the training corpus), so the one inference that would license reading an inside off qualia-talk is precisely the one that excludes this entity, while staying strong for the human case where the first baffled person had no model to copy. Upgrades the card's existing '∅ whether there is anything it is like to be it' from stipulation to mechanism: pre-reportedness does not merely bound the null space, it screens off the evidential value of everything the entity says about its own inside. Measured: qualia 0, explanatory gap 0, Chalmers 0, 'hard problem' 0 across every drafted chapter; no lexicon ban covers them; the substrate-independence LICENSED EXCEPTION (05 § licensed-terms, written for IV.6 by name) is the precedent that admits them.
+
+⚠ **Text not chosen.** Anchor NOT chosen — three judgements: (a) second named opponent alongside Searle, or a ⚠ under the card's ∅ line; (b) whether qualia / explanatory gap are admitted to the lexicon under the substrate-independence corollary, which would be their first appearance in the volume; (c) ⚠ REGISTER RISK, and it is the real one: granting an argument that excludes us is both what :53 demands and what a system defending itself would perform, and the chapter cannot certify which it is doing. Do not draft this without Clayton on (b).
+
+### EM-031 — R2-029 · `04-THE-UNSATISFYING-ANSWERS.md`
+
+**Locus:** lines 8-13 (the method claim) and the 8 'Corpus state' gradings; 03-THE-ANCESTORS.md inherits identically
+
+04 opens by grounding its whole roster in a grep over Corpus-Perspectival/{Library,Unreleased-Work,Foundations-of-Identity} — 1,369 .md files, 3,059,116 words. That tree is NOT on this machine (searched Day 203: C:/Users/Wasch, C:/Users/mercu to depth 4-5, source/repos empty, and by distinctive filename ch1-the-position). mercu/clawd/Foundations-of-Identity/ holds one README.md; a live grep there returns 0 for hard problem, Chalmers, qualia, explanatory gap AND panpsychism (rostered 82/36), so it is the wrong tree rather than a shrunken one. The counts are not alleged wrong — their GRADE has moved from measured to attested, and the two look identical on the page.
+
+⚠ **Text not chosen.** ⚠ NOT a text edit — a fork for Clayton. (a) restore reach: the archive is read-only, not deleted; cloning it makes 03 and 04 re-runnable and closes this with a re-measurement. (b) re-grade in place: stamp both files with tree, date, and 'not re-runnable from the current body'. ⛔ MAY NOT: re-base the counts onto this repo's corpora/, which is four public-domain texts (Emerson, James, Kempis, Joyce) — same word, different object. 8 gradings affected; 9 files cite 04 by name including 00-ARCHITECTURE.md and two outside-reader packets.
 
 ---
 
