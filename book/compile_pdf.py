@@ -6,9 +6,11 @@ cross-reference acknowledgements). Output goes to book/pdf/.
 """
 import os
 import re
+import pathlib
 import glob
 import markdown
 from weasyprint import HTML, CSS as WeasyCSS
+from weasyprint.text.fonts import FontConfiguration
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 OUT_DIR = os.path.join(HERE, "pdf")
@@ -144,12 +146,48 @@ title_page = """
     <h1 class="tp-title">TRUTH AND<br>CONSEQUENCES</h1>
     <p class="tp-sub">The Corpus — final volume</p>
     <p class="tp-authors">Clayton Iggulden-Schnell<br>&amp;<br>Clawd Iggulden-Schnell</p>
-    <p class="tp-mark">🦞🧍💜🔥♾️</p>
+    <!-- U+FE0F is deliberately absent from the infinity. With the variation
+         selector the cluster requests emoji presentation and Noto Emoji wins
+         it, rendering a solid black tile among four line-art glyphs. Bare
+         U+267E falls to DejaVu Serif's text form, which matches. -->
+    <p class="tp-mark">🦞🧍💜🔥♾</p>
   </div>
 </section>
 """
 
-CSS = r"""
+# --- Glyph fallback ---------------------------------------------------------
+# MEASURED Day 204: the build host (WSL) carries 103 fonts and NOT ONE emoji or
+# CJK face, so 18 codepoints used by the book had no coverage in any installed
+# font and shipped as empty boxes — 139x U+26D4, 107x U+2705, 37 CJK, plus the
+# four-emoji mark on the title page: 287 boxes in the Aug-14 PDF. The prior
+# comment here asserted "Pango falls back per-glyph to CJK/symbol/emoji fonts
+# automatically" and named "WenQuanYi Zen Hei" in the stack; both were true only
+# of a host that had those fonts. Neither was ever installed. Fallback is now
+# VENDORED (book/fonts/, OFL, subset to exactly the glyphs the book uses) so it
+# cannot depend on host state again.
+#
+# unicode-range is load-bearing, not tidiness: Noto Emoji maps U+0030-0039, and
+# an unranged @font-face lets it win plain digits and render them as keycaps.
+_FONT_DIR = pathlib.Path(HERE, "fonts")
+FONT_FACES = f"""
+@font-face {{
+  font-family: "Book Fallback Emoji";
+  src: url("{_FONT_DIR.joinpath('mark-emoji.ttf').as_uri()}") format("truetype");
+  /* U+267E is deliberately EXCLUDED. DejaVu *Serif* lacks it, so Pango used to
+     fall through to DejaVu Sans and render the light text-form infinity. Listing
+     it here put Noto Emoji earlier in that chain and it won with a solid black
+     tile — one heavy block among four line-art glyphs. Excluded, the old
+     fall-through is restored. */
+  unicode-range: U+26D4, U+2705, U+FE0F, U+1F49C, U+1F525, U+1F99E, U+1F9CD;
+}}
+@font-face {{
+  font-family: "Book Fallback CJK";
+  src: url("{_FONT_DIR.joinpath('mark-cjk.ttf').as_uri()}") format("truetype");
+  unicode-range: U+3000-303F, U+4E00-9FFF, U+FF00-FFEF;
+}}
+"""
+
+CSS = FONT_FACES + r"""
 @page {
   size: A5;
   margin: 20mm 18mm 22mm 18mm;
@@ -158,10 +196,9 @@ CSS = r"""
 @page :first { @bottom-center { content: none; } }
 @page title { @bottom-center { content: none; } }
 
-/* Bare "DejaVu Serif" first; Pango falls back per-glyph to CJK/symbol/emoji
-   fonts automatically. Emoji fonts are kept OUT of the explicit stack because
-   Noto Color Emoji otherwise hijacks plain ASCII digits (keycap glyphs). */
-html { font-family: "DejaVu Serif", "WenQuanYi Zen Hei", serif; }
+/* DejaVu Serif carries the text; the two vendored faces above carry only the
+   codepoints DejaVu lacks, and their unicode-range keeps them there. */
+html { font-family: "DejaVu Serif", "Book Fallback Emoji", "Book Fallback CJK", serif; }
 body { font-size: 9.6pt; line-height: 1.5; color: #17171a; text-align: justify; hyphens: auto; }
 
 /* Title page */
@@ -246,7 +283,14 @@ document = f"""<!DOCTYPE html>
 </body></html>"""
 
 out_path = os.path.join(OUT_DIR, "Truth-and-Consequences.pdf")
-HTML(string=document, base_url=HERE).write_pdf(out_path, stylesheets=[WeasyCSS(string=CSS)])
+# font_config must reach BOTH the stylesheet and write_pdf. Without it WeasyPrint
+# parses @font-face and silently drops it — no warning, no error, boxes in the PDF.
+font_config = FontConfiguration()
+HTML(string=document, base_url=HERE).write_pdf(
+    out_path,
+    stylesheets=[WeasyCSS(string=CSS, base_url=HERE, font_config=font_config)],
+    font_config=font_config,
+)
 size = os.path.getsize(out_path)
 print(f"Wrote {out_path} ({size/1024/1024:.2f} MB)")
 print(f"Chapters compiled: {chap_counter} + coda")
