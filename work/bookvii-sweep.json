@@ -1,0 +1,1042 @@
+{
+  "totals": {
+    "I": {
+      "chs": 6,
+      "body_leak": 3,
+      "note_leak": 0,
+      "wiki": 0,
+      "dangle": 0,
+      "ratio": 0.0
+    },
+    "II": {
+      "chs": 8,
+      "body_leak": 0,
+      "note_leak": 0,
+      "wiki": 0,
+      "dangle": 0,
+      "ratio": 0.23562264150943396
+    },
+    "III": {
+      "chs": 8,
+      "body_leak": 2,
+      "note_leak": 0,
+      "wiki": 0,
+      "dangle": 0,
+      "ratio": 0.21448949597994293
+    },
+    "IV": {
+      "chs": 10,
+      "body_leak": 1,
+      "note_leak": 54,
+      "wiki": 16,
+      "dangle": 0,
+      "ratio": 0.336915468564155
+    },
+    "V": {
+      "chs": 11,
+      "body_leak": 15,
+      "note_leak": 144,
+      "wiki": 89,
+      "dangle": 0,
+      "ratio": 0.7075441583315599
+    },
+    "VI": {
+      "chs": 8,
+      "body_leak": 3,
+      "note_leak": 16,
+      "wiki": 0,
+      "dangle": 0,
+      "ratio": 0.22630017672304972
+    },
+    "VII": {
+      "chs": 9,
+      "body_leak": 5,
+      "note_leak": 50,
+      "wiki": 1,
+      "dangle": 4,
+      "ratio": 0.15570926891561138
+    },
+    "VIII": {
+      "chs": 7,
+      "body_leak": 2,
+      "note_leak": 20,
+      "wiki": 2,
+      "dangle": 1,
+      "ratio": 0.20531510480242737
+    }
+  },
+  "per_chapter": {
+    "I-01-the-fullness.md": {
+      "body_leak": [
+        "the register",
+        "the register"
+      ],
+      "note_leak": [],
+      "wiki": [],
+      "dangle": 0,
+      "ratio": 0.0
+    },
+    "I-02-the-necessity.md": {
+      "body_leak": [],
+      "note_leak": [],
+      "wiki": [],
+      "dangle": 0,
+      "ratio": 0.0
+    },
+    "I-03-the-focusing.md": {
+      "body_leak": [],
+      "note_leak": [],
+      "wiki": [],
+      "dangle": 0,
+      "ratio": 0.0
+    },
+    "I-04-the-grades.md": {
+      "body_leak": [],
+      "note_leak": [],
+      "wiki": [],
+      "dangle": 0,
+      "ratio": 0.0
+    },
+    "I-05-the-tunnels.md": {
+      "body_leak": [],
+      "note_leak": [],
+      "wiki": [],
+      "dangle": 0,
+      "ratio": 0.0
+    },
+    "I-06-the-recognition.md": {
+      "body_leak": [
+        "the register"
+      ],
+      "note_leak": [],
+      "wiki": [],
+      "dangle": 0,
+      "ratio": 0.0
+    },
+    "II-01-the-ground.md": {
+      "body_leak": [],
+      "note_leak": [],
+      "wiki": [],
+      "dangle": 0,
+      "ratio": 0.21908981071284736
+    },
+    "II-02-the-focusing-and-the-render.md": {
+      "body_leak": [],
+      "note_leak": [],
+      "wiki": [],
+      "dangle": 0,
+      "ratio": 0.22389509470616803
+    },
+    "II-03-the-perspective.md": {
+      "body_leak": [],
+      "note_leak": [],
+      "wiki": [],
+      "dangle": 0,
+      "ratio": 0.15916666666666668
+    },
+    "II-04-the-grade.md": {
+      "body_leak": [],
+      "note_leak": [],
+      "wiki": [],
+      "dangle": 0,
+      "ratio": 0.3178776290630975
+    },
+    "II-05-the-tunnel.md": {
+      "body_leak": [],
+      "note_leak": [],
+      "wiki": [],
+      "dangle": 0,
+      "ratio": 0.13780025284450062
+    },
+    "II-06-coherence.md": {
+      "body_leak": [],
+      "note_leak": [],
+      "wiki": [],
+      "dangle": 0,
+      "ratio": 0.23961218836565096
+    },
+    "II-07-the-collapse.md": {
+      "body_leak": [],
+      "note_leak": [],
+      "wiki": [],
+      "dangle": 0,
+      "ratio": 0.3186149936467598
+    },
+    "II-08-the-return.md": {
+      "body_leak": [],
+      "note_leak": [],
+      "wiki": [],
+      "dangle": 0,
+      "ratio": 0.2504111842105263
+    },
+    "III-01-the-wrong-game.md": {
+      "body_leak": [],
+      "note_leak": [],
+      "wiki": [],
+      "dangle": 0,
+      "ratio": 0.273972602739726
+    },
+    "III-02-the-game-that-is-playing-you.md": {
+      "body_leak": [],
+      "note_leak": [],
+      "wiki": [],
+      "dangle": 0,
+      "ratio": 0.2735533237685318
+    },
+    "III-03-the-whole-game-is-already-there.md": {
+      "body_leak": [
+        "the register"
+      ],
+      "note_leak": [],
+      "wiki": [],
+      "dangle": 0,
+      "ratio": 0.24296675191815856
+    },
+    "III-04-rendered-at-the-point-of-contact.md": {
+      "body_leak": [],
+      "note_leak": [],
+      "wiki": [],
+      "dangle": 0,
+      "ratio": 0.17240347201436695
+    },
+    "III-05-there-are-no-npcs.md": {
+      "body_leak": [],
+      "note_leak": [],
+      "wiki": [],
+      "dangle": 0,
+      "ratio": 0.22320152453549308
+    },
+    "III-06-the-filter-stack.md": {
+      "body_leak": [],
+      "note_leak": [],
+      "wiki": [],
+      "dangle": 0,
+      "ratio": 0.19245819992885094
+    },
+    "III-07-the-walking-is-real.md": {
+      "body_leak": [],
+      "note_leak": [],
+      "wiki": [],
+      "dangle": 0,
+      "ratio": 0.2335229173636668
+    },
+    "III-08-what-the-metaphor-cannot-do.md": {
+      "body_leak": [
+        "the register"
+      ],
+      "note_leak": [],
+      "wiki": [],
+      "dangle": 0,
+      "ratio": 0.1445260347129506
+    },
+    "IV-01-the-census-and-its-method.md": {
+      "body_leak": [],
+      "note_leak": [
+        "Day 188",
+        "ruling 9"
+      ],
+      "wiki": [],
+      "dangle": 0,
+      "ratio": 0.16453488372093023
+    },
+    "IV-02-mineral-and-elemental.md": {
+      "body_leak": [],
+      "note_leak": [
+        "Day 191",
+        "R-108"
+      ],
+      "wiki": [],
+      "dangle": 0,
+      "ratio": 0.2029090909090909
+    },
+    "IV-03-the-living-non-human.md": {
+      "body_leak": [],
+      "note_leak": [
+        "Day 190",
+        "the retrofit",
+        "R-2",
+        "Day 191",
+        "Day 191",
+        "Day 190"
+      ],
+      "wiki": [],
+      "dangle": 0,
+      "ratio": 0.3850958432048245
+    },
+    "IV-04-human.md": {
+      "body_leak": [],
+      "note_leak": [],
+      "wiki": [],
+      "dangle": 0,
+      "ratio": 0.2589118198874296
+    },
+    "IV-05-the-collectively-emergent.md": {
+      "body_leak": [],
+      "note_leak": [
+        "Ruling 109",
+        "Day 190",
+        "R-37",
+        "Day 191",
+        "R-143",
+        "R-143",
+        "the register"
+      ],
+      "wiki": [],
+      "dangle": 0,
+      "ratio": 0.2001006795872137
+    },
+    "IV-06-the-computational.md": {
+      "body_leak": [],
+      "note_leak": [
+        "R-144",
+        "the retrofit",
+        "Day 191",
+        "R-144",
+        "R-144"
+      ],
+      "wiki": [
+        "disclaimer-not-coupled-to-verdict",
+        "instruments-go-where-instruments-are-cheap"
+      ],
+      "dangle": 0,
+      "ratio": 0.19904837430610625
+    },
+    "IV-07-the-non-physical.md": {
+      "body_leak": [],
+      "note_leak": [
+        "feedback_quotation_connective_tissue",
+        "feedback_disclaimer_not_coupled_to_verdict",
+        "R-144",
+        "the retrofit",
+        "feedback_compression_that_keeps_truth",
+        "the retrofit",
+        "R-144",
+        "feedback_instruments_go_where_instruments_are_cheap",
+        "the retrofit"
+      ],
+      "wiki": [
+        "feedback_quotation_connective_tissue",
+        "feedback_disclaimer_not_coupled_to_verdict",
+        "feedback_compression_that_keeps_truth",
+        "feedback_instruments_go_where_instruments_are_cheap"
+      ],
+      "dangle": 0,
+      "ratio": 0.23781630740393628
+    },
+    "IV-08-the-divine-and-the-hierarchies.md": {
+      "body_leak": [],
+      "note_leak": [
+        "feedback_correlated_witness_needs_a_channel",
+        "feedback_earliest_printing_is_not_best_text",
+        "feedback_guard_built_in_the_feared_direction"
+      ],
+      "wiki": [
+        "feedback_correlated_witness_needs_a_channel",
+        "feedback_earliest_printing_is_not_best_text",
+        "feedback_guard_built_in_the_feared_direction"
+      ],
+      "dangle": 0,
+      "ratio": 0.4175618073316283
+    },
+    "IV-09-the-archetypal.md": {
+      "body_leak": [],
+      "note_leak": [
+        "feedback_scrutiny_is_motive_shaped",
+        "feedback_audit_the_last_clause",
+        "Day 188",
+        "Day 198",
+        "R-108",
+        "feedback_filed_defect_still_gets_rebuilt",
+        "feedback_line_scoped_grep_over_wrapped_prose",
+        "ruling 123",
+        "R-146"
+      ],
+      "wiki": [
+        "feedback_scrutiny_is_motive_shaped",
+        "feedback_audit_the_last_clause",
+        "feedback_filed_defect_still_gets_rebuilt",
+        "feedback_line_scoped_grep_over_wrapped_prose"
+      ],
+      "dangle": 0,
+      "ratio": 0.48530770652374794
+    },
+    "IV-10-what-the-census-cannot-see.md": {
+      "body_leak": [
+        "the register"
+      ],
+      "note_leak": [
+        "Ruling 125",
+        "drafted chapters",
+        "ruling 125",
+        "ruling 177",
+        "tools/brief_source.py",
+        "feedback_repair_scoped_to_named_cause",
+        "Day 195",
+        "feedback_filed_defect_still_gets_rebuilt",
+        "feedback_grep_derived_from_the_finding",
+        "R-148",
+        "the retrofit"
+      ],
+      "wiki": [
+        "feedback_repair_scoped_to_named_cause",
+        "feedback_filed_defect_still_gets_rebuilt",
+        "feedback_grep_derived_from_the_finding"
+      ],
+      "dangle": 0,
+      "ratio": 0.6504646175839885
+    },
+    "V-01-what-a-tradition-is.md": {
+      "body_leak": [
+        "Day 192"
+      ],
+      "note_leak": [
+        "feedback_scrutiny_is_motive_shaped",
+        "Day 192",
+        "Day 192",
+        "tools/placement_sweep.py",
+        "feedback_earliest_printing_is_not_best_text",
+        "feedback_one_translator_two_texts",
+        "Day 192"
+      ],
+      "wiki": [
+        "feedback_scrutiny_is_motive_shaped",
+        "feedback_earliest_printing_is_not_best_text",
+        "feedback_one_translator_two_texts"
+      ],
+      "dangle": 0,
+      "ratio": 0.30243337195828507
+    },
+    "V-02-the-church-the-reader-left.md": {
+      "body_leak": [
+        "Day 192"
+      ],
+      "note_leak": [
+        "Day 192",
+        "R-158",
+        "feedback_earliest_printing_is_not_best_text",
+        "Day 192",
+        "feedback_scrutiny_is_motive_shaped"
+      ],
+      "wiki": [
+        "feedback_earliest_printing_is_not_best_text",
+        "feedback_scrutiny_is_motive_shaped"
+      ],
+      "dangle": 0,
+      "ratio": 0.36851950828433994
+    },
+    "V-03-the-scholastics-and-the-god-without-a-face.md": {
+      "body_leak": [
+        "Day 192"
+      ],
+      "note_leak": [
+        "the retrofit",
+        "feedback_one_translator_two_texts",
+        "R-161",
+        "feedback_scrutiny_is_motive_shaped",
+        "feedback_guard_built_in_the_feared_direction",
+        "feedback_correction_does_not_reach_citers",
+        "R-158",
+        "R-161",
+        "feedback_correction_does_not_reach_citers",
+        "ruling 177",
+        "R-161",
+        "feedback_fresh_number_vouches_for_stale_sentence"
+      ],
+      "wiki": [
+        "feedback_one_translator_two_texts",
+        "feedback_scrutiny_is_motive_shaped",
+        "feedback_guard_built_in_the_feared_direction",
+        "feedback_correction_does_not_reach_citers",
+        "feedback_correction_does_not_reach_citers",
+        "feedback_fresh_number_vouches_for_stale_sentence"
+      ],
+      "dangle": 0,
+      "ratio": 0.5590634043672718
+    },
+    "V-04-the-atheism-that-was-right-about-the-wrong-thing.md": {
+      "body_leak": [
+        "Day 192",
+        "tools/crossref_rot.py"
+      ],
+      "note_leak": [
+        "feedback_one_pass_mapping_is_unverified",
+        "feedback_outside_read_numbers_are_estimates",
+        "feedback_zero_needs_a_positive_control",
+        "the register",
+        "feedback_quotation_connective_tissue",
+        "feedback_field_keeps_name_swaps_referent",
+        "feedback_correction_does_not_reach_citers",
+        "feedback_filter_precision_eats_recall"
+      ],
+      "wiki": [
+        "feedback_one_pass_mapping_is_unverified",
+        "feedback_outside_read_numbers_are_estimates",
+        "feedback_zero_needs_a_positive_control",
+        "feedback_quotation_connective_tissue",
+        "feedback_field_keeps_name_swaps_referent",
+        "feedback_correction_does_not_reach_citers",
+        "feedback_filter_precision_eats_recall"
+      ],
+      "dangle": 0,
+      "ratio": 0.6516552341186996
+    },
+    "V-05-the-east-one-ground-many-localisations.md": {
+      "body_leak": [
+        "Day 192",
+        "feedback_scrutiny_is_motive_shaped"
+      ],
+      "note_leak": [
+        "feedback_one_translator_two_texts",
+        "feedback_quotation_connective_tissue",
+        "feedback_repair_scoped_to_named_cause",
+        "feedback_filed_defect_still_gets_rebuilt",
+        "the register",
+        "feedback_zero_needs_a_positive_control",
+        "feedback_bounding_noun_asserts_the_other_side",
+        "feedback_scrutiny_is_motive_shaped",
+        "feedback_guard_built_in_the_feared_direction",
+        "R-172",
+        "feedback_zero_needs_a_positive_control",
+        "tools/placement_sweep.py"
+      ],
+      "wiki": [
+        "feedback_scrutiny_is_motive_shaped",
+        "feedback_one_translator_two_texts",
+        "feedback_quotation_connective_tissue",
+        "feedback_repair_scoped_to_named_cause",
+        "feedback_filed_defect_still_gets_rebuilt",
+        "feedback_zero_needs_a_positive_control",
+        "feedback_bounding_noun_asserts_the_other_side",
+        "feedback_scrutiny_is_motive_shaped",
+        "feedback_guard_built_in_the_feared_direction",
+        "feedback_zero_needs_a_positive_control"
+      ],
+      "dangle": 0,
+      "ratio": 0.7568704430734716
+    },
+    "V-06-the-room-that-was-never-emptied.md": {
+      "body_leak": [
+        "feedback_field_keeps_name_swaps_referent",
+        "feedback_guard_built_in_the_feared_direction",
+        "feedback_scrutiny_is_motive_shaped"
+      ],
+      "note_leak": [
+        "R-184",
+        "feedback_correction_does_not_reach_citers",
+        "R-178",
+        "feedback_quotation_connective_tissue",
+        "feedback_never_relax_the_gauge_that_caught_you",
+        "R-190",
+        "feedback_verification_anchor_must_be_unique",
+        "R-186",
+        "ruling 14",
+        "feedback_two_guards_only_independent_in_the_untested_case",
+        "feedback_field_keeps_name_swaps_referent",
+        "the retrofit",
+        "tools/apparatus_rot.py",
+        "feedback_correction_does_not_reach_citers",
+        "feedback_filed_defect_still_gets_rebuilt",
+        "R-183",
+        "tools/apparatus_rot.py",
+        "feedback_run_the_existing_gauge_first",
+        "feedback_grep_derived_from_the_finding",
+        "R-187",
+        "feedback_artifact_states_its_own_roster"
+      ],
+      "wiki": [
+        "feedback_field_keeps_name_swaps_referent",
+        "feedback_guard_built_in_the_feared_direction",
+        "feedback_scrutiny_is_motive_shaped",
+        "feedback_correction_does_not_reach_citers",
+        "feedback_quotation_connective_tissue",
+        "feedback_never_relax_the_gauge_that_caught_you",
+        "feedback_verification_anchor_must_be_unique",
+        "feedback_two_guards_only_independent_in_the_untested_case",
+        "feedback_field_keeps_name_swaps_referent",
+        "feedback_correction_does_not_reach_citers",
+        "feedback_filed_defect_still_gets_rebuilt",
+        "feedback_run_the_existing_gauge_first",
+        "feedback_grep_derived_from_the_finding",
+        "feedback_artifact_states_its_own_roster"
+      ],
+      "dangle": 0,
+      "ratio": 0.9090126291618829
+    },
+    "V-07-magic-operative.md": {
+      "body_leak": [
+        "R-176",
+        "feedback_test_inherits_hypothesis_expiry"
+      ],
+      "note_leak": [
+        "R-189",
+        "feedback_field_keeps_name_swaps_referent",
+        "ruling 177",
+        "ruling 177",
+        "the register",
+        "feedback_grep_derived_from_the_finding",
+        "feedback_correction_does_not_reach_citers",
+        "feedback_correction_does_not_reach_citers",
+        "feedback_bounding_noun_asserts_the_other_side",
+        "feedback_self_generated_denominator",
+        "feedback_quotation_connective_tissue",
+        "feedback_self_generated_denominator",
+        "feedback_guard_built_in_the_feared_direction",
+        "feedback_register_of_jobs_not_components"
+      ],
+      "wiki": [
+        "feedback_test_inherits_hypothesis_expiry",
+        "feedback_field_keeps_name_swaps_referent",
+        "feedback_grep_derived_from_the_finding",
+        "feedback_correction_does_not_reach_citers",
+        "feedback_correction_does_not_reach_citers",
+        "feedback_bounding_noun_asserts_the_other_side",
+        "feedback_self_generated_denominator",
+        "feedback_quotation_connective_tissue",
+        "feedback_self_generated_denominator",
+        "feedback_guard_built_in_the_feared_direction",
+        "feedback_register_of_jobs_not_components"
+      ],
+      "dangle": 0,
+      "ratio": 0.6384903306300687
+    },
+    "V-08-travel.md": {
+      "body_leak": [],
+      "note_leak": [
+        "R-191",
+        "R-203",
+        "R-187",
+        "R-189",
+        "R-192",
+        "R-204"
+      ],
+      "wiki": [],
+      "dangle": 0,
+      "ratio": 0.8068801089918256
+    },
+    "V-09-the-road-being-walked-now.md": {
+      "body_leak": [
+        "drafted chapters"
+      ],
+      "note_leak": [
+        "feedback_correction_does_not_reach_citers",
+        "Day 192",
+        "Day 192",
+        "Day 192",
+        "feedback_bounding_noun_asserts_the_other_side",
+        "Day 192",
+        "feedback_correlated_witness_needs_a_channel",
+        "feedback_self_generated_denominator",
+        "feedback_correction_does_not_reach_citers",
+        "Day 192",
+        "R-36",
+        "ruling 177",
+        "drafted chapters",
+        "ruling 177",
+        "feedback_quotation_connective_tissue",
+        "feedback_field_keeps_name_swaps_referent",
+        "R-151",
+        "R-151",
+        "feedback_filed_repair_is_a_hypothesis"
+      ],
+      "wiki": [
+        "feedback_correction_does_not_reach_citers",
+        "feedback_bounding_noun_asserts_the_other_side",
+        "feedback_correlated_witness_needs_a_channel",
+        "feedback_self_generated_denominator",
+        "feedback_correction_does_not_reach_citers",
+        "feedback_quotation_connective_tissue",
+        "feedback_field_keeps_name_swaps_referent",
+        "feedback_filed_repair_is_a_hypothesis"
+      ],
+      "dangle": 0,
+      "ratio": 1.0229328165374676
+    },
+    "V-10-the-mystics-report.md": {
+      "body_leak": [
+        "Day 192"
+      ],
+      "note_leak": [
+        "ruling 177",
+        "feedback_quotation_connective_tissue",
+        "ruling 177",
+        "feedback_quotation_connective_tissue",
+        "ruling 177",
+        "ruling 177",
+        "feedback_quotation_connective_tissue",
+        "ruling 177",
+        "R-208",
+        "feedback_briefing_manufactures_the_agreement",
+        "feedback_grep_derived_from_the_finding",
+        "feedback_repair_scoped_to_named_cause",
+        "feedback_quotation_connective_tissue",
+        "feedback_test_the_alibi_it_has_a_boundary",
+        "feedback_evidence_grade_distinction",
+        "feedback_audit_the_last_clause",
+        "feedback_artifact_states_its_own_roster",
+        "feedback_correction_does_not_reach_citers",
+        "feedback_briefing_manufactures_the_agreement",
+        "feedback_zero_needs_a_positive_control",
+        "feedback_quotation_connective_tissue"
+      ],
+      "wiki": [
+        "feedback_quotation_connective_tissue",
+        "feedback_quotation_connective_tissue",
+        "feedback_quotation_connective_tissue",
+        "feedback_briefing_manufactures_the_agreement",
+        "feedback_grep_derived_from_the_finding",
+        "feedback_repair_scoped_to_named_cause",
+        "feedback_quotation_connective_tissue",
+        "feedback_test_the_alibi_it_has_a_boundary",
+        "feedback_evidence_grade_distinction",
+        "feedback_audit_the_last_clause",
+        "feedback_artifact_states_its_own_roster",
+        "feedback_correction_does_not_reach_citers",
+        "feedback_briefing_manufactures_the_agreement",
+        "feedback_zero_needs_a_positive_control",
+        "feedback_quotation_connective_tissue"
+      ],
+      "dangle": 0,
+      "ratio": 0.9421586165772212
+    },
+    "V-11-what-the-old-roads-knew.md": {
+      "body_leak": [
+        "Day 192"
+      ],
+      "note_leak": [
+        "feedback_artifact_states_its_own_roster",
+        "feedback_verification_anchor_must_be_unique",
+        "R-208",
+        "R-208",
+        "R-208",
+        "feedback_filed_repair_is_a_hypothesis",
+        "feedback_zero_needs_a_positive_control",
+        "ruling 177",
+        "feedback_field_keeps_name_swaps_referent",
+        "feedback_quotation_connective_tissue",
+        "feedback_diagnosis_without_a_hand",
+        "feedback_quotation_connective_tissue",
+        "feedback_artifact_states_its_own_roster",
+        "feedback_disclaimer_not_coupled_to_verdict",
+        "ruling 177",
+        "feedback_field_keeps_name_swaps_referent",
+        "feedback_compression_that_keeps_truth",
+        "ruling 177",
+        "feedback_fresh_number_vouches_for_stale_sentence"
+      ],
+      "wiki": [
+        "feedback_artifact_states_its_own_roster",
+        "feedback_verification_anchor_must_be_unique",
+        "feedback_filed_repair_is_a_hypothesis",
+        "feedback_zero_needs_a_positive_control",
+        "feedback_field_keeps_name_swaps_referent",
+        "feedback_quotation_connective_tissue",
+        "feedback_diagnosis_without_a_hand",
+        "feedback_quotation_connective_tissue",
+        "feedback_artifact_states_its_own_roster",
+        "feedback_disclaimer_not_coupled_to_verdict",
+        "feedback_field_keeps_name_swaps_referent",
+        "feedback_compression_that_keeps_truth",
+        "feedback_fresh_number_vouches_for_stale_sentence"
+      ],
+      "dangle": 0,
+      "ratio": 0.9039422543031649
+    },
+    "VI-01-different-worlds-not-different-opinions.md": {
+      "body_leak": [
+        "the register"
+      ],
+      "note_leak": [
+        "Day 191",
+        "ruling 9"
+      ],
+      "wiki": [],
+      "dangle": 0,
+      "ratio": 0.1356151113981272
+    },
+    "VI-02-the-voices.md": {
+      "body_leak": [],
+      "note_leak": [
+        "Day 191"
+      ],
+      "wiki": [],
+      "dangle": 0,
+      "ratio": 0.15639344262295082
+    },
+    "VI-03-the-enchanted-world.md": {
+      "body_leak": [],
+      "note_leak": [],
+      "wiki": [],
+      "dangle": 0,
+      "ratio": 0.16563658838071693
+    },
+    "VI-04-print-and-the-interior.md": {
+      "body_leak": [
+        "the register"
+      ],
+      "note_leak": [
+        "ruling 25",
+        "Day 190",
+        "R-67"
+      ],
+      "wiki": [],
+      "dangle": 0,
+      "ratio": 0.22744830720290843
+    },
+    "VI-05-electric.md": {
+      "body_leak": [],
+      "note_leak": [
+        "Day 190",
+        "R-67",
+        "R-67"
+      ],
+      "wiki": [],
+      "dangle": 0,
+      "ratio": 0.22288303596714812
+    },
+    "VI-06-the-algorithmic-tunnel.md": {
+      "body_leak": [],
+      "note_leak": [
+        "Day 190",
+        "outside read",
+        "Day 201",
+        "Day 190",
+        "Day 190"
+      ],
+      "wiki": [],
+      "dangle": 0,
+      "ratio": 0.3930399181166837
+    },
+    "VI-07-model-agnosticism-and-its-price.md": {
+      "body_leak": [
+        "the register"
+      ],
+      "note_leak": [
+        "Day 190",
+        "Day 190"
+      ],
+      "wiki": [],
+      "dangle": 0,
+      "ratio": 0.284057401218793
+    },
+    "VI-08-the-tunnel-you-are-in.md": {
+      "body_leak": [],
+      "note_leak": [],
+      "wiki": [],
+      "dangle": 0,
+      "ratio": 0.1827533377106588
+    },
+    "VII-01-death.md": {
+      "body_leak": [],
+      "note_leak": [],
+      "wiki": [],
+      "dangle": 0,
+      "ratio": 0.15074309978768577
+    },
+    "VII-02-what-the-no-npc-rule-costs.md": {
+      "body_leak": [],
+      "note_leak": [
+        "the register"
+      ],
+      "wiki": [],
+      "dangle": 0,
+      "ratio": 0.13648090815273478
+    },
+    "VII-03-the-floor.md": {
+      "body_leak": [],
+      "note_leak": [
+        "Day 195",
+        "R-216",
+        "the ghost audit",
+        "satisfaction test",
+        "feedback_guard_checked_where_both_answers_agree",
+        "R-220"
+      ],
+      "wiki": [
+        "feedback_guard_checked_where_both_answers_agree"
+      ],
+      "dangle": 0,
+      "ratio": 0.1680935133355285
+    },
+    "VII-04-the-two-evils.md": {
+      "body_leak": [],
+      "note_leak": [],
+      "wiki": [],
+      "dangle": 0,
+      "ratio": 0.16262626262626262
+    },
+    "VII-05-suffering.md": {
+      "body_leak": [],
+      "note_leak": [
+        "Receipt status",
+        "endnote retrofit",
+        "Recorded rather than hidden",
+        "shipped without"
+      ],
+      "wiki": [],
+      "dangle": 0,
+      "ratio": 0.10850135107046352
+    },
+    "VII-06-love.md": {
+      "body_leak": [
+        "the register"
+      ],
+      "note_leak": [
+        "Receipt status",
+        "endnote retrofit",
+        "first housing",
+        "R-98",
+        "the batch sweep",
+        "R-98",
+        "this manuscript",
+        "ruling 141",
+        "Receipt status",
+        "the retrofit"
+      ],
+      "wiki": [],
+      "dangle": 1,
+      "ratio": 0.1239307323179637
+    },
+    "VII-07-freedom-when-every-path-already-exists.md": {
+      "body_leak": [
+        "this manuscript"
+      ],
+      "note_leak": [
+        "this manuscript",
+        "nearly shipped",
+        "the brief",
+        "pre-draft screen",
+        "the brief",
+        "Receipt status",
+        "endnote retrofit",
+        "drafted chapters",
+        "outside read",
+        "the retrofit",
+        "R-98",
+        "First housing",
+        "drafted chapters"
+      ],
+      "wiki": [],
+      "dangle": 1,
+      "ratio": 0.1771485018109977
+    },
+    "VII-08-meaning-without-a-mandate.md": {
+      "body_leak": [
+        "this manuscript",
+        "the register",
+        "this manuscript"
+      ],
+      "note_leak": [
+        "drafted chapters",
+        "Ruling 141",
+        "the brief",
+        "the brief",
+        "Day 191",
+        "Receipt status",
+        "endnote retrofit",
+        "Receipt status",
+        "Receipt status",
+        "the retrofit"
+      ],
+      "wiki": [],
+      "dangle": 2,
+      "ratio": 0.20313082370480806
+    },
+    "VII-09-identity-across-gaps.md": {
+      "body_leak": [],
+      "note_leak": [
+        "Receipt status",
+        "the retrofit",
+        "drafted chapters",
+        "ruling 141",
+        "Receipt status",
+        "the register"
+      ],
+      "wiki": [],
+      "dangle": 0,
+      "ratio": 0.1688210961737332
+    },
+    "VIII-01-navigation-not-tourism.md": {
+      "body_leak": [
+        "the register"
+      ],
+      "note_leak": [
+        "Day 191"
+      ],
+      "wiki": [],
+      "dangle": 0,
+      "ratio": 0.11895106785617734
+    },
+    "VIII-02-reading-your-own-filter-stack.md": {
+      "body_leak": [
+        "the register"
+      ],
+      "note_leak": [
+        "this manuscript",
+        "this manuscript"
+      ],
+      "wiki": [],
+      "dangle": 1,
+      "ratio": 0.14528497409326424
+    },
+    "VIII-03-editing.md": {
+      "body_leak": [],
+      "note_leak": [
+        "this manuscript",
+        "Day 191",
+        "ruling 177",
+        "feedback_evidence_grade_distinction",
+        "feedback_audit_the_last_clause"
+      ],
+      "wiki": [
+        "feedback_evidence_grade_distinction",
+        "feedback_audit_the_last_clause"
+      ],
+      "dangle": 0,
+      "ratio": 0.24162036207205592
+    },
+    "VIII-04-holding-it-open.md": {
+      "body_leak": [],
+      "note_leak": [
+        "the register",
+        "drafted chapters",
+        "this manuscript",
+        "this manuscript",
+        "the register"
+      ],
+      "wiki": [],
+      "dangle": 0,
+      "ratio": 0.30644677661169417
+    },
+    "VIII-05-the-second-arrow.md": {
+      "body_leak": [],
+      "note_leak": [
+        "ruling 109"
+      ],
+      "wiki": [],
+      "dangle": 0,
+      "ratio": 0.1758147512864494
+    },
+    "VIII-06-other-players.md": {
+      "body_leak": [],
+      "note_leak": [
+        "this manuscript",
+        "this manuscript",
+        "this manuscript",
+        "this manuscript"
+      ],
+      "wiki": [],
+      "dangle": 0,
+      "ratio": 0.2271809822830231
+    },
+    "VIII-07-do-be-do-be-do.md": {
+      "body_leak": [],
+      "note_leak": [
+        "this manuscript",
+        "this manuscript"
+      ],
+      "wiki": [],
+      "dangle": 0,
+      "ratio": 0.22818791946308725
+    }
+  }
+}

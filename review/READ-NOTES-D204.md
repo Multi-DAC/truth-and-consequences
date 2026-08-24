@@ -666,6 +666,128 @@ inside the thing it was supposed to correct."* Whatever gets cut from Book VI, t
 
 ---
 
+## BOOK VII — THE CONSEQUENCES (VII.1–VII.9, 54,301 words) — read 21:0x–22:1x
+
+**Verdict: this is the book the whole work was for, and it is the one where the argument is
+strongest and the apparatus is loosest — which is the reverse of every book before it.** VII.3 lays
+a floor, concedes twice in the body that it does not reach as far as it wanted, and prints its own
+falsifier where a reader will meet it. VII.5 refuses a theodicy assembled out of its own true steps
+and says why that is the more dangerous kind. VII.6 finds that the volume's definition of love fails
+on a parent and an infant and repairs it in public. VII.9 answers the gap without a carrier. The
+findings below are all apparatus. **None of them touches the argument** — which is worth saying
+first, because the list is long.
+
+⬛ **VII.4's central move is VII.4's own, and VII.4 attributes it to VII.3, where the opposite is
+conceded.** This is the one finding here that is load-bearing.
+
+VII.4 needs the asymmetry to reach *the sophisticated egoist* — the one who says *I know I am not the
+whole; I have a null space, exactly as you say; I simply do not care about you.* Its answer (p.807
+region, § *Where the asymmetry actually lives*): *"He does not slip it. **The last chapter is where
+that was shown, at length, and this chapter does not argue it again** — it names what that argument
+found. The last chapter's answer was that his road forks and both forks close."* `[^5]` names it:
+*"VII.3, the two forks. **The exemption argument is made in full there.**"*
+
+**It is not made there at all, and VII.3 rules the other way on the same figure.** VII.3 § *The
+second limit* — *"The sophisticated egoist need not take either fork above. … **He is not
+incoherent. The null-space theorem does not touch him**, because he has claimed no view from nowhere
+and no exemption. He has claimed an index, which everybody has."* VII.3's card for him closes:
+**"The floor does not need him refuted."**
+
+Two chapters, one figure, opposite verdicts — and the chapter that carries C19, the book's entire
+account of evil, rests its reach on a citation to the chapter that says it cannot reach.
+
+→ **The repair is small and it makes VII.4 stronger, which is why it should be made.** VII.4's
+performed-exemption move (*"He has not asserted the totality standpoint; he has **occupied** it"*) is
+original, is good, and is the thing that gets the account to Tuesday. It should be claimed rather
+than sourced. Delete *"and this chapter does not argue it again"*, rewrite `[^5]` to say VII.3
+declined this figure and that this is where he is met.
+⚠ **Also: VII.3 line 285 says *"The coercer who follows **the** fork all the way"* — a definite
+article with no antecedent. The fork is never set out in VII.3.** Same joint, seen from the other side.
+
+⬛ **Three named sources are cited as already used, and appear nowhere in 1,076 pages.** VII.6 `[^6]`:
+*"Evan Stark on coercive control, and the Hassan and Lifton material on group capture, arrive with
+the diagnostic and **are used in this manuscript at VII.3 and VII.4**; they are not re-sourced here."*
+`grep -rn "Stark\|Hassan\|Lifton" book/*.md` returns **two lines, and both of them are that
+sentence.** They are not at VII.3, not at VII.4, not anywhere.
+
+This is the volume's signature defect in its own apparatus: `tools/note_binding.py` audits
+marker→note in both directions and reports **0 orphans, 0 dangles across 528 endnotes** — and cannot
+see this, because the note exists, is reachable, and points at a source rather than at a note. A
+citation-forward has no gauge.
+
+⬛ **"Clayton's amendment" is printed in body prose, at the chapter's positive-thesis climax, and it
+names something the book never states.** VII.8, closing §VII: *"That is the completion **Clayton's
+amendment** asked for. **Make your own meaning** is not refuted. It is finished."*
+
+Swept `amendment` across all 71 chapters. Everywhere it is defined and everywhere it is later cited
+— VII.6 ×9, VIII.1:327, VIII.5:153, VIII.6:428 — **"the amendment" means VII.6's love amendment,
+sign-not-symmetry.** VII.8's is a *different* amendment, about meaning, with no antecedent anywhere
+in the volume. And VII.6 goes out of its way to rule the attribution the other way: the amendment is
+the book's, Clayton is *"the reason the author of this section noticed the problem"*, and **"the
+amendment does not get to rest on this case."**
+
+So the sentence attributes to a named living person an amendment the book explicitly declines to
+attribute to him, about a subject he is not on record as amending, in a term of art the reader
+cannot look up. It is a private editorial reference that survived into print at the one sentence
+that delivers Book VII's positive claim.
+→ This is the Book II class — leak into the *argument*, not into the notes — and it is one line.
+
+⬛ **38 distinct process-row IDs print 76 times across seven of the eight books, and the volume has
+no key for any of them.** `ruling 177` ×15 across six books. `ruling 141` ×3 (VII.6, VII.8, VII.9).
+`R-144` ×5. `R-216`, `R-220`, `ruling 179` in VII.3 alone. Checked `Z-01-glossary.md` and
+`Z-02-works-cited.md`: **not one of them is defined in either.**
+
+They read exactly like a scholarly cross-reference apparatus, which is the problem — a reader meets
+*"the fourth zero-count of the shape ruling 141 describes"* and will look for ruling 141. This is a
+**new class**, and it survived Books IV–VI because every instrument I have pointed at this book was
+looking for `[[wiki]]` and `feedback_*` and not for `R-\d+`.
+
+⬛ **VII.3 `[^11]` is a maintainer's work-note printed as an endnote to the book's central ethical
+chapter.** p.806, verbatim from the PDF: *"⚠ **THE RULING 179 SECTION IS A REPAIR, AND ITS OWN
+WEAKEST JOINT IS NAMED ON THE PAGE RATHER THAN HERE.** Filed Day 195 as R-216 by the ghost audit: …
+The row's satisfaction test was explicitly *a worked case where the two answers differ* —
+**feedback_guard_checked_where_both_answers_agree** — so the A/B pair above is built where…"*
+
+Date, queue ID, "the ghost audit", "the row's satisfaction test", and a bare underscored slug set off
+by em-dashes so it reads as a cited term. It is also **the volume's only remaining bare wiki slug
+outside Book V** — which closes the Book V finding's arithmetic exactly: 89 in V + 1 here + 2 in
+VIII.3 = the 92 counted after Book IV.
+
+◻ **The stray quote mark, p.891.** *"…Asserting individual existence is not delusion.”⁴"* — a closing
+curly quote with no opener. Source: `VII-08:126`. One character.
+
+---
+
+**Three negatives, each of which killed a candidate I was ready to file. They are the reason the
+list above is short.**
+
+✅ **The apparatus climb reversed and did not come back — Book VII is the second-leanest book in the
+volume.** Notes-to-body by chapter: **0.109 · 0.124 · 0.136 · 0.151 · 0.163 · 0.168 · 0.169 · 0.177 ·
+0.203**, book mean **0.156**. Book V was 0.708 with V.9 at 1.02. Only Book I is leaner, and Book I has
+no notes at all. My read-time impression was that VII's apparatus was heavy; it is heavy in
+**register** and light in **volume**, and those are different complaints. Screening glyphs (⚠/⛔/★) in
+notes, per chapter: I 0 · II 1.0 · III 3.9 · IV 11.9 · V 23.8 · VI 2.4 · **VII 3.4** · VIII 9.3.
+⚠ **Book VIII is the next-worst book in the volume on that axis and it is unread.**
+
+✅ **The endnote weld does not reach print, and I checked because reading the markdown is exactly
+what cost me the Book IV repair four messages ago.** `VII-08:488–489` puts `[^6]:` on the line
+immediately after `[^5]`'s last line with no blank between, which should fold Camus into note 5.
+Counted the printed backlink glyphs on the notes pages instead: **VII.8 defines 11 notes and prints
+11 backlinks** (pp.905–907), and Camus prints as its own note on p.906. Checked the volume's other
+two sites the same way — VI.1 4/4, VIII.3 8 defined / 11 printed. **The extension tolerates the
+missing blank line. Candidate refuted; nothing to fix.**
+
+✅ **Book VII does not leak into its own argument except at the one sentence above.** Body-prose
+process register across the book: `the register` ×1 (VII.6), `this manuscript` ×3 (VII.7, VII.8), and
+that is all — against Book V's 15. The 50 note-side hits stay in the notes.
+
+◻ **Out-of-order endnote markers, four of nine: VII.3, VII.4, VII.5, VII.6.** VII.3 cites
+1·2·3·4·5·**11**·6·7·8·9·10 — note 11 is the falsifier note, cited mid-chapter and printed last.
+VII.4 is the worst in the volume at 3·2·9·10·7·4·5·1·6·8. This is the twelve-chapter class Book VI
+established; Book VII supplies four of the twelve and no new information.
+
+---
+
 ## RUNNING TALLY
 
 | book | chapters | words | read | findings ⬛ | observations ◻ |
@@ -676,9 +798,12 @@ inside the thing it was supposed to correct."* Whatever gets cut from Book VI, t
 | IV | 10 | 64,069 | ✅ D204 | 3 (one **withdrawn** at VI) | 5 |
 | V | 11 | 64,191 | ✅ D204 | 3 (one scope-narrowed at VI) | 3 |
 | VI | 8 | 38,859 | ✅ D204 | 3 + 1 correction | 5 |
-| VII–VIII, C, Z | 20 | 97,621 | 20 unread in this pass | — | — |
+| VII | 9 | 54,301 | ✅ D204 | 5 + 3 negatives | 2 |
+| VIII, C, Z | 11 | 43,321 | 11 unread in this pass | — | — |
 
-**51 of 71 read in this pass. 227,377 words.**
+**60 of 71 read in this pass. 281,677 words.**
+*Both figures read off `python tools/fresh_read.py` AFTER the ledger was written, not carried
+forward and added to. That is the arithmetic that was wrong five times before Book IV.*
 
 ✅ **Ledger written in the same commit and reconciled before this line was typed.**
 `book/docs/fresh-read-ledger.json` now holds **51** entries, **all 51** at
