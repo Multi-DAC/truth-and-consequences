@@ -1653,8 +1653,17 @@ is the page's best sentence.
 **Read on Clayton's instruction, D204 / 2026-08-23, against `book/pdf/Truth-and-Consequences.pdf`
 (build 15:52), in order, cover to apparatus.** `tools/fresh_read.py` reads **71/71, 324,998 of
 324,998 words, 0 unread.** This file: **42 ⬛ findings · 47 ◻ observations · 61 ✅ raised and
-cleared · 41 → unapplied proposed moves.** Nothing here has been applied to the text. A note
+cleared · ~~41 →~~ unapplied proposed moves.** Nothing here has been applied to the text. A note
 becomes a queue row when Clayton or a later pass promotes it.
+
+⛔ **"41" WAS A CHARACTER COUNT, NOT A LIST LENGTH, AND I GAVE IT TO CLAYTON AS A HEADLINE.** The
+file contains **43** `→` glyphs; two are the legend and this line, leaving 41. But most of the rest
+are prose arrows and not proposals at all — `III.1→2`, `p.222 → p.232`, `0.30 → 1.02`, `VI.1→VI.8`,
+`VII.4→VII.3`. **Line-initial proposals: 20.** And 20 is not the list either, because most findings
+never had an arrow written against them. **Enumerated by locus, the actionable list is 48 rows** —
+`book/docs/REVISION-CHECKLIST-D204.md`, promoted D204 on Clayton's instruction, with a gauge
+(`tools/revision_checklist.py`) that reads the count off the file so this cannot recur. Fifth tally
+of the day carried in prose instead of read off an instrument.
 
 **The verdict on the volume, said first and plainly, because the list below is long and a long list
 of defects reads as a verdict when it is not one.** The argument holds. Across eight books I found
@@ -1674,11 +1683,25 @@ C.1's two endnotes add `03-THE-ANCESTORS.md` and `00-ARCHITECTURE.md` to it, in 
 subject is reachability. Same defect class Clayton ruled on for the shadow biome paper, where the
 instruction was: strip every pointer.
 
-**2. Endnote markers print out of sequence in 12 of 63 units with endnotes — 19%.** Cause found at
-III.8 and correct: Python-Markdown numbers by *definition* order, not appearance order. Scope
-corrected at VI.6 after I called III.8 unique, and re-measured at close on the source, body prose
-only: `III.8 · IV.6 · V.6 · V.8 · V.10 · VI.6 · VII.3 · VII.4 · VII.5 · VII.6 · VIII.3 · VIII.7`.
-VII.4 is the worst at `3·2·9·10·7·4·5·1·6·8`; VIII.7 the cheapest to fix.
+**2. Endnote markers print out of sequence in ~~12~~ 11 of 63 units with endnotes — ~~19%~~ 17.5%.**
+Cause found at III.8 and correct: Python-Markdown numbers by *definition* order, not appearance
+order. Scope corrected at VI.6 after I called III.8 unique, re-measured at close on the source, and
+**corrected again on Day 204 at ~21:0x when the finding was promoted to a checklist**:
+`III.8 · IV.6 · V.8 · V.10 · VI.6 · VII.3 · VII.4 · VII.5 · VII.6 · VIII.3 · VIII.7`.
+VII.4 is the worst at `3·2·9·10·7·4·5·1·6·8` — 21 inversions, and that superlative survives.
+
+⛔ **THIS COUNT WAS WRONG THREE TIMES AND THE THIRD ERROR WAS INSIDE THE CORRECTION OF THE SECOND.**
+The first sweep returned **13**; I removed V.7 (its `[^1]` is cited only inside the note block — a
+real finding, not an ordering one) and reported **12**; the answer is **11**. `V.6` was on the list
+and its markers run `1..15` in both orders — **zero inversions, nothing uncited.** The paragraph
+immediately above this one, written the same evening, says *"the correction of a superlative is
+exactly where a second error is cheapest to introduce"* — and then introduces one.
+✅ **Repaired with an instrument rather than a re-read:** `tools/endnote_order.py` measures body
+first-reference order against definition order, prices each chapter in inversions, and carries the
+adjudicated eleven as a **control** that prints ⛔ on any disagreement. Two further corrections fall
+out of it: **VIII.7 is not "the cheapest to fix"** — four chapters tie at one inversion (III.8, IV.6,
+VII.6, VIII.7) — and VII.4's 21 inversions are **an order of magnitude** past the next worst, which
+the bare sequence never showed.
 
 **3. Book VIII re-derives Book VII's results in plain words instead of using Book VII's terms —
 and in one place that costs a superlative.** C.2 §II found it for the *rota* debt: V.2 filed a bill,
