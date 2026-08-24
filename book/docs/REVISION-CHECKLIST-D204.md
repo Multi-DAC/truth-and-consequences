@@ -309,21 +309,45 @@ baked out of this file's own gauge before the file shipped.
       meaning, 2 with no such field.** Body kept; note corrected to 43 and given the breakdown.
       `✓` absent:C-02:18-of-44
 
-- [ ] **R2-053** · `Z-02` — printed **245 / 123 / 122 / 149**; `tools/bibliography.py` run tonight
+- [x] **R2-053** · `Z-02` — printed **245 / 123 / 122 / 149**; `tools/bibliography.py` run tonight
       says **251 / 124 / 127 / 150**. Git settles the timing: the page was generated `83865b9`
       2026-08-14 12:59; `II-04` got its receipts `ff5edec` 14:44. **It rotted 105 minutes after it
       was built, nine days ago** — and the page's own header is the volume's best statement of
       exactly that mechanism.
       ⚠ **Do R2-075 before regenerating** or the new run ships a fresh unflagged mis-parse.
       `✓` cmd:python tools/bibliography.py --check
+      **PAID D205, and R2-076 landed first as its own ⚠ required.** ⚠ **This row's "run tonight"
+      figures had themselves rotted**: it predicted 251/124/127/150; today's run is
+      **247 / 124 / 123 / 150**. A row that files a staleness defect ages at the same rate as the
+      page it files against. The regeneration behaved exactly as R2-076 predicted — it introduced
+      the nine-word Koch fragment and dropped `Sartre (1943)` — and the widened rule caught the
+      fragment before it printed. It also introduced `BMC Neuroscience (2004)`, a journal standing
+      where a volume goes, which R2-076 did not predict and which is now declared on the page.
+      ⛔ **AND THE REGENERATION DESTROYED A HAND-REPAIR, which is R2-074's whole point arriving as
+      an event rather than an argument.** Clayton's D205 file-pointer ruling had been paid *on the
+      generated page* — the printed header turned into an HTML comment — and the generator was
+      never told. Ten days without a caller is the only reason that edit survived at all; the first
+      regeneration reverted it and put the filename back into the book, where the sweep caught it.
+      The ruling is now in the generator, so regeneration carries it instead of undoing it.
 
-- [ ] **R2-054** · `Z-02` — the page declares three limits and there is a fourth: **six works appear
+- [x] **R2-054** · `Z-02` — the page declares three limits and there is a fourth: **six works appear
       twice** under variant strings. *A Secular Age* (VI.3/VI.4), *Prometheus Rising* (II.5/V.7),
       *The Embodied Mind* (subtitle present in one), *The New Inquisition* (twice), and two that
       differ by nothing an eye would catch — *Science and Sanity* (`Pa.` vs `PA`) and *The View from
       Nowhere* (`New York:` present or absent). So *149 entries* overstates distinct works, **and it
       is the one number on the page with no caveat attached.**
       `✓` manual:Z-02 duplicate-entry declaration or dedup
+      **PAID D205 BY DECLARATION WITH A GAUGE BEHIND IT, not by dedup.** Merging would require
+      ruling which imprint is canonical, and that is an editorial decision this page does not make.
+      Instead the collapse is now *measured at generation time* and printed as a fourth declared
+      limit: titles are normalised past subtitle, case and punctuation, and the page states how
+      many works print more than once. Live figures: **5 works under variant strings (5 surplus
+      entries)** and **5 more names recurring against different years**, mostly a periodical in a
+      title's position. ⚠ The row said *six works*; the year split files `The New Inquisition` and
+      a 1993 review of it as the second kind. **The page declares that misfiling itself** and says
+      the pre-split total is the figure to trust. Six was right; a hand-typed six would have been
+      right today and silently wrong at the next repair, which is the argument of the page it sits
+      on — so the number is generated.
 
 - [ ] **R2-055** · `VIII-02` §V — *"All eighteen are repaired… a complement named on each."*
       `tools/card_sweep.py`, same run that confirmed the 43: **"⚠ reachability UNGRADED: 19 of 43
@@ -566,7 +590,7 @@ above exists, or the reason the next one will.**
       `→` Unwrap single newlines within a paragraph before matching. Then re-run and read the 26.
       `✓` manual:relative_ref_sweep.py unwraps paragraphs and its denominator reaches 206
 
-- [ ] **R2-076** · `Z-02`'s machine-uncertain rule **fires on single-word entries only.**
+- [x] **R2-076** · `Z-02`'s machine-uncertain rule **fires on single-word entries only.**
       Regenerating tonight introduces *"January 10, 2013, a review of Koch's" (Cambridge, MA: MIT
       Press, 2012) — II.4* — a nine-word fragment of the note's prose standing where a title goes,
       and the rule cannot see it. It also drops *Sartre (1943) — VII.7*, the page's own predicted
@@ -574,6 +598,16 @@ above exists, or the reason the next one will.**
       spot has moved.**
       ⚠ **This must land before R2-053** or the regeneration ships a new unflagged mis-parse.
       `✓` manual:machine-uncertain rule widened past single-word entries
+      **PAID D205 — AND THE ROW'S PREMISE WAS WRONG WHILE ITS PREDICTION WAS EXACT.** The rule does
+      not "fire on single-word entries only"; that rule was *removed* before this row was written,
+      for measured cause (2 true positives against 15 false alarms). What the rule actually held
+      was a list of *specimens* — five literal prose fragments, each added the day it was met. The
+      Koch fragment escaped because nobody had met it yet, which is the failure mode of every
+      instance list. Widened to name SHAPES: a span that opens on a date, ends on a possessive, or
+      carries a reviewing connective. Controls held — `Aion`, `Angst`, `Ethics`, `Nature` all
+      unflagged. 6 of 150 flagged, and the Koch fragment is one of them. **The page's declared
+      residue was also stale** — it described the deleted rule's blind spot, not the one it has —
+      and now declares both survivors, the bare surname and the journal name.
 
 - [ ] **R2-077** · **no gauge in this repo watches citation-forwards.** `tools/note_binding.py`
       audits marker→note in both directions and reports **0 orphans, 0 dangles across 528
