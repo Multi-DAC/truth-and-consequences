@@ -2,7 +2,10 @@
 
 ## WORKS CITED
 
-*Generated from the endnotes by `tools/bibliography.py`. Do not hand-edit this page — re-run the tool. A bibliography typed once is a stamp; it rots at exactly the rate the notes are repaired and does not change appearance while it rots, which is the object this book spends a volume diagnosing. The back matter is not exempt from the argument.*
+<!-- MAINTAINER, NOT PRINTED: generated from the endnotes; do not hand-edit this page,
+     re-run the generator. A bibliography typed once is a stamp; it rots at exactly the rate
+     the notes are repaired and does not change appearance while it rots, which is the object
+     this book spends a volume diagnosing. The back matter is not exempt from the argument. -->
 
 ⚠ **THIS LIST IS INCOMPLETE, AND HERE IS BY HOW MUCH.** Of **245** endnotes carrying a datable citation, **123** (50%) are parsed into entries below and **122** are not. The extractor is deliberately strict and refuses to guess: a citation given in running prose, split across a clause, or carried by a locus rather than an imprint is counted here and not rendered. **The endnote is the receipt; this page is an index to the receipts, and it says which ones it could not reach.** A works-cited list that silently dropped that share would be a partial result wearing the authority of a complete one.
 

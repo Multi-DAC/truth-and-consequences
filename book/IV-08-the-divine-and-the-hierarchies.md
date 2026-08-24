@@ -543,7 +543,7 @@ against one. **Nothing here refutes the cut** — three genuinely uncorrelated a
 distinction is still a strong result, and the *Laozi* is uncontaminated by any of the others. What is
 refuted is *five*. Filed: the chapter states a transmission falsifier for a card and does not run it
 on the convergence three sections above the card
-. **See the standing note on grade above**, which states at what level this chapter's attributions are made and which of them are flagged for reading.
+.
 
 [^5]: The dating is right and the noun was wrong, and the noun mattered. The corpus is placed c. 480–530
 — it quotes Proclus (d. 485) and surfaces at the Colloquy of Constantinople in 532/533 — so "around
@@ -648,7 +648,7 @@ convenience is the condition under which nobody checks.
 
 ---
 
-*The standing note on grade.* **The retrofit changed what this chapter can claim in exactly one
+*On the grade of the sources above.* **The retrofit changed what this chapter can claim in exactly one
 place, and it is a place the chapter had already written the test for and not run.** [^4]: the A GOD
 card's falsifier is transmission analysis, and the chapter's five-tradition convergence has two
 traceable channels in it — Advaita↔Mahāyāna and Eckhart↔Dionysius, the second of which calls the same

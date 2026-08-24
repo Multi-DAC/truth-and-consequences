@@ -420,7 +420,7 @@ second part; the account of the Reformation given here — individual scripture 
 sense strengthening a rule-bound, text-driven, univalent mode, and the rejection of image and
 metaphor removing the other mode's food — is his, reported here from secondary accounts. **This chapter takes his conclusion that two modes
 of attention yield two worlds rather than two views of one, and declines his hemispheric mechanism**,
-which is an anatomical claim this book does not make and does not need. See the standing note on grade above.
+which is an anatomical claim this book does not make and does not need.
 
 [^8]: Eric A. Havelock, *Preface to Plato* (Cambridge, Mass.: Belknap Press, 1963). The argument
 that the formulaic and metrical apparatus of Homeric verse is a memory technology rather than a
@@ -435,14 +435,11 @@ urgent but **demonstrative** — the reader can be shown the render by being ask
 are doing, which is not available for any other era in Book VI. Neither chapter restates the other.
 VI.6 does not need to re-establish that the reader is embedded; VI.4 does not touch the ethics.
 
-*The standing note on grade, owed here as in VI.1, VI.2 and VI.3.* Knox, Gavrilov, Burnyeat,
+*On the grade of the sources above.* Knox, Gavrilov, Burnyeat,
 Eisenstein, Johns, McGilchrist and Havelock are named **from general knowledge and standard
-reference scholarship. None of their texts is in this repository, and nothing above is a quotation**
+reference scholarship. None of their texts was consulted at first hand, and nothing above is a quotation**
 except the rendering of Augustine at [^1], which is marked as a rendering and not as a translation.
-⚠ **This chapter has the thinnest corpus support of any yet written.** Measured on Day 190 under the
-declared scope — **Eisenstein 0 · Havelock 0 · McLuhan 0 · Gutenberg 0 · "printing press" 0 · "silent
-reading" 0 · Walter Ong 0.** The topics are present without their sources: *orality* returns 42
-files and *literacy* 14. Four items are flagged for reading rather than left at this grade:
+⚠ **Not one of the historians below was read at first hand for this chapter.** Four items are flagged for reading rather than left at this grade:
 
 - **The Gavrilov rereading of Confessions VI.3**, because it is load-bearing for the whole first
   beat and is reported here at second hand. If Gavrilov's reading of Augustine's motive is

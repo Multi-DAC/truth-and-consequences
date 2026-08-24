@@ -274,10 +274,10 @@ Which is the next subject, and the last one before the consequences.
 
 ---
 
-*The standing note on grade, which V.1 opened for this book and which is owed here more than
+*On the grade of the names below, which this book owes here more than
 anywhere.* Huxley, Schuon, Stace, Steuco, Guénon, Coomaraswamy, Katz, Forman and Wilber are named
 in this chapter **from general knowledge and standard reference scholarship. Not one of their texts
-is in this repository, and nothing above is a quotation** — each is given by doctrine, with a date,
+was consulted at first hand, and nothing above is a quotation** — each is given by doctrine, with a date,
 and no words are put in anyone's mouth. Two of the nine are load-bearing and are therefore flagged
 for reading rather than left at this grade: Katz, because the concession made to him is the most
 expensive thing in the chapter, and Huxley, because the perennialist case deserves to be met in the
@@ -293,12 +293,12 @@ reporting nine other chapters accurately. Read on Day 192, every internal pointe
 the cited chapter rather than against memory of it. **Four came back wrong, and the two most
 expensive are in the same sentence — the one that makes the cut against Katz.***
 
-[^1]: **Augustine, by doctrine, no text in this repository.** The knowing that is prior to yours, and
+[^1]: **Augustine, by doctrine, no text consulted at first hand.** The knowing that is prior to yours, and
     the good news being that it is prior: *Confessions* X and the *De Trinitate* both carry it, and
     the compressed form the chapter uses (*it knows you first*) is standard reference scholarship
     rather than a reading of either. Maimonides is the *Guide of the Perplexed* I.51–60 on negative
     attributes; the chapter's *no attribute survives the crossing* is a fair paraphrase of I.58 and
-    not a quotation. ⚠ Neither text is in this repository. Grade: doctrine-by-name.
+    not a quotation. ⚠ Neither text was consulted at first hand. Grade: doctrine-by-name.
 
 [^2]: **Śaṅkara — no second party for the knowing to run between.** Advaita's non-dualism as given in
     V.5, which carries the receipts for it. This chapter adds nothing to V.5's grade and inherits its
@@ -338,8 +338,8 @@ expensive are in the same sentence — the one that makes the cut against Katz.*
     *De docta ignorantia* (1440) is where the failure of knowing is given a location. ✅ The claim
     the chapter cashes at line 131 — *Cusanus tells you exactly where knowing fails of the ground,
     and you can go to that place and find that it fails* — is the *docta ignorantia* stated
-    correctly, and is the chapter's own best example of a boundary. ⚠ Neither text is in this
-    repository; V.1 [^7] carries the transmission chain that puts Dionysius downstream of Proclus,
+    correctly, and is the chapter's own best example of a boundary. ⚠ Neither text was consulted at first
+    hand; V.1 [^7] carries the transmission chain that puts Dionysius downstream of Proclus,
     and this chapter's use of him as an independent craft tradition is compatible with it only
     because the credit is for the *technique*, not for the convergence.
 
@@ -414,7 +414,7 @@ expensive are in the same sentence — the one that makes the cut against Katz.*
     this chapter uses (*a boundary, unlike a hedge, has a test*). Cleanest internal borrowing in the
     chapter.
 
-[^16]: **Guénon and Wilber, by doctrine, no texts in this repository.** Guénon's decline-from-
+[^16]: **Guénon and Wilber, by doctrine, no texts consulted at first hand.** Guénon's decline-from-
     primordial-unity is *La Crise du monde moderne* (1927) and *Le Règne de la quantité* (1945);
     Wilber's *Sex, Ecology, Spirituality* is 1995 (Shambhala), and the tiered scheme with a slot
     standing ready for the objector is the standard critical reading of it, not a quotation.
@@ -464,10 +464,10 @@ expensive are in the same sentence — the one that makes the cut against Katz.*
     its own chapter**, so the disclaimer that covers everyone covers everyone but one. Smith is
     *The Religions of Man* (1958), retitled *The World's Religions* (1991): the popularising vehicle,
     which is exactly the role the sentence assigns him. Owed: ten, or cut him.
-    **See the standing note on grade above**, which states at what level this chapter's attributions are made and which of them are flagged for reading.
+
 
 [^22]: **Steuco, *De perenni philosophia libri X*, Lyon, 1540, and he was Vatican librarian.**
-    Standard reference; not in this repository. ✅ The rhetorical use is sound and is the chapter's
+    Standard reference; Not consulted at first hand. ✅ The rhetorical use is sound and is the chapter's
     best original move — *the claim that the traditions have no birthday has one, and it is 1540* —
     and it is a dating claim about the **phrase and the category**, not about the traditions, which
     is the distinction that keeps it honest. ⚠ Huxley (1945, *The Perennial Philosophy*), Schuon
@@ -478,7 +478,7 @@ expensive are in the same sentence — the one that makes the cut against Katz.*
     ed. Steven T. Katz, Oxford University Press, 1978.** The chapter's summary — the tradition
     supplies the concepts that *constitute* rather than merely describe, so the Jewish and the
     Buddhist mystic have two experiences and not one experience twice — is the standard statement of
-    the constructivist thesis. ⛔ **Not in this repository, and it is the most expensive concession
+    the constructivist thesis. ⛔ **Not consulted at first hand, and it is the most expensive concession
     in the chapter.** The chapter flags it for reading; that flag is correct and should not be
     cleared by anything short of the text. **Nearly fifty years** is right for 1978 read in 2026.
 
@@ -530,7 +530,7 @@ expensive are in the same sentence — the one that makes the cut against Katz.*
     (subsistence after annihilation), the tenth ox-herding picture (entering the marketplace with
     open hands), and the bodhisattva's postponed door. ⚠ The ox-herding sequence exists in versions
     with five, six, eight and ten frames; *back among the shops* is the ten-frame Kuòān recension.
-    Given by doctrine; no text in this repository.
+    Given by doctrine; no text consulted at first hand.
 
 [^29]: ⛔ **"Ten roads" — see [^5].** The chapter opens at nine, enumerates eight, and closes at ten.
     Whichever number is right, three different counts of one roster inside one chapter is a defect in

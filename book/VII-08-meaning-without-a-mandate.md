@@ -481,7 +481,7 @@ this chapter's central argument turns on, and no chapter of this
 manuscript had used it before now.** Frankl's three pathways to meaning — creative work,
 experiential encounter, and the attitude taken toward unavoidable suffering — are on the same card
 and are the tradition's partial exception to its own blindness; `Frankl` occurred zero times across
-fifty-eight drafted chapters, `Camus` zero, `MacIntyre` zero, `Sisyphus` zero, `eternal recurrence`
+fifty-eight chapters, `Camus` zero, `MacIntyre` zero, `Sisyphus` zero, `eternal recurrence`
 zero. That pattern, sixth firing, and this time in a chapter whose brief predicted every one
 of the zeros — which is progress of a kind: the brief caught what the drafting would have missed,
 and the brief only caught it because someone counted.

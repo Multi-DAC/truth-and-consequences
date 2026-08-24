@@ -211,12 +211,12 @@ there has ever been.
 
 ---
 
-[^1]: `V.2`, §*What the mechanism could not supply*, verified verbatim against the drafted chapter.
+[^1]: `V.2`, §*What the mechanism could not supply*, verified verbatim against the chapter as drafted.
 The passage is quoted at length rather than paraphrased because the debt it files is the debt this
 chapter settles, and a paraphrase would let the settlement be graded against a friendlier version of
 the bill than the one actually written.
 
-[^2]: The 18-of-44 figure is measured by `tools/instrument_sweep.py`, not recalled: v2 (3) + v3 (2) +
+[^2]: The 18-of-44 figure is measured, not recalled: v2 (3) + v3 (2) +
 v3-canon (13). The 24 v1 cards are clean and `IV.9`'s two v1b cards have no complement field at all,
 which is a different problem and is recorded separately.
 

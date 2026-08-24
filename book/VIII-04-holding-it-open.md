@@ -336,7 +336,7 @@ thing's levels with one another and the felt rightness of going the way one goes
 these are one thing, met from its two sides."* ⚠ **Recorded because it is a finding about the
 manuscript rather than about this chapter: `the Coherence Principle` is the planning apparatus's name
 for the book's most-repeated structural claim — it is used in `03`, `04` and `06` — and it had
-occurred ZERO times in sixty-three drafted chapters when this one was written.** The claim is
+occurred ZERO times in sixty-three chapters when this one was written.** The claim is
 everywhere in the prose and its name is nowhere, which is a different defect from a claim that went
 missing and is easier to miss: nothing is absent, so nothing reads as absent. ⛔ Named here once,
 minimally, because this chapter's brief asks for its practical form. **The full statement is VIII.7's

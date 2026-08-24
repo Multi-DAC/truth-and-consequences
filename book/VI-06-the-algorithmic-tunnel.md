@@ -393,7 +393,7 @@ any form.** Verified against the PMC full text (PMC13061628) rather than the abs
 first full text read for this chapter and revises the grade note below by one source. The error ran
 in the safe direction — controlling is weaker than stratifying, so the chapter had *over*-credited
 the design — but it was an invented methodological detail, which is the defect class this book
-spends VI.7 diagnosing in other people. **See the standing note on grade above**, which states at what level this chapter's attributions are made and which of them are flagged for reading.
+spends VI.7 diagnosing in other people.
 
 [^5]: Jennifer Allen, Baird Howland, Markus Mobius, David Rothschild and Duncan J. Watts,
 "Evaluating the fake news problem at the scale of the information ecosystem," *Science Advances* 6,
@@ -437,14 +437,13 @@ social graph**, and the mechanism [^4] reports — users acquire durable *follow
 algorithm's removal — cannot occur where there is nothing to follow. If that reading is right, [^8]
 measures the persuasion channel this chapter says is not the operative one, and its null is
 consistent with, not contrary to, the structural claim. **That is a hypothesis. Neither full text
-has been read** — see the standing note on grade above, which this footnote does not exempt itself
-from.
+has been read**, and the note on grade below does not exempt this footnote from itself.
 
 ---
 
-*The standing note on grade, owed here as in VI.1 through VI.5.* Pariser, Bakshy, Guess, Gauthier,
+*On the grade of the sources above.* Pariser, Bakshy, Guess, Gauthier,
 Allen, Grinberg, Zuboff and Liu et al. [^8] are named from **primary sources consulted at abstract and
-press-summary level on Day 190, not from full texts held in this repository.** ★ This is a
+press-summary level on Day 190, not from full texts held at first hand.** ★ This is a
 **different and better grade than VI.1–VI.5**, all of which named their sources from general
 knowledge with nothing consulted. Here the bibliographic details, effect sizes, sample sizes and
 the three quoted sentences at [^4] were retrieved and checked against the publishing venue rather
@@ -454,12 +453,10 @@ Grinberg figures come from abstracts and reputable secondary summaries. Anything
 that depends on a paper's *interior* — its robustness checks, its limitations section, its
 pre-registration — is unverified and is not relied on.
 
-⚠ **The corpus support for this chapter fails in a third distinct direction, and it is the sharpest
-of the three.** Measured on Day 190 over the same corpus: Zuboff **52** · *surveillance capitalism*
-**46** · Donald Hoffman **31** · *echo chamber* **19** · *personalization* **18** · *interface
-theory* **12** · *recommendation algorithm* **12** · Tristan Harris **8** · *engagement
-optimi\** **5** — against **Eli Pariser 2 · *filter bubble* 2 · *misinformation* 2 · *fake news* 2 ·
-Bakshy 0 · Cass Sunstein 0 · Chris Bail 0 · Zeynep Tufekci 0.**
+⚠ **The reading behind this chapter fails in a third direction, and it is the sharpest of the
+three.** Zuboff and Hoffman are worked at length; the empirical literature the chapter leans on
+hardest to make its central negative case — Bakshy, Sunstein, Bail, Tufekci — is given by report
+and not by text. The chapter is best-read where it is least-sourced.
 
 ★ **VI.4 had the topics and not the sources. VI.5 had the later discourse and not its history. This
 corpus has the indictment and not the evidence.** Zuboff at 52 and every empirical test of the

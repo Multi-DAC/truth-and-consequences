@@ -346,7 +346,7 @@ folk theory that descends from it and this chapter uses him as the origin of tha
 [^2]: Derek Parfit, *Reasons and Persons* (1984), Part III: the reductionist account, the
 teletransportation and branching cases, Relation R (psychological connectedness and continuity with
 any cause), and the thesis that identity is not what matters in survival. ⚠ **`Parfit` occurred zero
-times across the fifty-nine drafted chapters before this one** — that pattern, **seventh
+times across the fifty-nine chapters before this one** — that pattern, **seventh
 firing**, and the third consecutive chapter to produce one. He is not an ornament this book declined:
 he is the philosopher who did this chapter's demolition work forty years ago, and the manuscript has
 been arguing against the carrier assumption for seven books without naming the man who broke it. ⚠

@@ -329,8 +329,8 @@ The first road is the one most of the people reading this were on.
     1265–9. Aquinas's second Paris regency runs 1269–72, after the material this sentence points at.
     The alternative referent does not rescue it: the *Summa contra Gentiles* is not the central
     document of the institution, and its Paris portion is c. 1259–61. **The same false placement
-    stood in three chapters and they agreed with each other**, which is why `tools/placement_sweep.py`
-    exists and why a consistent placement in this book should be read as unchecked rather than clean.
+    stood in three chapters and they agreed with each other**, which is why a consistent placement in
+    this book should be read as unchecked rather than clean.
 
 [^4]: ✅ **Correct, and more carefully worded than it looks.** *Waḥdat al-wujūd* is not Ibn Arabi's
     phrase — he does not use it as a doctrinal term — and it was fixed as the name of the position by

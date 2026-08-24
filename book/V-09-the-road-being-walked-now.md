@@ -122,7 +122,7 @@ framework does not require choosing. **The framework does require choosing, and 
 public.** IV.7, in these words: *two frames may be held at once precisely where they predict the same
 thing, and where they diverge you must pick, and the divergence is where all the work is.*[^13]
 
-That sentence has now been quoted in three drafted chapters, and it has been cashed twice — V.3 ran
+That sentence has now been quoted in three chapters, and it has been cashed twice — V.3 ran
 it cheaply and V.8 ran it at full cost, picking the state reading over the more interesting one and
 refusing to spread the load evenly to make the case look broader. **What is new here is narrower and
 worse: this is the first case where the pick cannot be separated from the null.** In V.8 the losing
@@ -508,7 +508,7 @@ people sitting still.
 
 [^19]: ✅ **Exact, and C29 is the right warrant.** The claims register carries it in the canonical text:
     *"★ **The conclusion guarantees the premises.** That is IV.10's own diagnosis, run on IV.1 — the
-    same"* (`07-THE-CLAIMS-REGISTER.md`:1121). C29 withdrew IV.1's induction on exactly this ground —
+    same"*. C29 withdrew IV.1's induction on exactly this ground —
     the class of possible counterexamples was **emptied by the framework's own conclusion** — so *"the
     move C29 withdrew a whole warrant over"* is accurate, and it is the same move both refused
     sentences make.

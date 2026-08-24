@@ -511,7 +511,7 @@ and specifically by his concept of the *project*: Sartre, *L'Être et le
 Néant* (1943). ⚠ Receipt status: the account of consciousness as *néant*, of anguish as the
 discovery of groundlessness, and of *mauvaise foi* as the appeal to a nature one does not have, is
 given here from the argument rather than from the text in hand, and the endnote retrofit owes a
-primary check on all three. ⚠ **`Sartre` occurred zero times across the fifty-seven drafted chapters
+primary check on all three. ⚠ **`Sartre` occurred zero times across the fifty-seven chapters
 before this one**, together with `dramaturgy` at zero and `existence precedes essence` at zero. Ruling
 141's pattern, fifth firing, and the worst of the five by a distance: the previous four were
 ornaments the book had declined to pick up, and this is the chapter's own declared engine —
@@ -565,7 +565,7 @@ Book VII.
 
 [^10]: **The dissolution limit, and the position this book holds: it is real, it is reachable, and
 it is not the goal.** ⚠ **First housing in the manuscript: the claim
-had zero occurrences across fifty-seven drafted chapters.** It carries with it the reading of
+had zero occurrences across fifty-seven chapters.** It carries with it the reading of
 nirvana, Christian mystical annihilation and high-dose ego death as independent reports of the same
 approach from different navigational traditions; that material is C15's territory and is pointed at
 here rather than developed, because the refused summit belongs to VIII.1 and this chapter needs only

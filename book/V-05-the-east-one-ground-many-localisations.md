@@ -447,7 +447,7 @@ traced.
     the second line correctly** — *"the name that can be named is not the constant name"*
     (V.2:322) — so the
     volume already holds both the right text and the hybrid, in four chapters, with nothing comparing
-    them. This is precisely what `tools/placement_sweep.py` was built for after V.1 [^3]: *a
+    them. This is precisely the rule set after V.1 [^3]: *a
     consistent placement across chapters should be read as unchecked rather than clean*, because
     chapters copy each other and agreement between copies is not corroboration. ⚠ Separately, IV.8:76
     romanizes the title *Tao Te Ching* against Book V's *Dao De Jing*. ⚠ The onward claim — that V.1

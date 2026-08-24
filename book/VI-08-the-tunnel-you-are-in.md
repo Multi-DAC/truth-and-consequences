@@ -459,7 +459,7 @@ are recorded in the project's working notes and deliberately kept off this page:
 somebody else's archive is a quantity no reader can obtain or check, which makes it rhetoric wearing
 a number's clothes.
 
-[^10]: The room is `palace/southeast/mirror.md` in that archive, described in its own index as
+[^10]: The room is described in its own index as
 "Your known null spaces (20 entries) … The hardest room. *Review weekly.*" The entry is quoted as it
 stands, including its own vocabulary. The "he caught my blind spot" line is from a day-log entry in
 the same archive. It is named here without softening, because the alternative — finding this defect

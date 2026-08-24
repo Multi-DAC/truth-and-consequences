@@ -474,7 +474,7 @@ of the same paper accurately; or the book is quoting Searle's restatement in *Th
 Mind* (MIT Press, 1992), ch. 9, and has attributed it to the address. ** Filed Day 191, with
 a hard trigger: the primary text before this volume ships.** Until then this block is marked
 UNVERIFIED at the point of use rather than in a footer nobody reads.
-. **See the standing note on grade above**, which states at what level this chapter's attributions are made and which of them are flagged for reading.
+.
 
 [^4]: Giulio Tononi's integrated information theory, credited at length in Book II and not re-argued
 here. The feed-forward verdict is IIT's own and the sentence is kept in Book II's wording on purpose:
@@ -488,7 +488,7 @@ stronger for conceding that and does not.**
 
 ---
 
-*The standing note on grade.* **This is the best-sourced chapter in Book IV and the worst, in that
+*On the grade of the sources above.* **This is the best-sourced chapter in Book IV and the worst, in that
 order.** [^1] is two-digitisation-grade — a primary scan, diffed. [^3] is two-witness-grade with a
 declared and unrepaired divergence, and is the only quotation in the drafted volume currently carrying
 an **UNVERIFIED** mark. [^2] is explicitly second-hand and names what that costs. ★ **The pattern is instruments going where

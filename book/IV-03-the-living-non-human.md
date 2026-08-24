@@ -377,7 +377,7 @@ when the hair moves at a middling rate — and one when it moves much faster or 
 the wider *Dionaea* mechanosensory literature reaching back to Burdon-Sanderson's 1873 recordings,
 and **no single paper is cited for it because the chapter's version is a composite.** The slug is an
 illustration built from that composite, not a reported observation. Declared, because the sentence it
-supports — *nothing in the plant tells these cases apart* — is doing real work two paragraphs later. **See the standing note on grade above**, which states at what level this chapter's attributions are made and which of them are flagged for reading.
+supports — *nothing in the plant tells these cases apart* — is doing real work two paragraphs later.
 
 [^3]: The sensory list is **general plant physiology, named from standard reference scholarship and
 carrying no individual receipts**, and each item has a large literature behind it: phytochrome and the
@@ -481,9 +481,9 @@ why the comparison happened and happened nowhere.
 
 ---
 
-*The standing note on grade.* Ten of the thirteen notes above are journal receipts verified against
+*On the grade of the sources above.* Ten of the thirteen notes above are journal receipts verified against
 the primary record during the Day-191 retrofit — journal, volume, year and pagination each checked
-rather than recalled. **None of these papers is in this repository**; `corpora/` holds four literary
+rather than recalled. **None of these papers was consulted at first hand**; the chapter's own shelf holds four literary
 style specimens and no science, which was measured and recorded on Day 190 and is the reason this
 chapter's pass was re-research rather than polish. Three items are explicitly carried at a lower
 grade and say so in place: the *Dionaea* speed-dependence [^2], the plant sensory list [^3], and the

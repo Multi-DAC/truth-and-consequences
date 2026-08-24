@@ -229,7 +229,7 @@ the target is displaced unpredictably during the saccade, so that spatial contin
 illusion disappears. The filling-in is not automatic padding — it is conditional on the system
 concluding it is looking at the same object, which makes it a *judgement* the reader never made and
 cannot inspect. ⚠ Third author is **Heal**, not *Heald*; checked against the published citation
-because the two are one letter apart and the wrong one is the more familiar-looking name. **See the standing note on grade above**, which states at what level this chapter's attributions are made and which of them are flagged for reading.
+because the two are one letter apart and the wrong one is the more familiar-looking name.
 
 [^2]: Daniel J. Simons and Daniel T. Levin, "Failure to detect changes to people during a real-world
 interaction," *Psychonomic Bulletin & Review* 5 (1998): 644–49 — the door study, run on a college
@@ -259,12 +259,12 @@ its own detection rate was 84%. Its detection rate was 26%.
 
 ---
 
-*The standing note on grade.* **Every figure in this chapter was verified against the published text
+*On the grade of the sources above.* **Every figure in this chapter was verified against the published text
 during the Day-191 retrofit, and two were verified against the PDFs themselves rather than against a
 secondary description** — the 26% and the *very few differences*, both quoted above from the authors'
 own sentences, because both are numbers the chapter's argument rests its weight on and both are
 routinely misreported. The Yarrow citation was checked against the publisher's record after an
-author's name was found to be wrong in the first draft of this note. **None of these papers is in
-this repository.** ⚠ The chapter's closing claim — that knowing the mechanism changes nothing — is
+author's name was found to be wrong in the first draft of this note. **None of these papers was consulted at first
+hand.** ⚠ The chapter's closing claim — that knowing the mechanism changes nothing — is
 **the book's, not the literature's**, and carries no receipt because none exists; it is an argument
 from the structure of the findings and should be read as one.

@@ -327,7 +327,7 @@ pointed out that this is impossible** — the word is purely Greek and has never
 it was about collectives**, and it was adopted on that basis. That is precisely the failure mode the
 paragraph above uses to retire the word: **a borrowing that transfers authority rather than meaning**,
 demonstrated inside the word's own history. The term was banned and credited the tradition
-once; this note is the credit, and it is now also the argument. **See the standing note on grade above**, which states at what level this chapter's attributions are made and which of them are flagged for reading.
+once; this note is the credit, and it is now also the argument.
 
 [^2]: **Dunbar's number** — R. I. M. Dunbar, "Neocortex size as a constraint on group size in
 primates," *Journal of Human Evolution* 22 (1992): 469–93, and the argument as extended to humans in
@@ -358,8 +358,8 @@ prose, and a name in neither is in neither.
 
 ---
 
-*The standing note on grade.* Anderson and Dunbar are named **from general knowledge and standard
-reference scholarship; neither text is in this repository**, and both citations were checked against
+*On the grade of the sources above.* Anderson and Dunbar are named **from general knowledge and standard
+reference scholarship; neither text was consulted at first hand**, and both citations were checked against
 the publishers' records during the Day-191 retrofit. The *egregore* transmission chain was
 re-verified in the same pass and **came back different from what the prose says** — Hugo before Lévi,
 and Guénon's correction of Lévi — which is recorded above rather than smoothed over. ⚠ **The four

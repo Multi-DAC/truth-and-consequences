@@ -343,8 +343,7 @@ his reading is set out. ⚠ **The brief for this chapter said he was returning f
 I.6; `Watts` occurs zero times there. Corrected before drafting, and recorded because the error was
 of a class that produces a **false internal cross-reference in shipped prose** — the chapter would
 have claimed a callback to a passage that does not exist — and because it is the second such pointer
-error found in two consecutive briefs, both by re-reading rather than by any gauge. Nothing in this
-repository checks a chapter pointer against the title it names.
+error found in two consecutive briefs, both by re-reading rather than by any gauge. Nothing checks a chapter pointer against the title it names.
 
 [^4]: **Navigation as identity**, in the form this book inherited it. The refutation is VII.9's
 and is not rebuilt here; what is new in this section is the **practical** consequence, which VII.9

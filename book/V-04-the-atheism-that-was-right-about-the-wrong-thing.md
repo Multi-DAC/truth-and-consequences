@@ -275,7 +275,7 @@ defect is not out there. It is in the four sentences where it cites itself.** Th
 notes below are internal: one where V.4 vouches for a defence V.1 explicitly declines to have
 completed, one where V.4 states the book's practice in terms V.1 rules out in advance, and one where
 a quotation from IV.10 runs on past its own italics with a word changed. That cluster was found by
-`tools/crossref_rot.py --all` and **not by `crossref_rot.py`** — see [^11] — which is the finding
+the widened sweep and **not by the default one** — see [^11] — which is the finding
 this apparatus would most like the next chapter to inherit.
 
 [^1]: **The four-and-a-decade framing is doing dating work it cannot carry, and the chapter's own
@@ -419,8 +419,8 @@ this apparatus would most like the next chapter to inherit.
     qualified it** — the identical shape filed as V.3 [^7], now recurring in a chapter that was not
     part of that finding's population.
     ⛔ **And the instrument note, which is the more expensive half.** This pair *is* tier 1 in
-    `crossref_rot.py` — `V.4>V.1:5ee32b3c`, cited 2026-08-09, four corrective notes landed in V.1 two
-    days later. It was **never printed**: the tool caps its default view at 20 of 99 rows and ranks by
+    the sweep — cited 2026-08-09, four corrective notes landed in V.1 two
+    days later. It was **never printed**: the default view caps at 20 of 99 rows and ranks by
     count of shared distinctive terms, and this row shares **none**, so it sorts last. The ranking is a
     relevance heuristic standing in for a severity one, and it is backwards for this case — **a
     citation that restates its source in the citer's own vocabulary has no term overlap by

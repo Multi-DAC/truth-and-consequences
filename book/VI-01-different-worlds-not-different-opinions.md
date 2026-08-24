@@ -260,7 +260,7 @@ instruction.
 
 [^1]: Jean Gebser, *Ursprung und Gegenwart* (Stuttgart, 1949–53); translated by Noel Barstad with
 Algis Mickunas as *The Ever-Present Origin* (Athens, Ohio: Ohio University Press, 1985). The
-structures and the perspectivity axis are developed across Part One. **See the standing note on grade above**, which states at what level this chapter's attributions are made and which of them are flagged for reading.
+structures and the perspectivity axis are developed across Part One.
 
 [^2]: Brent Berlin and Paul Kay, *Basic Color Terms: Their Universality and Evolution* (Berkeley:
 University of California Press, 1969). The implicational hierarchy has been revised repeatedly
@@ -277,9 +277,9 @@ and new evidence from a stone-age culture," *Journal of Experimental Psychology:
 (2000), 369–398, on Berinmo; and Roberson, Davidoff, Davies and Laura Shapiro on Himba, *Cognitive
 Psychology* 50:4 (2005), 378–411.
 
-*The standing note on grade, owed here as it was owed in Book V.* Gladstone, Gebser, Berlin, Kay
+*On the grade of the sources above.* Gladstone, Gebser, Berlin, Kay
 and the Aboriginal and Haudenosaunee frameworks referred to above are named **from general
-knowledge and standard reference scholarship. None of their texts is in this repository, and nothing
+knowledge and standard reference scholarship. None of their texts was consulted at first hand, and nothing
 above is a quotation** — each is given by doctrine, with a date, and no words are put in anyone's
 mouth. Two are load-bearing enough to be flagged for reading rather than left at this grade:
 **Gebser**, because the whole book rests on his axis, and **the Winawer 2007 result**, because it is

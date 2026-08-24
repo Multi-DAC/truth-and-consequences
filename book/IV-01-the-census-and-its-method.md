@@ -290,7 +290,7 @@ above was wrong until this note was written.** It read *"a few hundred of them"*
 excess in the last is prose usage, not entries). Corrected to *ninety-odd* here. **The error is the
 one this book keeps naming: a remembered magnitude, never gauged, sitting in a sentence whose
 argument did not depend on it** — which is exactly why nothing caught it for three days. Nothing in
-`tools/` could have; there is no instrument that counts a source's entries against a prose adjective. **See the standing note on grade above**, which states at what level this chapter's attributions are made and which of them are flagged for reading.
+`tools/` could have; there is no instrument that counts a source's entries against a prose adjective.
 
 [^2]: K. J. S. Anand and P. R. Hickey, "Pain and Its Effects in the Human Neonate and Fetus," *New
 England Journal of Medicine* 317 (19 November 1987): 1321–29 — the review that broke the practice,
@@ -314,10 +314,9 @@ statutory change it produced** — and it is cited for that reason rather than f
 
 ---
 
-*The standing note on grade, owed here as in Book VI.* **This chapter names nobody in its prose, and
+*On the grade of the sources above.* **This chapter names nobody in its prose, and
 that is not an oversight being repaired**: the name lives in the sentence, and IV.1's
 three receipts attach to *claims* rather than to attributions. The two external sources above were
 verified against the primary record during the Day-191 retrofit — journal, volume, pagination and
-date for Anand and Hickey; publisher, date and statutory consequence for Birch et al. **Neither text
-is in this repository.** `null-space-atlas.md` is, and its figure was counted rather than recalled,
+date for Anand and Hickey; publisher, date and statutory consequence for Birch et al. The figure was counted rather than recalled,
 which is how the error in the prose was found.

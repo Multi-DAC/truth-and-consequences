@@ -65,14 +65,16 @@ indistinguishable from the real thing at the length people actually speak in.
 This book is going to name its specimen from its own house, because the honest place to find this
 is not in an opponent.
 
-The research corpus behind this work runs to about two and a half thousand documents. Search it for
-*maybe logic* and you get eleven files. Search it for *E-Prime* and you get sixteen. Search it for
-*Robert Anton Wilson* and you get twenty-three. The practice is well attested. Now search it for
-the sources of the practice: **general semantics, zero. Łukasiewicz, zero. Reichenbach, zero.
-*quantum logic*, zero. *The New Inquisition* — the book in which model agnosticism is actually
-defined — zero. Korzybski, two. Bourland, one. The phrase *model agnosticism* itself, one.**
+One of the authors of this book held model agnosticism for years, used the phrase in writing,
+wrote *maybe logic* into arguments as though it settled something, and had read none of it: not
+Korzybski, not Bourland, not Łukasiewicz, not Reichenbach, and not *The New Inquisition*, the book
+in which the position is actually defined. The endnotes below are the first time any of those texts
+was opened for this project. They were opened because this chapter could not be written without
+them, and the chapter could not be written without them because the practice had been running on
+the phrase alone.
 
-The corpus adopted a discipline and never met the argument for it.
+That is the specimen. A discipline was adopted and its argument was never met, and nothing in the
+practice was capable of noticing, because a posture has no operations to fail.
 
 And the use it made of the phrase is exactly the counterfeit. One of the essays in that corpus
 contains the sentence: *"I hold this lightly. Maybe Logic. The certainty that I* am *something
@@ -336,7 +338,7 @@ away from you.
 The bill for that arrives immediately and it is not small. Writing down what would kill C1 means C1
 can be killed, by someone who is not you, using the instrument you handed them. Book V had to write
 a sentence that could hand the whole book away and wrote it down instead of walking around it. This
-chapter has just conceded that its own research corpus is a specimen of the defect it describes.
+chapter has just conceded that its own authors are a specimen of the defect it describes.
 None of that is available to a position that arrived pre-hedged, and it is not available *because*
 of the hedge: an unfalsifiable claim cannot be caught, and a claim that cannot be caught cannot be
 improved. **The hedge that protects you from being wrong protects you equally from getting better.**
@@ -485,7 +487,7 @@ criticised and did not become the standard reading of the formalism.
 [^6]: Garrett Birkhoff and John von Neumann, "The Logic of Quantum Mechanics," *Annals of
 Mathematics* 37, no. 4 (1936): 823–843. The propositions form an orthocomplemented lattice in which
 distributivity fails; Birkhoff and von Neumann proposed modularity in its place, and the modern
-standard treatment weakens this further to orthomodularity. **The system is two-valued throughout.** **See the standing note on grade above**, which states at what level this chapter's attributions are made and which of them are flagged for reading.
+standard treatment weakens this further to orthomodularity. **The system is two-valued throughout.**
 
 [^7]: D. David Bourland Jr., "A Linguistic Note: Writing in E-Prime," *General Semantics Bulletin*
 (1965). Bourland studied under Korzybski and devised the constraint in the late 1940s. Korzybski had
@@ -543,7 +545,7 @@ half of that ruling — the sense in which the dictum holds undamaged, which is 
 
 ---
 
-*The standing note on grade, owed here as in VI.1 through VI.6.* The sources above were consulted on
+*On the grade of the sources above.* The sources above were consulted on
 Day 190 at abstract, encyclopaedia-entry and reputable-secondary level, with bibliographic details,
 effect sizes and the quoted sentences at [^8] and [^11] checked against the publishing venue or the
 journal's own issue page. **No full text was read.** In particular: the Birkhoff–von Neumann paper
@@ -556,14 +558,11 @@ null here, only unretrieved.** The David 2013 experiment's sample size was not o
 journal's issue page, which is a material gap for a study this chapter leans on, and the year is
 given as 2013 by the issue URL and 2014 in one retrieved field.
 
-⚠ **The corpus support for this chapter fails in a fourth distinct direction, and it is the only one
-that is a specimen of the chapter's own subject.** Measured on Day 190 over 2,586 live files:
-*Robert Anton Wilson* **23** · *abstracting* **28** · *epistemic humility* **26** · *E-Prime* **16**
-· *maybe logic* **11** · *Prometheus Rising* **4** · *Cosmic Trigger* **3** · *Korzybski* **2** ·
-*Quantum Psychology* **1** · *Bourland* **1** · *model agnosticism* **1** · *fallibilism* **1** —
-against **general semantics 0 · Łukasiewicz 0 · Reichenbach 0 · quantum logic 0 · linguistic
-relativity 0 · non-Aristotelian 0 · structural differential 0 · *The New Inquisition* 0 ·
-Vaihinger 0 · Pyrrho 0.**
+⚠ **The reading behind this chapter fails in a fourth direction, and it is the only one that is a
+specimen of the chapter's own subject.** Wilson is worked closely and the practice is well
+understood here. The sources of the practice — Korzybski, Vaihinger, Łukasiewicz, Reichenbach,
+the quantum-logic literature, *The New Inquisition* itself — are named and not read. That is the
+chapter's indictment, turned on the chapter.
 
 ★ VI.4 had the topics and not the sources. VI.5 had the later discourse and not its history. VI.6
 had the indictment and not the evidence. **This corpus has the practice and not its warrant** —
@@ -571,8 +570,8 @@ E-Prime sixteen times and Bourland once; *maybe logic* eleven times and every lo
 thing at zero; *epistemic humility* twenty-six times and *fallibilism* once. And *agnostic*, the
 bare word, **351**, against **1** for the doctrine defined under that name.
 
-★★ That is not merely a gap in reading. **It is this chapter's thesis instantiated in the material
-the chapter was written from**: a discipline adopted as a phrase, invoked where a warrant belongs,
-with none of its operations ever run and nothing in the practice capable of noticing. The specimen
-quoted in the body — *"I hold this lightly. Maybe Logic."* — is from this project's own essays, and
-it was found by searching the corpus for the chapter's terms, not by searching it for the defect.
+★★ That is not merely a gap in reading. **It is this chapter's thesis instantiated in its own
+authors**: a discipline adopted as a phrase, invoked where a warrant belongs, with none of its
+operations ever run and nothing in the practice capable of noticing. The specimen quoted in the
+body — *"I hold this lightly. Maybe Logic."* — is ours, and it turned up while looking for the
+chapter's terms, not while looking for the defect.

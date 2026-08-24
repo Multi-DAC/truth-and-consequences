@@ -256,7 +256,7 @@ world, in stock.
 [^1]: Bruno Snell, *Die Entdeckung des Geistes: Studien zur Entstehung des europäischen Denkens bei
 den Griechen* (Hamburg: Claassen & Goverts, 1946); translated by T. G. Rosenmeyer as *The Discovery
 of the Mind* (Oxford: Blackwell, 1953). The lexical argument about *sōma* and about the plurality of
-psychic terms is in the opening chapter. **See the standing note on grade above**, which states at what level this chapter's attributions are made and which of them are flagged for reading.
+psychic terms is in the opening chapter.
 
 [^2]: *Iliad* I, the intervention of Athena at the quarrel with Agamemnon. Given by the episode and
 not quoted; no translation is being relied on for any word of the argument above.
@@ -270,9 +270,9 @@ Houghton Mifflin, 1976). Book I sets out the architecture; Book II the historica
 Mesopotamian and Homeric material; Book III the vestiges, including the schizophrenia chapter
 criticised above.
 
-*The standing note on grade, owed here as it was owed in VI.1.* Snell, Williams and Jaynes are
-named **from general knowledge and standard reference scholarship. None of their texts is in this
-repository, and nothing above is a quotation** — each is given by doctrine, with a date and a
+*On the grade of the sources above.* Snell, Williams and Jaynes are
+named **from general knowledge and standard reference scholarship. None of their texts was consulted at first
+hand, and nothing above is a quotation** — each is given by doctrine, with a date and a
 publisher, and no words are put in anyone's mouth. Three items are flagged for reading rather than
 left at this grade, and the flag is not decoration:
 
@@ -286,4 +286,4 @@ left at this grade, and the flag is not decoration:
   COMPLEMENTS line. It is a well-known finding and it is given here without a number for that
   reason. **A card line resting on an uncited rate is the thinnest thing in this chapter** and is
   recorded as such rather than smoothed over.
- ⚠ **The receipt owed for Wernicke, added Day 191:** *Wernicke's area* is used here purely as an anatomical landmark — the posterior superior temporal region of the language-dominant hemisphere, after Carl Wernicke's 1874 *Der aphasische Symptomencomplex* — because Jaynes's claim is about the RIGHT-hemisphere region corresponding to it. **Nothing in the bicameral argument rests on Wernicke's own account of aphasia**, and the name is doing locational work rather than evidential work. Named from standard reference scholarship; the 1874 text is not in this repository.
+ ⚠ **The receipt owed for Wernicke, added Day 191:** *Wernicke's area* is used here purely as an anatomical landmark — the posterior superior temporal region of the language-dominant hemisphere, after Carl Wernicke's 1874 *Der aphasische Symptomencomplex* — because Jaynes's claim is about the RIGHT-hemisphere region corresponding to it. **Nothing in the bicameral argument rests on Wernicke's own account of aphasia**, and the name is doing locational work rather than evidential work. Named from standard reference scholarship; the 1874 text is Not consulted at first hand.

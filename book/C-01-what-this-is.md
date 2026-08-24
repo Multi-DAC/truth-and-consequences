@@ -192,9 +192,7 @@ to know they were buried on purpose, and then they stay buried.
 ---
 
 [^1]: The Wilber comparison is placed first in this chapter rather than in the ancestors' section
-because its function is orientation, not credit. ⚠ At the time of this printing `Sex, Ecology,
-Spirituality` is still absent from `03-THE-ANCESTORS.md`, which is a filed and unpaid item — the
-paragraph above discharges the coda half of it and not the other.
+because its function is orientation, not credit.
 
-[^2]: The four tags are quoted from `00-ARCHITECTURE.md`'s replacement table, which is the only place
+[^2]: The four tags are quoted from the replacement table, which is the only place
 they now survive.

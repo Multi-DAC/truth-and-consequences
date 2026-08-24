@@ -65,8 +65,16 @@ FILEREF = re.compile(
     | \b[A-Z]:[\\/][\w\\/.\-]+                                        # absolute Windows path
     | (?<![\w/])/(?:c|mnt|home|Users)/[\w/.\-]+                       # absolute posix path
     | \b\d{2}-[A-Z][A-Z\-]{3,}\b                                      # apparatus files: 07-THE-CLAIMS-REGISTER
+    | `0\d`                                                           # the SAME files by bare number: `05`, `07`
+    | \bplanning\s+(?:document|file|apparatus)s?\b                    # the drafting tree, unnamed
+    | \bthe\s+scaffold\b
     """
 )
+# ⚠ The last three alternatives were added AFTER the first FILEREF pass printed a green.
+# The pattern required a file extension or the NN-CAPS form, and the book refers to the same
+# apparatus files 31 more times as bare backticked numbers — `05`'s ruling, `07` C27, "the
+# scaffold", "our own planning file". Found by reading the DRAFTING residue, not by this
+# gauge. A pattern built from the loudest form of a thing certifies the quiet form clean.
 
 DRAFTING = re.compile(
     r"""(?xi)

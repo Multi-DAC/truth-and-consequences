@@ -240,7 +240,7 @@ its first sentence — *the crystal is not counting*, and the frequency it flexe
 thing that does. Ordinary tuning-fork crystals run at ±20 ppm at room temperature; a typical quartz
 watch keeps 15–30 seconds a month, so *a few seconds a week* is the good end of ordinary rather than
 a specification. Thermocompensated movements reach ±5 to ±10 seconds a **year**, and the best reach
-±1, but those are not what is on the reader's wrist and the sentence does not claim them. **See the standing note on grade above**, which states at what level this chapter's attributions are made and which of them are flagged for reading.
+±1, but those are not what is on the reader's wrist and the sentence does not claim them.
 
 [^2]: ⚠ **This sentence was false until Day 191 and is now weaker by one word.** It read *"every clock
 built in the four centuries before it."* The **Shortt–Synchronome free-pendulum clock** — W. H.
@@ -264,7 +264,7 @@ millennia for a position with a mass spectrometer.
 
 ---
 
-*The standing note on grade.* The petrology in this chapter — granite grain size against cooling
+*On the grade of the sources above.* The petrology in this chapter — granite grain size against cooling
 rate, a quartz vein recording the pressure that opened its crack, agate banding in order of arrival,
 superposition in strata — **is named from general knowledge and standard reference scholarship, is
 not quoted, and carries no receipt above.** That is a declared thinness, not an oversight: each is

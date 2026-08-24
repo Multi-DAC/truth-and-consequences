@@ -459,7 +459,7 @@ error that flatters has a motive *keeping* it.
     a four-century one, and nothing in the drafting of V.6 consulted the note that had already ruled.
     ★ **A defect filed in an apparatus is filed in the one place the next chapter's author does not
     read.** That is not a fact about this chapter; it is the retrofit's own failure mode, and it is
-    why `tools/apparatus_rot.py` exists as of tonight.
+    why the apparatus is swept on its own as of tonight.
 
 [^12]: ✅ **The doctrinal chain is standard and correctly ordered.** The vessels of the lower seven
     failing while the upper three hold, sparks scattered and caught in husks, *tikkun* as the work of
@@ -492,7 +492,7 @@ error that flatters has a motive *keeping* it.
     perspective … that is the whole load-bearing claim of this book"*; *"road"* is the book's title
     metaphor, and the swap drops the term that makes the census card apply. Fourth consecutive chapter
     to over-credit V.1, and held through a `refuter` instructed to default to refuted.
-    ⚠ **The stem clause is not mine — `tools/apparatus_rot.py` produced it, five minutes after being
+    ⚠ **The stem clause is not mine — the apparatus sweep produced it, five minutes after being
     written, against a finding I had filed one breath earlier and hardened with a refuter.** The
     original sentence read *"`travel`, `strip` and `safe` occur zero times in V.1"*, which is false
     as a claim about the root and was going to be quoted as one. A refuter attacks the conclusion; it

@@ -15,7 +15,7 @@ entry.
 The answer is that a whole tier of the material this book was quarried from is absent, that it sits
 on the page immediately above the tier this chapter was assigned, and that **the way to find it was
 not to think harder about the list.** It was to put the list beside the other list and count. Nine
-minutes with a search across every planning document and every drafted chapter, looking for a word.
+minutes with a search across every planning document and every chapter, looking for a word.
 Zero occurrences in thirty-one chapters. Zero in sixty-eight scaffolded ones. Zero across seven
 planning documents, including the two whose whole function is to record what the book owes.
 
@@ -486,7 +486,7 @@ finding about the inherited hierarchy, running in the opposite direction.
 [^2]: **The measurement is real, it is dated, and it is no longer reproducible from this tree —
 because the repair shipped in the same commit as the finding.** The record has it in the past
 tense and in the right place: *"Measured before a word was drafted: 0 occurrences across all seven
-planning documents and all 31 drafted chapters."* A reader running that grep today gets hits, because
+planning documents and all 31 chapters."* A reader running that grep today gets hits, because
 `00`, `06`, `07`, this chapter and V.9 all now name the tier.
 ⚠ **That is correct engineering and it destroys the evidence.** The only surviving witness to the
 chapter's opening claim is a log line asserting the count — a stamp, not a gauge, which is the exact
@@ -526,13 +526,13 @@ The inherited material predicts **one** thing. The chapter gives it **two**.
 is nothing but P. By handing the inherited material an extra prediction, the chapter made the target marginally
 harder to hit. Same class as IV.7's false pedigree, IV.8's two-texts translator and IV.9's misplaced
 locus: **four chapters running, and not one of the four errors flatters the argument.**
-★★ **AND THE PLAN HAD IT RIGHT.** `06-THE-SCAFFOLD.md`:1601–1602 renders the clause as *"the failure
+★★ **AND THE PLAN HAD IT RIGHT.** The plan renders the clause as *"the failure
 to produce specimens is predicted by the framework if their primary coherence is non-physical"* —
 **one predicted item, matching the inherited material.** The conjunct was added **between the beat and the
 prose.** So this defect has a location, and it is not research and not planning: it is the act of
 expanding a correct compressed note into a sentence, with the material closed. That is a narrower and
 more actionable diagnosis than *"written from memory"*, and it is the opposite of what I first wrote
-here — I attributed it upstream before checking the upstream file. **See the standing note on grade above**, which states at what level this chapter's attributions are made and which of them are flagged for reading.
+here — I attributed it upstream before checking the upstream file.
 
 [^6]: ⛔ **THE BODY ATTRIBUTED THIS SENTENCE TO THE INHERITED MATERIAL UNTIL DAY 195, AND THE MATERIAL
 DOES NOT CONTAIN IT.** Repaired (released edition: repair the body, mark the repair). The
@@ -555,14 +555,14 @@ clauses word for word (the *Under DoPI* sentence, the *Theorem 12* dimensional-l
 three-part *Evidence basis*) and preserves the inherited material's box-bar glyphs `■`/`□` elsewhere in the file.
 The pipeline is not eating content in this region.
 ⚠ **Limit, stated because it is load-bearing and because it is inherited from IV.9:**
-`tools/brief_source.py`:71 names a drafting tree, **which is
-not on this machine.** If a fuller rendering exists there, the sentence may be in it. I cannot
+The drafting record names a source tree **which is
+not available here.** If a fuller rendering exists there, the sentence may be in it. I cannot
 distinguish that from a sentence that was never written — **and neither can a reader**, which is the
 defect on either reading. ✅ **The *"in two forms"* count is now repaired in the body** — it claimed
 two instances of IV.7's refused clause **in this entry**, and the checkable count in the entry is
 one. The body now says what is true: one in the inherited material, one in our own planning file, and they are
 different objects.
-⛔ **AND THIS ONE DID ENTER AT PLANNING.** `06-THE-SCAFFOLD.md`:1604–1606 carries the sentence in
+⛔ **AND THIS ONE DID ENTER AT PLANNING.** The plan carries the sentence in
 IV.10's beats, near-verbatim, as item (b) under the heading *"THE INHERITED CRYPTID ENTRY CARRIES
 IV.7'S REFUSED CLAUSE IN TWO FORMS."* So the prose inherited this fabrication rather than producing
 it — **the opposite of [^5], in the same paragraph of the same chapter.** Repairing the chapter alone
@@ -615,9 +615,9 @@ Emotional-Relational… variable Numinous-Sacred."* Four axes, **described, not 
 So *"three of five bars on physical presence"* has no cell behind it — **the identical defect IV.9
 filed as its own sharpest finding, committed one chapter later, inside the paragraph calling it a
 settled pattern.**
-⚠ **This one is the drafter's alone, and I checked rather than assumed.** `06-THE-SCAFFOLD.md`
+⚠ **This one is the drafter's alone, and I checked rather than assumed.** The plan
 contains no sasquatch, no bars and no *"three of five"* anywhere in IV.10's beats; what it carries is
-the **count** (*"the third instance of IV.9's filled-table finding"*, `06`:1620 — see [^11]). The
+the **count** (*"the third instance of IV.9's filled-table finding"* — see [^11]). The
 specimen and the notation are the drafter's invention at the sentence. **My first version of this
 note blamed the scaffold for both**, which would have been an accusation against a file that had it
 right — the same error as the chapter's, one layer up.
@@ -634,7 +634,7 @@ leaving the body standing and the correction in the note — **and nothing check
 citation against the endnotes of the chapter it cites.** IV.10 was drafted reading IV.9's body, which
 was accurate when written and is now superseded by matter printed forty lines below it. **A note that
 corrects a claim does not correct the claim's readers.** Filed.
-⚠ **The count entered at planning.** `06-THE-SCAFFOLD.md`:1620 already reads *"This is also the third
+⚠ **The count entered at planning.** The plan already reads *"This is also the third
 instance of IV.9's filled-table finding, which settles that it…"* — written before IV.9's [^12]
 existed, and therefore true of what IV.9 then claimed. **The scaffold is now carrying a settled
 conclusion drawn from a retracted premise**, and it will keep handing it forward to every chapter
@@ -709,7 +709,7 @@ spokesman, not a checked table.
 
 ---
 
-*The standing note on grade.* **This chapter set out to show that the census cannot see a vacancy, and
+*On the grade of the sources above.* **This chapter set out to show that the census cannot see a vacancy, and
 the retrofit found that the chapter cannot see its own quotations.** Three of its four indictments of
 the inherited material do not survive contact with it: the first sentence is altered ([^5]), the
 second does not exist ([^6]), and the sasquatch bar-profile is neither a sasquatch nor a bar ([^10]).

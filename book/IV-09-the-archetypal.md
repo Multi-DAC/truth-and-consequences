@@ -534,7 +534,7 @@ chapter concedes, in terms, that it is *"declining the falsifiable half of a for
 other half, which is the move it has complained about in others"* — and then licenses that with
 exactly one clause: *"the only thing that makes it legitimate is that the falsifiable half has been
 checked and has come out negative. It is on the out-list because it failed, not because it was
-inconvenient."* **Go to the out-list.** `00-ARCHITECTURE.md:61` carries `archetypes-as-genetic` with
+inconvenient."* **Go to the out-list.** It carries the entry with
 **no annotation of any kind**, under the stated reason *"Out because we don't hold them."*
 ★ **And the positive control is sitting one line away in the same list.** `Terror Management Theory
 (dropped on Many-Labs-4)` — the entry that genuinely failed a test **carries the test's name**. The
@@ -567,7 +567,7 @@ argument concerns the Irenaeus half of the same paragraph.
 
 [^9]: **Both ends verified verbatim, and the defect is in the address, not the words.** The Latin is
 exact against W. W. Harvey's edition (*Sancti Irenaei… libros quinque adversus haereses*, Cambridge
-1857) as held locally at `corpora/tmp/sanctiirenaeiepi01unse.txt`. The English is exact against the
+1857). The English is exact against the
 Ante-Nicene Fathers (Roberts–Donaldson) — including the preceding sentence, and including the chapter
 title, *"Created things are not the images of those Æons who are within the Pleroma,"* which the
 chapter characterises correctly. *"Two sentences later"* is also correct: the regress conclusion is
@@ -636,11 +636,11 @@ incompatible jobs. Sharper still, that same apparatus cross-refers to a table of
 assignments across all entity types — **and no such table was ever built.** A pointer to something
 that does not exist is mechanism-without-a-trigger inside the inheritance, and it is a **sharper
 instance of this chapter's own argument** than the figures the chapter reported: the apparatus could
-not report that the assignment was missing, so it cited it instead. **See the standing note on grade above**, which states at what level this chapter's attributions are made and which of them are flagged for reading.
+not report that the assignment was missing, so it cited it instead.
 
 ---
 
-*The standing note on grade.* **This chapter's retrofit found the same defect at both ends of the
+*On the grade of the sources above.* **This chapter's retrofit found the same defect at both ends of the
 reliability scale, and the second one is the one worth keeping.** [^9] is a provenance error under a
 verbatim quotation — the fourth in three chapters, now a settled class, and this time an
 *edition-scheme* collision that was already filed in a sweep and still invisible at the site where a

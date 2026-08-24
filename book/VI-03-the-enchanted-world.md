@@ -351,7 +351,7 @@ the only text reproduced.
 [^3]: The "Great War" between Barfield and Lewis is a documented exchange of philosophical papers
 and letters running through the 1920s; it is named as such by both men and by the scholarship on
 the Inklings. Lewis's *Discarded Image* [^1] and Barfield's work in this section therefore stand in
-a closer relation than their placement in this chapter suggests. **See the standing note on grade above**, which states at what level this chapter's attributions are made and which of them are flagged for reading.
+a closer relation than their placement in this chapter suggests.
 
 [^4]: Owen Barfield, *Poetic Diction: A Study in Meaning* (London: Faber & Gwyer, 1928). The
 argument about the undivided ancient meaning, the direction of semantic change from unity toward
@@ -373,9 +373,9 @@ term is kept here anyway, because it is his and it is the standing one, and a bo
 another man's concept to protect its own vocabulary has made the reader's problem worse in order to
 make its own index tidier.
 
-*The standing note on grade, owed here as in VI.1 and VI.2.* Lewis, Weber, Barfield and Taylor are
-named **from general knowledge and standard reference scholarship. None of their texts is in this
-repository, and nothing above is a quotation** — each is given by doctrine, with a date and a
+*On the grade of the sources above.* Lewis, Weber, Barfield and Taylor are
+named **from general knowledge and standard reference scholarship. None of their texts was consulted at first
+hand, and nothing above is a quotation** — each is given by doctrine, with a date and a
 publisher. Three items are flagged for reading rather than left at this grade:
 
 - **Barfield's semantic claim**, because it carries the whole of beat three and is the deepest of

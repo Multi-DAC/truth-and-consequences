@@ -286,9 +286,9 @@ The next chapter runs it on a case where every one of those is false.
     version is his own term, **core shamanism**, and the Foundation he founded to teach it (as the
     Center for Shamanic Studies, 1979) was for years based in **Norwalk, Connecticut**, which makes
     the chapter's Connecticut better-chosen than it needed to be. ⛔ **THE FINDING IS NOT ABOUT
-    HARNER.** `endnote_debt.py` scores this chapter's owed sources as *Eliade, Monroe* and does not
-    list Harner — he is dropped **silently**, appearing in none of the tool's printed exclusion
-    classes. Cause, read off `scan_prose`: a name counts as a source only if it sits in a possessive
+    HARNER.** The debt sweep scores this chapter's owed sources as *Eliade, Monroe* and does not
+    list Harner — he is dropped **silently**, appearing in none of its printed exclusion
+    classes. The cause: a name counts as a source only if it sits in a possessive
     (*Gibson's affordances*), immediately before an attribution verb (*Searle argues*), or after
     *according to / per / following*. Harner's one appearance in this chapter is *"Michael Harner,
     whose … , called the drumming"* — a relative clause twenty words long between the name and its

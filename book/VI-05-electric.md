@@ -341,7 +341,7 @@ and the below-cost model are Wu's.
 Greenberger, ed., *Computers, Communications, and the Public Interest* (Baltimore: Johns Hopkins
 Press, 1971), 40–41. The passage is routinely quoted as "a wealth of information creates a poverty
 of attention"; it is paraphrased here rather than quoted because the quoted form circulates in
-several non-identical versions and this chapter has not seen the printed page. **See the standing note on grade above**, which states at what level this chapter's attributions are made and which of them are flagged for reading.
+several non-identical versions and this chapter has not seen the printed page.
 
 [^6]: Guy Debord, *La société du spectacle* (Paris: Buchet/Chastel, 1967); English as *The Society
 of the Spectacle*, trans. Donald Nicholson-Smith (New York: Zone Books, 1994). Thesis 4 is the
@@ -349,19 +349,15 @@ source of the formulation used here.
 
 ---
 
-*The standing note on grade, owed here as in VI.1 through VI.4.* Anderson, Wu, Simon, Debord,
+*On the grade of the sources above.* Anderson, Wu, Simon, Debord,
 Cantril, Pooley, Socolow and Schwartz are named **from general knowledge and standard reference
-scholarship. None of their texts is in this repository, and nothing above is a quotation.** The
+scholarship. None of their texts was consulted at first hand, and nothing above is a quotation.** The
 Simon line is explicitly paraphrased at [^5] for that reason.
 
-⚠ **The corpus support for this chapter is better than VI.4's and fails in a new direction.**
-Measured on Day 190 over 3,069 `.md` and `.txt` files — **a wider scope than the one declared earlier**,
-because `archive/` and `_superseded/` were *not* excluded, so every figure below is a ceiling
-relative to the declared scope and should not be quoted against it: *attention economy* **38** ·
-*simultaneity* **24** · Debord **21** · *Imagined Communities* **13** · Herbert Simon **10** · Tim Wu
-**8** · *penny press* **4** · Benedict Anderson **3** · Cantril **1** — against **McLuhan 0 · "global
-village" 0 · Neil Postman 0 · Harold Innis 0 · James Carey 0 · "War of the Worlds" 0 · Orson Welles
-0.**
+⚠ **The reading behind this chapter is thin in a new direction, and the direction is worth naming.**
+The themes — attention as a purchased commodity, simultaneity, the spectacle, imagined community —
+are the ones this chapter has worked longest. Its named authorities are the ones it has worked
+least: McLuhan, Postman, Innis and Carey are given by doctrine and not by text.
 
 ★ **The pattern is the inverse of VI.4's and worse in one specific way.** VI.4 had the topics
 present and the sources absent — the popularizer defect. Here the *later discourse* is well
