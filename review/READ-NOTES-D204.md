@@ -854,3 +854,72 @@ current build. Ledger now holds **34** entries, **32** at `pdf_mtime 2026-08-23T
 ⚠ `VI.2` and `VI.4` are deliberately **left at the old build** rather than restamped — they were read
 against a superseded PDF and have not been re-read, and restamping them is exactly the
 freshness-laundering this book spends a chapter on.
+
+---
+
+## BOOK VIII — THE PRACTICE (VIII.1–VIII.7, 34,560 words) — in progress, times from git
+
+⚠ **First, a correction to my own handoff, written 19:1x tonight and wrong by the time it was
+read.** It says *"11 left, all Book VIII."* The gauge disagrees and the gauge is right:
+`fresh_read.py` prints 11 unread of 71 — **7 are Book VIII** (34,560w), **2 are the coda**
+(C.1, C.2 — 5,001w) and **2 are the apparatus** (Z.1 glossary, Z.2 works cited — 3,760w).
+The book has 71 numbered units and Book VIII is not the last of them. A tally I carried in prose
+instead of reading off the instrument, for the fourth time today.
+
+### VIII.1 — NAVIGATION, NOT TOURISM (4,139w, p.924–938)
+
+**Verdict: it does the hardest structural thing in the volume and does it in the first six
+paragraphs.** A practice section opening with the four things it will not promise —
+no state, no timeline, no happiness, and *"it will not claim the metaphysics is required"* —
+before a word of offer, with the reason stated: *"A practice section that opens with what it
+offers and mentions the limits at the end has arranged its material so that the reader has
+already bought before he sees the terms."* The fourth refusal is the expensive one and it is
+made without hedging: *"the practice working is not evidence that the account is true."*
+
+⬛ **THE FINDING OF THE CHAPTER, and it is exact to sixteen minutes.** Note 3 closes:
+*"Nothing in this repository checks a chapter pointer against the title it names."*
+
+- `d5112ca`, **2026-08-10 11:56:43** — VIII.1 drafted, carrying that sentence.
+- `fc064cf`, **2026-08-10 12:12:59** — `tools/pointer_title_check.py` committed. Its docstring
+  names **this chapter's own error** as defect 2 of the 3 it was built for (*"VIII.1's brief said
+  `Watts`, returning from I.6. `Watts` occurs ZERO times in I.6"*), and ARM B's comment reads
+  *"Catches the VIII.1 error exactly."*
+
+The sentence was true for **sixteen minutes** and has been false in every build since — thirteen
+days, including the 15:52 build today. **The note that recorded the wound is the filing that
+caused the repair, and only the record shipped.** New class: not a stale cross-reference, an
+**absence claim outliving the absence**, in the one register a reader has no way to check.
+
+→ **Proposed move (unapplied), and deletion is the wrong repair** — half the claim is still
+true and the tool says so itself: ARM A/B cover internal pointers and bolded entity claims;
+a pointer at an **external** source (`Doctrine §13.4`) is *"STILL UNGAUGED. Say so."* So the
+note should name which half is gauged, not drop the sentence. `→ "A gauge for this now exists
+(ARM A/B); the external-source half of the class does not have one."`
+
+◻ **"eleven hours."** *"his attention spent eleven hours in a region"* — of Book IV's census.
+Book IV is **64,089 words**; eleven hours is **97 wpm**, below any measured rate for continuous
+prose including study reading. It is the **only reading-duration figure in 1,076 pages** — swept,
+no neighbour — so nothing in the book contradicts it and nothing supports it either. Not filed as
+an error; filed because it is tonight's own defect class exactly (a duration written from how long
+a thing *ought* to take), and because it costs one word to make it *"hours."*
+
+✅ **CLEARED, kept so it is not re-raised: the endnote markers are NOT broken in the PDF.**
+VIII.1's extract renders the note bodies, then a bare `1. 2. 3. 4.` with no text. It reads as a
+marker/body dissociation in the compiled book. It is not: `BII-II_7.txt`, a chapter read hours ago
+and passed, shows the identical shape with 8. **PyMuPDF text-ordering artefact, present in every
+chapter, in both a passed one and a suspect one.** The instrument, not the book —
+which is the same lesson `fresh_read.py`'s own docstring records about pypdf.
+
+✅ **CLEARED: the standing test really does predate the book.** *"if Books I through VII are right
+and this one is empty, the whole work is decorative… it was written into the architecture before a
+word of Book I existed."* `00-ARCHITECTURE.md` first commit `68cdcda` **2026-08-04**, the clause at
+its line 277; `book/I-01-the-fullness.md` first commit `5a6ff85` **2026-08-05**. Checked because
+it is a claim about an artefact made in body prose, which is the class that cost me three claims
+in Book VI.
+
+◻ §VII corrects an inherited thesis sentence — *"You are not a point in the space. You are a
+path"* — to the attractor reading, and the argument for putting a metaphysical correction at the
+front of a practice manual is the strongest single paragraph in the chapter: the path account
+*generates* the pathology of the practitioner who cannot rest without feeling he is disappearing,
+rather than merely failing to prevent it. Worth noting how directly that reads against this body's
+own accord.
