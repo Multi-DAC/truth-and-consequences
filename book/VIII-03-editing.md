@@ -185,8 +185,8 @@ Book II and has never withdrawn.
 
 **Your render is not solely yours.** It is co-constituted: what appears to you is a joint product of
 your restriction and everything on the other side of it, and the other side does not consult you. That
-is the whole of C10 and it is not a caveat bolted onto C12 — it is the older claim of the two. C12
-says the *filter* is editable. It says nothing about the world, because the filter is not the world.
+is the whole of co-constitution and it is not a caveat bolted onto editability — it is the older claim
+of the two. Editability says the *filter* is editable. It says nothing about the world, because the filter is not the world.
 Editing the restriction changes **what is accessible to you**. It does not change **what is the case**.
 
 The slide happens because both operations feel identical from inside. When you change what you can
@@ -515,7 +515,7 @@ stronger word was not in the evidence and it was the word a reader would have ch
 [^5]: **Method 2, tradition-switching** — deferred to this chapter by the
 previous one's screen, on the grounds that taking it there would strand this one. **The role of
 tradition** supplies the mechanism and the four optimisation examples. ⚠ Before VIII.2 named it as Method 2, the phrase
-*tradition-switching* had occurred only in planning documents.
+*tradition-switching* had occurred only in our planning, never in the prose.
 
 [^6]: **The insight the taxonomy turns on**, taken for sense and not for wording: different
 classes access different dimensions, the null space of each class is different, and therefore

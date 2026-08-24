@@ -288,21 +288,19 @@ are rather than by telling you what to do.
 
 ---
 
-[^1]: `07` **C25**, canonical, taken verbatim: a measurement is a contact that closes an open matter
+[^1]: The definition, in this book's own words: a measurement is a contact that closes an open matter
 *for* a perspective, on three necessary conditions — contact, could-have-come-out-otherwise, and
-landing — and *"a matter is open when more than one way it could go is still live."* ⚠ **This chapter
-is a registered dependent of that claim and the definition was not in its brief**, which had four
-beats instructing a practice of staying open and no statement of what *open* meant. Found by running
-the register against the beats before drafting rather than after — the second time that procedure has
-returned something, and the first time what it returned was a definition rather than a firewall.
-⛔ **C25 is graded PUBLICLY EXPENSIVE and its trap is *needing the physics*: the claim is that the
-settling of an open matter is one structure at every grade, and that the subatomic case is its most
-studied instance and not its source.** Nothing in this chapter rests on that identification, no
+landing — and a matter is open when more than one way it could go is still live. ⚠ **This chapter
+leans on that definition and did not begin with it**: it had four beats instructing a practice of
+staying open and no statement of what *open* meant.
+⛔ **The expensive part of the claim is that the settling of an open matter is one structure at every
+grade, and that the subatomic case is its most studied instance and not its source** — the misreading
+it invites is that the physics is doing the work. Nothing in this chapter rests on that identification, no
 quantum vocabulary appears in it, and if the identification were withdrawn tomorrow every instruction
 above would stand exactly as written. That is the direction of dependence and it is stated here rather
 than assumed.
 
-[^2]: `07` **C1**, of which this chapter is also a registered dependent. ⚠ The trap on that claim is
+[^2]: This chapter also leans on the plenitude. ⚠ The misreading that claim invites is
 **the past tense**, and it has an exact form here: undecided time may not be described as the world
 *pausing*, *holding*, or *waiting*, because all three import a runtime the claim denies. The cost
 model in this section was rebuilt around that constraint and is better for it — the intuitive version
@@ -334,12 +332,12 @@ the same breath, without softening. That is the reason this section could be wri
 [^6]: **The Coherence row, and the definition it fixes:** *"the structural agreement of a
 thing's levels with one another and the felt rightness of going the way one goes — the claim is that
 these are one thing, met from its two sides."* ⚠ **Recorded because it is a finding about the
-manuscript rather than about this chapter: `the Coherence Principle` is the planning apparatus's name
-for the book's most-repeated structural claim — it is used in `03`, `04` and `06` — and it had
-occurred ZERO times in sixty-three chapters when this one was written.** The claim is
+manuscript rather than about this chapter: **the Coherence Principle** is this project's own name for
+the book's most-repeated structural claim, and it had occurred ZERO times in sixty-three chapters when
+this one was written.** The claim is
 everywhere in the prose and its name is nowhere, which is a different defect from a claim that went
 missing and is easier to miss: nothing is absent, so nothing reads as absent. ⛔ Named here once,
-minimally, because this chapter's brief asks for its practical form. **The full statement is VIII.7's
+minimally, because this chapter needs its practical form. **The full statement is VIII.7's
 and is not taken here** — that chapter is the oscillation, and pre-spending its subject to satisfy a
 word count in this one is the specific error the source-mapping screens exist to catch.
 
@@ -359,5 +357,5 @@ for the adjective, which is the part that is almost always dropped in quotation:
 reaching after fact and reason, not reaching after fact and reason. Dropping it converts a distinction
 between two motives into a recommendation against inquiry, which is the opposite of what the letter
 says and is how the phrase is now most often deployed. `Keats` and `negative capability` occur nowhere
-else in this manuscript, and the register rule keeps him off the ancestors page, so this is the only
+else in this manuscript, and the rule against borrowed authority keeps him off the ancestors page, so this is the only
 place he is paid.

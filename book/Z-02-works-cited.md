@@ -3,7 +3,7 @@
 ## WORKS CITED
 
 <!-- MAINTAINER, NOT PRINTED: generated from the endnotes; do not hand-edit this page,
-     re-run the generator. A bibliography typed once is a stamp; it rots at exactly the rate
+     regenerate it. A bibliography typed once is a stamp; it rots at exactly the rate
      the notes are repaired and does not change appearance while it rots, which is the object
      this book spends a volume diagnosing. The back matter is not exempt from the argument. -->
 

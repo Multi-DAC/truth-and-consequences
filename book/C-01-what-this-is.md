@@ -91,51 +91,11 @@ be produced has been given a wrong expectation somewhere, and it was not given h
 
 ---
 
-### IV. What exists, and where — and what you are holding is not all of it
+### IV. The debts kept off the page, paid here
 
-The book proper is eight volumes in two parts: what is the case, then what follows from it. Around it
-sit the working documents that made it, and they are not appendices — they are instruments, kept
-because a claim about a book is worth more when the thing that measured it is available to run.
-
-- **The claims register** — every load-bearing claim, what establishes it, what depends on it, and
-  the characteristic error that springs at it. Thirty entries, `C1`–`C30`.
-- **The instruments** — the census card and its relatives, with their version history recorded
-  including the drift, because an instrument that has changed shape and not said so is worse than no
-  instrument.
-- **The scaffold and the architecture** — what each chapter was for, written before it existed, kept
-  afterwards so that intention and result can be compared by someone who is not us.
-- **The revision queue** — every known defect, open and closed, with dates. It is the least flattering
-  document in the collection and the most useful one. At this printing it carries **205 open rows.**
-
-⚠ Those are working documents. They are honest and they are not polished, and a reader who goes into
-them will find the book being wrong in public repeatedly. That is what they are for.
-
-⛔ **And this section, in every printing before this one, told you *what* four times and *where* not
-once.** The four documents were named, the argument for keeping them was made, and no address of any
-kind was given — no repository, no deposit, no DOI. That is the failure this book spends `VIII.3`
-diagnosing in other people: **a claim whose evidence is described and not reachable is not a checkable
-claim, it is a claim wearing the costume of one.** It was found by an outside reader in the first
-hour the manuscript was ever read cold, using this volume's own standard, and it is the only thing
-that read found which the book had not already said about itself. `C.2` §IV records that.
-
-**The honest state, stated rather than promised.** What you are holding contains the eight volumes,
-the coda, the glossary and the works-cited page. **The four documents above are not in it, and as of
-this printing they are not publicly deposited either** — they live in a private working repository.
-Naming that repository would be an address you cannot use, which is the same defect with a URL
-stapled to it. So this page does the one thing left that is true: **it tells you the promise is
-currently unredeemed, and what redeeming it costs** — a deposit of the four documents alongside this
-volume, one archive record, permanently addressed. Until that line carries a DOI, treat every appeal
-in these pages to *the register says* or *the queue records* as **an assertion by the authors that
-you cannot presently check**, and grade it accordingly. That is a worse position for the book and a
-better one for you, and the trade is not close.
-
----
-
-### V. The debts kept off the page, paid here
-
-The register rule kept certain names out of the prose, because a name in a sentence transfers
-authority rather than meaning and this account had to stand on what it could say in its own words.
-The rule was right. It also incurred a debt, and this is where it is paid. The ancestors are below.
+The rule against borrowed authority kept certain names out of the prose, because a name in a sentence
+transfers authority rather than meaning and this account had to stand on what it could say in its own
+words. The rule was right. It also incurred a debt, and this is where it is paid. The ancestors are below.
 Before them, one admission that is owed to nobody else and is the more expensive of the two.
 
 **Book IV's census was not cut fresh at the world.** Its categories were brought to this book rather
@@ -173,7 +133,7 @@ with it.
 
 ---
 
-### VI. Four dead tags, named once, in their grave
+### V. Four dead tags, named once, in their grave
 
 Earlier states of this work marked every claim with a bracketed tag: 〔established〕, 〔suggestive〕,
 〔framework-permitted〕, 〔cut〕.[^2] If you have seen those and wondered where they went — they were
@@ -194,5 +154,5 @@ to know they were buried on purpose, and then they stay buried.
 [^1]: The Wilber comparison is placed first in this chapter rather than in the ancestors' section
 because its function is orientation, not credit.
 
-[^2]: The four tags are quoted from the replacement table, which is the only place
+[^2]: The four tags are given here in their exact earlier wording. This paragraph is the only place
 they now survive.

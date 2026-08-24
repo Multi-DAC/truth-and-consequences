@@ -223,7 +223,8 @@ it once. It is not printed as a move the book declined. **A straw temptation ref
 reads as more rigorous than a real one**, and nothing about the prose distinguishes them, which is
 why this paragraph now says which is which.
 
-Both would end the difficulty in a paragraph. Both are the move C29 withdrew a whole warrant over:
+Both would end the difficulty in a paragraph. Both are the move that cost this book a whole warrant in
+Book IV:
 **the conclusion guaranteeing the premises.**[^19] A framework that explains why its own evidence is
 missing has stopped being able to be wrong, and this book's instruments were built against exactly
 that failure. Neither sentence is available here and the difficulty stands unresolved, which is what
@@ -429,8 +430,8 @@ people sitting still.
     ★ **This matters because a corrupted version of the rule is loose in the volume.** IV.10 restates
     it as *"same thing, and that holding both earns no credit"* (IV.10:133) — true, and **not the
     rule**: *earns no credit* scores the move, *you must pick* obliges it. An earlier pass filed that the
-    dropped-obligation form is the one that travelled, **including into V.9's own brief**. The shipped
-    prose of this chapter takes the correct form. The brief did not.
+    dropped-obligation form is the one that travelled, **including into the plan for this chapter**.
+    The shipped prose takes the correct form. The plan did not.
 
 [^14]: ⛔ **THE BODY CLAIMED THIS RULE HAD BEEN "run at full cost never" UNTIL DAY 195, AND V.8 HAD
     RUN IT TWENTY-SIX MINUTES EARLIER.** Repaired: the chapter now concedes V.8 and
@@ -438,9 +439,9 @@ people sitting still.
     cannot be separated from the null* — which is true and is the harder thing to say. The finding as
     filed: **THE COUNT IS DEFENSIBLE AND THE "NEVER" IS FALSE — REFUTED BY THE CHAPTER DRAFTED
     TWENTY-SIX MINUTES EARLIER.**
-    **The count first.** Measured across all 67 chapters, the full sentence appears in four files:
-    IV.7 (its origin), V.3, V.8 and this one. Excluding the origin and counting this chapter, *"three
-    drafted chapters"* is **true** — but only under a counting rule the prose never states, and a
+    **The count first.** Measured across all 67 chapters, the full sentence appears in four:
+    IV.7 (its origin), V.3, V.8 and this one. Excluding the origin and counting this chapter, a count
+    of *three* is **true** — but only under a counting rule the prose never states, and a
     fourth chapter invokes the rule in IV.10's degraded form. A number with no declared scope is right
     by luck.
     ⛔ **The claim it carries is not true at all.** This chapter says the rule *"has been quoted three
@@ -506,9 +507,8 @@ people sitting still.
     prose now says IV.10 wrote it, and says why a straw temptation refused on the page reads as more
     rigorous than a real one. The repair landed on the connective tissue, not on the quotation.
 
-[^19]: ✅ **Exact, and C29 is the right warrant.** The claims register carries it in the canonical text:
-    *"★ **The conclusion guarantees the premises.** That is IV.10's own diagnosis, run on IV.1 — the
-    same"*. C29 withdrew IV.1's induction on exactly this ground —
-    the class of possible counterexamples was **emptied by the framework's own conclusion** — so *"the
-    move C29 withdrew a whole warrant over"* is accurate, and it is the same move both refused
-    sentences make.
+[^19]: The warrant withdrawn was IV.1's induction, and the ground was exactly this: **the conclusion
+    guaranteeing the premises.** IV.10 ran that diagnosis on IV.1 and found the class of possible
+    counterexamples had been emptied by the framework's own conclusion, which is what leaves the lean
+    a declared bias with a cost attached rather than an inference from evidence. Both sentences
+    refused above make the same move.

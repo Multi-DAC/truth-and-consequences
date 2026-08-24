@@ -160,8 +160,10 @@ carefully. Then roughly **21,700 words** arrived from outside, and the shape of 
 weaknesses stated across them, **thirteen were already stated by the book about itself** — one
 prefaces its central objection with *"as acknowledged in Books IV and VIII"*, another grounds its
 strongest charge in *"the authors' declared bias"*, which is this volume's own phrase. **One finding
-in fourteen was independent:** that the instruments this book invites you to run were not published
-with it. `C.1` §IV now says where they are, and that repair exists because a stranger asked.
+in fourteen was independent:** that the volume kept appealing to working documents a reader had no way
+to open. The repair went the other way from the one the finding asked for — the appeals are gone
+rather than the documents published, and what is left is a book that argues in front of you or does
+not argue at all. That repair exists because a stranger asked.
 
 <!-- self-citation-gate: quoting-the-ban -->
 **Two were long audits, and they found the thing the other three missed and this chapter had never
@@ -171,7 +173,7 @@ No inside reader had flagged it in eight volumes; an outsider read the whole thi
 that a book which spends roughly sixty words crediting Lewis had said nothing at all about what it had
 inherited from itself. ⚠ **The repair was made twice, in opposite directions, and the second one
 stands.** The first named it in full, which is what the finding literally asked for and what
-this volume's own standard forbids; `C.1` §V now states the dependency and its cost without the
+this volume's own standard forbids; `C.1` §IV now states the dependency and its cost without the
 citation. A finding can be right about the defect and wrong about the remedy, and this one was.
 
 ⛔ **The ratio is a fact about this chapter, not about those readers.** A section that hands a reader

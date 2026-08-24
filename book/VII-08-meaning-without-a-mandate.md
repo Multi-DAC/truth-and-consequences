@@ -72,7 +72,7 @@ The same culminating paragraph reads:
 
 That is an assignment. *Inalienable purpose* is a mandate in the strict sense — a point that holds
 whether or not anybody occupies a position from which it holds, issued to all of existence by
-nothing in particular. C3 forbids it and the forbidding is not a technicality: there is no intender,
+nothing in particular. The scope rule forbids it and the forbidding is not a technicality: there is no intender,
 so there is nobody to have imbued anything.
 
 Two chapters ago this same passage was quoted in full and refused on a different charge. VII.5 took
@@ -329,7 +329,7 @@ framework in which such a shape was legible.[^9] The consequence for us is one s
 **Meaning is neither decreed from outside nor invented ex nihilo. It is what the traversal turns out
 to have been.**
 
-That is C16, argued from a completely different direction by someone with no interest in
+That is this book's account of meaning, argued from a completely different direction by someone with no interest in
 configuration space, and its arriving independently is the kind of thing this book grades as
 evidence rather than as proof.
 
@@ -454,8 +454,8 @@ is to overcome the very limitations that define individuality and return to a st
 unity with the ground. ⚠ **A second and incompatible formulation stands beside it** — *the culmination
 is not a terminal state of static reintegration* — and that one is explicitly refining the traditional
 teleological account. It is; and the first sentence has gone on standing unrepaired. The
-manuscript had been using the half it agrees with. Filed for the Book VIII pass on C15's
-establishing chapters: VIII.1 states the telos and must not present the refusal as unaccompanied.
+manuscript had been using the half it agrees with. Filed for the Book VIII pass on the chapters that
+establish the telos: VIII.1 states it and must not present the refusal as unaccompanied.
 The specific correction owed is about **originality, not correctness** — our route (a metaphysics in
 which being-the-case requires a vantage cannot name the elimination of vantage as its goal) is
 stronger than the received one (the Promethean impulse is eternal, so the oscillation never terminates),
@@ -464,7 +464,8 @@ and the honest claim is *stronger*, not *only*.
 [^2]: **The culmination is the ongoing oscillation and not a terminal state** — stated in the body
 exactly as it stands here.
 
-[^3]: VII.5, where this same passage is quoted in full and refused as a theodicy under C21, together
+[^3]: VII.5, where this same passage is quoted in full and refused as a theodicy under the standing
+prohibition, together
 with the finding that Book V's dissolution of the *God-shaped* theodicy is a narrower alibi than it
 looks and leaves the mechanical kind untouched. Not re-argued here. **The observation that the
 passage carries two separable defects — a theodicy and a mandate — is this chapter's**, and it is
@@ -482,9 +483,9 @@ manuscript had used it before now.** Frankl's three pathways to meaning — crea
 experiential encounter, and the attitude taken toward unavoidable suffering — are on the same card
 and are the tradition's partial exception to its own blindness; `Frankl` occurred zero times across
 fifty-eight chapters, `Camus` zero, `MacIntyre` zero, `Sisyphus` zero, `eternal recurrence`
-zero. That pattern, sixth firing, and this time in a chapter whose brief predicted every one
-of the zeros — which is progress of a kind: the brief caught what the drafting would have missed,
-and the brief only caught it because someone counted.
+zero. That pattern, sixth firing, and this time in a chapter whose plan predicted every one
+of the zeros — which is progress of a kind: the planning caught what the drafting would have missed,
+and it only caught it because someone counted.
  ⚠ **The receipt owed for Sartre, added Day 191:** *pour-soi* — being-for-itself — is Sartre's, from *L'Être et le néant* (1943), and it reaches this chapter **inside the census card's own sentence, not from a reading of Sartre.** That is the honest provenance and it is the reason he is not argued with here: the card cites him as an instance of existentialism's individualist default, this chapter takes the card's diagnosis, and **a name that arrives through a quotation is owed the note that says so.**
 [^6]: Albert Camus, *Le Mythe de Sisyphe* (1942): the absurd as the confrontation between the human
 demand for clarity and the world's *silence déraisonnable*; the refusal of both suicide and the
@@ -524,7 +525,8 @@ between *idem* (sameness, permanence of the same) and *ipse* (selfhood, self-con
 change). VII.9's problem. Pointed at, not spent.
 
 [^11]: **The universal null spaces, the entry on Meaning** — taken entire apart
-from the bracketed substitution of the framework's name. This is C16's positive half, and it is the
+from the bracketed substitution of the framework's name. This is the positive half of the meaning
+claim, and it is the
 only place the claim is made about what meaning
 *is* rather than about what follows from the telos. ★ That it appears in an inventory of what *other*
 frameworks cannot see, rather than in the section on purpose, is the same pattern as note 5: the

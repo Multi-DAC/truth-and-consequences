@@ -16,7 +16,7 @@ and the source says something else, because the row counted printed PDF pages an
 is markdown. So this file re-derives all four from disk, on demand, and is the thing that gets
 to say the work is finished. The checklist rows do not get to say it.
 
-WHAT IT COUNTS — four classes, and they are NOT disjoint. Do not add them.
+WHAT IT COUNTS — six classes, and they are NOT disjoint. Do not add them.
 
   SLUG      `[[a_lesson_slug]]` — a memory-store filename. compile_pdf.py strips the brackets,
             so on the page it arrives looking like a term of art the reader missed.
@@ -32,12 +32,18 @@ WHAT IT COUNTS — four classes, and they are NOT disjoint. Do not add them.
             reader cannot obtain: "search it for maybe logic and you get eleven files".
             VI.8 already rules these off the page in its own prose; VI.7 prints eleven of them.
 
+  CLAIMREF  (sixth, added D205 for Clayton's third ruling) — the claims register cited by ENTRY
+            NUMBER: "C5 is not a model", "[^7]: C22, stated at VII.9". 78 lines of it, in 22
+            chapters, and the five classes above ran green over every one, because none of them
+            looks like a filename, a slug, a process ID or a corpus count. Also the FOUR-DOCUMENT
+            promise in C.1 §IV, which told a reader four instruments existed and gave no address.
+
 ⚠ WHAT IT CANNOT DO. This is a PATTERN gauge, so it finds tokens, not intentions. A sentence
 that narrates the drafting process in ordinary English with no marker word is invisible here.
 A green run means "no marked workshop residue"; it does not mean "the book stops talking about
 its own making." Only a read settles that, and the D204 read is the one on record.
 
-Positive control below plants one of each class in synthetic text and requires all five caught.
+Positive control below plants one of each class in synthetic text and requires all six caught.
 """
 
 import re
@@ -46,7 +52,7 @@ import pathlib
 
 BOOK = pathlib.Path(__file__).resolve().parent.parent / "book"
 
-# ── the five detectors ────────────────────────────────────────────────────────
+# ── the six detectors ────────────────────────────────────────────────────────
 # Each is (name, compiled regex, note). Order is the report order.
 
 # ⚠ The hyphen alternative is not decoration. The first version of this pattern was
@@ -100,12 +106,34 @@ ARCHIVE = re.compile(
     """
 )
 
+# ⚠ CLAIMREF was added on D205 by Clayton's second ruling of the day: *"Let's remove the four
+# document promise so readers won't expect extra material accompanying the volume. Let's remove
+# register references, and any that are load-bearing should be argued or stated in the text
+# directly."* The class the other five missed entirely: the book cited its own claims register
+# by ENTRY NUMBER — `C5 is not a model`, `[^7]: C22, stated at VII.9` — 78 lines of it, and
+# not one of them matches a filename, a slug, a process ID or a corpus count. Five gauges ran
+# green over the largest single body of apparatus in the volume, because every one of them was
+# built from a form of the defect that had already been found.
+#
+# The bare-ID pattern excludes `C.1`/`C.2`, which are the coda chapters and ARE in the book.
+CLAIMREF = re.compile(
+    r"""(?x)
+      (?<![\w.])C(?:[1-9]|[12][0-9]|30)(?!\w)                     # C1 … C30, the register's entries
+    | (?i:\bclaims?\ register\b)
+    | (?i:\bregister\ rule\b)
+    | (?i:\bthe\ register\ (?:says|records|watches|flags|carries|has|against)\b)
+    | (?i:\bregistered\ dependent\b)
+    | (?i:\bthe\ four\ documents?\b)
+    """
+)
+
 CLASSES = [
     ("SLUG", SLUG, "memory-store filenames printing as terms of art"),
     ("PROCID", PROCID, "process-row IDs from a queue no reader has"),
     ("FILEREF", FILEREF, "pointers to files in this project or on this disk"),
     ("DRAFTING", DRAFTING, "the book narrating its own construction"),
     ("ARCHIVE", ARCHIVE, "counts in our corpus a reader cannot obtain"),
+    ("CLAIMREF", CLAIMREF, "the claims register, cited by an entry number no reader can look up"),
 ]
 
 # Lines carrying this marker are deliberate and exempt. Used by Z-01's ban list,
@@ -141,6 +169,8 @@ That was settled by ruling 177 and again at R-144.
 See 05 and compile_pdf.py, or C:/Users/Wasch/truth-and-consequences/book.
 Filed with R-143 after the sixty-three drafted chapters were counted.
 Search it for maybe logic and you get eleven files.
+That is C5, and the register says so; see also [^3]: C22, established at VII.9.
+The four documents are named above and this chapter is a registered dependent of C1.
 """
 
 CONTROL_CLEAN = """\
@@ -149,6 +179,8 @@ That was settled elsewhere, and the reasoning is set out in the chapter above.
 See the chapter on the lexicon, which does the same work in prose.
 The point survived the drafting; nothing about the drafting is on this page.
 The pattern is common enough that the reader will have met it already.
+The Ground is not a model, and `C.2` says why; the floor is established at VII.3.
+It changes the register of every sentence after it, which is a fact about tone.
 """
 
 
@@ -167,13 +199,13 @@ def control():
         missed = missed | {"SLUG-hyphen"}
     false_pos = [h for h in scan_text(CONTROL_CLEAN)]
     ok = not missed and not false_pos
-    print("POSITIVE CONTROL — synthetic text, 5 planted classes, 1 clean foil:")
+    print(f"POSITIVE CONTROL — synthetic text, {len(CLASSES)} planted classes, 1 clean foil:")
     for name, _, _ in CLASSES:
         print(f"    {'caught ' if name in got else 'MISSED '} {name}")
     if false_pos:
         for name, ln, match, _ in false_pos:
             print(f"    FALSE POSITIVE  {name}  L{ln}  {match!r}")
-    print(f"  [{'ok' if ok else 'BROKEN'}] {len(got)}/5 planted caught, "
+    print(f"  [{'ok' if ok else 'BROKEN'}] {len(got)}/{len(CLASSES)} planted caught, "
           f"{len(false_pos)} false positive(s) on the clean foil.")
     print("  Detector is live.\n" if ok else "  DETECTOR IS NOT LIVE — fix before trusting a green.\n")
     return ok

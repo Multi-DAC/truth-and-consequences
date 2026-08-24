@@ -393,7 +393,8 @@ there before you started attending, and neither were you.
 [^1]: Harry Frankfurt, *The Reasons of Love* (2004), for love as non-appraisive — not a response to
 antecedently recognised value — and for the claim that the beloved acquires value through being
 loved. First appearance in the manuscript. The first half is adopted; the second is refused under
-C9, and the refusal is not a quibble about emphasis: C9 makes the beloved's interiority prior to and
+the no-NPC rule, and the refusal is not a quibble about emphasis: that rule makes the beloved's
+interiority prior to and
 independent of any lover, so a conferral account is unavailable to this book at the level of
 axiom rather than of taste. ⚠ Receipt status: Frankfurt reaches this chapter through the secondary
 literature on non-appraisive love rather than from the text directly, and the paraphrase above is in
@@ -401,7 +402,7 @@ my words for that reason. The endnote retrofit owes him a primary check.
 
 [^2]: **The gift of limitation, and it is the hinge of the chapter:** love requires two
 beings. Without limitation there is no other; without an other there is no love. The refusal of
-the union account is C15's, already established twice in Part One, and is not re-argued here.
+the union account belongs to the telos, already established twice in Part One, and is not re-argued here.
 
 [^3]: **Mutual crystallisation and parasitic dissolution**, taken
 entire; this chapter is their only housing in the manuscript. First appearance of both terms in
@@ -413,14 +414,15 @@ is this chapter's own, and it follows directly from the taxonomy: if the felt
 quality of an interaction does not discriminate crystallisation from dissolution, the felt reading
 cannot be the one that decides.
 
-[^5]: the same mechanism, fourth instance and first non-claim instance: C18 and C19 each lost a limit
-to a section boundary the argument crossed, C21's scope was narrowed by the same operation,
+[^5]: the same mechanism, fourth instance and first non-claim instance: the floor and the asymmetry
+each lost a limit to a section boundary the argument crossed, the refusal of theodicy had its scope
+narrowed by the same operation,
 and here a *definition* is severed from its *reason* across two Parts. The signpost heuristic —
 reading for *two sections on*, *pays in full below* — does not catch this one, because there
 is no signpost at all; the joint is discoverable only by holding the taxonomy against the census.
 Filed rather than swept: the batch sweep the earlier pass called for still owes the other twenty-eight.
 
-[^6]: The floor is C18, established at VII.3 with both its limits — validity without motivational
+[^6]: The floor is established at VII.3 with both its limits — validity without motivational
 grip, and impartiality as a wagered premise rather than a derived one. Neither limit is loosened
 here. The care-and-capture diagnostic is inherited, stated first
 for teaching and for coercive control; the grade-difference application is this chapter's extension of

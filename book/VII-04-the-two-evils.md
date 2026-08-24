@@ -281,7 +281,7 @@ and purchases nothing he wanted, licensing the world to override him and deliver
 the dimensionless point, the loop's corpse reached from the other side.[^5]
 
 That argument was made there to answer a challenge about agency. Here is what it also establishes,
-and this is the thing C19 is actually claiming:
+and this is the thing the asymmetry is actually claiming:
 
 > **The asymmetry does not live in a doctrine professed. It lives in the exemption an action
 > performs.**[^1]
@@ -451,10 +451,10 @@ mean anything.
 
 ---
 
-[^1]: C19, established here. The claim carries two seats and the second is the operative one: the
-asymmetry lives in the exemption an action performs, not in a doctrine professed. The register's
-canonical line carried only the first until this chapter's screen, and the second was recovered from
-the source's own forward reference rather than reconstructed.
+[^1]: Established here. The claim carries two seats and the second is the operative one: the
+asymmetry lives in the exemption an action performs, not in a doctrine professed. Every earlier
+statement of it in this book carried only the first, and the second was recovered from the source's
+own forward reference rather than reconstructed.
 
 [^2]: Thomas Aquinas, *Summa Theologiae* I, q. 64, a. 2, on the obstinacy of the demons, with the
 account of angelic cognition at I, q. 58, a. 3–4. ⚠ Aquinas is used four times in this book on two
@@ -507,6 +507,6 @@ here is beyond it by having lost the axis on which any table could be plotted. T
 opposite in every respect except the words available to name them, which is why the sentence in the
 text says *not the overman but the corpse* rather than borrowing the phrase quietly.
 
-[^10]: C20, argued next chapter. The distinction between the focusing and contraction is made here
+[^10]: That the focusing can be care is argued next chapter. The distinction between the focusing and contraction is made here
 rather than there, because this is the chapter where the second word first does ethical work, and a
 term that has done a whole chapter's work is harder to unweld than one that has not.

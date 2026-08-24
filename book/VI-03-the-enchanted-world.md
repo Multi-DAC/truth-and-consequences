@@ -165,7 +165,7 @@ unrepresented and someone to whom it is represented. The particles are not green
 tree. The greenness and the tree-ness arrive at the meeting. There is no third place they could be
 sitting in the meantime.
 
-That is C10 arriving in 1957 by a philologist's route.
+That is co-constitution arriving in 1957 by a philologist's route.
 
 Barfield's name for the ancient condition is **original participation.** And the definition needs
 care, because the obvious reading is the wrong one. It is not the *belief* that one is connected to

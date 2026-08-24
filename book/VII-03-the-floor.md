@@ -529,20 +529,20 @@ The book has a theorem for that one, and a standing temptation to spend it wider
 render: a consensus records what a phase has settled into, and a phase can settle into a groove. It
 can therefore be evidence about a population and never a source of normative authority over one.
 
-[^2]: C8, established at I.4 and II.4 — the focusing is continuous, everything that reacts is
+[^2]: Established at I.4 and II.4 — the focusing is continuous, everything that reacts is
 somewhere on it, and there is no threshold, no gate, and no elect. VII.2 prints it verbatim in its
 section on grades, and adds *there is no line to draw*. That chapter's own note explains why the
-register watches C8 hardest wherever a grade could be made to do a gate's work; the hazard here is
+no-gate rule needs watching hardest wherever a grade could be made to do a gate's work; the hazard here is
 the same one arriving by a different route — not through a grade but through a **title** — which is
 why it is met before the argument rather than after.
 
-[^3]: C7 — whatever reacts is aware; not *correlates with*, not *gives rise to*, **is**. The
+[^3]: Whatever reacts is aware; not *correlates with*, not *gives rise to*, **is**. The
 thermostat case is Book IV's, in the chapter on the living non-human and again in the one on what the
 census cannot see. The parallel is exact and is the reason the answer here is not an evasion: this
 book has consistently answered *how much* rather than *whether*, and would have to abandon that
 pattern to install an admission height in its ethics.
 
-[^4]: C20 — the focusing can be care. Direction is innocent; the signature of the contractive
+[^4]: The focusing can be care. Direction is innocent; the signature of the contractive
 terminal is the conjunction *coercive-and-locked*, not the contraction alone. VII.4 is where the
 asymmetry gets its exact width.
 
@@ -589,11 +589,11 @@ is the position. The comparison in the text is therefore a genuine disagreement 
 difference of emphasis, and the cost is stated in the direction that goes against this book: his
 account delivers more grip than this one, and this one can say where its grip comes from.
 
-[^11]: ⚠ **THE RULING 179 SECTION IS A REPAIR, AND ITS OWN WEAKEST JOINT IS NAMED ON THE PAGE RATHER
-    THAN HERE.** Filed Day 195 by the ghost audit: the floor's non-slope was a formal
+[^11]: ⚠ **THIS SECTION IS A REPAIR, AND ITS OWN WEAKEST JOINT IS NAMED ON THE PAGE RATHER
+    THAN HERE.** The defect it repairs: the floor's non-slope was a formal
     property with no behavioural consequence, because Regan's ramp had been relocated from the
-    existence question to the content question and left unattended. **The row's satisfaction test was
-    explicitly *a worked case where the two answers differ*, not a paragraph asserting that they do**
+    existence question to the content question and left unattended. **What the repair owed was
+    a worked case where the two answers differ, not a paragraph asserting that they do**
     — so the A/B pair above is built where the
     two accounts must diverge, and the divergence is a **crossing of order**, not a difference of
     magnitude. ⛔ **What the repair concedes and did not have to:** the minimum content is empty

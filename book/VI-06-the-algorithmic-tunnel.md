@@ -295,7 +295,7 @@ VI.6 closes it further, and the closure is measured rather than argued: **you ca
 it off.**
 
 That is the finding of the off-arm, and it is worth being exact about what it does and does not say.
-It does not say the filter cannot be edited; C12 stands, and this book will spend it in VIII.3. It
+It does not say the filter cannot be edited; editability stands, and this book will spend it in VIII.3. It
 says that **removing the mechanism is not the edit.** The mechanism's product outlived it in the
 one experiment designed to check, because what it built was a set of standing connections, and the
 connections generate the world whether or not the builder is still present. Delete the application
@@ -317,8 +317,8 @@ for a structure, because the structure was never the switch.
 from inside**, because it is live and people can be randomized into and out of it. Every prior
 chapter reached its era through convergence across independent routes, because 1200 CE cannot be
 assigned to a treatment arm. This one has an experiment, and the evidence grade in this chapter is
-therefore different in kind from VI.3's, VI.4's and VI.5's. C30 is **not** licensed here and is not
-claimed; the argument does not rest on convergence, and saying so is the point.
+therefore different in kind from VI.3's, VI.4's and VI.5's. The convergence warrant is **not** taken
+here and is not claimed; the argument does not rest on convergence, and saying so is the point.
 
 **Renders:** the inventory fitted to the person; salience as a delivered quantity; the standing
 connection as the real product; relevance experienced as the natural shape of the world.

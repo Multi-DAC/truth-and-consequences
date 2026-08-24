@@ -15,9 +15,10 @@ entry.
 The answer is that a whole tier of the material this book was quarried from is absent, that it sits
 on the page immediately above the tier this chapter was assigned, and that **the way to find it was
 not to think harder about the list.** It was to put the list beside the other list and count. Nine
-minutes with a search across every planning document and every chapter, looking for a word.
-Zero occurrences in thirty-one chapters. Zero in sixty-eight scaffolded ones. Zero across seven
-planning documents, including the two whose whole function is to record what the book owes.
+minutes with a search across everything this project had written, looking for a word.
+Zero occurrences in thirty-one chapters. Zero in the sixty-eight that had been planned. Zero
+anywhere in our own planning, including the two places whose whole function is to record what the
+book owes.
 
 The census's largest failure is not in the null space the census declared. It is one line above the
 place the census had already marked *come back here last*, and it was invisible from inside for the
@@ -189,8 +190,8 @@ entry. Writing it now would not repair the omission; it would convert a visible
 hole into an invisible bad entry, which is a strictly worse object.
 
 So the omission stands, and it stands with a trigger rather than an intention, because a deferral
-with no trigger is the same failure wearing better clothes. **The scaffold is amended in the same
-commit as this chapter**: the entry is scheduled, its beats are written, and it is scheduled into
+with no trigger is the same failure wearing better clothes. **The schedule was amended as this
+chapter was written**: the entry is scheduled, its beats are written, and it is scheduled into
 the road-reading book rather than this one — where the literal-versus-story problem is the ambient
 problem of every chapter, and where the sighting record can be read the way that book reads every
 other body of testimony, as people touching this ground with the instruments of their era. If it is
@@ -230,7 +231,7 @@ saw it there for five months.
 The second is worse, and it is worse in a way that will matter for the whole of the next book. It is
 also not the inherited material's. It is ours. Setting out how this chapter should handle the indigenous
 traditions that treat these entities as known co-inhabitants rather than as mysteries to be solved,
-this project's own planning document wrote that **indigenous peoples' wider access allows them to
+we wrote, in planning it, that **indigenous peoples' wider access allows them to
 perceive the full profile, while the modern focus on physical evidence can detect only the
 intermittent cross-section** — and the chapter arrived at the desk carrying that sentence as though
 it had been quoted, ready to hold it up as the inherited material's worst line.[^6]
@@ -263,13 +264,13 @@ clause that predicts, in advance, that no one else will be able to check.[^8]
 
 It was refused in a borrowed text. Then it came back twice, and the two returns are not the same
 object, which is the finding. **Once in the inherited material**, in the tier this chapter was
-assigned, where it has been sitting since March. **Once in our own planning file, written by us,
+assigned, where it has been sitting since March. **Once in our own planning, written by us,
 pointed at the very traditions the next book exists to credit** — and that one arrived here wearing
 quotation marks it was never given. **The escalation is the finding, and the last step of the
 escalation is this chapter.** Three chapters running, the method has been *go and read the primary
 text, and read the span rather than the phrase*. This chapter ran that method on our own document
 and found the defect in the same place as always — the connective tissue, not the content. It did
-not run the method on its own scaffold. Had the second sentence been fetched rather than carried,
+not run the method on its own working papers. Had the second sentence been fetched rather than carried,
 the escalation would have stopped one step earlier, and the accusation above would not have been
 aimed at material that never made it.[^9]
 
@@ -483,11 +484,11 @@ contestable attribution the chapter renders as unattributed *"navigators from a 
 time."* **Dropping an attribution makes a claim look more settled than the inherited material made it** — IV.8's
 finding about the inherited hierarchy, running in the opposite direction.
 
-[^2]: **The measurement is real, it is dated, and it is no longer reproducible from this tree —
-because the repair shipped in the same commit as the finding.** The record has it in the past
-tense and in the right place: *"Measured before a word was drafted: 0 occurrences across all seven
-planning documents and all 31 chapters."* A reader running that grep today gets hits, because
-`00`, `06`, `07`, this chapter and V.9 all now name the tier.
+[^2]: **The measurement is real, it is dated, and it can no longer be reproduced — because the
+repair shipped together with the finding.** The record has it in the past
+tense and in the right place: measured before a word was drafted, the tier occurred zero times
+anywhere in the project. A reader running that count today gets hits, because this chapter and V.9
+both now name the tier.
 ⚠ **That is correct engineering and it destroys the evidence.** The only surviving witness to the
 chapter's opening claim is a log line asserting the count — a stamp, not a gauge, which is the exact
 object this book spends eight chapters distrusting. Nothing was done wrong; the note exists because
@@ -495,8 +496,8 @@ object this book spends eight chapters distrusting. Nothing was done wrong; the 
 recurs every time this project repairs something it discovered.
 
 [^3]: ✅ **THE DEFERRAL'S TRIGGER FIRED, AND IT WAS PAID PAST THE PROMISE.** The chapter says the
-entry is *scheduled*, not written, with the scaffold amended in the same commit. Checked: the
-renumber is on the record, and **V.9 exists and carries the entry** — it carries the entry, including
+entry is *scheduled*, not written, and scheduled where the deferral said. Checked: **V.9 exists and
+carries the entry** — it carries the entry, including
 the instrument-record grade this chapter previewed: *"They are also very few, and they establish an
 unidentified track and not an occupant"* (V.9:96), *"Something unidentified has been tracked on
 independent instruments. Grade: real, small"* (V.9:236).
@@ -539,8 +540,8 @@ DOES NOT CONTAIN IT.** Repaired (released edition: repair the body, mark the rep
 paragraph above read *"the material says that…"* and presented the sentence in bold as quotation,
 with this note carrying the correction two hundred words below — **a fabricated quotation inside an
 accusation, standing in the running text with its refutation in the apparatus.** The argument was
-never the problem and is unchanged; only its target moved, from the inherited material to this
-project's own scaffold, which is where the sentence was in fact written. ⚠ **The correction makes
+never the problem and is unchanged; only its target moved, from the inherited material to our own
+working papers, which is where the sentence was in fact written. ⚠ **The correction makes
 the chapter's case stronger, not weaker, and that is the uncomfortable part** — the exemption clause
 this book spends the chapter refusing was produced *here*, under the conditions the chapter says
 produce it, by the party writing the refusal.
@@ -555,21 +556,20 @@ clauses word for word (the *Under DoPI* sentence, the *Theorem 12* dimensional-l
 three-part *Evidence basis*) and preserves the inherited material's box-bar glyphs `■`/`□` elsewhere in the file.
 The pipeline is not eating content in this region.
 ⚠ **Limit, stated because it is load-bearing and because it is inherited from IV.9:**
-The drafting record names a source tree **which is
-not available here.** If a fuller rendering exists there, the sentence may be in it. I cannot
+The drafting record points at earlier material **which is
+no longer at hand.** If a fuller rendering of the entry exists, the sentence may be in it. I cannot
 distinguish that from a sentence that was never written — **and neither can a reader**, which is the
 defect on either reading. ✅ **The *"in two forms"* count is now repaired in the body** — it claimed
 two instances of IV.7's refused clause **in this entry**, and the checkable count in the entry is
-one. The body now says what is true: one in the inherited material, one in our own planning file, and they are
+one. The body now says what is true: one in the inherited material, one in our own planning, and they are
 different objects.
 ⛔ **AND THIS ONE DID ENTER AT PLANNING.** The plan carries the sentence in
 IV.10's beats, near-verbatim, as item (b) under the heading *"THE INHERITED CRYPTID ENTRY CARRIES
 IV.7'S REFUSED CLAUSE IN TWO FORMS."* So the prose inherited this fabrication rather than producing
 it — **the opposite of [^5], in the same paragraph of the same chapter.** Repairing the chapter alone
-leaves the generator intact. ✅ **The generator was repaired
-in the same pass, Day 195** — `06`:1604–1606 now carries the correction and the heading no longer
-asserts the two-forms claim, so a chapter drafted from the scaffold after this date cannot inherit
-it again.
+leaves the source of the error intact. ✅ **It was repaired in the same pass** — the heading that
+asserted the two-forms claim no longer asserts it, so nothing drafted after that can inherit it
+again.
 
 [^7]: **The Sts'ailes are not in the inherited material, and the external record complicates the charge rather
 than the principle.** `sasquatch`, `bigfoot`, `sts'ailes` and `chehalis` occur **zero** times in the
@@ -615,12 +615,12 @@ Emotional-Relational… variable Numinous-Sacred."* Four axes, **described, not 
 So *"three of five bars on physical presence"* has no cell behind it — **the identical defect IV.9
 filed as its own sharpest finding, committed one chapter later, inside the paragraph calling it a
 settled pattern.**
-⚠ **This one is the drafter's alone, and I checked rather than assumed.** The plan
-contains no sasquatch, no bars and no *"three of five"* anywhere in IV.10's beats; what it carries is
-the **count** (*"the third instance of IV.9's filled-table finding"* — see [^11]). The
-specimen and the notation are the drafter's invention at the sentence. **My first version of this
-note blamed the scaffold for both**, which would have been an accusation against a file that had it
-right — the same error as the chapter's, one layer up.
+⚠ **This one is the drafter's alone, and I checked rather than assumed.** Nothing upstream of the
+chapter carries a sasquatch, the bars, or *"three of five"*; what it carries is the **count** (*"the
+third instance of IV.9's filled-table finding"* — see [^11]). The specimen and the notation are the
+drafter's invention at the sentence. **My first version of this note blamed the plan for both**,
+which would have been an accusation against something that had it right — the same error as the
+chapter's, one layer up.
 
 [^11]: ⛔ **THE COUNT IS WRONG BECAUSE AN ENDNOTE CORRECTION DOES NOT PROPAGATE TO THE CHAPTER THAT
 CITES IT.** *"The previous chapter caught the same notation handing back two confident numbers."*
@@ -636,10 +636,10 @@ was accurate when written and is now superseded by matter printed forty lines be
 corrects a claim does not correct the claim's readers.** Filed.
 ⚠ **The count entered at planning.** The plan already reads *"This is also the third
 instance of IV.9's filled-table finding, which settles that it…"* — written before IV.9's [^12]
-existed, and therefore true of what IV.9 then claimed. **The scaffold is now carrying a settled
+existed, and therefore true of what IV.9 then claimed. **The plan is now carrying a settled
 conclusion drawn from a retracted premise**, and it will keep handing it forward to every chapter
-drafted from it. Same mechanism as the note above, one document upstream, and the reason the sweep must
-reach the planning material and not only the prose.
+drafted from it. Same mechanism as the note above, one layer upstream, and the reason a sweep has to
+reach what the chapters were drafted from and not only the prose.
 
 [^12]: **The notation has a zero, and it prints one.** *"The notation cannot express `this may be
 nobody`"* is false as stated: the Intimate Decomposers line reads `PS□□□□□ IO□□□□□` — an all-empty

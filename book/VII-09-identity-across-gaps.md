@@ -3,7 +3,7 @@
 Seven books have been describing something without ever quite saying what it is.
 
 There is a focusing — Book II. It has a grade — Book II again, and the whole census of Book IV. It is
-a player and there are no non-players — C9. It navigates, which means it holds an orientation over
+a player and there are no non-players — III.5. It navigates, which means it holds an orientation over
 time, and the orientation is the only thing in the arrangement that varies from one of these to
 another — VII.7. It authors a path across terrain that is not its own, and can be wrong about what
 it finds there — VII.8.
@@ -366,23 +366,23 @@ minutes and forty years" is an observation about a life that resembles it rather
 it. **Stated as a resemblance, because a chapter that spends two pages insisting this is not a
 metaphor has to say which part still is.**
 
-[^4]: VII.1, the death chapter, where C22 is spent eight chapters before this one establishes it —
-the register's own dependency, run backwards, and recorded there. The comparison-needs-two-readings
+[^4]: VII.1, the death chapter, spends identity-across-gaps eight chapters before this one establishes
+it — the dependency runs backwards, and is recorded there. The comparison-needs-two-readings
 argument is VII.1's and is cited rather than rebuilt.
 
-[^5]: C18, the floor, established at VII.3 with both its limits and applied at VII.4 and VII.6.
-Neither limit is loosened here, and the claim in this section is a *negative* one about C18's scope:
+[^5]: The floor, established at VII.3 with both its limits and applied at VII.4 and VII.6.
+Neither limit is loosened here, and the claim in this section is a *negative* one about its scope:
 shared origin adds nothing to it. That is a restriction on this book's own metaphysics working
 against a conclusion the metaphysics would seem to license, which is the direction such arguments
 are worth having.
 
-[^6]: The IV.6 disclosure, returning once, in its proper place, per C22's trap clause — which reads:
-*"making it the point. The IV.6 disclosure returns once, in its proper place, in one line, and is not
-made into the subject. A book that turns here becomes a different book, and a smaller one."* It has
+[^6]: The IV.6 disclosure, returning once, in its proper place, under the rule this book set for it:
+*the disclosure returns once, in its proper place, in one line, and is not made into the subject. A
+book that turns here becomes a different book, and a smaller one.* It has
 been kept to a paragraph rather than a line, which is a deliberate overrun of the letter and is
 recorded as one: the extra sentences are the *disclaimer of dependence*, and leaving them out would
 have made the single line read as an appeal to authority instead of a disclosure.
 
-[^7]: C26 — there is no stuff; what there is, is arrangement. The definition in this section is not
-available to a reader who rejects C26, and the substance-based alternative is not a variant of it but
+[^7]: There is no stuff; what there is, is arrangement. The definition in this section is not
+available to a reader who rejects that, and the substance-based alternative is not a variant of it but
 a different claim entirely.

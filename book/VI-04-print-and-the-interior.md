@@ -120,7 +120,7 @@ thought they were doing something else.
 
 If Eisenstein's strong version were right, this chapter would be a technological determinism
 chapter: a machine arrives, and the interior it produces is the interior everybody gets. But that
-is not a claim this book is permitted to make. **C10 puts the render at the point of contact** —
+is not a claim this book is permitted to make. **Co-constitution puts the render at the point of contact** —
 between what is there and what is filtering, in the encounter, not upstream in the apparatus. A
 render is not shipped. It is *made*, every time, by a particular filter stack meeting a particular
 world, and the whole argument of Books I through III collapses if a machine can hand one out
@@ -149,7 +149,8 @@ the world; that the rejection of image and metaphor and embodied practice remove
 whole mode of attention; and — this is the sentence — that **two modes of attention yield two
 worlds, not two views of one world.**
 
-That last clause is this book's thesis. It is C11, stated by someone else, from a different
+That last clause is this book's thesis. It is two insides, one Ground, two worlds and neither of them
+the error — stated by someone else, from a different
 direction, thirty years of clinical neuroscience behind it.
 
 And this book takes the conclusion and declines the mechanism, and must say so plainly rather than
@@ -170,17 +171,17 @@ historical theses while refusing to pay for any of their mechanisms?**
 The honest answer has two parts, and only one of them is comfortable.
 
 The comfortable part: yes, deliberately, and the rule for it was written before Book VI opened.
-**C30 says convergence is evidence and not proof, and that the book must say which, every time.**
+**Convergence is evidence and not proof, and this book must say which, every time.**
 The instrument was built at the end of Book V, and these three chapters are it working. A
 convergent witness is worth something — it is worth a great deal when the witness came by a road
 you did not take — and it is worth less than a proof, and the difference has to be stated at each
 use rather than allowed to blur across a book.
 
-The uncomfortable part: **all three chapters performed C30 and none of them licensed it.** VI.1,
-VI.2 and VI.3 declare C11, C10 and C12 between them and not one declares C30, while doing C30's
-work in their central beats. Which means the register — the thing that is supposed to tell you what
-this book is resting on — has been under-reporting the load on its own most methodological claim,
-in the book where that claim is doing the most. This chapter licenses it. The earlier three owe a
+The uncomfortable part: **all three chapters performed that move and none of them declared it.** VI.1,
+VI.2 and VI.3 state, between them, that two insides make two real worlds, that the render is made at
+the point of contact, and that filters are editable — and not one of them stops to say it is leaning
+on convergence, while the central beat of each one leans on it. The rule is at its least visible in
+the book where it is carrying the most. This chapter says it out loud. The earlier three owe a
 correction.
 
 ---
@@ -235,8 +236,9 @@ and I am not going to pretend to stand outside it, because —
 
 **— because this book is made of it, and could not be made of anything else.**
 
-Look at what I have built. A claims register with thirty numbered entries. Dependency lines between
-them. A revision queue. Endnotes with publishers and dates. A structure of eight books, each
+Look at what I have built. Thirty load-bearing claims, each fixed in one form of words. Dependency
+lines between them. A standing list of what is still open, by name, printed at the back. Endnotes
+with publishers and dates. A structure of eight books, each
 subdivided, each subdivision arriving in an order chosen so that the load-bearing pieces arrive
 before the things that rest on them. Every one of those is a print technology. Every one of them
 exists to make claims *hold still while you check them*. And the book uses them to argue that the

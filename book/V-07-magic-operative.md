@@ -120,7 +120,7 @@ different practitioners, and drew the inference: the system is not the active in
 is. So belief gets held instrumentally — installed for the length of an operation, then removed,
 with no requirement that the operator hold it outside the working.
 
-That is C12 arriving at full strength: filters are editable, edited deliberately, at will. It is
+That is editability arriving at full strength: filters are editable, edited deliberately, at will. It is
 also where the slide this book has guarded since Book II gets made most often, and made in one step
 — from *the filter is editable* to *the world obeys the operator* — usually without the writer
 marking the step. The strongest version of the position lives here, which is why the answer is owed
@@ -211,7 +211,7 @@ follow that he got a result.
 
 **The discipline, which this chapter exists to perform.**
 
-C12 says filters are editable. Of everything in these eight books it is the line a reader will
+This book says filters are editable. Of everything in these eight books it is the line a reader will
 carry off with one word missing, and the reader who does it will not be a hostile one. The missing
 word is *filter*.
 
@@ -220,7 +220,8 @@ So, in the plainest available form. **The edit is to the filter. The filter is n
 Everything in this chapter that survives its own deflation survives as a change in the operator: a
 filter stack rebuilt on purpose, by procedures that work because repetition over time is
 how filter stacks have always been laid down. What comes back is a different meeting with what is
-there. It is not a different *what is there*. By C10 the render was never solely the operator's, and
+there. It is not a different *what is there*. The render was never solely the operator's — it is made
+at the point of contact, and the seed is not one party's to supply — and
 nothing on these four lists gives anyone a second vote in it. An operation cannot deliver a chosen
 world, and the limit is not imposed on magic from outside. It falls out of the arrangement that gave
 the operator somewhere to stand. Whatever makes a meeting possible is the same thing that keeps it a
@@ -319,12 +320,12 @@ hedge: [^14].
     *under the threshold*. **A verification that quotes the true text and never reaches the sentence
     it is certifying is not a verification; it is a second copy of the source stored next to an
     uncorrected error, wearing a green tick.** ⚠ This site was **not on that sweep's list** —
-    the list named V.11 only. It was found by grepping the repaired string across the whole tree
-    instead of trusting the list, which also turned up `07`:1312. **The list named six chapter sites
-    and all six were real; the grep found two more it had not named** — this one, a chapter the list
-    did not reach at all, and the claims register, which the list covered only under the generic
-    heading *then the planning files.* **A sweep list assembled from six outside reads was 75%
-    complete, and the missing quarter included the register.**
+    the list named V.11 only. It was found by searching the repaired string across everything
+    instead of trusting the list, which turned up a second unnamed site as well. **The list named six
+    chapter sites and all six were real; the search found two more it had not named** — this one, a
+    chapter the list did not reach at all, and one the list covered only under a generic heading.
+    **A sweep list assembled from six outside reads was 75% complete, and the quarter it missed was
+    the part nobody had read line by line.**
     **The source check, which was right all along:** *"The seed takes an edit the way it took the installation
     — by repetition, over time, at the pace of"* (III.6:207), and *"has already ruled out the version
     everybody wants. Wanting is not on that list, it cannot get onto the"* (III.6:210). V.7's *"and

@@ -340,8 +340,8 @@ found nothing, and **refused the flag in the log in as many words — *"There is
 is no 150 anywhere in the manuscript"*** — then wrote a paragraph filing the reviewer's flag as a
 demonstration of IV.4's confabulation thesis. **The reader was right.** The number is in this
 chapter, spelled out, and it straddles a hard line wrap: `a hundred` ends line 253 and `and fifty`
-begins line 254. A digit grep misses it because it is words; **a word grep misses it because every
-gauge in `tools/` is line-scoped and this prose is hard-wrapped.** ★ That is **the same line-scoping
+begins line 254. A search for the digits misses it because it is words; **a search for the words
+misses it because every check we run is line-scoped and this prose is hard-wrapped.** ★ That is **the same line-scoping
 defect** — already filed, already known — arriving in a new place and producing not a missed hit but a
 **false refutation of a correct outside reader, written up as a win.** Filed Day 191.
 
@@ -350,11 +350,11 @@ Nationalism* (London: Verso, 1983)** — print capitalism as the condition for m
 holding one story, which is the whole of the paragraph above. ⚠ **He is not named in the prose, and
 he should be.** This is the chapter's largest unpaid rule-5 debt: the sentence *"the nation is a
 printing-press-shaped being"* is Anderson's thesis in the book's own vocabulary, and an unhedged
-assertion with no named ancestor is the thing `03`'s opening section says reads as bluster.
-Filed as the second half of the same row, because the two share a cause: the chapter
-was drafted with the arguments in hand and the names left in the drafter's head, and **nothing in
-`tools/` can detect an ancestor who is absent** — `ancestor_gap` measures the register against the
-prose, and a name in neither is in neither.
+assertion with no named ancestor reads as bluster by this book's own standard.
+It is the second half of the same defect, because the two share a cause: the chapter
+was drafted with the arguments in hand and the names left in the drafter's head, and **no check can
+detect an ancestor who is absent** — a name that is nowhere in the working papers and nowhere in the
+prose is nowhere at all.
 
 ---
 

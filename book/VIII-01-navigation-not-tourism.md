@@ -322,14 +322,14 @@ the theorem guaranteeing you cannot see them also tells you exactly what to do a
 
 ---
 
-[^1]: C15, **amended Day 191**, and this chapter is one of the places it is established — *the only
-place Part Two states a telos*, which is why the amended form appears here in full rather than by
+[^1]: The telos was **amended late**, and this chapter is one of the places it is established — the
+only place Part Two states one — which is why the amended form appears here in full rather than by
 reference. The amendment arrived from VII.6, where the symmetric definition of love was found to fail
-on the parent and the infant and was repaired with *sign, not symmetry*; C15's canonical carried the
-same reciprocal construction and was killed by the same case. The sibling sweep across all thirty
-canonicals found C15 to be the only inheritor. ⚠ What the plural *each other* was also guarding —
-solipsism with good manners — is now carried by C9 explicitly rather than by the word, and if C9
-ever narrows this clause loses its floor.
+on the parent and the infant and was repaired with *sign, not symmetry*; the telos carried the same
+reciprocal construction and was killed by the same case. Every other claim in the book was checked
+for the construction and none of them had inherited it. ⚠ What the plural *each other* was also
+guarding — solipsism with good manners — is now carried by the no-NPC rule explicitly rather than by
+the word, and if that rule ever narrows this clause loses its floor.
 
 [^2]: **The telos in its two incompatible statements:** *the ultimate goal is to overcome the very
 limitations that define individuality and return to a state of integrated unity with the
@@ -339,7 +339,7 @@ and the first has been left standing beside it, thesis sentence and heading both
 screen and discharged here, which is where it was filed to be discharged.
 
 [^3]: III.2 — THE GAME THAT IS PLAYING YOU, where Watts is treated at length and where the cost of
-his reading is set out. ⚠ **The brief for this chapter said he was returning from I.6.** He is not in
+his reading is set out. ⚠ **The plan for this chapter said he was returning from I.6.** He is not in
 I.6; `Watts` occurs zero times there. Corrected before drafting, and recorded because the error was
 of a class that produces a **false internal cross-reference in shipped prose** — the chapter would
 have claimed a callback to a passage that does not exist — and because it is the second such pointer

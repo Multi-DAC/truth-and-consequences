@@ -118,7 +118,7 @@ What replaces it is not a warmer version of the same move. It is a different cla
 
 Configurations are not conserved. Conservation is a statement about a quantity holding steady across
 a duration, and the Ground is not something durations happen to; before-and-after is a feature of the
-inside, which is C13 and was argued in Book III rather than asserted here.[^5] Every configuration
+inside, which was argued in Book III rather than asserted here.[^5] Every configuration
 that this life consisted of is in the plenum — not stored there, not recorded there, not surviving
 there. It is there the way any configuration is there, which is to say completely and without
 anything having been done to put it there.
@@ -149,8 +149,8 @@ was never a substance that could be relocated; it was a place from which, and pl
 not the kind of thing that moves.
 
 **What continues is everything else, and none of it is the person.** The plenum is undiminished, and
-it was never augmented by the life either — that is C1, and the past tense in it is a trap the
-register has to keep disarming.[^6] The people who knew them continue, with the shape of the meeting
+it was never augmented by the life either — that is the plenitude, and the past tense in it is a trap
+this book has to keep disarming.[^6] The people who knew them continue, with the shape of the meeting
 still in them. The consequences continue, indifferent to whether anybody is at the origin of them.
 The world continues doing what a world does, which is *not* a bleak observation and *not* a
 comforting one; it is the same sentence either way and it is a mistake to hear a tone in it.
@@ -290,14 +290,14 @@ was counted.
 in Books I–III is licensed by that passage and by nothing else, which is why it is not repeated and
 cannot be softened.
 
-[^5]: C13, argued at III.1 and III.3: before-and-after appears with the vantage rather than around
+[^5]: Argued at III.1 and III.3: before-and-after appears with the vantage rather than around
 it. The claim is not that time is unreal. It is that priority is a position, and the Ground does not
 occupy one.
 
-[^6]: C1. The trap is the tense: *already there* imports the sequence C13 denies, in a word nobody
+[^6]: The trap is the tense: *already there* imports the sequence Book III denies, in a word nobody
 notices. Configurations do not precede anything, including each other.
 
-[^7]: C22, stated at VII.9, where identity across gaps is handled with the evidence for it. The
+[^7]: Identity across gaps is handled at VII.9, with the evidence for it. The
 objection is raised here rather than deferred because a reader meets it here first, and a chapter
 that let the strongest available objection wait two chapters for its answer would be managing the
 reader rather than arguing.

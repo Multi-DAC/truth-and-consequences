@@ -176,7 +176,7 @@ render is not a correct map of the Ground — and, at a cost this book should pa
 an incorrect one either. A render is not a candidate for accuracy against the Ground at all.
 Accuracy is a relation between two things that have shapes, and only one of these does.
 
-Which is why `05`'s retirement of *the map* as a name for the Ground is not open for reconsideration
+Which is why this book's retirement of *the map* as a name for the Ground is not open for reconsideration
 when a later chapter wants a familiar image. Call the Ground the territory and you have imported the
 second clause with it. The second clause then delivers, free and unargued: a best render, a most
 correct tunnel, a rank ordering of worlds with somebody's at the top. Nobody would defend that

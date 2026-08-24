@@ -289,8 +289,8 @@ above was wrong until this note was written.** It read *"a few hundred of them"*
 191; the file carries **94 complete cards** (`BOUNDARY` 94, `NAVIGATIONAL` 94, `SEES` 106 — the
 excess in the last is prose usage, not entries). Corrected to *ninety-odd* here. **The error is the
 one this book keeps naming: a remembered magnitude, never gauged, sitting in a sentence whose
-argument did not depend on it** — which is exactly why nothing caught it for three days. Nothing in
-`tools/` could have; there is no instrument that counts a source's entries against a prose adjective.
+argument did not depend on it** — which is exactly why nothing caught it for three days. No automatic
+check could have; there is no instrument that counts a source's entries against a prose adjective.
 
 [^2]: K. J. S. Anand and P. R. Hickey, "Pain and Its Effects in the Human Neonate and Fetus," *New
 England Journal of Medicine* 317 (19 November 1987): 1321–29 — the review that broke the practice,

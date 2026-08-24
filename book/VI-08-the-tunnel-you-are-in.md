@@ -111,7 +111,8 @@ gift entirely, and one that reliably feels like the first.
 
 Mannheim's own last defence was to say he was not a relativist but a **relationist**: knowledge is
 bound to a position without therefore being arbitrary, and positions can be compared.[^5] That
-distinction is correct and this book needs it — it is C11 in different clothes, and it is the reason
+distinction is correct and this book needs it — it is *two insides, one Ground, two worlds* in
+different clothes, and it is the reason
 "different worlds" was never "anything goes." But notice that relationism is a claim about how
 knowledge *works*. It is not an instrument. It tells you comparison is possible in principle. It
 does not hand you a way to compare, and Mannheim, having established that comparison was possible,
@@ -429,7 +430,7 @@ reading, not on the caricature.** A claim that a class enjoys unusual distance f
 conditioning is the exemption; the strength of the claim only changes the size of it.
 
 [^5]: Mannheim's relationism-not-relativism distinction is his own guard against the collapse, and
-this book agrees with it — see C11, where differing renders do not make the Ground negotiable. The
+this book agrees with it — differing renders do not make the Ground negotiable. The
 objection here is narrow and is not that relationism is wrong: it is that relationism is a thesis
 about the structure of knowledge and supplies no procedure, and Mannheim filled the procedural gap
 with a class of people.
@@ -455,7 +456,7 @@ there is Yarrow, Haggard, Heal, Brown and Rothwell, *Nature* 414 (2001), 302–3
 this book was quarried from, on the day this chapter was drafted, and the search was run on **this
 chapter's own terms rather than on the defect** — which is the only reason the result is worth
 anything, since a search built out of a finding returns its own reflection. The tallies themselves
-are recorded in the project's working notes and deliberately kept off this page: a file count in
+are deliberately kept off this page: a file count in <!-- workshop-ok -->
 somebody else's archive is a quantity no reader can obtain or check, which makes it rhetoric wearing
 a number's clothes.
 

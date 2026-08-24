@@ -488,11 +488,11 @@ established: the path is the one part of the arrangement that is yours.
 ---
 
 [^1]: **Theorem 6, Navigational Freedom, and its gloss — taken in
-full.** ⚠ The full sentence matters and this manuscript nearly shipped a truncated one: the brief for
+full.** ⚠ The full sentence matters and this manuscript nearly shipped a truncated one: the plan for
 this chapter carried the quote ending at *"whether navigation feels directed,"* which is not where
 the sentence ends. The remainder — *and whether that felt direction has phenomenological
 consequences* — is the theorem's only move beyond pure report, and cutting it made the position look
-worse than it is. Caught in the pre-draft screen by reading the theorem entire rather than the brief. The
+worse than it is. Caught before drafting by reading the theorem entire rather than the plan. The
 indictment survives the correction because the consequences named are consequences for experience,
 which is the same circle in a wider radius; but it survives weaker, and the difference between an
 indictment that is right and one that is overcharged is the difference between a reader who trusts
@@ -533,27 +533,27 @@ Day-191 outside read caught it. The hierarchical
 account: second-order volitions, and the wanton as the being who has first-order desires and no
 second-order stance toward them. Cited at Theorem 6. ⚠ This is Frankfurt's second
 appearance one chapter after his first, on a different work and in the reversed role — VII.6 spent
-*The Reasons of Love* (2004) as the foil whose conferral thesis C9 refuses. Both readings reach this
+*The Reasons of Love* (2004) as the foil whose conferral thesis the no-NPC rule refuses. Both readings reach this
 manuscript through the secondary literature rather than from the texts directly; the retrofit owes a
 primary check on both, and they are separate debts.
 
-[^6]: C30's discipline, applied to this book's own position rather than to a tradition it is
-grading. The asymmetry argument — that navigation could have failed and did not, while fatalism
+[^6]: The convergence discipline — evidence and not proof, said out loud at each use — applied here to
+this book's own position rather than to a tradition it is grading. The asymmetry argument — that navigation could have failed and did not, while fatalism
 could not have failed — is a falsifiability point of the ordinary kind and is not offered as more
 than that. It is stated here rather than in a note because a chapter that buries its own evidence
 grade in the apparatus has not really declared it.
 
-[^7]: C18, established at VII.3 with both its limits, and the *through*/*over* distinction that
+[^7]: The floor, established at VII.3 with both its limits, and the *through*/*over* distinction that
 carries the moral weight there and at VII.4. The claim in this section is only that the
 non-termination of explanation at the agent is **why** the floor could not have been built on
 desert. That connection is drawn here for the first time; VII.3 and VII.4 each stated their half
 without stating the link, which is the same shape once more — two halves of one argument, correct in
 both places, joined in neither.
 
-[^8]: C26 — there is no stuff; what there is, is arrangement. The defence of *phenomenologically
-real* as a full grade rather than a hedge depends entirely on C26 and on II's account of
+[^8]: There is no stuff; what there is, is arrangement. The defence of *phenomenologically
+real* as a full grade rather than a hedge depends entirely on that and on II's account of
 being-the-case as requiring a vantage, and it is not available to a reader who has not accepted
-those. A reader who rejects C26 should read section VI's second point as a hedge
+those. A reader who rejects the no-stuff claim should read section VI's second point as a hedge
 restated, and should be told so rather than left to discover it.
 
 [^9]: **The price of being someone:** to be someone is to not be
@@ -567,6 +567,6 @@ Book VII.
 it is not the goal.** ⚠ **First housing in the manuscript: the claim
 had zero occurrences across fifty-seven chapters.** It carries with it the reading of
 nirvana, Christian mystical annihilation and high-dose ego death as independent reports of the same
-approach from different navigational traditions; that material is C15's territory and is pointed at
+approach from different navigational traditions; that material is the telos's territory and is pointed at
 here rather than developed, because the refused summit belongs to VIII.1 and this chapter needs only
 the ceiling, not the argument against aiming at it.

@@ -195,7 +195,8 @@ attention from nationalism, and calls it a mass ceremony. Wu arrives from antitr
 communications law, and calls it a market. Guy Debord arrives from an entirely different tradition
 and calls it the spectacle — a social relation between people mediated by images.[^6] Three
 unrelated disciplines, three vocabularies with no shared ancestor, one structure described in all
-three. That agreement is worth something. It is worth exactly what C30 says it is worth: it is
+three. That agreement is worth something. It is worth exactly what this book's rule on convergence
+says it is worth: it is
 **evidence and not proof**, and its strength lies in the independence of the routes rather than in
 the number of them. This book takes the shared structural observation from all three and takes
 none of their programmes — not Anderson's account of nationalism, not Wu's remedies, and

@@ -332,7 +332,7 @@ and is also exactly how an unearned consolation gets back into a book at the end
 stated here rather than performed silently.
 
 [^5]: **The Coherence Principle. This is the statement VIII.4 deferred to this
-chapter**, and it is given in this manuscript's own words for a stated reason: the canonical
+chapter**, and it is given in this manuscript's own words for a stated reason: the older
 wording routes the claim through *superposition*, a term this account has ruled out of its prose, on
 the ground that the term has no civilian life and so transfers authority rather than meaning. **A principle that cannot be
 said without a banned word has a problem, and the fix is not an exemption.** The structure/process

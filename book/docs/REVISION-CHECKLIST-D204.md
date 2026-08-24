@@ -87,7 +87,8 @@ baked out of this file's own gauge before the file shipped.
       `named_cause ✅` audit line; p.279 *"Filed with R-143"*). Worst carrier is Book V's *note on
       grade*, a body-level memo to a maintainer in 6 of 11 chapters. Same class Clayton ruled on for
       the shadow-biome paper: *"let's remove any pointers to other files."*
-      `✓` **RULED D205, Clayton: STRIP.** *"It's a book, not a demonstration of book writing."*
+      `✓` cmdpresent:CLEAN::python tools/workshop_sweep.py
+      **RULED D205, Clayton: STRIP.** *"It's a book, not a demonstration of book writing."*
       PAID `d21149f`. Gauge: `tools/workshop_sweep.py`. ⚠ 27 sites REMAIN under a widened
       pattern — the census below was taken with a regex that required a file extension and
       missed every bare backticked apparatus number (`05`, `07`) and every
@@ -100,7 +101,8 @@ baked out of this file's own gauge before the file shipped.
       two. This is R-227, still open, still *a decision, not work*, trigger **before the upload**.
       ⚠ **Do not add 92 to 54.** Two censuses under two rules; the union is *at least 63 pages*,
       and recomputing it is part of the row.
-      `✓` **RULED D205: STRIP.** PAID `ee46ef3`, 108 -> 0. ⚠ The row's 92 was also an
+      `✓` cmdpresent:CLEAN::python tools/workshop_sweep.py
+      **RULED D205: STRIP.** PAID `ee46ef3`, 108 -> 0. ⚠ The row's 92 was also an
       undercount: two tags in IV.6 are written with HYPHENS and no `feedback_` prefix, and
       the first pattern built for this job missed them and printed a green.
 
@@ -109,7 +111,8 @@ baked out of this file's own gauge before the file shipped.
       e_translator_two_texts↩↩`. The inter-tag space is eaten with the brackets. 17 adjacent pairs
       volume-wide, **16 in Book V.** Independent of R2-033's ruling: if the slugs stay, this is
       still corruption on the page.
-      `✓` **MOOT as of D205** — there are no tags left to weld. The compiler defect is real
+      `✓` manual:no tags left to weld; the compiler defect is unreachable from this volume
+      **MOOT as of D205** — there are no tags left to weld. The compiler defect is real
       and unrepaired; it is now unreachable from this volume, which is not the same thing.
 
 - [x] **R2-035** · volume-wide — **38 distinct process-row IDs print 76 times across seven of the
@@ -118,7 +121,8 @@ baked out of this file's own gauge before the file shipped.
       `Z-02-works-cited.md`. They read like a scholarly cross-reference apparatus, which is the
       problem. **New class** — it survived Books IV–VI because every instrument was looking for
       `[[wiki]]` and `feedback_*` and none for `R-\d+`.
-      `✓` **RULED D205: STRIP.** PAID `ee46ef3`, 75 -> 0. The pointer went, the claim stayed:
+      `✓` cmdpresent:CLEAN::python tools/workshop_sweep.py
+      **RULED D205: STRIP.** PAID `ee46ef3`, 75 -> 0. The pointer went, the claim stayed:
       a note saying a thing was repaired still tells the reader something true.
 
 - [x] **R2-036** · `VI-07` p.701 vs `VI-08` `[^9]` — VI.7 prints eleven corpus file-counts in body
@@ -128,7 +132,8 @@ baked out of this file's own gauge before the file shipped.
       wearing a number's clothes**."* The counts are VI.7's load-bearing evidence, so this is not
       cosmetic. **The book has to pick one.** VI.1's, VI.5's, VI.6's and VI.7's standing-note corpus
       figures are the same decision.
-      `✓` **RULED D205: VI.8's RULE WINS.** PAID `d21149f`. VI.7's beat was rebuilt rather than
+      `✓` cmdpresent:CLEAN::python tools/workshop_sweep.py
+      **RULED D205: VI.8's RULE WINS.** PAID `d21149f`. VI.7's beat was rebuilt rather than
       cut — the specimen moved from the research archive to the authors, which is a form the
       reader can check from the volume. VI.4-VI.7's corpus-support notes went the same way.
 
@@ -246,13 +251,18 @@ baked out of this file's own gauge before the file shipped.
       `→` Re-measure, then re-take the decision.
       `✓` absent:VIII-03:[^7] appears before [^5] and [^6]
 
-- [ ] **R2-051** · `C-01` §IV — *"At this printing it carries **205 open rows**."* That is
+- [x] **R2-051** · `C-01` §IV — *"At this printing it carries **205 open rows**."* That is
       `tools/queue_state.py`'s figure for **the retired queue**, whose own header says it *"is not
       to be worked from"*, retired nine days before the printing. The live queue has 21 rows, 7
       open. A reader is told the book has two hundred known unrepaired defects.
       ⚠ **The replacement number must be re-measured at print time, not typed** — C.2 §I states
       that mechanism on the facing page: *"a rotten mark and a fresh one look identical."*
       `✓` absent:C-01:205 open rows
+      **CLOSED D205 BY DELETION OF ITS SUBJECT, NOT BY REPAIR.** Clayton ruled the four-document
+      promise out entirely — *"so readers won't expect extra material accompanying the volume"* —
+      and §IV went with it, the rotten number inside it. ⚠ **A green here is now cheap**: the
+      anchor string is absent because the whole section is absent, which is a different fact from
+      the number having been re-measured. Recorded so the tick is not read as the repair it is not.
 
 - [ ] **R2-052** · `C-02` §IV + `[^2]` — the section about a mis-specified instrument field
       mis-states its own denominator twice, differently. Body: *"18 of the **43** cards."* Note 2,

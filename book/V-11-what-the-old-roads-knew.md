@@ -40,7 +40,7 @@ book does not.**
 **One. The scholastics have a discipline for speaking about a ground with no attributes, and we have
 a ban list.**
 
-Book II established that no name reaches it. `05` then does what a careful modern project does: it
+Book II established that no name reaches it. This book then does what a careful modern project does: it
 rules certain words out of use and prints the ruling. That is a real instrument and it is a crude
 one. The *via negativa* is the same instinct with nine hundred years of craft on it — a graded
 practice of saying, unsaying, and then unsaying the unsaying, so that a speaker can keep talking
@@ -57,7 +57,8 @@ methodologically advanced thing in this entire roster. A body of practitioners, 
 they never solved, wrote down in detail what did not work, for four centuries, without an
 institution requiring it of them and without the consolation of being able to publish a success.
 They were wrong about a great deal. They were not wrong about *what to write down*. This project
-keeps a ruling register and a revision queue and thinks well of itself for doing so; that habit is
+writes down its rulings and keeps a standing list of its own defects, and thinks well of itself for
+doing so; that habit is
 one generation old in the culture that produced it, and it was normal practice among men with
 furnaces in the sixteenth century.[^8]
 
@@ -210,7 +211,7 @@ did not know it.** He runs the mediation through the *doctrine*; V.10 ran it thr
 better-defended, and more general form. That is stated here rather than discovered by a reader,
 because a project that keeps insisting on named owners does not get to quietly re-derive one.
 
-And then the cut, which is real and which the framework requires by C27,[^25] because Katz's picture and
+And then the cut, which is real and which this book's own rule on holding two frames requires,[^25] because Katz's picture and
 this one do not predict the same thing everywhere. **If mediation were total, it would predict
 divergence at the structure too, and the structure does not diverge.** V.1's four propositions — the
 completeness, the non-thinghood, the unaddressability, and the claim that it has no outside[^26] —
@@ -435,7 +436,7 @@ expensive are in the same sentence — the one that makes the cut against Katz.*
     description is wrong. Owed: describe what is there.
 
 [^18]: ✅ **V.1 does name the summit-terms one at a time and refuse each in the breath that writes
-    it**, and this chapter's decision not to repeat them is correct under `05`'s ruling against
+    it**, and this chapter's decision not to repeat them is correct under this book's ruling against
     restating a made argument. The chapter's *vantage is the requirement for anything being the case*
     is V.1's argument in V.1's shape.
 
@@ -487,10 +488,10 @@ expensive are in the same sentence — the one that makes the cut against Katz.*
     reply* is accurate: it is the organised constructivist rebuttal, and it is an anthology, which is
     the same object-type V.10 found a finding inside. ⚠ Not read.
 
-[^25]: ✅ **C27 is correctly invoked.** `07` ADDENDUM II, C27 — *TWO FRAMES MAY BE HELD ONLY WHERE
-    THEY PREDICT THE SAME THING.* The chapter's inference — that a cut is *required* where Katz's
-    picture and this one diverge — is what C27 licenses, and the chapter makes the cut rather than
-    holding both. A correct use of a claim against the chapter's own interest.
+[^25]: The rule is stated at IV.7: **two frames may be held at once precisely where they predict the
+    same thing, and where they diverge you must pick, and the divergence is where all the work is.**
+    It obliges the cut here rather than permitting it, and the cut runs against this chapter's own
+    interest — it would be more comfortable to hold both.
 
 [^26]: ⛔ **THIS READ "the failure of every name" UNTIL DAY 195. V.1'S FOURTH PROPOSITION IS "has no
     outside", and the swap lost the cut against Katz.** Body repaired; the finding

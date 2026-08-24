@@ -385,7 +385,7 @@ enough to warrant it. That is a smaller purchase than the one the section title 
 the true size of what the theorem allows.
 
 The next chapter is the other half. Reading the stack does not change it — a filter you have measured
-is a filter you still have, and the register will go on recording the same bias indefinitely while you
+is a filter you still have, and the needle will go on recording the same bias indefinitely while you
 watch. What actually moves one, what only feels like it does, and why the traditions' techniques work
 better than their cosmologies deserve, is editing.
 

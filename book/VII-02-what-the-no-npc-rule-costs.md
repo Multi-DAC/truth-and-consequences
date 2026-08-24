@@ -636,7 +636,7 @@ registering it now, and cannot see the mechanism from inside. That case is VI.6'
 reopened here; it is recorded because a debt entered three times by three different chapters is a
 debt the book kept noticing on its own.
 
-[^4]: C19, argued at VII.4. The claim used here is only the boundedness — that the asymmetry has an
+[^4]: The asymmetry is argued at VII.4. The claim used here is only the boundedness — that it has an
 exact size and that widening it is a breach — not the argument for it. Borrowed forward and marked,
 on the same principle as the floor.
 
@@ -647,9 +647,9 @@ holds *in principle*, the qualification inserted because any real practice invol
 suppression. The disagreement here is not that he failed to bound his position. It is about what
 happens at the terminus of the identification move, which he treated as the goal.
 
-[^6]: C8, established at I.4 and II.4. No threshold, no gate, no elect. The section above is the
-place the register flags as most likely to breach it — where a grade would look defensible doing a
-gate's work — which is why the distinction is stated twice and in opposite directions.
+[^6]: Established at I.4 and II.4. No threshold, no gate, no elect. The section above is the place in
+this book most likely to breach that — where a grade would look defensible doing a gate's work —
+which is why the distinction is stated twice and in opposite directions.
 
 [^7]: Tom Regan, *The Case for Animal Rights* (University of California Press, 1983). The
 subject-of-a-life criterion and the insistence that inherent value is equal and non-degreed. Regan's

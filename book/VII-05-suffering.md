@@ -266,7 +266,7 @@ whatever about a *mechanical* one — a theodicy with no deity in it at all, whi
 not by an author's purposes but by the structure's own productivity. That is what the quoted passage
 is. There is no God in it. It is a theodicy anyway, and Book V's argument does not touch it.
 
-The second is worse and is the reason C21 is a standing prohibition rather than a note. **This book is
+The second is worse and is the reason the refusal of theodicy is a standing prohibition rather than a note. **This book is
 better equipped to build a mechanical theodicy than a theist is to build a classical one.** The theist
 has to attribute intentions to a being he admits he cannot read. We have a mechanism, in working
 order, that genuinely does explain how differentiation produces the conditions for everything that
@@ -410,15 +410,15 @@ which shipped without him.** The disclosure account is used in this chapter only
 the two-arrow card is reliable over; the chapter does not develop it, and VII.1's debt is filed rather
 than paid here.
 
-[^5]: C21, established here. The quoted theodicy is from the framework source's own culminating
+[^5]: Established here. The quoted theodicy is from the framework source's own culminating
 section, and the refusal is of our own text rather than of an opponent's — which is why it is quoted
 in full and refused by rule. The Book V refusal of classical theodicy stands and is narrower than it
 reads; the scope correction is in the body above.
 
-[^6]: C20, and its doctrinal work is done in this chapter rather than at the line's first appearance
-in the manuscript, which the previous chapter spent in the course of establishing the focusing /
-contraction distinction. The register's instruction to write it "at the point where the line first
-appears" is discharged here on the merits: the hard case is the site where the claim is a claim rather
+[^6]: That the focusing can be care does its doctrinal work in this chapter rather than at the line's
+first appearance in the manuscript, which the previous chapter spent in the course of establishing the
+focusing / contraction distinction. The standing rule — write a claim where its line first appears —
+is answered here on the merits: the hard case is the site where the claim is a claim rather
 than a reassurance, and the easy illustration is already in print one chapter back.
 
 [^7]: The altitude rule is stated canonically here. It has been operative since Book I — it is what

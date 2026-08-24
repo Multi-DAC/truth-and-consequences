@@ -123,7 +123,7 @@ claim about structure — that a disjunction can hold at a position where neithe
 which is a statement about what is the case, not about how confident anyone should feel.
 
 This book takes the correction and declines the borrowing entirely, and it says so under the rule
-that governs this move. **C30 is licensed here explicitly**, for the fourth time in this book and
+that governs this move. **The rule is invoked here explicitly**, for the fourth time in this book and
 the first time in Book VI that it is written down rather than merely performed: a conclusion may be
 adopted while its proposed mechanism is refused, provided the refusal is stated. VI.2 declined
 Jaynes's neurology and kept his observation. VI.3 refused Barfield's convergence as confirmation
@@ -222,8 +222,8 @@ identity-in-reaction.**[^12] You can write flawless E-Prime and hold every ident
 had. The verb was never where the error lived.
 
 And this can be demonstrated on the page, at no cost, using this book's own sentences. Take the
-canonical statement of C5 — *God is the name of what C1 describes* — and put it in E-Prime: *God
-names what C1 describes.* Nothing has softened. The identity is exactly as strong and exactly as
+sentence this book uses for God — *God is the name of what the plenum is* — and put it in E-Prime:
+*God names what the plenum is.* Nothing has softened. The identity is exactly as strong and exactly as
 contestable, and the sentence is now marginally worse English. Run it the other way, on a sentence
 that deserves catching: *he is a liar* becomes *he lies habitually*, which is the same
 identification with a frequency claim bolted on and a defence pre-emptively removed. Where the ban
@@ -322,20 +322,20 @@ The discipline has an answer. The shrug has *maybe*.
 This book does not run model agnosticism on itself, and refusing to is a decision with a price
 which gets paid here rather than assumed.
 
-It carries a register of thirty canonical claims. Each is stated in one form of words, unhedged,
-and may be restated but not improved in passing. Each carries a **trap** — the specific
-grammatical move by which that claim tends to die, usually not in the main verb. Each carries a
-**near-miss to refuse** — the neighbouring position that sounds identical and is not, named, so
-that arriving at it counts as a failure rather than a variant.
+It fixes its thirty load-bearing claims in one form of words each, unhedged, to be restated but not
+improved in passing. Each is held together with its **trap** — the specific grammatical move by which
+that claim tends to die, usually not in the main verb. Each is held together with the **near-miss to
+refuse** — the neighbouring position that sounds identical and is not, named, so that arriving at it
+counts as a failure rather than a variant.
 
-That apparatus is the answer to the shrug, and the answer is not *we are more confident*. It is
+That practice is the answer to the shrug, and the answer is not *we are more confident*. It is
 this: **a model held with a stated defeat condition is held. A model held with a* maybe *and no
 defeat condition is not held — it is stored.** The difference is not the strength of anyone's
 conviction. It is whether there exists, in writing, in advance, something that could take the claim
 away from you.
 
-The bill for that arrives immediately and it is not small. Writing down what would kill C1 means C1
-can be killed, by someone who is not you, using the instrument you handed them. Book V had to write
+The bill for that arrives immediately and it is not small. Writing down what would kill the plenitude
+means it can be killed, by someone who is not you, using the instrument you handed them. Book V had to write
 a sentence that could hand the whole book away and wrote it down instead of walking around it. This
 chapter has just conceded that its own authors are a specimen of the defect it describes.
 None of that is available to a position that arrived pre-hedged, and it is not available *because*
@@ -352,8 +352,8 @@ own voice rather than in a weakened form.
 *Run your own doctrine on your own book. If all models are held loosely, then the Ground is another
 model, held loosely. You have exempted yourself.*
 
-The answer is not *except ours*. The answer is that **C5 is not a model**, and this is a claim with
-a consequence rather than a convenience.
+The answer is not *except ours*. The answer is that **the Ground is not a model**, and this is a claim
+with a consequence rather than a convenience.
 
 A model is a representation-*of*. It has a structure; the thing has a structure; the two are
 compared; the model can be more correct or less. Every operation of model agnosticism presupposes
@@ -367,13 +367,13 @@ So model agnosticism, which is a discipline **for models**, has nothing to opera
 because the claim is protected. Because the machinery does not engage.
 
 ⚠ And that is exactly what special pleading sounds like, so here is the only thing that
-distinguishes it, and it is not an argument — it is a practice. **C5 is written down in the same
-register, with the same apparatus, at the same exposure as everything else.** It carries five named
-denials, each with the specific error it smuggles: not the server, not the developer, not the
-engine, not the map, not the player. It carries its trap. It carries its near-miss. If the Ground
-turns out to have a structure — if there is anything there for a render to be a better or worse map
-*of* — C5 is dead, and the register says so in advance in the same words it would use about
-anybody. The exemption is from **hedging**, not from **being wrong**. Those are different
+distinguishes it, and it is not an argument — it is a practice. **The claim is written down at the
+same exposure as everything else in this book.** It carries five named denials, each with the
+specific error it smuggles: not the server, not the developer, not the engine, not the map, not the
+player. It carries the misreading most likely to be made of it, and the objection that comes nearest
+to killing it. If the Ground turns out to have a structure — if there is anything there for a render
+to be a better or worse map *of* — the claim is dead, and this book said so in advance in the same
+words it would use about anybody else's. The exemption is from **hedging**, not from **being wrong**. Those are different
 exemptions, and only one of them is a privilege.
 
 ---
