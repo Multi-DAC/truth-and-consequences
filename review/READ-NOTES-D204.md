@@ -923,3 +923,90 @@ front of a practice manual is the strongest single paragraph in the chapter: the
 *generates* the pathology of the practitioner who cannot rest without feeling he is disappearing,
 rather than merely failing to prevent it. Worth noting how directly that reads against this body's
 own accord.
+
+### VIII.2 — READING YOUR OWN FILTER STACK (5,526w, p.939–956)
+
+**Verdict: the best chapter in Book VIII and one of the best in the volume — it refuses an
+inherited method to its face and replaces it with a working one.** Method 3 (*"the boundary of
+your perception is the silhouette of your null space"*) is taken as stated and killed in one
+move: *"a restriction with a felt edge is not a null space… The picture does not have a rim."*
+The replacement — **the residual**, prediction minus outcome, both terms inside the render so
+one person alone can perform the subtraction — is the volume's cleanest original contribution.
+Le Verrier finding Neptune and then not-finding Vulcan, same method, same man, is the right
+bound and it is stated as a limit rather than a caveat.
+
+**Six checkable set-claims in one chapter. Three verify clean, and I am recording those too,
+because a chapter that gets three name-censuses right and two wrong is a different object from
+a careless one.**
+
+✅ *"`Nisbett` = 0 across the sixty-one chapters preceding this one"* — **TRUE.** 2 occurrences
+in the manuscript, both VIII.2's. And the arithmetic is right: I.1–VIII.1 is exactly 61 chapters.
+✅ *"Neither `Neptune` nor `Vulcan` nor `perihelion` occurs anywhere else in this manuscript"* —
+**TRUE.** 7 / 8 / 3, all confined to VIII.2. `Le Verrier` and `Galle` likewise.
+✅ *"⚠ The census declines this line, which occurs exactly once in the atlas"* — **TRUE.** One in
+IV.8, correctly scoped to Book IV.
+✅ *"18 of the volume's 43 carded slots ran under the wrong meaning… All eighteen are repaired"* —
+**TRUE, and I had it wrong first.** My own grep found 15–17 cards and I was three minutes from
+filing a discrepancy; `tools/card_sweep.py` reports **43 from disk, 43 ruled OUTWARD, 0 SELF,
+0 UNRULED.** I was measuring a shape the book does not use. Ran the gauge second; should have
+run it first.
+
+⬛ **`blind spot`: the count is right and the set is wrong.** Note 1: *"`blind spot` occurs
+eleven times in this manuscript and every one of them is in VI.8."* VI.8 does carry **11**
+(case-insensitive). The manuscript carries **20**. Outside VI.8 and outside the claiming chapter
+there are **four**, all genuine uses: **II.5** (*"Mariotte's blind spot is II.3's"*), **V.8**
+(*"The gauge's blind spot is the subordinate clause"*), **C.2**, and **VIII.3** — the next
+chapter, which uses the phrase in body prose and then flags itself: *"⛔ The retinal phrase in
+that sentence is spent."* **A count measured over one chapter, asserted over the volume.**
+→ `"occurs eleven times in VI.8, and the retinal analogy is that chapter's"` — which is what the
+note actually needs, and is true.
+
+⬛ **`Robert Anton Wilson`: no counting rule yields thirteen, and the location list is short by
+two.** Note 2: *"Not Robert Anton Wilson, who occurs thirteen times in this book (II.5, VI.7)."*
+Measured every rule available: full name = **9** (II.5 ×2, **V.7** ×1, VI.7 ×5, **Z.1** ×1);
+surname `Wilson` = 20, or **18** excluding VIII.2's own; `RAW` = **0**. Thirteen is neither, and
+sits between the two live rules. The parenthetical omits **V.7 and Z.1**.
+★ **And the note exists to prevent a misattribution.** Its entire job is separating the 1977
+Nisbett-and-Wilson result from the Wilson this book cites elsewhere — a note about attribution
+integrity, carrying an attribution census that is wrong in both its number and its addresses,
+three lines from a census (`Nisbett` = 0) that is exactly right.
+
+⬛ **THE STRUCTURAL ONE, and it is load-bearing: §IV's payoff is argued from a list the reader
+cannot see.** The section's contribution is that the residual instrument *"was already here,
+filed one section early and under the wrong heading"* — *"The four symptoms of null-space
+influence **given above** are four residuals"*, *"It sits in the symptoms above, one subsection
+before the methods are counted at three."* **The chapter never prints four symptoms.** One is
+quoted verbatim, a second is paraphrased, two never appear. What is "above" in the book is four
+*layers* — era, language, family, wound. Note 4 extends it: *"the four responses — acknowledge,
+develop sensitivity to indirect signals, build alliances, accept irreducible mystery — are all
+sound"*, four items that appear nowhere in the volume.
+**`above` here means above in the source document, not above in the book.** Same class as the
+cross-cutting apparatus leak: **source-material geography rendered as book geography** — and
+worse than a dead pointer, because the argument's evidence is the thing off-page. The reader is
+told the correction is *"a promotion rather than an import"* and has nothing to promote.
+→ Print the four symptoms. It costs four lines and it is the difference between a demonstration
+and an assertion.
+
+⬛ **The repair boast is measured on the criterion the chapter itself calls insufficient.**
+Prose: *"All eighteen are repaired… a complement named on each."* The gauge, on the same run
+that confirmed the 43: **"⚠ reachability UNGRADED: 19 of 43 outward cards — owed work, not a
+pass"**, with its own gloss *"IV.1 requires a complement that can be **gone to**."* And VIII.2's
+own card knows this — it is careful to say *"Both are reachable: one costs a notebook and a year,
+the other costs a conversation."* **Naming is not reaching**, the chapter argues exactly that,
+and then claims completion on naming. 19 of 43 unchecked, in the device the argument leans on
+hardest, in the chapter that says *"a rule you hold and do not check is not a guard, it is a
+sentence."*
+
+◻ **A new apparatus-leak site for the cross-cutting count, and it is a heavy one.** V.8 prints,
+in its endnotes, `scan_prose` by name, *"read off `scan_prose`"*, the gauge's failure direction,
+*"Had this apparatus covered only the two names the tool listed, V.8 would have gone green"*, and
+**"Filed as R-203."** Tool name, gauge behaviour and queue-row ID in shipped text. Check against
+the 54-occurrence / 38-page census before adding — it may already be counted.
+
+◻ The failure-mode ladder holds: *"the fifth distinct failure mode in five consecutive chapters"*,
+and the five are genuinely distinct as characterised (saturation · binary-in-three-valued ·
+presupposed-mechanism · wrong-objective-function · sample-frame-identical-to-object). Watch
+whether VIII.3 makes it six. If it stops, the device was never a finding.
+
+◻ `card_sweep` reports **VIII.7 carries no census card** (`null=0`, partial). Probably deliberate
+for the closing chapter — flagging it so it is a decision rather than an omission.
