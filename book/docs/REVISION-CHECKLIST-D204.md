@@ -81,46 +81,56 @@ baked out of this file's own gauge before the file shipped.
 
 **Five rows. Four of them are one decision wearing four costumes: how much of the workshop ships.**
 
-- [ ] **R2-032** · volume-wide — **the apparatus leaks into shipped text: 54 occurrences on 38
+- [x] **R2-032** · volume-wide — **the apparatus leaks into shipped text: 54 occurrences on 38
       distinct printed pages of 1,076.** 23 apparatus-file pointers (II.5 p.78 cites `05` by
       filename), 14 local filesystem paths, 22 drafting-process phrases (p.408 prints a
       `named_cause ✅` audit line; p.279 *"Filed with R-143"*). Worst carrier is Book V's *note on
       grade*, a body-level memo to a maintainer in 6 of 11 chapters. Same class Clayton ruled on for
       the shadow-biome paper: *"let's remove any pointers to other files."*
-      `✓` ruling:Clayton — strip, or confine to the notes layer
+      `✓` **RULED D205, Clayton: STRIP.** *"It's a book, not a demonstration of book writing."*
+      PAID `d21149f`. Gauge: `tools/workshop_sweep.py`. ⚠ 27 sites REMAIN under a widened
+      pattern — the census below was taken with a regex that required a file extension and
+      missed every bare backticked apparatus number (`05`, `07`) and every
+      "planning document" / "the scaffold". The row's 54 was an undercount of its own class.
 
-- [ ] **R2-033** · volume-wide — **bare `feedback_*` memory slugs print inline in body register: 92
+- [x] **R2-033** · volume-wide — **bare `feedback_*` memory slugs print inline in body register: 92
       occurrences on 63 distinct pages, pp.328–979**, 36 distinct slugs. `compile_pdf.py:69–73`
       strips the `[[ ]]` brackets, so what was an obvious machine artefact now reads as a term of
       art. **89 of the 92 are Book V**; VII.3 `[^11]` is the only one outside it besides VIII.3's
       two. This is R-227, still open, still *a decision, not work*, trigger **before the upload**.
       ⚠ **Do not add 92 to 54.** Two censuses under two rules; the union is *at least 63 pages*,
       and recomputing it is part of the row.
-      `✓` ruling:Clayton — R-227, decision then uniform application
+      `✓` **RULED D205: STRIP.** PAID `ee46ef3`, 108 -> 0. ⚠ The row's 92 was also an
+      undercount: two tags in IV.6 are written with HYPHENS and no `feedback_` prefix, and
+      the first pattern built for this job missed them and printed a green.
 
-- [ ] **R2-034** · `V-01` `[^5]`, p.427 and 16 more — **where two tags are adjacent the strip welds
+- [x] **R2-034** · `V-01` `[^5]`, p.427 and 16 more — **where two tags are adjacent the strip welds
       them into a broken token.** Printed: `feedback_earliest_printing_is_not_best_textfeedback_on
       e_translator_two_texts↩↩`. The inter-tag space is eaten with the brackets. 17 adjacent pairs
       volume-wide, **16 in Book V.** Independent of R2-033's ruling: if the slugs stay, this is
       still corruption on the page.
-      `✓` manual:compile_pdf.py:69-73 must preserve the inter-tag space
+      `✓` **MOOT as of D205** — there are no tags left to weld. The compiler defect is real
+      and unrepaired; it is now unreachable from this volume, which is not the same thing.
 
-- [ ] **R2-035** · volume-wide — **38 distinct process-row IDs print 76 times across seven of the
+- [x] **R2-035** · volume-wide — **38 distinct process-row IDs print 76 times across seven of the
       eight books, and nothing defines any of them.** `ruling 177` ×15 across six books; `R-144` ×5;
       `R-216`, `R-220`, `ruling 179` in VII.3 alone. Not in `Z-01-glossary.md`, not in
       `Z-02-works-cited.md`. They read like a scholarly cross-reference apparatus, which is the
       problem. **New class** — it survived Books IV–VI because every instrument was looking for
       `[[wiki]]` and `feedback_*` and none for `R-\d+`.
-      `✓` ruling:Clayton — same decision as R2-032
+      `✓` **RULED D205: STRIP.** PAID `ee46ef3`, 75 -> 0. The pointer went, the claim stayed:
+      a note saying a thing was repaired still tells the reader something true.
 
-- [ ] **R2-036** · `VI-07` p.701 vs `VI-08` `[^9]` — VI.7 prints eleven corpus file-counts in body
+- [x] **R2-036** · `VI-07` p.701 vs `VI-08` `[^9]` — VI.7 prints eleven corpus file-counts in body
       prose (*"Search it for maybe logic and you get eleven files… Korzybski, two"*). One chapter
       later VI.8 rules exactly that off the page: *"deliberately kept off this page: a file count in
       somebody else's archive is a quantity no reader can obtain or check, which makes it **rhetoric
       wearing a number's clothes**."* The counts are VI.7's load-bearing evidence, so this is not
       cosmetic. **The book has to pick one.** VI.1's, VI.5's, VI.6's and VI.7's standing-note corpus
       figures are the same decision.
-      `✓` ruling:Clayton — VI.8's rule, or VI.7's beat in a checkable form
+      `✓` **RULED D205: VI.8's RULE WINS.** PAID `d21149f`. VI.7's beat was rebuilt rather than
+      cut — the specimen moved from the research archive to the authors, which is a form the
+      reader can check from the volume. VI.4-VI.7's corpus-support notes went the same way.
 
 ---
 
