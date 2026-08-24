@@ -1099,3 +1099,62 @@ signal to the reader that they are different registers.
 
 ◻ 76 `ruling NNN` / `R-NNN` process IDs across 27 chapters — confirms the 76 already on file, now
 with the chapter distribution. VIII.3 carries one (`ruling 177`), VIII.5 one.
+
+### VIII.4 — HOLDING IT OPEN (4,357w, p.980–993)
+
+**Verdict: the cleanest chapter in the volume on the measure this read has been applying, and the
+most useful one on the measure the book cares about.** Seven checkable claims, **seven verified**.
+I am recording that at the top because four chapters of findings would otherwise misrepresent what
+is on the page.
+
+✅ **All six name-censuses TRUE**, each confined to VIII.4: `Buridan` (3) · `Kruglanski` (2) ·
+`need for closure` (3) · `seizing` (3) · `Keats` (5) · `negative capability` (2). Zero occurrences
+anywhere else in 1,076 pages. VIII.2 got two of these wrong; VIII.4 got six right.
+✅ **The temporal claim TRUE, and it needed git to settle.** Note 6: *"`the Coherence Principle`…
+had occurred **ZERO** times in sixty-three drafted chapters when this one was written."* It now
+occurs twice — VIII.4 and **VIII.7**. Draft order: VIII.4 `d8f0237` **2026-08-10 13:22**, VIII.7
+`e9b6c4d` **14:28**, and 14:28 is when the phrase entered VIII.7. **The second occurrence arrived
+sixty-six minutes after the claim, which is exactly what note 6 predicts** (*"The full statement is
+VIII.7's and is not taken here"*). A claim that reads false against the current text and is true
+as written.
+✅ **Endnote markers run 1–8 in order.** Zero inversions — the direct contrast with VIII.3's
+`1, 8, 2, 3, 4, 7, 5, 6`, which makes VIII.3's a chapter-local defect rather than a house style.
+
+**The substance.** The definition is the contribution: *"A matter is open when more than one way it
+could go is still live"* — not a report about you — with three necessary settling conditions
+(contact · could-have-come-out-otherwise · landing), and the diagnostic that falls out of them:
+*"That matter is not open. It is closed, and being mourned."* The cost model refuses the intuitive
+one on the book's own premises — *"There is no runtime… Undecided time is not the world pausing on
+your account"* — so the entire bill is a standing allocation of attention, *"per open matter, per
+day, whether or not it is being worked on."*
+
+★ **The best move in the chapter is the refusal of Buridan's ass.** *"Real indecision is
+essentially never symmetric… the paralysis is not caused by a tie; it is caused by the difference
+being small enough that closing would require accepting a loss you can name."* Which converts the
+question from *which is better* to ***what am I refusing to give up*** — and then collapses both
+failure modes onto one dial whose *"real name is tolerance for a nameable loss."* That the same
+person collapses early on a career and holds a relationship open for nine years, and that this is
+**not** inconsistency, is the sharpest psychological observation in the volume.
+
+★ And the reason the chapter ends by asking the reader which failure is theirs is argued, not
+gestured: *"A practice chapter that hands out symmetric advice to an asymmetric readership is not
+being balanced; it is being useless in exactly half the cases."* Every instruction in the chapter
+is explicitly marked double-edged. **This is the one chapter in Book VIII whose closing move is a
+structural consequence of its own content rather than a summary of it.**
+
+✅ The failure-mode ladder makes **seven**, and it is again a new kind — *"the first that fails on
+resolution rather than on coverage or on aim… accurate about a different-sized object than the one
+in front of you."* *Asking it about Thursday is asking a climate record what to wear* is the best
+line in the ladder.
+
+◻ **Five more apparatus-file pointers for the leak census, on two pages.** Notes 1 and 2 open
+`` `07` **C25** `` and `` `07` **C1** ``; note 6 reads *"it is used in `03`, `04` and `06`"*.
+Filenames of the planning apparatus, backticked, in shipped endnotes on p.991–992. Same category
+as II.5's `05` — feeding the recount, not a new finding.
+
+◻ Note 6 records a defect worth keeping in view for VIII.7: the Coherence Principle *"is the
+planning apparatus's name for the book's most-repeated structural claim… The claim is everywhere in
+the prose and its name is nowhere, which is a different defect from a claim that went missing and
+is easier to miss: **nothing is absent, so nothing reads as absent.**" That is a null-space defect
+described exactly, in a book about null spaces, about itself. **Check in VIII.7 whether the full
+statement it defers is actually delivered there.**
