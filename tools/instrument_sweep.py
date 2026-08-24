@@ -61,33 +61,33 @@ BINDS_FROM = ("VII", 3)
 # ---------------------------------------------------------------------------
 VERSIONS = {
     "v1": [
-        ("sees", r"\*\*SEES:?\*\*"),
-        ("null", r"\*\*NULL SPACE:?\*\*"),
-        ("compl", r"\*\*COMPLEMENTS:?\*\*"),
-        ("bound", r"\*\*BOUNDARY:?\*\*"),
-        ("navig", r"\*\*NAVIGATIONAL IMPLICATION:?\*\*"),
+        ("sees", r"\*\*SEES:\*\*"),
+        ("null", r"\*\*NULL SPACE:\*\*"),
+        ("compl", r"\*\*COMPLEMENTS:\*\*"),
+        ("bound", r"\*\*BOUNDARY:\*\*"),
+        ("navig", r"\*\*NAVIGATIONAL IMPLICATION:\*\*"),
     ],
     # IV.9's fork — found by this tool on the day the register was written, and the reason
     # the register's "Book IV never moved" claim had to be withdrawn. A contour, not an
     # entity: four of v1's five fields are absent and `What would make this wrong` is a
     # field that occurs nowhere else in the book.
     "v1b": [
-        ("shape", r"\*\*SHAPE:?\*\*"),
-        ("where", r"\*\*WHERE IT SHOWS:?\*\*"),
-        ("isnot", r"\*\*WHAT IT IS NOT:?\*\*"),
-        ("navig", r"\*\*NAVIGATIONAL IMPLICATION:?\*\*"),
-        ("wrong", r"\*\*What would make this wrong:?\*\*"),
+        ("shape", r"\*\*SHAPE:\*\*"),
+        ("where", r"\*\*WHERE IT SHOWS:\*\*"),
+        ("isnot", r"\*\*WHAT IT IS NOT:\*\*"),
+        ("navig", r"\*\*NAVIGATIONAL IMPLICATION:\*\*"),
+        ("wrong", r"\*\*What would make this wrong:\*\*"),
     ],
     "v2": [
         ("whose", r"\*\*(?:Whose|Era):\*\*"),
-        ("compl", r"\*\*Complement[^*]{0,60}?:?\*\*"),
-        ("null", r"\*\*Null space:?\*\*"),
+        ("compl", r"\*\*Complement[^*]{0,60}?:\*\*"),
+        ("null", r"\*\*Null space:\*\*"),
         # `Mechanism of the exclusion` (VI.4) OR the shortened `Mechanism` (VI.5+). Both
         # matched so the field is SEEN; which one is reported by --mech-label below,
         # because the shortening is itself the defect and a gauge that folds them together
         # is the gauge that missed it.
-        ("mech", r"\*\*Mechanism(?: of the exclusion)?:?\*\*"),
-        ("navig", r"\*\*Navigational implication:?\*\*"),
+        ("mech", r"\*\*Mechanism(?: of the exclusion)?:\*\*"),
+        ("navig", r"\*\*Navigational implication:\*\*"),
     ],
     "v3": [
         ("compl", r"\*What it renders superbly[^*]{0,80}?\*"),
@@ -193,11 +193,17 @@ def detect_cards(lines: list[str]) -> list[tuple[str, list[str], int]]:
                     hits.append((i, field))
         if len({f for _, f in hits}) < MIN_FIELDS:
             continue
+        # The version's OPENING label, derived from its own field order rather than
+        # named here — see the Day 205 note below for what naming it cost.
+        opener = fields[0][0]
+        opens = sorted(i for i, f in hits if f == opener)
         used = -1
         for idx, (start, _) in enumerate(hits):
             if start <= used:
                 continue
-            near = {f for i, f in hits if start <= i < start + WINDOW}
+            nxt = next((i for i in opens if i > start), None)
+            stop = start + WINDOW if nxt is None else min(start + WINDOW, nxt)
+            near = {f for i, f in hits if start <= i < stop}
             if len(near) >= MIN_FIELDS:
                 # ⛔ DAY 191: THE WINDOW WAS REPORTING A PRESENT FIELD AS ABSENT.
                 # VIII.3's card runs 276→323 — 47 lines, because its mechanism field
@@ -213,15 +219,35 @@ def detect_cards(lines: list[str]) -> list[tuple[str, list[str], int]]:
                 # labels are there with no new `Whose:` between, count them and SAY
                 # the span was long. The card is reported complete; the length is
                 # reported as a fact rather than as a missing field.
-                far = {f for i, f in hits if start + WINDOW <= i < start + 2 * WINDOW}
+                # ⛔ DAY 205: THE GUARD ABOVE WAS WRITTEN AGAINST ONE VERSION'S
+                # OPENING LABEL, AND IT COST A CARD. `Whose:` opens a v2/v3 card; a
+                # v1 card opens with `SEES:`. So across every v1 card the reopen test
+                # could not fire, the far-window rescue swallowed the NEXT card whole,
+                # and the fixed 40-line `near` spilled forward and stole that card's
+                # first two labels besides. IV.5 prints three cards; this reported two,
+                # the second of them short by `sees` and `null`. The third card's
+                # complement field was plainly visible to complement_referent.py and
+                # invisible here — which is how **43** and **44** came to be printed on
+                # facing lines of C.2, each with a live instrument behind it.
+                # The repair is not a longer vocabulary list. A card ENDS where the
+                # next card OPENS, so both windows are now capped at the next opener,
+                # and the opener is read off the version's own field order. A far
+                # window that repeats a label `near` already holds is a second card,
+                # not a long first one. Nothing here names a field, so a version this
+                # file has not met yet inherits the guard instead of defeating it.
+                far_stop = (start + 2 * WINDOW if nxt is None
+                            else min(start + 2 * WINDOW, nxt))
+                far = {f for i, f in hits if stop <= i < far_stop}
                 extra = far - near
+                absorbed = False
                 if extra:
                     reopen = [i for i, f in hits
-                              if f == "whose" and start < i < start + 2 * WINDOW]
+                              if stop <= i < far_stop and (f in near or f == opener)]
                     if not reopen:
                         near = near | extra
+                        absorbed = True
                 out.append((name, sorted(near), start + 1))
-                used = start + 2 * WINDOW - 1 if extra and not reopen else start + WINDOW - 1
+                used = (far_stop if absorbed else stop) - 1
     # A block can match two versions (v2 is a subset of v3-canon's vocabulary in places);
     # keep the richest match per line region, preferring the more specific version.
     out.sort(key=lambda t: (t[2], -len(t[1])))

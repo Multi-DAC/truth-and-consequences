@@ -212,8 +212,9 @@ cannot end in *use a better scale*. Suffering, described in full, is high-dimens
 incommunicable — that is the condition the scale was invented to defeat. Every dimension it discards
 buys a unit of transmissibility. **A scale that preserved the structure would preserve the problem it
 was built to solve.** ★ The eighth mode the census keeps separate, and the first in which the
-exclusion is not a defect at all but the operating principle: the previous seven fail at seeing, at
-aim, at objective, at frame, at the loop, at resolution. This one **succeeds**, and the success is
+exclusion is not a defect at all but the operating principle: of the previous seven, three fail at
+seeing — by saturation, by the wrong number of values, by a presupposed mechanism — and the other
+four fail at aim, at frame, at the loop, and at resolution. This one **succeeds**, and the success is
 the deletion. There is no improved version, and a practitioner who reaches for one has misunderstood
 what the number was for.
 

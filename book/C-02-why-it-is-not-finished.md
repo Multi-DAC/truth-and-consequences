@@ -218,9 +218,20 @@ The passage is quoted at length rather than paraphrased because the debt it file
 chapter settles, and a paraphrase would let the settlement be graded against a friendlier version of
 the bill than the one actually written.
 
-[^2]: The 18-of-44 figure is measured, not recalled: v2 (3) + v3 (2) +
-v3-canon (13). The 24 v1 cards are clean and `IV.9`'s two v1b cards have no complement field at all,
-which is a different problem and is recorded separately.
+[^2]: The 18-of-43 figure is measured, not recalled: every card from `VI.4` to the end of the
+volume that carries the field — sixteen in the second form, two in the third. The 25 earlier cards
+are clean and `IV.9`'s two carry no complement field at all, which is a different problem and is
+recorded separately. 25 + 18 = 43 fields, in 45 cards. ⚠ **This note carried a different
+denominator from the sentence above it — *44* against *43* — and the mismatch was not a typing
+slip: each number had a working count behind it.** One counted cards, the other counted the fields
+inside them, and the first was short. It treated a card as ending a fixed number of lines after it
+began, and when a card ran longer it looked further on and absorbed whatever it found there —
+guarded by a test for the label that opens the *later* form of the card, so on every card in the
+earlier form the guard could not fire. `IV.5` prints three cards; that count reported two, the
+second of them missing two lines it plainly has. **A measure that reads a second card as the tail
+of the first** — inside the very episode whose subject is a field that kept its name and changed
+what it held. Both counts were repaired the day this was written and now agree at 43, chapter by
+chapter, which is why the figure appears twice on this page and is the same figure twice.
 
 [^3]: ⚠ This section is deliberately not a summary, and the reason is `VIII.7`'s: a summary at the end
 of a book about a live ground performs exactly the closure the chapter above argues is impossible. The

@@ -395,11 +395,11 @@ better than their cosmologies deserve, is editing.
 and let somebody else read it"* — is Method 1 delivered in operational form, with its
 defeat condition and its ceiling both stated there. It is referenced rather than reproduced here
 because a practice volume that re-issues a procedure already given in the metaphysics volume has
-taught the reader that its cross-references are decorative. ⚠ `blind spot` occurs eleven times in this
-manuscript and every one of them is in VI.8; the phrase and the retinal analogy are that chapter's and
-are deliberately not used in this one, which is about a structure the retinal analogy actively
-misdescribes — the visual blind spot is *filled in*, which is the one property a null space does not
-have, since filling-in presupposes a surrounding picture to interpolate from.
+taught the reader that its cross-references are decorative. ⚠ `blind spot` occurs eleven times in
+VI.8. The retinal analogy behind the phrase is that chapter's, and it is not taken up here, because
+this chapter is about a structure the analogy actively misdescribes — the visual blind spot is
+*filled in*, which is the one property a null space does not have, since filling-in presupposes a
+surrounding picture to interpolate from.
 
 [^2]: Richard Nisbett and Timothy D. Wilson, *Telling More Than We Can Know: Verbal Reports on Mental
 Processes* (1977), the experimental result that people asked why they chose as they did produce
@@ -407,8 +407,9 @@ confident causal accounts uncorrelated with the manipulations that actually drov
 the load-bearing detail, produce them **in the same voice** as accurate reports about the contents of
 experience. ★ `Nisbett` = **0** across the sixty-one chapters preceding this one: the manuscript has
 argued the render's opacity to itself since Book II and never named the people who measured it. ⚠ Not
-**Robert Anton** Wilson, who occurs thirteen times in this book (II.5, VI.7) and is a different man
-with a different claim; full names are used here for that reason. The empirical dispute about the
+**Robert Anton** Wilson, who is a different man with a different claim, and whose full name — the
+rule this count uses, because the bare surname would pool the two men and is the reason full names
+are used here at all — appears eight times elsewhere in the volume: II.5, V.7, VI.7 and Z.1. The empirical dispute about the
 scope of the 1977 result is real and this chapter does not need its strong reading — the card's
 claim is **structural**, and would hold if every subject in every such study had been accurate, since
 it is about what an operation can sample rather than about how often it errs.

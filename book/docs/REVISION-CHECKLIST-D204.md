@@ -216,14 +216,20 @@ baked out of this file's own gauge before the file shipped.
 
 **Nine rows. Each is a number a reader could check and would find false.**
 
-- [ ] **R2-047** · `VIII-02` `[^1]` — *"`blind spot` occurs eleven times in this manuscript and every
+- [x] **R2-047** · `VIII-02` `[^1]` — *"`blind spot` occurs eleven times in this manuscript and every
       one of them is in VI.8."* VI.8 does carry 11. **The manuscript carries 20.** Four genuine uses
       outside it: II.5, V.8, C.2 and VIII.3. **A count measured over one chapter, asserted over the
       volume.** VIII.3 `[^6]` states the same fact correctly one chapter later.
       `→` *"occurs eleven times in VI.8, and the retinal analogy is that chapter's."*
       `✓` absent:VIII-02:occurs eleven times in this manuscript
+      **PAID D205.** Measured: 20 in the manuscript, 11 in VI.8, 9 elsewhere (II.5, V.8, C.2,
+      VIII.3, and this chapter). The note now scopes the count to VI.8 and says nothing about the
+      volume. ⚠ **A second falsity in the same sentence went with it and was not on this row:** the
+      note also claimed the phrase was *"deliberately not used in this one"* — VIII.2's own body
+      uses it three times. The clause now claims only what is true, that the retinal *analogy* is
+      not taken up here.
 
-- [ ] **R2-048** · `VIII-02` `[^2]` — *"Not Robert Anton Wilson, who occurs thirteen times in this
+- [x] **R2-048** · `VIII-02` `[^2]` — *"Not Robert Anton Wilson, who occurs thirteen times in this
       book (II.5, VI.7)."* No counting rule yields thirteen: full name = **9** (II.5 ×2, V.7, VI.7
       ×5, Z.1), surname `Wilson` = 20 or 18 excluding this note, `RAW` = 0. The parenthetical omits
       **V.7 and Z.1**. ★ **The note exists to prevent a misattribution** — separating the 1977
@@ -232,15 +238,24 @@ baked out of this file's own gauge before the file shipped.
       exactly right.
       `→` Pick a rule, state it, fix the addresses.
       `✓` absent:VIII-02:who occurs thirteen times in this book
+      **PAID D205.** Rule stated on the page: the full name, because the bare surname pools the two
+      men and pooling them is what the note exists to prevent. Measured **8** — II.5 ×2, V.7, VI.7
+      ×4, Z.1 — so the addresses gain V.7 and Z.1 as the row said, and the count is one lower than
+      the row itself predicted. ⚠ **This row's own figure of 9 was wrong** (it recorded VI.7 ×5).
+      A row that files a count defect is not exempt from it.
 
-- [ ] **R2-049** · `VIII-05` — *"the previous seven fail at seeing, at aim, at objective, at frame,
+- [x] **R2-049** · `VIII-05` — *"the previous seven fail at seeing, at aim, at objective, at frame,
       at the loop, at resolution."* **Six labels for seven modes.** `objective`=VIII.1,
       `frame`=VIII.2, `the loop`=VIII.3, `resolution`=VIII.4 — leaving `seeing` and `aim` to carry
       three (VII.7 saturation, VII.8 binary-in-three-valued, VII.9 presupposed-mechanism). VIII.3
       does the same enumeration correctly with five for five.
       `✓` absent:VIII-05:at the loop, at resolution
+      **PAID D205.** The seven now partition as the book's own running census does: three fail at
+      seeing (VII.7 saturation, VII.8 binary-in-three-valued, VII.9 presupposed mechanism), then
+      aim (VIII.1), frame (VIII.2), the loop (VIII.3), resolution (VIII.4). `objective` is gone as
+      a label because it named the same failure as `aim`, which is how six came to stand for seven.
 
-- [ ] **R2-050** · `VIII-03` `[^3]` — the chapter discloses its own marker defect as *"`[^7]` appears
+- [x] **R2-050** · `VIII-03` `[^3]` — the chapter discloses its own marker defect as *"`[^7]` appears
       before `[^5]` and `[^6]`"* = **2 inversions.** Measured body order: **`1, 8, 2, 3, 4, 7, 5,
       6`** = **8 inversions.** Marker 8 is the *second* endnote reference in the chapter, jumping
       the queue over six others, and the disclosure does not mention it. **This is not tidiness:**
@@ -250,6 +265,16 @@ baked out of this file's own gauge before the file shipped.
       of a quarter of the problem.**
       `→` Re-measure, then re-take the decision.
       `✓` absent:VIII-03:[^7] appears before [^5] and [^6]
+      **PAID D205 — RE-MEASURED AND THE DECISION RE-TAKEN, NOT RE-DEFERRED.** The note now prints
+      the measured order `1, 8, 2, 3, 4, 7, 5, 6` and the true count of **8**, and names [^8] as
+      the marker that jumps furthest — the one the old disclosure omitted entirely. The deferral
+      itself changed: its stated reason was that renumbering *"would scramble live references"*, and
+      the references that would scramble are the revision apparatus, not anything a reader holds.
+      That reason is withdrawn. The repair is handed to **R2-072**, which owns all eleven such
+      chapters, instead of sitting in a note as a permanent exemption.
+      ⚠ The corrected note does NOT quote the old sentence verbatim, deliberately: the anchor above
+      is a substring test and cannot tell a use from a mention, so quoting the defect would have
+      held this row red forever.
 
 - [x] **R2-051** · `C-01` §IV — *"At this printing it carries **205 open rows**."* That is
       `tools/queue_state.py`'s figure for **the retired queue**, whose own header says it *"is not
@@ -264,13 +289,25 @@ baked out of this file's own gauge before the file shipped.
       anchor string is absent because the whole section is absent, which is a different fact from
       the number having been re-measured. Recorded so the tick is not read as the repair it is not.
 
-- [ ] **R2-052** · `C-02` §IV + `[^2]` — the section about a mis-specified instrument field
+- [x] **R2-052** · `C-02` §IV + `[^2]` — the section about a mis-specified instrument field
       mis-states its own denominator twice, differently. Body: *"18 of the **43** cards."* Note 2,
-      one paragraph below: *"The 18-of-**44** figure is measured by `tools/instrument_sweep.py`, not
-      recalled."* The tool measures **42** carrying the field (44 total; IV.9's two v1b cards have
-      no such field and IV.9 says so on the page). **Numerator right, three denominators, adjacent
-      lines.**
-      `✓` absent:C-02:18 of the 43 cards
+      one paragraph below: *"The 18-of-**44** figure is measured … not recalled."*
+      **Numerator right, two denominators, adjacent lines — and BOTH were measured.**
+      ⚠ **THIS ROW WAS WRONG ABOUT WHICH NUMBER WAS WRONG.** It ruled that the card sweep "measures
+      42" and that the body's 43 was therefore also false. Re-measured D205 against the running
+      code: **43 is correct and 44 was the defect**, and the reason the two instruments disagreed
+      is a recall hole in the card sweep, not an arithmetic slip on the page.
+      **PAID D205, and the instrument was the larger repair.** The sweep bounded a card at a fixed
+      40 lines and, when a card ran longer, absorbed the *next* card's labels — guarded by a test
+      for `Whose:`, which opens a v2 card. No v1 card opens with `Whose:`, so for 25 of the volume's
+      45 cards the guard was structurally dead. IV.5 prints three cards; the sweep saw two, the
+      second short by `SEES` and `NULL SPACE`. Repaired by deriving the opener from each version's
+      own field order and capping both windows at the next opener; and the field patterns now
+      require the colon, which is what distinguishes a card's label from IV.1's prose *naming* the
+      labels. **Cross-check: the two instruments now agree at 43, chapter by chapter, 0 mismatches.**
+      True totals: **45 cards, 43 carrying the field, 25 clean + 18 that ran under the wrong
+      meaning, 2 with no such field.** Body kept; note corrected to 43 and given the breakdown.
+      `✓` absent:C-02:18-of-44
 
 - [ ] **R2-053** · `Z-02` — printed **245 / 123 / 122 / 149**; `tools/bibliography.py` run tonight
       says **251 / 124 / 127 / 150**. Git settles the timing: the page was generated `83865b9`
