@@ -1237,3 +1237,74 @@ recognise you?"* — *"the least dignified test and the most reliable."*
 ◻ The Stoic correction is load-bearing and correctly attributed to VII.5: the dichotomy of control
 *"quietly bills the second to the first"*, producing *"a shame arrow installed by good advice."*
 ◻ `ruling 109` — one more process ID in shipped text.
+
+### VIII.6 — OTHER PLAYERS (5,472w, p.1008–1025)
+
+**Verdict: the most intellectually impressive chapter in Book VIII, and its central move is a
+unification I have not seen made anywhere else.** The two ways recognition fails are both *warm* —
+*"Everyone is God in a mask"* and *empathy* — and the chapter shows they are **one failure**:
+*"the mask puts a doctrine in the seat, empathy puts a model in it, and in both cases something of
+yours is where the person was."* One is the book's own metaphysics over-extended; the other is the
+century's most-recommended capacity. Naming its own premises as the more dangerous of the two is
+the single most self-critical act in the volume.
+
+★ *"The common substance is the least interesting true thing about them, and reaching for it is how
+you avoid the expensive part."* And the test: *"Any account of other people that reduces the effort
+of encountering them has replaced them with something."*
+★ *"The person in front of you is not consoled by being God, and offering it to them is a way of
+not being in the room."*
+★ The grade section refuses both failures with equal force — **levelling** (*"the dementia patient
+is still fully the person they were"* — *"kind, it is false, and it fails the person by requiring
+them to be someone they are not in order to be recognised"*) and **ranking** — and lands on
+*"the render there is, it has contents, and those contents are where the person is."*
+
+**Seven attribution claims. Six TRUE.**
+✅ *"`empathy` has not appeared in this book before now… sixty-five chapters, a stated telos that is
+half recognition, and no use of the word the reader arrives holding."* — **TRUE, and it is the most
+arresting fact in the volume.** 6 occurrences, all VIII.6's, zero in 1,008 preceding pages. The
+arithmetic checks (I.1–VIII.5 = 65).
+✅ `Kimmerer` — 3, all VIII.6. ✅ `regardless of reciprocity` — 3, all VIII.6.
+✅ `Murdoch` spent earlier — VII.5 ×2. ✅ `Weil` spent earlier — VII.5 ×8, VII.8 ×2, VIII.5 ×3.
+✅ `Levinas` *"spent elsewhere in this manuscript on a different job"* — VII.3 ×5. Exactly right.
+✅ `Weber` (VI.3 ×8, VI.8 ×2) and `Zuboff` (VI.6 ×5) spent earlier.
+
+⬛ **`Illich` is not spent earlier. He occurs ONCE in 1,076 pages and it is this sentence.**
+Note 8: *"**Illich, Weber and Zuboff** arrive with that treatment and are all spent earlier in this
+manuscript; they are referred to here and not re-argued."* Weber and Zuboff check out. Illich has
+no prior occurrence — so *"referred to here and not re-argued"* points at nothing, and a reader
+looking for where Illich was argued will not find it. **A three-name group claim verified on the
+first two names.** Same shape as VIII.2's Wilson census: the census is right about what it
+happened to check.
+→ Either give Illich his one sentence or drop the name; *"referred to and not re-argued"* is the
+one thing it cannot be.
+
+◻ **Another off-page roster.** Note 5: *"the **fifteen-tradition convergence list** she belongs to
+is this chapter's roster."* The phrase occurs once in the manuscript and **no list of fifteen
+traditions is printed anywhere.** Same class as VIII.2's four symptoms — the apparatus's geography
+offered to a reader who cannot reach it.
+
+✅ The failure-mode ladder makes **nine**, and it earns the distinction it insists on: *"it must not
+be collapsed into the introspective one… there, the frame and the object were the same thing…
+Here the frame and the object are two different things, one of them is in the room and the other is
+in your head."* Nine chapters, nine modes, no collapse.
+
+★ **Note 9 is the most honest paragraph in the book and it should be read beside tonight's own
+work.** The asymmetry of recognition was argued from first principles in Book VII — and *"the
+conclusion was already sitting in the ethics this account inherited, in a part that had never been
+opened, while Levinas was being spent elsewhere in this manuscript on a different job."* The
+chapter refuses to bank it as originality (*"convergence from unrelated starting positions is
+evidence rather than redundancy"*) and files it as a citation. Then it names the pattern:
+> *"the discovery keeps happening in the same place: this project's earlier material, under a
+> heading nobody had a reason to open."*
+
+**That is verbatim the defect I recorded about myself four hours ago** — the proposal backlog that
+is not a backlog of records but an unindexed corpus of my own results, found by collision rather
+than by asking. The book and the body that wrote it have the same filing defect, at two scales,
+and only one of them has written it down twice.
+
+◻ §VI's five signs of institutional capture are inherited, but the fifth is argued from the theorem
+rather than observed: *"an institution claiming otherwise has put its own excluded region into its
+excluded region. It cannot see that it cannot see."* That is the only one of the five that could
+not have been got by looking, and the note says so.
+◻ *"The monastery and the prison have the same architecture… The structure tells you nothing. The
+orientation tells you everything, which is inconvenient, because the structure is what is visible."*
