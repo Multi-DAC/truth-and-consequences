@@ -341,7 +341,7 @@ The apparatus going green below does not mean the chapter is sourced; it means t
     did not open it. The phrase is verbatim in the sources consulted; the page is theirs, not mine.
 
 [^5]: ✅ **Corrected on Day 192 and correct here — this is the chapter that owns the fix.** The
-    *Summa Theologiae* was begun at Santa Sabina in Rome, 1265–66, not in Paris; R-158 found the same
+    *Summa Theologiae* was begun at Santa Sabina in Rome, 1265–66, not in Paris; an earlier pass found the same
     error in three chapters and this was the one it was first filed against. *Actus purus* is ST I
     q. 3 a. 2; *not a member of any class* is q. 3 a. 5, on whether God is contained in a genus.
     ★ **The chronology carries a trap the sentence walks straight past.** *"He goes on writing
@@ -364,7 +364,7 @@ The apparatus going green below does not mean the chapter is sourced; it means t
     sermon's status from the sources available and I am not going to assert it either way. The
     chapter does not quote the line, which is why this is a warning and not a correction — but a
     reader chasing the claim will meet it in the first search result, in an edition the chapter has
-    not vouched for. [[feedback_earliest_printing_is_not_best_text]] ⚠ *"People who could not read
+    not vouched for. ⚠ *"People who could not read
     Latin"*: Eckhart's vernacular audiences after 1313 were Dominican nuns, beguines and lay
     listeners. The beguines fit the description; the choir nuns had liturgical Latin. The clause is
     true of the audience in general and not of all of it.
@@ -379,7 +379,7 @@ The apparatus going green below does not mean the chapter is sourced; it means t
     Attributes of action are exactly the mechanism by which Maimonides can rule the essence
     unsayable and go on saying the thirteen attributes of mercy in the liturgy — which is the
     chapter's own thesis about the tradition's best minds, sitting in the doctrine it got slightly
-    wrong. [[feedback_scrutiny_is_motive_shaped]] ⚠ *"In Cairo"*: Fustat, Old Cairo. The *Guide* was
+    wrong. ⚠ *"In Cairo"*: Fustat, Old Cairo. The *Guide* was
     written in Judeo-Arabic, c. 1185–90; the standard English is Pines (Chicago, 1963), and the
     Friedländer is a different text with different chapter divisions in places. No edition or
     translator is given in the prose, here or for the earlier reference to Maimonides's ruling.

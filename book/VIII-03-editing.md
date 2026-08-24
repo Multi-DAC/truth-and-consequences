@@ -538,7 +538,7 @@ beneath the level at which consent could be given.
 
 [^8]: ⛔ **THE EVIDENCE LINE READ *"convergent reports across contemplative traditions, some
     classified research programmes, and a theoretical framework that predicts it"* UNTIL DAY 195.**
-    Repaired under ruling 177. **It was unfalsifiable by construction, unmarked by grade, and it is
+    Repaired. **It was unfalsifiable by construction, unmarked by grade, and it is
     the exact register II.8's ban list exists to keep out** — in the volume about practice, in a book
     whose subject is evidence-grading. ★ *"Some classified research programmes"* is the worst clause
     in the manuscript: it cites evidence **whose inaccessibility is the reason it cannot be checked**,
@@ -548,4 +548,3 @@ beneath the level at which consent could be given.
     cut. ⚠ **The empty practice line beside it was always honest and is untouched**, which is the
     contrast that makes the defect legible: the same entry could print *none prescribable* without
     flinching and could not bring itself to print *nothing here confirms it.*
-    [[feedback_evidence_grade_distinction]] · [[feedback_audit_the_last_clause]]

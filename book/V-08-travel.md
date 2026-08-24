@@ -269,7 +269,7 @@ The next chapter runs it on a case where every one of those is false.
     to the ten-chapter count in [^1]. ⚠ **Do not read this as V.1 endorsing the present chapter's
     grade.** V.1's *travellers* are the traditions' own metaphysicians who told the reader to leave;
     this chapter's travellers are practitioners who report going somewhere and coming back. The word
-    is the same and the referent is not, and the two are being deliberately rhymed. R-191 is the
+    is the same and the referent is not, and the two are being deliberately rhymed. This is the
     filed instance of a field keeping its name and swapping its referent; this one is intentional,
     which is why it is noted rather than fixed.
 
@@ -294,7 +294,7 @@ The next chapter runs it on a case where every one of those is false.
     whose … , called the drumming"* — a relative clause twenty words long between the name and its
     verb. **The gauge's blind spot is the subordinate clause, and it fails toward reporting less debt
     than exists.** Had this apparatus covered only the two names the tool listed, V.8 would have gone
-    green with a cited source uncited. Filed as R-203.
+    green with a cited source uncited.
 
 [^8]: ★ **The term is Harner's; the research under it is not, and the chapter should not be read as
     crediting him with the mechanism.** Harner popularised *sonic driving*, but the entrainment
@@ -317,7 +317,7 @@ The next chapter runs it on a case where every one of those is false.
     rather than preceding it. So the standard citation order runs backwards from the usual
     assumption. **The sentence stands as written**, because *assembled* is the verb and 1951 is the
     date of assembly — but any later chapter that quotes *Shamanism* must name which of the three
-    texts it means. Same shape as IV.8's translator finding (R-187).
+    texts it means. Same shape as IV.8's translator finding.
 
 [^10]: ✅ **The attacks are real, named, and the chapter's concession is the right size.** The
     flattening charge is made at book length by **Alice Kehoe**, *Shamans and Religion* (2000), and
@@ -341,12 +341,12 @@ The next chapter runs it on a case where every one of those is false.
 
 [^12]: ⚠ **The characterisation of V.6 is fair, but V.6 is a chapter with a filed crediting
     defect.** V.6 does read the Tree as a map of settledness with the upper triad nearest the
-    undifferentiated, so this chapter is describing it accurately. ⛔ **The caution is that R-189
+    undifferentiated, so this chapter is describing it accurately. ⛔ **The caution is that an earlier pass
     found V.6 crediting V.1 with a thesis V.1 does not contain**, and V.6's [^11] and [^14] are the
     four still-unanchored quoted spans in the whole Book V apparatus. A chapter that leans on V.6
     inherits whatever is still wrong in V.6. **Nothing this chapter takes from V.6 is among the
     defective material** — the settledness reading is V.6's own and is sound — but the dependency is
-    recorded so that a later repair to V.6 has a list of its citers. R-192 is the standing finding
+    recorded so that a later repair to V.6 has a list of its citers. The standing finding is
     that corrections do not reach the citers; this note is the hand for it.
 
 [^13]: ✅ **The claim is true and the chapter was under-selling it — here are the numbers.** The rate
@@ -390,7 +390,7 @@ The next chapter runs it on a case where every one of those is false.
     was assumed to have no instrument because no instrument had reached me. Third, and worst, **the
     grade did not depend on it.** The entrainment mechanism is still graded *weak*, and the 2026
     result arguably strengthens that grade by locating the effect in the listener rather than the
-    tempo. The sentence bought nothing and risked the chapter's whole license. R-204.
+    tempo. The sentence bought nothing and risked the chapter's whole license.
 
 [^16]: ✅ **Verbatim, including the italicised span.** IV.7:588–589: *"**two frames may be held at
     once precisely where they predict the same thing, and where they diverge you must pick, and the

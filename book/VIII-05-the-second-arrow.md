@@ -296,7 +296,7 @@ nobody has named alongside them: every one of them is performable *without a dia
 them the right material for a chapter whose whole premise is that the diagnosis is unavailable at the
 time. The alliance move's tell — *"the discomfort of genuine disagreement is the feeling of having
 your null space illuminated"* — is quoted for sense, and it is the sharpest line in the section.
-⛔ **The companion treatment of the invisible others is not used**: its central term was banned by ruling 109 on the
+⛔ **The companion treatment of the invisible others is not used**: its central term was banned on the
 grounds that an analogy has to be made of something the reader already has, and the credit-and-refusal
 is spent in Book IV.
 

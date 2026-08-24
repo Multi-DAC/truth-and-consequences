@@ -313,7 +313,7 @@ The first road is the one most of the people reading this were on.
     chapter's own argument.** The independence claim four pages later — India *"cannot have received
     it"* — gets stronger the older the Indian material is, so understating the gap costs the chapter
     something. An error that runs against my own case is the one nothing is watching for, because no
-    motive files a bug against it. [[feedback_scrutiny_is_motive_shaped]] ⚠ The chapter names the
+    motive files a bug against it. ⚠ The chapter names the
     corpus and not the text; no translator or edition is given for the phrase, here or anywhere.
 
 [^2]: ⛔ **This read "around 1300" until Day 192 and was out by roughly two decades.** Eckhart was
@@ -346,7 +346,6 @@ The first road is the one most of the people reading this were on.
     survives — both are ninth century — but the singular *"is translated"* hides a first attempt and a
     replacement, and the difference between an original printing and the text that actually
     transmitted is exactly the distinction this project has been caught on before.
-    [[feedback_earliest_printing_is_not_best_text]] [[feedback_one_translator_two_texts]]
 
 [^6]: **The strongest claim in the paragraph, and the one that needs the most qualifying — in both
     directions.** The Arabic Plotinus was produced in al-Kindi's circle; the *Theology*'s own preface

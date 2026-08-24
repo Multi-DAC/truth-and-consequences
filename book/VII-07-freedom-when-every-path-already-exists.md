@@ -547,7 +547,7 @@ grade in the apparatus has not really declared it.
 carries the moral weight there and at VII.4. The claim in this section is only that the
 non-termination of explanation at the agent is **why** the floor could not have been built on
 desert. That connection is drawn here for the first time; VII.3 and VII.4 each stated their half
-without stating the link, which is R-98's shape once more — two halves of one argument, correct in
+without stating the link, which is the same shape once more — two halves of one argument, correct in
 both places, joined in neither.
 
 [^8]: C26 — there is no stuff; what there is, is arrangement. The defence of *phenomenologically

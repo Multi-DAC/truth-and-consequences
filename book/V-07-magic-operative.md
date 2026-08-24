@@ -268,7 +268,7 @@ Something was on the other side of it that did not do as it was told.
 ## Notes
 
 **Headnote — the prediction made before this apparatus existed, and what it cost to test.**
-R-176's sweep of all thirty V.x→V.1 reaches found the over-crediting of V.1 stopping exactly at V.7,
+The sweep of all thirty V.x→V.1 reaches found the over-crediting of V.1 stopping exactly at V.7,
 and predicted the mechanism: the chapters that are clean are the ones that *open by bounding what V.1
 hands them.* V.7's first section is titled *"What V.1's result does not hand this chapter."* That
 made V.7 the test, not a confirmation — the prediction was on the record before a single note here
@@ -276,7 +276,7 @@ was written. **It holds.** Every one of V.7's four claims about V.1 is verbatim-
 V.1's own lines [^1] [^2], and the same is true of its reaches into II.5 [^3], III.6 [^5] and IV.7
 [^10]. This is the first Book V chapter whose internal apparatus turned up **nothing**. The failures
 here run outward instead, at the sources — and of those, exactly one is a defect rather than a
-hedge: [^14]. [[feedback_test_inherits_hypothesis_expiry]]
+hedge: [^14].
 
 [^1]: ✅ **The roster is as described, and the description is the modest one.** V.1's list runs Zen ·
     Sufi *dhikr* · Kabbalist permutation · hesychast · Vedic ascetic · Vajrayāna · **ritual magicians
@@ -292,7 +292,7 @@ hedge: [^14]. [[feedback_test_inherits_hypothesis_expiry]]
     (V.1:182–184), and *"That explanation is not refuted here and it is not going to be. What is
     claimed is that it is insufficient"* (V.1:189–190). V.7 reproduces the twenty, the one behaviour,
     the refusal to refute, and the insufficiency claim — four separate load-bearing details, all
-    correct. Compare V.6, which credited V.1 with a thesis V.1 does not contain (R-189).
+    correct. Compare V.6, which credited V.1 with a thesis V.1 does not contain.
 
 [^3]: ⚠ **The list is II.5's; the *term* is III.6's, and the sentence blends them.** *"Era, language,
     ritual, trauma, choice"* is at **II.5:48** — exact, five words, in that order. But II.5 is titled
@@ -301,7 +301,7 @@ hedge: [^14]. [[feedback_test_inherits_hypothesis_expiry]]
     installs a filter stack"* attributes the list correctly and the vocabulary anachronistically. Not
     a misattribution — a later term applied backwards, which reads as a citation and is a paraphrase.
     Harmless here; worth a rule, because this is how a chapter comes to be cited for a claim it never
-    made. [[feedback_field_keeps_name_swaps_referent]]
+    made.
 
 [^4]: ✅ **Spare, and the dating is right on both ends.** *The Book of Pleasure (Self-Love): The
     Psychology of Ecstasy*, written 1909–1913 and **self-published in 1913** — a chapbook, not a
@@ -313,19 +313,18 @@ hedge: [^14]. [[feedback_test_inherits_hypothesis_expiry]]
     element modern chaos-magic practice retained when it dropped nearly everything else of Spare's.
 
 [^5]: ⛔ **THE BODY READ "under the threshold" UNTIL DAY 195 — AND THIS NOTE ALREADY HELD THE RIGHT
-    WORDS.** Repaired under ruling 177. ★★ **The instructive part is not the substitution, it is that
+    WORDS.** Repaired. ★★ **The instructive part is not the substitution, it is that
     the check had already run and passed.** This note quotes III.6:207 correctly — *over time* — and
     certifies the passage *verbatim on both halves*, while the sentence six lines above it printed
     *under the threshold*. **A verification that quotes the true text and never reaches the sentence
     it is certifying is not a verification; it is a second copy of the source stored next to an
-    uncorrected error, wearing a green tick.** ⚠ This site was **not on ruling 177's sweep list** —
+    uncorrected error, wearing a green tick.** ⚠ This site was **not on that sweep's list** —
     the list named V.11 only. It was found by grepping the repaired string across the whole tree
     instead of trusting the list, which also turned up `07`:1312. **The list named six chapter sites
     and all six were real; the grep found two more it had not named** — this one, a chapter the list
     did not reach at all, and the claims register, which the list covered only under the generic
     heading *then the planning files.* **A sweep list assembled from six outside reads was 75%
-    complete, and the missing quarter included the register.** [[feedback_grep_derived_from_the_finding]]
-    · [[feedback_correction_does_not_reach_citers]]
+    complete, and the missing quarter included the register.**
     **The source check, which was right all along:** *"The seed takes an edit the way it took the installation
     — by repetition, over time, at the pace of"* (III.6:207), and *"has already ruled out the version
     everybody wants. Wanting is not on that list, it cannot get onto the"* (III.6:210). V.7's *"and
@@ -339,7 +338,6 @@ hedge: [^14]. [[feedback_test_inherits_hypothesis_expiry]]
     tradition claims more and is not being granted it. Flagged not as an error but because this is
     the one entry of the four where **the chapter records the deflation winning** — and a conceded
     entry is exactly the kind that gets quoted later as though it had been a won one.
-    [[feedback_correction_does_not_reach_citers]]
 
 [^7]: ✅ **Jung's reading is correctly stated and correctly bounded.** *Psychology and Alchemy* (CW
     12, 1944): the alchemical corpus as a phenomenology of the unconscious, the adepts projecting
@@ -356,7 +354,7 @@ hedge: [^14]. [[feedback_test_inherits_hypothesis_expiry]]
     failure at length — but *"four hundred years"*, *"kept in detail"* and *"nobody else on this list
     has"* are three separate quantitative assertions carried by one unsourced clause, in the sentence
     doing the paragraph's persuasive work. Read as **rhetoric with a number in it**. The revision
-    pass either sources the figure or drops it. [[feedback_bounding_noun_asserts_the_other_side]]
+    pass either sources the figure or drops it.
 
 [^9]: ✅ **Carroll, and the dating.** *Liber Null* (1978), small-circulation, generally treated as
     chaos magic's foundational text; *Psychonaut* followed, and the two now circulate bound together.
@@ -378,7 +376,7 @@ hedge: [^14]. [[feedback_test_inherits_hypothesis_expiry]]
     licences to depart and contingency procedures are conspicuous. But conspicuous is not most, and
     the chapter's entire answer to its own deflation rests on this being a **fact about the corpus**
     rather than an impression of it. **This is the row the revision pass must either measure or
-    reword.** [[feedback_self_generated_denominator]]
+    reword.**
 
 [^12]: ✅ **Verbatim, *"and so forth"* included — with one formatting note.** Crowley, *Magick in
     Theory and Practice* (Book 4 Part III, *Liber ABA*), Introduction, in the "Definitions and
@@ -390,7 +388,7 @@ hedge: [^14]. [[feedback_test_inherits_hypothesis_expiry]]
     upgrades an aside into a passage. Also silently normalised: **MAGICK** and **Changes** are
     capitalised in the original. Neither changes the meaning; both are the kind of thing that makes a
     span-check fail against a printed copy, and the chapter is making an argument *about* the
-    quotation's ordinariness. [[feedback_quotation_connective_tissue]]
+    quotation's ordinariness.
 
 [^13]: ✅ **Every credential checks — and the library figure is his own.** • **The library**:
     Mortlake, by the 1570s the largest in Elizabethan England. But the standard figure, *three
@@ -400,7 +398,7 @@ hedge: [^14]. [[feedback_test_inherits_hypothesis_expiry]]
     Robert Dudley's suggestion — so *"advised a queen on the timing of her coronation"* is exactly
     right. • **The Euclid**: Henry Billingsley's 1570 *Elements*, the first in English, translated
     from the Greek; Dee wrote the *Mathematicall Praeface*, dated 9 February 1570. He wrote the
-    preface, not the translation — and the chapter says preface. [[feedback_self_generated_denominator]]
+    preface, not the translation — and the chapter says preface.
 
 [^14]: ⛔ **"Gave the rest of his life to a scrying operation" is false, and the error runs toward
     the chapter's case.** The conferences ran from roughly 1582 to **1589** — seven years, not a
@@ -412,7 +410,7 @@ hedge: [^14]. [[feedback_test_inherits_hypothesis_expiry]]
     everything, commits the remainder — is what makes Dee the chapter's strongest witness, and it is
     the framing the record does not support. The true version is *available and nearly as good*: he
     gave it seven years at the height of his powers, and then stopped. **Fix by shortening the claim,
-    not by defending it.** [[feedback_guard_built_in_the_feared_direction]]
+    not by defending it.**
 
 [^15]: ✅ **The episode, dated.** 18 April 1587, in the Rožmberk household at Třeboň, Bohemia: the
     spirit **Madimi**, speaking through Kelley at the stone, instructed the two men to hold their
@@ -431,4 +429,4 @@ hedge: [^14]. [[feedback_test_inherits_hypothesis_expiry]]
     and lands there. Naming him matters because the unnamed version reads as a dismissal of Wilson,
     who is elsewhere a source this book uses. ✅ The refusal itself is well-formed: it states the
     ground, keeps the observation, and hands the residue forward to Book VI rather than discarding
-    it. [[feedback_register_of_jobs_not_components]]
+    it.

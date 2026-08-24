@@ -590,16 +590,16 @@ difference of emphasis, and the cost is stated in the direction that goes agains
 account delivers more grip than this one, and this one can say where its grip comes from.
 
 [^11]: ⚠ **THE RULING 179 SECTION IS A REPAIR, AND ITS OWN WEAKEST JOINT IS NAMED ON THE PAGE RATHER
-    THAN HERE.** Filed Day 195 as R-216 by the ghost audit: the floor's non-slope was a formal
+    THAN HERE.** Filed Day 195 by the ghost audit: the floor's non-slope was a formal
     property with no behavioural consequence, because Regan's ramp had been relocated from the
     existence question to the content question and left unattended. **The row's satisfaction test was
     explicitly *a worked case where the two answers differ*, not a paragraph asserting that they do**
-    — [[feedback_guard_checked_where_both_answers_agree]] — so the A/B pair above is built where the
+    — so the A/B pair above is built where the
     two accounts must diverge, and the divergence is a **crossing of order**, not a difference of
     magnitude. ⛔ **What the repair concedes and did not have to:** the minimum content is empty
     wherever the structural facts have no purchase, and the framework does not say where that line
     runs. **The floor is therefore conditional, and the book now says so in the body instead of
-    holding an unconditional phrasing it cannot fund** — which is also the half of R-220 that comes
+    holding an unconditional phrasing it cannot fund** — which is also the half of that finding that comes
     free here: VII.3's honest conditional was stated once and the unconditional phrasing ran
     throughout. ★ **The falsifier is stated in the body on purpose, where a reader will meet it**,
     because a named falsifier tucked into an endnote is the object IV.10 [^9] warned about — naming

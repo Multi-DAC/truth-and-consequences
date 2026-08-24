@@ -355,9 +355,9 @@ scholarship. None of their texts is in this repository, and nothing above is a q
 Simon line is explicitly paraphrased at [^5] for that reason.
 
 ⚠ **The corpus support for this chapter is better than VI.4's and fails in a new direction.**
-Measured on Day 190 over 3,069 `.md` and `.txt` files — **a wider scope than R-67's declared 2,550**,
+Measured on Day 190 over 3,069 `.md` and `.txt` files — **a wider scope than the one declared earlier**,
 because `archive/` and `_superseded/` were *not* excluded, so every figure below is a ceiling
-relative to the declared scope and should not be quoted as R-67-scoped: *attention economy* **38** ·
+relative to the declared scope and should not be quoted against it: *attention economy* **38** ·
 *simultaneity* **24** · Debord **21** · *Imagined Communities* **13** · Herbert Simon **10** · Tim Wu
 **8** · *penny press* **4** · Benedict Anderson **3** · Cantril **1** — against **McLuhan 0 · "global
 village" 0 · Neil Postman 0 · Harold Innis 0 · James Carey 0 · "War of the Worlds" 0 · Orson Welles

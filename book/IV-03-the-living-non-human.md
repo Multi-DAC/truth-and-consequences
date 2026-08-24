@@ -367,7 +367,7 @@ The staircase in the paragraph is theirs: two action potentials shut the trap, t
 jasmonate signalling, and from the fifth the gland transcriptome turns to hydrolases and transporters,
 scaled to the count. **This is one of the four claims in Book IV that was verified against the primary
 literature on Day 190, before the retrofit existed** — the prose was checked and found faithful at
-that point, and the receipt is only now being written down, which is the whole of what R-2 is.
+that point, and the receipt is only now being written down, which is the whole of what this note is.
 
 [^2]: Same paper for the two-spike threshold and for the decay: the count is carried by a rising
 cytosolic signal that drains between excitations, so the interval is a **property of the chemistry

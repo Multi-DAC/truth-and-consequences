@@ -299,7 +299,6 @@ own [^1] caught it. **Four interval claims across two chapters, four understatem
 exceptions** — and every one of them weakens the priority argument the chapter is making. That is the
 asymmetry V.1 [^1] named as a one-off and this chapter turns into a rate: an error that runs against
 your own case has nothing watching for it, because no motive files a bug against it.
-[[feedback_scrutiny_is_motive_shaped]]
 
 Two other things this apparatus would like carried forward. The chapter's most defensive paragraph —
 the one rescuing Śaṅkara from the cheap illusion-cut — carries **two** independent defects in two
@@ -331,7 +330,7 @@ traced.
     the sentence Brereton's reading declines to license. The chapter is entitled to prefer the
     traditional construal — Śaṅkara's whole system does — but it must say that it is choosing a side
     in a live philological dispute, rather than quote the translator who took the other one.
-    [[feedback_one_translator_two_texts]] [[feedback_quotation_connective_tissue]] ✅ The *ninefold*
+    ✅ The *ninefold*
     claim is exact: the refrain closes 6.8.7, 6.9.4, 6.10.3, 6.11.3, 6.12.3, 6.13.3, 6.14.3, 6.15.3
     and 6.16.3 — nine — and the three analogies named are all correctly placed (honey 6.9, rivers
     6.10, banyan seed 6.12; the salt is 6.13).
@@ -353,7 +352,6 @@ traced.
     chapters, three directions of the same failure — a chapter reaches back to V.1 for authority it
     has itself earned, and the reach is never checked because agreeing with your own first chapter
     never looks like a claim. **The repair is not local to V.5.**
-    [[feedback_repair_scoped_to_named_cause]] [[feedback_filed_defect_still_gets_rebuilt]]
 
 [^5]: ⛔ **The concept is right, the word is wrong, and the possessive is the defect.** *"**His**
     technical word for its status is mithyā, which is not false."* Śaṅkara's own use of *mithyā* is in
@@ -379,7 +377,6 @@ traced.
     technical matter rather than a preference"* is an accurate report of both the content and the
     grade. Three of this chapter's citations of V.1 were checked; **this is the one that holds**, and a
     cluster with a verified clean member is a finding rather than a mood.
-    [[feedback_zero_needs_a_positive_control]]
 
 [^7]: ✅ **The argument is reported correctly and the title is not canonical.** SN 22.59's title in the
     Canon is *Pañca Sutta*, "The Five"; *Anattalakkhaṇa Sutta* is a traditional title **not found in
@@ -408,7 +405,6 @@ traced.
     ⚠ And *"the closest thing in the pre-modern record to two of this book's load-bearing claims
     arriving together in one clause"* **never says which two.** A superlative with an unnamed
     referent cannot be checked by a reader or by a gauge, which is the property that lets it survive.
-    [[feedback_bounding_noun_asserts_the_other_side]]
 
 [^10]: ⛔ **Twenty-four and a half centuries, not twenty-two — and this is the note where the pattern
     stops being a slip.** From *ca.* 430 BCE to now is roughly 2,456 years. To get twenty-two
@@ -421,8 +417,7 @@ traced.
     *down* feels like caution — it is the direction that cannot be accused of exaggeration — so the
     prose reaches for the conservative figure and the conservative figure is the wrong one. Nothing in
     the drafting or the reading catches it, because a reader who disagrees with the chapter has no
-    reason to object to a number that helps them. [[feedback_scrutiny_is_motive_shaped]]
-    [[feedback_guard_built_in_the_feared_direction]]
+    reason to object to a number that helps them.
 
 [^11]: ⚠ **A universal negative over an eighty-one-chapter text, in a chapter that gives that text no
     edition and no translator.** *"Nothing in the Dao De Jing recommends inertia"* is the claim the
@@ -430,8 +425,8 @@ traced.
     without going out of the door, know the world — and ch. 80's small-state primitivism are read as
     recommending exactly that by readers who are not being careless. The defensible claim is narrower
     and does the same work: *wu wei* is not inertia, and the standard Englishing as *non-action* is
-    what has ruined it. Same shape as V.4 [^6] and queue row R-172 — a universal negative with an
-    uninformative zero behind it. [[feedback_zero_needs_a_positive_control]]
+    what has ruined it. Same shape as V.4 [^6] and an earlier pass — a universal negative with an
+    uninformative zero behind it.
 
 [^12]: ✅ **Every detail of the Cook Ding passage checks, against Watson's *Zhuangzi* ch. 3.** Nineteen
     years, thousands of oxen, the good cook changing his knife yearly and the poor one monthly, the

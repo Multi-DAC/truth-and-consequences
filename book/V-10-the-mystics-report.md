@@ -273,7 +273,7 @@ unnamed. Read on Day 192 from the Gutenberg text of the 1902 first edition (PG #
 bodies included; in that file the markers and the footnote section sit 190,000 characters apart,
 which is why a reader who stops at the marker sees no citation at all.*
 
-[^1]: ✅ **REPAIRED DAY 195 under ruling 177 — the body now names Müller, splits the two texts and marks the cut.** The finding, as filed: ⛔ **Two Upanishads, two pages, one voice — and James's own note says so.** The passages are
+[^1]: ✅ **REPAIRED DAY 195 — the body now names Müller, splits the two texts and marks the cut.** The finding, as filed: ⛔ **Two Upanishads, two pages, one voice — and James's own note says so.** The passages are
     Max Müller's, and James cites them together: *Upanishads, M. MÜLLER'S translation, ii. 17, 334*
     (Varieties, fn 270). **One footnote, two page numbers, three hundred and seventeen pages apart**
     — so the sentence this chapter prints as a single utterance of *the Upanishads* is a splice of
@@ -281,9 +281,9 @@ which is why a reader who stops at the marker sees no citation at all.*
     4.15, and Müller's English is reproduced exactly. ⚠ **The first half is silently truncated.**
     James prints *not a mode of That, but identically That, that absolute Spirit of the World* —
     this chapter stops at *identically That* with no ellipsis. **Owed: name Müller, split the two
-    texts, and mark the cut.** [[feedback_quotation_connective_tissue]]
+    texts, and mark the cut.**
 
-[^2]: ✅ **THE CLOSED ELLIPSIS IS REPAIRED, DAY 195, ruling 177 — the body prints James's gap and no longer joins what he marked as separated.** ⚠ **The naming half of this note is NOT paid** and is left open on purpose: it is a provenance debt, not a quotation falsehood, and it belongs to the row that owns naming rather than to the edition sweep. The finding, as filed: ⛔ **The chapter is LESS identified than the book it is auditing for lack of provenance.** This
+[^2]: ✅ **THE CLOSED ELLIPSIS IS REPAIRED, DAY 195 — the body prints James's gap and no longer joins what he marked as separated.** ⚠ **The naming half of this note is NOT paid** and is left open on purpose: it is a provenance debt, not a quotation falsehood, and it belongs to the row that owns naming rather than to the edition sweep. The finding, as filed: ⛔ **The chapter is LESS identified than the book it is auditing for lack of provenance.** This
     is the chapter's own flagged gap — a Persian given by nationality and century — and the reason
     the name is missing is that this chapter removed one James supplied. James writes: *Every man,
     says the Sufi Gulshan-Râz* (Varieties, near fn 271). The text is the *Gulshan-i Rāz*, Mahmud
@@ -295,9 +295,9 @@ which is why a reader who stops at the marker sees no citation at all.*
     majesty* — four points, a marked gap. This chapter prints a full stop and runs the two together,
     then drops the passage's ending entirely: *hears resound outside of him this voice and this echo:
     I am God.* **The chapter joins what its source marked as separated.** That is this project's
-    signature defect, on its own opening page. [[feedback_quotation_connective_tissue]]
+    signature defect, on its own opening page.
 
-[^3]: ✅ **THE ELLIPSIS IS OPEN AGAIN, DAY 195, ruling 177.** The finding, as filed: ⛔ **Plotinus reaches this page through French, and the same ellipsis was closed again.** Fn 272:
+[^3]: ✅ **THE ELLIPSIS IS OPEN AGAIN, DAY 195.** The finding, as filed: ⛔ **Plotinus reaches this page through French, and the same ellipsis was closed again.** Fn 272:
     *Enneads, BOUILLIER'S translation, Paris, 1861, iii. 561.* The translation is **Marie-Nicolas
     Bouillet, *Les Ennéades de Plotin*, 3 vols., Hachette, Paris 1857–1861** — vol. iii is 1861,
     matching. ⚠ **James prints the name wrong**: *Bouillier* is Francisque Bouillier, a different
@@ -305,16 +305,15 @@ which is why a reader who stops at the marker sees no citation at all.*
     prints *superior to our reason.... He who thus sees*; this chapter prints a full stop. Third
     ellipsis closed of three so far.
 
-[^4]: ✅ **THE COMMA IS GONE AND THE GAP IS MARKED, DAY 195, ruling 177 — this was the worst of the four, because a comma does not drop a gap, it asserts there was none.** ⚠ Knox is still unnamed in the body; see [^2] on why the naming debt is held separately. The finding, as filed: ⛔ **Suso's translator is named in the same book, sixty-five footnotes earlier.** Fn 273 gives
+[^4]: ✅ **THE COMMA IS GONE AND THE GAP IS MARKED, DAY 195 — this was the worst of the four, because a comma does not drop a gap, it asserts there was none.** ⚠ Knox is still unnamed in the body; see [^2] on why the naming debt is held separately. The finding, as filed: ⛔ **Suso's translator is named in the same book, sixty-five footnotes earlier.** Fn 273 gives
     only *Autobiography, pp. 309, 310*, but fn 208 supplies it in full: **The Life of the Blessed
     Henry Suso, by Himself, translated by KNOX, London, 1865** — T. F. Knox. ⛔ **And this is the
     worst of the four cuts.** James prints *marvels of the Godhead ... and is lost in the stillness*.
     This chapter replaces the ellipsis **with a comma** — which does not merely drop the gap, it
     asserts the sentence was continuous. ★★ **Four passages, four silent closures.** That is not a
     slip; it is a house style, and it is the one this book exists to diagnose.
-    [[feedback_quotation_connective_tissue]]
 
-[^5]: ✅ **REPAIRED DAY 195 under ruling 177 — the body now says *the mysticism lectures*.** The finding, as filed: ⚠ **The book did not divide the lectures the way that sentence divided them.** *Varieties*
+[^5]: ✅ **REPAIRED DAY 195 — the body now says *the mysticism lectures*.** The finding, as filed: ⚠ **The book did not divide the lectures the way that sentence divided them.** *Varieties*
     prints a single undivided chapter headed **LECTURES XVI AND XVII. MYSTICISM.**, and the next
     heading in the volume is LECTURE XVIII. PHILOSOPHY. The four passages sit inside that combined
     chapter with no internal boundary assigning them to the seventeenth rather than the sixteenth.
@@ -328,7 +327,7 @@ which is why a reader who stops at the marker sees no citation at all.*
     quoted for its claim. ✅ **And the count holds** — nine chapters back from V.10 is V.1, which is
     where the book declared it false.
 
-[^7]: ★★ **R-208 predicted this chapter would borrow V.1 in its pre-apparatus form. It does not, and
+[^7]: ★★ **An earlier pass predicted this chapter would borrow V.1 in its pre-apparatus form. It does not, and
     the site where it does not is the one the prediction named.** V.1 [^7] marks two of its five
     links as carrying more weight than the chain supports — Kabbalah, given as *develops … in a world
     in contact with both* (contact, not descent), and the Ibn Arabi school, running through the
@@ -339,7 +338,6 @@ which is why a reader who stops at the marker sees no citation at all.*
     links that carry. **V.10 cut it to the links that carry.** V.9, drafted twenty-nine minutes
     earlier, did not. The prediction is refuted here on its own terms, and refusing to score it as a
     hit is the whole value of having pre-registered it.
-    [[feedback_briefing_manufactures_the_agreement]]
 
 [^8]: ✅ **Verbatim, and the framing is fair.** James, introducing the Sufis: *as their pantheism is
     so at variance with the hot and rigid monotheism of the Arab mind, it has been suggested that
@@ -356,7 +354,7 @@ which is why a reader who stops at the marker sees no citation at all.*
     that would contradict the branch count three paragraphs above, where India and the Mediterranean
     are two branches and not one. **The chapter's own argument collapses the fourth into the second
     (Suso into Plotinus); that is the second collapse it has earned.** Owed: third into first, fourth
-    into second. [[feedback_grep_derived_from_the_finding]]
+    into second.
 
 [^10]: ⛔ **Inherits [^9], and this is where the error is load-bearing.** With the numbering corrected
     the tally is: Hinduism and Whitmanism in one branch, Neoplatonism and Christian mysticism in the
@@ -365,7 +363,6 @@ which is why a reader who stops at the marker sees no citation at all.*
     unplaced one. As written the sentence only parses if Neoplatonism might collapse into India,
     which is [^9]'s unsupported claim doing work two paragraphs later. **A single mis-numbering
     propagated into the paragraph that states the chapter's result.**
-    [[feedback_repair_scoped_to_named_cause]]
 
 [^11]: ⛔ **The Iliad is not in that list, and it is not in that essay.** Emerson's world-books
     passage is in *Books* (Society and Solitude, 1870): *the Bibles of the world, or the sacred books
@@ -377,7 +374,7 @@ which is why a reader who stops at the marker sees no citation at all.*
     caught by before. ⚠ **And the chronology runs backwards**: *Books* is 1870, fifteen years after
     *Leaves of Grass*. **The fix exists and is stronger**: Emerson's journal of 1845 on the Gita —
     *It was the first of books* — predates Whitman and says more. **Owed: cut the Iliad, cite the
-    journal.** [[feedback_quotation_connective_tissue]] [[feedback_test_the_alibi_it_has_a_boundary]]
+    journal.**
 
 [^12]: ⛔ **The item the chapter calls datable is the least documented transmission on the page.**
     Whitman was born 31 May 1819 at West Hills, Huntington, Long Island — that part holds. But
@@ -389,7 +386,7 @@ which is why a reader who stops at the marker sees no citation at all.*
     Emerson to Whitman is one man's memory of a remark, contradicted by the man quoted, printed the
     same year as *Varieties* itself. **The strongest-sounding claim in the section is the weakest
     evidence in it**, and the honest form is stronger anyway: contested, secondhand, and still the
-    most datable thing on James's list. [[feedback_evidence_grade_distinction]]
+    most datable thing on James's list.
 
 [^13]: ⚠ **V.9 is paraphrased accurately and then charged with a complacency it disclaims one
     sentence later.** V.9 reads *"mystics got three branches because the transmission was old
@@ -400,7 +397,7 @@ which is why a reader who stops at the marker sees no citation at all.*
     test on Book V. **So the too-comfortable reading quotes the penultimate paragraph as the
     conclusion.** The substantive correction stands — V.9 missed the anthology transmission — but the
     tone charge is answered in the source. ★ **And V.9 asked for exactly what this chapter does**,
-    which the chapter could claim and does not. [[feedback_audit_the_last_clause]]
+    which the chapter could claim and does not.
 
 [^14]: ★★ **The section is right, and James's footnotes make it demonstrable rather than plausible.**
     The claim is that the category was built by identifiable people; the chapter declines to identify
@@ -411,7 +408,7 @@ which is why a reader who stops at the marker sees no citation at all.*
     is partly a unanimity of nineteenth-century European translation practice — four voices in four
     languages arriving in one register because they came through one generation's hands. **That is a
     better version of this chapter's own thesis than this chapter states**, and it was sitting in the
-    footnotes of the book it is auditing. [[feedback_artifact_states_its_own_roster]]
+    footnotes of the book it is auditing.
 
 [^15]: ✅ **Both halves check.** Nicholas of Cusa finished *De docta ignorantia* on 12 February 1440
     at Kues; the coincidence of maximum and minimum, and the reaching of the ground through the
@@ -452,7 +449,6 @@ which is why a reader who stops at the marker sees no citation at all.*
     out-of-contact clause** — which is exactly the clause its own branch count has just undermined.
     The edit is correct and unmarked. **A source corrected downstream and never told is the same
     defect as a correction that fails to reach its citers, running the other way.**
-    [[feedback_correction_does_not_reach_citers]]
 
 [^20]: ★★ **The chapter understates its own advance, and the understatement makes the move look like
     a repeat.** The five procedures are in order, and *"They are as
@@ -475,7 +471,6 @@ which is why a reader who stops at the marker sees no citation at all.*
     to have stopped short. ⚠ **Mechanism worth filing: V.5's passage carries no note.** A borrowing
     from an un-apparatus'd paragraph meets no correction on the way through — which is why the
     machinery of a chapter travels worse than its headlines.
-    [[feedback_briefing_manufactures_the_agreement]]
 
 [^22]: ⛔⛔ **THE CLEAN CASE IS THE CHAPTER'S OWN THESIS, INVERTED — AND IT IS THE SECOND OF ONLY TWO
     DATA POINTS.** Four failures, compounding:
@@ -500,4 +495,3 @@ which is why a reader who stops at the marker sees no citation at all.*
     by a text and arrives as recognition. ⚠ **And the axis loses a point.** Two observations were
     already a thin basis; with this one reclassified, the least-subtraction end — the Daoist material
     — stands alone. **Owed: either find a second point or say plainly that there is one.**
-    [[feedback_zero_needs_a_positive_control]] [[feedback_quotation_connective_tissue]]

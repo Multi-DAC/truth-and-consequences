@@ -427,7 +427,7 @@ that the formulaic and metrical apparatus of Homeric verse is a memory technolog
 literary style, and that Plato's quarrel with the poets is a jurisdictional dispute between
 technologies of knowing, is Havelock's.
 
-⚠ **AXIS NOTE, ruling 25 — the reader is inside two renders and only one of them is this chapter's.**
+⚠ **AXIS NOTE — the reader is inside two renders and only one of them is this chapter's.**
 VI.6 owns *the reader is inside this render while reading* for the **algorithmic** case, where the
 point is ethical and urgent because the filter is editing itself against a particular reader in real
 time. VI.4 takes the same posture for the **print** case, where the point is neither ethical nor
@@ -440,8 +440,7 @@ Eisenstein, Johns, McGilchrist and Havelock are named **from general knowledge a
 reference scholarship. None of their texts is in this repository, and nothing above is a quotation**
 except the rendering of Augustine at [^1], which is marked as a rendering and not as a translation.
 ⚠ **This chapter has the thinnest corpus support of any yet written.** Measured on Day 190 under the
-scope declared at R-67 — `.md` files, `archive/` and `_superseded/` excluded, across 2,550 research
-files — **Eisenstein 0 · Havelock 0 · McLuhan 0 · Gutenberg 0 · "printing press" 0 · "silent
+declared scope — **Eisenstein 0 · Havelock 0 · McLuhan 0 · Gutenberg 0 · "printing press" 0 · "silent
 reading" 0 · Walter Ong 0.** The topics are present without their sources: *orality* returns 42
 files and *literacy* 14. Four items are flagged for reading rather than left at this grade:
 

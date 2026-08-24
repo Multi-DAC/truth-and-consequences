@@ -321,7 +321,7 @@ expensive are in the same sentence — the one that makes the cut against Katz.*
     binds under one verb. The close then says **ten roads** ([^29]), and Book V holds nine road
     chapters (V.2–V.10) with V.1 the frame and this the summation. **Two counts of the same set,
     one apart, neither matching the enumeration under it.** Owed: fix the enumeration or fix the
-    numbers, and state which set is being counted. [[feedback_artifact_states_its_own_roster]]
+    numbers, and state which set is being counted.
 
 [^6]: ⛔ **"Its ninth paragraph" does not resolve.** V.1's ninth paragraph is *A tradition is a
     perspective, and it takes the same card as everything else in the census.* The material this
@@ -332,7 +332,6 @@ expensive are in the same sentence — the one that makes the cut against Katz.*
     V.1:228 does say *nothing in the ten chapters ahead*, and there are ten. **A precise-looking
     locator that resolves to the wrong passage is worse than a vague one**, because it buys trust it
     has not earned, and a reader who checks it finds the chapter unreliable about its own book.
-    [[feedback_verification_anchor_must_be_unique]]
 
 [^7]: **Dionysius and Cusanus, by doctrine.** The *Mystical Theology* is where the saying-then-
     unsaying-then-unsaying-the-unsaying is procedural rather than rhetorical; Nicholas of Cusa's
@@ -345,7 +344,7 @@ expensive are in the same sentence — the one that makes the cut against Katz.*
     because the credit is for the *technique*, not for the convergence.
 
 [^8]: ⛔ **THE ALCHEMY CREDIT IS BORROWED FROM V.7 IN PRE-CORRECTION FORM, AND AMPLIFIED. This is
-    R-208's mechanism, at the second of the two chapters the prediction named — after it was filed
+    the same mechanism, at the second of the two chapters the prediction named — after it was filed
     REFUTED on the first.** V.7 [^8] is a ⛔ note and it withdraws exactly three phrases: *"four
     hundred years"*, *"kept in detail"*, and *"nobody else on this list has"* — calling the sentence
     **"rhetoric with a number in it"** and ruling that *the revision pass either sources the figure
@@ -356,13 +355,12 @@ expensive are in the same sentence — the one that makes the cut against Katz.*
     credits V.7 explicitly — *V.7 noted this in passing* — so a reader following the pointer arrives
     at a note saying the claim is unmeasured. ⛔ **The borrowing is not merely uncorrected; it is an
     escalation of a claim its own source has already conceded.** Owed: cut to what V.7 can carry —
-    that the corpus records failure at length — or source the figure. ⛔ **AND THE VERDICT ON R-208
-    WAS WRONG AS FILED.** R-208 predicted this mechanism at V.10 *and* V.11; V.10 refuted its half
+    that the corpus records failure at length — or source the figure. ⛔ **AND THE VERDICT ON THAT PREDICTION
+    WAS WRONG AS FILED.** An earlier pass predicted this mechanism at V.10 *and* V.11; V.10 refuted its half
     cleanly (V.10 cut a chain to the links V.1 said carry); I filed REFUTED on that one negative,
     before this chapter existed to be checked. **A two-site prediction falsified at one site is
     half-falsified.** The mechanism is real and chapter-specific, not general — a different finding
     from the one recorded, and weaker than the original claim in exactly the way that matters.
-    [[feedback_filed_repair_is_a_hypothesis]] [[feedback_zero_needs_a_positive_control]]
 
 [^9]: ✅ **V.2 does credit the calendar, the food and the named dead, in those words**, at V.2:224 —
     *what actually walked out of the building was the calendar, the food, and the named dead.* The
@@ -398,7 +396,7 @@ expensive are in the same sentence — the one that makes the cut against Katz.*
     V.7's reading, not Spare's phrasing, and is not presented as a quotation.
 
 [^14]: ⛔ **THIS READ "under the threshold" UNTIL DAY 195, AND III.6 DOES NOT SAY IT.** Body repaired
-    to III.6's words under ruling 177; the finding stands as recorded. **III.6 WAS QUOTED WITH A
+    to III.6's words; the finding stands as recorded. **III.6 WAS QUOTED WITH A
     SUBSTITUTED CLAUSE, AND THE SUBSTITUTION WAS A CLAIM III.6 DOES NOT MAKE.** The chapter rendered
     the ruling as *by repetition, **under the threshold**, at the pace
     of the thing being laid down.* III.6:207 reads: *by repetition, **over time**, at the pace of
@@ -409,7 +407,6 @@ expensive are in the same sentence — the one that makes the cut against Katz.*
     III.6:203–205 does rule that what takes an edit is not the render but what the procedure runs on,
     and III.6:210–211 does say wanting is not on the list and cannot get on it by being stronger.
     **One clause in three is invented, and it is the one that sounds most like expertise.**
-    [[feedback_field_keeps_name_swaps_referent]] [[feedback_quotation_connective_tissue]]
 
 [^15]: ✅ **IV.3:327 verbatim** — *A hedge weakens a claim. A boundary locates an instrument.* This
     chapter joins the two with a semicolon and lowercases the second, inside italics rather than
@@ -425,7 +422,7 @@ expensive are in the same sentence — the one that makes the cut against Katz.*
     runs it.** *If a reader finds a place in these eight books where a disagreement gets absorbed as
     confirmation of the framework, that is a fence, and it is ours* — that is a boundary by the
     chapter's own definition at [^15], and it is addressed to a reader rather than to an instrument.
-    Owed: a check, not a promise. [[feedback_diagnosis_without_a_hand]]
+    Owed: a check, not a promise.
 
 [^17]: ⚠ **"IV.6 is where an entry was refused for it" {absent: IV.6} misdescribes the passage it
     points at, and the real passage is better evidence than the described one.** IV.6:268–273 does
@@ -449,7 +446,7 @@ expensive are in the same sentence — the one that makes the cut against Katz.*
     once in V.5's own words rather than performed again*) and then adds a term. ✅ The two sentences
     actually in quotation-shape are exact: V.5:280–281 reads *The report is honest. The instrument
     selected it.* **The fabrication is in the connective tissue and not in the quoted sentence, which
-    is where it always is.** [[feedback_quotation_connective_tissue]]
+    is where it always is.**
 
 [^20]: ✅ **V.10's three-bin sort is reported correctly.** V.10:226–229 — *Structure survives
     variation in the direction of the method as well as in its technique. Artefact tracks the
@@ -467,7 +464,7 @@ expensive are in the same sentence — the one that makes the cut against Katz.*
     its own chapter**, so the disclaimer that covers everyone covers everyone but one. Smith is
     *The Religions of Man* (1958), retitled *The World's Religions* (1991): the popularising vehicle,
     which is exactly the role the sentence assigns him. Owed: ten, or cut him.
-    [[feedback_artifact_states_its_own_roster]] [[feedback_disclaimer_not_coupled_to_verdict]] **See the standing note on grade above**, which states at what level this chapter's attributions are made and which of them are flagged for reading.
+    **See the standing note on grade above**, which states at what level this chapter's attributions are made and which of them are flagged for reading.
 
 [^22]: **Steuco, *De perenni philosophia libri X*, Lyon, 1540, and he was Vatican librarian.**
     Standard reference; not in this repository. ✅ The rhetorical use is sound and is the chapter's
@@ -496,7 +493,7 @@ expensive are in the same sentence — the one that makes the cut against Katz.*
     holding both. A correct use of a claim against the chapter's own interest.
 
 [^26]: ⛔ **THIS READ "the failure of every name" UNTIL DAY 195. V.1'S FOURTH PROPOSITION IS "has no
-    outside", and the swap lost the cut against Katz.** Body repaired under ruling 177; the finding
+    outside", and the swap lost the cut against Katz.** Body repaired; the finding
     below is the reason and stands unchanged. V.1:29–31 states the four exactly: what
     everything is made of is *"complete, has no outside, is not itself a thing, and cannot be
     addressed because addressing needs an inside."* Three of this chapter's four map cleanly — completeness,
@@ -508,11 +505,10 @@ expensive are in the same sentence — the one that makes the cut against Katz.*
     turns on the structure bin holding only what mediation cannot supply, and this swap puts into it
     the one item mediation most obviously can. *Has no outside* — a topological claim with no liturgy
     attached — is the item that does the work, and it was dropped.
-    [[feedback_field_keeps_name_swaps_referent]] [[feedback_compression_that_keeps_truth]]
 
 [^27]: ⛔ **THIS SENTENCE READ "in languages with no shared vocabulary for any of it" UNTIL DAY 195,
     AND IT RECRUITED V.1'S CONVERGENCE IN ITS PRE-AUDIT FORM — the strength V.1's own audit withdrew,
-    in the paragraphs immediately after making it.** Body repaired under ruling 177: the clause is
+    in the paragraphs immediately after making it.** Body repaired: the clause is
     gone, the count now says **three**, and the withdrawal is stated on the page instead of only
     here. ⚠ **The cut is thinner than it was and the chapter now says so** — whether it holds at
     three is the question the repair exposes rather than settles, and that is the correct place for
@@ -528,7 +524,7 @@ expensive are in the same sentence — the one that makes the cut against Katz.*
     six. ⛔ **This is the second instance of the [^8] mechanism in this chapter, which is what makes
     it a pattern rather than a slip** — and unlike [^8] it is borrowed not from a neighbour but from
     the frame chapter of its own book. Owed: rebuild the cut on the three defensible branches, where
-    it may well still hold, and say three. [[feedback_fresh_number_vouches_for_stale_sentence]]
+    it may well still hold, and say three.
 
 [^28]: ✅ **The three second-movements are V.1's and are correctly named** — *baqāʾ* after *fanāʾ*
     (subsistence after annihilation), the tenth ox-herding picture (entering the marketplace with

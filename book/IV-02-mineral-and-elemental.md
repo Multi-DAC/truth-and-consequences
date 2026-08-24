@@ -249,7 +249,7 @@ a year**, which is two orders of magnitude better than the quartz watch above, a
 inside the four centuries. It was the observatory standard from the 1920s to the 1940s and in 1926 it
 became the first clock accurate enough to catch the Earth's own rotation wobbling seasonally. What
 displaced it was the quartz *clock*, in the 1930s, not the quartz *watch*. ★ **The correction is
-R-108's shape exactly** — two categories, portable timekeeping and observatory timekeeping, collapsed
+the same shape exactly** — two categories, portable timekeeping and observatory timekeeping, collapsed
 into one string that reads as a single true claim. The repaired sentence is still remarkable and is
 now the thing that is actually true: nothing you could carry was ever this good.
 

@@ -484,7 +484,7 @@ time."* **Dropping an attribution makes a claim look more settled than the inher
 finding about the inherited hierarchy, running in the opposite direction.
 
 [^2]: **The measurement is real, it is dated, and it is no longer reproducible from this tree —
-because the repair shipped in the same commit as the finding.** Ruling 125 records it in the past
+because the repair shipped in the same commit as the finding.** The record has it in the past
 tense and in the right place: *"Measured before a word was drafted: 0 occurrences across all seven
 planning documents and all 31 drafted chapters."* A reader running that grep today gets hits, because
 `00`, `06`, `07`, this chapter and V.9 all now name the tier.
@@ -495,9 +495,8 @@ object this book spends eight chapters distrusting. Nothing was done wrong; the 
 recurs every time this project repairs something it discovered.
 
 [^3]: ✅ **THE DEFERRAL'S TRIGGER FIRED, AND IT WAS PAID PAST THE PROMISE.** The chapter says the
-entry is *scheduled*, not written, with the scaffold amended in the same commit. Checked against
-disk: `06-THE-SCAFFOLD.md`:154 records the renumber (*"name at V.10 (was V.9 — ruling 125)"*), and
-**`book/V-09-the-road-being-walked-now.md` exists and is drafted** — it carries the entry, including
+entry is *scheduled*, not written, with the scaffold amended in the same commit. Checked: the
+renumber is on the record, and **V.9 exists and carries the entry** — it carries the entry, including
 the instrument-record grade this chapter previewed: *"They are also very few, and they establish an
 unidentified track and not an occupant"* (V.9:96), *"Something unidentified has been tracked on
 independent instruments. Grade: real, small"* (V.9:236).
@@ -536,7 +535,7 @@ more actionable diagnosis than *"written from memory"*, and it is the opposite o
 here — I attributed it upstream before checking the upstream file. **See the standing note on grade above**, which states at what level this chapter's attributions are made and which of them are flagged for reading.
 
 [^6]: ⛔ **THE BODY ATTRIBUTED THIS SENTENCE TO THE INHERITED MATERIAL UNTIL DAY 195, AND THE MATERIAL
-DOES NOT CONTAIN IT.** Repaired under ruling 177 (released edition: repair the body, mark the repair). The
+DOES NOT CONTAIN IT.** Repaired (released edition: repair the body, mark the repair). The
 paragraph above read *"the material says that…"* and presented the sentence in bold as quotation,
 with this note carrying the correction two hundred words below — **a fabricated quotation inside an
 accusation, standing in the running text with its refutation in the apparatus.** The argument was
@@ -567,7 +566,7 @@ different objects.
 IV.10's beats, near-verbatim, as item (b) under the heading *"THE INHERITED CRYPTID ENTRY CARRIES
 IV.7'S REFUSED CLAUSE IN TWO FORMS."* So the prose inherited this fabrication rather than producing
 it — **the opposite of [^5], in the same paragraph of the same chapter.** Repairing the chapter alone
-leaves the generator intact. [[feedback_repair_scoped_to_named_cause]] ✅ **The generator was repaired
+leaves the generator intact. ✅ **The generator was repaired
 in the same pass, Day 195** — `06`:1604–1606 now carries the correction and the heading no longer
 asserts the two-forms claim, so a chapter drafted from the scaffold after this date cannot inherit
 it again.
@@ -615,13 +614,13 @@ Physical-Spatial coherence (appear and disappear), high Narrative-Mythic coheren
 Emotional-Relational… variable Numinous-Sacred."* Four axes, **described, not scored.**
 So *"three of five bars on physical presence"* has no cell behind it — **the identical defect IV.9
 filed as its own sharpest finding, committed one chapter later, inside the paragraph calling it a
-settled pattern.** [[feedback_filed_defect_still_gets_rebuilt]]
+settled pattern.**
 ⚠ **This one is the drafter's alone, and I checked rather than assumed.** `06-THE-SCAFFOLD.md`
 contains no sasquatch, no bars and no *"three of five"* anywhere in IV.10's beats; what it carries is
 the **count** (*"the third instance of IV.9's filled-table finding"*, `06`:1620 — see [^11]). The
 specimen and the notation are the drafter's invention at the sentence. **My first version of this
 note blamed the scaffold for both**, which would have been an accusation against a file that had it
-right — the same error as the chapter's, one layer up. [[feedback_grep_derived_from_the_finding]]
+right — the same error as the chapter's, one layer up.
 
 [^11]: ⛔ **THE COUNT IS WRONG BECAUSE AN ENDNOTE CORRECTION DOES NOT PROPAGATE TO THE CHAPTER THAT
 CITES IT.** *"The previous chapter caught the same notation handing back two confident numbers."*
@@ -639,8 +638,8 @@ corrects a claim does not correct the claim's readers.** Filed.
 instance of IV.9's filled-table finding, which settles that it…"* — written before IV.9's [^12]
 existed, and therefore true of what IV.9 then claimed. **The scaffold is now carrying a settled
 conclusion drawn from a retracted premise**, and it will keep handing it forward to every chapter
-drafted from it. Same mechanism as the note above, one document upstream, and the reason R-148 must
-sweep the planning files and not only the prose.
+drafted from it. Same mechanism as the note above, one document upstream, and the reason the sweep must
+reach the planning material and not only the prose.
 
 [^12]: **The notation has a zero, and it prints one.** *"The notation cannot express `this may be
 nobody`"* is false as stated: the Intimate Decomposers line reads `PS□□□□□ IO□□□□□` — an all-empty

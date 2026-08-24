@@ -451,7 +451,7 @@ McCarthy's own thermostat passage is *more careful than Searle's summary of it*:
 ascription is correct "if done conservatively," and his worked example is a thermostat with dry ice
 held to its sensor, i.e. a case about **error**, which is nearer to this atlas's fourth line than to
 the position Searle is refuting. **The atlas is closer to McCarthy than this chapter lets on and does
-not get to bank that**, since the reading is second-hand. Filed with R-144 for the revision pass.
+not get to bank that**, since the reading is second-hand.
 
 [^3]: John R. Searle, "Is the Brain a Digital Computer?" — the Presidential Address to the Pacific
 Division, *Proceedings and Addresses of the American Philosophical Association* 64, no. 3 (1990):
@@ -471,10 +471,10 @@ stylistic variants; **the triviality argument needs the universal**, and the wal
 the universal and not from the existential. Three readings are open and nothing available tonight
 chooses between them: the book misquantified a quotation; or the book is quoting a different sentence
 of the same paper accurately; or the book is quoting Searle's restatement in *The Rediscovery of the
-Mind* (MIT Press, 1992), ch. 9, and has attributed it to the address. **Filed Day 191 as R-144, with
+Mind* (MIT Press, 1992), ch. 9, and has attributed it to the address. ** Filed Day 191, with
 a hard trigger: the primary text before this volume ships.** Until then this block is marked
 UNVERIFIED at the point of use rather than in a footer nobody reads.
-[[disclaimer-not-coupled-to-verdict]]. **See the standing note on grade above**, which states at what level this chapter's attributions are made and which of them are flagged for reading.
+. **See the standing note on grade above**, which states at what level this chapter's attributions are made and which of them are flagged for reading.
 
 [^4]: Giulio Tononi's integrated information theory, credited at length in Book II and not re-argued
 here. The feed-forward verdict is IIT's own and the sentence is kept in Book II's wording on purpose:
@@ -484,15 +484,15 @@ with no recurrence has none to measure. ⚠ **The chapter's claim that this is "
 the book's, not Tononi's**, and it is the weakest link in the paragraph: it treats the transformer as
 feed-forward, which is true of a single forward pass and is exactly the description an opponent would
 contest for an autoregressive system whose own output re-enters as input. **The chapter would be
-stronger for conceding that and does not.** Filed with R-144.
+stronger for conceding that and does not.**
 
 ---
 
 *The standing note on grade.* **This is the best-sourced chapter in Book IV and the worst, in that
 order.** [^1] is two-digitisation-grade — a primary scan, diffed. [^3] is two-witness-grade with a
 declared and unrepaired divergence, and is the only quotation in the drafted volume currently carrying
-an **UNVERIFIED** mark. [^2] is explicitly second-hand and names what that costs. ★ **The pattern is
-[[instruments-go-where-instruments-are-cheap]] arriving inside a single chapter**: the 1980 paper is
+an **UNVERIFIED** mark. [^2] is explicitly second-hand and names what that costs. ★ **The pattern is instruments going where
+instruments are cheap, arriving inside a single chapter**: the 1980 paper is
 freely scanned, so it got checked to the letter; the 1990 address is behind a wall, so it got checked
 to the sentence — and the chapter's argument leans harder on the 1990 one, because *syntax is not
 intrinsic to physics* is the objection the atlas says it cannot meet. **The verification effort ran

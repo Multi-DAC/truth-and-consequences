@@ -326,7 +326,7 @@ pointed out that this is impossible** — the word is purely Greek and has never
 *watcher*. So the term arrives in the tradition **carrying a false etymology that made it sound like
 it was about collectives**, and it was adopted on that basis. That is precisely the failure mode the
 paragraph above uses to retire the word: **a borrowing that transfers authority rather than meaning**,
-demonstrated inside the word's own history. Ruling 109 banned the term and credited the tradition
+demonstrated inside the word's own history. The term was banned and credited the tradition
 once; this note is the credit, and it is now also the argument. **See the standing note on grade above**, which states at what level this chapter's attributions are made and which of them are flagged for reading.
 
 [^2]: **Dunbar's number** — R. I. M. Dunbar, "Neocortex size as a constraint on group size in
@@ -341,9 +341,9 @@ is no 150 anywhere in the manuscript"*** — then wrote a paragraph filing the r
 demonstration of IV.4's confabulation thesis. **The reader was right.** The number is in this
 chapter, spelled out, and it straddles a hard line wrap: `a hundred` ends line 253 and `and fifty`
 begins line 254. A digit grep misses it because it is words; **a word grep misses it because every
-gauge in `tools/` is line-scoped and this prose is hard-wrapped.** ★ That is **R-37's line-scoping
+gauge in `tools/` is line-scoped and this prose is hard-wrapped.** ★ That is **the same line-scoping
 defect** — already filed, already known — arriving in a new place and producing not a missed hit but a
-**false refutation of a correct outside reader, written up as a win.** Filed Day 191 as **R-143**.
+**false refutation of a correct outside reader, written up as a win.** Filed Day 191.
 
 [^3]: **Benedict Anderson, *Imagined Communities: Reflections on the Origin and Spread of
 Nationalism* (London: Verso, 1983)** — print capitalism as the condition for millions of strangers
@@ -351,7 +351,7 @@ holding one story, which is the whole of the paragraph above. ⚠ **He is not na
 he should be.** This is the chapter's largest unpaid rule-5 debt: the sentence *"the nation is a
 printing-press-shaped being"* is Anderson's thesis in the book's own vocabulary, and an unhedged
 assertion with no named ancestor is the thing `03`'s opening section says reads as bluster.
-**Filed with R-143** as the second half of the same row, because the two share a cause: the chapter
+Filed as the second half of the same row, because the two share a cause: the chapter
 was drafted with the arguments in hand and the names left in the drafter's head, and **nothing in
 `tools/` can detect an ancestor who is absent** — `ancestor_gap` measures the register against the
 prose, and a name in neither is in neither.

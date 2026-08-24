@@ -526,7 +526,7 @@ crystal precisely because the hereditary claim will not carry the weight — the
 neighbours, they are consecutive moves. **The stronger version was available and the weaker one got
 printed.** Third instance across three chapters of an error in the argument's *own disfavour*
 (IV.8's undercounted attributions, IV.8's composite Kabbalah, this), and the cause is identical every
-time: [[feedback_scrutiny_is_motive_shaped]] — the asymmetry is not flattery, it is **absence of
+time: — the asymmetry is not flattery, it is **absence of
 looking**, and nothing files a bug against a claim that costs you something.
 
 [^6]: ⛔ **THE SENTENCE THAT LICENSES THE CHAPTER'S CENTRAL MOVE IS THE ONE NOBODY CHECKED.** The
@@ -543,7 +543,7 @@ archetypes-as-genetic in this chapter, in the out-list, or anywhere in the book.
 The claim may well survive — Weismannian inheritance of *specific representational forms* has no
 positive evidence and nothing in modern genetics supplies a mechanism — but ***"has no evidence for
 it"* and *"has been checked and came out negative"* are different claims**, and only the second does
-the job this paragraph needs. [[feedback_audit_the_last_clause]]: the chapter built its own guard,
+the job this paragraph needs.: the chapter built its own guard,
 stated precisely the condition under which walking through it would be illegitimate, and then walked
 through it on an assertion.
 
@@ -577,15 +577,15 @@ and the body now says so.** Jung's *"II, 7, 5"* is **Massuet's** numbering, whic
 about *umbra*. Until Day 198 the chapter gave the Massuet address, then said *"the Latin as Harvey
 prints it"*, and left the reader to discover in a note that the scheme had changed underneath them —
 in the one chapter of this volume whose entire argument is that a citation nobody follows up is a
-citation nobody has checked. **Filed twice before it was fixed — R-108, `SWEEP-001` row 1, and again
+citation nobody has checked. **Filed twice before it was fixed — once upstream in a sweep, and again
 here** — because a defect filed in a sweep file is invisible at the site where a reader meets it,
-which is how it gets rebuilt: [[feedback_filed_defect_still_gets_rebuilt]]. Both schemes are now
+which is how it gets rebuilt. Both schemes are now
 labelled at the point of use; this note records the divergence and no longer carries the repair.
 ⚠ **A correction to this pass's own working, kept because the method is the transferable part.** I
 first placed the passage in Harvey's CAP. V and said so. That was wrong. The scan's OCR **drops the
 `CAP. VI.` heading line entirely**, so an anchored `^CAP\.` search returns V and VII and all but
 invites the inference. What settles it is a *marginal* — `LIB. II. vi.1.` — sitting above the
-passage, invisible to a heading grep. [[feedback_line_scoped_grep_over_wrapped_prose]], twice in one
+passage, invisible to a heading grep., twice in one
 session, in a pass whose whole subject is reading the primary text properly.
 ⚠ Minor, and in the chapter's favour, so worth stating: *"the quotation begins one word too late"* —
 the excised material is **two** words, *Si enim*. The one that carries the conditional is *si*, so
@@ -594,7 +594,7 @@ the sentence is right about the mechanism and loose about the count.
 [^10]: **The five names, counted rather than recognised — and the count IS the section's claim, so
 the grade matters more here than anywhere else in the chapter.** ⚠ **Declared: the primary texts for
 the five were not opened in this endnote pass.** The verdicts are carried from the drafting audit
-(ruling 123), and a standing primary-source check on Loki, Azazel and the Isaiah 14 material **is out
+, and a standing primary-source check on Loki, Azazel and the Isaiah 14 material **is out
 and unreturned at the time of writing.** What the chapter asserts, set down so a reader can score it:
 Prometheus clean (Hesiod, *Theogony* / *Works and Days*; Aeschylus, *Prometheus Bound*) · Azazel
 clean (*1 Enoch*, the Watchers cycle — taught, then bound and cast into darkness) · **Hermes not
@@ -614,8 +614,7 @@ paragraphs fall.* **That falsifier has not been run, and it is cheap** — the s
 where a stated falsifier sat unexecuted three sections from the claim it would have killed. Named
 here so the next pass inherits a target rather than a caveat.
 
-[^12]: ⛔ **THE CHAPTER'S SHARPEST SECTION QUOTED NUMBERS WITH NOTHING BEHIND THEM.** Full
-measurement: `review/SCAN-002-day191-iv9-source-audit.md`; filed as **R-146**. Checked line by line
+[^12]: ⛔ **THE CHAPTER'S SHARPEST SECTION QUOTED NUMBERS WITH NOTHING BEHIND THEM.** Checked line by line
 against the tier material the chapter was built from: the **moderate Cognitive-Experiential**
 rating is **exact**, definition included ✅. But **§4.2, the Promethean entry, carries no
 `Dimensional profile:` line at all** — it is formatted *"A special case:"* and has no scores, so

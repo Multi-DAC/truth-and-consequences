@@ -315,7 +315,7 @@ statutory change it produced** — and it is cited for that reason rather than f
 ---
 
 *The standing note on grade, owed here as in Book VI.* **This chapter names nobody in its prose, and
-that is not an oversight being repaired**: under ruling 9 the name lives in the sentence, and IV.1's
+that is not an oversight being repaired**: the name lives in the sentence, and IV.1's
 three receipts attach to *claims* rather than to attributions. The two external sources above were
 verified against the primary record during the Day-191 retrofit — journal, volume, pagination and
 date for Anand and Hickey; publisher, date and statutory consequence for Birch et al. **Neither text

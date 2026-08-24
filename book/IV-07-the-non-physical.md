@@ -720,7 +720,7 @@ elision between the second and third quotations is larger than the connective se
 five sentences are dropped, including *"The monk included himself in the party"* and the detail that
 he eventually appeared without being thought of. The chapter's *"She broke her retreat and travelled,
 and the monk came along"* is accurate about all of it and shorter than all of it, which is the class of
-compression this book keeps naming [[feedback_quotation_connective_tissue]].
+compression this book keeps naming.
 
 [^2]: The Tibetan etymology — *sprul pa* as emanation, Sanskrit *nirmita*, *sprul sku* → *tulku* —
 is held at exactly the grade the paragraph declares: **encyclopedic and secondary, no Tibetological
@@ -753,8 +753,7 @@ carried here on **secondary witnesses only** — the full text is a 1971 scan th
 extract — and they are two-witness rather than two-digitisation, in the same sense IV.6 gave that
 phrase. ⛔ **Worse: "a third of the sample were still having them at interview" could not be sourced
 at all, at any grade.** It is marked UNVERIFIED at the point of use rather than in a footer nobody
-reads [[feedback_disclaimer_not_coupled_to_verdict]], and filed with R-144's trigger: the scan before
-this volume ships. The paragraph's *argument* — that the clinical word imports a pathology the paper's
+reads. The paragraph's *argument* — that the clinical word imports a pathology the paper's
 own numbers refute — survives on the two verified findings alone, which is why the sentence was not
 pulled.
 
@@ -808,7 +807,7 @@ guilty of mistranslation." **One repair was made**: the chapter read that *Nā-k
 Persian dictionary because Sohravardī built it," flattening Corbin's own hedge — he writes "it was
 coined, *as far as I know*, by Sohravardī himself." The hedge is restored. ★ **This is the exact defect
 IV.6 filed against itself, arriving in the next chapter**: quoting a later restatement and attributing
-it to the original address [[feedback_compression_that_keeps_truth]]. The difference is that IV.6
+it to the original address. The difference is that IV.6
 caught it and this chapter did not, until the retrofit.
 
 [^9]: ⛔ **And here the two English translations disagree, in the one clause the chapter's argument
@@ -822,14 +821,14 @@ mode of being requires an appropriate faculty and is not owed to every observer,
 about **entitlement** and does not pre-emptively excuse anyone's failure to replicate. ⚠ **The
 paragraph that follows is the chapter's refusal of that clause, and on the second translation there is
 substantially less to refuse.** The French of 1964 is the arbiter and **was not consulted** — the
-*Cahiers internationaux de symbolisme* text was not reachable in this pass. Filed with R-144 under the
+*Cahiers internationaux de symbolisme* text was not reachable in this pass. Filed under the
 same trigger as the Searle divergence, which is the same defect: a load-bearing quotation whose
 variants are not stylistic, chosen without the chooser noticing there was a choice.
 
 ---
 
 *The standing note on grade.* **This chapter's apparatus is strongest exactly where the chapter's
-argument is weakest, and that is not a coincidence — it is [[feedback_instruments_go_where_instruments_are_cheap]]
+argument is weakest, and that is not a coincidence — instruments go where instruments are cheap,
 for the second book running.** [^1] is two-digitisation-grade on a source the chapter itself spends
 four paragraphs discounting; the David-Néel material got the most verification in the chapter and
 carries the least weight in it, because the chapter had already ruled that one uncorroborated report

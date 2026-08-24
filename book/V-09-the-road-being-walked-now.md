@@ -305,7 +305,7 @@ people sitting still.
     which is why the defect is survivable: V.9's branch argument needs *one branch*, and one branch is
     what survives at three links as well as at five. **The repair is a clause, not a cut** — the
     quotation should carry V.1's own qualification, because V.1 wrote it and V.9 is the first chapter
-    to quote past it. [[feedback_correction_does_not_reach_citers]]
+    to quote past it.
 
 [^4]: ✅ **True, and the four are a compression of nine.** V.1: *"instrument each report was taken with
     — and inside every one of the three branches, the instruments"* (V.1:156); the roll-call opens
@@ -355,7 +355,6 @@ people sitting still.
     ⚠ **Note what the prose gains and loses by withholding the names.** It gains the point — these are
     nodes in a record, not people to be argued with. It loses the reader's ability to check a single
     word of it. This note is that cost being paid rather than declared.
-    [[feedback_bounding_noun_asserts_the_other_side]]
 
 [^8]: ⛔ **The book is right, the image is right, and the date attached to the image is off by
     twenty-three years — in the direction that weakens the chapter's own case.** The 1987 book is
@@ -379,7 +378,6 @@ people sitting still.
     black-eyed feature. A correlation with a plausible channel is not a channel. Cite it as the
     strongest available *opportunity*, never as proven descent — the chapter would fail its own branch
     test if it took the tighter node on looser evidence.
-    [[feedback_correlated_witness_needs_a_channel]]
 
 [^9]: ⚠ **The structural claim holds; the sentence overreaches by one step, and it is the step this
     chapter elsewhere insists on.** Radar and infrared are genuinely a different instrument in V.1's
@@ -400,7 +398,7 @@ people sitting still.
     surviving-multi-sensor-track subset at all**. So the chapter's *few* is very likely right and
     **cannot be shown right from any published figure**. ★ That is the honest grade: not a citation
     failure but a **category nobody publishes**. Anyone offering a number for this is offering their
-    own extraction. [[feedback_self_generated_denominator]]
+    own extraction.
 
 [^11]: ✅ **Exact, including the ordinal.** IV.10 [^15] opens *"PUBLISHED IN 2019" IS FALSE, AND IT IS
     FALSE IN THE CHAPTER'S CENTREPIECE* (IV.10:655) and establishes *"announced at a press conference
@@ -410,7 +408,7 @@ people sitting still.
     note says so itself: *"This is the chapter's own evidence-grade discipline failing on the chapter's
     own best example"* (IV.10:661). ★ **This is the one inheritance in the chapter that reached its
     citer**, and it reached it because the drafter went and read the note. Every other inheritance in
-    this apparatus had to be found. [[feedback_correction_does_not_reach_citers]]
+    this apparatus had to be found.
 
 [^12]: ✅ **Real, dated, and the paraphrase is fair.** The office is the Department of Defense
     **All-domain Anomaly Resolution Office (AARO)**; the document is *Report on the Historical Record
@@ -430,12 +428,12 @@ people sitting still.
     (IV.7:588) *"diverge you must pick, and the divergence is where all the work is.**"* (IV.7:589).
     ★ **This matters because a corrupted version of the rule is loose in the volume.** IV.10 restates
     it as *"same thing, and that holding both earns no credit"* (IV.10:133) — true, and **not the
-    rule**: *earns no credit* scores the move, *you must pick* obliges it. R-36 filed that the
+    rule**: *earns no credit* scores the move, *you must pick* obliges it. An earlier pass filed that the
     dropped-obligation form is the one that travelled, **including into V.9's own brief**. The shipped
     prose of this chapter takes the correct form. The brief did not.
 
 [^14]: ⛔ **THE BODY CLAIMED THIS RULE HAD BEEN "run at full cost never" UNTIL DAY 195, AND V.8 HAD
-    RUN IT TWENTY-SIX MINUTES EARLIER.** Repaired under ruling 177: the chapter now concedes V.8 and
+    RUN IT TWENTY-SIX MINUTES EARLIER.** Repaired: the chapter now concedes V.8 and
     V.3 by name and makes the narrower claim this note prescribed — *the first case where the pick
     cannot be separated from the null* — which is true and is the harder thing to say. The finding as
     filed: **THE COUNT IS DEFENSIBLE AND THE "NEVER" IS FALSE — REFUTED BY THE CHAPTER DRAFTED
@@ -462,7 +460,7 @@ people sitting still.
     separated from the null. That is true, and it is the harder thing to say.
 
 [^15]: ⛔ **THE BODY PRINTED AN ADAPTED SENTENCE IN ITALICS AS V.1'S OWN UNTIL DAY 195.** Repaired
-    under ruling 177 by the second of the two routes this note offered: V.1 is now quoted **exactly**,
+    by the second of the two routes this note offered: V.1 is now quoted **exactly**,
     including *a fourth datum* and the dropped closing clause, and the arithmetic bridge from three
     branches to one is built in the chapter's own voice instead of being smuggled through a
     substituted word. The finding as filed: **NOT VERBATIM, AND THE SUBSTITUTED WORD IS THE
@@ -482,7 +480,7 @@ people sitting still.
     why the substitution reads so naturally and why it survived drafting. **The defect is the italics.**
     An adapted sentence presented as a quoted one is a fabrication in the connective tissue.
     **Owed:** unitalicise and paraphrase, or quote V.1 exactly and build the arithmetic bridge in the
-    chapter's own voice. [[feedback_quotation_connective_tissue]] · [[feedback_field_keeps_name_swaps_referent]]
+    chapter's own voice.
 
 [^16]: ✅ **Fair, and it is a placement claim rather than a quotation.** I.3's ruling reads *"your focus
     is as present as it has ever been — every bit of it, at full strength, and none of it"* (I.3:48)
@@ -502,12 +500,11 @@ people sitting still.
     *"is **seventeen lines long** (L2448-2464) and was"* (IV.10:531) and *"read in full. It contains no
     sentence about indigenous perception, no *full profile*, and no contrast"* (IV.10:532). It is the
     **sixth** note; the entry is **seventeen** lines; it was read in full; no such sentence is in it.
-    ★★ **And this paragraph is the settled form of R-151, which was filed against the wrong object.**
-    R-151 prescribed cutting the italicised sentence. Re-derivation found the sentence is a *genuine*
+    ★★ **And this paragraph is the settled form of that finding, which was filed against the wrong object.**
+    That pass prescribed cutting the italicised sentence. Re-derivation found the sentence is a *genuine*
     temptation and worth keeping — **the false thing was the four words *IV.10 refused both***. The
     prose now says IV.10 wrote it, and says why a straw temptation refused on the page reads as more
     rigorous than a real one. The repair landed on the connective tissue, not on the quotation.
-    [[feedback_filed_repair_is_a_hypothesis]]
 
 [^19]: ✅ **Exact, and C29 is the right warrant.** The claims register carries it in the canonical text:
     *"★ **The conclusion guarantees the premises.** That is IV.10's own diagnosis, run on IV.1 — the

@@ -413,12 +413,12 @@ is this chapter's own, and it follows directly from the taxonomy: if the felt
 quality of an interaction does not discriminate crystallisation from dissolution, the felt reading
 cannot be the one that decides.
 
-[^5]: R-98's mechanism, fourth instance and first non-claim instance: C18 and C19 each lost a limit
+[^5]: the same mechanism, fourth instance and first non-claim instance: C18 and C19 each lost a limit
 to a section boundary the argument crossed, C21's scope was narrowed by the same operation,
 and here a *definition* is severed from its *reason* across two Parts. The signpost heuristic —
 reading for *two sections on*, *pays in full below* — does not catch this one, because there
 is no signpost at all; the joint is discoverable only by holding the taxonomy against the census.
-Filed rather than swept: the batch sweep R-98 called for still owes the other twenty-eight.
+Filed rather than swept: the batch sweep the earlier pass called for still owes the other twenty-eight.
 
 [^6]: The floor is C18, established at VII.3 with both its limits — validity without motivational
 grip, and impartiality as a wagered premise rather than a derived one. Neither limit is loosened
@@ -432,7 +432,7 @@ and are used in this manuscript at VII.3 and VII.4; they are not re-sourced here
 requital it calls for, and VIII.12 on parental love as prior, greater, and not diminished by being
 unreturned in kind. ⚠ Aristotle is named in four earlier chapters and the *Ethics* has never been
 used: `philia` occurs zero times in the manuscript before this line. That is the fourth zero-count
-of the shape ruling 141 describes — an ancestor holding the position, unnamed at the point where the
+of the shape described above — an ancestor holding the position, unnamed at the point where the
 book restates it — and it was found here by looking rather than by a scheduled check, which is the
 gap that ruling left open. Receipt status: the two citations are to loci this chapter's author knows
 by argument rather than from the text in hand; primary check owed at the retrofit.

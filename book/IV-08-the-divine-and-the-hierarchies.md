@@ -543,7 +543,7 @@ against one. **Nothing here refutes the cut** — three genuinely uncorrelated a
 distinction is still a strong result, and the *Laozi* is uncontaminated by any of the others. What is
 refuted is *five*. Filed: the chapter states a transmission falsifier for a card and does not run it
 on the convergence three sections above the card
-[[feedback_correlated_witness_needs_a_channel]]. **See the standing note on grade above**, which states at what level this chapter's attributions are made and which of them are flagged for reading.
+. **See the standing note on grade above**, which states at what level this chapter's attributions are made and which of them are flagged for reading.
 
 [^5]: The dating is right and the noun was wrong, and the noun mattered. The corpus is placed c. 480–530
 — it quotes Proclus (d. 485) and surfaces at the Colloquy of Constantinople in 532/533 — so "around
@@ -589,7 +589,7 @@ settles it in the chapter's favour.** CH VI.2 reads *Πάσας ἡ θεολογ
 appellations; these our divine initiator divides into three triadic orderings." *ἐννέα* is what the
 calling delivers. **The 1899 tracks the Greek and the 1894 does not, and the chapter quoted the 1899
 without knowing there was a 1894 to quote instead.** It was right by luck, and the earlier printing is
-here the worse text [[feedback_earliest_printing_is_not_best_text]]. ⚠ One residual gloss, declared
+here the worse text. ⚠ One residual gloss, declared
 rather than repaired: Parker renders *ἡ θεολογία* as "The Word of God," and the chapter reads it as
 *scripture* — "a count of names occurring in a particular canon." That is standard for Dionysius's
 usage and it is still a translator's gloss doing argumentative work, and no critical edition of the
@@ -611,7 +611,7 @@ to the author's honesty, which the chapter did not actually need and did lean on
 said the grouping is re-attributed "twice." It is re-attributed **four** more times in the same
 section — "He also says," "For he says," "our illustrious Guide spoke of," "But he says." The
 chapter undercounted its own evidence. An error that *understates* your case attracts no scrutiny
-from you, which is the same asymmetry as [[feedback_guard_built_in_the_feared_direction]] with the
+from you, which is the same asymmetry as a guard built only in the direction you fear, with the
 sign flipped, and it survived a draft for the identical reason: nothing files a bug against an error
 in your disfavour either, because nothing is looking.
 

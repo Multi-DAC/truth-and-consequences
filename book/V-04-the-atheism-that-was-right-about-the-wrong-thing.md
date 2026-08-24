@@ -316,7 +316,7 @@ this apparatus would most like the next chapter to inherit.
     a failing. **This is the chapter committing the exact flattening it opens by naming.** The fix is
     cheap — the sentence is correct with Dawkins's name on it and Harris's argument stated as his own —
     and it should be made, because a chapter whose thesis is *four different arguments, not one voice*
-    cannot afford to hand one man another man's line. [[feedback_one_pass_mapping_is_unverified]]
+    cannot afford to hand one man another man's line.
 
 [^4]: ★ **Accurate, and weaker than the source it is compressing — the only place in Book V so far
     where the chapter under-quotes its own best warrant.** Hitchens's argument is exactly the one
@@ -343,7 +343,7 @@ this apparatus would most like the next chapter to inherit.
     Spell* surfaced in the sources consulted, and secondary accounts of the four report Dennett as the
     least-cited and least-notorious without giving numbers. **Grade: the direction is well-attested,
     the magnitude is not, and the chapter asserts a comparison that the apparatus can only corroborate
-    in one of its two terms.** [[feedback_outside_read_numbers_are_estimates]]
+    in one of its two terms.**
 
 [^6]: ⚠ **A universal negative about the whole volume, entered in a chapter that is not in a position
     to check it.** *"No argument from authority appears in this volume. No claim is asked to be
@@ -353,7 +353,7 @@ this apparatus would most like the next chapter to inherit.
     **uninformative.** The patterns were guessed at rather than derived, no positive control was
     planted, and nothing establishes that this search would have found an argument from authority if
     one were sitting there in prose that does not use those phrasings.
-    [[feedback_zero_needs_a_positive_control]] The claim may well be true. **What is certain is that
+    The claim may well be true. **What is certain is that
     it is currently unverified and reads as verified**, and it is the kind of claim a hostile reader
     needs exactly one counterexample to kill. ⛔ Owed: a derived sweep, or the sentence weakened to a
     commitment rather than a report — *this book does not argue from authority* rather than *no
@@ -378,7 +378,7 @@ this apparatus would most like the next chapter to inherit.
     the finding there was that the flinch *"removed a tier,"* not a hedge — and *thing* dissolves it
     into general caution. **The defect is not the substitution on its own. It is that the substitution
     sits precisely where the quotation marks stop, so the one altered word is the one word a reader
-    cannot check.** [[feedback_quotation_connective_tissue]]
+    cannot check.**
 
 [^9]: ⚠ **The lean is declared, priced, and not where this sentence says it is.** *"That lean is
     stated at the front with its price attached"* — the statement is at **IV.1**, and it is a good
@@ -389,7 +389,7 @@ this apparatus would most like the next chapter to inherit.
     or the CODA states it. The phrase is inherited from IV.4 — *"announced at the front so a reader can
     price it"* — where *the front* was three chapters back and unambiguous. Carried into Book V it
     keeps its wording and swaps its referent: a reader who follows the instruction goes to the opening
-    of the book and finds nothing. [[feedback_field_keeps_name_swaps_referent]]
+    of the book and finds nothing.
 
 [^10]: ⛔ **This states the book's practice, and V.1 rules that practice out in the same
     sentence-position, one book earlier.** V.4: *"It is not proof, and this book says which every time
@@ -417,7 +417,7 @@ this apparatus would most like the next chapter to inherit.
     a partial answer with a conceded live residue, and the citing chapter, one book later, sends a
     reader to *"the defence."* **A claim gets stronger as it moves away from the chapter that
     qualified it** — the identical shape filed as V.3 [^7], now recurring in a chapter that was not
-    part of that finding's population. [[feedback_correction_does_not_reach_citers]]
+    part of that finding's population.
     ⛔ **And the instrument note, which is the more expensive half.** This pair *is* tier 1 in
     `crossref_rot.py` — `V.4>V.1:5ee32b3c`, cited 2026-08-09, four corrective notes landed in V.1 two
     days later. It was **never printed**: the tool caps its default view at 20 of 99 rows and ranks by
@@ -428,4 +428,3 @@ this apparatus would most like the next chapter to inherit.
     this (*"--all prints them; nothing was dropped silently"*), and the standing instruction in the
     carrier — *read its output, not its count* — was obeyed. Reading the output read twenty rows.
     **Owed: `--all` is the default for this retrofit from here on, or the rank inverts.**
-    [[feedback_filter_precision_eats_recall]]

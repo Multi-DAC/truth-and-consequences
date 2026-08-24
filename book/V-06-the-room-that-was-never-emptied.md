@@ -292,7 +292,7 @@ that invert between their sources, and it reports both inversions as continuitie
 authors, uses both terms, and calls the swap a sharpening [^10]. *Tzimtzum* means concentration
 **into** a place in the midrashic and Nahmanidean sources and withdrawal **from** one in Luria, and
 the chapter dates its Lurianic doctrine to the era of the sources that mean the reverse [^11]. Same
-word, opposite referent, twice, in eleven pages. [[feedback_field_keeps_name_swaps_referent]]
+word, opposite referent, twice, in eleven pages.
 
 And a direction worth noting against V.5's rate. V.5 [^8] [^10] established that **every interval
 Book V states is too short, and every one costs the book something.** V.6 breaks that rate and breaks
@@ -300,8 +300,7 @@ it the other way: its two datable errors — Luria's tenure at the top of the ra
 backdated four centuries [^11] — both run *toward* the chapter's case, because an older and
 longer-taught tradition is a more impressive witness. The V.5 pattern was errors nothing was watching
 for because no motive files a bug against them. This is the complement, and it is the harder one: an
-error that flatters has a motive *keeping* it. [[feedback_guard_built_in_the_feared_direction]]
-[[feedback_scrutiny_is_motive_shaped]]
+error that flatters has a motive *keeping* it.
 
 [^1]: ⚠ **Both figures are taken at the flattering end of a range the chapter does not mention.**
     Luria reached Safed in 1569 or 1570 and died in the epidemic of July–August 1572; the standard
@@ -324,7 +323,7 @@ error that flatters has a motive *keeping* it. [[feedback_guard_built_in_the_fea
     recension is one party to that question.** A chapter that says the transmission problem is visible
     owes the reader the place it is visible at, and this is it.
 
-[^3]: ⛔ **R-184. The chapter inherits V.1's prose and not V.1's own footnote, on precisely the link
+[^3]: ⛔ **The chapter inherits V.1's prose and not V.1's own footnote, on precisely the link
     that footnote singles out.** V.1 [^7] names **Kabbalah as one of the two weakest** of the five
     supposedly-dependent witnesses — *"Kabbalah's dependence is given as 'develops … in a world in
     contact with both', which is contact and not descent"* — and says the conclusion *"survives at
@@ -333,7 +332,6 @@ error that flatters has a motive *keeping* it. [[feedback_guard_built_in_the_fea
     a separate arrival"*, which is the ruling V.1's apparatus had already qualified. ★ **The error runs
     against the chapter**: it surrenders a corroboration claim the evidence may entitle it to. Nothing
     in this book watches a chapter for being too hard on itself.
-    [[feedback_correction_does_not_reach_citers]]
 
 [^4]: ⛔ **These are not two works. *Shaar HaYichud VehaEmunah* is Part Two of the *Tanya*.** The
     sentence — *"in the *Tanya* and at length in *Shaar HaYichud VehaEmunah*"* — coordinates a book
@@ -353,8 +351,7 @@ error that flatters has a motive *keeping* it. [[feedback_guard_built_in_the_fea
     power"*, are given inside the report of what Shneur Zalman *"takes … hard"*, and **I could not
     locate either as his**. They read as the chapter's compression of his argument into imagery, which
     is legitimate prose and illegitimate attribution when it sits in the source's voice with no seam.
-    R-178's class exactly: the fabrication risk is in the connective tissue, not the quotation.
-    [[feedback_quotation_connective_tissue]]
+    the same class exactly: the fabrication risk is in the connective tissue, not the quotation.
 
 [^6]: ⛔★ **The chapter refuses a partisan telling and adopts the other party's reconstruction without
     saying it is one.** *"The usual telling is a partisan simplification and it is the losing side's
@@ -369,7 +366,7 @@ error that flatters has a motive *keeping* it. [[feedback_guard_built_in_the_fea
     documents, and the chapter's sentence *"That is not a claim that the Infinite has a hole in it"*
     is one side of that dispute stated as its resolution. ★ **The party the correction exonerates is
     the party that supplied the correction**, and the chapter, which is unusually alert to this move
-    elsewhere, does not notice it here. [[feedback_never_relax_the_gauge_that_caught_you]]
+    elsewhere, does not notice it here.
 
 [^7]: ⛔★ **The datum offered as proof that the dispute was *"live rather than tribal"* is one of the
     most tribal points in the literature.** That Chaim of Volozhin broke with his teacher on tzimtzum
@@ -407,12 +404,12 @@ error that flatters has a motive *keeping* it. [[feedback_guard_built_in_the_fea
     copula dropped to fit the sentence. ★ **But I.6:7 carries a near-twin of that line** — *"the whole
     of it lies pressed flat against the edge of here, in no direction at all"* — so a span-check on
     *pressed flat against the edge* returns two chapters, and the attribution is right by care rather
-    than by the check. That is the R-190 condition sitting inside a clean row.
-    [[feedback_verification_anchor_must_be_unique]] ⚠ Also, at V.6:141: I.3 does its refusing in its
+    than by the check. That is the same condition sitting inside a clean row.
+    ⚠ Also, at V.6:141: I.3 does its refusing in its
     **second** paragraph, not its *"opening paragraph"* — the opening paragraph states the position,
-    the second denies it is a hole. R-186's class, at its smallest.
+    the second denies it is a hole. The same class, at its smallest.
     ★ **AND A RULING THE ACCURACY CHECK ABOVE HAD NO STANDING TO MAKE.** *The Fullness* is Book I's
-    mythic name for the Ground and it is **retired at the I/II boundary** (ruling 14): Books II–VIII
+    mythic name for the Ground and it is **retired at the I/II boundary**: Books II–VIII
     may not use it. The block-quotation at V.6:109 carries it into Book V — and it is **licensed
     here, as a stated exception**, because a quotation reproduces its source or it is not a
     quotation, and tidying I.3's sentence into the current vocabulary would make this endnote's own
@@ -420,7 +417,7 @@ error that flatters has a motive *keeping* it. [[feedback_guard_built_in_the_fea
     retired name in this chapter's own voice is a breach, and the sweep is set to say so. What this
     note originally recorded was that the quotation is *accurate*. Whether it was *permitted* is a
     second question, and it went unasked for six days — the accuracy pass ran, the permission pass
-    did not exist. [[feedback_two_guards_only_independent_in_the_untested_case]]
+    did not exist.
 
 [^10]: ⛔★ **He does not sharpen the Zohar's formula. He inverts it — and the inversion is why the
     quotation says what this chapter needs it to say.** Bezalel Naor: *"It is incontrovertible that
@@ -435,7 +432,7 @@ error that flatters has a motive *keeping* it. [[feedback_guard_built_in_the_fea
     the sides.** The point the chapter makes about vantages is the point it missed about its own text.
     ⚠ Honest limit: R. Shelomo Fisher holds the reversal to be *"merely semantics"*, so whether the
     swap carries theology is disputed; **that the words swap is not.** *"Sharpens"* is the wrong verb
-    under either view. [[feedback_field_keeps_name_swaps_referent]]
+    under either view.
 
 [^11]: ⛔★ **Four centuries early, and the sources that are actually that old mean the opposite.** The
     doctrine being credited — the limitation exists so that a creature can stand as itself rather than
@@ -463,7 +460,6 @@ error that flatters has a motive *keeping* it. [[feedback_guard_built_in_the_fea
     ★ **A defect filed in an apparatus is filed in the one place the next chapter's author does not
     read.** That is not a fact about this chapter; it is the retrofit's own failure mode, and it is
     why `tools/apparatus_rot.py` exists as of tonight.
-    [[feedback_correction_does_not_reach_citers]] [[feedback_filed_defect_still_gets_rebuilt]]
 
 [^12]: ✅ **The doctrinal chain is standard and correctly ordered.** The vessels of the lower seven
     failing while the upper three hold, sparks scattered and caught in husks, *tikkun* as the work of
@@ -482,7 +478,7 @@ error that flatters has a motive *keeping* it. [[feedback_guard_built_in_the_fea
     write. Read as a claim about what the map maps rather than about whether the map is true, the
     section takes on no debt at all.
 
-[^14]: ⛔ **R-183. The chapter coins a thesis and backdates it to V.1 within six lines.** At `V.6:264`: *"V.1 opened
+[^14]: ⛔ **The chapter coins a thesis and backdates it to V.1 within six lines.** At `V.6:264`: *"V.1 opened
     this book by saying that a tradition is a road and that the summit statements are the part that
     travels, which is why they arrive stripped of everything that made them safe."* ⛔ **`strip` and
     `safe` occur zero times in V.1**, prose and all seven notes, and **`travel` occurs zero times as
@@ -501,7 +497,7 @@ error that flatters has a motive *keeping* it. [[feedback_guard_built_in_the_fea
     original sentence read *"`travel`, `strip` and `safe` occur zero times in V.1"*, which is false
     as a claim about the root and was going to be quoted as one. A refuter attacks the conclusion; it
     does not re-run the grep. Nothing in this project had ever re-derived a number written inside a
-    note. [[feedback_run_the_existing_gauge_first]] [[feedback_grep_derived_from_the_finding]]
+    note.
 
 [^15]: ⛔★ **The words are not in the third gate, and the man did not write them down — his son did.**
     *"Chaim of Volozhin nearly did not write the third gate. **He says so, in it.**"* Both quotations —
@@ -511,7 +507,7 @@ error that flatters has a motive *keeping* it. [[feedback_guard_built_in_the_fea
     publication of **the work**, not of Gate III. The book's structure settles it: there is **no
     author's introduction to the *Nefesh HaChayim*** — Chaim of Volozhin never wrote one, and Yitzchak
     wrote one in his place. The chapter asserts a location, in italics, and the location is wrong;
-    R-187's class, where the clause advertising fidelity is the aggravating one. ★ **And the closing
+    the same class, where the clause advertising fidelity is the aggravating one. ★ **And the closing
     sentence is undone by the same fact.** The chapter's last move is that the teaching reaches us
     *"because he wrote it down instead of leaving it in the hands of people who would know when the
     student was ready."* But this passage reached us because he handed a manuscript to his son on his
@@ -520,4 +516,4 @@ error that flatters has a motive *keeping* it. [[feedback_guard_built_in_the_fea
     chain is one link longer than the chapter says, and the extra link is exactly the kind of
     custodian the chapter is arguing against.** The argument survives and gets better for the
     correction: the transmission did not bypass the custodians, it survived them, narrowly, and with
-    an apology in the front matter. [[feedback_artifact_states_its_own_roster]]
+    an apology in the front matter.

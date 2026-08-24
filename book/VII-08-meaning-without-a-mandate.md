@@ -482,7 +482,7 @@ manuscript had used it before now.** Frankl's three pathways to meaning — crea
 experiential encounter, and the attitude taken toward unavoidable suffering — are on the same card
 and are the tradition's partial exception to its own blindness; `Frankl` occurred zero times across
 fifty-eight drafted chapters, `Camus` zero, `MacIntyre` zero, `Sisyphus` zero, `eternal recurrence`
-zero. Ruling 141's pattern, sixth firing, and this time in a chapter whose brief predicted every one
+zero. That pattern, sixth firing, and this time in a chapter whose brief predicted every one
 of the zeros — which is progress of a kind: the brief caught what the drafting would have missed,
 and the brief only caught it because someone counted.
  ⚠ **The receipt owed for Sartre, added Day 191:** *pour-soi* — being-for-itself — is Sartre's, from *L'Être et le néant* (1943), and it reaches this chapter **inside the census card's own sentence, not from a reading of Sartre.** That is the honest provenance and it is the reason he is not argued with here: the card cites him as an instance of existentialism's individualist default, this chapter takes the card's diagnosis, and **a name that arrives through a quotation is owed the note that says so.**
