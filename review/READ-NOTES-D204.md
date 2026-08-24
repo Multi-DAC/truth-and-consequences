@@ -143,10 +143,112 @@ vendoring did not break text extraction.
 
 ---
 
+## BOOK III — THE GAME (III.1–III.8, 28,096 words) — read 17:0x–17:4x
+
+**Verdict: this is the strongest book so far, and III.8 is why.** Book II kept the contract Book I
+broke; Book III does something harder — it spends seven chapters inside one metaphor and then, in
+the eighth, runs the metaphor's own audit *at the same volume as the argument* rather than as a
+modest appendix. Five words the frame supplies and the book refuses (*save*, *quest*, *sandbox*,
+*level*, *respawn*), the pattern behind them stated as the finding rather than the list, Max Black
+on why a vocabulary *controls* a description, Huizinga on the one feature of games the book denies
+outright while going on using the word — and then the honest half: **an entailment can be refused
+and a connotation cannot.** The exception carved for irreversible loss borne at a position is
+written so as not to contain the premise Book VII will refuse, and the chapter says so. That is the
+best piece of self-instrumentation in the volume.
+
+⬛ **III.8's endnote markers are out of order in the printed book, and it is the only chapter in the
+volume where they are.** Confirmed by rasterising, not by reading the source: superscript **4**
+(Huizinga) lands on **p.201**, superscript **3** (Black's *by-products* clause) on **p.203**, and
+the notes block on p.207 lists them 1·2·3·4. A reader meets note 4 two pages before note 3.
+Mechanism: `compile_pdf.py` uses Python-Markdown's footnotes extension, which numbers by
+**definition** order, not appearance order — the body references `[^1] [^2] [^4] [^3]`. All seven
+other Book III chapters reference in strict order and are clean.
+→ Cheap fix, one file: swap the definitions of `[^3]` and `[^4]` in `III-08` and swap the two body
+markers. No prose changes.
+
+⬛ **III.2 note 1 makes a word-count claim about its own line, and the line is on the page above it.**
+The note says the sūtra *"is quoted here in four words because it is four words."* The chapter
+prints `lokavat tu līlākaivalyam` — **three**. And the body itself treats the third token as a
+compound sixty lines later: *"Kaivalyam is the honest half of the compound."* The note and the body
+disagree about how many words the chapter printed.
+→ Cheap fix: *"in three words because it is three."*
+
+⬛ **The last sentence of the book is `149 entries, 5 machine-uncertain.`** Sweeping the PDF for
+working-note instructions turned this up in the back matter, not in Book III — but **one of the five
+is Book III's**, so it is in scope. Four rows of Z.2 Works Cited ship with a reader-facing flag:
+
+> *…San Francisco: HarperCollins, 1990) — III.1* ⚠ *(machine-uncertain: this may be an author or a
+> fragment of the note's prose rather than a title — **check the endnote**)*
+
+pp. **1070, 1071, 1072, 1074**, plus the tally on **p.1076**. The rows are visibly garbled where the
+generator mistook note prose for a title — *"Robert Monroe: Virginia broadcasting executive, onset
+(Doubleday, 1971)"* — and *"check the endnote"* is an instruction to a maintainer printed in a
+reader's index. This is the Book II apparatus-leak class in its purest form: the volume closes by
+telling the reader how much of its own bibliography it could not parse.
+→ Same standing as the leak: unapplied, his call. But it is five rows and a tally, not 38 pages.
+
+◻ **Book III is clean of the leak, and that is a measurement, not an impression.** Swept all eight
+chapters for the three hard classes: **0** apparatus-file pointers, **0** local filesystem paths,
+**0** drafting-process phrases in **23,009 body words**. The 54-occurrence class found in Book II
+does **not** extend here. That matters for pricing the repair — the leak is localised, not a
+uniform property of the volume, and a fix scoped by grep will find it where it is.
+
+◻ **Self-narration is down again: ~490 words across eleven spans in III.1–III.7 = 2.4%** of 20,029
+body words, against Book II's 3.9% and Book I's 7.4%. ⚠ **Grade, stated rather than rounded up:** the
+spans were identified by reading, not by a gauge, so this is a reader's count and not the same kind
+of number as the leak sweep. **III.8 is excluded on purpose** — register-talk is that chapter's
+subject, and counting it as flinch would be a category error. Named here so the exclusion is visible.
+
+◻ **The Embodied Mind is carrying four of eight chapters, and Book II's note asked for exactly the
+opposite.** Varela/Thompson/Rosch appear in III.4 (5 body mentions), III.5 (5), III.6 (8), III.7 (3)
+— twenty-one in all — and are cut four separate ways: the clock (III.4), the membership floor
+(III.5), taken whole and credited (III.6), the walking simile (III.7). Every one of the four is
+individually right and III.5 explicitly refuses to re-perform III.4's cut. But Book II's closing
+observation was that the credit-then-cut form had become predictable and wanted **one deliberate
+variation somewhere in Book III–IV**. Book III does not vary it — it *narrows* it, to a single 1991
+cognitive-science monograph. A reader could finish Book III thinking that book is this one's
+principal opponent.
+→ Not a fix for Book III. A thing to watch for in Book IV, where the same authors are due back.
+
+◻ **Book III writes seven separate IOUs against Book VII.** Body-prose forward references: **VII ×7,
+VIII ×2, V ×2** — eleven, against Book II's thirteen, so not an escalation in volume. The
+*concentration* is the observation. Book VII is holding III.2's account of death, III.3's answer to
+Borges's *negates us or turns us into phantoms*, and III.5's obligation debt, which is incurred in
+the open and in so many words: *"That debt is real, it was incurred here, and it is not paid in this
+chapter."*
+→ Carried forward as a check to run **at** the Book VII read: each of the seven, discharged or not.
+
+◻ **III.6 is the one chapter in Book III that receives a handoff and does not pass one.** Six of
+eight close by naming what comes next (III.1→2, III.2→3, III.3→4, III.4→5, III.5→6, III.8→Book IV).
+III.6 ends on priority and hands off to nothing; III.7 then opens by reaching back **past** it to
+III.3 — *"Four chapters ago…"*. III.7's own ending is deliberately an ordinary-life close and needs
+no handoff. So the break is one-sided and it is III.6's exit.
+
+✅ **Raised and cleared — the internal chapter pointers hold in both directions.** III.3 defers the
+choice question with *"It gets its own chapter, four along"*; four along is III.7, which is the
+choice chapter. III.7 opens *"Four chapters ago the hardest question in this book was named"*; four
+back is III.3, which named it. Checked both ways because a pointer that is right forwards and wrong
+backwards is the ordinary failure. Not a defect. Recorded so a later pass does not re-derive it.
+
+✅ **Raised and cleared — notes-layer glyphs in body prose.** III.5 line 125 opens a body paragraph
+with `⚠`, which read as the apparatus leaking into the argument. Swept the whole volume before
+filing it: **478 body-prose glyph occurrences across all books.** It is house style, not a Book III
+anomaly, and Clayton has already ruled the notes vocabulary mostly good. Killed rather than filed.
+
+**One matter of taste, stated as mine and not as a finding.** III.5 opens *"it is the shortest claim
+in the book"* and is the **longest chapter in Book III** (5,135 words). The sentence is about the
+claim and not the chapter, so it is not an error — but it is the one place in Book III where a
+reader can catch the book on a technicality, and III.5 is the chapter that can least afford it.
+
+---
+
 ## RUNNING TALLY
 
 | book | chapters | words | read | findings ⬛ | observations ◻ |
 |---|---|---|---|---|---|
 | I | 6 | 7,604 | ✅ D204 | 1 (three sites) | — |
 | II | 8 | 24,558 | ✅ D204 | 3 | 3 |
-| III–VIII, C, Z | 57 | 292,836 | 52 unread | — | — |
+| III | 8 | 28,096 | ✅ D204 | 3 | 5 |
+| IV–VIII, C, Z | 49 | 264,740 | 44 unread | — | — |
+
+**27 of 71 read. 60,258 words.**
