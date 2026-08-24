@@ -1010,3 +1010,92 @@ whether VIII.3 makes it six. If it stops, the device was never a finding.
 
 ◻ `card_sweep` reports **VIII.7 carries no census card** (`null=0`, partial). Probably deliberate
 for the closing chapter — flagging it so it is a decision rather than an omission.
+
+### VIII.3 — EDITING (6,927w, p.957–979) — the longest chapter in Book VIII
+
+**Verdict: this is the chapter that decides whether the volume is honest, and it holds.**
+*"There is a reading of `the filter is editable` that costs nothing and promises everything, and
+the reader arrives already holding it."* The firewall is stated **before** the technique, with the
+reason given — *"a firewall that lives in a different chapter from the fire is decoration"* — and
+the refusal is argued on the book's own premises rather than by disapproval: contracted attention
+cuts a narrow canyon, so *"even the frame in which wanting is the lever gets the sign wrong on its
+own showing."* Class VII is printed **with an empty practice line** rather than dropped, and the
+reason is the best sentence in the chapter: *"the omission would have been undetectable, which is
+precisely what makes it worth refusing."* The closing move — *"a true account of a restriction
+should produce modest instructions and an untrue one produces magnificent ones"* — earns the
+thinness it just delivered.
+
+⬛ **THE FINDING: the chapter discloses its own defect and the disclosure understates it by four
+times.** Note 3: *"VIII.3's markers are ALREADY out of sequence in the body — **7 appears before
+5 and 6.** That is a real defect… renumbering against a broken order would scramble live
+references. Filed, not papered over."*
+
+Measured, marker order in the body: **1, 8, 2, 3, 4, 7, 5, 6.**
+
+| | inversions |
+|---|---|
+| named in the note (7 before 5, 6) | **2** |
+| caused by **8** appearing second — unnamed | **6** |
+| total | **8** |
+
+**Marker 8 is the second endnote reference in the chapter**, jumping the queue over six others,
+and the disclosure does not mention it. And this is not a tidiness point: the note's *reason for
+not fixing it* — the renumbering would scramble live references — was priced against a
+two-inversion defect. Against `1, 8, 2, 3, 4, 7, 5, 6` the repair is a near-total resequence and
+the cost is a different number. **A decision to defer, taken on a measurement of a quarter of the
+problem.**
+★ Recording how I got it: I nearly accepted the disclosure because it was candid. A defect a
+document confesses is still a defect a document *measured*, and this one measured itself short.
+
+⬛ **Note 5's two halves contradict each other.** It says (a) tradition-switching was *"deferred to
+this chapter by the previous one's screen"* and (b) *"The phrase `tradition-switching` had occurred
+only in planning documents before this chapter, **never in prose**."* Swept: **2 occurrences,
+VIII.2 and VIII.3.** VIII.2 is the previous chapter and its prose reads *"**Method 2 —
+tradition-switching.** Adopt, deeply enough to inhabit…"* — the deferral in half (a) was performed
+**using the phrase** whose prose absence half (b) asserts. Third chapter running in which a note
+about provenance gets the provenance wrong (VIII.1 the gauge, VIII.2 the Wilson census, VIII.3
+this).
+
+⬛ **THE CROSS-CUTTING FIND IS BIGGER THAN THE NUMBER I HAVE BEEN CARRYING, and it is my own
+lesson-store slugs.** The handoff records the apparatus leak as *54 occurrences on 38 distinct
+printed pages* across three categories (apparatus pointers · filesystem paths · drafting-process
+phrases). There is a **fourth category and it is larger than all three**:
+
+> **`feedback_*` lesson slugs — 92 occurrences on 63 distinct printed pages of 1,076,
+> spanning p.328–p.979.** 36 distinct slugs; `feedback_quotation_connective_tissue` ×13,
+> `feedback_correction_does_not_reach_citers` ×10, `feedback_scrutiny_is_motive_shaped` ×7.
+> Source count is 106 across 16 chapters (IV, V, VII, VIII); the artefact count is 92 and the
+> 14-row delta is **unexplained** — stated rather than reconciled, because the artefact number
+> is the one a reader meets and it is the one I am filing.
+
+VIII.3's own note 8 ends: `feedback_evidence_grade_distinction · feedback_audit_the_last_clause`
+— **printed on p.979 of the compiled book.** These are slugs from *this body's* auto-memory index.
+⚠ **Do not add 92 to 54.** Two censuses under two rules; the union has to be recomputed, and
+saying so is the repair. What is safe to say is that the leak is on **at least 63 pages, not 38**,
+and that the previously-reported figure was measuring the smaller half.
+
+✅ **CLEARED: *"`psychedelic` occurred zero times in the sixty-two chapters preceding this one"*** —
+**TRUE.** 4 occurrences in the manuscript, all VIII.3's. The arithmetic is right too (I.1–VIII.2 is
+62). A genuinely arresting fact about the volume and the note is entitled to it.
+✅ **CLEARED: the `blind spot` census, stated correctly here.** Note 6: *"it belongs to the chapter
+on the era's render, **where it carries eleven occurrences**."* Scoped to VI.8 — correct. The same
+fact is wrong in VIII.2 and right in VIII.3, one chapter apart, which is what makes VIII.2's a slip
+rather than a misunderstanding.
+✅ **CLEARED: the failure-mode ladder makes six**, and the sixth is genuinely a new kind — *"the
+first one that is not a defect of perception at all… exact about what it did and blind to whether
+it worked, which is the failure mode of an open loop."* Six chapters, six distinct modes, no
+repetition. The device is real.
+✅ **CLEARED: the Class VIII primary sources are properly graded.** Grossman *et al.* Cell 169:6
+(2017) for the mechanism, Violante *et al.* Nat Neuro 26 (2023) for the human depth result, Wessel
+*et al.* alongside it, Demchenko *et al.* Brain Stim (2025) for the review — with the body text
+corrected from *"without touching the cortex"* to *"minimal exposure"* because Violante's finding
+is the weaker one. That is the evidence-grading discipline actually working, and note 8 records
+cutting *"some classified research programmes"* as *"the worst clause in the manuscript."*
+
+◻ **Two incompatible "failure mode" numberings collide in one chapter.** The Complement field
+says *"the **fifth** failure mode IV.1 registers"*; three pages later the card says *"This is the
+**sixth** failure mode the census has kept separate."* Two lists, two counters, same phrase, no
+signal to the reader that they are different registers.
+
+◻ 76 `ruling NNN` / `R-NNN` process IDs across 27 chapters — confirms the 76 already on file, now
+with the chapter distribution. VIII.3 carries one (`ruling 177`), VIII.5 one.
