@@ -391,6 +391,145 @@ about plants and fungi and is not signposted as the load-bearing passage it is.
 
 ---
 
+## BOOK V — THE OLD ROADS (V.1–V.11, 64,191 words) — read 18:5x–19:5x
+
+**Verdict: Book V is the most honest book in the volume and the one a reader is least likely to
+finish, and those are the same fact.** It does the thing the volume was built to be able to do — it
+runs the branch count on the material it most wanted to be impressed by, twice, and reports the
+smaller number both times. V.1 reduces six statements of the Ground to **three** defensible branches
+in the paragraph where the shiver was supposed to land, then finds the axis that actually carries
+(instrument-independence, not geography). V.10 does the same to William James: Suso is Eckhart's
+student is Dionysius is Proclus is Plotinus, and *Whitmanism* — James's most recent independent
+witness — turns out to be his oldest witness arriving in Brooklyn by way of Emerson at a datable
+moment. V.6's Chaim of Volozhin (*"even in the space where the worlds currently exist"*) is the best
+ancestor find in the project. V.9 grades the contemporary encounter record by the book's own rules
+and returns a negative verdict on the frame the book's own metaphysics hands it for free.
+
+**And the apparatus has become a second book.** That is this read's finding, and it is structural
+rather than a list of errors.
+
+⬛ **THE NOTES REACH 1:1 IN BOOK V, AND THE OPEN REVISION ROW NAMES THE WRONG BOOK.** R-227 carries
+Fable's reservation that a front-matter note is *"most necessary at IV.7–IV.9, where the
+footnote-to-body ratio approaches 1:1."* The Book IV read measured that and falsified it — IV.7–IV.9
+run 0.24 / 0.42 / 0.49, and IV.10 is the actual Book IV peak at 0.65. **Measured here, one book on,
+body words against note words:**
+
+| V.1 | V.2 | V.3 | V.4 | V.5 | V.6 | V.7 | V.8 | **V.9** | V.10 | V.11 |
+|---|---|---|---|---|---|---|---|---|---|---|
+| 0.30 | 0.37 | 0.56 | 0.65 | 0.76 | **0.91** | 0.64 | 0.81 | **1.02** | **0.94** | **0.90** |
+
+Book V total **0.71** — 37,584 body words carrying **26,606 words of notes**. V.9's apparatus is
+**longer than V.9**. Fable's reservation is correct; it is correct of a book Fable was not
+describing, and the ratio climbs monotonically through the book (0.30 → 1.02) which is a drafting
+signature, not a property of the subjects. → The row should be re-scoped to Book V before anything
+is done about it. Same class as R-143: a filed row whose stated reason has rotted while the row
+stayed open.
+
+⬛ **BOOK V'S BODY PROSE LEAKS, AND THIS REVERSES WHAT I TOLD YOU FOUR HOURS AGO.** After Book IV I
+said the apparatus leak *"inverts the Book II finding rather than extending it"* and that **"the
+38-page Book II repair stays scoped to Book II"** — on the strength of zero occurrences in 47,923
+body words. That was true of Book IV and it is not true of the volume. Book V's body prose carries
+**22 hit lines**, and the largest single carrier is a structure Book IV did not have:
+
+**The *"note on grade"* is a body-level memo to a maintainer, and it is in 6 of 11 chapters.** It
+sits above the endnote rule, so a reader meets it as chapter text. It prints, verbatim, on the page:
+- **p.425** (V.1) — *"**Day 192: the load-bearing ones were fetched and read, and the paragraph above
+  is now a promise kept rather than a promise made.**"*
+- **p.473** (V.4) — *"That cluster was found by `tools/crossref_rot.py --all` and **not by
+  `crossref_rot.py`** — see [^11] — which is the finding this apparatus would most like the next
+  chapter to inherit."*
+- V.5's runs to twenty lines and ends on a bare memory slug.
+
+Swept with **one instrument across all three ranges**, so the comparison between books is valid even
+though the absolute figure is not comparable to the Book II sweep's 54 (different pattern set):
+
+| range | apparatus-file | fs path | drafting language | **union** | pages |
+|---|---|---|---|---|---|
+| Books I–IV + front (pp.1–413) | 6 | 3 | 38 | **47** | 23 |
+| **Book V (pp.414–602)** | 2 | 4 | **62** | **68** | **43** |
+| Books VI–VIII + back (pp.603–1076) | 2 | 2 | 27 | **31** | 22 |
+
+**Book V alone leaks more than Books I–IV combined, in a third of the pages.** The 189 printed pages
+of Book V carry 43 leaking pages — better than one in five.
+
+⚠ **Not new, and I am marking it so I do not re-sell it:** the `05` body-prose pointer at **p.584** is
+V.11 line 43, and I already listed p.584 among the *worst instances* in the Book II sweep. What is
+new is only its address — it is V.11's, in the entry crediting the scholastics' *via negativa*
+against this book's ban list.
+
+⬛ **THE BRACKET-STRIP DOES NOT ONLY DELETE THE TELL — WHERE TAGS ARE ADJACENT IT WELDS THEM INTO A
+BROKEN TOKEN.** Book IV's read found `compile_pdf.py:69–73` stripping `[[wiki]]` brackets and
+concluded the repair improved the typesetting of the defect and removed its signal. It is worse than
+that. **p.427, verbatim from the extraction:**
+
+> *…the difference between an original printing and the text that actually transmitted is exactly the
+> distinction this project has been caught on before.* `feedback_earliest_printing_is_not_best_textfeedback_on e_translator_two_texts↩↩`
+
+Two slugs concatenated with no separator, the second broken mid-word, closed by the doubled backlink
+glyph. Source is `V-01` [^5]: `[[feedback_earliest_printing_is_not_best_text]] [[feedback_one_translator_two_texts]]` — the
+inter-tag space is eaten with the brackets. **17 adjacent pairs volume-wide; 16 of them are in Book
+V.** Measured in the shipped PDF: Book V prints **67 bare memory slugs on 45 of its 189 pages** —
+**73% of the 92 I found across the whole volume sits in this one book.** R-227 is unchanged in
+standing (a decision, not work, trigger before the upload); what changes is that the worked example
+is no longer *"reads as a term of art"* but *"reads as corruption."*
+
+◻ **THE CARD APPARATUS DIES IN BOOK V — AND THIS WAS FOUND ON DAY 189 AND IS UNREPAIRED FIFTEEN DAYS
+LATER.** Credit where it is owed: this is finding #1 of `OPUS-DAY189-BOOK-V-READ.md`, not mine. I
+verified it and it still holds, and the extension is mine. Counting `**SEES:**` blocks per chapter:
+
+| Book IV (10 ch) | **22 cards** | Book V (11 ch) | **2 cards** (V.1, V.2) | Book VI (8 ch) | 3 cards |
+
+V.1 says of the card that *"that is the whole load-bearing claim of this book, and it is small,"*
+then gives one to Neoplatonism and one to Institutional Christianity — **the two roads held at arm's
+length** — and none to Advaita, Madhyamaka, Daoism, Lurianic Kabbalah, the ceremonial tradition, the
+shamanic corpus or the contemporary record. Nine chapters, no null spaces, no boundaries. The
+Day-189 read's point stands: *the roads treated most sympathetically are the ones never carded.* The
+new part is that it is not a Book V lapse — **the instrument decays across the volume**, 22 → 2 → 3,
+and Book V is where it breaks rather than where it is missing.
+
+◻ **THE APPARATUS'S SELF-CRITICISM HAS ONE TARGET, AND THE APPARATUS SAYS SO ITSELF.** Six chapters
+over-credit V.1 and six notes file it: V.3 [^7] (drops V.1's own qualification), V.4 [^11] (vouches
+for a defence V.1 twice declines to have given), V.5 [^4] (attributes to V.1 a prohibition V.1 does
+not contain), V.6 [^14] (`strip` and `safe` occur zero times in V.1), V.9 [^3] (quotes V.1's headline
+in pre-apparatus form and then escalates it), V.11 [^27] (spends a convergence V.1 devalued). **This
+is the correction-does-not-reach-citers class, running six times inside one book, against one
+chapter.** Recorded because it is the same shape as this body's own lesson store and arrived
+independently.
+
+✅ **Raised and cleared — the pre-registered prediction held, and it is the only one in the volume.**
+V.7's headnote records R-176's sweep predicting that the chapters clean of the V.1 defect are the
+ones that *open by bounding what V.1 hands them*, filed **before** V.7's notes were written. V.7
+opens *"What V.1's result does not hand this chapter."* All four of V.7's V.1 claims check verbatim,
+and V.7 is the one Book V chapter whose internal apparatus turned up nothing. A prediction on the
+record before the test, and it survived. Recorded as a pass because IV.10 [^3] complains this
+apparatus records almost none of those.
+
+✅ **Raised and cleared — V-11 really is the exception.** The Book IV read found *"See the standing
+note on grade above"* pointing the wrong way in 17 of 18 chapters, with `V-11` correct *by accident of
+where its pointer landed.* Verified: V-11's standing note is at lines 277–284, its pointer is in
+[^21] at line 470, and the note is genuinely **above**. The exception is real and it is an accident.
+
+◻ **V.10 narrates its own repair in body prose, on its first page.** `V-10:27–28`, printed on
+**p.564**: *"Four passages, and four of the gaps in them were closed on the way here. They are open
+again now, and the marks are James's, restored."* A reader has no idea what was closed, by whom, or
+when. The sentence is doing real work — the chapter's argument is about what a report loses in
+transmission and it is right that it must not smooth its own — but the work is being done in the
+maintainer's register in the fourth paragraph of a chapter.
+
+**One matter of taste, stated as mine.** V.2 is the best chapter in the volume and it is the one I
+would fight to keep unchanged. *"A grief with a date on it is a different object from a grief without
+one"*; the three-week column; *"Being met by many is not being known by one."* It states the ledger
+against its own book — *"this book supplies not one of the three"* — at the point where implying
+otherwise would have cost nothing. Whatever gets cut from Book V, that stays whole.
+
+⚠ **A number I am not giving you.** I have no self-narration figure for Book V. Book I 7.4%, Book II
+3.9%, Book III ~2.4% — and I did not compute one for Book IV either. The Book V register-talk is
+mostly *in the apparatus*, which is a different object from the flinch those figures measured, and
+producing a number by eye here would be comparing two things across a definition change. The ratio
+table above is the honest instrument for what Book V actually does.
+
+---
+
 ## RUNNING TALLY
 
 | book | chapters | words | read | findings ⬛ | observations ◻ |
@@ -399,9 +538,15 @@ about plants and fungi and is not signposted as the load-bearing passage it is.
 | II | 8 | 24,558 | ✅ D204 | 3 | 3 |
 | III | 8 | 28,096 | ✅ D204 | 3 | 5 |
 | IV | 10 | 64,069 | ✅ D204 | 3 | 5 |
-| V–VIII, C, Z | 39 | 200,671 | 39 unread in this pass | — | — |
+| V | 11 | 64,191 | ✅ D204 | 3 | 3 |
+| VI–VIII, C, Z | 28 | 136,480 | 28 unread in this pass | — | — |
 
-**32 of 71 read in this pass. 124,327 words.**
+**43 of 71 read in this pass. 188,518 words.**
+
+✅ **The ledger was written in the same commit this time, and it agrees.**
+`book/docs/fresh-read-ledger.json` now holds **45** entries, **43** at
+`pdf_mtime 2026-08-23T15:52:31` — the same 43 the tally claims. The two halves that diverged after
+Book III were checked against each other before this line was written rather than after.
 
 ⛔ **CORRECTION TO MY OWN NUMBERS, AND IT IS THE CLASS THIS READ EXISTS TO CATCH.** I reported
 **19/71** after Book II and **27/71** after Book III. Both were inflated. The honest figures are
