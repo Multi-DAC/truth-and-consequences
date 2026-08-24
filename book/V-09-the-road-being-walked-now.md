@@ -25,10 +25,10 @@ never a principle. It was a period costume.
 **What this chapter is not going to do, and the reason is on the record.**
 
 It is not going to list what is in the tier. The atlas did that — IV.10, in the section that said so
-in as many words: *what the tier is worth is the next book's problem; what it contains is this one's,
-and this is it.*[^2] The enumeration and the reading were deliberately put in different books, by a
-ruling that was written down, because a reading drafted first would have let the census stay
-hole-shaped while looking repaired.
+in as many words: *what the tier is worth is Book V's problem; what it contains is this one's,
+and this is it.*[^2] The enumeration and the reading were put in different books deliberately,
+and in that order, because a reading drafted first would have let the census stay hole-shaped
+while looking repaired.
 
 That worked, and it cost something nobody priced. **An enumeration honest enough to be worth having
 already performed a good deal of the reading.** Naming three frames is most of the way to comparing
@@ -288,8 +288,9 @@ people sitting still.
     would have to be argued, not assumed, for radar sets and a subpoena, and a reader cannot see it
     was there. The quotation is honest; the omission is the interesting part.
 
-[^2]: ✅ **Verbatim.** IV.10: *"worth is the next book's problem. What it contains is this one's, and
-    this is it"* (IV.10:128). Full stop rendered as a semicolon, initial capital lowered, nothing else
+[^2]: ✅ **Verbatim.** IV.10: *"worth is Book V's problem. What it contains is this one's, and
+this is it"* (IV.10:129). Full stop rendered as a semicolon, initial capital lowered, nothing
+else
     changed. The chapter's framing — *"in the section that said so in as many words"* — is accurate:
     it is in as many words.
 
@@ -299,7 +300,7 @@ people sitting still.
     chapter's own inference and not a finding of the scholarship"*, marks two of the five as carrying
     more weight than the chain supports, and concludes: *"conclusion the section needs — one witness
     quoted back five times — survives at three or four"* (V.1:381) *"links without the two weakest,
-    and the section does not say so"* (V.1:382), with an explicit **Owed**: state the inference as an
+    and the section does not say so"* (V.1:381), with an explicit **Owed**: state the inference as an
     inference in the prose, or cut it to the links that carry.
     ★★ **So this chapter imports V.1's headline in its pre-apparatus form, and then escalates it** —
     *"one witness, quoted back several million times."* The escalation does not depend on the number,
@@ -314,7 +315,7 @@ people sitting still.
     (V.1:159) *"dissolves the repeater. A Kabbalist permuting the letters of a name for hours. A
     hesychast on Athos"* (V.1:160). ⚠ **This chapter takes the first four and stops.** V.1's list
     continues through a Vedic ascetic, a Vajrayāna practitioner using *"methods that are near opposites
-    in intent"* (V.1:161) and ritual magicians. The omitted tail is the **strongest** part of V.1's
+    in intent"* (V.1:162) and ritual magicians. The omitted tail is the **strongest** part of V.1's
     instrument-independence case — near-opposite intent is a sharper independence than four
     contemplatives sitting still — and dropping it makes the standard this chapter then fails the
     modern corpus against look *easier* than V.1 set it. The compression runs in the flattering
@@ -403,11 +404,11 @@ people sitting still.
 
 [^11]: ✅ **Exact, including the ordinal.** IV.10 [^15] opens *"PUBLISHED IN 2019" IS FALSE, AND IT IS
     FALSE IN THE CHAPTER'S CENTREPIECE* (IV.10:655) and establishes *"announced at a press conference
-    at Drumnadrochit on 5 September 2019"* (IV.10:656) and *"There is no peer-reviewed publication of
-    the census"* (IV.10:657). It is the **fifteenth** note; it does catch the word *published* awarded
+    at Drumnadrochit on 5 September 2019"* (IV.10:677) and *"There is no peer-reviewed publication of
+    the census"* (IV.10:679). It is the **fifteenth** note; it does catch the word *published* awarded
     to a press conference; and it is IV.10's grading section failing on IV.10's own best example — the
     note says so itself: *"This is the chapter's own evidence-grade discipline failing on the chapter's
-    own best example"* (IV.10:661). ★ **This is the one inheritance in the chapter that reached its
+    own best example"* (IV.10:683). ★ **This is the one inheritance in the chapter that reached its
     citer**, and it reached it because the drafter went and read the note. Every other inheritance in
     this apparatus had to be found.
 
@@ -428,7 +429,7 @@ people sitting still.
     **two frames may be held at once precisely where they predict the same thing, and where they"*
     (IV.7:588) *"diverge you must pick, and the divergence is where all the work is.**"* (IV.7:589).
     ★ **This matters because a corrupted version of the rule is loose in the volume.** IV.10 restates
-    it as *"same thing, and that holding both earns no credit"* (IV.10:133) — true, and **not the
+    it as *"same thing, and that holding both earns no credit"* (IV.10:134) — true, and **not the
     rule**: *earns no credit* scores the move, *you must pick* obliges it. An earlier pass filed that the
     dropped-obligation form is the one that travelled, **including into the plan for this chapter**.
     The shipped prose takes the correct form. The plan did not.
@@ -492,14 +493,14 @@ people sitting still.
     claim so nobody later mistakes it for a citation of I.3's text.
 
 [^17]: ✅ **True, and checked in the refusing chapter.** IV.10 quotes the source's sentence — *"The
-    persistent failure to produce physical specimens despite"* (IV.10:511) — and refuses it in its own
+    persistent failure to produce physical specimens despite"* (IV.10:521) — and refuses it in its own
     voice: *"specimens — which is P. The sentence predicts its own evidence from its own conclusion"*
-    (IV.10:226). The refusal is IV.10's, in IV.10, about this material, before this chapter existed.
+    (IV.10:229). The refusal is IV.10's, in IV.10, about this material, before this chapter existed.
     All four clauses of the chapter's sentence hold.
 
 [^18]: ✅ **True in every particular, including the ordinal and the line count.** IV.10 [^6] establishes
-    *"is **seventeen lines long** (L2448-2464) and was"* (IV.10:531) and *"read in full. It contains no
-    sentence about indigenous perception, no *full profile*, and no contrast"* (IV.10:532). It is the
+    *"is **seventeen lines long** (L2448-2464) and was"* (IV.10:550) and *"read in full. It contains no
+    sentence about indigenous perception, no *full profile*, and no contrast"* (IV.10:551). It is the
     **sixth** note; the entry is **seventeen** lines; it was read in full; no such sentence is in it.
     ★★ **And this paragraph is the settled form of that finding, which was filed against the wrong object.**
     That pass prescribed cutting the italicised sentence. Re-derivation found the sentence is a *genuine*

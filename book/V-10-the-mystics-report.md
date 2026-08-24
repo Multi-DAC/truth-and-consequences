@@ -331,8 +331,8 @@ which is why a reader who stops at the marker sees no citation at all.*
     the site where it does not is the one the prediction named.** V.1 [^7] marks two of its five
     links as carrying more weight than the chain supports — Kabbalah, given as *develops … in a world
     in contact with both* (contact, not descent), and the Ibn Arabi school, running through the
-    reworked Arabic text — and concludes that the argument *"survives at three or four"* (V.1:381)
-    *"links without the two weakest"* (V.1:382). **This chapter's chain is Plotinus → Proclus →
+    reworked Arabic text — and concludes that the argument *"survives at three or four"* (V.1:380)
+    *"links without the two weakest"* (V.1:381). **This chapter's chain is Plotinus → Proclus →
     Dionysius → Eckhart → Suso: precisely the links V.1's own apparatus says carry, with both flagged
     ones absent.** V.1 [^7] filed an Owed — state the inference as an inference, or cut it to the
     links that carry. **V.10 cut it to the links that carry.** V.9, drafted twenty-nine minutes
@@ -390,10 +390,10 @@ which is why a reader who stops at the marker sees no citation at all.*
 
 [^13]: ⚠ **V.9 is paraphrased accurately and then charged with a complacency it disclaims one
     sentence later.** V.9 reads *"mystics got three branches because the transmission was old
-    enough to be traced"* (V.9:258) and *"because ours is new enough to be watched"* (V.9:259)
+    enough to be traced"* (V.9:269) and *"because ours is new enough to be watched"* (V.9:270)
     — this chapter's
     rendering is faithful. **But V.9 does not end there.** Its next line is *"That is not a reason to
-    be pleased with ourselves"* (V.9:261), followed by the charge that the next century will run this
+    be pleased with ourselves"* (V.9:272), followed by the charge that the next century will run this
     test on Book V. **So the too-comfortable reading quotes the penultimate paragraph as the
     conclusion.** The substantive correction stands — V.9 missed the anthology transmission — but the
     tone charge is answered in the source. ★ **And V.9 asked for exactly what this chapter does**,

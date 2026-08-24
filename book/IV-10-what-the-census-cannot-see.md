@@ -125,8 +125,8 @@ scale**, cross-culturally convergent, which is the same grade this census has as
 everywhere else in it and gets no better treatment here for being modern. And **governmental
 acknowledgement** — named offices, hearings on the record, sworn statements — which sounds like the
 strongest of the three and is the weakest for this question, because it is evidence that an
-institution is investigating and testifying, which is a fact about the institution. What the tier is
-worth is the next book's problem. What it contains is this one's, and this is it.[^1]
+institution is investigating and testifying, which is a fact about the institution. What the
+tier is worth is Book V's problem. What it contains is this one's, and this is it.[^1]
 
 Every one of those problems is a problem this atlas has now solved somewhere else. The refusal to
 collapse two frames prematurely is the exact discipline installed in the non-physical chapter and
@@ -154,11 +154,11 @@ Somebody read down that page, assigned 1.5 to the atlas's closing chapter, and d
 anything. The two entries are adjacent. You cannot reach the second without passing the first.
 
 The better candidate is one this book already has on its schedule, and finding it live rather than
-historical is the reason this section exists. The plan for the road-reading book contains a chapter
-whose job is to own a flinch the project inherited from a particular style of skepticism — a scalpel
-held sharp for mystics and dull for materialists, inside a framework that is not materialist. That
-chapter was written into the plan as a confession about the past: here is what our earlier filtering
-cost, named once, so the register of the rest can be trusted.
+historical is the reason this section exists. Book V has a chapter whose job is to own a flinch this
+project inherited from a particular style of skepticism — a scalpel held sharp for mystics and dull
+for materialists, inside a framework that is not materialist. It was planned as a confession about
+the past: here is what our earlier filtering cost, named once, so that the credit given everywhere
+else can be trusted.
 
 It is not about the past. **The organ is working now, it operated during the drafting of this book,
 and what it removed was not a hedge or a qualifier. It removed a tier.** The material in that entry
@@ -191,11 +191,13 @@ hole into an invisible bad entry, which is a strictly worse object.
 
 So the omission stands, and it stands with a trigger rather than an intention, because a deferral
 with no trigger is the same failure wearing better clothes. **The schedule was amended as this
-chapter was written**: the entry is scheduled, its beats are written, and it is scheduled into
-the road-reading book rather than this one — where the literal-versus-story problem is the ambient
-problem of every chapter, and where the sighting record can be read the way that book reads every
-other body of testimony, as people touching this ground with the instruments of their era. If it is
-not in that book, the book is wrong, and the amendment is on the page where anyone can check.[^3]
+chapter was written**: the entry is scheduled, its beats are written, and it is taken up in **Book
+V** rather than here — where the literal-versus-story problem is the ambient problem of every
+chapter, and where the sighting record can be read the way that book reads every other body of
+testimony, as people touching this ground with the instruments of their era. The enumeration is in
+this chapter and the reading is fifty pages on, deliberately in that order, because a reading
+drafted first would have let the census stay hole-shaped while looking repaired. If it is not there,
+this paragraph is wrong, and the reader is holding both ends and can say so.[^3]
 
 ---
 
@@ -228,7 +230,7 @@ specimens — which is P. The sentence predicts its own evidence from its own co
 circle is small enough to fit inside a single line of a bulleted list, which is exactly why nobody
 saw it there for five months.
 
-The second is worse, and it is worse in a way that will matter for the whole of the next book. It is
+The second is worse, and it is worse in a way that will matter for the whole of Book V. It is
 also not the inherited material's. It is ours. Setting out how this chapter should handle the indigenous
 traditions that treat these entities as known co-inhabitants rather than as mysteries to be solved,
 we wrote, in planning it, that **indigenous peoples' wider access allows them to
@@ -254,7 +256,7 @@ Knowledge about the world is the kind of thing that can be right, which means it
 thing that can be wrong, and a frame that has removed the second has removed the first along with
 it. **You cannot credit a claim you have made incapable of failing.**[^7]
 
-The road-reading book opens by promising no condescension, no debunking, and no hedge. This is the
+Book V opens by promising no condescension, no debunking, and no hedge. This is the
 fourth thing that list needed and did not have, and it is installed here, one book early: **no
 exemption.**
 
@@ -265,7 +267,7 @@ clause that predicts, in advance, that no one else will be able to check.[^8]
 It was refused in a borrowed text. Then it came back twice, and the two returns are not the same
 object, which is the finding. **Once in the inherited material**, in the tier this chapter was
 assigned, where it has been sitting since March. **Once in our own planning, written by us,
-pointed at the very traditions the next book exists to credit** — and that one arrived here wearing
+pointed at the very traditions Book V exists to credit** — and that one arrived here wearing
 quotation marks it was never given. **The escalation is the finding, and the last step of the
 escalation is this chapter.** Three chapters running, the method has been *go and read the primary
 text, and read the span rather than the phrase*. This chapter ran that method on our own document
@@ -399,7 +401,7 @@ in five months it did not cause one thing to be found.
 The atlas's claim is narrower and it is not a courtesy.
 
 **The catalogue is open because the population changes.** The computational entry describes a
-class of position that did not exist when most of the traditions in the next book took their census.
+class of position that did not exist when most of the traditions in Book V took their census.
 Not undiscovered — *absent*. Nothing was being missed by anyone in 1200, because there was nothing
 there to miss, and a complete catalogue compiled then would have been complete and is now wrong.
 
@@ -500,7 +502,7 @@ entry is *scheduled*, not written, and scheduled where the deferral said. Checke
 carries the entry** — it carries the entry, including
 the instrument-record grade this chapter previewed: *"They are also very few, and they establish an
 unidentified track and not an occupant"* (V.9:96), *"Something unidentified has been tracked on
-independent instruments. Grade: real, small"* (V.9:236).
+independent instruments. Grade: real, small"* (V.9:247).
 ★ **Recorded because a check that passes is evidence too, and this apparatus has kept almost none.**
 Every finding-note in Books II-IV reports a failure; a retrofit that prints only failures cannot tell
 a reader whether the method works or only whether it is pointed at broken things. This one worked: a
@@ -563,13 +565,12 @@ defect on either reading. ✅ **The *"in two forms"* count is now repaired in th
 two instances of IV.7's refused clause **in this entry**, and the checkable count in the entry is
 one. The body now says what is true: one in the inherited material, one in our own planning, and they are
 different objects.
-⛔ **AND THIS ONE DID ENTER AT PLANNING.** The plan carries the sentence in
-IV.10's beats, near-verbatim, as item (b) under the heading *"THE INHERITED CRYPTID ENTRY CARRIES
-IV.7'S REFUSED CLAUSE IN TWO FORMS."* So the prose inherited this fabrication rather than producing
-it — **the opposite of [^5], in the same paragraph of the same chapter.** Repairing the chapter alone
-leaves the source of the error intact. ✅ **It was repaired in the same pass** — the heading that
-asserted the two-forms claim no longer asserts it, so nothing drafted after that can inherit it
-again.
+⛔ **AND THIS ONE DID ENTER AT PLANNING.** The sentence was already in the notes this chapter was
+drafted from, near-verbatim, under a heading that asserted the two-forms claim outright. So the
+prose inherited this fabrication rather than producing it — **the opposite of [^5], in the same
+paragraph of the same chapter.** Repairing the chapter alone would have left the error standing
+where the chapter was drafted from. ✅ **It was repaired in the same pass** — the heading no longer
+asserts the two-forms claim, so nothing drafted after it can inherit it again.
 
 [^7]: **The Sts'ailes are not in the inherited material, and the external record complicates the charge rather
 than the principle.** `sasquatch`, `bigfoot`, `sts'ailes` and `chehalis` occur **zero** times in the
