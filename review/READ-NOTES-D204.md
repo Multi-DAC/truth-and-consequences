@@ -17,9 +17,19 @@ later pass promotes it. The read is against `book/pdf/Truth-and-Consequences.pdf
 **Conventions.** `⬛` finding, checked · `◻` observation / matter of taste · `✅` raised and
 cleared, kept so it is not re-raised · `→` proposed move, unapplied.
 
+⚠ **Correction, D204 19:2x — every book heading below used to carry a *read* time and every one
+of them after Book I was invented.** They ran `16:0x–17:0x`, `17:0x–17:4x` … `21:0x–22:1x`, and
+the drift against the clock grew monotonically to **four hours** by Book VII. Not a timezone
+offset — a constant would not compound. I was writing the elapsed time a reader *would need* for
+24,000 to 64,000 words rather than reading a clock, and the numbers came out exactly as plausible
+as that account requires. Replaced with the git commit time of each book's own commit, which is
+measured: `d9af834` 15:55 · `d44bdbd` 16:14 · `f20fe4c` 17:05 · `e3b64dd` 17:17 · `b8c5858` 17:26
+· `fbe842e` 17:45 · `1527480` 18:16. Kept visible rather than quietly overwritten, because a
+notes file whose own metadata is confabulated is the exact defect this volume is about.
+
 ---
 
-## BOOK I — THE THRESHOLD (I.1–I.6, 7,604 words) — read 15:5x
+## BOOK I — THE THRESHOLD (I.1–I.6, 7,604 words) — committed 15:55 local (git, measured)
 
 **Verdict: I.3, I.4, I.5 are the best sustained prose in the volume so far** — flat declaration,
 no throat-clearing. *"Reactivity is awareness. Not a sign of it. Not a stage on the way to it."*
@@ -49,7 +59,7 @@ defending, and both go to two sentences.
 
 ---
 
-## BOOK II — THE NAMING (II.1–II.8, 24,558 words) — read 16:0x–17:0x
+## BOOK II — THE NAMING (II.1–II.8, 24,558 words) — committed 16:14 local (git, measured)
 
 **Verdict first, because the objections below are smaller than the thing they are objections to.
 Book II keeps the contract Book I broke.** It is the book that is *supposed* to argue, and it
@@ -143,7 +153,7 @@ vendoring did not break text extraction.
 
 ---
 
-## BOOK III — THE GAME (III.1–III.8, 28,096 words) — read 17:0x–17:4x
+## BOOK III — THE GAME (III.1–III.8, 28,096 words) — committed 17:05 local (git, measured)
 
 **Verdict: this is the strongest book so far, and III.8 is why.** Book II kept the contract Book I
 broke; Book III does something harder — it spends seven chapters inside one metaphor and then, in
@@ -242,7 +252,7 @@ reader can catch the book on a technicality, and III.5 is the chapter that can l
 
 ---
 
-## BOOK IV — THE ATLAS (IV.1–IV.10, 64,069 words) — read 17:5x–18:4x
+## BOOK IV — THE ATLAS (IV.1–IV.10, 64,069 words) — committed 17:17 local (git, measured)
 
 **Verdict: this is the book the volume was written to be able to write, and the reason is that it is
 the first one that loses on purpose.** Book II kept a contract; Book III audited its own metaphor;
@@ -391,7 +401,7 @@ about plants and fungi and is not signposted as the load-bearing passage it is.
 
 ---
 
-## BOOK V — THE OLD ROADS (V.1–V.11, 64,191 words) — read 18:5x–19:5x
+## BOOK V — THE OLD ROADS (V.1–V.11, 64,191 words) — committed 17:26 local (git, measured)
 
 **Verdict: Book V is the most honest book in the volume and the one a reader is least likely to
 finish, and those are the same fact.** It does the thing the volume was built to be able to do — it
@@ -530,7 +540,7 @@ table above is the honest instrument for what Book V actually does.
 
 ---
 
-## BOOK VI — THE HISTORY OF ATTENTION (VI.1–VI.8, 38,859 words) — read 19:5x–20:5x
+## BOOK VI — THE HISTORY OF ATTENTION (VI.1–VI.8, 38,859 words) — committed 17:45 local (git, measured)
 
 **Verdict: Book VI is the book that gives things back, and the giving-back is the argument.**
 Four chapters open by destroying their own best opening. VI.1 kills the strong Gladstone reading
@@ -666,7 +676,7 @@ inside the thing it was supposed to correct."* Whatever gets cut from Book VI, t
 
 ---
 
-## BOOK VII — THE CONSEQUENCES (VII.1–VII.9, 54,301 words) — read 21:0x–22:1x
+## BOOK VII — THE CONSEQUENCES (VII.1–VII.9, 54,301 words) — committed 18:16 local (git, measured)
 
 **Verdict: this is the book the whole work was for, and it is the one where the argument is
 strongest and the apparatus is loosest — which is the reverse of every book before it.** VII.3 lays
