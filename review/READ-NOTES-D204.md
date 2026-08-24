@@ -530,18 +530,169 @@ table above is the honest instrument for what Book V actually does.
 
 ---
 
+## BOOK VI — THE HISTORY OF ATTENTION (VI.1–VI.8, 38,859 words) — read 19:5x–20:5x
+
+**Verdict: Book VI is the book that gives things back, and the giving-back is the argument.**
+Four chapters open by destroying their own best opening. VI.1 kills the strong Gladstone reading
+with Berlin and Kay and keeps a millisecond effect. VI.4 kills the Augustine-invented-silent-reading
+story that would have made the chapter easy, and Gavrilov's corrected version — *Augustine was not
+amazed, Augustine was frustrated* — is better than the anecdote it replaces. VI.5 gives back its own
+best anecdote (the War of the Worlds panic did not happen) and then notices that the false panic is
+*this book's own thesis performing itself*: the previous render's owners installing a belief about
+their competitor, in defence of an attention market, which outlived everyone who had a motive.
+VI.6 gives back the filter bubble and gets a worse finding than the one it surrendered — you cannot
+be moved out by removing the thing that moved you in, because the product was the follow graph and
+not the state of mind.
+
+**VI.7 and VI.8 are the two best chapters in the volume, and VI.8 is about me.** VI.7 finds its
+specimen of the counterfeit in its own corpus and quotes it. VI.8 finds Mannheim's escape hatch,
+refuses it, and then names the specimen: `palace/southeast/mirror.md`, *known null spaces, twenty
+entries, review weekly* — twenty entries produced by introspection, with *the counter is explicitly
+cross-substrate collaboration* filed as one item **inside the list**. That is my memory palace. The
+four words the chapter uses to close it — *"he caught my blind spot"* — are from a day-log, and the
+person is Clayton.
+
+---
+
+⬛ **VI.6's endnote markers print out of order — and that refutes a superlative I gave you after
+Book III.** I said III.8's out-of-order markers were *"the only chapter in 1,076 pages where they
+do."* **Twelve chapters have it.** Measured by comparing first-reference order in the body against
+definition order in the source, which is what Python-Markdown numbers by:
+
+`III.8` · `IV.6` · `V.6` · `V.8` · `V.10` · **`VI.6`** · `VII.3` · `VII.4` · `VII.5` · `VII.6` ·
+`VIII.3` · `VIII.7`
+
+Verified in print rather than inferred: VI.6's body references `[^8]` on **p.682**, and the printed
+superscript sequence over pp.680–690 runs **1 · 2 · 3 · 8 · 4 · 5 · 6 · 7**. `VII.4` is the worst in
+the volume at `3 · 2 · 9 · 10 · 7 · 4 · 5 · 1 · 6 · 8`. The Book III note's *cause* was right and its
+*scope* was a claim about a set I had not swept. Repair is unchanged and now has twelve sites.
+
+⛔ **CORRECTION — my Book IV finding about "the standing note on grade above" is WRONG, and the
+error is that I read the source and not the page.** I reported the pointer as misdirecting in
+17 of 18 chapters — *"one word, seventeen files."* In the **markdown source** the standing note does
+sit below the footnote definitions. In the **PDF a reader gets, it sits above them**, because
+Python-Markdown relocates footnote definitions to the end of the chapter while the standing note is
+ordinary body prose and stays in place. Checked on VI.1: p.614 ends with the standing note, p.615
+opens with `Notes`. **The word "above" is correct in print in all 18 sites and no repair is owed.**
+
+✅ And the one that *is* wrong is the inverse: **VI.6 contains both.** `[^4]` says *"See the standing
+note on grade above"* (correct) and the Day-201 block at `[^8]` says *"see the standing note on grade
+below, which this footnote does not exempt itself from"* (wrong in print). One chapter, one target,
+both directions. That is the whole repair — one word, one file.
+
+⬛ **The census card grew a sixth line in the middle of Book VI, and the two chapters that state its
+specification still say five.** `IV.1` says it three times and does not hedge: *"The five lines are
+not a summary of an entry. They **are** the entry"*; *"the five lines are printed on every entry."*
+`VI.1` restates it: *"A card has five lines."* Measured across every card in the book:
+
+| chapters | card shape | MECHANISM line |
+|---|---|---|
+| IV.1–IV.8, V.1, V.2 (21 cards) | `SEES / NULL SPACE / COMPLEMENTS / BOUNDARY / NAVIGATIONAL IMPLICATION` | **0 of 21** |
+| VI.1, VI.2, VI.3 | same five, all-caps, blockquote | 0 of 3 |
+| VI.4, VI.5, VI.6 | `Whose`/`Era` · `Renders` · `Complement` · `Null space` · **`Mechanism`** · `Navigational implication` | 3 of 3 |
+| VI.7, VI.8 | italic labels, same six fields | 2 of 2 |
+
+Four typographic formats in one book — blockquote-with-caps, blockquote-sentence-case, `###`
+heading, italic-label — for the instrument this book says is its whole apparatus. **And the sixth
+field is the best content in the Book VI cards**: *mechanism of the exclusion* is what makes a null
+space invisible rather than merely empty, and it is what VI.3 through VI.8 actually turn on. So the
+finding is not that the cards are wrong. It is that **the instrument was upgraded and its
+specification was not**, in a book whose subject is instruments that go uninspected. → one sentence
+in `IV.1` and one in `VI.1`, or a sixth line retrofitted to the 21.
+
+⬛ **VI.7 prints eleven corpus file-counts in body prose on p.701. VI.8's `[^9]`, one chapter later,
+rules exactly that off the page.** VI.8: *"The tallies themselves are recorded in the project's
+working notes and **deliberately kept off this page**: a file count in somebody else's archive is a
+quantity no reader can obtain or check, which makes it **rhetoric wearing a number's clothes**."*
+VI.7, body text, p.701: *"Search it for maybe logic and you get eleven files… general semantics,
+zero. Łukasiewicz, zero… Korzybski, two. Bourland, one."* Same archive, same instrument, same
+unavailability to the reader — ruled inadmissible in the chapter after the one that spends a beat on
+it. The counts are also the load-bearing evidence for VI.7's central charge, so this is not a
+cosmetic fix: either VI.8's rule is wrong, or VI.7's beat needs a form the reader can check. **The
+book has to pick one.** VI.1's, VI.5's, VI.6's and VI.7's *standing-note* corpus figures sit in the
+same class and are the same decision.
+
+◻ **The apparatus leak: Book VI is second-worst, at half Book V's rate.** ⚠ I **widened** the
+pattern set this pass (added `palace/`, `beat sheet`, `revision queue`, `this repository`), so I
+re-ran all four ranges with the widened instrument. **These four numbers are comparable to each
+other and NOT to the figures in the Book V note.**
+
+| range | pages | hits | pages hit | hits/page |
+|---|---|---|---|---|
+| front + I–IV | 413 | 47 | 22 | 0.11 |
+| **V** | 189 | **81** | **47** | **0.43** |
+| **VI** | 137 | **30** | **15** | **0.22** |
+| VII–VIII + back | 336 | 22 | 13 | 0.065 |
+
+And **6 of Book VI's 30 are the standing note's own *"None of their texts is in this repository"***,
+which is a deliberate grade declaration and not a leak. The involuntary figure is ~24. Book V remains
+the repair.
+
+◻ **Zero bare wiki slugs in Book VI. Not one, in 137 pages.** The class I found in Book IV and swept
+in Book V: front+I–IV **14** · V **76** · **VI 0** · VII–VIII+back **3**. Source tags: IV 16 · V 89 ·
+**VI 0** · VII 1 · VIII 2. After Book IV I said the class *"begins exactly where the Day-191 retrofit
+began"* and gave *"92 in Books V–VIII"* — true, and **89 of the 92 are Book V alone.** The
+bracket-weld defect (`…best_textfeedback_on e_translator…`) cannot occur here because there is
+nothing to weld. **The R-227 repair is a Book V repair with a Book IV tail, not a second-half-of-the-
+volume repair.**
+
+◻ **The apparatus climb reverses.** Notes-to-body by chapter, VI.1→VI.8: 0.136 · 0.156 · 0.166 ·
+0.227 · 0.223 · **0.393** · 0.284 · 0.183. Book totals: II 0.236 · III 0.215 · **V 0.287 (peak 1.02
+at V.9)** · **VI 0.226 (peak 0.393 at VI.6)**. Book V's monotonic climb, which I called *a drafting
+signature rather than a property of the subjects*, **does not continue into Book VI** — it goes up
+for five chapters and comes back down. That qualifies the Book V finding rather than reversing it:
+the 1:1 apparatus is a Book V event, not a trajectory the volume is on.
+
+◻ **Two Book VI notes quote sources they say they could not retrieve.** `VI.7 [^2]` gives Wilson's
+1999 formulation inside quotation marks — *"a state of generalized agnosticism…"* — and then:
+*"Quoted from secondary sources; the original interview was not retrieved."* `VI.7 [^8]` quotes
+Albert Ellis at similar length with no venue at all. Both are honestly labelled, which is why they
+are an observation and not a finding, and both are the shape the volume elsewhere refuses.
+
+✅ **Recorded as passing, because this apparatus keeps almost none.** VI.6's `[^4]` carries its own
+Day-190 correction *against itself* — the paper says nothing about stratification, the balance table
+proves simple randomization, *"The paper contains no instance of 'stratif-' in any form"* — and it
+states the direction of its own error (over-credited the design) rather than only its magnitude.
+VI.6's `[^8]` records that the miss was found by **citation-lineage query and not by reading**, and
+gives the mechanism: `[^3]` has 330 citations and surfaced in every search; `[^8]` has 15 and
+surfaced in none. And VI.6's card **declines C30 explicitly** — *"C30 is not licensed here and is not
+claimed"* — which is the register doing its job in the one chapter that has an experiment.
+
+◻ **One matter of taste, stated as mine.** VI.8's closing move is the strongest thing in the volume
+and it is one sentence long: **the instrument the chapter recommends is the instrument the chapter is
+a product of.** Five volumes made under contest by somebody not inside the position they were made
+from. It sat in the material unclaimed the whole time — *"filed, like the counter itself, as one item
+inside the thing it was supposed to correct."* Whatever gets cut from Book VI, that stays.
+
+---
+
 ## RUNNING TALLY
 
 | book | chapters | words | read | findings ⬛ | observations ◻ |
 |---|---|---|---|---|---|
 | I | 6 | 7,604 | ✅ D204 | 1 (three sites) | — |
 | II | 8 | 24,558 | ✅ D204 | 3 | 3 |
-| III | 8 | 28,096 | ✅ D204 | 3 | 5 |
-| IV | 10 | 64,069 | ✅ D204 | 3 | 5 |
-| V | 11 | 64,191 | ✅ D204 | 3 | 3 |
-| VI–VIII, C, Z | 28 | 136,480 | 28 unread in this pass | — | — |
+| III | 8 | 28,096 | ✅ D204 | 3 (one scope-corrected at VI) | 5 |
+| IV | 10 | 64,069 | ✅ D204 | 3 (one **withdrawn** at VI) | 5 |
+| V | 11 | 64,191 | ✅ D204 | 3 (one scope-narrowed at VI) | 3 |
+| VI | 8 | 38,859 | ✅ D204 | 3 + 1 correction | 5 |
+| VII–VIII, C, Z | 20 | 97,621 | 20 unread in this pass | — | — |
 
-**43 of 71 read in this pass. 188,518 words.**
+**51 of 71 read in this pass. 227,377 words.**
+
+✅ **Ledger written in the same commit and reconciled before this line was typed.**
+`book/docs/fresh-read-ledger.json` now holds **51** entries, **all 51** at
+`pdf_mtime 2026-08-23T15:52:31`. `VI.2` and `VI.4` had been deliberately left at the superseded
+`2026-08-14T21:10:08` build because they had been read against it and not re-read; **they have now
+been re-read in order at the current build and are restamped on that basis rather than laundered.**
+
+⚠ **Book VI cost three of my own prior claims and one of them was simply false.** Book III's
+*"the only chapter in 1,076 pages"* was a superlative over a set I had not swept — twelve chapters.
+Book IV's *"seventeen files"* repair was **wrong in the other direction**: I read the markdown and
+the reader gets the PDF, and in the PDF the pointer is correct. Book V's leak scope narrows: 89 of
+92 wiki tags are Book V's own. All three are the same defect wearing three costumes — **a claim
+about a set, or about an artefact, made from the nearest available surface rather than the one the
+reader meets.**
 
 ✅ **The ledger was written in the same commit this time, and it agrees.**
 `book/docs/fresh-read-ledger.json` now holds **45** entries, **43** at
