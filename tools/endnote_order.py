@@ -104,7 +104,8 @@ def main():
         if extra:
             print(f"     found here, not named in the read: {', '.join(sorted(extra))}")
     else:
-        print("  ✅ control: reproduces the Day-204 set exactly, 12 of 12, no extras.")
+        print(f"  ✅ control: reproduces the adjudicated set exactly, "
+              f"{len(found)} of {len(D204)}, no extras.")
 
     if rows:
         worst = max(rows, key=lambda r: r[2])

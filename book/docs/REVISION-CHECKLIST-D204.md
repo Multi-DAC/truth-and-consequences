@@ -443,7 +443,7 @@ an argument defect.
 
 ---
 
-## G — ENDNOTE MARKER ORDER: ONE CLASS, TWELVE SITES
+## G — ENDNOTE MARKER ORDER: ONE CLASS, ELEVEN SITES
 
 - [ ] **R2-072** · **11 of 63 units with endnotes print their markers out of sequence — 17.5%.**
       Cause found at III.8 and correct: `compile_pdf.py` uses Python-Markdown's footnotes extension,
@@ -566,7 +566,7 @@ flattering direction.
 | **D** — counts on the page | 9 | a reader could check these and find them false |
 | **E** — off-page rosters | 4 | print it, or drop the claim that rests on it |
 | **F** — structure | 12 | needs thought; R2-060 is the largest |
-| **G** — endnote order | 2 | one known cause, twelve mechanical sites |
+| **G** — endnote order | 2 | one known cause, eleven mechanical sites |
 | **H** — tools | 4 | invisible to a reader; each is why a row above exists |
 | **total** | **48** | R2-030 … R2-077 |
 
