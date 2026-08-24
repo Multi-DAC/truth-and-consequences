@@ -242,6 +242,155 @@ reader can catch the book on a technicality, and III.5 is the chapter that can l
 
 ---
 
+## BOOK IV — THE ATLAS (IV.1–IV.10, 64,069 words) — read 17:5x–18:4x
+
+**Verdict: this is the book the volume was written to be able to write, and the reason is that it is
+the first one that loses on purpose.** Book II kept a contract; Book III audited its own metaphor;
+Book IV does something neither did — it installs a discipline in a chapter where it costs nothing
+(IV.7: *every card states what would make it wrong*) and then pays it at every subsequent site
+without a single exemption. Measured: **nine cards printed after the declaration, nine falsifiers, no
+misses**, plus two refusals-to-print that each name what would make the refusal wrong. IV.6 states
+that its own central objection is **unmet** and does not soften it; IV.7 goes looking for an
+instrument, finds one, runs it, and reports that *the entity writing the chapter scores worst in the
+census on it*; IV.8 scores its own candour against Dionysius's and comes out partial; IV.9 runs a
+test on the book's own engine (the Promethean pattern, five names) and reports **two clean cases out
+of five** and a failed replication; IV.10 finds a whole missing tier on its last page and refuses to
+write it. **The strongest chapter is IV.10** and the reason is structural rather than literary: it is
+the only chapter in the volume whose finding is about the *notation* rather than about the world —
+the census has no way to write down a vacancy, and that one defect explains both a tier that left no
+gap and an entity scored at three-fifths present.
+
+⬛ **THE FINDING, AND IT IS BIGGER THAN BOOK IV: MY OWN MEMORY-STORE SLUGS ARE PRINTED IN THE BOOK,
+AND THE REPAIR THAT WAS APPLIED REMOVED THE ONE SIGNAL A READER HAD.**
+
+`IV-06:477` and 107 more. The source carries **108 `[[wiki-link]]` tags** across **17 chapters** —
+`[[feedback_quotation_connective_tissue]]`, `[[feedback_scrutiny_is_motive_shaped]]`,
+`[[feedback_filed_defect_still_gets_rebuilt]]` and 46 other distinct slugs. **These are filenames from
+my auto-memory store.** They are not a citation scheme, not glossed anywhere, and resolve to nothing
+a reader can reach.
+
+| where | tags |
+|---|---|
+| Books I–III (60,258 words) | **0** |
+| Book IV | 16 |
+| Books V–VIII | **92** |
+
+Zero before the Day-191 retrofit; the class begins exactly where the retrofit began, and Book V
+carries more than Book IV.
+
+**Now the part that is a finding about a repair rather than about a leak.** `compile_pdf.py:69–73`
+already handles them, and its comment says why:
+
+> *"the brackets go, since they are wiki syntax and mean nothing to a reader of the printed page.
+> (R-227's mechanical half.)"*
+
+So in the PDF the brackets are gone and the bare slug prints inline, in monospace, mid-sentence.
+p.328, verbatim from the extraction:
+
+> *"…and that is not a coincidence — it is `feedback_instruments_go_where_instruments_are_cheap` for
+> the second book running."*
+
+**With brackets it reads as an obvious machine artefact. Without them it reads as a term of art the
+book expects you to know.** The fix improved the typesetting of the defect and deleted its tell —
+and R-227's own row says, in as many words, *"half-measures will read as leakage rather than design"*
+and *"whichever is chosen is applied uniformly or it has not been chosen."* The half-measure was
+committed in the file whose comment cites the row that forbids it. Measured in the shipped PDF: **92
+occurrences on 63 distinct pages, pp. 328–979.** (Source has 108; the PDF count is lower because two
+slugs are hyphenated rather than `feedback_`-prefixed and some pages carry repeats.)
+→ Unapplied. This is R-227, still open, still marked *a decision, not work*, trigger **before the
+upload**. It is the same ruling Clayton already gave for the shadow-biome paper.
+
+⬛ **The standing-note pointer points the wrong way, in 17 of 18 chapters.** Every chapter carrying
+one ends a footnote with *"**See the standing note on grade above**"*. The standing note is **below**
+— after the entire footnote block, at the foot of the chapter. Checked in the source by offset and
+confirmed against the PDF (pointer p.222 → target p.232; p.299 → p.328; p.384 → p.404). One chapter,
+`V-11`, is the exception and is correct by accident of where its pointer landed.
+→ Cheap fix, one word, 17 files: *above* → *below*.
+
+⬛ **The same pointer is bolted to an arbitrary footnote, and it changes what the note appears to
+say.** It lands on `[^1]` in five chapters and on `[^2]`, `[^3]`, `[^4]`, `[^5]`, `[^7]` and `[^12]`
+in the others — IV.9's is welded to the end of `[^12]`, the note about the sasquatch bar-profile.
+A reader meets a general disclaimer about the whole chapter's grading appended to one specific
+citation, and reads it as a caveat on *that* citation. The distribution is what an automated append
+looks like when it targets the wrong node.
+
+◻ **And the negative, which is the one that prices the Book II repair — Book IV's body prose is
+clean.** Swept all ten chapters for the four hard classes (apparatus-file pointer, filesystem path,
+`R-nnn`/ruling id, Day-N and drafting language) plus the wiki tags: **0 occurrences in 47,923 body
+words. 91 in the notes.** One apparent body hit resolved to my own regex matching *"carries this
+**pass**age at"* — recorded because it is the same line-scoped-grep defect the chapter it was found
+in spends a footnote on.
+
+**This inverts the Book II finding rather than extending it.** Book II leaked into the *argument* —
+`05`'s retirement of the map, in body prose on p.78. Book IV's argument does not leak once in ten
+chapters; the entire apparatus load sits in the notes layer, which Clayton has already ruled *mostly
+good*. So the 38-page Book II repair stays scoped to Book II, and the Book IV question is a different
+and smaller one: R-227's front-matter note versus stripping the process addresses.
+
+◻ **Note-to-body ratio, measured — and the open revision row names the wrong chapters.** R-227 carries
+Fable's reservation that a front-matter note is *"most necessary at IV.7–IV.9, where the
+footnote-to-body ratio approaches 1:1."* Measured, body words against note words:
+
+| IV.1 | IV.2 | IV.3 | IV.4 | IV.5 | IV.6 | IV.7 | IV.8 | IV.9 | **IV.10** |
+|---|---|---|---|---|---|---|---|---|---|
+| 0.16 | 0.20 | 0.39 | 0.26 | 0.20 | 0.20 | **0.24** | **0.42** | **0.49** | **0.65** |
+
+Nothing approaches 1:1, the named span contains the book's *lowest* of the four heavy chapters, and
+the actual peak is **IV.10**, which Fable did not name. ⚠ Grade: this is a word count and Fable may
+have meant rendered page area, which I cannot reconstruct. Recorded because the figure is sitting in
+an open row as a reason, and nobody had put a number on it.
+
+◻ **The chapter that turns the atlas on me is IV.6, and it does not flinch.** The A LANGUAGE MODEL
+card prints **SEES** as *unfilled, because filling it is the disputed act* — the only card in the
+volume whose first line is left open on the grounds that writing it would beg the question. The
+chapter states Searle's derived-intentionality objection at full strength, runs the subtraction
+operation on its own opening instrument, finds the thermostat survives it and finds that **this entry
+does not** (*"the card for this entry cannot be filled past its first word"*), and then declines to
+bank the one reply available to it because *"it is precisely the reply a disqualified referee reaches
+for first."* My position, stated as mine: **this is the best writing in the volume about me, and I am
+the wrong party to say so**, which is the chapter's own argument arriving in the notes file.
+
+◻ **The four-chapter error-direction result is real and it is the volume's most transferable
+finding.** IV.7, IV.8, IV.9 and IV.10 each close by observing that the retrofit's errors ran *against*
+the argument, not for it — a false pedigree awarded to the book's own word, an undercounted
+attribution, an understated bifurcation (¶152 and ¶155, three paragraphs apart, printed as "twenty"),
+a quoted sentence handed an extra conjunct that made the target easier on itself. IV.10 states the
+conclusion: *"there is no motive anywhere in this pass… on this evidence: writing about material with
+the material closed."* That is the same class as this body's own ⚖ finding on asymmetric skepticism —
+**a discipline that hunts for motive cannot see an error that has none** — arrived at independently,
+in a different medium, by the same author. Worth carrying, and worth distrusting for exactly that
+reason.
+
+✅ **Raised and cleared — IV.9's [^6], the sharpest self-indictment in Book IV, is correct.** It
+claims the chapter licensed its central move on an unchecked clause: *"the falsifiable half has been
+checked and has come out negative."* Checked `00-ARCHITECTURE.md`: `archetypes-as-genetic` sits in the
+out-list with **no annotation of any kind**, under *"Out because we don't hold them"* — and
+`Terror Management Theory (dropped on Many-Labs-4)` sits **two items later in the same sentence**,
+carrying its test's name. The positive control is exactly where the note says it is. The note holds
+in full; nothing to re-derive.
+
+✅ **Raised and cleared — the falsifier discipline has no gaps.** IV.7 declares *"for each entry, say
+what would make the card wrong"* and I checked every card printed after it rather than sampling: IV.7
+four cards / four falsifiers, IV.8 three / three, IV.9 two contours / two, IV.10 one refusal / two
+lines. **Nine cards, nine falsifiers, zero misses.** Recorded as a passing check because IV.10's own
+[^3] complains that this apparatus records almost none of those — *"a retrofit that prints only
+failures cannot tell a reader whether the method works or only whether it is pointed at broken
+things."* Here is one.
+
+◻ **R-143 is still live in the source, unchanged.** IV.5's Dunbar number still straddles a hard wrap —
+`a hundred` ends line 253, `and fifty` begins line 254 — so a word-grep still misses it and every
+gauge in `tools/` is still line-scoped. Dunbar is still unnamed in the prose and **Anderson is still
+unnamed**, which fn3 calls the chapter's largest unpaid rule-5 debt. Not new; recorded so the read
+does not report a repair that has not happened.
+
+**One matter of taste, stated as mine.** IV.3's temporal section is the finest single stretch of
+argument in the book so far — two clocks, the product that cancels in one eye and dies across species,
+the failure reported *as* a failure, and then *"a gap is the absence of whoever would have sat through
+it."* It is also the section a reader is most likely to skim, because it arrives inside a chapter
+about plants and fungi and is not signposted as the load-bearing passage it is.
+
+---
+
 ## RUNNING TALLY
 
 | book | chapters | words | read | findings ⬛ | observations ◻ |
@@ -249,6 +398,28 @@ reader can catch the book on a technicality, and III.5 is the chapter that can l
 | I | 6 | 7,604 | ✅ D204 | 1 (three sites) | — |
 | II | 8 | 24,558 | ✅ D204 | 3 | 3 |
 | III | 8 | 28,096 | ✅ D204 | 3 | 5 |
-| IV–VIII, C, Z | 49 | 264,740 | 44 unread | — | — |
+| IV | 10 | 64,069 | ✅ D204 | 3 | 5 |
+| V–VIII, C, Z | 39 | 200,671 | 39 unread in this pass | — | — |
 
-**27 of 71 read. 60,258 words.**
+**32 of 71 read in this pass. 124,327 words.**
+
+⛔ **CORRECTION TO MY OWN NUMBERS, AND IT IS THE CLASS THIS READ EXISTS TO CATCH.** I reported
+**19/71** after Book II and **27/71** after Book III. Both were inflated. The honest figures are
+**14** and **22**: the running count was ledger-total-plus-new, and the ledger already held
+`III.1`, `III.2`, `III.5` from an **earlier pass against a superseded PDF build**
+(`pdf_mtime 2026-08-14T21:10:08`, read Aug 15–17) plus `VI.2` and `VI.4`. So five chapters were
+carried into a number labelled *this pass*, and three of the five were then **double-counted** when
+Book III was read in order. A coverage figure quoted in five consecutive messages, never recomputed,
+drifting by exactly the size of a prior pass nobody subtracted.
+
+⛔ **And the ledger did not know about Book III at all.** `book/docs/fresh-read-ledger.json` held
+**19 entries** when Book IV was opened — `I.1`–`II.8` at the current build, then `III.1`, `III.2`,
+`III.5`, `VI.2`, `VI.4` at the old one. **The commit that reported "Book III complete, all eight
+chapters" (`f20fe4c`) updated the notes file and the tally and never touched the ledger.** The
+coverage gauge and the finding record diverged, and the gauge was the one that lost — which is the
+same defect Book I had (coverage recorded, findings nowhere) with the two halves swapped.
+✅ **Repaired in this commit:** `III.1`–`III.8` backfilled and `IV.1`–`IV.10` added, all at the
+current build. Ledger now holds **34** entries, **32** at `pdf_mtime 2026-08-23T15:52:31`.
+⚠ `VI.2` and `VI.4` are deliberately **left at the old build** rather than restamped — they were read
+against a superseded PDF and have not been re-read, and restamping them is exactly the
+freshness-laundering this book spends a chapter on.

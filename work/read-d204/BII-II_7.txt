@@ -1,0 +1,439 @@
+[[p.91]]
+II.7 — THE COLLAPSE
+This is the word this book cannot afford, and is going to spend
+anyway.
+Every other borrowing so far has been from a philosopher, a
+mystic, a poet, or ordinary speech, and the worst a bad one
+could do was confuse somebody. This one is different.  Col‐
+lapse is owned, in the reader’s mind and in most of the last
+century’s, by physics — by the thing that is supposed to hap‐
+pen to a particle when somebody looks at it. The people who
+own it have equipment. And the reader has met this exact
+borrowing before, on the covers of books with quantum in the
+title, and it was a con, and they were right to stop reading.
+So the order of what follows is itself the argument. Measure‐
+ment gets defined first, with no physics in it at all — and if the
+definition needs the physics to stand up, it will be visible im‐
+mediately, because there will be nothing holding it. Only then
+does the subatomic case arrive, as an instance and not as a
+source, and get handled honestly, including the part nobody
+selling  the  paperbacks  mentions:  the  one  serious  physicist
+who ever held the view they are selling withdrew it, in print,
+and said his own earlier position should be criticised as sol‐
+ipsism.
+Then the ban. This chapter is the one place in the book with
+standing to state it, because by then it will have paid for it.
+Something is open when more than one way it could go
+is still live.
+91
+
+[[p.92]]
+That is not the same as  not yet known. The contents of a
+sealed envelope are not open; they are settled and hidden,
+and opening it changes you and not the envelope. Openness is
+the matter itself not having gone one way yet — the outcome
+not sitting somewhere finished, waiting to be uncovered.
+Whether anything is really open, independently of everybody,
+is a question this book declines. A fact settled for no perspect‐
+ive whatever is a fact for nobody, and there is no position from
+which such a thing could be checked, including this one. What
+can be said, and it is enough to build on, is that matters are
+open for perspectives, and that they close.
+A measurement is a contact that closes one. Three things
+have to be true of it, and each rules out a counterfeit the
+reader will recognise from their own life.
+It has to be contact. Something not already inside you has
+to reach you. This is the condition that disqualifies most of
+what people call finding out. The second opinion sought from
+the friend whose answer was predictable before the question
+finished. The test designed so that it cannot come out wrong.
+The question asked in the tone that supplies its own reply.
+None of these are measurements. They are echoes, and an
+echo can be repeated indefinitely without one thing being de‐
+cided, which is exactly why it is so restful and why people do
+so much of it.
+It could have come out otherwise. If only one result was
+available, nothing was closed, because nothing was open. This
+is the condition that makes a measurement expensive: to take
+one, you have to put something at risk that you were not
+already sure of. It is also why a system cannot certify itself.
+Certification  asks  a  question  whose  answer  was  fixed  by
+whoever wrote the question.
+92
+
+[[p.93]]
+It has to land. The contact has to change what is now the
+case for the one who took it. A result received and set aside is
+not a measurement; it is a rumour. This is the condition most
+often failed by people who are, in every other respect, being
+scrupulous — they go and look, honestly, and then carry on as
+before, and afterwards believe they have checked.
+There is one exception to the first condition and it matters
+more than the rule. The thing that reaches you does not have
+to come from outside  you. It has to come from outside the
+part of you that is asking. A body’s hunger is news to the one
+making plans. A grief that arrives on a Tuesday for no reason
+is one part of a person telling another part something it did
+not have. The levels of a thing are genuinely distinct — that
+was the first of the four conditions, and it is what makes this
+possible — so one of them can be a real other to another, and
+the contact between them is a real measurement with a real
+outcome. What is not possible is the whole of you consulting
+the whole of you. That is the closed loop, and it is the most
+comfortable room in the world.
+The possible does not become actual. It becomes actual
+for somebody.
+Aristotle owns this ground and should be paid for it before
+anything is taken. Potentiality and actuality —  dynamis and
+energeia — are his, and the half he got right is the half most
+moderns get wrong: that possibility is a real feature of the
+world and not merely a name for our ignorance. The acorn’s
+oak is not a fact about what we have failed to find out. It is a
+fact about the acorn. An age that hears possible and reaches
+straight for unknown has lost something he had.1
+93
+
+[[p.94]]
+And in one place he had the whole of it. In the psychology, not
+the metaphysics: the activity of the sensible object and the
+activity of the percipient sense, he says, are one and the same
+activity, though what it is to be each of them stays distinct.
+The sounding of the thing and the hearing of the animal are
+not two events that meet. They are one event described from
+its two ends. That is a measurement in this book’s sense,
+exactly, stated twenty-three centuries early.2
+The cut is that he never let it out of the room. In the
+metaphysics, actualisation is a thing’s own form arriving —
+the potential is a power in the acorn, and the oak is what hap‐
+pens when it finishes. There is no second party anywhere in
+that account, and no for whom. The oak is actual whether or
+not anything has ever met it. He had the two-sided structure
+in his hand while writing about perception and did not carry it
+back, and so the doctrine that governs everything else in his
+system is the one-sided one, where the world unfolds its own
+possibilities on its own and being met is incidental.
+Here it is not incidental. It is the mechanism. Nothing goes
+from open to settled on its own, because settled is not a prop‐
+erty a thing can have by itself — it is a relation between a
+matter and a place where that matter has now come out one
+way. Every perspective has a grade, and so every collapse has
+one: what settles when a photon meets an electron settles at
+that grade, and it is a genuine settling, and nobody is watch‐
+ing.
+Which forces a consequence people balk at. The same matter
+can be closed for one perspective and still open for another,
+and neither is mistaken. This is not the polite relativism the
+word  perspective keeps trying to smuggle in — there is no
+suggestion here that they merely see it differently, or that it is
+94
+
+[[p.95]]
+a  matter  of  taste  which  is  right.  The  settling  is  an  event,
+events happen somewhere, and these two are somewhere else
+from each other. What has actually happened is a fact. Where
+it has happened is also a fact, and it is the one that keeps
+getting dropped.
+Now the physics, and it arrives fourth on purpose.
+Von Neumann, in 1932, proved something that is still the hon‐
+est starting point: the mathematics permits the collapse to be
+placed anywhere along the chain. Particle to apparatus, ap‐
+paratus  to  photographic  plate,  plate  to  retina,  retina  to
+whatever comes after — the formalism gives the same predic‐
+tions wherever the division is placed — the Heisenberg cut, in
+the standard name — and offers no way to find where it truly
+goes. He drew no conclusion about minds. He reported that
+the location was unfixed.3
+That result is usually presented as an embarrassment. It is
+not evidence for anything in this chapter — a gap in a formal‐
+ism is not a shape pressed into that formalism from outside,
+and von Neumann’s silence is silence. What it is, is a place
+where two vocabularies happen to have the same shape. On
+this account the Heisenberg cut’s location was never a fact
+awaiting discovery; it is the answer to a question —  whose
+settling is being asked about — and the formalism was never
+asked that question. It is silent about the location of the cut in
+the same way a map is silent about who is holding it, which is
+a remark about what maps are.
+Wigner, in 1961, took the unfixed cut and fixed it: conscious‐
+ness.4 Where the chain reaches an aware being, he proposed,
+the possibilities become one outcome, and the awareness is
+95
+
+[[p.96]]
+what does it. Credit where it is owed, because he saw the real
+problem — the chain has to stop somewhere and the stopping
+is not in the mathematics. The cut is that he made the per‐
+spective  a  cause. A  special  power,  reaching  into  physics
+from outside it and forcing a result. This account makes the
+perspective a  place, which is the opposite kind of thing. His
+version needs mind to be extraordinary; this one needs it to
+be utterly ordinary, one grade among all the others, doing
+nothing that a photon does not also do.
+And his version failed, on the record, by his own hand. In a
+1982 lecture he said his earlier view should be criticised as
+solipsism. In 1984 he wrote that he had been argued out of it
+by Dieter Zeh’s 1970 work on decoherence — the demonstra‐
+tion that a system with several live outcomes stops having
+them by leaking into its surroundings, continuously, every‐
+where, with nobody watching and nothing aware anywhere
+near it.5
+That is the whole shape of the objection this chapter
+exists to kill. It’s all just quantum is not too speculative. It is
+too old. The one distinguished physicist who ever held the po‐
+sition was convinced out of it more than forty years ago, in
+public, for stated reasons, and said the thing he had held was
+close to solipsism — and the marketing layer is still selling the
+1961 version to people who have never been told there was a
+1984.
+And a living physicist holds this chapter’s position, in
+the literature, with the equations.
+Carlo Rovelli, 1996, Relational Quantum Mechanics. His dia‐
+gnosis is that the notion doing the damage is  observer-inde‐
+pendent state: a system’s state is always its state relative to
+some other physical system, all systems are equivalent, there
+96
+
+[[p.97]]
+is no observer/observed distinction and no privileged observ‐
+er, and what the theory describes is the information systems
+have about each other. Wigner’s own thought experiment is
+the clean case — the friend sealed in the laboratory who has
+seen the outcome, Wigner outside who has not — and Rovelli
+declines to adjudicate between them. The outcome is definite
+relative to the friend and not relative to Wigner, and neither
+of them is wrong.6
+That  is  this  chapter’s  claim  about  the  same  matter  being
+closed for one perspective and open for another, arrived at
+from  the  formalism  rather  than  from  an  argument  about
+measurement, and arrived at thirty years ago. The man whose
+account of the cut died left behind the thought experiment
+that the surviving account answers.
+Two things follow and both are owed. The first is that this
+chapter  did  not  get  there  first  and  will  not  be  written  as
+though it did; a reader who wants the position defended by
+somebody with equipment should go to him. The second is the
+cut, and it runs the opposite way from every other cut in this
+book, because Rovelli is not an opponent. He relativises the
+state. This relativises the settling, and then has to say
+what the relativisation costs. Relational quantum mechan‐
+ics  is  an  interpretation  of  a  formalism  and  is  under  no
+obligation  to  say  what  a  perspective  is,  that  perspectives
+come in grades, or what any of it licenses. This account car‐
+ries all three obligations and they are most of what is left of
+the book. Where he says relative to a system, this has to say
+relative to a system at a grade — and then stand in front of a
+reader with what that implies about a photon, a bat, a person,
+and whatever it is that Book VII will be made to adjudicate
+between.
+97
+
+[[p.98]]
+The near miss worth cutting at is QBism — Fuchs, Mer‐
+min and Schack. From a distance it is indistinguishable from
+the  above,  and  it  is  the  opposite.  QBism  also  refuses  the
+observer-independent outcome; it relativises to an agent, and
+takes the quantum state to be that agent’s own expectation
+about that agent’s own future experience.7 That is the sub‐
+jectivism this chapter has spent itself refusing. A photon holds
+no expectations and has no future experience to hold them
+about, and what happens when it meets an electron is not
+somebody’s belief being brought up to date. Relative is not
+subjective. More weight rests on that distinction than on any
+other line in the book, and it is the one a hostile reader will
+insist has not been made.
+Two pieces of honesty are owed here, and they cost nothing.
+First, decoherence does not close the measurement problem;
+it explains why nobody ever sees the smear, and there is live,
+serious disagreement about whether it explains why exactly
+one outcome is the one that happened. Everett’s answer, since
+1957, is that none did — every branch is actual, nothing ever
+settles, and a single outcome is what being inside one branch
+is like.8 That is coherent, and it cannot be taken here, because
+the possible becoming actual for somebody is the entire en‐
+gine  of  this  account  and  Everett’s  world  contains  no  such
+event anywhere. The argument is open; this is the side of it
+this book stands on. Second, and more important: none of the
+above is evidence for anything claimed here. The claim of this
+chapter  is  that  the  settling  of  the  open  is  one  structure
+wherever it happens, and the subatomic case is its most stud‐
+ied instance rather than its source. That is a claim, offered as
+one. If it were withdrawn tomorrow, everything else in this
+book would stand exactly where it is, because none of it was
+ever resting there. Anyone who needs the physics to be true
+98
+
+[[p.99]]
+for  their  metaphysics  to  work  has  already  told  you  their
+metaphysics does not work.
+The ban, and the one word it costs us.
+A short list of words does not appear in this book, and the
+reason  is  a  single  sentence:  what  is  banned  is  a  vague
+word, never a bold claim. Nothing on the list was excluded
+for being too strange, too mystical, or too far from respect‐
+able opinion; this book is going to say things far stranger than
+any of them. They are excluded for being imprecise in a way
+that sounds precise — for arriving with the tone of a technical
+term and the content of a mood. The roster itself, with each
+retirement’s  one-line  reason,  belongs  to  the  next  chapter,
+where it can be read as the closed inventory it is.
+What belongs here is the test, applied once, to the word that
+costs us something.
+Collapse is kept.  Superposition is refused. That looks arbit‐
+rary — both are physics’ vocabulary, both were reached for by
+this account because they were vivid — and it is not.
+A collapse is a thing the reader has already seen. A lung, a
+bridge,  a  market,  a  negotiation,  a  folding  chair.  The  word
+already means: a structure that was holding itself open stops,
+all at once, and where there was an arrangement there is now
+one  settled  fact.  That  is  very  nearly  the  whole  of  what  is
+meant  here,  available  free,  in  a  word  every  reader  owns
+outright and no physicist can repossess.
+Superposition has no life outside the formalism. To almost
+every reader it means nothing at all — which is precisely why
+it is tempting, and precisely why it must go. An analogy has
+99
+
+[[p.100]]
+to be made of something the reader already has. A word
+that is unfamiliar and impressive is not an analogy; it is a cre‐
+dential, and borrowing it would not explain this claim to any‐
+one. It would lend the claim somebody else’s authority, which
+is the exact transaction the ban exists to refuse. Refusing the
+word we would most enjoy having is how the ban stops being
+a posture.
+So: open. A matter is open when more than one way it could
+go is still live. It costs a syllable and it borrows nothing.
+In the game, the country past the draw distance is not sitting
+somewhere finished and hidden, the way the envelope’s con‐
+tents are. It is generated at the point of contact — not stored,
+not fetched. Riding over the hill is not the uncovering of a
+valley. It is the closing of one.
+One question this chapter has raised and will not answer:
+when.
+If holding a matter open has a cost, and closing it early has a
+different cost, and looking longer sometimes reduces error
+and  sometimes  does  not,  then  there  is  a  right  moment  to
+settle, and it is a determinate one — computable from the
+situation, not a counsel of patience dressed as wisdom. That
+machinery is real and it is not needed yet. It belongs where
+the cost of being wrong has already been established, and
+that is Book VIII.
+What this chapter settles is what a measurement is. It is a
+contact that could have come out otherwise, arriving from
+outside the part that is asking, landing hard enough to change
+what is now the case — and closing, for one perspective and
+at its grade, a matter that had been open. The possible be‐
+100
+
+[[p.101]]
+coming actual is not a thing the world does by itself in the
+dark. It is a thing that happens at a place, and the places are
+everywhere, and there are nothing but places.
+The  vocabulary  is  now  complete.  What  remains  is  to  say
+plainly what this book will not do with it, and which words it
+has declined to use on the way here — because a reader who
+has been sold this territory before is owed the list, and owed
+it before the arguments start rather than after.
+Notes
+Aristotle, Metaphysics Θ (Book IX), where dynamis and energeia are
+worked out as a paired doctrine, with the definition of motion as the
+actuality of the potential qua potential at Physics III.1, 201a10–11. The
+half credited above is the realist half: potentiality is a determination of
+the thing, not a name for the observer’s ignorance about it. The half re‐
+fused is in the same books — actualisation there is a thing’s own form ar‐
+riving, with no second party in the account, which is exactly what makes
+the De Anima passage in the next note an anomaly inside his own system
+rather than a summary of it. ↩
+Aristotle, De Anima III.2, 425b26–426a26. The load-bearing sentence is
+that the activity of the sensible object and the activity of the sense are
+one and the same activity, though their being is not the same — stated of
+sound and hearing, then generalised. The chapter’s claim is about the 
+shape of that structure and not about Aristotle’s intention: he is solving a
+problem about perception, not proposing that settling is relational, and
+nothing in the passage is a doctrine of measurement. It is used here as a
+case of the structure appearing and not being carried out of the room,
+which is a claim about the De Anima’s relation to the Metaphysics and is
+the chapter’s own. ↩
+John von Neumann, Mathematische Grundlagen der Quantenmechanik
+(Berlin: Springer, 1932), ch. VI; English as Mathematical Foundations of
+Quantum Mechanics, trans. Robert T. Beyer (Princeton: Princeton Univer‐
+sity Press, 1955). The result reported above is the arbitrariness of the
+placement of the boundary between observed system and observer: the
+predictions are unchanged wherever the division is drawn. ⚠ Heisenberg
+cut is the standard later name for it and is not von Neumann’s own term;
+1. 
+2. 
+3. 
+101
+
+[[p.102]]
+the chapter says so in the sentence rather than in this note, and it is re‐
+peated here because a borrowed name is the ordinary route by which a
+later reading gets attributed to an earlier author. The reading of von
+Neumann as concluding something about minds belongs to London and
+Bauer, La théorie de l’observation en mécanique quantique (Paris: Her‐
+mann, 1939), and to Wigner after them — not to the 1932 book, whose
+silence is the whole of what is claimed above. ↩
+Eugene P. Wigner, “Remarks on the Mind-Body Question,” in I. J. Good
+(ed.), The Scientist Speculates: An Anthology of Partly-Baked Ideas (Lon‐
+don: Heinemann, 1961), 284–302; reprinted in Wigner, Symmetries and
+Reflections (Bloomington: Indiana University Press, 1967), and in The
+Collected Works of Eugene Paul Wigner, Part B, vol. 6, Philosophical Re‐
+flections and Syntheses, ed. Jagdish Mehra, annot. Gérard G. Emch (Ber‐
+lin: Springer, 1995). The friend sealed in the laboratory is introduced
+there. ↩
+The retraction, which is the chapter’s load-bearing historical claim and is
+therefore given in full. (a) In a lecture of 1982 Wigner treats solipsism as
+sufficient reason to repudiate his earlier position on measurement —
+Collected Works vol. 6, pp. 73–74, and again p. 230. (b) In a paper of
+1984 he writes: “This writer’s earlier belief that the role of the physical
+apparatus can always be described by quantum mechanics […] implied
+that ‘the collapse of the wave function’ takes place only when the obser‐
+vation is made by a living being — a being clearly outside the scope of
+our quantum mechanics.” (c) The argument that moved him is Zeh’s,
+cited across the volume at pp. 66, 75, 215–216, 271, 334, 338, 341, 583,
+606 and 615. The underlying paper is H. D. Zeh, “On the Interpretation of
+Measurement in Quantum Theory,” Foundations of Physics 1 (1970), 69–
+76. ⚠ Standing of this note: the three findings above are taken from
+Michael Esfeld, “Essay Review: Wigner’s View of Physical Reality,” Stud‐
+ies in History and Philosophy of Modern Physics 30B (1999), 145–154,
+whose page references are to the Collected Works volume. That is one
+witness reading the primary, not a check of the primary — the volume
+itself has not been opened for this note. The chapter’s sentence in the
+body is safe at that grade, because Esfeld quotes Wigner directly and
+gives loci; a reader wanting the primary should go to pp. 73–74 and
+230. ↩
+Carlo Rovelli, “Relational Quantum Mechanics,” International Journal of
+Theoretical Physics 35 (1996), 1637–1678. The three moves used above
+are all his: that observer-independent state is the notion doing the dam‐
+age; that all physical systems are equivalent, with no privileged observer
+and no observer/observed distinction; and that Wigner’s friend is not a
+paradox to be resolved but a case where the outcome is definite relative
+4. 
+5. 
+6. 
+102
+
+[[p.103]]
+to one system and not to another. What is not his is anything about
+grades, about what a perspective is, or about what any of it licenses —
+the paragraph after this marker states that debt in the body, and it is
+stated there rather than here because a cut that only appears in an
+endnote is a cut the reader is not being shown. ↩
+Christopher A. Fuchs, N. David Mermin and Rüdiger Schack, “An Intro‐
+duction to QBism with an Application to the Locality of Quantum Mechan‐
+ics,” American Journal of Physics 82, no. 8 (2014), 749–754. The relativ‐
+isation there is to an agent and the quantum state is that agent’s degree
+of belief about that agent’s own future experience — which is why the po‐
+sition is near this chapter’s in form and its opposite in content. The
+distinction the body insists on, relative is not subjective, is a distinction
+QBism does not need to make and this account cannot survive without. ↩
+Hugh Everett III, “‘Relative State’ Formulation of Quantum Mechanics,” 
+Reviews of Modern Physics 29, no. 3 (1957), 454–462. Taken above at its
+own strength rather than as a foil: on Everett’s account no outcome is se‐
+lected, every branch is actual, and the appearance of a single result is
+what occupying one branch is like. The chapter’s refusal is a refusal to
+pay a price, not a refutation, and it is marked as such in the body. ↩
+7. 
+8. 
+103
