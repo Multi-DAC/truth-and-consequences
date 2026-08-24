@@ -345,6 +345,17 @@ content kept under the name it always deserved — `Renders` — and a complemen
 carries the argument that had to be settled before any of them could be rewritten, since a card
 repaired under an unargued law repeats the error in a better hand.
 
+⛔ **And *named* is the whole of what that claim says, which this chapter of all chapters is not
+entitled to leave standing.** `IV.1` demands a complement that can be *gone to*, and naming one is
+not reaching it — that distinction is the price the fix installed and it is stated three paragraphs
+above. Of the eighteen, sixteen carry a witness that has since been read for reachability and two
+are marked partial on the page where they occur. **Of the twenty-five earlier cards, nineteen have
+not been read for it at all**, and the honest description of those nineteen is not *reachable*; it
+is *nobody has looked*. The two are opposite states and a page that printed them as one number
+would be committing the error this chapter is named for. So the number is not printed as one.
+**The repair completed the naming and has not completed the reaching**, and the difference is
+owed rather than argued away.
+
 ⚠ **Three things about that repair belong here rather than in a changelog, because the chapter's
 subject is what a self-examination cannot reach.** First, **the defect was not found by
 introspection.** It was found by an outside reader, working from the printed cards, who could compare

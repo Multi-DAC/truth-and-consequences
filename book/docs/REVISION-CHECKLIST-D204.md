@@ -358,6 +358,22 @@ baked out of this file's own gauge before the file shipped.
       *"a rule you hold and do not check is not a guard, it is a sentence."*
       ⚠ Same subject as carried row **R-237**. Close them together or neither.
       `✓` cmdabsent:reachability UNGRADED::python tools/card_sweep.py
+      **HALF-PAID D205, AND THE ROW STAYS OPEN ON PURPOSE — the tick would be unearned.**
+      What was paid: the text defect. §V claimed completion on *naming* in the chapter that argues
+      naming is not reaching, and it now states the bound — sixteen of the eighteen read for
+      reachability, two partial, and **nineteen earlier cards where nobody has looked**, described
+      as *nobody has looked* rather than folded into a single number with the graded ones.
+      What is NOT paid, and why not in one pass: the nineteen gradings. Reading them, the criterion
+      the registry already uses — *"witnesses named and go-and-see-able"* — does not decide them,
+      and that is not an accident. **The nineteen are exactly the cards whose complement line is an
+      existence claim** (*"Anything with a second dimension"*, *"Everything"*, *"Anything that can
+      hold a season beside another season"*), which is the gap `IV.1` concedes in so many words.
+      They need a distinction the registry does not carry: a NAMED witness against an INSTANTIABLE
+      CLASS. Grading all nineteen `reachable` under the existing vocabulary would turn this gauge
+      green in one pass and would be the row's own defect committed in the repair.
+      ⚠ **NEXT ACTION, and it is a ruling before it is work:** decide whether `reach` gains a fourth
+      value for the instantiable-class case, then grade the nineteen one at a time against it. Same
+      subject as carried row **R-237**; both stay open.
 
 ---
 
