@@ -171,8 +171,8 @@ most common damage this particular tradition does.
 **Whose:** the clinical pain scale — *rate your pain from nought to ten* — and the family of
 instruments built on the same principle: the visual analogue line, the row of faces, the number
 written on a chart at the end of a bed. It is the single most administered measurement of suffering
-in the world, it is administered to almost everyone eventually, and it is picked up here because the
-previous chapter's card named it in passing and did not open it: the two-arrow instrument's boundary,
+in the world, it is administered to almost everyone eventually, and it is picked up here because
+VII.5's card named it in passing and did not open it: the two-arrow instrument's boundary,
 it said, *is not the top of a scale that begins with a stubbed toe.*
 
 **Renders:** what it renders, and it renders it better than any alternative anybody has built.

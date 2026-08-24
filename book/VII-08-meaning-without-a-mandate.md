@@ -123,7 +123,7 @@ tradition that has been right about several things this book depends on. It was 
 is not preceded by an essence, right that bad faith is the appeal to a nature one does not have, and
 right — as this account concedes in a passage that is better than the one it contradicts — that *the
 boundaries are generative. They create the conditions for experience, meaning, and value. Asserting
-individual existence is not delusion."*[^4]
+individual existence is not delusion.*[^4]
 
 So where is the fault? Not in the freedom. In the solitude.
 

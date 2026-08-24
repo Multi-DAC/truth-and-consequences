@@ -32,7 +32,7 @@ anyone has produced for it. **Līlā.** Play.
 It is not a mood or a poetic flourish; it is a formal answer to a formal problem, and the problem is
 ours. If the highest thing lacks nothing, it cannot be doing anything *for* a reason, because a
 reason is a lack with a direction. Then either nothing happens, or what happens is not for anything.
-The *Brahma Sūtra* takes the second horn in four words — *lokavat tu līlākaivalyam*, II.1.33 — which
+The *Brahma Sūtra* takes the second horn in three words — *lokavat tu līlākaivalyam*, II.1.33 — which
 Thibaut renders **"but (Brahman's creative activity) is mere sport, such as we see in ordinary
 life,"** and Vireśvarānanda, working from the same line, **"mere pastime, as is seen in the
 world."**[^1]
@@ -197,7 +197,9 @@ memory** — Thibaut against the archive.org digitisation `vedntasutrastr01bdar`
 357, exact including the parenthesis and both joints; Vireśvarānanda against two agreeing
 reproductions. ⚠ **The grades differ and are not rounded up:** Thibaut is *scan-verified*,
 Vireśvarānanda is *two-witness but not two-digitisation.* Note also that the sūtra is quoted here
-in four words because it is four words; the parenthetical *(Brahman's creative activity)* is
+in three words because it is three; *līlākaivalyam* is a single compound in the received text, and
+the chapter opens it into *līlā* and *kaivalyam* rather than the sūtra printing it opened. The
+parenthetical *(Brahman's creative activity)* is
 Thibaut's supplement and is printed in his parentheses above, not silently absorbed.
 
 [^2]: Śaṅkara's commentary on the same sūtra, Thibaut's translation, p. 357 — the two analogies

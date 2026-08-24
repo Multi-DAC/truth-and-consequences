@@ -173,7 +173,7 @@ while nothing is at stake, so that it is already standing five books later when 
 that consciousness is identified with integrated information, that the quantity is given a symbol
 and a procedure rather than a manner of speaking, and that degrees are therefore *computed* instead
 of intuited. Everything the chapter goes on to refuse is refused at the formalism's own strength.
-The mature statement of the machinery is later and is cited at [^4]; the 2004 paper is credited
+The mature statement of the machinery is later and is cited at note 4; the 2004 paper is credited
 here because priority is the claim being made, and priority belongs to it.
 
 [^2]: Christof Koch and Giulio Tononi, "Can a Photodiode Be Conscious?", *The New York Review of

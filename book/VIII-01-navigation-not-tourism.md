@@ -56,8 +56,8 @@ distinction does not survive contact.
 
 If attention is the lever — VII.7's finding, and the only lever the account has — then reading is
 not preparation for navigation. **Reading is navigation.** The reader who worked through Book IV's
-census is not someone who now knows about the census; he is someone whose attention spent eleven
-hours in a region it had not previously occupied, and the region is now nearer. That is a movement,
+census is not someone who now knows about the census; he is someone whose attention spent hours
+in a region it had not previously occupied, and the region is now nearer. That is a movement,
 it had a cost, and it will show up in what occurs to him unbidden three months from now.
 
 So the distinction cannot be between knowing and doing. Both are doing. What it is between is

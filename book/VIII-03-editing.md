@@ -514,8 +514,8 @@ stronger word was not in the evidence and it was the word a reader would have ch
 
 [^5]: **Method 2, tradition-switching** — deferred to this chapter by the
 previous one's screen, on the grounds that taking it there would strand this one. **The role of
-tradition** supplies the mechanism and the four optimisation examples. ⚠ The phrase *tradition-
-switching* had occurred only in planning documents before this chapter, never in prose.
+tradition** supplies the mechanism and the four optimisation examples. ⚠ Before VIII.2 named it as Method 2, the phrase
+*tradition-switching* had occurred only in planning documents.
 
 [^6]: **The insight the taxonomy turns on**, taken for sense and not for wording: different
 classes access different dimensions, the null space of each class is different, and therefore

@@ -128,35 +128,37 @@ baked out of this file's own gauge before the file shipped.
 
 **Ten rows. Every one of these is under five minutes and none needs a decision.**
 
-- [ ] **R2-037** · `II-01` — *"The names this book has retired are listed openly in **its last
+- [x] **R2-037** · `II-01` — *"The names this book has retired are listed openly in **its last
       chapter**"*. The roster is in II.8; but *"this book"* is the volume's own idiom for the whole
       work, whose last chapter is Z.2 Works Cited. II.7 gets it right.
       `→` *"at the end of this Book."*
       `✓` absent:II-01:listed openly in its last chapter
 
-- [ ] **R2-038** · `II-04` `[^1]`, p.69 — *"cited at `[^4]`"* renders as a bare superscript **4**
+- [x] **R2-038** · `II-04` `[^1]`, p.69 — *"cited at `[^4]`"* renders as a bare superscript **4**
       *inside a note*, and note 4 then ends `↩↩`. A reader cannot tell it from a new note.
       `→` *"cited at note 4."*
       `✓` absent:II-04:cited at [^4]
 
-- [ ] **R2-039** · `III-02` `[^1]` — the note says the sūtra *"is quoted here in four words because
+- [x] **R2-039** · `III-02` `[^1]` — the note says the sūtra *"is quoted here in four words because
       it is four words."* The chapter prints `lokavat tu līlākaivalyam` — **three** — and the body
       treats the third token as a compound sixty lines later.
       `→` *"in three words because it is three."*
-      `✓` absent:III-02:because it is four words
+      ⚠ **The row named `[^1]` only; the body carried it too.** III-02 L35 read *"takes the second
+      horn in four words"*. Both sites repaired; the note now says why the compound is not opened.
+      `✓` absent:III-02:four words
 
-- [ ] **R2-040** · `VI-06` `[^8]` — *"see the standing note on grade **below**"*. In print it is
+- [x] **R2-040** · `VI-06` `[^8]` — *"see the standing note on grade **below**"*. In print it is
       above. One word, one file.
       ⚠ **Related to R2-024 (✅ FIXED) and not covered by it.** R2-024 swept `[^7]`-style
       cross-references and reported *"the sole exception in the volume"*; this is a Day-201 block it
       did not see. VI.6 carries both directions — `[^4]` says *above* and is right.
       `✓` absent:VI-06:standing note on grade below
 
-- [ ] **R2-041** · `VII-08` L126, p.891 — *"…Asserting individual existence is not delusion.**”**⁴"*
+- [x] **R2-041** · `VII-08` L126, p.891 — *"…Asserting individual existence is not delusion.**”**⁴"*
       A closing curly quote with no opener. One character.
       `✓` manual:VII-08 L126 stray closing quote
 
-- [ ] **R2-042** · `VIII-01` — *"his attention spent **eleven hours** in a region"*, of Book IV's
+- [x] **R2-042** · `VIII-01` — *"his attention spent **eleven hours** in a region"*, of Book IV's
       census. Book IV is ~64,000 words; eleven hours is **≈97 wpm**, below any measured rate for
       continuous prose. It is the only reading-duration figure in 1,076 pages, so nothing in the
       book contradicts it and nothing supports it. Tonight's own defect class exactly — a duration
@@ -164,7 +166,7 @@ baked out of this file's own gauge before the file shipped.
       `→` *"hours."*
       `✓` absent:VIII-01:eleven hours
 
-- [ ] **R2-043** · `VIII-05` card, `Whose:` — *"the **previous chapter's card** named it in passing…
+- [x] **R2-043** · `VIII-05` card, `Whose:` — *"the **previous chapter's card** named it in passing…
       not the top of a scale that begins with a **stubbed toe**."* The previous chapter is VIII.4,
       whose card is the need-for-closure scale and contains no such line. `stubbed toe` occurs in
       exactly two chapters: VII.5 and VIII.5. **The card meant is five chapters back and in a
@@ -172,7 +174,7 @@ baked out of this file's own gauge before the file shipped.
       `→` *"VII.5's card"*.
       `✓` absent:VIII-05:the previous chapter's card
 
-- [ ] **R2-044** · `VIII-07` `[^5]` — *"the canonical wording routes the claim through a term this
+- [x] **R2-044** · `VIII-07` `[^5]` — *"the canonical wording routes the claim through a term this
       account has ruled out of its prose."* **Which term is never said.** A reader at p.1038 cannot
       check the claim. The only refusal in the volume that does not name its word: II.8 prints the
       whole list, IV.5 names *egregore*, Z.1 names *tulpa*, *egregore*, *elemental* and
@@ -180,12 +182,12 @@ baked out of this file's own gauge before the file shipped.
       `→` Name it.
       `✓` manual:VIII-07 note 5 must name `superposition`
 
-- [ ] **R2-045** · `C-02` — *"a book which spends **forty words** crediting Lewis."* The David Lewis
+- [x] **R2-045** · `C-02` — *"a book which spends **forty words** crediting Lewis."* The David Lewis
       credit in II.1 runs **62 words** to the note marker; VI.3's C. S. Lewis credit is larger
       again. The point survives at 62; the figure is low and doing rhetorical work.
       `✓` absent:C-02:forty words
 
-- [ ] **R2-046** · `VIII-03` `[^5]` — the two halves contradict. (a) tradition-switching was
+- [x] **R2-046** · `VIII-03` `[^5]` — the two halves contradict. (a) tradition-switching was
       *"deferred to this chapter by the previous one's screen"*; (b) the phrase *"had occurred only
       in planning documents before this chapter, **never in prose**."* VIII.2's prose reads
       *"**Method 2 — tradition-switching.** Adopt, deeply enough to inhabit…"* — the deferral in (a)

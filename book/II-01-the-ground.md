@@ -195,7 +195,7 @@ from.
 
 That is the term, and it takes one name. Not two. A second name for one thing does not give a reader
 range; it gives them two things and the private suspicion that they have failed to tell them apart.
-The names this book has retired are listed openly in its last chapter, each with the argument that
+The names this book has retired are listed openly at the end of this Book, each with the argument that
 retired it, so that nobody restores one later as a harmless improvement.
 
 And the Ground does nothing. That belongs here, at the definition, rather than four books downstream,

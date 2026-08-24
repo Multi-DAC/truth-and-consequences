@@ -437,7 +437,7 @@ social graph**, and the mechanism [^4] reports — users acquire durable *follow
 algorithm's removal — cannot occur where there is nothing to follow. If that reading is right, [^8]
 measures the persuasion channel this chapter says is not the operative one, and its null is
 consistent with, not contrary to, the structural claim. **That is a hypothesis. Neither full text
-has been read** — see the standing note on grade below, which this footnote does not exempt itself
+has been read** — see the standing note on grade above, which this footnote does not exempt itself
 from.
 
 ---
