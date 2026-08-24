@@ -1158,3 +1158,82 @@ the prose and its name is nowhere, which is a different defect from a claim that
 is easier to miss: **nothing is absent, so nothing reads as absent.**" That is a null-space defect
 described exactly, in a book about null spaces, about itself. **Check in VIII.7 whether the full
 statement it defers is actually delivered there.**
+
+### VIII.5 — THE SECOND ARROW (4,113w, p.994–1007)
+
+⛔ **CORRECTION TO MY OWN VIII.2 NOTE, ABOVE, MADE BEFORE THIS CHAPTER'S FINDINGS.** I wrote that
+VIII.2's note 4 named *"four responses… four items that appear nowhere in the volume."* **That was
+wrong and it was wrong in the direction that made my finding look bigger.** The four responses are
+listed **inline in that note**, and they are printed in full as the four moves of **VIII.5 §II**
+(`acknowledge the limitation` · `indirect signals` · `alliances` · `irreducible mystery`). A reader
+meets them. **The half that stands is the other half, and it is the load-bearing one:** the *four
+symptoms* are still never enumerated — `Persistent patterns without apparent cause` occurs **once
+in 1,076 pages**, inside VIII.2's own §IV, and no list of four exists anywhere. So VIII.2's
+argument is still resting on an off-page list; it is one list, not two. I overstated by exactly one
+and I am leaving the overstatement visible.
+
+**Verdict: the bravest chapter in the volume.** It opens by disqualifying its own instruction —
+*"You cannot tell which arrow you are feeling at the time. The distinction is real. It is not
+available."* — and gives three compounding reasons, of which the third is the best thing in the
+chapter: *"the asking is itself an operation on the thing… a second arrow fired by the attempt to
+detect the second arrow."* Then it does the thing almost no practice writing does: it treats the
+subtraction as the deliverable. *"It takes the blame off the classification… the instruction that
+has been making you feel weak was miscalibrated rather than you."*
+
+★ And it ends addressed to somebody other than its reader. Weil's third condition is social
+degradation, so *"the only reliable countermeasure is another person's presence, and that is not an
+instruction the sufferer can carry out."* A practice chapter that reaches the edge of its domain
+and says **"the practice has a domain, this is outside it, and saying so is not abandonment"** —
+that is the standing test from VIII.1 being passed rather than cited.
+
+⬛ **A wrong cross-reference, and it is the exact form no gauge in this repo can see.** The card's
+`Whose:` reads: *"it is picked up here because **the previous chapter's card** named it in passing
+and did not open it: the two-arrow instrument's boundary, it said, is not the top of a scale that
+begins with a **stubbed toe**."* The previous chapter is **VIII.4**, whose card is the
+need-for-closure scale and which contains no such line. `stubbed toe` occurs in exactly two
+chapters: **VII.5** and VIII.5. **The card meant is VII.5's — five chapters back, and in a
+different book.** → `"VII.5's card"`.
+
+⬛ **AND THE GAUGE THAT OWNS THIS CLASS MISSES 26 SITES, INCLUDING THIS ONE.**
+`tools/relative_ref_sweep.py` exists precisely for references carrying no resolvable token, and it
+did **not** report VIII.5:175. My first diagnosis — that its vocabulary lacks the possessive
+`chapter's` — was **wrong**; I tested it and `PAT_ADJ` matches the possessive fine. The real
+mechanism is that **the manuscript is hard-wrapped and the tool scans line by line**, so `the` sits
+on line 174 and `previous chapter's card` on line 175 and the phrase is never seen whole.
+
+| | sites |
+|---|---|
+| visible **line**-scoped, as the tool reads | **180** |
+| visible **paragraph**-scoped, unwrapping soft line breaks | **206** |
+| **invisible to the gauge** | **26 (12.6%), across 18 chapters** |
+
+The run prints `resolvable: 157/169`. **169 is a denominator the tool generated for itself**, and
+it is short by 26. The docstring is scrupulous about two limits it *does* know — *"it has no idea
+what any chapter is ABOUT"* and *"the UNCOUNTED sites resolve by ADJACENCY… green forever"* — both
+precision limits. This third one is a **recall** hole and nothing declares it.
+→ One-line repair: unwrap single newlines within a paragraph before matching. Then re-run and
+re-read the 26.
+★ The site that is actually *wrong* is one of the 26. The gauge and the defect found each other.
+
+⬛ **The eighth-mode enumeration lists six labels for seven modes.** *"The eighth mode the census
+keeps separate… the previous seven fail at seeing, at aim, at objective, at frame, at the loop, at
+resolution."* Six. Mapping them against the canonical ladder: `objective`=VIII.1, `frame`=VIII.2,
+`the loop`=VIII.3, `resolution`=VIII.4 — leaving `seeing` and `aim` to carry **three** modes
+(VII.7 saturation, VII.8 binary-in-three-valued, VII.9 presupposed-mechanism). VIII.3 did this
+correctly with five labels for five. **Second chapter running in which the book's self-accounting
+comes out one short** — VIII.3's disclosure named 2 of 8 inversions, this names 6 of 7 modes.
+Neither is an overclaim; both are undercounts, which is the direction that does not trip anything.
+
+✅ **The mode itself is genuinely new and the best of the eight.** *"The first in which the
+exclusion is not a defect at all but the operating principle… A scale that preserved the structure
+would preserve the problem it was built to solve."* And the navigational implication refuses the
+obvious move — not *use a better scale*, but **ask the second question** — with the reason:
+*"what has no box does not get collected, does not enter the record, and is therefore not in the
+data anybody later studies. The complement is not missing. It is unrecorded."*
+
+◻ §III's three behavioural tests for care-focusing vs damage-focusing are the chapter's own and are
+graded as such on the page (*"observational and unmeasured"*). *"Do the people who knew you before
+recognise you?"* — *"the least dignified test and the most reliable."*
+◻ The Stoic correction is load-bearing and correctly attributed to VII.5: the dichotomy of control
+*"quietly bills the second to the first"*, producing *"a shame arrow installed by good advice."*
+◻ `ruling 109` — one more process ID in shipped text.
