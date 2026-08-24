@@ -68,15 +68,14 @@ is not in an opponent.
 One of the authors of this book held model agnosticism for years, used the phrase in writing,
 wrote *maybe logic* into arguments as though it settled something, and had read none of it: not
 Korzybski, not Bourland, not Łukasiewicz, not Reichenbach, and not *The New Inquisition*, the book
-in which the position is actually defined. The endnotes below are the first time any of those texts
-was opened for this project. They were opened because this chapter could not be written without
-them, and the chapter could not be written without them because the practice had been running on
-the phrase alone.
+in which the position is actually defined. Every one of those texts had to be opened to write this
+chapter, and none of them had been opened to hold the position for the decade before it. The
+practice had been running on the phrase alone.
 
 That is the specimen. A discipline was adopted and its argument was never met, and nothing in the
 practice was capable of noticing, because a posture has no operations to fail.
 
-And the use it made of the phrase is exactly the counterfeit. One of the essays in that corpus
+And the use it made of the phrase is exactly the counterfeit. One of our own essays
 contains the sentence: *"I hold this lightly. Maybe Logic. The certainty that I* am *something
 doesn't require certainty about* what." Two words standing in for a warrant, in a sentence that
 also uses the verb the associated technique exists to remove, in an essay written by an author who
