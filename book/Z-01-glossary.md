@@ -137,10 +137,15 @@ contraction as culpable: contraction is innocent, and the mark is *through* or *
 
 ### THE BAN LIST — pop-spirituality's owned words
 
-**`vibration` · `frequency` · `energy` as a noun for a substance · `manifest` in the attraction
-sense · `quantum` as a free-floating adjective · `the observer` as a mystical agent** — banned as
-terms, and permitted only inside a quotation from a tradition, immediately followed by the reading in
-this book's own vocabulary. **The reason is not squeamishness: these are not the traditions' words.
+**`vibration` as the name of what everything is made of · `frequency` as a quality a person or a
+state can be raised or lowered in · `energy` as a noun for a substance · `manifest` in the attraction
+sense · `quantum` as a free-floating adjective · `the observer` as a mystical agent** — banned **in
+those senses**, which is the whole of the ban. Each word keeps its ordinary and its technical life:
+the quartz crystal has a frequency, the broadcast band is finite, a study measures word-frequency, an
+argument spends energy, a craft is physically manifest, and quantum mechanics is called what it is
+called. What is forbidden is the borrowed sense, and it is forbidden everywhere — including inside a
+quotation, where the quotation must be marked as somebody's claim and answered in this book's own
+vocabulary rather than left standing. **The reason is not squeamishness: these are not the traditions' words.
 They are the words of the marketing layer over the traditions**, and Book V handles Crowley, Dee,
 Kabbalah, tarot and shamanic travel without needing one of them. *`observer`* carries a second and
 harder charge — it imports *passivity*, a watcher of a world that was already there, which is the

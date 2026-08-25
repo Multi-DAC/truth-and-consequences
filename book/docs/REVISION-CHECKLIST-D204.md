@@ -539,14 +539,32 @@ an argument defect.
       38 pages.
       `✓` ruling:Clayton — keep the honest disclosure, or repair the five and drop it
 
-- [ ] **R2-064** · `Z-01` ban list — the entries are sense-qualified (*`energy` as a noun for a
+- [x] **R2-064** · `Z-01` ban list — the entries are sense-qualified (*`energy` as a noun for a
       substance*, *`quantum` as a free-floating adjective*) and then the sentence closes *"permitted
       only inside a quotation from a tradition, immediately followed by the reading in this book's
-      own vocabulary."* **Those two rules disagree.** `frequency` 18 in 10 files, `quantum` 37 in
-      10, `the observer` 12 in 8 — every sampled hit in a permitted sense and **not** in a
-      tradition-quotation: *quantum in se est* (II.6), the quartz oscillator (IV.2), Gibson on the
-      observer (III.4). The list is sound; the closing clause over-reaches it.
-      ⚠ Worth stating because the raw counts look like 60 violations and are not.
+      own vocabulary."* **Those two rules disagree.**
+      **POPULATION ENUMERATED BEFORE THE REPAIR — all 6 terms, all 72 files, not sampled:**
+      | term | hits | files | in a banned sense |
+      |---|---|---|---|
+      | `vibration` | 4 | 3 | **0** — two are the roster itself; II.8 quotes *Everything is vibration* to answer it; VII.4 denies it |
+      | `frequency` | 18 | 10 | **0** — 32,768 Hz quartz (IV.2), broadcast spectrum (VI.5), word-frequency method in a cited study (VI.7), kHz currents (VIII.3) |
+      | `energy` | 4 | 4 | **0** — one figurative *spends its energy* (VII.4), one heading naming the ban (VII.1) |
+      | `manifest` | 7 | 5 | **0** — *physically manifest*, Sanskrit *nirmita*, and the manifestation reading named to refute it |
+      | `quantum` | 35 | 10 | **0** — *quantum in se est*, quantum mechanics, book titles, Macroscopic quantum |
+      | `the observer` | 12 | 8 | **0** — Gibson quoted, physics, *the observer's ignorance* |
+      | **total** | **80** | — | **0** |
+      The row's premise is CONFIRMED and understated: it sampled three and the full
+      population is **80 hits, zero violations**. Under the clause as written, ~70 of the 80
+      were breaches; under the entries as written, 0.
+      ⚠ **The row priced one defect and there were two.** `vibration` and `frequency` were
+      listed **bare** while the other four were sense-scoped — so the *entries*, not only the
+      closing clause, banned 16 legitimate technical uses. Narrowing the clause alone would
+      have left `frequency` still forbidding the quartz oscillator. Both now sense-scoped.
+      ⚠ Two candidate defects examined and REFUTED rather than filed: (a) II.8's roster carries
+      a seventh term, `superposition` — not rot, Z-01 gives it a full entry above the list and
+      correctly keeps it out of *pop-spirituality's owned words*, which is the chapter's own
+      reasoning; (b) `claim_sweep` screens only 2 of the 6 — correct by design, a gauge over
+      80 innocent hits is all noise, and this measurement is the evidence for that.
       `✓` manual:Z-01 closing clause narrowed to the sense-scoped rule
 
 - [ ] **R2-065** · `VIII-07` §IV and §VII — the closing instruction of the book hands the reader the
