@@ -7,7 +7,7 @@
      the notes are repaired and does not change appearance while it rots, which is the object
      this book spends a volume diagnosing. The back matter is not exempt from the argument. -->
 
-⚠ **THIS LIST IS INCOMPLETE, AND HERE IS BY HOW MUCH.** Of **247** endnotes carrying a datable citation, **124** (50%) are parsed into entries below and **123** are not. The extractor is deliberately strict and refuses to guess: a citation given in running prose, split across a clause, or carried by a locus rather than an imprint is counted here and not rendered. **The endnote is the receipt; this page is an index to the receipts, and it says which ones it could not reach.** A works-cited list that silently dropped that share would be a partial result wearing the authority of a complete one.
+⚠ **THIS LIST IS INCOMPLETE, AND HERE IS BY HOW MUCH.** Of **247** endnotes carrying a datable citation, **125** (51%) are parsed into entries below and **122** are not. The extractor is deliberately strict and refuses to guess: a citation given in running prose, split across a clause, or carried by a locus rather than an imprint is counted here and not rendered. **The endnote is the receipt; this page is an index to the receipts, and it says which ones it could not reach.** A works-cited list that silently dropped that share would be a partial result wearing the authority of a complete one.
 
 ⚠ **AND THE ENTRY COUNT OVERSTATES DISTINCT WORKS.** **5** works below are printed more than once under variant strings — a subtitle carried in one citation and not the other, a city present or absent, `Pa.` against `PA` — which is **5** entries more than there are works. A further **5** are the same name recurring against different years — mostly a periodical standing where a volume's title goes, which is the residue named below and not the same defect. ⛔ **That split is decided on the year alone and it misfiles at least one pair**, a book and a dated review of it, which the rule cannot tell from two issues of a journal; the total above the split is the figure to trust. **This paragraph is generated, not typed**, for the reason the header gives: the figure was correct on the day it was first written and would have gone quietly wrong at the next repair. The duplicates are left standing rather than merged, because choosing which imprint is canonical is an editorial ruling and this page does not make those.
 
@@ -15,7 +15,7 @@
 
 ---
 
-⚠ **6 of the 150 entries below are marked machine-uncertain.** The extractor can see that they are structurally citation-shaped and cannot tell whether the italicised span is a title, an author's surname, or a piece of the note's own prose. **They are marked rather than dropped**, because dropping them would improve this page's appearance and hide a real limit of the instrument. The marks are raised by shape, not by recognition: a span that opens on a date, ends on a possessive, or carries a reviewing connective is prose from the note rather than a title, whatever the words are. ⛔ **Two residues survive that, and both are declared rather than fixed.** First, **a one-word title and a bare surname are the same shape** — flagging every single-word entry caught two real cases against fifteen false alarms on titles like *Aion*, *Angst*, *Ethics* and *Nature*, so that rule was removed and this sentence stands in its place. Second, **a journal's name and a book's are also the same shape**, and at least one periodical is standing in the list below where a volume should be. Assume two or three entries are an author or a journal in a title's position. **A declared residue is the honest form of a limit; the failure this page is guarding against is a residue that used to be declared and quietly changed.**
+⚠ **6 of the 151 entries below are marked machine-uncertain.** The extractor can see that they are structurally citation-shaped and cannot tell whether the italicised span is a title, an author's surname, or a piece of the note's own prose. **They are marked rather than dropped**, because dropping them would improve this page's appearance and hide a real limit of the instrument. The marks are raised by shape, not by recognition: a span that opens on a date, ends on a possessive, or carries a reviewing connective is prose from the note rather than a title, whatever the words are. ⛔ **Two residues survive that, and both are declared rather than fixed.** First, **a one-word title and a bare surname are the same shape** — flagging every single-word entry caught two real cases against fifteen false alarms on titles like *Aion*, *Angst*, *Ethics* and *Nature*, so that rule was removed and this sentence stands in its place. Second, **a journal's name and a book's are also the same shape**, and at least one periodical is standing in the list below where a volume should be. Assume two or three entries are an author or a journal in a title's position. **A declared residue is the honest form of a limit; the failure this page is guarding against is a residue that used to be declared and quietly changed.**
 
 - *A Foray into the Worlds of Animals and Humans: With a Theory of Meaning* (Minneapolis: University of Minnesota Press, 2010) — II.2
 - *A Sand County Almanac* (1949) — VII.2
@@ -119,6 +119,7 @@
 - *Shamans: Siberian Spirituality and the Western Imagination* (2001) — V.8
 - *Shame and Necessity* (Berkeley: University of California Press, 1993) — VI.2
 - *Southern California Law Review* (1972) — VII.2
+- *Spiritual Exercises* (composed c. 1522–1524, first published 1548) — VIII.3
 - *Streifzüge durch die Umwelten von Tieren und Menschen* (1934) — II.2
 - *Symmetries and Reflections* (Bloomington: Indiana University Press, 1967) — II.7
 - *Tabula Smaragdina* (Heidelberg, 1926) — II.6
@@ -168,4 +169,4 @@
 - *Zen no kenkyū* (1911) — II.1
 - *Zur Genealogie der Moral* (1887) — II.2
 
-*150 entries, 6 machine-uncertain.*
+*151 entries, 6 machine-uncertain.*

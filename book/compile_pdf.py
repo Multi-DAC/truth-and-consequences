@@ -111,6 +111,29 @@ for path in files_for(coda_prefix):
     html = render_chapter(os.path.join(HERE, path))
     body_parts.append(f'<section class="chapter" id="{anchor}">{html}</section>')
 
+# ⚠ THE GENERATED PAGE IS REGENERATED HERE, added Day 205 under R2-074.
+# `tools/bibliography.py` had no caller anywhere in the repo. This loop globs Z-*
+# and renders whatever markdown is on disk, so the works-cited page shipped current
+# only when a human remembered — and nobody had since Day 195. A generator with no
+# trigger is a hand-typed page with extra steps, which is the exact object Z.2's own
+# header condemns. Ten days of drift is what R2-053 was.
+# It runs BEFORE the glob below, or the PDF would carry the stale page it just fixed.
+# A non-zero exit ABORTS the compile: a build that renders a page it knows is wrong
+# is worse than one that refuses. [[feedback_delegated_step_has_no_trigger]]
+_bib = os.path.join(os.path.dirname(HERE), "tools", "bibliography.py")
+if os.path.exists(_bib):
+    import subprocess
+    import sys as _sys
+    _r = subprocess.run([_sys.executable, _bib], capture_output=True, text=True,
+                        encoding="utf-8", errors="replace")
+    if _r.returncode != 0:
+        raise SystemExit(f"⛔ bibliography.py exit {_r.returncode} — refusing to "
+                         f"compile over a page it could not regenerate.\n{_r.stderr}")
+    print(f"  regenerated works-cited: {_r.stdout.strip().splitlines()[-1] if _r.stdout.strip() else 'ok'}")
+else:
+    raise SystemExit("⛔ tools/bibliography.py is missing. The works-cited page has no "
+                     "generator, so the PDF would ship a hand-typed stamp. Refusing.")
+
 # Back matter (Z-*) — glossary and works cited, added Day 195 under ruling 180.
 # ⚠ These are the two of R-222's three artifacts that got BUILT. The index is
 # refused with a reason recorded in `00`; see ruling 180. If a Z-* file is added

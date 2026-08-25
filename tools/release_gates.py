@@ -35,8 +35,20 @@ QUEUE = os.path.join(ROOT, "book", "docs", "REVISION-QUEUE.md")
 ARCHIVE_DIR = os.path.join(ROOT, "book", "docs", "archive")
 
 # gate row id -> tool whose exit code IS the verdict. Everything else is DECLARED.
+# The value is an ARGV TAIL, not just a filename, because R-240's verdict lives behind
+# a flag: `bibliography.py` with no argument REWRITES the page, which would make the
+# gate pass by doing the work rather than by finding it done. A gate that repairs its
+# own subject is not a gate. [[feedback_instrument_fix_vs_relaxation]]
 MEASURED = {
-    "R-238": "self_citation_gate.py",
+    "R-238": ["self_citation_gate.py"],
+    # R-240, added Day 205 under R2-074. `bibliography.py` had NO CALLER anywhere in
+    # the repo for ten days, so the works-cited page shipped current only when someone
+    # remembered. It drifted TWICE IN ONE DAY: once before R2-053 regenerated it, and
+    # again within hours, when the Book-VIII repairs made one more citation parseable
+    # and nothing said so. `book/compile_pdf.py` now regenerates before it renders;
+    # this gate is the second hand, and it is the one that fires without a build.
+    # [[feedback_delegated_step_has_no_trigger]]
+    "R-240": ["bibliography.py", "--check"],
 }
 
 
@@ -51,8 +63,10 @@ def read_gate_table():
     return rows
 
 
-def run_tool(name):
-    p = subprocess.run([sys.executable, os.path.join(ROOT, "tools", name)],
+def run_tool(argv):
+    if isinstance(argv, str):           # tolerate the single-name form
+        argv = [argv]
+    p = subprocess.run([sys.executable, os.path.join(ROOT, "tools", argv[0])] + argv[1:],
                        capture_output=True, text=True, encoding="utf-8", errors="replace")
     return p.returncode
 
@@ -81,13 +95,14 @@ def main():
     for num, gate, rid, state in rows:
         if rid in MEASURED:
             rc = run_tool(MEASURED[rid])
+            label = " ".join(MEASURED[rid])
             if rc == 0:
-                verdict = f"✅ MET      — {MEASURED[rid]} exit 0, RUN not read"
+                verdict = f"✅ MET      — {label} exit 0, RUN not read"
             elif rc == 2:
-                verdict = f"❓ UNKNOWN  — {MEASURED[rid]} control failed; verdict withheld"
+                verdict = f"❓ UNKNOWN  — {label} control failed; verdict withheld"
                 unknown += 1
             else:
-                verdict = f"⛔ OPEN     — {MEASURED[rid]} exit {rc}"
+                verdict = f"⛔ OPEN     — {label} exit {rc}"
                 open_gates += 1
         elif "discharged" in state or "met" in state.lower():
             verdict = "◻ DECLARED — a human wrote this; it is a claim, not evidence"

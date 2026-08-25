@@ -639,7 +639,7 @@ an argument defect.
 **These are not text edits and none of them is visible to a reader. Each one is the reason a row
 above exists, or the reason the next one will.**
 
-- [ ] **R2-074** · `tools/bibliography.py` **has no caller anywhere in the repo.** `compile_pdf.py`
+- [x] **R2-074** · `tools/bibliography.py` **has no caller anywhere in the repo.** `compile_pdf.py`
       globs `Z-*` and renders whatever markdown is on disk. It regenerates only when a human
       remembers, and no one has since Day 195. **A generator with no trigger is a hand-typed page
       with extra steps** — which is the exact object Z.2's own header condemns. This is why R2-053
@@ -647,6 +647,31 @@ above exists, or the reason the next one will.**
       `→` Wire it into the build, or add a release gate that fails when the generated page differs
       from the page on disk.
       `✓` manual:bibliography.py invoked by the build or gated
+      **PAID D205 — BOTH HANDS, because the build one cannot fire in this body today.**
+      `book/compile_pdf.py` now runs the generator BEFORE it globs `Z-*`, and aborts the compile
+      on a non-zero exit rather than rendering a page it knows it could not rebuild. Verified
+      end-to-end, not asserted: the compile ran, printed `regenerated works-cited: RECALL GAP
+      122`, and wrote **1,073 pages** (HEAD's committed build was 1,076 — the three pages are
+      today's deletions; text at p.501 is byte-identical, font resources unchanged).
+      ⛔ **AND IT ONLY RAN UNDER WSL.** WeasyPrint's Windows import is dead in this body —
+      `OSError: cannot load library 'libgobject-2.0-0'`. It built fine yesterday (`3d92dfe`,
+      15:52). The only `libgobject-2.0-0.dll` on the Windows side now lives inside a **OneDrive
+      version directory** that auto-updates its own name, so whatever made the import resolve was
+      never a declared dependency. **A build hand that works by borrowing a dll from an
+      auto-updating application is a trigger with a clock on it.**
+      → So the second hand is the one that matters: **gate 7, `R-240`**, in the live queue's
+      release table, measured by `bibliography.py --check`, exit code IS the verdict.
+      `release_gates.py`'s `MEASURED` map now carries an **argv tail** rather than a filename —
+      bare `bibliography.py` REWRITES the page, so a gate calling it would pass by doing the work
+      instead of finding it done. [[feedback_instrument_fix_vs_relaxation]]
+      **BOTH BRANCHES EXERCISED, in the state where the answer differs:** current page → gate 7
+      MET, `release_gates.py` exit 0. Planted stale page → `⛔ OPEN — bibliography.py --check
+      exit 1`, *"1 gate(s) OPEN — upload is blocked"*, exit 1. Restored → green.
+      ★ **The row's premise was proved as an event while I was closing it.** `--check` said STALE
+      on a page R2-053 had regenerated **at 14:44 today**. Today's Book-VIII repairs made one more
+      citation parseable — *Spiritual Exercises* (VIII.3) — and the page went 150 entries to 151,
+      124 parsed to 125, **with nothing saying so**. Ten days of drift was the headline; the real
+      number is **three hours**.
 
 - [x] **R2-075** · `tools/relative_ref_sweep.py` **is line-scoped against a hard-wrapped
       manuscript**, so **26 sites (12.6%, across 18 chapters) are invisible to it — including
