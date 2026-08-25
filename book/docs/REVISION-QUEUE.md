@@ -69,6 +69,7 @@ against a superseded build is flagged, because it is not a read of the current a
 | 5 | Zero dangling triggers | R-234 | ✅ met — **measured** |
 | 6 | The volume stands on its own | R-238 | ✅ met — `tools/self_citation_gate.py` exits 0, **run not read** |
 | 7 | The generated back matter is not stale | R-240 | ⛔ measured every run — `tools/bibliography.py --check`, **run not read** |
+| 8 | No claim the book makes about its own text contradicts a grep | R-241 | ⛔ measured every run — `tools/citation_forward.py`, **run not read**. OPEN while R2-058 stands |
 
 ⚠ **Gate 6 is met and its green is narrower than it sounds.** It measures **pointing**, not honesty
 about inheritance; an absorbed debt is invisible to it by construction. Its scope list for the bare

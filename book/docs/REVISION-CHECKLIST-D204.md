@@ -731,7 +731,7 @@ above exists, or the reason the next one will.**
       residue was also stale** — it described the deleted rule's blind spot, not the one it has —
       and now declares both survivors, the bare surname and the journal name.
 
-- [ ] **R2-077** · **no gauge in this repo watches citation-forwards.** `tools/note_binding.py`
+- [x] **R2-077** · **no gauge in this repo watches citation-forwards.** `tools/note_binding.py`
       audits marker→note in both directions and reports **0 orphans, 0 dangles across 528
       endnotes** — and is structurally blind to R2-058, R2-047 and R2-048, because those notes
       exist, are reachable, and point at a *source* rather than at a note. Three chapters running in
@@ -739,6 +739,32 @@ above exists, or the reason the next one will.**
       `→` A name-census gate over *"spent earlier"* / *"used at"* / *"occurs N times"* claims,
       run over the unwrapped source.
       `✓` manual:citation-forward gate exists and runs
+      **PAID D205 — `tools/citation_forward.py`, wired as release gate 8 (`R-241`), and it is
+      OPEN, correctly.** 14 self-census claims across 67 chapters: **9 agree · 1 DISAGREES ·
+      0 unread · 4 acknowledged by hand.** The DISAGREES is **R2-058** — *"used in this manuscript
+      at VII.3 and VII.4"*, and the gate prints `⛔ EMPTY ROOM(S): VII.3, VII.4`. The row that
+      asked for the gate is the row the gate finds.
+      ⚠ **THE FIRST VERSION WAS A NOISE GENERATOR AND WOULD HAVE BEEN WORSE THAN NOTHING.** On
+      its first live run it reported 13 of 15 claims wrong. Four of those were a 240-character
+      quotation adopted as a "subject"; the rest were **scope**: it counted the whole volume for
+      every claim, so it flagged `blind spot` at VIII.2 — **against the sentence R2-047 had already
+      repaired**, which correctly says *in VI.8*. It committed R2-047's error while checking for
+      R2-047. A gate that cries wolf trains its reader to skip it.
+      ⛔ **AND THE END-TO-END CONTROL CAUGHT A SECOND ONE THE REGEX ASSERTS COULD NOT.** Scope was
+      resolved by pattern precedence, so R2-047's original — *"occurs eleven times **in this
+      manuscript** and every one of them is **in VI.8**"* — resolved to VI.8, counted 11, and
+      **PASSED**. Fixed to earliest-stated-scope-wins; that in turn read *"in the manuscript
+      before this line"* as the whole volume and falsely flagged `philia` at VII.6, so a narrowing
+      qualifier now beats position while two rival scopes are still decided by position. Both
+      fixtures are in the control and both are built where the two rules DISAGREE.
+      ⛔ **Writing the acknowledgement file put the gate inside its own corpus** — `book/*.md`
+      picked up `CENSUS-ACK.md` and the claim total went 14 → 16 the instant it was saved. The
+      corpus is chapter files now, asserted.
+      ★ **`occurs` and `is used` are not the same claim.** Aquinas is NAMED 23 times and USED as a
+      source four; both sentences are true. Sense verbs are routed to a human, never counted.
+      **The four unreadable claims are adjudicated in `book/CENSUS-ACK.md`**, by hand, with the
+      measurement where one exists — `Watts` really is absent from I.6, `summit` really is ×5 in
+      V.1 — because a gate whose alarm branch is its only branch is unclearable by construction.
 
 ---
 

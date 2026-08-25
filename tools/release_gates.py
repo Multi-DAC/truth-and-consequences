@@ -49,6 +49,14 @@ MEASURED = {
     # this gate is the second hand, and it is the one that fires without a build.
     # [[feedback_delegated_step_has_no_trigger]]
     "R-240": ["bibliography.py", "--check"],
+    # R-241, added Day 205 under R2-077. `note_binding.py` reports 0 orphans and 0
+    # dangles across 528 endnotes and is structurally blind to a note that EXISTS,
+    # is REACHABLE, and is wrong about a count or an address. Three chapters running
+    # in Book VIII carried one. This gate re-counts every claim the book makes about
+    # its own text -- the one class of claim a grep can settle, and the only one
+    # nothing was watching. It is OPEN today, correctly: R2-058 points at two empty
+    # rooms. [[feedback_orphan_is_silent_dangle_is_loud]]
+    "R-241": ["citation_forward.py"],
 }
 
 
