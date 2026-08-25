@@ -10,9 +10,9 @@ consequences are going to cost you things you were fond of.
 
 **And a word about how this first book talks, because it is not how the rest of it talks.** Book I
 asserts. It will hand you six chapters of flat declaration — *this is the case, and this follows* —
-with the ancestors unnamed, the objections unmet, and nothing yet defended. That is deliberate and it
-is not the register of the argument. **It is the register of the report.** There is a thing to be
-described before there is a case to be made, and describing it in the hedged, footnoted, everybody's-
+with the ancestors unnamed, no opponent met, and no bill yet paid. That is deliberate and it is not
+the register of the argument. **It is the register of the report.** There is a thing to be described
+before there is a case to be made, and describing it in the hedged, footnoted, everybody's-
 been-consulted voice of the second book would have produced six chapters of qualification about an
 object the reader had not yet been shown.
 

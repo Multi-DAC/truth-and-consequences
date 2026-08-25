@@ -91,7 +91,7 @@ never been anywhere else for anything to be.
 Difference is not a property the whole has, and might have failed to have, and does not have.
 Difference is what being somewhere in particular *is*.
 
-So the objection has the order backwards. It is not that the world is really a hiss and a tunnel
+So the smear has the order backwards. It is not that the world is really a hiss and a tunnel
 sweetens it into a world. There is no really-a-hiss; that is a description filed from a chair nobody
 sits in, and with the chair gone there is nobody left for it to be true for. There is what obtains,
 and there are places in it, and at every one of them something is the case.

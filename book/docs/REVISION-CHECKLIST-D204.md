@@ -448,17 +448,40 @@ an argument defect.
 
 **Twelve rows. These need thought rather than a keystroke.**
 
-- [ ] **R2-060** · Book I, three sites — **the largest single move on this list.** 1,176 words,
+- [x] **R2-060** · Book I, three sites — **the largest single move on this list.** 1,176 words,
       **15.5% of Book I**, is the book discussing its own voice: I.1 L11–24 (223w, before the
       argument starts), I.6 *THE HANDOVER* (342w, the same speech at the other end), and I.2's
       actualist concession (611w). And the checkable part: I.1 promises *"six chapters of flat
       declaration — with the ancestors unnamed, the objections unmet, and nothing yet defended"*;
       I.6 confirms it; **I.2 names an ancestor, meets the objection, accounts the cost, and loses.**
       The handover makes three factual claims about Book I and Book I falsifies all three.
-      `→` Move I.2's actualist to **Book II**, where the contract says defending happens. Book I is
-      then six chapters that keep their word, at which point I.1's preamble and I.6's Handover are
-      defending a register that needs no defence and both go to two sentences.
-      `✓` manual:I.2 actualist relocated; I.1 and I.6 register-talk reduced
+      `→` ~~Move I.2's actualist to Book II ... at which point I.1's preamble and I.6's Handover are
+      defending a register that needs no defence and both go to two sentences.~~
+      ⚖ **CLAYTON RULED, D205 / 2026-08-24:** *"Book I is okay to discuss its own voice, because the
+      first book is meant to set the stage of what it can say and why, and does so well. The
+      structure I leave to you."* **The reduction half of this remedy is overruled and the 565 words
+      of register-talk stand.** The relocation half is kept, and it is what makes the register-talk
+      TRUE — the defect was never that Book I talked about its voice, it was that the talk described
+      a Book I that did not exist. One move fixes both halves; the second half was never needed.
+      `→` PAID as: I.2's 611-word actualist block relocated to **II.1, clause 1**, immediately after
+      the Lewis paragraph, rewritten to Book II's grammar — the party is **named** (D. M. Armstrong,
+      *A Combinatorial Theory of Possibility*, CUP 1989), footnoted, with the alien-property cost and
+      Lewis's 1992 critical notice in the note. It is the right home on the book's own contract: the
+      concession is about which sense of *could* the definition uses, and II.1 is where the
+      definition is made. The block now pays a **Book I** bill from inside Book II, which is exactly
+      what I.6's Handover promises Book II will do.
+      `⚑` Three residues the row did not price, found by grepping Book I for the register it claims
+      not to have: **I.5 called a self-raised difficulty *"the objection"*** (→ *"the smear"*; no
+      party filed it), and **both promise-sites overstated in a way a hostile reader could nick** —
+      I.1's *"the objections unmet, and nothing yet defended"* → *"no opponent met, and no bill yet
+      paid"* (which now binds to its own *"the second book is where the bill comes"* four lines
+      later), I.6's *"no cost accounted"* → *"no cost of its own accounted"*. Book I raises and
+      settles its own difficulties in I.5 and I.6; it never meets an opponent. The absolute claim was
+      false, the precise claim is true, and precision cost three words.
+      `✓` measured after the move: **Book I contains zero proper names of persons** (name_census over
+      I-01..I-06 returns concept nouns only) and **zero footnotes** in all six chapters.
+      `✓` manual:I.2 actualist relocated to II.1 with a named ancestor; register-talk KEPT per
+      Clayton's D205 ruling and made true rather than shortened
 
 - [ ] **R2-061** · `IV-01` + `VI-01` vs VI.4–VI.8 — **the census card grew a sixth line mid-Book-VI
       and both specification sites still say five.** IV.1 says it three times without hedging

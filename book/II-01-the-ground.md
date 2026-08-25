@@ -27,6 +27,57 @@ saying so and did not move.[^1] Take that half whole. The cut is one word, and i
 load-bearing work in the picture. These are not elsewhere. There is no elsewhere for them to be in.
 Separation is one of the arrangements; it is not the room the arrangements are kept in.
 
+And the strongest objection to this clause is not the incredulous stare Lewis took. It is the one
+his own opponent filed, in a book that argues against him at length. D. M. Armstrong, 1989: there is
+nothing unrealised standing anywhere to be a realist about, because *possible* means recombinable.
+The pieces are actual — the things there are and the properties actually instantiated in them — and
+the ways those pieces could be put together are not further items needing somewhere to be. *It could
+have been otherwise* is not a report filed from some other place. It is a remark about these things,
+here, and what they can be shuffled into. A truth about what could be needs something to make it
+true. It does not need a warehouse.[^2]
+
+Take that whole too, because it is right, and because the route Book I took to this clause is what it
+destroys. That route ran through storage: a possibility that is merely possible has to be *kept*
+somewhere, every somewhere is a room, a room has an outside, and there is no outside. Against
+Armstrong the showing has no target. The room was never his. He agrees there is nowhere to keep them
+and says so first.
+
+So the disagreement is somewhere else, and finding where is worth more than the win just lost.
+
+Both sides want the same thing — not storage, but a maker. What makes it true that things could have
+gone otherwise? Armstrong's answer is the inventory and what it can be shuffled into, and that
+answer has an edge, which is his and not an insult carried in from outside: the shuffling is bounded
+by the pieces. A way of being that wants an ingredient no thing anywhere has ever had cannot be
+reached by any rearrangement of what there is. On that account such a way of being is not merely
+absent. It is impossible — ruled out by a census. He saw that and did not flinch from it, calling
+our offhand sense that there might have been properties unlike any actual ones an ignorance mistaken
+for a contingency.
+
+That is the bill, and it is a large one. The space of what could be is exactly as wide as the stock
+of what is and not one degree wider, so that anything further off is not far away but nothing at
+all.
+
+And watch what becomes of the clause once that rule is in force. *Everything that could be the case,
+being the case* does not break. It goes flat. On those terms it says that every rearrangement of the
+actual furniture is standing — which is a claim about the furniture, and the Ground, which was to be
+everything, becomes the closure of an inventory under shuffling.
+
+So the honest report is a concession, and it is about a word rather than about a fact.
+
+Two things are being called possible. One is downstream of an inventory: possible means reachable
+from what is already here. The one this clause uses is downstream of nothing: possible means not
+ruled out by the shape of the thing — the way no corner is ruled out of a circle, not the way no
+unicorn is ruled out of a stable. In the second sense the clause says the large thing it means to
+say. In the first it says a smaller thing, and says it in a circle.
+
+**The second sense is the one taken, and it is declared here rather than four books downstream,
+because it is the widest word in the definition and it is doing work no argument put into it.** What
+the clause forbids is therefore the cap: *could* is not bounded by the stock. That is a choice with
+a price and not a proof that would move anybody. What is on offer is not Armstrong's defeat. It is a
+place to stand where both costs are in view — his, that the possible is capped at the actual; ours,
+that the term this book is built on rests on a sense of *could* that this chapter asserts and does
+not derive.
+
 In the game: **the Ground is the whole game.** Not a playthrough. Every state the game can be in, all
 of them standing, the walked and the unwalked with nothing to tell them apart, and no order in which
 they were generated.
@@ -37,7 +88,7 @@ they were generated.
 
 Here is the most useful opponent this book has, and he comes with a name and a date. Nick Bostrom,
 2003: an argument that we are very probably living in a computer simulation, put not as a mood but as
-a trilemma with numbers in it, in a philosophy journal.[^2] He deserves the credit the people who enjoy
+a trilemma with numbers in it, in a philosophy journal.[^3] He deserves the credit the people who enjoy
 the idea rarely give him. He made the thing checkable, and he was right about the part everyone
 remembers — that a world can be generated rather than found and lose not one gram of its solidity for
 it.
@@ -84,7 +135,7 @@ is not a way of having one.
 
 There is a name for what is left when the player is taken out, and the name is not ours. Paul Tillich,
 first volume of the *Systematic Theology*, 1951: God is *the ground of being*, and he meant it at full
-strength.[^3] Not a being among beings. Not the highest entry on a list of entries. Not something that
+strength.[^4] Not a being among beings. Not the highest entry on a list of entries. Not something that
 could be an object at all, to be inspected or argued about from a position beside it. What everything
 that is, is, by participating in it. That is this book's central term, in his words, half a century
 before anyone was worried about simulations — and an unnamed borrowing from a famous theologian is
@@ -97,9 +148,9 @@ faith. Ours cannot be addressed. Addressing takes an inside at the far end of it
 position to receive — and there is none. Not deaf, not silent, not declining. Tillich took away God's
 face and kept the direction of prayer. The face and the direction go together.
 
-He did not invent the phrase either. It reaches him through Schelling,[^4] and behind Schelling stands
+He did not invent the phrase either. It reaches him through Schelling,[^5] and behind Schelling stands
 Jakob Böhme, a shoemaker in Görlitz who from 1612 wrote about the *Ungrund* — the unground, the
-groundless, prior to all distinction and prior to God-as-a-person.[^5] The town council forbade him to
+groundless, prior to all distinction and prior to God-as-a-person.[^6] The town council forbade him to
 write again. He stopped for seven years, and then wrote it again. His word is the precise one, it has
 been missing from this vocabulary, and it is here now.
 
@@ -145,7 +196,7 @@ claim, and the distance between the two is what the rest of this chapter is for.
 
 The correction was made in Japanese in 1911, by a man who stands outside the argument this book is
 otherwise having. Nishida Kitarō opened *An Inquiry into the Good* with **pure experience**:
-experience as it is *before* the split between the one experiencing and the thing experienced.[^6] Not a
+experience as it is *before* the split between the one experiencing and the thing experienced.[^7] Not a
 subject with an object in front of it. Not a mind meeting a world. The split is real, and it comes
 later, and both of its sides are abstractions from something that was there before either of them —
 which is to say that *mind* and *matter* are not two ingredients but two ways of cutting one thing,
@@ -217,35 +268,49 @@ respectability (§2.8). What this chapter takes from him is the concreteness and
 it. What it cuts is the *plurality*, which is his own word and the title of that book. The
 disagreement is over whether the arrangements are separate places, not over whether they are real.
 
-[^2]: Nick Bostrom, "Are You Living in a Computer Simulation?", *Philosophical Quarterly* 53, no. 211
+[^2]: D. M. Armstrong, *A Combinatorial Theory of Possibility* (Cambridge: Cambridge University
+    Press, 1989). Actualist and anti-Lewisian by design: possible worlds are recombinations of
+    actually existing elements rather than concrete places, and the book carries an extended
+    criticism of Lewis's plurality. The cost stated above is the standing objection to it — *alien*
+    properties and individuals, unlike anything actually instantiated, are unreachable by
+    recombination and so come out impossible rather than merely absent — and Armstrong's own way of
+    taking that cost is to treat the impression that there might have been such properties as
+    ignorance mistaken for contingency. Lewis replied in kind: Critical Notice of *A Combinatorial
+    Theory of Possibility*, *Australasian Journal of Philosophy* 70, no. 2 (1992), 211–224,
+    reprinted as "Armstrong on combinatorial possibility" in *Papers in Metaphysics and
+    Epistemology* (Cambridge: Cambridge University Press, 1999), 196–214. This chapter stands
+    between them and takes neither: Lewis's concreteness without his elsewhere, Armstrong's refusal
+    of the warehouse without his cap.
+
+[^3]: Nick Bostrom, "Are You Living in a Computer Simulation?", *Philosophical Quarterly* 53, no. 211
 (2003), 243–255. The argument is a trilemma — that almost no civilisation reaches technological
 maturity, or that almost none that does runs ancestor-simulations, or that we are almost certainly in
 one — and it is reported here by its structure rather than quoted. *Base reality* is not Bostrom's
 phrase; it belongs to the popular reception, and it is refused above on its own account rather than
 attributed to him.
 
-[^3]: Paul Tillich, *Systematic Theology*, vol. 1 (Chicago: University of Chicago Press, 1951), where
+[^4]: Paul Tillich, *Systematic Theology*, vol. 1 (Chicago: University of Chicago Press, 1951), where
 God is "the ground of being" and explicitly not a being among beings. *Ultimate concern* is his term
 for the correlate of faith and receives its shortest full statement in *Dynamics of Faith* (New York:
 Harper, 1957). The step this chapter declines to take with him is **address** — Tillich's ground
 stands in a relation a person can turn toward, and that is a structural commitment rather than a
 devotional one, which is why refusing it costs something.
 
-[^4]: The phrase reaches Tillich through F. W. J. Schelling, *Philosophical Investigations into the
+[^5]: The phrase reaches Tillich through F. W. J. Schelling, *Philosophical Investigations into the
 Essence of Human Freedom* (1809), which takes Böhme's *Ungrund* into German idealism. Tillich's route
 to it is direct and documented rather than inferred: both of his doctoral dissertations were on
 Schelling — *The Construction of the History of Religions in Schelling's Positive Philosophy*
 (Breslau, 1910, in philosophy) and *Mysticism and Guilt-Consciousness in Schelling's Philosophical
 Development* (Halle, 1912, in theology).
 
-[^5]: Jakob Böhme. Two facts are compressed into one clause above and are separated here, because the
+[^6]: Jakob Böhme. Two facts are compressed into one clause above and are separated here, because the
 compression would otherwise read as a claim about the word. *Aurora* (*Morgen Röte im Auffgang*) was
 written in 1612 and brought the Görlitz council's prohibition and the roughly seven-year silence that
 followed. *Ungrund* as a technical term belongs to the late works — *De Signatura Rerum* (1622),
 *Mysterium Magnum* and *Von der Gnadenwahl* (1623) — and not to *Aurora*. "From 1612" therefore dates
 the writing life and the ban, not the appearance of the word this chapter is borrowing.
 
-[^6]: Nishida Kitarō, *Zen no kenkyū* (1911), translated by Masao Abe and Christopher Ives as *An
+[^7]: Nishida Kitarō, *Zen no kenkyū* (1911), translated by Masao Abe and Christopher Ives as *An
 Inquiry into the Good* (New Haven: Yale University Press, 1990). *Pure experience* (*junsui keiken*)
 opens Part I, defined as experience prior to the distinction between the one experiencing and the
 thing experienced. The claim that mind and matter are both abstractions from it is Nishida's; the use

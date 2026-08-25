@@ -104,11 +104,12 @@ This is the seam, and it is announced rather than crossed quietly, because a rea
 it is coming can reasonably close the book here holding the wrong object.
 
 **What you have just read is a description. What starts on the next page is an argument, and it is a
-different kind of writing.** Book I said *this is the case* six times over and did not stop to defend
-it. There were no ancestors named, no objections met, no cost accounted. That was not confidence and
-it was not an oversight. **A thing has to be shown before it can be argued about**, and the showing
-has a grammar the arguing does not: it goes fast, it uses whatever words are nearest, and it borrows
-from smaller things, which is the sentence directly above this one admitting the price.
+different kind of writing.** Book I said *this is the case* six times over and did not stop to
+defend it. There were no ancestors named, no opponent met, no cost of its own accounted. That was
+not confidence and it was not an oversight. **A thing has to be shown before it can be argued
+about**, and the showing has a grammar the arguing does not: it goes fast, it uses whatever words
+are nearest, and it borrows from smaller things, which is the sentence directly above this one
+admitting the price.
 
 **Every word Book I borrowed is now taken back and paid for.** From here on each term gets a
 definition of its own, in clauses, with somebody named who got part of it right and a plain statement

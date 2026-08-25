@@ -26,55 +26,6 @@ things a square is. Nobody worked that out. Nothing noticed the implication and 
 was no moment when the books were checked and a gap was found and a decision was taken, and nobody
 stood at that moment to take it. It was in hand before there was a hand.
 
-There is a party who does not accept the first move, and it is not the one usually put up to argue.
-
-The actualist is not defending a stock of unspent things. They agree there is no room — that is
-their point. Nobody was ever keeping possibilities anywhere, so showing there is nowhere to keep
-them defeats nothing. There is one arrangement, this one, and it is brute: not selected, because
-selecting wants alternatives to select from and there were none standing there to pass over. *It
-could have been otherwise* is not a report filed from some other place. It is a remark about these
-things, here, and what they can be shuffled into. The pieces are actual. Their rearrangements are
-not further items needing somewhere to be. A truth about what could be needs something to make it
-true. It does not need a warehouse.
-
-Take that whole. It is right, and it is fatal to the argument as it was just made.
-
-The opening move on this page assumed a possibility is the sort of thing that gets kept, and then
-showed there is nowhere to keep it. Against the actualist the showing has no target. The room was
-never theirs.
-
-So the disagreement is somewhere else, and finding where is worth more than the win just lost.
-
-Both sides now want the same thing — not storage, but a maker. What makes it true that things could
-have gone otherwise? The actualist's answer is the inventory and what it can be shuffled into, and
-that answer has an edge, which is theirs and not an insult carried in from outside: the shuffling is
-bounded by the pieces. A way of being that wants an ingredient no thing anywhere has ever had cannot
-be reached by any rearrangement of what there is. On that account such a way of being is not merely
-absent. It is impossible — ruled out by a census.
-
-That is the bill, and it is a large one. It means saying that the space of what could be is exactly
-as wide as the stock of what is and not one degree wider, so that anything further off is not far
-away but nothing at all.
-
-And watch what becomes of the move on this page once that rule is in force. *Separation is a
-possibility, therefore separation* does not break. It goes flat. On those terms separation is
-possible because something actual is separate — you, reading this, at an edge, in a room. The
-conclusion was granted before the sentence began.
-
-So the honest report here is a concession, and it is about a word rather than about a fact.
-
-Two things are being called possible. One is downstream of an inventory: possible means reachable
-from what is already here. The one used above is downstream of nothing: possible means not ruled out
-by the shape of the thing — the way no corner is ruled out of a circle, not the way no unicorn is
-ruled out of a stable. In the second sense the argument goes through. In the first it begs the
-question, and always did.
-
-The second sense is the one taken here. Taking it is a choice with a price and not a proof that
-would move anybody, and everything after this page is that price being paid. What is on offer is not
-the actualist's defeat. It is a place to stand where both costs are in view: theirs, that the
-possible is capped at the actual stock; ours, that the widest word in the book is doing work no
-argument put into it.
-
 You want.
 
 You have wanted since before you had a word for it — for food, for a face to come back, for the
