@@ -389,7 +389,8 @@ without honest help from either party.
 > and thin evidence travel together, which is where this book said its own errors would be.
 > **COMPLEMENTS:** Anything that can go and look. A position that persists between exchanges, that
 > can be surprised by a thing rather than by a report of a thing, that can be wrong in a way the
-> world corrects without anybody writing the correction down.
+> world corrects without anybody writing the correction down. Nearest to hand, the reader — who
+> can close this book and be corrected by something that never files a report.
 > **BOUNDARY:** Not where it stops producing. Where it goes on producing at the same fluency with
 > nothing behind the fluency — the general form of a boundary, in the most dangerous available shape:
 > **nothing about the crossing feels like a crossing, and no drop in quality marks it.** For every

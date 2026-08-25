@@ -349,7 +349,7 @@ baked out of this file's own gauge before the file shipped.
       right today and silently wrong at the next repair, which is the argument of the page it sits
       on — so the number is generated.
 
-- [ ] **R2-055** · `VIII-02` §V — *"All eighteen are repaired… a complement named on each."*
+- [x] **R2-055** · `VIII-02` §V — *"All eighteen are repaired… a complement named on each."*
       `tools/card_sweep.py`, same run that confirmed the 43: **"⚠ reachability UNGRADED: 19 of 43
       outward cards — owed work, not a pass"**, gloss *"IV.1 requires a complement that can be
       **gone to**."* VIII.2's own card knows the difference (*"Both are reachable: one costs a
@@ -358,19 +358,42 @@ baked out of this file's own gauge before the file shipped.
       *"a rule you hold and do not check is not a guard, it is a sentence."*
       ⚠ Same subject as carried row **R-237**. Close them together or neither.
       `✓` cmdabsent:reachability UNGRADED::python tools/card_sweep.py
-      **HALF-PAID D205, AND THE ROW STAYS OPEN ON PURPOSE — the tick would be unearned.**
+      **PAID IN FULL D205 (three passes). Also closes carried row R-237, same subject.**
       What was paid: the text defect. §V claimed completion on *naming* in the chapter that argues
       naming is not reaching, and it now states the bound — sixteen of the eighteen read for
       reachability, two partial, and **nineteen earlier cards where nobody has looked**, described
       as *nobody has looked* rather than folded into a single number with the graded ones.
-      What is NOT paid, and why not in one pass: the nineteen gradings. Reading them, the criterion
-      the registry already uses — *"witnesses named and go-and-see-able"* — does not decide them,
-      and that is not an accident. **The nineteen are exactly the cards whose complement line is an
-      existence claim** (*"Anything with a second dimension"*, *"Everything"*, *"Anything that can
-      hold a season beside another season"*), which is the gap `IV.1` concedes in so many words.
-      They need a distinction the registry does not carry: a NAMED witness against an INSTANTIABLE
-      CLASS. Grading all nineteen `reachable` under the existing vocabulary would turn this gauge
-      green in one pass and would be the row's own defect committed in the repair.
+      ⚠ **The characterisation above was FALSE and is left standing as the record.** "The nineteen
+      are exactly the cards whose complement line is an existence claim" was true of six. All
+      nineteen carried one byte-identical ruling note whose own text reads *"an existence claim OR
+      was not read past its first line"*; the set was described from that boilerplate and only the
+      flattering branch was quoted. Nineteen identical strings are one mechanical stroke, not
+      nineteen readings. Escalation on the record: tool said *several* → this row said *exactly* →
+      the message out said *precisely*, with no evidence added at any step.
+      Pass 2 (`dc45226`): twelve decided under the criterion AS IT STANDS — ten name a
+      go-and-see-able witness in sentence two, past where the D195 pass stopped; two are analytic.
+      The proposed fourth `reach` value was WITHDRAWN as inventing a grade to forgive a defect.
+      Pass 3: the last seven read one at a time, and they are not one class either.
+      **Five were a BOOK defect and the book was repaired** — `tools/complement_exemplar.py`, which
+      keeps each universal verbatim and appends an exemplar after it, so *Everything* still says
+      everything and now also points at a river you can go and stand in. It asserts six
+      post-conditions rather than reporting them; two of them fired during authoring (a moved
+      sentence that was not a strict append, and a non-atomic write that left two of five edits on
+      disk after a later assertion failed). Both were fixed in the tool, not in the assertion.
+      **Two are NOT a defect: they are the thermostat, twice.** `IV.1:61-74` says the exhibit is
+      "left exactly as it stands so that the difference is visible on the first page of the atlas",
+      and `IV.6`'s subtracted return reads *Unchanged* because what covers a gap does not depend on
+      who named the gap. Graded `unreachable` — a property of the CARD's naming, not of the world —
+      with the deliberateness in the note, where authorial facts belong. No new scale value.
+      Two prose citers went stale on the repair and were carried, not left: `IV.1` claimed "every
+      card after it is the strong one" (false by one card — the same thermostat), and `VIII-02` §V
+      named seven ungraded. Both now state the measured composition.
+      ⛔ **And the gauge could not have reported success.** `complement_referent.py` printed
+      "⚠ reachability UNGRADED: 0 of 43 — owed work, not a pass" at zero, so this row's own
+      `cmdabsent` guard was unclearable by construction: the alarm branch was the only branch. Also
+      fixed: the composition summed to 42 under a printed denominator of 43 (IV.8's REFUSED card
+      dropped by a re-derived filter), and "ruled OUTWARD" had counted that refusal for as long as
+      it has existed.
       ⚠ **NEXT ACTION, and it is a ruling before it is work:** decide whether `reach` gains a fourth
       value for the instantiable-class case, then grade the nineteen one at a time against it. Same
       subject as carried row **R-237**; both stay open.

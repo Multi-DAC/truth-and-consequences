@@ -33,14 +33,26 @@ states, all loud:
   SELF      a standing ruling that the field names its own subject. The defect.
 
 ★ AND IT REPORTS ITS OWN COVERAGE, because a green that covers 18 of 43 cards
-and does not say so is the thing this project keeps getting caught by. The 25
-v1-sense cards are OUTWARD (they name another position) and are deliberately
-NOT graded here for REACHABILITY — IV.1 now demands a complement that can be
-gone to, several v1 cards answer with an existence claim ("Anything with a
-second dimension"), and grading them needs a read of each field body rather than
-a line. They are carried as `unreached: reachability ungraded` and printed as
-owed work every run. A worklist that prints is worth more than a verdict that
-flatters.
+and does not say so is the thing this project keeps getting caught by.
+
+REACHABILITY, D205 — CLOSED, and the shape of the close matters more than the
+zero. IV.1 demands a complement that can be GONE TO, and the v1 cards were
+carried ungraded because grading them needs a read of each field body rather
+than a line. All 43 are now read. Five answered with a class and were repaired
+in the book (see complement_exemplar.py — universal kept verbatim, exemplar
+appended, so no claim was narrowed to make a grade come out). Two are graded
+`unreachable` and are the SAME CARD twice: the thermostat at IV.1 and its
+designer-subtracted return at IV.6, which IV.1:61-74 argues for keeping in the
+weak form as the atlas's visible exhibit.
+
+⛔ AND THE ZERO CASE USED TO PRINT AS AN ALARM. This file emitted
+"⚠ reachability UNGRADED: 0 of 43 — owed work, not a pass" once the work was
+finished, so the checklist row gating on `cmdabsent:reachability UNGRADED` could
+never be ticked however much was done. The alarm branch was the only branch.
+Fixed D205; the green prints the full composition rather than an all-clear,
+because "out of reach" and "declines on purpose" are states the atlas contains
+and a bare zero would collapse them — which is the collapse this whole
+instrument exists because of.
 
 Usage:
     python tools/complement_referent.py            # check; non-zero on any failure
@@ -48,6 +60,7 @@ Usage:
     python tools/complement_referent.py --hashes   # emit current hashes (for re-ruling)
 """
 
+import collections
 import hashlib
 import json
 import re
@@ -122,7 +135,11 @@ def main() -> int:
             print(f"{chap}:{ln}\t{h}\t{head}")
         return 0
 
-    unruled, stale, self_ref, outward, ungraded = [], [], [], [], []
+    unruled, stale, self_ref, outward, ungraded, refused = [], [], [], [], [], []
+    # key -> reach, filled from the ruling ACTUALLY matched (which may have been
+    # found by the hash fallback under a different key than `key`). Re-looking-up
+    # rulings[key] later would KeyError on exactly the cards the fallback exists for.
+    reach_of, note_of = {}, {}
     for chap, ln, _, h, head in found:
         key = f"{chap}:{ln}"
         # A card that moved down the file is not a new card. Match on hash first,
@@ -149,8 +166,13 @@ def main() -> int:
             self_ref.append((key, r.get("note", "")))
         elif verdict == "REFUSED":
             outward.append(key)
+            refused.append(key)
+            reach_of[key] = r.get("reach", "?")
+            note_of[key] = r.get("note", "")
         else:
             outward.append(key)
+            reach_of[key] = r.get("reach", "ungraded")
+            note_of[key] = r.get("note", "")
             # ⚠ THREE VALUES, NOT A BOOLEAN. `reachable: false` would mean both
             # "graded, and the reader cannot get to it" (VI.6, a finding the card
             # states outright) and "nobody has looked" (the v1 backlog). Those are
@@ -162,11 +184,41 @@ def main() -> int:
     total = len(found)
     print("COMPLEMENT REFERENT — does the field named Complement contain one?")
     print(f"  cards carrying the field, from disk: {total}")
-    print(f"  ruled OUTWARD (names another position): {len(outward)}")
+    # `outward` is every card with a live ruling that is not SELF, which includes
+    # IV.8's REFUSED. Printing that total under the label "names another position"
+    # overstated the OUTWARD count by one for as long as the refusal has existed.
+    print(f"  ruled OUTWARD (names another position): {len(outward) - len(refused)}"
+          + (f"   REFUSED (declines the line, by ruling): {len(refused)}" if refused else ""))
     print(f"  ruled SELF (names its own subject): {len(self_ref)}")
     print(f"  UNRULED: {len(unruled)}   STALE: {len(stale)}")
-    print(f"  ⚠ reachability UNGRADED: {len(ungraded)} of {len(outward)} outward cards"
-          f" — owed work, not a pass\n")
+    # ⛔ THIS LINE HAD ONE BRANCH UNTIL D205 AND PRINTED "⚠ ... 0 of 43 outward cards
+    # — owed work, not a pass" once the work was finished, which is false: nothing is
+    # owed at zero. The checklist row that gates on this file used
+    # `cmdabsent:reachability UNGRADED`, so the tick could never be earned however
+    # much work was done. An alarm that cannot stop sounding is not a gauge.
+    #
+    # And the green does NOT collapse to an all-clear. It prints the composition,
+    # because "graded and out of reach" and "graded, declines on purpose" are real
+    # states the atlas contains, and a bare zero would hide them exactly the way the
+    # single number this instrument exists to prevent would.
+    if ungraded:
+        print(f"  ⚠ reachability UNGRADED: {len(ungraded)} of {len(outward)} outward cards"
+              f" — owed work, not a pass\n")
+    else:
+        # Counted off `outward` — the list the denominator above is len() of — and
+        # NOT off a re-derived filter over the registry. The first draft filtered on
+        # verdict == "OUTWARD" and silently dropped IV.8's REFUSED card, so the
+        # composition summed to 42 under a printed denominator of 43. A breakdown
+        # that does not add up to its own total is the defect, not a rounding.
+        mix = collections.Counter(reach_of[k] for k in outward)
+        assert sum(mix.values()) == len(outward), "composition does not sum to its denominator"
+        parts = ", ".join(f"{n} {g}" for g, n in sorted(mix.items(), key=lambda kv: -kv[1]))
+        print(f"  reachability graded on all {len(outward)} ruled cards: {parts}")
+        weak = [k for k in outward if reach_of[k] == "unreachable"]
+        if weak:
+            print(f"    ↳ {len(weak)} card(s) name no reachable complement, on the record and by "
+                  f"ruling: {', '.join(weak)}")
+        print()
 
     for key, note in self_ref:
         print(f"  ⛔ SELF     {key}  {note}")

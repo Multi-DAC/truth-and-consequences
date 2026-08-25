@@ -104,7 +104,8 @@ time right here, at the first entry in the census where somebody has actually do
 > ◐ Its own interval — about thirty seconds, held by draining, so the arithmetic is always freshest
 > at the end and can never be checked against its own beginning.
 > **COMPLEMENTS:** Anything that can hold the count and the prey in one place. The trap cannot mark
-> its answer against the animal.
+> its answer against the animal. Nearest to hand, whoever ran the fieldwork described above, who
+> touched the hair twice and knows whether there was a fly.
 > **BOUNDARY:** Speed. Move a hair much faster or much slower than a middling rate and the second
 > excitation never comes. The trap has not failed. It has worked exactly as built, and stayed open,
 > and there was a fly.
@@ -175,7 +176,8 @@ atlas of what a null space is like from inside. Nothing is absent. Everything re
 > with no centre has nowhere to be a whole in, and the largest organism on the planet has never once
 > been anywhere in its entirety. ◐ Anything that has to be settled in less than a day.
 > **COMPLEMENTS:** Anything with a seat — any position that is somewhere, such that it could be
-> somewhere else and know the difference.
+> somewhere else and know the difference. Nearest to hand, whoever is standing on it: one place,
+> and a second place they could walk to and tell apart.
 > **BOUNDARY:** Severance. Cut it and no injury is reported, because there is no addressee. Two
 > fronts carry on, and whether there are now two of it or still one is a question with no answer
 > inside the fungus and a different answer in every discipline outside it.

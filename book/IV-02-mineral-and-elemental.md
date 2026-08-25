@@ -80,7 +80,8 @@ duration. Time is in it. Time is not for it.
 > column is the finding, not an oversight. To resolve a difference *badly* you need a second
 > dimension to resolve it badly against.
 > **COMPLEMENTS:** Everything. A position with one difference is complemented by any position with
-> two.
+> two — nearest to hand, the river in the next entry, which has a bed it has already cut and can
+> be gone to and stood in.
 > **BOUNDARY:** Heat it far enough and its arrangement rearranges into a different one. On the far
 > side it is still responding, and the responses are no longer about what they were about, and
 > nothing in the crystal marks the crossing.
@@ -113,7 +114,8 @@ grade where it is thinnest, doing the least it could possibly do.
 > **NULL SPACE:** ∅ The catchment as a shape, the season as a thing that recurs, the sea it is going
 > to, the town it is about to take. ◐ Its own load — carried, dropped, taken up again, and never
 > tallied.
-> **COMPLEMENTS:** Anything that can hold a season beside another season.
+> **COMPLEMENTS:** Anything that can hold a season beside another season — nearest to hand, anyone
+> who has watched one bank through ten Junes and can say that this year is late.
 > **BOUNDARY:** In flood. It is doing exactly what it does at every other volume, with the same
 > fidelity, and every reading of where it will go next has stopped being reliable.
 > **NAVIGATIONAL IMPLICATION:** A loop is not a mind and it is not nothing. Where you find one, you

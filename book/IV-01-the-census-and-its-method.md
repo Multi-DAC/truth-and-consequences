@@ -64,7 +64,13 @@ go and watch, a position somebody is currently occupying — or say plainly that
 *Anything with a second dimension* is true and discharges nothing; it restates the law in the slot
 where the law was supposed to cash out. The thermostat's card above is left exactly as it stands so
 that the difference is visible on the first page of the atlas: it is the weak form, and every card
-after it is the strong one.
+after it is the strong one — with a single exception, which is this same card again. At `IV.6` the
+thermostat returns with its designer subtracted, and its complement line there reads *Unchanged*,
+because what covers a gap does not depend on who named the gap. The weak form is carried at both
+sites deliberately, and they are the only two. **Of the forty-three cards that carry this field
+across the whole volume, two decline to name a complement you could reach, and both of them are the
+thermostat.** The rest answer with somebody or something you could go to, or say on their own face
+why they cannot — which is the next thing that has to be admitted.
 
 ⛔ **And the honest version has a cost that must be stated rather than absorbed: it produces a
 ranking, of precisely the kind this line exists to prevent.** Positions whose complements are

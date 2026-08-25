@@ -349,15 +349,22 @@ repaired under an unargued law repeats the error in a better hand.
 entitled to leave standing.** `IV.1` demands a complement that can be *gone to*, and naming one is
 not reaching it — that distinction is the price the fix installed and it is stated three paragraphs
 above. Of the eighteen, sixteen carry a witness that has since been read for reachability and two
-are marked partial on the page where they occur. Of the twenty-five earlier cards, eighteen now
-carry a witness that has been read one card at a time. **Seven have not been read for it at all**,
-and the honest description of those seven is not *reachable*; it is *nobody has looked*. They are
-the cards whose complement answers with a class — *anything with a second dimension*, *everything* —
-and a class is not somewhere a reader can go. The two are opposite states and a page that printed
-them as one number would be committing the error this chapter is named for. So the number is not
-printed as one.
-**The repair completed the naming and has not completed the reaching**, and the difference is
-owed rather than argued away.
+are marked partial on the page where they occur. Of the twenty-five earlier cards, twenty-two now
+name a witness that has been read one card at a time; one refuses the line outright at `IV.8`, which
+`IV.1` licenses in so many words; and two answer with a class.
+**Those last two are both the thermostat** — the exhibit on the first page of the atlas and its
+designer-subtracted return at `IV.6` — and they are the weak form deliberately, argued for on the
+page rather than in a changelog. *Nobody has looked* and *the card declines, and says why* are
+opposite states, and a page that printed them as one number would be committing the error this
+chapter is named for. So the number is not printed as one.
+
+⚠ **The reaching is finished everywhere it was owed, and finishing it cost five sentences of the
+atlas.** Of the twenty-two, seventeen already named somebody; five did not, and those five were
+rewritten — the universal kept verbatim and an exemplar appended after it, so that *Everything*
+still says everything and now also points at a river you could go and stand in. Nothing was narrowed
+to make a grade come out; that repair is available to check in the diff and not on the page, which
+is the same debt this passage has already confessed to twice. **The two you can check without
+trusting anybody are the two left weak, and they were left weak in public.**
 
 ⚠ **Three things about that repair belong here rather than in a changelog, because the chapter's
 subject is what a self-examination cannot reach.** First, **the defect was not found by
