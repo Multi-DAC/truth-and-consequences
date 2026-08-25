@@ -337,13 +337,16 @@ to the untransportable in the only place the render is looking.
 > **Whose:** ours, and the reader's while reading this. Installed unevenly from the sixteenth
 > century, standard by the nineteenth, invisible by the twentieth.
 >
-> **Renders — what it renders superbly:** the detachable claim. Anything that can be lifted out
+> **SEES:** the detachable claim. Anything that can be lifted out
 > of its encounter, held still, compared against another instance of itself, and checked by a
 > stranger. The cumulative correction of error. Argument in sequence, and history as a sequence.
 > This is not a weak render. On its own ground it is the most powerful one any human population has
 > ever operated, and the null space below is the price of that power and not an argument against it.
 >
-> **Complement — who sees what this render cannot:** the performance traditions that never conceded
+> **NULL SPACE:** the untransportable — anything whose truth does not survive detachment from the
+> one who said it, the moment it was said, or the body that holds it.
+>
+> **COMPLEMENTS:** the performance traditions that never conceded
 > the record was the archive, and they are all still running. A liturgy said rather than read. A
 > raga carried student to teacher with the notation admitted to be a souvenir. A trade taught
 > hand-over-hand because the manual has never once produced a competent apprentice. Every
@@ -353,14 +356,16 @@ to the untransportable in the only place the render is looking.
 > in front of what does not transport; they cannot give you a form of it you could take home. If
 > they could, the exclusion would not have been real.
 >
-> **Null space:** the untransportable — anything whose truth does not survive detachment from the
-> one who said it, the moment it was said, or the body that holds it.
+> **BOUNDARY:** the point at which a claim would have to be checked against the person who made
+> it. The render is reliable to the edge of the transportable and not one step past it: where the
+> truth of a thing depends on having been there, print delivers the report of it in the same form
+> as everything else and has no way to mark the difference.
 >
-> **Mechanism of the exclusion:** the render identifies knowledge with the *record*. What cannot be
+> **MECHANISM:** the render identifies knowledge with the *record*. What cannot be
 > recorded without degradation is not recorded; what is not recorded does not enter the body of the
 > known; the body of the known is what the render inspects when it asks what there is.
 >
-> **Navigational implication:** ⚠ **this render cannot find what it lost by reading more.** Reading
+> **NAVIGATIONAL IMPLICATION:** ⚠ **this render cannot find what it lost by reading more.** Reading
 > is the operation that performs the exclusion. Every honest additional page moves the ratio the
 > wrong way. If the null space is to be entered at all it is entered by some operation that is not
 > reading, and this book — being a book — can tell you that and cannot do it for you.

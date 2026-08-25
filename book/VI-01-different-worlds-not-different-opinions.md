@@ -72,9 +72,12 @@ are we to judge.* That is relativism, it is the cheapest possible destination fo
 this book does not go there. The distance between where we are and where that reader has gone can be
 made exact, and the instrument that makes it exact is the census card from Book IV.
 
-A card has five lines. It says what a position sees, what it structurally cannot see, what stands
-beside it and sees the missing thing, where its competence stops, and what a navigator should do
-about it. Relativism cannot write line two. If every render is simply *another valid world*, then
+A card has six lines here. Five of them are the census card unchanged — what a position sees, what
+it structurally cannot see, what stands beside it and sees the missing thing, where its competence
+stops, and what a navigator should do about it. **The sixth belongs to this book and not to the
+census, and it is the one that earns the chapter: what the render *does* that makes the missing
+thing missing.** A being's null space is a limit. A render's is manufactured, and the manufacturing
+has a name. Every card in Book VI carries all six. Relativism cannot write line two. If every render is simply *another valid world*, then
 nothing is invisible from inside it — there is only what that world contains, and no vantage from
 which the absence could be named. **A null space is a claim that a position is wrong about something
 specific, and it is the difference between saying two people inhabit different worlds and saying
@@ -104,6 +107,10 @@ yourself is an instrument.
 > **BOUNDARY:** It holds wherever the thing to be known is indifferent to being known. It fails
 > exactly where the knowing changes the known — which is why it is superb on the orbit of a planet,
 > awkward on a person, and helpless on itself.
+> **MECHANISM:** it identifies what is real with what holds still under an observer who is not
+> part of it. Participation cannot be held still, so it is never excluded by a finding — it is
+> ineligible before any looking, and the ineligibility is invisible because the same test works
+> everywhere else.
 > **NAVIGATIONAL IMPLICATION:** You are inside this one. It is not a lens you are looking through;
 > it is the shape of the looking. Every argument in this book, including this card, was assembled
 > inside it and carries its narrowing. That is not a disclaimer. It is the first practical fact of

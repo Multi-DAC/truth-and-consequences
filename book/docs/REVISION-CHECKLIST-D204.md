@@ -483,16 +483,41 @@ an argument defect.
       `✓` manual:I.2 actualist relocated to II.1 with a named ancestor; register-talk KEPT per
       Clayton's D205 ruling and made true rather than shortened
 
-- [ ] **R2-061** · `IV-01` + `VI-01` vs VI.4–VI.8 — **the census card grew a sixth line mid-Book-VI
-      and both specification sites still say five.** IV.1 says it three times without hedging
-      (*"The five lines are not a summary of an entry. They **are** the entry"*); VI.1 restates it.
-      VI.4–VI.8 print six fields, the sixth being `Mechanism` — **and the sixth field is the best
-      content in the Book VI cards**, because mechanism-of-exclusion is what makes a null space
-      invisible rather than merely empty. Four typographic formats in one book for the instrument
-      the volume calls its whole apparatus. **The instrument was upgraded and its specification was
-      not, in a book whose subject is instruments that go uninspected.**
-      `→` One sentence in IV.1 and one in VI.1, or retrofit the sixth line to the 21.
-      `✓` manual:IV.1 and VI.1 specification matches printed cards
+- [x] **R2-061** · `IV-01` + `VI-01` vs VI.4–VI.8 — **the census card grew a sixth line mid-Book-VI
+      and both specification sites still say five.**
+      ⚖ **STRUCTURE RULED TO ME BY CLAYTON, D205.** The row priced ONE defect (a field added) and
+      there were four, three of them in the opposite direction — the row saw the addition and missed
+      the subtractions. **Re-measured across all eight Book VI cards before designing the repair:**
+      | defect | as filed | as measured |
+      |---|---|---|
+      | sixth field undeclared | VI.4–VI.8 | ✔ correct |
+      | **BOUNDARY absent** | not priced | **VI.4, VI.5, VI.6 — a field the spec calls mandatory** |
+      | **field order inverted** | not priced | **VI.4–VI.6 print COMPLEMENTS before NULL SPACE** |
+      | **MECHANISM absent** | not priced | **VI.1, VI.2, VI.3 — the render-cards before VI.4** |
+      | typographic formats | "four" | **three label registers + six container/title formats** |
+      ★ **And the sixth field was never an upgrade.** VI.1, VI.2 and VI.3 were already carrying the
+      mechanism — *"the apparatus keys on impairment"*, *"the re-filing happens prior to evaluation"* —
+      **inside NULL SPACE, in prose.** VI.4 did not add a line; it gave a name to work three earlier
+      cards were doing in the wrong drawer. That reframes the whole row: not an instrument upgraded
+      without its spec, but a field that existed unlabelled for three chapters and was labelled in the
+      fourth, which is why nobody noticed a spec to update.
+      `→` PAID as: **all eight Book VI cards normalised to one six-field form** — `SEES · NULL SPACE ·
+      COMPLEMENTS · BOUNDARY · MECHANISM · NAVIGATIONAL IMPLICATION`, same labels, same order, same
+      typography. Three BOUNDARY lines written (VI.4/5/6); three MECHANISM lines promoted out of the
+      NULL SPACE prose that already held them (VI.1/2/3); NULL SPACE moved above COMPLEMENTS in
+      VI.4–VI.6, which **repairs rather than breaks** VI.4's two bindings (*"the null space below"*
+      still true; *"hand the null space back"* now follows a null space already named).
+      `→` Both specs amended, and NOT by widening the card: **IV.1 keeps five, because a census entry
+      is a being**, and states why a render takes a sixth — *a being's null space is a limit, a
+      render's is produced, and the production has a name.* VI.1 declares six at the point the card is
+      re-pointed at renders. `IV-01:17` *"the whole apparatus of this book"* → *"of the census"*, since
+      that clause is what made the five-line claim over-scoped in the first place.
+      `⚑` **NOT PAID, measured and left standing:** the card **container** still varies six ways —
+      blockquote (VI.1–VI.4), `### CENSUS CARD —` (VI.5), `### Card:` (VI.6), bare bold line
+      (VI.7, VI.8). That is page layout, not text; it is arbitrated by `compile_pdf.py` output and
+      should be normalised against the PDF rather than blind. **This is a deferral, stated as one.**
+      `✓` manual:all eight Book VI cards carry SEES·NULL SPACE·COMPLEMENTS·BOUNDARY·MECHANISM·
+      NAVIGATIONAL IMPLICATION in that order; IV.1 declares five-for-a-being and VI.1 six-for-a-render
 
 - [x] **R2-062** · Books IV/V/VI — **the card apparatus dies in Book V.** `**SEES:**` blocks per
       book: **IV 22 · V 2 · VI 3.** V.1 says of the card that *"that is the whole load-bearing claim

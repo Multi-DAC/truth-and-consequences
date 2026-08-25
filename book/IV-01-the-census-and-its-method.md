@@ -14,8 +14,8 @@ Here is an entry. Read it before anything is said about what it is.
 > **NAVIGATIONAL IMPLICATION:** Nothing it registers can be about the room. If you want the
 > room, you are the instrument, and it is not.
 
-Five lines. That is the whole apparatus of this book, and it does not get more complicated for
-anything else in the census — not for the bee, not for the corporation, not for the reader, not for
+Five lines. That is the whole apparatus of the census, and it does not get more complicated for
+anything else in it — not for the bee, not for the corporation, not for the reader, not for
 the gods.
 
 The five lines are not a summary of an entry. They *are* the entry. A being at any grade is
@@ -24,6 +24,14 @@ reach, what covers that gap, where it stops being reliable, and what all of that
 standing where it stands. Nothing about consciousness has been asserted in those five lines and
 nothing needs to be. The card takes reactivity as awareness — which was argued in Book II and cost
 what it cost — and then simply asks, in five directions, *what kind*.
+
+Five for a being. **Book VI turns this same card on a *render* instead of a being, and there it
+carries a sixth line — `MECHANISM` — and the sixth is not an ornament.** A being's null space is a
+limit: the thermostat cannot reach humidity because of what it is, and there is nothing further to
+say. A render's null space is *produced*. Something the render does makes the missing thing missing
+— knowledge identified with the record, importance identified with what is instrumented — and the
+doing can be named, which means it can be checked and sometimes stepped around. A limit has a shape.
+A policy has a mechanism, and the sixth line is where the policy is written down.
 
 Take the lines one at a time, because each of them is doing something the others cannot.
 

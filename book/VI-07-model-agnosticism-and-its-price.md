@@ -386,19 +386,18 @@ adopted for the same reason: it makes the world easy to be in.
 
 **THE UNIVERSAL MAYBE — no dates, available in every era, at its most attractive in this one.**
 
-*What it renders superbly*, and it is real or nobody would buy it: **plurality**. Under
-this filter you see options where other people see one road. Positions that a committed person
-cannot even parse arrive intact and comparable. That is a genuine capacity and most people do not
-have it.
+**SEES:** **plurality**, and it is real or nobody would buy it. Under this filter you see options
+where other people see one road. Positions that a committed person cannot even parse arrive intact
+and comparable. That is a genuine capacity and most people do not have it.
 
-*Its null space:* **THE SETTLED.** Anything that has actually been established — anything that
+**NULL SPACE:** **THE SETTLED.** Anything that has actually been established — anything that
 named its defeat condition, went and looked, and survived — becomes invisible, because it arrives
 wearing the same *maybe* as everything that never risked anything. Uniform doubt is a constant
 added to every term, and a constant added to every term destroys the ordering. The filter does not
 hide the settled thing. **It delivers it at the same rank as its counterfeit**, which is worse,
 because a hidden thing can be looked for and a flattened one cannot.
 
-*Its complement — who sees the settled:* anybody who has staked something on a claim, named in
+**COMPLEMENTS:** anybody who has staked something on a claim, named in
 advance what would defeat it, gone and looked, and either paid or been vindicated in public. The
 experimental sciences at their best, and their pre-registration machinery exists precisely because
 the settled and its counterfeit are hard to tell apart from inside. A tradesman, whose work is
@@ -409,14 +408,14 @@ the person who paid and the person who postured arrive at the same rank. The lin
 *what do you believe*; it is *what would have shown you were wrong, and what did it cost when you
 checked.*
 
-*Its boundary:* the point at which a claim would have to be defended. The filter is invisible in
+**BOUNDARY:** the point at which a claim would have to be defended. The filter is invisible in
 ordinary conversation, where nothing is being decided, and asserts itself precisely at the moment
 of commitment — which is why its holders experience it as costless.
 
-*Mechanism:* **it identifies what is the case with what nobody has yet committed to.** No falsehood
+**MECHANISM:** **it identifies what is the case with what nobody has yet committed to.** No falsehood
 is required at any stage. Every individual *maybe* may be perfectly warranted.
 
-*Navigational implication, and it is the one that stings:* the practice most commonly adopted as a
+**NAVIGATIONAL IMPLICATION:** the practice most commonly adopted as a
 defence against renders **is a render**, with a null space of its own, and it is harder to detect
 than the ones in VI.3 through VI.6 because it has the shape of the cure.
 

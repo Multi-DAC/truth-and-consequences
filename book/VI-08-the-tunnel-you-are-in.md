@@ -316,17 +316,17 @@ Mannheim's stratum with your name in it.
 
 **THE INSTRUMENTED PRESENT — the render this sentence is being read in.**
 
-*What it renders superbly*, and it is real or nobody would be in it: **scale, checked**.
-True statements about millions of people, verifiable in seconds, available to anyone. No prior stack
-in this book could be right about that much, and the ones that tried were making it up.
+**SEES:** **scale, checked**, and it is real or nobody would be in it. True statements about
+millions of people, verifiable in seconds, available to anyone. No prior stack in this book could be
+right about that much, and the ones that tried were making it up.
 
-*Its null space:* **THE UNMEASURED.** Not hidden — present, and discounted. Anything without a gauge
+**NULL SPACE:** **THE UNMEASURED.** Not hidden — present, and discounted. Anything without a gauge
 under it arrives soft, one rank down, filed as preference. Most of what decides a life is in there.
 The filter does not conceal these things; it *deprecates* them, which is harder to notice, because
 nothing is missing from the picture and you can point at every item you have been quietly declining
 to weigh.
 
-*Its complement — who sees the unmeasured:* the positions whose entire subject is what has no gauge
+**COMPLEMENTS:** the positions whose entire subject is what has no gauge
 under it. The critical traditions, which have argued for three centuries about quality with nothing
 to count. Clinical judgement, which is the recognised name for a practitioner reading a case the
 protocol does not cover. Every tradition in Book V. And the one nearly every reader has standing in
@@ -341,15 +341,15 @@ render has already decided what an unnumbered report is worth. Accessibility was
 constraint. **Admissibility is.** That is worse than distance, since distance is at least visible as
 distance, and a witness you have already downgraded feels like a witness you consulted.
 
-*Its boundary:* the point at which something would have to be counted. Invisible in ordinary
+**BOUNDARY:** the point at which something would have to be counted. Invisible in ordinary
 conversation. Asserts itself at the moment of decision, where the option carrying a number wins by
 default and the win is experienced as clear thinking.
 
-*Mechanism:* **it identifies what is important with what is instrumented.** No falsehood is required
+**MECHANISM:** **it identifies what is important with what is instrumented.** No falsehood is required
 at any step. Every individual measurement may be flawless. The distortion is entirely in the
 ordering.
 
-*Navigational implication, and it is the one that closes the book's argument about eras:* **the era
+**NAVIGATIONAL IMPLICATION:** **the era
 that measures most is the era least able to notice what it does not measure, because it experiences
 its null space as rigour.** Every previous structure in Book VI could be caught by measurement. This
 one cannot be caught that way, because measurement is the structure.

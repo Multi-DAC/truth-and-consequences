@@ -219,6 +219,9 @@ by default, a symptom.
 > **BOUNDARY:** It holds wherever the voice is destroying a life. It fails exactly where the voice is
 > organising one — which is the case this chapter is about, and the case its instruments were never
 > built to see.
+> **MECHANISM:** it keys on impairment, which is what a clinic is for. The functional voice fails
+> the intake criterion before any judgement about it is made, so it is not classified as benign;
+> it never reaches classification, and an empty column reads as an absence in the world.
 > **NAVIGATIONAL IMPLICATION:** If a bicameral era existed, **this render could not have detected
 > it.** Not because it would have reached the wrong conclusion, but because the entire population
 > would have been asymptomatic by its own criteria — functioning, socially integrated, building

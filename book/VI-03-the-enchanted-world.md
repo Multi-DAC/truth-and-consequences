@@ -300,6 +300,10 @@ about somebody else's render is an accusation, and a card about your own is an i
 > question is *what is this for* or *what does this mean*, both of which it does not answer but
 > **converts** — into a question about who is asking, which is a different question with a
 > different answer that is then reported as the original one.
+> **MECHANISM:** any datum presenting as significance-in-the-thing is re-filed as a fact about the
+> observer, and the re-filing happens prior to evaluation. Nothing is ever weighed and found
+> wanting, so the column stays empty in a way that reads as an empirical result rather than as a
+> policy.
 > **NAVIGATIONAL IMPLICATION:** **This render cannot discover it is wrong about this by looking
 > harder**, because looking harder is the operation that performs the reassignment. The instrument
 > and the error are the same motion. Every additional carefully-conducted investigation returns the

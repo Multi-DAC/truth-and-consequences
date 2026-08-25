@@ -284,10 +284,13 @@ That is VI.6.
 enough that most living adults were formed inside it; over recently enough to be looked at from
 outside, which is true of no other render in this book.
 
-**Renders:** the live event; the shared instant of an unsettled outcome; a common referent
+**SEES:** the live event; the shared instant of an unsettled outcome; a common referent
 beneath disagreement; the national schedule as a structure of the day; attention as a budget.
 
-**Complement — who sees what this render cannot:** every position that does not allocate by audience
+**NULL SPACE:** **the unshared** — the local, the slow, the unresolvable-by-segment, the
+background-dependent, and every population too small to constitute an audience.
+
+**COMPLEMENTS:** every position that does not allocate by audience
 size. The parish newsletter and the county paper. The town meeting, where a population of forty is
 not too small to constitute anything. The amateur society's bulletin, the specialist journal with
 four hundred subscribers, and private correspondence, which has no threshold at all. ⚠ **And this is
@@ -298,14 +301,16 @@ that is a harder errand than the law's phrasing suggests. **The render that did 
 too-small-to-be-an-audience is the one in the next chapter**, which is the least comfortable true
 sentence in Book VI and is not an endorsement of it.
 
-**Null space:** **the unshared** — the local, the slow, the unresolvable-by-segment, the
-background-dependent, and every population too small to constitute an audience.
+**BOUNDARY:** the point at which the relevant population is too small to schedule. The render is
+reliable while a thing is simultaneous and shared, and it stops exactly where a fact is local, slow,
+or true for forty people — not because it judges those false, but because it has no width to spend
+on them and no way to tell an unspent hour from an empty one.
 
-**Mechanism:** the render identifies what is the case with what is *carried*. Carriage is physically
+**MECHANISM:** the render identifies what is the case with what is *carried*. Carriage is physically
 scarce and allocated by audience size, so failure to be carried is indistinguishable from
 nonexistence. No falsehood is required at any point; every carried hour may be accurate.
 
-**Navigational implication:** this render cannot discover its exclusions by attending harder,
+**NAVIGATIONAL IMPLICATION:** this render cannot discover its exclusions by attending harder,
 because attention is the resource being allocated — the more faithfully it is spent, the more
 completely the allocation is inhabited. The conscientious viewer is deeper inside it than the
 careless one. The only motion that reaches the null space spends attention where the allocation

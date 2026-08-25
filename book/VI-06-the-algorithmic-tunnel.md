@@ -320,10 +320,16 @@ assigned to a treatment arm. This one has an experiment, and the evidence grade 
 therefore different in kind from VI.3's, VI.4's and VI.5's. The convergence warrant is **not** taken
 here and is not claimed; the argument does not rest on convergence, and saying so is the point.
 
-**Renders:** the inventory fitted to the person; salience as a delivered quantity; the standing
+**SEES:** the inventory fitted to the person; salience as a delivered quantity; the standing
 connection as the real product; relevance experienced as the natural shape of the world.
 
-**Complement — who sees what this render cannot:** ⚠ **this is the card where IV.1's stated cost
+**NULL SPACE:** **THE UNENGAGING — and, for the first time in this book, an unshared one.** Not
+merely what a person is not shown, but the fact that the *shape* of what they are not shown differs
+from their neighbour's, so the exclusion cannot be recovered by comparing notes. **The null space
+stops being a public fact.** This is the era's actual novelty, and it is not personalization of
+content — it is individuation of absence.
+
+**COMPLEMENTS:** ⚠ **this is the card where IV.1's stated cost
 arrives in full, and it is recorded rather than smoothed.** A complement here must be a position that
 sees a *distribution* rather than a person, because the exclusion is individuated and no single
 viewer holds enough of it. Three exist. **The operator's own instrumentation** sees the whole surface
@@ -337,19 +343,18 @@ this afternoon at no cost: put your feed beside another person's and read both.*
 recover the shape. **Two of the three witnesses are out of reach and the cheap one is partial** —
 which is a true report about where the reader is standing and not a defect of the card.
 
-**Null space:** **THE UNENGAGING — and, for the first time in this book, an unshared one.** Not
-merely what a person is not shown, but the fact that the *shape* of what they are not shown differs
-from their neighbour's, so the exclusion cannot be recovered by comparing notes. **The null space
-stops being a public fact.** This is the era's actual novelty, and it is not personalization of
-content — it is individuation of absence.
+**BOUNDARY:** the point at which what a person needs is something they have never engaged with. The
+render is reliable across the region their own history spans and degrades outside it without saying
+so, because a forecast returns a value everywhere, including where it has nothing to go on. The
+reading is weakest exactly where it is least distinguishable from the strong ones.
 
-**Mechanism:** the render identifies what is the case with **what a model predicted this particular
+**MECHANISM:** the render identifies what is the case with **what a model predicted this particular
 person would engage with** — a proxy that is neither truth nor even preference, but forecast
 behaviour, fitted per person and improved by being spent. No false item is required. A selection
 over true items is sufficient to produce two irreconcilable worlds, both fully checkable, neither
 misdescribed.
 
-**Navigational implication:** the exit is not where it appears to be. The measured effect of
+**NAVIGATIONAL IMPLICATION:** the exit is not where it appears to be. The measured effect of
 switching the mechanism off is nothing, because the mechanism's product is downstream of it and
 persists without it. **What must be edited is what was accumulated, not what did the accumulating.**
 
