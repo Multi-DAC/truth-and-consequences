@@ -23,6 +23,31 @@ across 48 of 71 chapters, and it was invisible here for the same reason the
 sentence-initial hits were: a matcher narrower than its subject. Real denominator
 168, of which this tool saw 33.
 
+  ==> AND FOUR PASSES LATER IT WAS STILL NARROWER THAN ITS SUBJECT. Day 205. <==
+
+R2-075 filed a RECALL hole: the manuscript is hard-wrapped and every matcher here was
+scoped to a LINE, so `the` on line 174 and `previous chapter's card` on line 175 was
+never seen whole. Unwrapping paragraphs took the count 169 -> 188.
+
+The row also set the gate at "denominator reaches 206", and 206 is NOT this tool's
+number -- it came from a hand-pattern with a WIDER VOCABULARY, whose line-scoped count
+was 180 against this tool's 169. That 11-site gap sat inside the row that priced the
+defect, in adjacent paragraphs, and nothing reconciled them. So the wrap was one of
+two defects wearing one number. [[feedback_self_generated_denominator]]
+
+Diffing the unwrapped tool against a loose hand-pattern found the rest, and it is
+larger than either number: the BARE ADVERBIAL (*stated last chapter*, no article),
+COMPOUND NUMERALS (*fifty-seven chapters before* -- which the old pattern resolved as
+SEVEN, a confident wrong answer), NUMERAL-INFIX SPANS (*the next nine chapters*),
+POSTPOSITIVE COUNTS (*four chapters after it*) and the VAGUE class (*a later chapter*,
+13 sites, no address to resolve against). 169 -> 232.
+
+  ==> AND THE 63rd SITE IS WRONG BY EIGHT. <==
+
+VIII.7 said the fence was knocked down *"four chapters after it was built"*. It was
+built in VII.4 and the final chapter is twelve later. Invisible to this tool for its
+whole life, in the closing chapter of the volume. Fixed Day 205.
+
   ==> AND THE BLIND CLASS IS THE MORE DANGEROUS ONE, not the less. <==
 
 *Two chapters back* carries a count, so it can be wrong on the day it is written and
@@ -72,10 +97,28 @@ WORD_N = {
 BACK = r"(ago|back|earlier|before)"
 FWD = r"(later|ahead|on|hence)"
 
+# ⚠ THE COMPOUND-NUMERAL TRAP, found Day 205 the moment the wrap fix widened the view.
+# `\bseven` matches INSIDE "fifty-seven", because a hyphen is a word boundary. So
+# *"the fifty-seven chapters before this one"* resolved as SEVEN BACK -- a confident
+# wrong answer wearing the same face as a right one, which is the single thing this
+# file's header says it must never do. `(?<![\w-])` is the whole fix, and the trap is
+# in the control. [[feedback_verification_anchor_must_be_unique]]
+_NUM = r"(?<![\w-])(" + "|".join(WORD_N) + r")"
+
 PAT_BACK = re.compile(
-    r"\b(" + "|".join(WORD_N) + r")\s+chapters?\s+" + BACK + r"\b", re.IGNORECASE)
+    _NUM + r"\s+chapters?\s+" + BACK + r"\b", re.IGNORECASE)
 PAT_FWD = re.compile(
-    r"\b(" + "|".join(WORD_N) + r")\s+chapters?\s+" + FWD + r"\b", re.IGNORECASE)
+    _NUM + r"\s+chapters?\s+" + FWD + r"\b", re.IGNORECASE)
+
+# AND THE GUARD ABOVE OPENS A SILENT HOLE, so it is closed in the same breath.
+# Excluding "fifty-seven" from resolution must not exclude it from the REPORT: a
+# count this tool cannot parse is still a relative reference, and dropping it would
+# make an unparseable site indistinguishable from an absent one -- the same principle
+# that keeps the out-of-scope class printed. [[feedback_denial_leaves_no_row]]
+# Nine-and-up and digit forms land here and are handed to a human unresolved.
+PAT_BIGCOUNT = re.compile(
+    r"\b(?P<n>\d+|[a-z]+(?:-[a-z]+)+|nine|ten|eleven|twelve|dozen)\s+chapters?\s+"
+    r"(?:" + BACK[1:-1] + r"|" + FWD[1:-1] + r")\b", re.IGNORECASE)
 
 # ---------------------------------------------------------------------------
 # THE UNCOUNTED CLASS — added Day 198. Same defect, no number attached to it.
@@ -91,6 +134,51 @@ PAT_ADJ = re.compile(
     r"\bthe\s+(?P<w>last|previous|preceding|next|following)\s+"
     r"(?P<plural>chapters|chapter)"
     r"(?P<suffix>\s+but\s+(?:one|two))?", re.IGNORECASE)
+
+# THE BARE ADVERBIAL, added Day 205 by diffing this tool against a loose hand-pattern
+# once the wrap was closed -- the same diff move that found the postpositive class.
+#   "The test was stated LAST CHAPTER" -- no article, so PAT_ADJ never sees it.
+# Same referent, same failure mode, and it reads so naturally that it is the form
+# least likely to be noticed by a human re-reading either. [[feedback_case_sensitivity_scoped_wider_than_its_discriminator]]
+#
+# ⚠ AND THE DETERMINER IN FRONT DECIDES THE SENSE, so it is read rather than
+# lookbehind-excluded. Measured across the volume: 76 `the` (PAT_ADJ's business),
+# 4 genuine bare adverbials, and 1 POSSESSIVE -- *"the book found it in its last
+# chapter"*, which means FINAL and would have resolved -1 to a confident wrong
+# answer. One site, and it is the one that matters. [[feedback_field_keeps_name_swaps_referent]]
+PAT_BARE = re.compile(
+    r"(?<![\w'’])(?P<w>last|next)\s+(?P<plural>chapters|chapter)(?![\w'’-])",
+    re.IGNORECASE)
+PAT_DET_BEFORE = re.compile(r"(?:\b(\w+)|(['’]s))\s+$")
+_ARTICLE = {"the"}
+_POSSESSIVE = {"its", "his", "her", "their", "our", "my", "your", "this", "that"}
+
+# THE NUMERAL-INFIX SPAN and its postpositive twin, added Day 205 in the same diff.
+#   "the next NINE chapters"      -- PAT_ADJ requires the noun to follow the direction
+#   "three chapters AFTER this"      word immediately, so a numeral between them hides
+#                                    the site completely.
+# These carry ARITHMETIC that can be wrong: a span of nine forward from IV.1 either
+# lands inside the volume or runs off the end of it, and *that* is checkable. They are
+# resolved to their ENDPOINT, which is the claim the sentence is actually making.
+PAT_SPAN_N = re.compile(
+    r"\bthe\s+(?P<w>last|previous|preceding|next|following)\s+"
+    r"(?P<n>" + "|".join(WORD_N) + r"|\d+|nine|ten|eleven|twelve)\s+chapters\b",
+    re.IGNORECASE)
+PAT_COUNT_POST = re.compile(
+    r"(?<![\w-])(?P<n>" + "|".join(WORD_N) + r"|\d+|nine|ten|eleven|twelve)\s+"
+    r"chapters?\s+(?P<w>after|before)\s+(?:this|it|that|the\s+front)\b", re.IGNORECASE)
+SPAN_DIR = {"last": -1, "previous": -1, "preceding": -1, "next": +1, "following": +1,
+            "after": +1, "before": -1}
+
+# THE VAGUE FORWARD REFERENCE. *"a later chapter will need you to."* There is no
+# arithmetic here and there is no named target -- it is a promise with no address,
+# and 13 of them are in the volume. It belongs in the OUT-OF-SCOPE class rather than
+# nowhere: the whole reason that class is printed is that an exclusion which prints
+# nothing cannot be told apart from a miss. [[feedback_denial_leaves_no_row]]
+PAT_VAGUE = re.compile(
+    r"\b(?:(?:a|an|one)\s+(?:later|earlier|previous|following|coming|future)\s+chapters?"
+    r"|the\s+(?:earlier|later)\s+chapters?"
+    r"|the\s+chapters?\s+(?:above|below))\b", re.IGNORECASE)
 
 ADJ_DIR = {"last": -1, "previous": -1, "preceding": -1,
            "next": +1, "following": +1}
@@ -133,6 +221,89 @@ PAT_FINAL_SENSE = re.compile(
     r"\bthe\s+(last|first|final|opening|closing)\s+chapter\s+of\s+", re.IGNORECASE)
 
 
+# ---------------------------------------------------------------------------
+# THE WRAP — added Day 205, R2-075. Fourth pass on the same axis as the three above.
+# ---------------------------------------------------------------------------
+# Every matcher in this file was correct and every one of them was scoped to a LINE,
+# against a manuscript hard-wrapped at ~95 columns. So "the" ends line 174 and
+# "previous chapter's card" opens line 175, and the site is invisible -- not misread,
+# not misresolved: never seen, and therefore absent from the denominator this tool
+# prints about itself. That is a RECALL hole in a docstring scrupulous about two
+# PRECISION ones. [[feedback_line_scoped_grep_over_wrapped_prose]]
+#
+# The fix joins soft-wrapped lines within a block before matching, and keeps a
+# char-offset -> original-lineno table so every hit still reports the line a human
+# can open. Structure is NOT joined: a heading, list item, table row, blockquote,
+# fenced code line or endnote definition each begin a new block, because joining
+# across one of those can fabricate a phrase that no reader ever meets -- a wrong
+# hit wearing the same face as a right one, which is the failure this file refuses.
+_BLOCK_START = re.compile(
+    r"^\s*(?:#{1,6}\s"          # headings
+    r"|>"                        # blockquote
+    r"|\|"                       # table row
+    r"|```|~~~"                  # fence
+    r"|(?:[-*+]\s)"              # bullet
+    r"|\d+\.\s"                  # ordered item
+    r"|\[\^[^\]]+\]:"            # endnote definition
+    r"|(?:-{3,}|\*{3,}|_{3,})\s*$"   # rule
+    r")")
+
+
+def blocks(text):
+    """Soft-wrapped lines joined into blocks.
+
+    Yields (joined_text, offsets) where offsets is [(char_start, lineno), ...] for
+    each contributing source line, so a match position maps back to a real line.
+    """
+    out = []
+    cur, offs, pos, fenced = [], [], 0, False
+    def flush():
+        nonlocal cur, offs, pos
+        if cur:
+            out.append((" ".join(cur), offs))
+        cur, offs, pos = [], [], 0
+    for lineno, raw in enumerate(text.splitlines(), 1):
+        if re.match(r"^\s*(?:```|~~~)", raw):
+            flush()
+            out.append((raw, [(0, lineno)]))
+            fenced = not fenced
+            continue
+        if fenced or not raw.strip():
+            flush()
+            continue
+        if _BLOCK_START.match(raw):
+            flush()
+        piece = raw.strip()
+        if cur:
+            pos += 1                      # the joining space
+        offs.append((pos, lineno))
+        pos += len(piece)
+        cur.append(piece)
+    flush()
+    return out
+
+
+def _lineno_at(offsets, pos):
+    """Original line number containing char offset `pos` in a joined block."""
+    lineno = offsets[0][1]
+    for start, ln in offsets:
+        if start <= pos:
+            lineno = ln
+        else:
+            break
+    return lineno
+
+
+def _window(joined, start, end, width=150):
+    """Context centred on the match, not the head of the block. A block can run
+    600 characters; a head-clipped excerpt would print a hit whose phrase is not
+    in the printed text, which reads as a false positive and gets dismissed."""
+    lo = max(0, start - width // 3)
+    hi = min(len(joined), end + width)
+    s = joined[lo:hi]
+    return ("…" if lo else "") + s.strip()
+
+
 def chapter_order(book_dir):
     """Linear reading order. Returns [(label, title, path), ...]."""
     found = []
@@ -156,9 +327,15 @@ def sweep(order, only_book=None):
         if only_book and not lbl.startswith(only_book + "."):
             continue
         text = path.read_text(encoding="utf-8", errors="replace")
-        for lineno, line in enumerate(text.splitlines(), 1):
+        # BLOCKS, not lines. See `blocks()` -- a line-scoped matcher over a
+        # hard-wrapped manuscript cannot see a phrase that straddles the wrap.
+        for line, _offs in blocks(text):
+            def _at(m, _o=_offs, _j=line):
+                """(lineno, context) for one match, mapped back to the source line."""
+                return _lineno_at(_o, m.start()), _window(_j, m.start(), m.end())
             for pat, direction in ((PAT_BACK, -1), (PAT_FWD, +1)):
                 for m in pat.finditer(line):
+                    lineno, ctx = _at(m)
                     n = WORD_N[m.group(1).lower()]
                     tgt = i + direction * n
                     if 0 <= tgt < len(order):
@@ -172,12 +349,13 @@ def sweep(order, only_book=None):
                         "dir": "back" if direction < 0 else "fwd",
                         "target": t_lbl, "target_title": t_title,
                         "resolves": resolves,
-                        "sentence": line.strip(),
+                        "sentence": ctx,
                         "form": "counted",
                     })
 
             # --- the uncounted class ---------------------------------------
             for m in PAT_ADJ.finditer(line):
+                lineno, ctx = _at(m)
                 word = m.group("w").lower()
                 sign = ADJ_DIR[word]
 
@@ -189,7 +367,7 @@ def sweep(order, only_book=None):
                         "phrase": m.group(0), "n": None, "dir": "sense",
                         "target": "?", "target_title":
                             "SENSE AMBIGUOUS — 'last/first' here may mean FINAL, not adjacent",
-                        "resolves": False, "sentence": line.strip(),
+                        "resolves": False, "sentence": ctx,
                         "form": "sense",
                     })
                     continue
@@ -202,7 +380,7 @@ def sweep(order, only_book=None):
                         "phrase": m.group(0), "n": None, "dir": "span",
                         "target": "—", "target_title":
                             "PLURAL SPAN — no single target; scope is the finding",
-                        "resolves": False, "sentence": line.strip(),
+                        "resolves": False, "sentence": ctx,
                         "form": "span",
                     })
                     continue
@@ -211,11 +389,12 @@ def sweep(order, only_book=None):
                 if m.group("suffix"):
                     n = SUFFIX_N[m.group("suffix").strip().split()[-1].lower()]
                 _emit_adj(hits, lbl, lineno, path, m.group(0), n, sign,
-                          i, order, line, "uncounted")
+                          i, order, ctx, "uncounted")
                 continue
 
             # --- postpositive forms: "the chapter before last" (-2) ---------
             for m in PAT_POST.finditer(line):
+                lineno, ctx = _at(m)
                 sign = POST_DIR[m.group("w").lower()]
                 if m.group("plural").lower() == "chapters":
                     hits.append({
@@ -223,29 +402,100 @@ def sweep(order, only_book=None):
                         "phrase": m.group(0), "n": None, "dir": "span",
                         "target": "—", "target_title":
                             "PLURAL SPAN — no single target; scope is the finding",
-                        "resolves": False, "sentence": line.strip(),
+                        "resolves": False, "sentence": ctx,
                         "form": "span",
                     })
                     continue
                 # THE BACKWARD TRAP: "before last" skips one. 2, not 1.
                 n = 2 if m.group("tail").lower().startswith("last") else 1
                 _emit_adj(hits, lbl, lineno, path, m.group(0), n, sign,
-                          i, order, line, "postpositive")
+                          i, order, ctx, "postpositive")
+
+            # --- bare adverbial: "stated last chapter" -----------------------
+            for m in PAT_BARE.finditer(line):
+                lineno, ctx = _at(m)
+                sign = ADJ_DIR[m.group("w").lower()]
+                det = PAT_DET_BEFORE.search(line[:m.start()])
+                word = (det.group(1) or det.group(2)).lower() if det else ""
+                if word in _ARTICLE:
+                    continue            # "the last chapter" — PAT_ADJ already has it
+                if word in _POSSESSIVE or word == "’s" or word == "'s":
+                    hits.append({
+                        "from": lbl, "line": lineno, "file": path.name,
+                        "phrase": m.group(0), "n": None, "dir": "sense",
+                        "target": "?", "target_title":
+                            "SENSE AMBIGUOUS — possessive: 'its last chapter' means FINAL, not adjacent",
+                        "resolves": False, "sentence": ctx,
+                        "form": "sense",
+                    })
+                    continue
+                if m.group("plural").lower() == "chapters":
+                    hits.append({
+                        "from": lbl, "line": lineno, "file": path.name,
+                        "phrase": m.group(0), "n": None, "dir": "span",
+                        "target": "—", "target_title":
+                            "PLURAL SPAN — no single target; scope is the finding",
+                        "resolves": False, "sentence": ctx,
+                        "form": "span",
+                    })
+                    continue
+                _emit_adj(hits, lbl, lineno, path, m.group(0), 1, sign,
+                          i, order, ctx, "bare-adverbial")
+
+            # --- numeral-infix spans and postpositive counts -----------------
+            _BIG = {"nine": 9, "ten": 10, "eleven": 11, "twelve": 12}
+            for pat in (PAT_SPAN_N, PAT_COUNT_POST):
+                for m in pat.finditer(line):
+                    lineno, ctx = _at(m)
+                    raw = m.group("n").lower()
+                    n = WORD_N.get(raw) or _BIG.get(raw) or (
+                        int(raw) if raw.isdigit() else None)
+                    sign = SPAN_DIR[m.group("w").lower()]
+                    if n is None:
+                        continue
+                    _emit_adj(hits, lbl, lineno, path, m.group(0), n, sign,
+                              i, order, ctx,
+                              "span-endpoint" if pat is PAT_SPAN_N else "counted")
+
+            # --- vague forward promises: no arithmetic, no address -----------
+            for m in PAT_VAGUE.finditer(line):
+                lineno, ctx = _at(m)
+                hits.append({
+                    "from": lbl, "line": lineno, "file": path.name,
+                    "phrase": m.group(0), "n": None, "dir": "oos",
+                    "target": "—", "target_title":
+                        "VAGUE — a promise with no address; nothing to resolve against",
+                    "resolves": True, "sentence": ctx,
+                    "form": "vague",
+                })
+
+            # --- counts this tool cannot parse, printed rather than dropped --
+            for m in PAT_BIGCOUNT.finditer(line):
+                lineno, ctx = _at(m)
+                hits.append({
+                    "from": lbl, "line": lineno, "file": path.name,
+                    "phrase": m.group(0), "n": None, "dir": "bignum",
+                    "target": "?", "target_title":
+                        "COUNT OUT OF VOCABULARY — arithmetic not attempted; read it",
+                    "resolves": False, "sentence": ctx,
+                    "form": "uncounted-numeral",
+                })
 
             # --- named exclusions, counted rather than dropped --------------
             for m in PAT_OUT_OF_SCOPE.finditer(line):
+                lineno, ctx = _at(m)
                 hits.append({
                     "from": lbl, "line": lineno, "file": path.name,
                     "phrase": m.group(0), "n": None, "dir": "oos",
                     "target": "—", "target_title":
                         "OUT OF SCOPE BY DECISION — target is a passage or a named unit",
-                    "resolves": True, "sentence": line.strip(),
+                    "resolves": True, "sentence": ctx,
                     "form": "out-of-scope",
                 })
     return hits, index
 
 
-def _emit_adj(hits, lbl, lineno, path, phrase, n, sign, i, order, line, form):
+def _emit_adj(hits, lbl, lineno, path, phrase, n, sign, i, order, ctx, form):
     """Resolve one adjacency-based reference and append it. Shared so the counted,
     uncounted and postpositive paths cannot drift apart in how they resolve."""
     tgt = i + sign * n
@@ -259,7 +509,7 @@ def _emit_adj(hits, lbl, lineno, path, phrase, n, sign, i, order, line, form):
         "phrase": phrase, "n": n,
         "dir": "back" if sign < 0 else "fwd",
         "target": t_lbl, "target_title": t_title,
-        "resolves": resolves, "sentence": line.strip(),
+        "resolves": resolves, "sentence": ctx,
         "form": form,
     })
 
@@ -332,6 +582,56 @@ def selftest(order):
     assert PAT_OUT_OF_SCOPE.search("retired a word earlier in this book"), \
         "out-of-scope family is silently invisible instead of counted"
 
+    # --- THE WRAP (R2-075). The defect that caused it is the planted case. -----
+    # This is a REGRESSION control, and it fails on the code as it stood on Day 204.
+    wrapped = ("it is picked up here because the\n"
+               "previous chapter's card named it in passing\n"
+               "\n"
+               "and did not open it\n")
+    assert not any(PAT_ADJ.search(l) for l in wrapped.splitlines()), \
+        "the planted straddle is visible LINE-scoped — the control tests nothing"
+    blk = blocks(wrapped)
+    assert any(PAT_ADJ.search(j) for j, _ in blk), \
+        "straddling reference STILL invisible after unwrapping — R2-075 not repaired"
+    # ...and the offset table must land it on line 2, where the noun sits, not line 1
+    j, offs = blk[0]
+    hit = PAT_ADJ.search(j)
+    assert _lineno_at(offs, hit.end() - 1) == 2, "offset table lost the source line"
+    # NEGATIVE HALF: structure must NOT be joined, or the join fabricates references
+    # that no reader ever meets — a wrong hit in the same face as a right one.
+    # ⚠ The fixture must be one where joined and unjoined DISAGREE. A heading reading
+    # "## The Last Chapter" matches on its own, so it would pass this assert whether
+    # the join were right or wrong. [[feedback_guard_checked_where_both_answers_agree]]
+    structural = "the report ends on the\n## Previous Chapter Notes\nand resumes\n"
+    assert PAT_ADJ.search("the report ends on the Previous Chapter Notes"), \
+        "the negative fixture cannot fire even when joined — it tests nothing"
+    assert not any(PAT_ADJ.search(j) for j, _ in blocks(structural)), \
+        "a heading was joined into the paragraph above it — join is over-broad"
+    assert len(blocks("a\n\nb\n")) == 2, "blank line did not end a block"
+
+    # --- THE COMPOUND NUMERAL. 'fifty-seven' must not resolve as SEVEN. ---------
+    assert not PAT_BACK.search("across the fifty-seven chapters before this one"), \
+        "compound numeral resolved on its tail — 'fifty-seven' read as 'seven'"
+    assert PAT_BACK.search("the seven chapters before this one"), \
+        "the numeral guard is over-broad — it killed the plain form too"
+    assert PAT_BIGCOUNT.search("across the fifty-seven chapters before this one"), \
+        "out-of-vocabulary count is silently dropped instead of handed to a human"
+    assert not PAT_BIGCOUNT.search("two chapters ago"), \
+        "big-count pattern is stealing the forms the arithmetic can actually do"
+
+    # --- THE BARE ADVERBIAL, and the possessive that inverts its sense ----------
+    assert PAT_BARE.search("the test was stated last chapter; the roster"), \
+        "bare adverbial form is invisible"
+    b_poss = PAT_BARE.search("the book found it in its last chapter by counting")
+    assert b_poss, "possessive form not matched at all"
+    d = PAT_DET_BEFORE.search("the book found it in its last chapter"[:b_poss.start()])
+    assert d and (d.group(1) or "").lower() in _POSSESSIVE, \
+        "'its last chapter' would resolve -1 — it means FINAL"
+    d2 = PAT_DET_BEFORE.search("as the last chapter showed"[
+        :PAT_BARE.search("as the last chapter showed").start()])
+    assert d2 and (d2.group(1) or "").lower() in _ARTICLE, \
+        "'the last chapter' would be double-counted by the bare form"
+
     print("POSITIVE CONTROL — synthetic ordering, both directions and one null:")
     print("    resolvable back-reference (X.3 - 2)      : caught, resolves to X.1")
     print("    unresolvable back-reference (X.3 - 7)    : caught, flagged OFF THE END")
@@ -349,7 +649,26 @@ def selftest(order):
     print("    'the chapter after this one'             : caught, +1")
     print("    'the chapters after this one' (plural)   : caught, NO target invented")
     print("    'earlier in this book' (excluded)        : COUNTED, not dropped")
-    print("  [ok] all fifteen live.\n")
+    print("  WRAP class (R2-075) — a REGRESSION control; it fails on the Day-204 code:")
+    print("    'the' / 'previous chapter's card' straddling a wrap : caught after join")
+    print("    ...and the hit reports line 2, where the noun is    : offset table holds")
+    print("    a heading below a paragraph                         : NOT joined")
+    print("    the negative fixture itself, joined                 : DOES fire (it tests)")
+    print("  COMPOUND NUMERAL — the trap the wrap fix exposed by widening the view:")
+    print("    'fifty-seven chapters before'            : NOT resolved as SEVEN")
+    print("    'seven chapters before'                  : still caught (guard not over-broad)")
+    print("    'fifty-seven ...' out of vocabulary      : PRINTED, not dropped")
+    print("  BARE ADVERBIAL — no article, same referent:")
+    print("    'stated last chapter'                    : caught, -1")
+    print("    'in ITS last chapter'                    : diverted, means FINAL")
+    print("    'the last chapter'                       : left to PAT_ADJ (no double count)")
+    # DERIVED, not hand-listed. This line read "all fifteen live" while four families
+    # had been added under it -- the same defect the by-form total below already had
+    # once. A control roster that is typed cannot fail when the roster grows.
+    import inspect
+    n = sum(1 for ln in inspect.getsource(selftest).splitlines()
+            if ln.strip().startswith("assert "))
+    print(f"  [ok] all {n} assertions live (counted from source, not typed).\n")
     if order:
         print(f"  volume ordering parsed: {len(order)} chapters, "
               f"{order[0][0]} -> {order[-1][0]}\n")
@@ -410,6 +729,12 @@ def main():
     print("  day after. Re-run this after ANY reordering, split, insertion or cut —")
     print("  that is the only moment its answer can change. A sweep whose subject")
     print("  cannot vary between runs is a sweep that has stopped being a gauge.")
+    print("\n  THIRD LIMIT — RECALL, and it is the one this tool got wrong for longest.")
+    print("  Matching is PARAGRAPH-scoped as of Day 205 (R2-075); before that it was")
+    print("  line-scoped against a hard-wrapped manuscript and 19 sites were invisible.")
+    print("  Structure — headings, list items, table rows, fences, endnote definitions —")
+    print("  is deliberately NOT joined, so a reference that straddles one of those is")
+    print("  still invisible. That residue is UNMEASURED. It is the next thing to check.")
     print("\n  PRECISION, measured not asserted: a 14-site random sample of the")
     print("  uncounted class read by hand (Day 198) found 12 genuine positional")
     print("  pointers and 2 of the FINAL-sense family, which is why that family now")

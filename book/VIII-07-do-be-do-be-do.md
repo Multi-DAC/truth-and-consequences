@@ -314,7 +314,7 @@ no ethical polarity is attached to the word there — while the same vocabulary 
 consciousness* for a third distinct thing, one paragraph from the image quoted at the close. This manuscript reassigned
 `contraction` to the ethical axis, and VII.4's *"The word that must not be welded to the other word"*
 built the fence between it and the focusing. Importing that gloss would have knocked the fence
-down from the opposite side, in the final chapter, four chapters after it was built. ★ **The general
+down from the opposite side, in the final chapter, twelve chapters after it was built. ★ **The general
 form is worth the endnote: a borrowed word arrives carrying whatever it is attached to at the other end,
 and the other end is not visible from the borrowing side.**
 

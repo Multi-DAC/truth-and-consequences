@@ -648,7 +648,7 @@ above exists, or the reason the next one will.**
       from the page on disk.
       `✓` manual:bibliography.py invoked by the build or gated
 
-- [ ] **R2-075** · `tools/relative_ref_sweep.py` **is line-scoped against a hard-wrapped
+- [x] **R2-075** · `tools/relative_ref_sweep.py` **is line-scoped against a hard-wrapped
       manuscript**, so **26 sites (12.6%, across 18 chapters) are invisible to it — including
       R2-043's**, the one that is actually wrong. My first diagnosis (missing possessive vocabulary)
       was wrong and I tested it; `PAT_ADJ` matches the possessive fine. The mechanism is that `the`
@@ -658,6 +658,34 @@ above exists, or the reason the next one will.**
       hole and nothing declares it.
       `→` Unwrap single newlines within a paragraph before matching. Then re-run and read the 26.
       `✓` manual:relative_ref_sweep.py unwraps paragraphs and its denominator reaches 206
+      **PAID D205 — AND 206 WAS NEVER THIS TOOL'S NUMBER.** The unwrap is done and it is worth
+      exactly what the row said: **169 → 188, nineteen sites that had never been seen whole.**
+      But the gate is unclearable as written, and the reason is in this row's own source. The
+      D204 table reads *"visible line-scoped, as the tool reads: **180**"* — and the run it
+      quotes four lines later prints **169**. **An 11-site gap between the hand-pattern and the
+      tool, line-scoped, in adjacent paragraphs, unremarked.** So 26 was never the wrap's size;
+      it was the wrap plus a vocabulary difference, two defects wearing one number.
+      [[feedback_self_generated_denominator]]
+      Diffing the unwrapped tool against a loose hand-pattern found the rest, and the class is
+      **bigger than either count**: bare adverbial (*stated last chapter*, no article, 4) ·
+      numeral-infix spans (*the next nine chapters*, 13) · postpositive counts (*four chapters
+      after it*, 7) · out-of-vocabulary numerals (7) · the vague class (*a later chapter*, 13,
+      declared out-of-scope rather than left silent). **169 → 232.**
+      ⛔ **AND THE WIDENING EXPOSED A TRAP THE OLD TOOL WAS ALREADY FALLING INTO.** `seven`
+      matches inside *fifty-seven*, because a hyphen is a word boundary — so *"the fifty-seven
+      chapters before this one"* resolved as **SEVEN BACK**, a confident wrong answer in the
+      same face as a right one, which is the single thing this tool's header says it must never
+      do. Guarded, and the guard's own hole — an unparseable count silently dropped — closed in
+      the same edit by printing it unresolved.
+      ★ **The book defect is in the closing chapter.** `VIII-07` §the-borrowed-word endnote said
+      the fence was knocked down *"four chapters after it was built"*. It was built in **VII.4**;
+      the final chapter is **twelve** later. Invisible to this gauge for its whole life, in the
+      last chapter of the volume. → `twelve`. Controls added for all four traps, plus a
+      regression control that **fails on the Day-204 code**, and a negative fixture checked to
+      fire when joined so it is not green by construction.
+      ⚠ **Declared residue, because it is unmeasured rather than absent:** structure is not
+      joined, so a reference straddling a heading, list item or table row is still invisible.
+      The tool now says so on every run.
 
 - [x] **R2-076** · `Z-02`'s machine-uncertain rule **fires on single-word entries only.**
       Regenerating tonight introduces *"January 10, 2013, a review of Koch's" (Cambridge, MA: MIT
