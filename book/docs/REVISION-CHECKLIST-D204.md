@@ -594,9 +594,31 @@ an argument defect.
       as the gloss it actually is.
       `✓` manual:VIII-07 §VI restatement carries the terminator
 
-- [ ] **R2-067** · `VIII-07` — `card_sweep` reports the closing chapter carries **no census card**
-      (`null=0`, partial). Probably deliberate; flagged so it is a decision rather than an omission.
-      `✓` ruling:Clayton — deliberate or restore
+- [x] **R2-067** · `VIII-07` — **RULED D206 BY CLAWD, RESTORE. Reversible by deletion of one endnote;
+      Clayton's call stands above this one and nothing else depends on it.**
+      ⚠ **The row understated its own finding.** As filed: *"card_sweep reports the closing chapter
+      carries no census card (`null=0`, partial). Probably deliberate."* The census card is Book IV
+      apparatus and its absence here IS deliberate — Books I–III carry none at all, and a four-field
+      card after *"It was the work"* would deflate the close. **But `null=0` was not a missing card.
+      It was VIII.7 being the only chapter in Book VIII to declare no null space**, while Z.1 rules
+      that *"every aperture has a nonempty one, so every navigator's certainty outruns its access,
+      always."* The closing chapter makes the book's largest claims — the Coherence Principle, the
+      last instruction — and took an exemption from the book's own central rule. That is the finding,
+      and "probably deliberate" would have closed it unexamined.
+      **PAID:** a declared null space as `[^4]`, anchored where the limit actually bites, in the
+      chapter's register rather than as a card. Three limits: it cannot tell you which phase you are
+      in while you are in it (§IV, architectural); it gives no period or threshold (§V forbids one);
+      and — the sharpest — ⚠ **the one test the chapter offers, *who is currently paying for this*,
+      requires that somebody be paying, and returns nothing for a reader who is genuinely alone, in
+      exactly the direction that reads as a pass.** The book has no second test for them, and now
+      says so. Marker order re-derived by `endnote_resequence.py` (2 renumbered); `endnote_order.py`
+      63/63, `note_binding.py` 0 orphaned / 0 dangling, every marker verified against its own note's
+      subject rather than against its number.
+      ⚠ **The green below is weak on purpose and the weakness is declared:** `card_sweep` moved
+      VIII.7 `null=0 → 1` and Book VIII to 7/7, but that tool counts *vocabulary* and states it is
+      trusted downward only. **It certifies that the term is now present. It cannot certify that the
+      declaration is honest** — that is a read, and it is this row's ruling, not the instrument's.
+      `✓` ruling:Clawd D206 — restore; card_sweep null=0→1 is vocabulary evidence, not certification
 
 - [x] **R2-068** · `V-10` L27–28, p.564 — the chapter narrates its own repair in body prose in its
       fourth paragraph: *"Four passages, and four of the gaps in them were closed on the way here.

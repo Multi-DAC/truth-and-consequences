@@ -185,7 +185,7 @@ helps is not more introspection. What helps is the thing VIII.6 established — 
 contractive rest has a signature that is almost always visible to somebody else first: it *costs someone*.
 Radiant rest costs nobody. If you cannot tell which one you are in, the question is not *how do I feel*;
 it is *who is currently paying for this* — which is *over* asked in civilian words, and unlike a feeling
-it has an answer you can go and find.
+it has an answer you can go and find.[^4]
 
 ---
 
@@ -229,7 +229,7 @@ went dead, which is the practice the previous seven chapters were.
 There is a claim this account has been organised around from the beginning and has, until now, been
 stated only in its parts. It belongs here, because the oscillation is the form it takes in a life.
 
-**Coherent multi-scale systems hold matters open until an informed measurement collapses them.**[^4]
+**Coherent multi-scale systems hold matters open until an informed measurement collapses them.**[^5]
 
 Every load-bearing word in that sentence was bought earlier in this book, which is the reason it can be
 said this way. *Open* is II.7's: a matter is open when more than one way it could go is still live, which
@@ -299,7 +299,7 @@ to be doing this for, and what the other players are.
 
 The last image is the right one to end on, and it is taken alone, severed from the
 paragraphs around it, which this account has refused elsewhere and does not get to quietly re-adopt at
-the close.[^5] The image survives the severance intact:
+the close.[^6] The image survives the severance intact:
 
 > **a symphony that does not end, but plays on, *do be do be do*, forever.**
 
@@ -343,7 +343,23 @@ down from the opposite side, in the final chapter, twelve chapters after it was 
 form is worth the endnote: a borrowed word arrives carrying whatever it is attached to at the other end,
 and the other end is not visible from the borrowing side.**
 
-[^4]: **The Coherence Principle. This is the statement VIII.4 deferred to this
+[^4]: ⛔ **This chapter's null space, declared because the book's own rule is that every aperture
+has one and the closing chapter does not get an exemption from it.** Three things it cannot do.
+**(1)** It cannot tell you which phase you are in while you are in it. §IV says why, and the reason is
+architectural rather than a shortage of effort, so none of the introspection this book has already
+discounted will close it. **(2)** It gives no period, no threshold and no schedule, because §V's
+refusal of the metronome forbids one: it can say that a phase held past its life goes dead, and it
+cannot tell you when yours did. ⚠ **(3) And the sharpest, because it is a limit on the only test the
+chapter offers:** *who is currently paying for this* requires that somebody be paying. It is a real
+check — it converts a feeling into a question with an answer outside your own head — and it is
+**unavailable to a reader who is genuinely alone.** No dependents, no colleagues, nobody with a claim:
+the test returns nothing, and it returns nothing in exactly the direction that reads as a pass. That
+reader is not rare, and is not incidentally the one most likely to be sealing themselves in. **This
+book has no second test to offer them.** ★ Said here rather than covered, because a chapter that hands
+over one instrument and declines to say where it fails has done the thing Book VI spends eight
+chapters describing.
+
+[^5]: **The Coherence Principle. This is the statement VIII.4 deferred to this
 chapter**, and it is given in this manuscript's own words for a stated reason: the older
 wording routes the claim through *superposition*, a term this account has ruled out of its prose, on
 the ground that the term has no civilian life and so transfers authority rather than meaning. **A principle that cannot be
@@ -361,7 +377,7 @@ structure it was carrying is not. ★ `balance` and `harmony` are both refused i
 bicycle's: the condition is maintained dynamically, and every static metaphor for it smuggles in a
 resting point the account does not have.
 
-[^5]: **The culmination, the ongoing oscillation — closing sentence taken
+[^6]: **The culmination, the ongoing oscillation — closing sentence taken
 entire.** ⛔⛔ **The severance is deliberate and the surrounding text was read before the image was taken.**
 The paragraph immediately above the quoted line contains the theodicy in as many words — *"This provides
 a powerful theodicy… Every finite experience, no matter how painful or contracted, possesses ultimate
