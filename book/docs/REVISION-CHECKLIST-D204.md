@@ -613,10 +613,30 @@ an argument defect.
       one-sided and it is III.6's exit.
       `✓` manual:III-06 closing handoff
 
-- [ ] **R2-070** · `VIII-03` — two incompatible *"failure mode"* numberings collide in one chapter.
+- [x] **R2-070** · `VIII-03` — two incompatible *"failure mode"* numberings collide in one chapter.
       The Complements field says *"the **fifth** failure mode IV.1 registers"*; three pages later
       the card says *"This is the **sixth** failure mode the census has kept separate."* Two lists,
       two counters, same phrase, no signal to the reader that they are different registers.
+      **BOTH REGISTERS ENUMERATED BEFORE THE REPAIR — every `failure mode` in all 72 files:**
+      | register | owner | counts | sites |
+      |---|---|---|---|
+      | **complement-reachability** | `IV.1` L92–102 | 5: cannot exist · out of reach · inadmissible · declined · **split between institutions that do not speak** | `VI.6`, `VI.8`, `VII.3`, `VIII.1`, `VIII.3` L302 |
+      | **instrument failure, running series** | the chapters themselves | 7: saturation (VII.7) · binary in a three-valued domain (VII.8) · presupposed mechanism (VII.9) · wrong objective function (VIII.1) · sample frame inside the region (VIII.2) · open loop (VIII.3) · trait instrument on a state question (VIII.4) | `VII.9` L211, `VIII.1` L232, `VIII.2` L140, `VIII.3` L326, `VIII.4` L217 |
+      ⚠ **The row priced the collision as one chapter's and it is two.** `VIII.4` L217 carries the
+      identical mis-attribution — *"a seventh mode **the census** has kept separate"* — and the row
+      never looked past `VIII-03`.
+      ⚠ **The mechanism is not "two counters with no signal." It is one counter wearing the other's
+      name.** `VIII.3` L326 and `VIII.4` L217 are the running instrument series, and both attribute
+      themselves to *the census*. Worse, `IV.1` L106 explicitly promises *"a sixth mode is likelier
+      than not"* about the complement register — so a reader arrives at `VIII.3`'s **sixth** with
+      that promise in hand and reads it as the fulfilment. It is not.
+      ⚠ Third, unpriced: `VII.9`, `VIII.1` and `VIII.2` each attribute all prior entries to their
+      chapters; `VIII.3` alone stripped the attributions, which is half of why it read as a
+      different register. Restored.
+      **Repair:** both sites now use the series' own formula (*Nth distinct failure mode in N
+      consecutive chapters*), `VIII.3` names `IV.1`'s register explicitly and says the two count
+      different things — what a card cannot reach vs. what an instrument cannot see — and `IV.1`'s
+      open sixth is stated as still open.
       `✓` manual:VIII-03 two counters disambiguated
 
 - [ ] **R2-071** · 18 chapters — **the standing-note pointer is bolted to an arbitrary footnote.**

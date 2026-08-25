@@ -323,10 +323,14 @@ of it external and checkable. The arrival is not. The only report of where you g
 one, and the previous chapter carded that instrument's boundary at precisely the question this class
 needs answered: it is reliable for *what is present* and loses its warrant at *why*, while keeping its
 confidence. So Class VIII's precision is real and its verification runs through the one instrument
-structurally unable to perform it. ★ **This is the sixth failure mode the census has kept separate,
-and it is the first one that is not a defect of perception at all.** The five before it — saturation,
-the wrong number of values, a presupposed mechanism, the wrong objective function, and the previous
-chapter's sample frame drawn from inside the region under survey — are all failures at *seeing*, and
+structurally unable to perform it. ★ **This is the sixth distinct failure mode in six
+consecutive chapters, and it is the first one that is not a defect of perception at all.** ⚠ It is
+not a sixth way a *complement* can fail; that is `IV.1`'s separate register, the one whose fifth
+entry this chapter supplied twenty lines above and whose sixth is still open. Two registers share the
+phrase and count different things: that one counts what a card cannot reach, this one counts what an
+instrument cannot see. The five before it — VII.7's **saturation**, VII.8's **wrong number of
+values**, VII.9's **presupposed mechanism**, VIII.1's **wrong objective function**, and VIII.2's
+**sample frame drawn from inside the region under survey** — are all failures at *seeing*, and
 each of them can in principle be improved by a better instrument. This one sees nothing incorrectly
 and has no defect of range. It is **exact about what it did and blind to whether it worked**, which is
 the failure mode of an open loop, and it cannot be repaired by improving the instrument, because the

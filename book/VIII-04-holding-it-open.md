@@ -214,8 +214,8 @@ resolution is wrong by construction rather than by degree. A disposition is meas
 across many situations and averaging — that averaging is not an artefact, it is the operation that
 makes the number a trait — and the situational information a particular decision turns on is
 precisely what gets averaged away. Asking it about Thursday is asking a climate record what to wear.
-★ **This is a seventh mode the census has kept separate, and it is the first that fails on
-resolution rather than on coverage or on aim.** The instrument is accurate. It is accurate about a
+★ **This is the seventh distinct failure mode in seven consecutive chapters, and the first that fails
+on resolution rather than on coverage or on aim.** The instrument is accurate. It is accurate about a
 different-sized object than the one in front of you, and nothing about using it announces the change
 of scale.
 
