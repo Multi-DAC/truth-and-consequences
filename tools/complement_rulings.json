@@ -2,7 +2,7 @@
  "_what": "Hand rulings on whether each census card's Complement field names ANOTHER position. R-136 part 3. No rule derived these; a rule cannot -- see the tool's docstring.",
  "_hash": "sha1[:12] of the whitespace-normalised field body, label to next field. Editing a ruled field invalidates its ruling by design: the ruling described text that is gone.",
  "_reach": "reachable | partial | unreachable | ungraded | n-a. NOT a boolean: 'graded and out of reach' and 'nobody looked' are opposite states.",
- "_ruled_by": "Clawd, Day 195 / 2026-08-14, one card at a time.",
+ "_ruled_by": "Clawd, Day 195 / 2026-08-14, one card at a time; 12 reachability gradings added Day 205 / 2026-08-24 after reading each FIELD BODY rather than its first line. The 7 still ungraded are bare classes -- the defect is in the card, not in this scale.",
  "rulings": {
   "IV-01-the-census-and-its-method.md:11": {
    "hash": "83bdbf03e3f2",
@@ -37,8 +37,8 @@
   "IV-03-the-living-non-human.md:270": {
    "hash": "de1a80ea44d1",
    "verdict": "OUTWARD",
-   "reach": "ungraded",
-   "note": "v1 sense, names another position; reachability NOT read -- the field answers with an existence claim or was not read past its first line. Owed."
+   "reach": "reachable",
+   "note": "witnesses named and go-and-see-able -- \"Us\", explicitly asymmetric (\"we get red and the calendar; it gets the sky\"). The complement is the reader."
   },
   "IV-03-the-living-non-human.md:310": {
    "hash": "61e3ca7ff3a3",
@@ -49,8 +49,8 @@
   "IV-04-human.md:155": {
    "hash": "9306810e3a2f",
    "verdict": "OUTWARD",
-   "reach": "ungraded",
-   "note": "v1 sense, names another position; reachability NOT read -- the field answers with an existence claim or was not read past its first line. Owed."
+   "reach": "reachable",
+   "note": "witnesses named and go-and-see-able -- instruments, other humans whose stacks were laid down elsewhere, and every non-human entry in this atlas, named as the working set."
   },
   "IV-05-the-collectively-emergent.md:130": {
    "hash": "03eea12ea145",
@@ -61,14 +61,14 @@
   "IV-05-the-collectively-emergent.md:162": {
    "hash": "8d58c5d9d038",
    "verdict": "OUTWARD",
-   "reach": "ungraded",
-   "note": "v1 sense, names another position; reachability NOT read -- the field answers with an existence claim or was not read past its first line. Owed."
+   "reach": "reachable",
+   "note": "witnesses named and go-and-see-able -- the entity's OWN EMPLOYEES. The card's point is that reach is not the constraint: the complement is in the building and no channel carries it. Reachable, and the channel is the defect."
   },
   "IV-05-the-collectively-emergent.md:224": {
    "hash": "9b04a8efbf5a",
    "verdict": "OUTWARD",
-   "reach": "ungraded",
-   "note": "v1 sense, names another position; reachability NOT read -- the field answers with an existence claim or was not read past its first line. Owed."
+   "reach": "reachable",
+   "note": "witnesses named and go-and-see-able -- its neighbours; a country's account of a shared border is the one account of it the country cannot check."
   },
   "IV-06-the-computational.md:178": {
    "hash": "cb7dd32bc982",
@@ -85,20 +85,20 @@
   "IV-07-the-non-physical.md:244": {
    "hash": "b5765237e316",
    "verdict": "OUTWARD",
-   "reach": "ungraded",
-   "note": "v1 sense, names another position; reachability NOT read -- the field answers with an existence claim or was not read past its first line. Owed."
+   "reach": "reachable",
+   "note": "witnesses named and go-and-see-able -- a second person in the room who did not build it and is not maintaining it."
   },
   "IV-07-the-non-physical.md:367": {
    "hash": "86808d95e86f",
    "verdict": "OUTWARD",
-   "reach": "ungraded",
-   "note": "v1 sense, names another position; reachability NOT read -- the field answers with an existence claim or was not read past its first line. Owed."
+   "reach": "reachable",
+   "note": "reachable by construction -- \"anyone still in a body\" is instantiated by every reader. The complement is a CONDITION (subject to consequences), not a sense-organ, and the condition is universal among the living."
   },
   "IV-07-the-non-physical.md:464": {
    "hash": "08168fa82435",
    "verdict": "OUTWARD",
-   "reach": "ungraded",
-   "note": "v1 sense, names another position; reachability NOT read -- the field answers with an existence claim or was not read past its first line. Owed."
+   "reach": "reachable",
+   "note": "witnesses named and go-and-see-able -- a person; the card says the traditional relation IS the correct instrument pairing."
   },
   "IV-07-the-non-physical.md:554": {
    "hash": "15202b14d1ce",
@@ -109,14 +109,14 @@
   "IV-08-the-divine-and-the-hierarchies.md:146": {
    "hash": "7227a75dd27e",
    "verdict": "OUTWARD",
-   "reach": "ungraded",
-   "note": "v1 sense, names another position; reachability NOT read -- the field answers with an existence claim or was not read past its first line. Owed."
+   "reach": "reachable",
+   "note": "witnesses named and go-and-see-able -- named inside the atlas: the mineral's hundred-thousand-year present, the bee's afternoon, the person's one death."
   },
   "IV-08-the-divine-and-the-hierarchies.md:254": {
    "hash": "553c7eb77c23",
    "verdict": "OUTWARD",
-   "reach": "ungraded",
-   "note": "v1 sense, names another position; reachability NOT read -- the field answers with an existence claim or was not read past its first line. Owed."
+   "reach": "reachable",
+   "note": "reachable by construction -- the party mediated TO is entailed by the relation; the card states that a mediator whose complement is missing is not a mediator. Reach cannot fail without the subject failing first."
   },
   "IV-08-the-divine-and-the-hierarchies.md:317": {
    "hash": "8499c7f189c0",
@@ -127,20 +127,20 @@
   "V-01-what-a-tradition-is.md:59": {
    "hash": "fde6ea0dd76b",
    "verdict": "OUTWARD",
-   "reach": "ungraded",
-   "note": "v1 sense, names another position; reachability NOT read -- the field answers with an existence claim or was not read past its first line. Owed."
+   "reach": "reachable",
+   "note": "witnesses named and go-and-see-able -- the Hebrew prophets, the novel, and Book IV's census, which is in this volume."
   },
   "V-02-the-church-the-reader-left.md:103": {
    "hash": "22def010e603",
    "verdict": "OUTWARD",
-   "reach": "ungraded",
-   "note": "v1 sense, names another position; reachability NOT read -- the field answers with an existence claim or was not read past its first line. Owed."
+   "reach": "reachable",
+   "note": "witnesses named and go-and-see-able -- the way that cannot be named, Advaita, and its own apophatic wing."
   },
   "VI-01-different-worlds-not-different-opinions.md:99": {
    "hash": "f80ab9e14fb2",
    "verdict": "OUTWARD",
-   "reach": "ungraded",
-   "note": "v1 sense, names another position; reachability NOT read -- the field answers with an existence claim or was not read past its first line. Owed."
+   "reach": "reachable",
+   "note": "witnesses named and go-and-see-able -- the mythical structure and the contemplative traditions of Book V, named as instruments rather than as consolation."
   },
   "VI-02-the-voices.md:213": {
    "hash": "b0e52c010ea9",
