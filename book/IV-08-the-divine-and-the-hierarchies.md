@@ -646,7 +646,6 @@ is worth naming: the section then argues the convergence is *useless* because un
 thinness of the sourcing costs the argument nothing it was going to spend. That is convenient, and
 convenience is the condition under which nobody checks.
 
----
 
 *On the grade of the sources above.* **The retrofit changed what this chapter can claim in exactly one
 place, and it is a place the chapter had already written the test for and not run.** [^4]: the A GOD

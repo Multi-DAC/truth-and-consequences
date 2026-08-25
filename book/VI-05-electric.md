@@ -353,7 +353,6 @@ several non-identical versions and this chapter has not seen the printed page.
 of the Spectacle*, trans. Donald Nicholson-Smith (New York: Zone Books, 1994). Thesis 4 is the
 source of the formulation used here.
 
----
 
 *On the grade of the sources above.* Anderson, Wu, Simon, Debord,
 Cantril, Pooley, Socolow and Schwartz are named **from general knowledge and standard reference

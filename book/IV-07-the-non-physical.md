@@ -825,7 +825,6 @@ substantially less to refuse.** The French of 1964 is the arbiter and **was not 
 same trigger as the Searle divergence, which is the same defect: a load-bearing quotation whose
 variants are not stylistic, chosen without the chooser noticing there was a choice.
 
----
 
 *On the grade of the sources above.* **This chapter's apparatus is strongest exactly where the chapter's
 argument is weakest, and that is not a coincidence — instruments go where instruments are cheap,

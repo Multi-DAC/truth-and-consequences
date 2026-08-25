@@ -638,7 +638,6 @@ that does not exist is mechanism-without-a-trigger inside the inheritance, and i
 instance of this chapter's own argument** than the figures the chapter reported: the apparatus could
 not report that the assignment was missing, so it cited it instead.
 
----
 
 *On the grade of the sources above.* **This chapter's retrofit found the same defect at both ends of the
 reliability scale, and the second one is the one worth keeping.** [^9] is a provenance error under a

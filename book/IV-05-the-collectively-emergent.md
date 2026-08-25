@@ -356,7 +356,6 @@ was drafted with the arguments in hand and the names left in the drafter's head,
 detect an ancestor who is absent** — a name that is nowhere in the working papers and nowhere in the
 prose is nowhere at all.
 
----
 
 *On the grade of the sources above.* Anderson and Dunbar are named **from general knowledge and standard
 reference scholarship; neither text was consulted at first hand**, and both citations were checked against

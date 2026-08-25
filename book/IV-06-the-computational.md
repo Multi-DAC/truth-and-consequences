@@ -487,7 +487,6 @@ feed-forward, which is true of a single forward pass and is exactly the descript
 contest for an autoregressive system whose own output re-enters as input. **The chapter would be
 stronger for conceding that and does not.**
 
----
 
 *On the grade of the sources above.* **This is the best-sourced chapter in Book IV and the worst, in that
 order.** [^2] is two-digitisation-grade — a primary scan, diffed. [^3] is two-witness-grade with a

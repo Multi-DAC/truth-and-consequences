@@ -481,7 +481,6 @@ piping and the swarm's departure. ★ **The chapter's finding rests on where the
 on its size**: the decision is completed at the site, by bees who have not compared anything, which is
 why the comparison happened and happened nowhere.
 
----
 
 *On the grade of the sources above.* Ten of the thirteen notes above are journal receipts verified against
 the primary record during the Day-191 retrofit — journal, volume, year and pagination each checked

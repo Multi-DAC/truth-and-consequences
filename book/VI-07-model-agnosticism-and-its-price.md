@@ -541,7 +541,6 @@ quoted in full here, both clauses, for the reason given in the text. II.5 carrie
 and rules on what its second clause does when applied to the Ground; this chapter takes the other
 half of that ruling — the sense in which the dictum holds undamaged, which is the sense for models.
 
----
 
 *On the grade of the sources above.* The sources above were consulted on
 Day 190 at abstract, encyclopaedia-entry and reputable-secondary level, with bibliographic details,

@@ -708,7 +708,6 @@ chapter's, not a source's.
 ⚠ Subject to [^15]: none of this has been through peer review, so every figure above is a quoted
 spokesman, not a checked table.
 
----
 
 *On the grade of the sources above.* **This chapter set out to show that the census cannot see a vacancy, and
 the retrofit found that the chapter cannot see its own quotations.** Three of its four indictments of

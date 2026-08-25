@@ -264,7 +264,6 @@ rather than a proxy for one. It is also the strongest case in the chapter for th
 chapter turns on, because **nobody in the ice has ever read it**; the record waited eight hundred
 millennia for a position with a mass spectrometer.
 
----
 
 *On the grade of the sources above.* The petrology in this chapter — granite grain size against cooling
 rate, a quartz vein recording the pressure that opened its crack, agate banding in order of arrival,

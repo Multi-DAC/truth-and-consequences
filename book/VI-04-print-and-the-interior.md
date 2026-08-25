@@ -442,6 +442,8 @@ urgent but **demonstrative** — the reader can be shown the render by being ask
 are doing, which is not available for any other era in Book VI. Neither chapter restates the other.
 VI.6 does not need to re-establish that the reader is embedded; VI.4 does not touch the ethics.
 
+---
+
 *On the grade of the sources above.* Knox, Gavrilov, Burnyeat,
 Eisenstein, Johns, McGilchrist and Havelock are named **from general knowledge and standard
 reference scholarship. None of their texts was consulted at first hand, and nothing above is a quotation**

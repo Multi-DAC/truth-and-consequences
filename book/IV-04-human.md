@@ -257,7 +257,6 @@ that belongs in this chapter's argument and is not yet in its prose: asked after
 would have noticed such a manipulation, 84% of participants said yes.** The position's estimate of
 its own detection rate was 84%. Its detection rate was 26%.
 
----
 
 *On the grade of the sources above.* **Every figure in this chapter was verified against the published text
 during the Day-191 retrofit, and two were verified against the PDFs themselves rather than against a

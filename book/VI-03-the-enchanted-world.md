@@ -377,6 +377,8 @@ term is kept here anyway, because it is his and it is the standing one, and a bo
 another man's concept to protect its own vocabulary has made the reader's problem worse in order to
 make its own index tidier.
 
+---
+
 *On the grade of the sources above.* Lewis, Weber, Barfield and Taylor are
 named **from general knowledge and standard reference scholarship. None of their texts was consulted at first
 hand, and nothing above is a quotation** — each is given by doctrine, with a date and a

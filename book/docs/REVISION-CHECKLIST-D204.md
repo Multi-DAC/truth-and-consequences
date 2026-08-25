@@ -684,15 +684,36 @@ an argument defect.
       open sixth is stated as still open.
       `✓` manual:VIII-03 two counters disambiguated
 
-- [ ] **R2-071** · 18 chapters — **the standing-note pointer is bolted to an arbitrary footnote.**
-      It lands on `[^1]` in five chapters and on `[^2]`, `[^3]`, `[^4]`, `[^5]`, `[^7]` and `[^12]`
-      in the others; **IV.9's is welded to the end of `[^12]`, the note about the sasquatch
-      bar-profile.** A reader meets a general disclaimer about the whole chapter's grading appended
-      to one specific citation and reads it as a caveat on *that* citation. The distribution is what
-      an automated append looks like when it targets the wrong node.
-      ⚠ Distinct from R2-040 and from R2-024 — this is *where* the pointer attaches, not which
-      direction it points.
-      `✓` manual:standing-note pointer attachment normalised
+- [x] **R2-071** · ⚠ **THE ROW WAS WRONG ABOUT ITS OWN SUBJECT IN THREE OF FOUR CLAIMS — rewritten
+      D206 to what was measured, and the real defect was not visible from where the row was looking.**
+      As filed: *"18 chapters — the standing-note pointer is bolted to an arbitrary footnote. It lands
+      on `[^1]` in five chapters and on `[^2]`, `[^3]`, `[^4]`, `[^5]`, `[^7]` and `[^12]` in the
+      others; IV.9's is welded to the end of `[^12]`, the note about the sasquatch bar-profile… The
+      distribution is what an automated append looks like when it targets the wrong node."*
+      ✗ **Not bolted to any footnote.** The block sits at column 0, which *ends* the preceding note
+        under Python-Markdown's `footnotes` extension. It is never inside a citation.
+      ✗ **It never lands on `[^1]`.** It lands after the chapter's **last** note, uniformly, in every
+        chapter carrying it. The list of numbers in the row is each chapter's note *count* read back
+        as if it were a placement — arbitrariness inferred from chapters having different lengths.
+      ✗ **17 chapters carried it, not 18.** The 18th, **VI.8, carried none at all** despite ten
+        sourced notes. A row about WHERE a thing sits is structurally unable to see a chapter where
+        it does not sit, so the placement framing hid the coverage hole.
+      ✅ **The defect that WAS there is only visible after rendering.** The `footnotes` extension
+        hoists every note definition out of the body, leaving the chapter's own closing rule adjacent
+        to the standing note's rule — collapsing into a stacked `<hr><hr>`. One block, **three
+        different renderings**: 12 chapters at two rules, 3 at one, 2 at none. Reading the markdown
+        could not find it, which is why looking at it did not.
+      **PAID:** all 18 normalised to exactly one rendered rule; VI.8's standing note written from its
+      ten notes (five citable external sources, none read in full, three declaring it — the spine,
+      Mannheim, held at the greatest distance); `tools/standing_note_sweep.py` built to measure the
+      **rendered** shape rather than the on-disk separator, both alarm branches positive-controlled
+      on a copy.
+      ⚠ Distinct from R2-040 and from R2-024 — this is how the block *renders*, not which direction
+      it points.
+      ⚠ **The row was `manual:` when it was wrong. It is `cmd:` now, and that is the actual repair** —
+      a hand-written claim that an attachment "was normalised" is exactly the kind of assertion that
+      was wrong here in the first place, and it would have aged without a gauge under it.
+      `✓` cmd:python tools/standing_note_sweep.py
 
 ---
 

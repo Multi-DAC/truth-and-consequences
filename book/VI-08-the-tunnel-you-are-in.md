@@ -466,3 +466,34 @@ stands, including its own vocabulary. The "he caught my blind spot" line is from
 the same archive. It is named here without softening, because the alternative — finding this defect
 in somebody else's material and declining to mention that it is also in ours — is precisely the
 exemption this chapter exists to refuse.
+
+
+*On the grade of the sources above.* Five of the ten notes carry a citable external source — Mannheim
+[^1], Geertz [^3], the two Pronin papers [^6] [^7], and Yarrow and colleagues inherited through IV.4
+[^8]. **Not one of the five was read in full**, and three say so in as many words: the German
+*Ideologie und Utopie* was not read and Mannheim is characterised from the 1936 English edition and
+standard secondary accounts; both bias-blind-spot papers were checked at venue, thesis and — for [^6]
+— the design of Study 1, **with no effect sizes retrieved and none asserted null**. [^3] carries a
+declared wobble of its own: the 1964 volume's title is given variously in the sources consulted, and
+the reprint is cited as the unambiguous location rather than the original. [^4] attributes the
+*freischwebende Intelligenz* coinage to Alfred Weber and cites nothing for it. The remaining notes are
+argument and internal cross-reference and carry no external claim to grade.
+
+⚠ **The gap is at the spine.** This chapter turns on Mannheim's paradox, and Mannheim is the source
+held at the greatest distance — the original unread, the English edition declared in [^1] itself to be
+not a straight translation but an assembled and revised text whose quality has been criticised since,
+and the surrounding characterisation taken from secondary accounts. **The load-bearing source is the
+one the chapter holds least directly.**
+
+★ VI.4 had the topics and not the sources. VI.5 had the later discourse and not its history. VI.6 had
+the indictment and not the evidence. VI.7 had the practice and not its warrant. **This chapter has the
+paradox and not its author.**
+
+★★ And one direction in which this apparatus is *better* than its neighbours', recorded because a grade
+note that can only report decline is an instrument with one polarity, and this book has been caught
+with one before. [^9] establishes presence and absence across the body of private material this book
+was quarried from, and states that the search was run **on the chapter's own terms rather than on the
+defect** — which is the guard against a search built out of a finding, since such a search returns its
+own reflection and reports it as a result. [^10] then quotes the archive's own index against itself,
+including its vocabulary, without softening. **The exemption this chapter refuses in its prose is
+refused in its apparatus as well**, which is the only place the refusal costs anything.
