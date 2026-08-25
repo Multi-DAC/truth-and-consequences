@@ -250,6 +250,28 @@ different matter, and Book VI has to deal with that on its own terms.
 
 ---
 
+**And the card, which is owed here precisely because this chapter has been sympathetic.**
+
+> **OPERATIVE MAGIC**
+> **SEES:** That a filter stack is laid down rather than given, and can be rebuilt on purpose by
+> repetition over time — which is the one part of the arrangement the operator has hands on.
+> **NULL SPACE:** ∅ The other party's contribution to the meeting. This literature has procedures for
+> preparing the operator and none for reading what is on the other side when it declines, which is
+> why its warnings are about the operation rather than about disappointment. ◐ Result, resolved
+> badly: an outcome that arrives is scored as compliance, and the same outcome would have been scored
+> as compliance with nothing there at all.
+> **COMPLEMENTS:** Anything that can vary the operator and watch the world fail to follow — a
+> control, a blind, an instrument with no condition to prepare. Nearest to hand, the radar sets two
+> chapters on, which cannot be got into the right frame of mind.
+> **BOUNDARY:** Where preparing the operator becomes requisitioning the world. Everything up to it is
+> a claim about a filter, and this literature's own length is good evidence for it. Past it is a claim
+> to a second vote in a render made at the point of contact, and no operation supplies one.
+> **NAVIGATIONAL IMPLICATION:** The change is to the filter, and the filter is not the world. Take the
+> discipline as a discipline of attention. The moment it promises delivery it has left the ancestry it
+> claims and joined a twentieth-century one with no ancestor on this list.
+
+---
+
 **And what this chapter does not do.**
 
 All of the above is read at a distance: an account of what other people were doing, on their own

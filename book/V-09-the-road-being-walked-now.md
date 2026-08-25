@@ -258,6 +258,26 @@ null, and none of them a finding.
 
 ---
 
+**And the card, on the same terms as every road before it.**
+
+> **THE CONTEMPORARY ENCOUNTER RECORD**
+> **SEES:** Anomalies that survive instrumentation — tracks, in a record we can watch being assembled
+> while it is being assembled.
+> **NULL SPACE:** ∅ Occupants. Everything the tier most wants sits behind a line the instruments do
+> not cross, and what crosses it is testimony rather than tracking. ◐ Convergence, resolved badly: it
+> presents as independent agreement and is one branch with datable nodes, so the property that would
+> make it evidence is the exact property it lacks.
+> **COMPLEMENTS:** Any record old enough that its transmission has forgotten its own coinages — the
+> next chapter's four reports across thirteen centuries, which earn three branches by being too old
+> to be watched.
+> **BOUNDARY:** Where a fact about institutions is read as a fact about the sky. Acknowledgement is
+> data about acknowledgers, and the crossing is hard to feel because both arrive in the same week.
+> **NAVIGATIONAL IMPLICATION:** Grade the legs separately and refuse the bundle. State real; tracks
+> small and real; convergence cultural; frames not findings. A reader persuaded by the total rather
+> than by any term in it has been persuaded by an addition nobody performed.
+
+---
+
 The old roads in this book were walked by people who did not know they were on one. They took the
 ground with the instruments they had, they wrote down what came back, and the best of them said which
 parts they were sure of.

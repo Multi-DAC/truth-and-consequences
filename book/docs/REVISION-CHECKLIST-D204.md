@@ -58,7 +58,7 @@ baked out of this file's own gauge before the file shipped.
 
 **One finding in eight books touches the argument. It is repairable in the citation.**
 
-- [ ] **R2-030** · `VII-04` §*Where the asymmetry actually lives* + `[^5]` · p.807 —
+- [x] **R2-030** · `VII-04` §*Where the asymmetry actually lives* + `[^5]` · p.807 —
       VII.4 needs the asymmetry to reach the sophisticated egoist and sources it to VII.3:
       *"The last chapter is where that was shown, at length, and this chapter does not argue it
       again."* `[^5]`: *"VII.3, the two forks. The exemption argument is made in full there."*
@@ -69,7 +69,7 @@ baked out of this file's own gauge before the file shipped.
       declined this figure and VII.4 is where he is met.
       `✓` absent:VII-04:and this chapter does not argue it again
 
-- [ ] **R2-031** · `VII-03` L285 — *"The coercer who follows **the** fork all the way"*: a definite
+- [x] **R2-031** · `VII-03` L285 — *"The coercer who follows **the** fork all the way"*: a definite
       article whose antecedent is never set out in VII.3. The same joint as R2-030, from the other
       side.
       `→` Set the fork out, or make the article indefinite.
@@ -405,7 +405,7 @@ baked out of this file's own gauge before the file shipped.
 **Four rows, one shape.** Book VIII's characteristic defect, and it is a filing defect rather than
 an argument defect.
 
-- [ ] **R2-056** · `VIII-02` §IV — the payoff is argued from a list the reader cannot see. *"The four
+- [x] **R2-056** · `VIII-02` §IV — the payoff is argued from a list the reader cannot see. *"The four
       symptoms of null-space influence **given above** are four residuals"*; *"It sits in the
       symptoms above."* **The chapter never prints four symptoms.** What is above in the book is
       four *layers* — era, language, family, wound. `Persistent patterns without apparent cause`
@@ -417,12 +417,12 @@ an argument defect.
       an assertion.
       `✓` manual:VIII-02 §IV must print four enumerated symptoms
 
-- [ ] **R2-057** · `VIII-06` `[^5]` — *"the **fifteen-tradition convergence list** she belongs to is
+- [x] **R2-057** · `VIII-06` `[^5]` — *"the **fifteen-tradition convergence list** she belongs to is
       this chapter's roster."* The phrase occurs once in the manuscript and **no list of fifteen
       traditions is printed anywhere.**
       `✓` manual:VIII-06 note 5 roster printed or claim dropped
 
-- [ ] **R2-058** · `VII-06` `[^6]` — *"Evan Stark on coercive control, and the Hassan and Lifton
+- [x] **R2-058** · `VII-06` `[^6]` — *"Evan Stark on coercive control, and the Hassan and Lifton
       material on group capture… **are used in this manuscript at VII.3 and VII.4**; they are not
       re-sourced here."* `Stark|Hassan|Lifton` across `book/*.md` returns **two lines and both of
       them are that sentence.** Not at VII.3, not at VII.4, not anywhere.
@@ -432,7 +432,7 @@ an argument defect.
       `→` Source them or drop the claim.
       `✓` absent:VII-06:are used in this manuscript at VII.3 and VII.4
 
-- [ ] **R2-059** · `VII-08` §VII — *"That is the completion **Clayton's amendment** asked for."* At
+- [x] **R2-059** · `VII-08` §VII — *"That is the completion **Clayton's amendment** asked for."* At
       the chapter's positive-thesis climax, in body prose. Everywhere else in the volume *"the
       amendment"* is VII.6's love amendment, sign-not-symmetry (VII.6 ×9, VIII.1, VIII.5, VIII.6).
       VII.8's is a different amendment, about meaning, with **no antecedent anywhere.** And VII.6
@@ -471,7 +471,7 @@ an argument defect.
       `→` One sentence in IV.1 and one in VI.1, or retrofit the sixth line to the 21.
       `✓` manual:IV.1 and VI.1 specification matches printed cards
 
-- [ ] **R2-062** · Books IV/V/VI — **the card apparatus dies in Book V.** `**SEES:**` blocks per
+- [x] **R2-062** · Books IV/V/VI — **the card apparatus dies in Book V.** `**SEES:**` blocks per
       book: **IV 22 · V 2 · VI 3.** V.1 says of the card that *"that is the whole load-bearing claim
       of this book"*, then gives one to Neoplatonism and one to Institutional Christianity — **the
       two roads held at arm's length** — and none to Advaita, Madhyamaka, Daoism, Lurianic Kabbalah,
@@ -481,7 +481,7 @@ an argument defect.
       mine; verified and extended.
       `✓` manual:python tools/card_sweep.py — Book V card count above 2, and the un-carded roads named
 
-- [ ] **R2-063** · `Z-02` pp.1070–1076 — **the last sentence of the book is `149 entries, 5
+- [x] **R2-063** · `Z-02` pp.1070–1076 — **the last sentence of the book is `149 entries, 5
       machine-uncertain.`** Four rows ship a reader-facing flag: *"⚠ (machine-uncertain: this may be
       an author or a fragment of the note's prose rather than a title — **check the endnote**)"*,
       with visibly garbled rows beneath it (*"Robert Monroe: Virginia broadcasting executive, onset

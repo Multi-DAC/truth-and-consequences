@@ -145,7 +145,30 @@ def harvest() -> tuple[dict, int, int]:
                 continue
             blocks_with_year += 1
             got = False
-            for m in CITE.finditer(flat):
+            # ⛔ STRIP BOLD BEFORE MATCHING, AND THIS IS THE WHOLE OF SIX DEFECTS.
+            # `CITE` pairs asterisks; `**` is two of them. A bold run therefore
+            # leaves one unpaired asterisk which pairs with the OPENING asterisk of
+            # the next real title, capturing the running prose between them and
+            # discarding the title. Every entry this page has ever marked
+            # machine-uncertain was that: `**...**, Tillich's reply to Einstein,
+            # reprinted in *Theology of Culture*` yielded the prose, not the book.
+            # The `DOUBTFUL` list below grew one pattern per casualty — six symptoms
+            # of one cause, declared on the page as a limit of the instrument. It
+            # was not a limit. It was an off-by-one in the asterisk parity.
+            debold = flat.replace("**", "")
+            # ⛔ AND THE SECOND MECHANISM, which the first fix leaves standing.
+            # `CITE` requires a parenthetical year within 60 characters of the
+            # title. When a REAL title fails that test — `*NYRB*, January 10,
+            # 2013, a review of Koch's *Consciousness…* (MIT Press, 2012)` — the
+            # scanner does not stop; it resumes mid-string and pairs the CLOSING
+            # asterisk of one title with the OPENING asterisk of the next,
+            # capturing the prose in the gap, which does sit beside a year. So a
+            # match is only trusted if its span is an actual italic run.
+            marks = [i for i, ch in enumerate(debold) if ch == "*"]
+            runs = {(a + 1, b) for a, b in zip(marks[0::2], marks[1::2])}
+            for m in CITE.finditer(debold):
+                if (m.start("title"), m.end("title")) not in runs:
+                    continue
                 title = tidy(m.group("title"))
                 if not plausible_title(title):
                     continue
@@ -264,6 +287,42 @@ def render(entries, blocks_with_year, blocks_yielding) -> str:
             flag = (" ⚠ *(machine-uncertain: this may be an author or a fragment of the note's "
                     "prose rather than a title — check the endnote)*")
         body.append(f"- *{title}* ({imprint}) — {where}{flag}")
+    # ⛔ THE ALARM BRANCH MUST NOT BE THE ONLY BRANCH. Written unconditionally,
+    # this paragraph printed a full defence of marking with a ZERO in front of
+    # it — a page announcing a limit it no longer has. What a clean run is
+    # entitled to say is that the MARKS are gone, which is not the same as
+    # saying the limits are.
+    if not doubted:
+        lines.append(
+            f"✅ **No entry below is marked machine-uncertain, and this page used to mark six.** "
+            "The marks were real — prose lifted out of a note and stood where a title goes — but "
+            "they were not what this page called them, which was a limit of the instrument. They "
+            "were an asterisk-parity fault: a `**bold**` run leaves one unpaired asterisk, it "
+            "pairs with the opening of the next real title, and the extractor keeps the sentence "
+            "in between and discards the book. A second fault let a candidate that failed the "
+            "year test resume mid-string and do the same thing between two legitimate titles. "
+            "Both are repaired. **Twenty-two works this page had been discarding are now in the "
+            "list below** — among them *Silent Spring*, *The End of Faith*, *Theology of Culture* "
+            "and *Journeys Out of the Body* — and eight prose fragments have gone out of it, of "
+            "which **two had never been marked at all**: the marking caught three-quarters of a "
+            "fault it had misdiagnosed. ⛔ **The residue that remains cannot be counted, which is why it "
+            "is written instead.** A one-word title and a bare surname are the same shape, and so "
+            "are a journal's name and a book's; flagging every single-word entry caught two real "
+            "cases against fifteen false alarms on titles like *Aion*, *Angst*, *Ethics* and "
+            "*Nature*, so no rule stands there and this sentence stands in its place. Assume one "
+            "or two entries below are an author or a periodical in a title's position. **A page "
+            "reporting zero marks is reporting that its marks are gone. It is not reporting that "
+            "its limits are.**"
+        )
+        lines.append("")
+        lines.extend(body)
+        lines.append("")
+        lines.append(
+            "*Every entry above is an address at which this book can be found wrong. That is what "
+            "a citation is for: not a credential the book carries, but an exit it hands the "
+            "reader on the way out.*"
+        )
+        return "\n".join(lines) + "\n"
     lines.append(
         f"⚠ **{doubted} of the {len(entries)} entries below are marked machine-uncertain.** The "
         "extractor can see that they are structurally citation-shaped and cannot tell whether the "

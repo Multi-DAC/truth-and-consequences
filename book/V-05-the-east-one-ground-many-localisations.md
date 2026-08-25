@@ -284,6 +284,27 @@ We are not proposing a better instrument. We are proposing that the ground is no
 there is nothing to subtract, and that the salt was in every sip already — which is what the man
 with the water jug was telling his son before anyone built a ladder over him.
 
+And the card, which V.1 promised would be written for the roads this book reads most warmly, and
+which costs this one something:
+
+> **THE NON-DUAL ANALYSIS** — Advaita, Madhyamaka, the *Zhuangzi*, Huayan
+> **SEES:** How many things there are. That a thing is what it is by what it stands with. That the
+> search for the owner comes up empty. And, in the Daoist case alone, that skill is the form the
+> knowledge takes.
+> **NULL SPACE:** ∅ Irreversibility. There is no column for a wrong that stays done — a loss can be
+> seen through, and nothing in the analysis records that something was destroyed and remained
+> destroyed. ◐ Its own instrument, resolved badly: a method that reaches the ground by subtracting
+> reports the ground as empty. The report is honest. The instrument selected it.
+> **COMPLEMENTS:** Anything that begins from an injury and refuses to dissolve it. Book VII's floor,
+> which needs the second party to stay genuinely other for anything to have been done to them. The
+> Hebrew prophets. A court.
+> **BOUNDARY:** The second storey. Up to it this is the best account in the whole ancestry of what an
+> aperture is; past it there is an ultimate register from which the world you are standing in gets
+> downgraded, and a summit with no perspective in it and therefore nothing that is the case.
+> **NAVIGATIONAL IMPLICATION:** Take the count, the co-constitution, the empty search and the skill.
+> Decline the storey. What these roads found is the ground you are on; what they built over it is a
+> ladder.
+
 ---
 
 *A note on grade, and on the one defect in this chapter that has a measured rate rather than an

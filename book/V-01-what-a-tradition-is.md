@@ -76,6 +76,24 @@ model, to a corporation, to a bee, and to this book. A framework that could not 
 be being respected; it would be being exempted, and exemption is the softest available form of not
 taking something seriously.
 
+**Which puts an obligation on this book, and it is worth stating here so that failing it would be
+visible.** A card is easy to write for a road you are already holding at arm's length and hard for
+one you have been reading with pleasure — so the traditions treated most warmly in these chapters are
+exactly the ones in danger of being flattered by not receiving one. Four more are therefore written
+where the temptation runs the other way: **the non-dual analysis** at V.5, **operative magic** at
+V.7, **the contemporary encounter record** at V.9, and **the mystics' report** at V.10. Each of the
+four costs its road something, and whether it does is the only test of whether the card was written
+honestly.
+
+Three chapters carry no card, and the reasons belong on the page rather than in the reader's
+suspicion. V.3 reads further into the tradition V.2 has already carded. V.4's subject is not a road
+at all but an instrument the reader arrived carrying. V.11 is the whole roster arguing rather than a
+member of it. Two more are declined on their own merits, and they are the places to press hardest:
+**V.6**, because what survives of Luria is Vital's redaction, so the thing available to be carded
+would be the redaction and not the man; and **V.8**, because the travel material is a body of
+practice held in common by places that never met, which is a method rather than a position and would
+need a different card than this one.
+
 ---
 
 **The method, said once, in four parts, and then not repeated for eleven chapters.**

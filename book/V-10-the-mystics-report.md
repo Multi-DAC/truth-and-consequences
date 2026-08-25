@@ -260,6 +260,28 @@ the weakness in the case. **It is the strongest single indication that they were
 something.** Copies agree about the furniture. Five accounts of one room, taken by five people who
 had to live in it afterwards, agree about where the walls are and argue about everything else.
 
+**And the card, which is owed to these four more than to anyone else in the book, because these are
+the reports it leans on hardest.**
+
+> **THE MYSTICS' REPORT**
+> **SEES:** The ground, reported as structure — complete, not a being, with no inside to address and
+> no name that reaches it. Four languages, thirteen centuries, three branches.
+> **NULL SPACE:** ∅ Everything a life needs in order to be led: whether the ground wills, whether it
+> knows you, what is owed to the neighbour on Tuesday. The report is thin by construction and nobody
+> could live inside it. ◐ The procedure's own contribution, resolved badly — it arrives inside the
+> finding, and the reporter is the last party positioned to subtract it.
+> **COMPLEMENTS:** Any tradition running a different technique at the same place, which these four
+> supply to one another. It is why their quarrel about the furniture is the strongest thing in the
+> case rather than the weakest.
+> **BOUNDARY:** Where structure ends and furniture begins. The reporter does not feel the crossing —
+> both arrive in one voice with one authority — and only one of the two survives being carried into a
+> language that has no word for the other.
+> **NAVIGATIONAL IMPLICATION:** Take the structure and let the furniture argue. Copies agree about
+> furniture and witnesses argue about it, so the argument is the credential, and a tradition that has
+> smoothed it away has told you which of the two it is.
+
+---
+
 The next chapter takes the whole roster at once, and lets them argue — first about what they knew
 that we have lost, and then about the one thing every last one of them got wrong.
 
