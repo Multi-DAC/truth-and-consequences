@@ -19,14 +19,14 @@ instruction, a piece of information about a person who was not in the room.
 
 Three times this book has denied the picture that word carries, and once it drew a line with it. I.3
 said that what lies outside your focus is present at full strength and *"none of it anywhere you
-could travel to and fetch it back from."*[^2] III.8 refused the word *save* from the game vocabulary
+could travel to and fetch it back from."*[^1] III.8 refused the word *save* from the game vocabulary
 because a save needs a copy and a place to put it, and here **nothing is stored and nothing is
-fetched.**[^3] V.6 re-shipped I.3's sentence two chapters ago in Kabbalah's own idiom.[^4] And
+fetched.**[^2] V.6 re-shipped I.3's sentence two chapters ago in Kabbalah's own idiom.[^3] And
 V.1, opening this book, drew its one line in a sentence built so it could not be missed:
-**Cartographers we credit. Travellers we part from.**[^5]
+**Cartographers we credit. Travellers we part from.**[^4]
 
 So a chapter called TRAVEL, arriving seventh among the ten sympathetic readings that sentence
-announced,[^1] comes in with four of its own book's sentences against it.
+announced,[^5] comes in with four of its own book's sentences against it.
 
 Good. That is the chapter.
 
@@ -237,7 +237,33 @@ The next chapter runs it on a case where every one of those is false.
 
 ## Notes
 
-[^1]: ⛔ **Corrected here — the chapter had counted itself by its own chapter number.** V.1 closes:
+[^1]: ✅ **Verbatim.** I.3: *"every bit of it, at full strength, and none of it anywhere you could
+    travel to and fetch it back from"* (I.3:48–49). The chapter quotes from *"none of it"*, which is
+    a clean clause boundary — the elided words are *"every bit of it, at full strength, and"*, and
+    they strengthen rather than qualify what is quoted. No load-bearing connective was cut.
+
+[^2]: ✅ **Accurate, and the paraphrase is fair.** III.8 refuses *save* at III.8:23–26: *"A save is a
+    state held somewhere the state is not — an original, kept, so that a later …"* and *"To speak of
+    a save is to reintroduce the elsewhere by the [back door]"*, with the ground stated as *"[what]
+    is made at the meeting and nowhere else"*. This chapter's *"a save needs a copy and a place to
+    put it"* is a compression of III.8's own argument, not a new claim, and III.8:52 lists *save*
+    among the terms *"this book has already spent a chapter removing"*.
+
+[^3]: ✅ **True, and the sentence is quoted there rather than restated.** V.6:110–111 sets I.3's
+    sentence as a block quotation — *"anywhere you could travel to and fetch it back from"* — under
+    its own note [^9]. So *"re-shipped … in Kabbalah's own idiom"* is exact: V.6 carried the sentence
+    across verbatim and supplied the idiom around it. **Two chapters ago** is also right: V.6 → V.8.
+
+[^4]: ✅ **Verbatim, and it is the sentence V.1 built to be quoted.** V.1:285: *"**Cartographers we
+    credit. Travellers we part from.**"* — bold in the source, and it opens the paragraph that runs
+    to the ten-chapter count in [^5]. ⚠ **Do not read this as V.1 endorsing the present chapter's
+    grade.** V.1's *travellers* are the traditions' own metaphysicians who told the reader to leave;
+    this chapter's travellers are practitioners who report going somewhere and coming back. The word
+    is the same and the referent is not, and the two are being deliberately rhymed. This is the
+    filed instance of a field keeping its name and swapping its referent; this one is intentional,
+    which is why it is noted rather than fixed.
+
+[^5]: ⛔ **Corrected here — the chapter had counted itself by its own chapter number.** V.1 closes:
     *"Ten chapters of sympathetic reading follow this one"* (V.1:287). The ten are V.2–V.11, so this
     chapter — the **eighth of Book V** — is the **seventh** of the ten. The draft read *"arriving
     eighth among the ten"*, which is true of its position in the book and false of its position in
@@ -246,32 +272,6 @@ The next chapter runs it on a case where every one of those is false.
     right in one frame and wrong in the neighbouring frame is invisible to every check except
     counting. Nothing in the apparatus would have caught it; a gauge that reads chapter numbers would
     have confirmed it.
-
-[^2]: ✅ **Verbatim.** I.3: *"every bit of it, at full strength, and none of it anywhere you could
-    travel to and fetch it back from"* (I.3:48–49). The chapter quotes from *"none of it"*, which is
-    a clean clause boundary — the elided words are *"every bit of it, at full strength, and"*, and
-    they strengthen rather than qualify what is quoted. No load-bearing connective was cut.
-
-[^3]: ✅ **Accurate, and the paraphrase is fair.** III.8 refuses *save* at III.8:23–26: *"A save is a
-    state held somewhere the state is not — an original, kept, so that a later …"* and *"To speak of
-    a save is to reintroduce the elsewhere by the [back door]"*, with the ground stated as *"[what]
-    is made at the meeting and nowhere else"*. This chapter's *"a save needs a copy and a place to
-    put it"* is a compression of III.8's own argument, not a new claim, and III.8:52 lists *save*
-    among the terms *"this book has already spent a chapter removing"*.
-
-[^4]: ✅ **True, and the sentence is quoted there rather than restated.** V.6:110–111 sets I.3's
-    sentence as a block quotation — *"anywhere you could travel to and fetch it back from"* — under
-    its own note [^9]. So *"re-shipped … in Kabbalah's own idiom"* is exact: V.6 carried the sentence
-    across verbatim and supplied the idiom around it. **Two chapters ago** is also right: V.6 → V.8.
-
-[^5]: ✅ **Verbatim, and it is the sentence V.1 built to be quoted.** V.1:285: *"**Cartographers we
-    credit. Travellers we part from.**"* — bold in the source, and it opens the paragraph that runs
-    to the ten-chapter count in [^1]. ⚠ **Do not read this as V.1 endorsing the present chapter's
-    grade.** V.1's *travellers* are the traditions' own metaphysicians who told the reader to leave;
-    this chapter's travellers are practitioners who report going somewhere and coming back. The word
-    is the same and the referent is not, and the two are being deliberately rhymed. This is the
-    filed instance of a field keeping its name and swapping its referent; this one is intentional,
-    which is why it is noted rather than fixed.
 
 [^6]: ⚠ **Repunctuated on audit — the quotation had been smoothed.** III.8:11–13 reads: *"**A limit
     you state is a limit you have measured. A limit somebody finds for you is a limit you did not

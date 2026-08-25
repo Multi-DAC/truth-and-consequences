@@ -71,12 +71,12 @@ made — and if it is right, his second and third witnesses collapse into his fi
 
 And the fifth item is the one that should end the argument. *Whitmanism.* Walt Whitman, born 1819,
 Long Island, who came to what he came to by way of Emerson — and Emerson had the Vedic material in
-translation and named it in his own essays, among the world-books, alongside the Iliad.[^11] **James's
+translation and named it in his own essays, among the world-books, alongside the Iliad.[^10] **James's
 most recent independent witness is his oldest witness, arriving in Brooklyn by boat, at a datable
 moment, in English.** He put it fifth on a list meant to demonstrate that the classics have no
-native land, and it is the one item on the list whose native land can be given to the county.[^12]
+native land, and it is the one item on the list whose native land can be given to the county.[^11]
 
-Five voices, then. Two branches, and the second of those under a real question.[^10] Say the smaller
+Five voices, then. Two branches, and the second of those under a real question.[^12] Say the smaller
 number.
 
 ---
@@ -211,7 +211,7 @@ same thing.
 
 The reason is that if your method for reaching the ground is to *subtract* — still the mind, drop the
 aggregates, forget the limbs — then what you converge on has nothing in it, because your instrument
-removed everything on the way up. The report is honest. The instrument selected it.[^21]
+removed everything on the way up. The report is honest. The instrument selected it.[^20]
 
 This breaks the test V.1 built, and it is better to say so than to leave the crack for a reader to
 find. That test asks whether the procedures are *unlike*: sitting still, spinning, starving,
@@ -219,7 +219,7 @@ chanting, and drinking a bitter decoction are as unlike as procedures get, and t
 therefore hard to explain as any one procedure's artefact. True. But unlikeness is not independence.
 Four of those five are unlike in every respect except the one that determines the answer: **they all
 remove.** Independence requires that the instruments differ *in direction*, and a family of
-procedures can be maximally various in technique while pointing, to the last one, the same way.[^20]
+procedures can be maximally various in technique while pointing, to the last one, the same way.[^21]
 
 Two observations, and each is a single case rather than a trend. The Daoist material is the one place
 in this ancestry where the answer to *what do I do with this* is not *contemplate* but *acquire the
@@ -356,15 +356,7 @@ which is why a reader who stops at the marker sees no citation at all.*
     (Suso into Plotinus); that is the second collapse it has earned.** Owed: third into first, fourth
     into second.
 
-[^10]: ⛔ **Inherits [^9], and this is where the error is load-bearing.** With the numbering corrected
-    the tally is: Hinduism and Whitmanism in one branch, Neoplatonism and Christian mysticism in the
-    other, Sufism the one under a real question. So the sentence should read *two branches, and a
-    fifth voice under a real question* — the branch under question is not the second, it is the
-    unplaced one. As written the sentence only parses if Neoplatonism might collapse into India,
-    which is [^9]'s unsupported claim doing work two paragraphs later. **A single mis-numbering
-    propagated into the paragraph that states the chapter's result.**
-
-[^11]: ⛔ **The Iliad is not in that list, and it is not in that essay.** Emerson's world-books
+[^10]: ⛔ **The Iliad is not in that list, and it is not in that essay.** Emerson's world-books
     passage is in *Books* (Society and Solitude, 1870): *the Bibles of the world, or the sacred books
     of each nation* — then Hebrew and Greek Scriptures, the Desatir, the Zoroastrian Oracles, *the
     Vedas and Laws of Menu; the Upanishads, the Vishnu Purana, the Bhagvat Geeta, of the Hindoos*,
@@ -376,7 +368,7 @@ which is why a reader who stops at the marker sees no citation at all.*
     *It was the first of books* — predates Whitman and says more. **Owed: cut the Iliad, cite the
     journal.**
 
-[^12]: ⛔ **The item the chapter calls datable is the least documented transmission on the page.**
+[^11]: ⛔ **The item the chapter calls datable is the least documented transmission on the page.**
     Whitman was born 31 May 1819 at West Hills, Huntington, Long Island — that part holds. But
     *by way of Emerson* rests on a single sentence — *I was simmering, simmering, simmering; Emerson
     brought me to a boil* — which is **John Townsend Trowbridge's recollection, published in the
@@ -387,6 +379,14 @@ which is why a reader who stops at the marker sees no citation at all.*
     same year as *Varieties* itself. **The strongest-sounding claim in the section is the weakest
     evidence in it**, and the honest form is stronger anyway: contested, secondhand, and still the
     most datable thing on James's list.
+
+[^12]: ⛔ **Inherits [^9], and this is where the error is load-bearing.** With the numbering corrected
+    the tally is: Hinduism and Whitmanism in one branch, Neoplatonism and Christian mysticism in the
+    other, Sufism the one under a real question. So the sentence should read *two branches, and a
+    fifth voice under a real question* — the branch under question is not the second, it is the
+    unplaced one. As written the sentence only parses if Neoplatonism might collapse into India,
+    which is [^9]'s unsupported claim doing work two paragraphs later. **A single mis-numbering
+    propagated into the paragraph that states the chapter's result.**
 
 [^13]: ⚠ **V.9 is paraphrased accurately and then charged with a complacency it disclaims one
     sentence later.** V.9 reads *"mystics got three branches because the transmission was old
@@ -450,17 +450,7 @@ which is why a reader who stops at the marker sees no citation at all.*
     The edit is correct and unmarked. **A source corrected downstream and never told is the same
     defect as a correction that fails to reach its citers, running the other way.**
 
-[^20]: ★★ **The chapter understates its own advance, and the understatement makes the move look like
-    a repeat.** The five procedures are in order, and *"They are as
-    unlike as procedures get"* (V.1:167) is verbatim. **But V.1 already ran a deflation against its own test**
-    (V.1:178–186): one instrument, one nervous system, twenty stressors and one behaviour. V.1 then fenced it:
-    *"It explains the phenomenology"* (V.1:192), *"It does not explain the propositions"* (V.1:197). **This
-    chapter's objection is a different one — same direction, not same substrate — and it reaches
-    inside the fence, because the second storey is a proposition.** As written, a reader who knows
-    V.1 will think the crack is the old one re-announced. **Owed: one clause saying which deflation
-    this is not.**
-
-[^21]: ⛔ **V.5 pressed it. It pressed it in these words.** The prose says V.5 found this and did not
+[^20]: ⛔ **V.5 pressed it. It pressed it in these words.** The prose says V.5 found this and did not
     press it. V.5 states the explanation in full and reaches the same two closing sentences —
     *"The report is honest. The instrument selected it."* (V.5:280–281) — **verbatim, unmarked, and
     presented here as a conclusion V.5 stopped short of.** V.5 also already lists Advaita, Madhyamaka and the *zuowang*
@@ -471,6 +461,16 @@ which is why a reader who stops at the marker sees no citation at all.*
     to have stopped short. ⚠ **Mechanism worth filing: V.5's passage carries no note.** A borrowing
     from an un-apparatus'd paragraph meets no correction on the way through — which is why the
     machinery of a chapter travels worse than its headlines.
+
+[^21]: ★★ **The chapter understates its own advance, and the understatement makes the move look like
+    a repeat.** The five procedures are in order, and *"They are as
+    unlike as procedures get"* (V.1:167) is verbatim. **But V.1 already ran a deflation against its own test**
+    (V.1:178–186): one instrument, one nervous system, twenty stressors and one behaviour. V.1 then fenced it:
+    *"It explains the phenomenology"* (V.1:192), *"It does not explain the propositions"* (V.1:197). **This
+    chapter's objection is a different one — same direction, not same substrate — and it reaches
+    inside the fence, because the second storey is a proposition.** As written, a reader who knows
+    V.1 will think the crack is the old one re-announced. **Owed: one clause saying which deflation
+    this is not.**
 
 [^22]: ⛔⛔ **THE CLEAN CASE IS THE CHAPTER'S OWN THESIS, INVERTED — AND IT IS THE SECOND OF ONLY TWO
     DATA POINTS.** Four failures, compounding:

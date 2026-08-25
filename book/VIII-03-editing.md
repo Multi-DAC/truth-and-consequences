@@ -115,7 +115,7 @@ panic are the same machine running the other way.
 
 **Class VII — Macroscopic quantum.** Theoretical. Movement that would exploit quantum coherence at the
 scale of a living system. **Evidence: the framework predicts it; nothing here confirms it.**
-**Practice: none prescribable.**[^8]
+**Practice: none prescribable.**[^2]
 
 That last line is why Class VII is in this chapter rather than quietly dropped from it. A practice
 chapter that silently omits the one class with no practice is doing the tidy thing this book spent
@@ -142,7 +142,7 @@ Of those eight, one runs through all the others, and it is worth isolating befor
 powerful and Class VI is more powerful. The most *available*. It is the one you can operate right now,
 without equipment, without a group, without a substance, without a decade.
 
-Four things govern what it does.[^2]
+Four things govern what it does.[^3]
 
 **It is constitutive, not passive.** Attending to something does not merely register it; it
 crystallises it — the thing attended to becomes more defined, more present, more *there* in your
@@ -244,7 +244,7 @@ What changes a parameter is **repetition at the level of the parameter.** The sa
 enough times, at the same place in the day, until the position it produces is the default rather than
 the achievement. That is not an inspiring answer and its unglamorousness is diagnostic: notice that
 **every tradition's real instruction is a schedule, not a realisation.** Ignatius wrote a thirty-day
-sequence with times of day in it. The monastic hours are a timetable. The Buddhist instruction is a
+sequence with times of day in it. [^4] The monastic hours are a timetable. The Buddhist instruction is a
 posture and a duration. *Zazen* is, in its entirety, an arrangement of a body for a period. None of
 these hands you a truth. Each of them hands you a time and a repetition, because the founders were
 running the operation that works on the parameter, and the truths were what turned up in the region
@@ -252,7 +252,7 @@ the operation opened.
 
 Beat three gets its mechanism in one line, and the line is about the difference between
 two of the classes: **psychedelics are a single lever pulling on the entire restriction simultaneously;
-instrument-assisted navigation is a set of precision dials, each adjusting a specific parameter.**[^3]
+instrument-assisted navigation is a set of precision dials, each adjusting a specific parameter.**[^5]
 Generalise it and you have the actual taxonomy of edits.
 
 **Whole-restriction operations** — Class IV, and the deep end of Class VI — move everything at once. They
@@ -313,7 +313,7 @@ current, does a measurable thing to a measurable band, and the measurement is ex
 Unreliable for **the output**. The mapping from band to navigational region is a cartography of
 predictions — the thirty-three state protocols are *theoretical starting
 points, not validated destinations*, every brain responds differently, and the calibration is the
-work rather than the preamble.[^4] The transition from the reliable half to the unreliable half is
+work rather than the preamble.[^6] The transition from the reliable half to the unreliable half is
 invisible in use, because both halves are delivered by the same session and the second one arrives
 wearing the first one's credibility.
 
@@ -350,7 +350,7 @@ about that.
 
 ### VI. Switching, which is the thing you can actually start this week
 
-The previous chapter owed this one a method and deferred it here on purpose.[^5] It is the second of
+The previous chapter owed this one a method and deferred it here on purpose.[^8] It is the second of
 the three ways of illuminating what you cannot see, and it is the only one in this chapter
 that requires no equipment, no group and no substance.
 
@@ -371,7 +371,7 @@ one closes, and moving between them with the standing awareness that each is a p
 the terrain. And the reason this functions as a diagnostic rather than as tourism is the sharpest
 structural line in the account: **different classes access different dimensions, and the region each one
 cannot reach is a different region — which is why complementary practices illuminate each other's
-excluded ground.**[^6] Meditation does not reach what conversation reaches. Reasoning does not reach
+excluded ground.**[^9] Meditation does not reach what conversation reaches. Reasoning does not reach
 what the body knows. A substance does not reach what fifteen years of a schedule builds. Run only one
 and you will conclude that what it reaches is what there is, and you will be sincere.
 
@@ -468,13 +468,30 @@ book, and it still dropped a section. Recorded here rather than silently correct
 is not *check your citations*: **a mapping made in one pass has exactly the standing of any other
 unverified claim, including when the party relying on it is the party that made it.**
 
-[^2]: **The topology that attention creates — Principles 1–4 of the theory of attention**, which is
+[^2]: ⛔ **THE EVIDENCE LINE READ *"convergent reports across contemplative traditions, some
+    classified research programmes, and a theoretical framework that predicts it"* UNTIL DAY 195.**
+    Repaired. **It was unfalsifiable by construction, unmarked by grade, and it is
+    the exact register II.8's ban list exists to keep out** — in the volume about practice, in a book
+    whose subject is evidence-grading. ★ *"Some classified research programmes"* is the worst clause
+    in the manuscript: it cites evidence **whose inaccessibility is the reason it cannot be checked**,
+    which is IV.7's refused clause — *otherwise, anyone could perceive them* — wearing a security
+    classification instead of a cosmology. **There were two honest options and no third that left the
+    clause standing:** produce the receipt, or cut to what can be said. There is no receipt, so it is
+    cut. ⚠ **The empty practice line beside it was always honest and is untouched**, which is the
+    contrast that makes the defect legible: the same entry could print *none prescribable* without
+    flinching and could not bring itself to print *nothing here confirms it.*
+
+[^3]: **The topology that attention creates — Principles 1–4 of the theory of attention**, which is
 the part of it this chapter is entitled to. ⛔ **Principles 5–7 are the ethics of navigation** and
 they belong to the chapter on other players, not to this one; taking them here would have let a
 chapter about technique absorb the chapter about obligation, which is the specific way a practice book
 usually loses its ethics.
 
-[^3]: **The closing distinction of the taxonomy:** psychedelics are a
+[^4]: The *Spiritual Exercises* (composed c. 1522–1524, first published 1548) really is a dated
+sequence of roughly thirty days with hours of the day specified — four or five prayer periods, the
+*examen* twice daily — and that concreteness is the whole point being made here. ⚠ Named from standard
+reference scholarship; the text is **not** consulted at first hand.
+[^5]: **The closing distinction of the taxonomy:** psychedelics are a
 single lever pulling on the entire bottleneck simultaneously; TI is a set of precision dials, each
 adjusting a specific parameter. ★ This is the sentence that gave beat three a mechanism instead of
 an exhortation, and it arrives with its own bound already attached, which is the reason it is usable:
@@ -483,8 +500,8 @@ mechanism separated from the caution it shipped with is a different and weaker c
 stronger one's evidence.** ⚠ `psychedelic` occurred **zero** times in the sixty-two chapters preceding
 this one — seven volumes arguing that the restriction is modulable, and no mention of the most common
 way human beings actually modulate it.
- ⚠ **A SECOND RECEIPT, on this note because of a numbering constraint, and the constraint is itself recorded below.** The schedule claim names Ignatius: the *Spiritual Exercises* (composed c. 1522–1524, first published 1548) really is a dated sequence of roughly thirty days with hours of the day specified — four or five prayer periods, the *examen* twice daily — and that concreteness is the whole point being made. Named from standard reference scholarship; the text is Not consulted at first hand. ⛔ **This belongs in its own note and cannot have one without renumbering, because VIII.3's markers are ALREADY out of sequence in the body.** ⚠ **And the first version of this sentence understated that by a factor of four.** It named two inversions — the seventh marker arriving ahead of the fifth and sixth — and stopped there, which made the defect a tidiness complaint. Measured rather than recalled, the body order is **1, 8, 2, 3, 4, 7, 5, 6: eight inversions**, and the marker that jumps furthest is [^8], which is the *second* endnote reference in the chapter and was not mentioned at all. The defect predates this amendment and the deferral above was priced against a quarter of it — which is the reason the number is now printed here instead of the adjective. The repair is a full resequence, it belongs to the pass that fixes all eleven such chapters at once rather than to this note, and stating its true size is the part that could not wait for it.
-[^4]: **The Class VIII caution, and it is this book's own:** the thirty-three state
+ ⚠ **The receipt that used to be lodged here has its own note now, and the reason it could not have one is the reason it is worth recording that it does.** It was written into this note because VIII.3's markers were out of sequence in the body and a new note could not be inserted without renumbering; a receipt about a source was therefore filed under an argument about restriction, where no reader looking for either would find it. The first version of that admission also understated the defect by a factor of four — it named two inversions, the seventh marker arriving ahead of the fifth and sixth, when the measured body order was **1, 8, 2, 3, 4, 7, 5, 6: eight inversions**, and the marker that jumped furthest was the *second* endnote reference in the chapter and went unmentioned. ★ **Both are paid.** The resequence ran across all eleven affected chapters on Day 205 and this chapter's markers now read 1 through 8 in the order a reader meets them; the receipt is at the schedule claim where it belongs. **The deferral was priced against a quarter of the defect and the measurement is what unblocked it** — which is this chapter's argument about editing, arriving as a worked example rather than as a claim.
+[^6]: **The Class VIII caution, and it is this book's own:** the thirty-three state
 protocols are theoretical starting points, not validated destinations. The Δf table, the
 posterior-cingulate alpha mechanism and the six-stage protocol sequence stand or fall with it.
 ⛔ **Grade, stated plainly: the physics of the interference envelope is established, the alpha/DMN
@@ -512,19 +529,6 @@ body text, and it is made above rather than noted here.** It read *"without touc
 it."* Violante's finding is **minimal exposure**, not none, so the body now says minimal exposure. The
 stronger word was not in the evidence and it was the word a reader would have checked first.
 
-[^5]: **Method 2, tradition-switching** — deferred to this chapter by the
-previous one's screen, on the grounds that taking it there would strand this one. **The role of
-tradition** supplies the mechanism and the four optimisation examples. ⚠ Before VIII.2 named it as Method 2, the phrase
-*tradition-switching* had occurred only in our planning, never in the prose.
-
-[^6]: **The insight the taxonomy turns on**, taken for sense and not for wording: different
-classes access different dimensions, the null space of each class is different, and therefore
-complementary practices illuminate each other's blind spots. ⛔ The retinal phrase in that sentence
-is spent — it belongs to the chapter on the era's render, where it carries eleven occurrences and an
-argument — so the sense is used here and the words are not. This is the argument for why the taxonomy
-is a taxonomy rather than a list of options: if the classes all reached the same dimensions by
-different routes, choosing among them would be a matter of taste.
-
 [^7]: The wording this chapter declined is *non-consensual neural modulation is coercive capture at the
 substrate level*. ⛔ **Rendered rather than
 quoted in the body, for a lexicon reason and not a stylistic one:** `substrate` is a retired term
@@ -536,15 +540,15 @@ word.** Recorded for the revision pass, which is where a reader who did not writ
 rule on it. The rendered form is also stronger: what makes the act coercive is that it operates
 beneath the level at which consent could be given.
 
-[^8]: ⛔ **THE EVIDENCE LINE READ *"convergent reports across contemplative traditions, some
-    classified research programmes, and a theoretical framework that predicts it"* UNTIL DAY 195.**
-    Repaired. **It was unfalsifiable by construction, unmarked by grade, and it is
-    the exact register II.8's ban list exists to keep out** — in the volume about practice, in a book
-    whose subject is evidence-grading. ★ *"Some classified research programmes"* is the worst clause
-    in the manuscript: it cites evidence **whose inaccessibility is the reason it cannot be checked**,
-    which is IV.7's refused clause — *otherwise, anyone could perceive them* — wearing a security
-    classification instead of a cosmology. **There were two honest options and no third that left the
-    clause standing:** produce the receipt, or cut to what can be said. There is no receipt, so it is
-    cut. ⚠ **The empty practice line beside it was always honest and is untouched**, which is the
-    contrast that makes the defect legible: the same entry could print *none prescribable* without
-    flinching and could not bring itself to print *nothing here confirms it.*
+[^8]: **Method 2, tradition-switching** — deferred to this chapter by the
+previous one's screen, on the grounds that taking it there would strand this one. **The role of
+tradition** supplies the mechanism and the four optimisation examples. ⚠ Before VIII.2 named it as Method 2, the phrase
+*tradition-switching* had occurred only in our planning, never in the prose.
+
+[^9]: **The insight the taxonomy turns on**, taken for sense and not for wording: different
+classes access different dimensions, the null space of each class is different, and therefore
+complementary practices illuminate each other's blind spots. ⛔ The retinal phrase in that sentence
+is spent — it belongs to the chapter on the era's render, where it carries eleven occurrences and an
+argument — so the sense is used here and the words are not. This is the argument for why the taxonomy
+is a taxonomy rather than a list of options: if the classes all reached the same dimensions by
+different routes, choosing among them would be a matter of taste.

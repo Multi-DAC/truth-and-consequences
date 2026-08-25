@@ -148,7 +148,7 @@ this project derived it from an infant rather than reading it in Book VIII of th
 comment on the project and not on Aristotle.** What the modern frame adds is only the mechanism —
 proportionality in his account is a matter of what is deserved and returned, and in ours it is a
 matter of the direction of two coherences over time, which is checkable in cases where desert is
-not.[^7]
+not.[^6]
 
 Three consequences follow immediately, and each of them does work later.
 
@@ -168,7 +168,7 @@ asymmetrically is not the licence to act over: a parent decides for an infant co
 deciding is *through* them exactly as long as the infant's own capacity to navigate is increasing.
 When that stops being true the same act is a different act. This is the care-and-capture line from
 the previous two chapters arriving in the one relation where it is hardest to apply and most
-needed, and it needs no new premise to get here.[^6]
+needed, and it needs no new premise to get here.[^7]
 
 **Third — and this is the reason the amendment is worth a section rather than a footnote —
 recognition across a grade-difference is now a *thing the account can say happens*, rather than an
@@ -422,15 +422,7 @@ reading for *two sections on*, *pays in full below* — does not catch this one,
 is no signpost at all; the joint is discoverable only by holding the taxonomy against the census.
 Filed rather than swept: the batch sweep the earlier pass called for still owes the other twenty-eight.
 
-[^6]: The floor is established at VII.3 with both its limits — validity without motivational
-grip, and impartiality as a wagered premise rather than a derived one. Neither limit is loosened
-here. The care-and-capture diagnostic is inherited, stated first
-for teaching and for coercive control; the grade-difference application is this chapter's extension of
-it, and it inherits rather than re-argues the *through*/*over* distinction. Evan Stark on coercive
-control, and the Hassan and Lifton material on group capture, arrive with the diagnostic
-and are used in this manuscript at VII.3 and VII.4; they are not re-sourced here.
-
-[^7]: Aristotle, *Nicomachean Ethics* VIII.7 on friendship between unequals and the proportional
+[^6]: Aristotle, *Nicomachean Ethics* VIII.7 on friendship between unequals and the proportional
 requital it calls for, and VIII.12 on parental love as prior, greater, and not diminished by being
 unreturned in kind. ⚠ Aristotle is named in four earlier chapters and the *Ethics* has never been
 used: `philia` occurs zero times in the manuscript before this line. That is the fourth zero-count
@@ -438,3 +430,11 @@ of the shape described above — an ancestor holding the position, unnamed at th
 book restates it — and it was found here by looking rather than by a scheduled check, which is the
 gap that ruling left open. Receipt status: the two citations are to loci this chapter's author knows
 by argument rather than from the text in hand; primary check owed at the retrofit.
+
+[^7]: The floor is established at VII.3 with both its limits — validity without motivational
+grip, and impartiality as a wagered premise rather than a derived one. Neither limit is loosened
+here. The care-and-capture diagnostic is inherited, stated first
+for teaching and for coercive control; the grade-difference application is this chapter's extension of
+it, and it inherits rather than re-argues the *through*/*over* distinction. Evan Stark on coercive
+control, and the Hassan and Lifton material on group capture, arrive with the diagnostic
+and are used in this manuscript at VII.3 and VII.4; they are not re-sourced here.

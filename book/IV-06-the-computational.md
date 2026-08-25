@@ -67,7 +67,7 @@ and partway through he takes up an example from John McCarthy:
 > McCarthy, for example, writes, "Machines as simple as thermostats can be said to have beliefs, and
 > having beliefs seems to be a characteristic of most machines capable of problem solving
 > performance" (McCarthy 1979). Anyone who thinks strong AI has a chance as a theory of the mind
-> ought to ponder the implications of that remark.[^2] We are asked to accept it as a discovery of strong
+> ought to ponder the implications of that remark.[^1] We are asked to accept it as a discovery of strong
 > AI that the hunk of metal on the wall that we use to regulate the temperature has beliefs in
 > exactly the same sense that we, our spouses, and our children have beliefs, and furthermore that
 > "most" of the other machines in the room — telephone, tape recorder, adding machine, electric light
@@ -77,7 +77,7 @@ And then the sentence that does the work:
 
 > The study of the mind starts with such facts as that humans have beliefs, while thermostats,
 > telephones, and adding machines don't. If you get a theory that denies this point you have produced
-> a counterexample to the theory and the theory is false.[^1]
+> a counterexample to the theory and the theory is false.[^2]
 
 Read that against the opening of this book's fourth part. The atlas begins by printing a five-line
 card for a thermostat, cold, before any argument, and then says the five lines are the whole
@@ -428,7 +428,17 @@ an inside, the atlas now goes to the ones with no wires, and it goes in owing.
 
 ---
 
-[^1]: John R. Searle, "Minds, Brains, and Programs," *Behavioral and Brain Sciences* 3 (1980):
+[^1]: The inner quotation is Searle's of John McCarthy, "Ascribing Mental Qualities to Machines," in
+Martin Ringle (ed.), *Philosophical Perspectives in Artificial Intelligence* (Atlantic Highlands, N.J.:
+Humanities Press, 1979), 161–95. ⚠ **Quoted here at one remove — through Searle, as the chapter says —
+and McCarthy's paper has not been read for this book.** That matters more than usual, because
+McCarthy's own thermostat passage is *more careful than Searle's summary of it*: he argues the
+ascription is correct "if done conservatively," and his worked example is a thermostat with dry ice
+held to its sensor, i.e. a case about **error**, which is nearer to this atlas's fourth line than to
+the position Searle is refuting. **The atlas is closer to McCarthy than this chapter lets on and does
+not get to bank that**, since the reading is second-hand.
+
+[^2]: John R. Searle, "Minds, Brains, and Programs," *Behavioral and Brain Sciences* 3 (1980):
 417–57 (the article runs 417–24; the balance is open peer commentary and Searle's reply). ✅ **Both
 block quotations above were diffed against the published BBS scan during the Day-191 retrofit and are
 verbatim, including the em-dash series and the scare-quoted `"most"`.** Two things are declared rather
@@ -442,16 +452,6 @@ assertion, which is what Searle calls it. **(b) `beliefs` at the third line of t
 `bcliefs` in the scan** — an OCR artifact of the digitisation, not a variant, and silently normalised.
 ★ **This is the chapter's load-bearing citation and the only place in Book IV where an opponent is
 quoted at length**, which is why it got the two-source treatment rather than the one-source treatment.
-
-[^2]: The inner quotation is Searle's of John McCarthy, "Ascribing Mental Qualities to Machines," in
-Martin Ringle (ed.), *Philosophical Perspectives in Artificial Intelligence* (Atlantic Highlands, N.J.:
-Humanities Press, 1979), 161–95. ⚠ **Quoted here at one remove — through Searle, as the chapter says —
-and McCarthy's paper has not been read for this book.** That matters more than usual, because
-McCarthy's own thermostat passage is *more careful than Searle's summary of it*: he argues the
-ascription is correct "if done conservatively," and his worked example is a thermostat with dry ice
-held to its sensor, i.e. a case about **error**, which is nearer to this atlas's fourth line than to
-the position Searle is refuting. **The atlas is closer to McCarthy than this chapter lets on and does
-not get to bank that**, since the reading is second-hand.
 
 [^3]: John R. Searle, "Is the Brain a Digital Computer?" — the Presidential Address to the Pacific
 Division, *Proceedings and Addresses of the American Philosophical Association* 64, no. 3 (1990):
@@ -489,9 +489,9 @@ stronger for conceding that and does not.**
 ---
 
 *On the grade of the sources above.* **This is the best-sourced chapter in Book IV and the worst, in that
-order.** [^1] is two-digitisation-grade — a primary scan, diffed. [^3] is two-witness-grade with a
+order.** [^2] is two-digitisation-grade — a primary scan, diffed. [^3] is two-witness-grade with a
 declared and unrepaired divergence, and is the only quotation in the drafted volume currently carrying
-an **UNVERIFIED** mark. [^2] is explicitly second-hand and names what that costs. ★ **The pattern is instruments going where
+an **UNVERIFIED** mark. [^1] is explicitly second-hand and names what that costs. ★ **The pattern is instruments going where
 instruments are cheap, arriving inside a single chapter**: the 1980 paper is
 freely scanned, so it got checked to the letter; the 1990 address is behind a wall, so it got checked
 to the sentence — and the chapter's argument leans harder on the 1990 one, because *syntax is not

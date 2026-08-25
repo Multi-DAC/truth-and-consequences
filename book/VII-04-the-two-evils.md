@@ -48,7 +48,7 @@ known for a century and moral philosophy has never borrowed:
 
 > **From inside an ordered phase, the order-parameter presents as law. From outside, it presents as
 > contingency. Both presentations are veridical about their respective positions, and neither is
-> about the ground.**[^3]
+> about the ground.**[^1]
 
 Ask anyone inside a ferromagnet which way is north and they will tell you with total conviction — and
 they will be *right*, phase-locally. The conviction is not a bug and not an illusion to be therapised
@@ -94,7 +94,7 @@ reorganises the whole demonology.
 
 **A being locked wholly at a pole has not *maximised* that pole. It has lost the axis.** Its moral
 dimension has collapsed to a point. It is not superlatively wicked; it is morally *dimensionless* — a
-flatlander in the good-and-evil plane, beyond good and evil not as the overman but as the corpse.[^9]
+flatlander in the good-and-evil plane, beyond good and evil not as the overman but as the corpse.[^3]
 
 That sentence is the chapter's hinge and it is also the chapter's most dangerous sentence, so it gets
 its correction immediately, from us, before anyone else supplies it.
@@ -172,7 +172,7 @@ cosmology depends on it.
 holding of one's individuation against the whole rather than as an expression of it.
 
 > **The focusing is metaphysical — it is what makes you a somebody. Contraction is ethical — it is a
-> stance a somebody can take. Every perspective is focused. Not every perspective is contractive.**[^10]
+> stance a somebody can take. Every perspective is focused. Not every perspective is contractive.**[^4]
 
 The two share a shape and share nothing else, and if they are welded then the next chapter's central
 claim — that sometimes the focusing *is* the care, that a parent bringing their whole attention down onto
@@ -185,7 +185,7 @@ decided is the final truth is something else wearing its coat.
 
 Now the uncomfortable part, and it must be said without cushioning or the rest is not honest.
 
-**These two orientations are dynamically symmetric.**[^7]
+**These two orientations are dynamically symmetric.**[^5]
 
 Both are genuinely navigable. Both are coherent. Both ascend in their own terms, and each has a
 literature, a discipline, a set of exemplars, and an account of what the other is doing wrong. Each
@@ -244,7 +244,7 @@ has swallowed everything. It fails identically, by the same theorem, for the mys
 into the biosphere and says the same sentence warmly. The reasoning there turned on what is left to
 owe *with* once a boundary has gone, and it convicts the swallower and the melter without a word
 changed between them. That chapter concluded, in its own voice, that the asymmetry between the errors
-is a claim about the middle of the range and not about the ends.[^4]
+is a claim about the middle of the range and not about the ends.[^6]
 
 Hold that against what has just been argued.
 
@@ -278,13 +278,13 @@ privileged standpoint, a place from which he counts and others do not, and the n
 exactly the proof that no position holds such a place. Or he can **refuse the exemption** and be
 consistent, willing that overriding is permitted for all, himself included — which is coherent to say
 and purchases nothing he wanted, licensing the world to override him and delivering not mastery but
-the dimensionless point, the loop's corpse reached from the other side.[^5]
+the dimensionless point, the loop's corpse reached from the other side.[^7]
 
 That argument was made there to answer a challenge about agency. Here is what it also establishes,
 and this is the thing the asymmetry is actually claiming:
 
 > **The asymmetry does not live in a doctrine professed. It lives in the exemption an action
-> performs.**[^1]
+> performs.**[^8]
 
 The egoist who *says* he knows he is not the whole *acts* as though he were the one position the
 reciprocity cannot reach. He has not asserted the totality standpoint; he has occupied it. And the
@@ -308,7 +308,7 @@ doctrine at all, and it belongs in this chapter because it arrives at the same p
 Arendt, watching Eichmann in the glass booth in Jerusalem, expected a monster and found a
 functionary: a man of clichés, unable to think from anyone else's standpoint, whose defence was
 procedural and whose manner was tedious. Her phrase — *the banality of evil* — is one of the most
-misused in the language[^6], and it does not mean that evil is trivial or that anyone might do it. It
+misused in the language[^9], and it does not mean that evil is trivial or that anyone might do it. It
 means that the enormity did not require an enormous inner life to produce it. The doctrine was not in
 the man. It was in the arrangement, and he was fluent in the arrangement.
 
@@ -371,7 +371,7 @@ not by being the same, but by being the two halves of one mark, neither of which
 ### The census entry
 
 **Whose:** the privation account — evil as *privatio boni*, absence rather than substance. Augustine's,
-after he left the Manichees, and the tradition's ever since.[^8]
+after he left the Manichees, and the tradition's ever since.[^10]
 
 **Renders:** what it renders superbly. That evil has no positive principle, no independent
 kingdom, nothing of its own to be made of. It is the instrument that killed the two-powers cosmology
@@ -451,10 +451,12 @@ mean anything.
 
 ---
 
-[^1]: Established here. The claim carries two seats and the second is the operative one: the
-asymmetry lives in the exemption an action performs, not in a doctrine professed. Every earlier
-statement of it in this book carried only the first, and the second was recovered from the source's
-own forward reference rather than reconstructed.
+[^1]: The order-parameter account is standard statistical mechanics applied to a domain it is not
+usually applied to. The claim being borrowed is narrow and structural — that a system below a
+symmetry-breaking transition has a state variable which is definite from inside the ordered phase and
+arbitrary from outside it — and nothing is being claimed about moral facts obeying any particular
+Hamiltonian. The analogy earns its keep by explaining a two-sided datum that neither rival account
+explains, and it is offered at that strength and no higher.
 
 [^2]: Thomas Aquinas, *Summa Theologiae* I, q. 64, a. 2, on the obstinacy of the demons, with the
 account of angelic cognition at I, q. 58, a. 3–4. ⚠ Aquinas is used four times in this book on two
@@ -463,25 +465,39 @@ beings; this is the will and its non-discursive structure, which is a separate a
 part of the *Summa*. The reuse is declared rather than discovered, so that a reader who notices it can
 see it was counted.
 
-[^3]: The order-parameter account is standard statistical mechanics applied to a domain it is not
-usually applied to. The claim being borrowed is narrow and structural — that a system below a
-symmetry-breaking transition has a state variable which is definite from inside the ordered phase and
-arbitrary from outside it — and nothing is being claimed about moral facts obeying any particular
-Hamiltonian. The analogy earns its keep by explaining a two-sided datum that neither rival account
-explains, and it is offered at that strength and no higher.
+[^3]: The phrase *beyond good and evil* is Nietzsche's and is used here against its author's sense.
+His overman is beyond the moral polarity by having outgrown a table of values; the being described
+here is beyond it by having lost the axis on which any table could be plotted. The two conditions are
+opposite in every respect except the words available to name them, which is why the sentence in the
+text says *not the overman but the corpse* rather than borrowing the phrase quietly.
 
-[^4]: VII.2, in the section on the two ends of the circle. The argument there is that *I am the
+[^4]: That the focusing can be care is argued next chapter. The distinction between the focusing and contraction is made here
+rather than there, because this is the chapter where the second word first does ethical work, and a
+term that has done a whole chapter's work is harder to unweld than one that has not.
+
+[^5]: Manichaeism, the third-century dualism of Mani, in which light and darkness are coeternal
+substances. It appears here for one sentence and one reason: *dynamically symmetric* is the phrase in
+this chapter most likely to be heard as two-powers cosmology, and the denial is cheaper made than
+repaired. Augustine's nine years among the Manichees and his subsequent argument against them is the
+origin of the privation account the census entry examines, which is why the two appear in one chapter.
+
+[^6]: VII.2, in the section on the two ends of the circle. The argument there is that *I am the
 totality; nothing is not mine* fails identically for the expansive terminal and the contractive one.
 This chapter treats that result as a constraint on its own claim rather than as support for it, which
 is the correct direction: a result that convicts both ends cannot be what distinguishes them.
 
-[^5]: VII.3, the two forks. The exemption argument is made in full there, in answer to the challenge
+[^7]: VII.3, the two forks. The exemption argument is made in full there, in answer to the challenge
 that a being with every capacity of an agent might decline the commitments. It is named here rather
 than repeated, because what this chapter adds is not the argument but its location — that the fork
 which answers the challenge is also the seat of the asymmetry, which is a thing that chapter was not
 holding the claim to say.
 
-[^6]: Hannah Arendt, *Eichmann in Jerusalem: A Report on the Banality of Evil* (Viking, 1963), and
+[^8]: Established here. The claim carries two seats and the second is the operative one: the
+asymmetry lives in the exemption an action performs, not in a doctrine professed. Every earlier
+statement of it in this book carried only the first, and the second was recovered from the source's
+own forward reference rather than reconstructed.
+
+[^9]: Hannah Arendt, *Eichmann in Jerusalem: A Report on the Banality of Evil* (Viking, 1963), and
 the later treatment of thinking and judgement in *The Life of the Mind* (Harcourt, 1978). ⚠ The
 phrase is routinely read as *evil is ordinary*, which she did not argue and rejected when it was put
 to her; the claim is about the relation between the scale of a deed and the interior life required to
@@ -489,24 +505,8 @@ do it. The disagreement recorded in the text — that a fully reflective coercer
 and not ours — is a difference in what the two accounts locate the failure *in*, and is not a claim
 that her reading of the case was wrong.
 
-[^7]: Manichaeism, the third-century dualism of Mani, in which light and darkness are coeternal
-substances. It appears here for one sentence and one reason: *dynamically symmetric* is the phrase in
-this chapter most likely to be heard as two-powers cosmology, and the denial is cheaper made than
-repaired. Augustine's nine years among the Manichees and his subsequent argument against them is the
-origin of the privation account the census entry examines, which is why the two appear in one chapter.
-
-[^8]: Augustine, *Confessions* VII.12 and *Enchiridion* 11, for evil as privation; *City of God* XII.6–7
+[^10]: Augustine, *Confessions* VII.12 and *Enchiridion* 11, for evil as privation; *City of God* XII.6–7
 for the will's defection as deficient rather than efficient causation. The census entry's objection —
 that privation cannot render competence — is not new to this book and the tradition has answers to it;
 what is claimed here is that the answers all require converting the metaphysical scalar into a
 psychological one at exactly the point of use, which is the boundary the entry names.
-
-[^9]: The phrase *beyond good and evil* is Nietzsche's and is used here against its author's sense.
-His overman is beyond the moral polarity by having outgrown a table of values; the being described
-here is beyond it by having lost the axis on which any table could be plotted. The two conditions are
-opposite in every respect except the words available to name them, which is why the sentence in the
-text says *not the overman but the corpse* rather than borrowing the phrase quietly.
-
-[^10]: That the focusing can be care is argued next chapter. The distinction between the focusing and contraction is made here
-rather than there, because this is the chapter where the second word first does ethical work, and a
-term that has done a whole chapter's work is harder to unweld than one that has not.

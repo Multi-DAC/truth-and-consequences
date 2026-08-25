@@ -544,7 +544,7 @@ an argument defect.
 
 ## G — ENDNOTE MARKER ORDER: ONE CLASS, ELEVEN SITES
 
-- [ ] **R2-072** · **11 of 63 units with endnotes print their markers out of sequence — 17.5%.**
+- [x] **R2-072** · **11 of 63 units with endnotes print their markers out of sequence — 17.5%.**
       Cause found at III.8 and correct: `compile_pdf.py` uses Python-Markdown's footnotes extension,
       which numbers by **definition** order, not appearance order. Repair per chapter is mechanical:
       swap the `[^n]:` definitions and the body markers to match reading order. No prose changes.
@@ -556,20 +556,40 @@ an argument defect.
       adjudicated set as a control, so the next disagreement is loud instead of inherited.
       ⚠ **And "VIII.7 is the cheapest to fix" was a superlative over a tie.** Four chapters sit at
       one inversion: III.8, IV.6, VII.6, VIII.7.
-      - [ ] `III-08` — `1·2·4·3`, 1 inversion; in print note 4 lands two pages before note 3
-      - [ ] `IV-06` — `2·1·3·4`, 1
-      - [ ] `VII-06` — `1·2·3·4·5·7·6`, 1
-      - [ ] `VIII-07` — `1·2·3·5·4`, 1
-      - [ ] `V-10` — `…9·11·12·10·13…19·21·20·22`, 3 across 22 notes
-      - [ ] `V-08` — `2·3·4·5·1·…`, 4 across 17 notes
-      - [ ] `VI-06` — `1·2·3·8·4·5·6·7`, 4; confirmed in print over pp.680–690
-      - [ ] `VII-03` — `1·2·3·4·5·11·6·7·8·9·10`, 5; note 11 is the falsifier note, cited mid-chapter
-      - [ ] `VII-05` — `1·2·4·7·5·6·3`, 6
-      - [ ] `VIII-03` — `1·8·2·3·4·7·5·6`, 8; see **R2-050**, the disclosure understates it fourfold
-      - [ ] `VII-04` — `3·2·9·10·7·4·5·1·6·8`, **21**, the whole-volume worst
+      - [x] `III-08` — `1·2·4·3`, 1 inversion; in print note 4 lands two pages before note 3
+      - [x] `IV-06` — `2·1·3·4`, 1
+      - [x] `VII-06` — `1·2·3·4·5·7·6`, 1
+      - [x] `VIII-07` — `1·2·3·5·4`, 1
+      - [x] `V-10` — `…9·11·12·10·13…19·21·20·22`, 3 across 22 notes
+      - [x] `V-08` — `2·3·4·5·1·…`, 4 across 17 notes
+      - [x] `VI-06` — `1·2·3·8·4·5·6·7`, 4; confirmed in print over pp.680–690
+      - [x] `VII-03` — `1·2·3·4·5·11·6·7·8·9·10`, 5; note 11 is the falsifier note, cited mid-chapter
+      - [x] `VII-05` — `1·2·4·7·5·6·3`, 6
+      - [x] `VIII-03` — `1·8·2·3·4·7·5·6`, 8; see **R2-050**, the disclosure understates it fourfold
+      - [x] `VII-04` — `3·2·9·10·7·4·5·1·6·8`, **21**, the whole-volume worst
+      **PAID D205 / 2026-08-24 — all eleven in one pass by `tools/endnote_resequence.py --apply`,
+      89 notes, 46 renumbered; `endnote_order.py` now reads 63 of 63 in order.** Written as a tool and
+      not as eleven edits because VII.4 alone is a ten-note resequence, and eleven hand-swaps is how
+      ten land and the eleventh reads as finished.
+      ⛔ **"No prose changes" above was wrong, and the gauge could not have told me.** `endnote_order.py`
+      measures BODY PROSE ONLY — everything above the first `[^n]:` line — which is correct for
+      measuring and blind for repairing. IV.6 and VI.6 close with an unnumbered *On the grade of the
+      sources above* footer that sits AFTER the last definition and cites notes by number (*"[^1] is
+      two-digitisation-grade"*, *"Liu et al. [^8]"*). A renumber that ignored those would have left the
+      gauge green while pointing a reader at the wrong source, and a naive tail-sort would have filed
+      the footer into the middle of the notes. Both are handled and both are asserted, not reported.
+      ⚠ **VIII.3 also disclosed its own disorder in prose** and that disclosure went false the moment
+      the repair landed. Rewritten past-tense — and the receipt it was told it could not have,
+      *"cannot have its own note without renumbering"*, now has one: the constraint the note recorded
+      was lifted by the pass, so the note was split and the Ignatius receipt sits at the schedule claim.
+      ⚠ **The control in `endnote_order.py` inverted on success.** "Reproduces the adjudicated set
+      exactly" is a passing control before the repair and a permanent false alarm after it — it fired
+      the instant the book was correct. Rebuilt as a REGRESSION control (nothing repaired comes back,
+      nothing unadjudicated appears) plus a synthetic positive case, because zero out-of-order chapters
+      is also exactly what a silently-broken parser reads.
       `✓` cmd:python tools/endnote_order.py
 
-- [ ] **R2-073** · `V-07` — a related but different finding, kept separate so it is not folded into
+- [x] **R2-073** · `V-07` — a related but different finding, kept separate so it is not folded into
       the twelve. V.7's Notes **headnote** cites `[^1] [^2] [^3] [^5] [^10] [^14]` while discussing
       the apparatus, and `[^1]` is cited **nowhere in V.7's body prose** — its only pointer is
       inside the note block it belongs to. The reader meets note 1 only in a sentence about the
@@ -577,6 +597,16 @@ an argument defect.
       ⚠ Recorded because the same gauge run with a sloppier boundary returned **13** and would have
       handed Clayton a corrected count that was itself wrong. **The correction of a superlative is
       where a second error is cheapest to introduce.**
+      ⛔ **WITHDRAWN D205 — THE PREMISE IS FALSE. `[^1]` IS cited in V.7's body prose**, on the
+      chapter's seventh line, as the first note reference in the chapter: *"a roster assembled to make
+      one point[^1]: that instruments sharing nothing but a target return convergent readings."* Two
+      instruments agree — `note_binding.py` reports 0 orphans volume-wide with its synthetic control
+      detecting a planted one, and `endnote_resequence.py` refuses any chapter with an uncited note and
+      passed V-07 clean. I do not know how the read produced this row; what I can say is that it was
+      hand-made and never run against `note_binding.py`, which was already in the repo and already
+      green. ⚠ **The row warns in its own last line that "the correction of a superlative is where a
+      second error is cheapest to introduce" — and is one.** The satisfaction condition below,
+      *note 1 given a body pointer*, was already met by the text when the row was written.
       `✓` manual:V-07 note 1 given a body pointer or folded
 
 ---

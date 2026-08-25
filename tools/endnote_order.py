@@ -48,6 +48,42 @@ D204 = {"III-08", "IV-06", "V-08", "V-10", "VI-06",
         "VII-03", "VII-04", "VII-05", "VII-06", "VIII-03", "VIII-07"}
 
 
+# Repaired on Day 205 / 2026-08-24 by `tools/endnote_resequence.py --apply`, all eleven in one pass,
+# 63 of 63 chapters in order afterwards. The set above is kept as HISTORY, not as an expected answer:
+# once the defect is paid, "reproduces the adjudicated set" inverts from a passing control into a
+# permanent false alarm. What the control checks now is that none of these comes BACK, and that
+# nothing outside the read shows up unadjudicated.
+REPAIRED = set(D204)
+
+
+def self_test():
+    """A positive control, because after the repair no live chapter exercises the detector.
+
+    Zero out-of-order chapters is exactly the reading a silently-broken parser gives. So construct a
+    chapter whose answer is known by hand — body 1·2·4·3 against definitions 1,2,3,4 — and require
+    the tool to find it. Also require a clean one to read clean, or a detector that simply always
+    fires would pass.
+    """
+    bad = ("prose [^1] more [^2] more [^4] more [^3]\n\n"
+           "[^1]: a\n[^2]: b\n[^3]: c\n[^4]: d\n")
+    good = ("prose [^1] more [^2] more [^3] more [^4]\n\n"
+            "[^1]: a\n[^2]: b\n[^3]: c\n[^4]: d\n")
+    import tempfile
+    with tempfile.TemporaryDirectory() as d:
+        pb, pg = Path(d) / "bad.md", Path(d) / "good.md"
+        pb.write_text(bad, encoding="utf-8")
+        pg.write_text(good, encoding="utf-8")
+        sb, ib, nb, ub = analyse(pb)
+        sg, ig, ng, ug = analyse(pg)
+    if (sb, ib) != ([1, 2, 4, 3], 1):
+        return False, f"synthetic 1·2·4·3 read as {sb} / {ib} inversion(s) — the detector is wrong"
+    if ig != 0:
+        return False, f"synthetic in-order chapter reported {ig} inversion(s) — fires on everything"
+    if ub or nb != 4:
+        return False, f"synthetic chapter mis-parsed: {nb} notes, uncited {ub}"
+    return True, "detects a hand-made 1·2·4·3 (1 inversion) and passes a hand-made 1·2·3·4"
+
+
 def inversions(seq):
     return sum(1 for i in range(len(seq)) for j in range(i + 1, len(seq)) if seq[i] > seq[j])
 
@@ -94,18 +130,29 @@ def main():
             print(f"            ⚠ never cited in body prose: {', '.join(uncited)}")
 
     found = {u for u, *_ in rows}
-    missing = D204 - found
-    extra = found - D204
+    regressed = found & REPAIRED
+    novel = found - D204
+    outstanding = found & (D204 - REPAIRED)
     print()
-    if missing or extra:
-        print("  ⛔ CONTROL DISAGREES WITH THE DAY-204 READ — one of the two is wrong.")
-        if missing:
-            print(f"     named in the read, not found here: {', '.join(sorted(missing))}")
-        if extra:
-            print(f"     found here, not named in the read: {', '.join(sorted(extra))}")
-    else:
-        print(f"  ✅ control: reproduces the adjudicated set exactly, "
-              f"{len(found)} of {len(D204)}, no extras.")
+    if regressed:
+        print(f"  ⛔ REGRESSION — repaired on Day 205 and out of order again: "
+              f"{', '.join(sorted(regressed))}")
+    if novel:
+        print(f"  ⚠ NEVER ADJUDICATED — not in the Day-204 read: {', '.join(sorted(novel))}."
+              "\n     Spot-check in print before trusting; this tool reads markdown, not the PDF.")
+    if outstanding:
+        print(f"  · still owed from the Day-204 read: {', '.join(sorted(outstanding))}")
+    if not rows:
+        print(f"  ✅ every chapter in order. The Day-204 set of {len(D204)} was repaired on Day 205 "
+              f"by tools/endnote_resequence.py.")
+        print("     ⚠ THIS GREEN IS WEAKER THAN THE ONE IT REPLACED. With no chapter out of order,")
+        print("     no live data exercises the detector, so the synthetic case below is what is")
+        print("     keeping this honest — a control on the tool, not on the book.")
+
+    ok, why = self_test()
+    print(f"  {'✅' if ok else '⛔'} positive control: {why}")
+    if not ok:
+        sys.exit(2)
 
     if rows:
         worst = max(rows, key=lambda r: r[2])

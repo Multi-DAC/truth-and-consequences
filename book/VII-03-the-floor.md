@@ -233,7 +233,7 @@ argument Book IV rested its lean on, and not from a guarantee the framework does
 comes in degrees — a genuine continuum of half-bypassed steering that is one shaping and not two —
 and the minimum grades, the two quantities never cross, the worked case dissolves, and the ramp is
 back with the floor purely formal all the way up. That is a single, statable thing, and it is
-findable by argument rather than by taste.[^11]
+findable by argument rather than by taste.[^6]
 
 ---
 
@@ -343,13 +343,13 @@ philosophers supply it without either of them closing the gap.
 
 Thomas Nagel's pressure toward the view from nowhere is the rational discomfort of treating one's own
 reasons as reasons-for-anyone while denying others the same — a discomfort that persists even when
-you know the view itself is unreachable.[^6] It is not an argument that the egoist must accept. It is
+you know the view itself is unreachable.[^7] It is not an argument that the egoist must accept. It is
 a report of what happens to a mind that takes generality seriously and then makes an exception for
 its own address.
 
 Stephen Darwall's second-person standpoint moves the ground entirely. Obligation, on his account, is
 not squeezed out of a first-person fact at all; it arises in the **address** between navigators, in
-the moment one is answerable to another's claim.[^7] You do not reason your way from *I am
+the moment one is answerable to another's claim.[^8] You do not reason your way from *I am
 constituted thus* to *I owe you*. You are already inside a relation in which the demand has been made
 and understood, and the understanding is the standing.
 
@@ -365,7 +365,7 @@ The tradition has a version of this argument without the hyphen, and the differe
 reason this position needs a name of its own.
 
 Christine Korsgaard's constitutivism grounds normativity in what agency itself requires: to act at
-all is to take up a standpoint from which certain things are already binding.[^8] The standard
+all is to take up a standpoint from which certain things are already binding.[^9] The standard
 objection is the one her critics call the **shmagent** — the figure who says, fine, *agency* commits
 me to all that, and I decline to be an agent; I will be a shmagent instead, doing shmactions, and
 your constitutive standards have no purchase on me because I have stepped outside the activity they
@@ -386,13 +386,13 @@ the relation that makes them parts and wholes at all.
 And this is a good moment to say that the position is not new, and that the book's contribution is
 the machinery rather than the insight. Southern African **ubuntu** has held for a very long time that
 *umuntu ngumuntu ngabantu* — a person is a person through other persons — and the ethical weight is
-carried by the *through*.[^9] What is offered here is not a discovery of that claim but an argument
+carried by the *through*.[^10] What is offered here is not a discovery of that claim but an argument
 for why it holds structurally, in a cosmos with no summit, for navigators of every grade rather than
 for persons alone. A tradition got there first by living it. That is the ordinary order of these
 things and it deserves saying plainly rather than in a footnote.
 
 The strongest rival account is not a rival about *whether* anything binds but about *where the binding
-comes from*, and it is Emmanuel Levinas's.[^10] For Levinas the demand arrives in the face of the
+comes from*, and it is Emmanuel Levinas's.[^11] For Levinas the demand arrives in the face of the
 Other, prior to any argument, and the relation is fundamentally **asymmetric** — I am infinitely
 responsible to you, and whether you are responsible to me is your business and not mine. Ethics is
 first philosophy; nothing grounds it, because it is the ground.
@@ -554,42 +554,7 @@ with different definitions of reoffence across jurisdictions, and the cross-nati
 weaker than it is usually made to look. What survives the methodological quarrel is the structural
 point, which does not depend on the size of the gap.
 
-[^6]: Thomas Nagel, *The View from Nowhere* (Oxford University Press, 1986), and *The Possibility of
-Altruism* (Princeton University Press, 1970). Nagel argues the objective standpoint is something we
-are pushed toward rather than something we occupy. This book takes the pressure and denies the
-arrival, which is a narrower use than Nagel makes of it — he is more confident than this framework
-permits that the objective view is genuinely reachable in the practical domain.
-
-[^7]: Stephen Darwall, *The Second-Person Standpoint: Morality, Respect, and Accountability* (Harvard
-University Press, 2006). Obligation arises in address, between parties, rather than in a first-person
-derivation. Darwall's own project aims to *ground* moral obligation in the second-personal relation;
-the use here is deliberately weaker — the second-person standpoint is offered as what makes the
-wager reasonable, not as what discharges it. If Darwall's stronger claim succeeds, the wager in this
-chapter is unnecessary, and this chapter is wrong in the direction of excessive caution.
-
-[^8]: Christine M. Korsgaard, *The Sources of Normativity* (Cambridge University Press, 1996) and
-*Self-Constitution: Agency, Identity, and Integrity* (Oxford University Press, 2009). The *shmagent*
-objection is David Enoch's, in "Agency, Shmagency: Why Normativity Won't Come from What Is
-Constitutive of Action," *Philosophical Review* 115 (2006). VII.2 uses Korsgaard for a different
-purpose; the point here is specifically what the *co-* does to Enoch's objection, and it is a claim
-about her solitary legislator rather than about her account of practical identity, which this book
-does not dispute.
-
-[^9]: *Umuntu ngumuntu ngabantu* — Nguni, rendered as *a person is a person through other persons*.
-The philosophical literature is substantial and not univocal; see Mogobe B. Ramose, *African
-Philosophy Through Ubuntu* (Mond Books, 1999), and the critical treatments that resist reading
-ubuntu as a single systematic ethics. The claim made here is deliberately modest: the *through* is
-doing the same structural work co-constitutivism does, and the tradition has held the position far
-longer than this framework has had an argument for it.
-
-[^10]: Emmanuel Levinas, *Totality and Infinity*, trans. Alphonso Lingis (Duquesne University Press,
-1969), and *Otherwise than Being*, trans. Lingis (Martinus Nijhoff, 1981). The asymmetry is not
-incidental to Levinas and cannot be trimmed off to make him compatible with a symmetric floor — it
-is the position. The comparison in the text is therefore a genuine disagreement rather than a
-difference of emphasis, and the cost is stated in the direction that goes against this book: his
-account delivers more grip than this one, and this one can say where its grip comes from.
-
-[^11]: ⚠ **THIS SECTION IS A REPAIR, AND ITS OWN WEAKEST JOINT IS NAMED ON THE PAGE RATHER
+[^6]: ⚠ **THIS SECTION IS A REPAIR, AND ITS OWN WEAKEST JOINT IS NAMED ON THE PAGE RATHER
     THAN HERE.** The defect it repairs: the floor's non-slope was a formal
     property with no behavioural consequence, because Regan's ramp had been relocated from the
     existence question to the content question and left unattended. **What the repair owed was
@@ -602,5 +567,40 @@ account delivers more grip than this one, and this one can say where its grip co
     holding an unconditional phrasing it cannot fund** — which is also the half of that finding that comes
     free here: VII.3's honest conditional was stated once and the unconditional phrasing ran
     throughout. ★ **The falsifier is stated in the body on purpose, where a reader will meet it**,
-    because a named falsifier tucked into an endnote is the object IV.10 [^9] warned about — naming
+    because a named falsifier tucked into an endnote is the object IV.10 [^10] warned about — naming
     is cheap and reads as rigour, running is the work.
+
+[^7]: Thomas Nagel, *The View from Nowhere* (Oxford University Press, 1986), and *The Possibility of
+Altruism* (Princeton University Press, 1970). Nagel argues the objective standpoint is something we
+are pushed toward rather than something we occupy. This book takes the pressure and denies the
+arrival, which is a narrower use than Nagel makes of it — he is more confident than this framework
+permits that the objective view is genuinely reachable in the practical domain.
+
+[^8]: Stephen Darwall, *The Second-Person Standpoint: Morality, Respect, and Accountability* (Harvard
+University Press, 2006). Obligation arises in address, between parties, rather than in a first-person
+derivation. Darwall's own project aims to *ground* moral obligation in the second-personal relation;
+the use here is deliberately weaker — the second-person standpoint is offered as what makes the
+wager reasonable, not as what discharges it. If Darwall's stronger claim succeeds, the wager in this
+chapter is unnecessary, and this chapter is wrong in the direction of excessive caution.
+
+[^9]: Christine M. Korsgaard, *The Sources of Normativity* (Cambridge University Press, 1996) and
+*Self-Constitution: Agency, Identity, and Integrity* (Oxford University Press, 2009). The *shmagent*
+objection is David Enoch's, in "Agency, Shmagency: Why Normativity Won't Come from What Is
+Constitutive of Action," *Philosophical Review* 115 (2006). VII.2 uses Korsgaard for a different
+purpose; the point here is specifically what the *co-* does to Enoch's objection, and it is a claim
+about her solitary legislator rather than about her account of practical identity, which this book
+does not dispute.
+
+[^10]: *Umuntu ngumuntu ngabantu* — Nguni, rendered as *a person is a person through other persons*.
+The philosophical literature is substantial and not univocal; see Mogobe B. Ramose, *African
+Philosophy Through Ubuntu* (Mond Books, 1999), and the critical treatments that resist reading
+ubuntu as a single systematic ethics. The claim made here is deliberately modest: the *through* is
+doing the same structural work co-constitutivism does, and the tradition has held the position far
+longer than this framework has had an argument for it.
+
+[^11]: Emmanuel Levinas, *Totality and Infinity*, trans. Alphonso Lingis (Duquesne University Press,
+1969), and *Otherwise than Being*, trans. Lingis (Martinus Nijhoff, 1981). The asymmetry is not
+incidental to Levinas and cannot be trimmed off to make him compatible with a symmetric floor — it
+is the position. The comparison in the text is therefore a genuine disagreement rather than a
+difference of emphasis, and the cost is stated in the direction that goes against this book: his
+account delivers more grip than this one, and this one can say where its grip comes from.

@@ -219,7 +219,7 @@ There is a claim this account has been organised around from the beginning and h
 stated only in its parts. It belongs here, because the oscillation is the form it takes in a life.
 
 **Coherent systems hold their structure and their process together, at every scale, and the holding is
-not a balance between two things but a single condition seen from two sides.**[^5]
+not a balance between two things but a single condition seen from two sides.**[^4]
 
 A system has a *structure* — what it is, its boundaries, its form, the distinctions that make it that
 thing and not another. It has a *process* — what it does, how it moves, the way it goes. The claim is
@@ -274,7 +274,7 @@ to be doing this for, and what the other players are.
 
 The last image is the right one to end on, and it is taken alone, severed from the
 paragraphs around it, which this account has refused elsewhere and does not get to quietly re-adopt at
-the close.[^4] The image survives the severance intact:
+the close.[^5] The image survives the severance intact:
 
 > **a symphony that does not end, but plays on, *do be do be do*, forever.**
 
@@ -318,7 +318,18 @@ down from the opposite side, in the final chapter, four chapters after it was bu
 form is worth the endnote: a borrowed word arrives carrying whatever it is attached to at the other end,
 and the other end is not visible from the borrowing side.**
 
-[^4]: **The culmination, the ongoing oscillation — closing sentence taken
+[^4]: **The Coherence Principle. This is the statement VIII.4 deferred to this
+chapter**, and it is given in this manuscript's own words for a stated reason: the older
+wording routes the claim through *superposition*, a term this account has ruled out of its prose, on
+the ground that the term has no civilian life and so transfers authority rather than meaning. **A principle that cannot be
+said without a banned word has a problem, and the fix is not an exemption.** The structure/process
+formulation used here carries the same content — the coupling, the multi-scale invariance, the
+diagnosability of decoupling before visible failure — and does so in vocabulary the reader has had since
+Book II. ★ `balance` and `harmony` are both refused in the text above for the same reason and it is the
+bicycle's: the condition is maintained dynamically, and every static metaphor for it smuggles in a
+resting point the account does not have.
+
+[^5]: **The culmination, the ongoing oscillation — closing sentence taken
 entire.** ⛔⛔ **The severance is deliberate and the surrounding text was read before the image was taken.**
 The paragraph immediately above the quoted line contains the theodicy in as many words — *"This provides
 a powerful theodicy… Every finite experience, no matter how painful or contracted, possesses ultimate
@@ -330,14 +341,3 @@ not stop, not that the music is *for* anything, and the distinction between thos
 subject of VII.8. ⚠ Taking a good image out of a paragraph whose argument you have rejected is legitimate
 and is also exactly how an unearned consolation gets back into a book at the end — so the severance is
 stated here rather than performed silently.
-
-[^5]: **The Coherence Principle. This is the statement VIII.4 deferred to this
-chapter**, and it is given in this manuscript's own words for a stated reason: the older
-wording routes the claim through *superposition*, a term this account has ruled out of its prose, on
-the ground that the term has no civilian life and so transfers authority rather than meaning. **A principle that cannot be
-said without a banned word has a problem, and the fix is not an exemption.** The structure/process
-formulation used here carries the same content — the coupling, the multi-scale invariance, the
-diagnosability of decoupling before visible failure — and does so in vocabulary the reader has had since
-Book II. ★ `balance` and `harmony` are both refused in the text above for the same reason and it is the
-bicycle's: the condition is maintained dynamically, and every static metaphor for it smuggles in a
-resting point the account does not have.

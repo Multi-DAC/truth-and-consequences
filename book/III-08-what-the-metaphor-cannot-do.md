@@ -114,7 +114,7 @@ exist. It is close to being the definition, and the man who made it one was **Jo
 > sphere of activity with a disposition all of its own.
 
 > All play moves and has its being within a play-ground marked off beforehand either materially or
-> ideally, deliberately or as a matter of course.[^4]
+> ideally, deliberately or as a matter of course.[^3]
 
 He is right about every instance he had. The chess board has an edge, the pitch has a line painted
 round it, the ritual has a threshold you cross to enter, and inside that **bounded space** the rules
@@ -147,7 +147,7 @@ Black saw it, one page after the passage everyone quotes, and put it in a subord
 > …the vocabulary of chess has its primary uses in a highly artificial setting, where all expression
 > of feeling is formally excluded: to describe a battle as if it were a game of chess is accordingly
 > to exclude, by the choice of language, all the more emotionally disturbing aspects of warfare.
-> (Similar by-products are not rare in philosophical uses of metaphor.)[^3]
+> (Similar by-products are not rare in philosophical uses of metaphor.)[^4]
 
 Read the mechanism in that: *by the choice of language*. Not by anything asserted. The game register
 excludes feeling the way a room excludes weather — not by ruling on it, by being indoors. Nobody
@@ -264,7 +264,16 @@ brings forward aspects of the battle that might not be seen at all through anoth
 the continuation strengthens the body's point rather than qualifying it, which is stated here
 because a reader is entitled to know which direction a cut runs.
 
-[^3]: Black, "Metaphor," pp. 289–290, in the discussion of the shifts in attitude that follow from
+[^3]: Johan Huizinga, *Homo Ludens*, first published in Dutch (Haarlem: Tjeenk Willink, 1938); both
+passages are from ch. 1, "Nature and Significance of Play as a Cultural Phenomenon," in the standard
+English translation. Verified word for word against that text. ⚠ In the original, the first
+quotation is a subordinate clause — *"…that play is not 'ordinary' or 'real' life"* — and is
+capitalised above as a freestanding sentence; nothing turns on it, and it is noted because the
+chapter's whole subject is what a quotation carries that its author did not put there. The body's
+claim that Huizinga *made* boundedness definitional is a claim about the book's influence, not
+about a sentence in it.
+
+[^4]: Black, "Metaphor," pp. 289–290, in the discussion of the shifts in attitude that follow from
 metaphorical language. ⚠ **The body used to say this passage stood *one page before* the chess
 passage; it is one page after, and the correction was made by looking.** The order matters to the
 body's argument — Black states the hazard and then, a page on, notices the harder half in a
@@ -273,12 +282,3 @@ rather than resolved: the 1954–55 printing consulted here reads *bye-products*
 prints the modern *by-products*, which is the form the 1962 reprint is generally quoted with. The
 reprint has not been opened for this note, so which spelling belongs to which printing is stated as
 an open question and not as a fact.
-
-[^4]: Johan Huizinga, *Homo Ludens*, first published in Dutch (Haarlem: Tjeenk Willink, 1938); both
-passages are from ch. 1, "Nature and Significance of Play as a Cultural Phenomenon," in the standard
-English translation. Verified word for word against that text. ⚠ In the original, the first
-quotation is a subordinate clause — *"…that play is not 'ordinary' or 'real' life"* — and is
-capitalised above as a freestanding sentence; nothing turns on it, and it is noted because the
-chapter's whole subject is what a quotation carries that its author did not put there. The body's
-claim that Huizinga *made* boundedness definitional is a claim about the book's influence, not
-about a sentence in it.

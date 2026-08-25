@@ -168,7 +168,7 @@ sufferer performed and could in principle stop performing. A crushing, done from
 apparatus by which a stopping could be chosen. The focusing is not tightened by it. It is shut.
 
 **So the floor is this, stated once and without qualification: not all suffering discloses, and not
-all suffering can be navigated through. Some suffering annihilates the navigator.**[^4] No clause in this
+all suffering can be navigated through. Some suffering annihilates the navigator.**[^3] No clause in this
 book overrides that sentence. Not the plenum, not the completeness of configuration space, not the
 oscillation, not the account of meaning that arrives three chapters from now. If any of them appears
 to, the appearance is a mistake in the reading or a mistake in the writing, and this sentence is the
@@ -186,7 +186,7 @@ Everything above raises a question about permissions that this book has been cir
 and now has to state as a rule, because from here to the end of the work it is the rule that does the
 most restraining.
 
-**A truth is not an answer unless it is true at the altitude the question was asked from.**[^7]
+**A truth is not an answer unless it is true at the altitude the question was asked from.**[^4]
 
 The propositions in this book are, as far as I can argue them, true. They are true about the
 structure of things — about grounds, plenums, positions, the completeness of what is realizable. That
@@ -345,7 +345,7 @@ attention is the moral act, and its difficulty is the difficulty of getting the 
 long enough to see something that is not the self. She called that unselfing, and she thought — I
 think rightly — that most moral failure is not a failure of will at the moment of choice but a failure
 of attention long beforehand, such that by the time the choice arrives the person is choosing between
-options a poorer looking has already generated.[^3] Weil is upstream of her and put it more starkly: the
+options a poorer looking has already generated.[^7] Weil is upstream of her and put it more starkly: the
 capacity to give one's attention to a sufferer is rare to the point of being nearly miraculous, and
 almost everyone who believes they possess it does not.
 
@@ -398,17 +398,18 @@ the attention material is stated in my words rather than quoted for exactly that
 first appearance of Weil in the manuscript and the endnote retrofit owes her a primary check before
 publication. Recorded rather than hidden.
 
-[^3]: Iris Murdoch, *The Sovereignty of Good* (1970), for attention as the moral act and for unselfing.
-Nominated by outside review and routed nowhere until this chapter; landing her here discharges the
-attention half of that routing, with Weil.
-
-[^4]: Suffering as disclosure — the middle territory between ordinary suffering and affliction — is
+[^3]: Suffering as disclosure — the middle territory between ordinary suffering and affliction — is
 Heidegger's, via the analysis of *Angst* in *Being and Time* (1927): anxiety directed at no particular
 object strips the everyday coverings from a position and discloses its contingency. ⚠ **He is named
 here for the first time in the manuscript, and the chapter that most owed him was the one on death,
 which shipped without him.** The disclosure account is used in this chapter only to mark the territory
 the two-arrow card is reliable over; the chapter does not develop it, and VII.1's debt is filed rather
 than paid here.
+
+[^4]: The altitude rule is stated canonically here. It has been operative since Book I — it is what
+bars the sustained metaphor from this chapter and from VII.1, and it is behind the ban on consolation
+— but it had no statement anywhere in the work until this paragraph, which is why the statement is in
+the body and not in a note.
 
 [^5]: Established here. The quoted theodicy is from the framework source's own culminating
 section, and the refusal is of our own text rather than of an opponent's — which is why it is quoted
@@ -421,7 +422,6 @@ focusing / contraction distinction. The standing rule — write a claim where it
 is answered here on the merits: the hard case is the site where the claim is a claim rather
 than a reassurance, and the easy illustration is already in print one chapter back.
 
-[^7]: The altitude rule is stated canonically here. It has been operative since Book I — it is what
-bars the sustained metaphor from this chapter and from VII.1, and it is behind the ban on consolation
-— but it had no statement anywhere in the work until this paragraph, which is why the statement is in
-the body and not in a note.
+[^7]: Iris Murdoch, *The Sovereignty of Good* (1970), for attention as the moral act and for unselfing.
+Nominated by outside review and routed nowhere until this chapter; landing her here discharges the
+attention half of that routing, with Weil.

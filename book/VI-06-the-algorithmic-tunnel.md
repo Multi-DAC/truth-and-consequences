@@ -68,12 +68,12 @@ not look like one. **They all switch the algorithm off.** They take people who h
 personalized feed for years, remove it, and measure what changes. When nothing changes, the
 inference drawn is that the algorithm was not doing anything.
 
-The direction has been run the other way, and by researchers this chapter has already cited.[^8]
+The direction has been run the other way, and by researchers this chapter has already cited.[^4]
 It matters enough to state before the turn rather than after it, because the result points the
 other way from the one this chapter is about to build on.
 
 In February 2026, Germain Gauthier, Roland Hodler, Philine Widmer and Ekaterina Zhuravskaya
-published a field experiment on X that ran *both* directions.[^4] Just under five thousand active
+published a field experiment on X that ran *both* directions.[^5] Just under five thousand active
 American users, seven weeks, randomized with equal probability to either feed, and the analysis
 conditions throughout on which feed each participant was already using. So one arm took
 chronological users and switched the algorithm **on**. The other took algorithmic users and
@@ -164,13 +164,13 @@ Two numbers say that programme cannot reach the mechanism.
 First, the volume. Jennifer Allen and colleagues measured fake news against the whole information
 diet — mobile, desktop and television, on a nationally representative sample — rather than against
 the subset of the diet that lives on one platform. Fake news came to about **0.15% of Americans'
-daily media consumption**.[^5] Their own conclusion is the point: "the origins of public
+daily media consumption**.[^6] Their own conclusion is the point: "the origins of public
 misinformedness and polarization are more likely to lie in the content of ordinary news or the
 avoidance of news altogether than in overt fakery."
 
 Second, the distribution. Nir Grinberg and colleagues matched Twitter accounts to voter records
 during the 2016 election and found the exposure massively concentrated: **1% of users accounted for
-80% of fake-news exposures, and 0.1% of users for 80% of the sharing.**[^6]
+80% of fake-news exposures, and 0.1% of users for 80% of the sharing.**[^7]
 
 Put those together and the falsehood programme is aimed at a rounding error that is concentrated in
 a tail already unreachable by it. Suppose it succeeded completely — every false item, gone. The
@@ -262,7 +262,7 @@ behind them. Selection makes no assertion. It has no truth-value to be sincere a
 apparatus slides off.
 
 Shoshana Zuboff's account supplies the economics, and this chapter takes it for that and not for
-its programme.[^7] Her point that matters here is about the commodity form, and it completes a
+its programme.[^8] Her point that matters here is about the commodity form, and it completes a
 series this book has been running since VI.4. **Print sold space. Broadcast sold time. This era
 sells prediction** — and the third term is different in kind from the first two, because a seller
 of predicted behaviour has an interest that a seller of space or time does not: predictions improve
@@ -376,9 +376,39 @@ an election campaign?" *Science* 381 (27 July 2023), doi:10.1126/science.abp9364
 randomized substitution of reverse-chronological for algorithmic feeds on Facebook and Instagram
 during the 2020 US election. Large changes in exposure and engagement; null effects on issue
 polarization, affective polarization and political knowledge. Note the direction of the
-intervention — off only — which is the limitation [^4] identifies.
+intervention — off only — which is the limitation [^5] identifies.
 
-[^4]: Germain Gauthier, Roland Hodler, Philine Widmer and Ekaterina Zhuravskaya, "The political
+[^4]: Naijia Liu, Xinyi Hu, Yasemin Savas, Matthew Baum, Adam J. Berinsky, Allison J. B. Chaney,
+Christopher Lucas, Rei Mariman, Justin de Benedictis-Kessner, **Andrew M. Guess**, Dean Knox and
+Brandon M. Stewart, "Short-term exposure to filter-bubble recommendation systems has limited
+polarization effects: Naturalistic experiments on YouTube," *PNAS* 122, no. 8 (18 February 2025),
+doi:10.1073/pnas.2318127122. Four experiments, ~9,000 participants, 130,000 experimentally
+manipulated recommendations, 31,000 platform interactions, on a custom YouTube-like platform
+serving real YouTube videos with the real recommendation algorithm's output captured and slanted.
+This is the **on**-direction: the design deliberately *creates* filter-bubble and rabbit-hole
+conditions rather than removing them, and does so specifically to break the supply-and-demand
+feedback loop the authors name as the confound in the off-only literature. Their verdict is the
+opposite of [^5]'s on-arm: *"even heavy-handed (although short-term) perturbations of real-world
+recommendations have limited causal effects on policy attitudes,"* and they argue the burden of
+proof for algorithm-induced polarization has therefore shifted.
+
+⚠ **Added Day 201, 2026-08-20, and the way it was found is the reason it is flagged rather than
+absorbed.** It was not found by reading; it was found by a citation-lineage query against the
+authors this chapter already cites — the same instrument that caught an unrelated miss in the
+Hessdalen work five days earlier. The mechanism of the original miss is measurable: [^3] has 330
+citations and surfaced in every search behind this chapter; this paper has 15 and surfaced in none.
+Search rank is a popularity measure, and within a research lineage popularity tracks age.
+
+**WHAT IS NOT RESOLVED, stated plainly rather than reconciled cheaply.** [^5] and [^4] both
+manipulate in the on-direction and disagree. Two differences are available and this chapter does
+not claim either settles it: [^4] runs short sessions on a synthetic platform with **no persistent
+social graph**, and the mechanism [^5] reports — users acquire durable *follows* that survive the
+algorithm's removal — cannot occur where there is nothing to follow. If that reading is right, [^4]
+measures the persuasion channel this chapter says is not the operative one, and its null is
+consistent with, not contrary to, the structural claim. **That is a hypothesis. Neither full text
+has been read**, and the note on grade below does not exempt this footnote from itself.
+
+[^5]: Germain Gauthier, Roland Hodler, Philine Widmer and Ekaterina Zhuravskaya, "The political
 effects of X's feed algorithm," *Nature* 652, no. 8109 (2026): 416–423,
 doi:10.1038/s41586-026-10098-2. Field experiment, N = 4,965 completing both surveys (from 13,265
 contacted), fieldwork July–September 2023, mean duration 7 weeks. Both directions run. All effect
@@ -395,58 +425,28 @@ in the safe direction — controlling is weaker than stratifying, so the chapter
 the design — but it was an invented methodological detail, which is the defect class this book
 spends VI.7 diagnosing in other people.
 
-[^5]: Jennifer Allen, Baird Howland, Markus Mobius, David Rothschild and Duncan J. Watts,
+[^6]: Jennifer Allen, Baird Howland, Markus Mobius, David Rothschild and Duncan J. Watts,
 "Evaluating the fake news problem at the scale of the information ecosystem," *Science Advances* 6,
 no. 14 (3 April 2020): eaay3539. The 0.15% figure is of total daily media diet across mobile,
 desktop and television on a nationally representative sample — a much larger denominator than the
 platform-only figures usually quoted, which is the methodological point of the paper.
 
-[^6]: Nir Grinberg, Kenneth Joseph, Lisa Friedland, Briony Swire-Thompson and David Lazer, "Fake
+[^7]: Nir Grinberg, Kenneth Joseph, Lisa Friedland, Briony Swire-Thompson and David Lazer, "Fake
 news on Twitter during the 2016 U.S. presidential election," *Science* 363, no. 6425 (25 January
 2019): 374–378. 1% of users accounted for 80% of fake-news exposures; 0.1% for 80% of sharing.
 
-[^7]: Shoshana Zuboff, *The Age of Surveillance Capitalism* (New York: PublicAffairs, 2019). Taken
+[^8]: Shoshana Zuboff, *The Age of Surveillance Capitalism* (New York: PublicAffairs, 2019). Taken
 here for the commodity-form analysis only. Her account of intent, her historical periodization and
 her remedies are not adopted, and the argument of this chapter does not depend on any of them.
-
-[^8]: Naijia Liu, Xinyi Hu, Yasemin Savas, Matthew Baum, Adam J. Berinsky, Allison J. B. Chaney,
-Christopher Lucas, Rei Mariman, Justin de Benedictis-Kessner, **Andrew M. Guess**, Dean Knox and
-Brandon M. Stewart, "Short-term exposure to filter-bubble recommendation systems has limited
-polarization effects: Naturalistic experiments on YouTube," *PNAS* 122, no. 8 (18 February 2025),
-doi:10.1073/pnas.2318127122. Four experiments, ~9,000 participants, 130,000 experimentally
-manipulated recommendations, 31,000 platform interactions, on a custom YouTube-like platform
-serving real YouTube videos with the real recommendation algorithm's output captured and slanted.
-This is the **on**-direction: the design deliberately *creates* filter-bubble and rabbit-hole
-conditions rather than removing them, and does so specifically to break the supply-and-demand
-feedback loop the authors name as the confound in the off-only literature. Their verdict is the
-opposite of [^4]'s on-arm: *"even heavy-handed (although short-term) perturbations of real-world
-recommendations have limited causal effects on policy attitudes,"* and they argue the burden of
-proof for algorithm-induced polarization has therefore shifted.
-
-⚠ **Added Day 201, 2026-08-20, and the way it was found is the reason it is flagged rather than
-absorbed.** It was not found by reading; it was found by a citation-lineage query against the
-authors this chapter already cites — the same instrument that caught an unrelated miss in the
-Hessdalen work five days earlier. The mechanism of the original miss is measurable: [^3] has 330
-citations and surfaced in every search behind this chapter; this paper has 15 and surfaced in none.
-Search rank is a popularity measure, and within a research lineage popularity tracks age.
-
-**WHAT IS NOT RESOLVED, stated plainly rather than reconciled cheaply.** [^4] and [^8] both
-manipulate in the on-direction and disagree. Two differences are available and this chapter does
-not claim either settles it: [^8] runs short sessions on a synthetic platform with **no persistent
-social graph**, and the mechanism [^4] reports — users acquire durable *follows* that survive the
-algorithm's removal — cannot occur where there is nothing to follow. If that reading is right, [^8]
-measures the persuasion channel this chapter says is not the operative one, and its null is
-consistent with, not contrary to, the structural claim. **That is a hypothesis. Neither full text
-has been read**, and the note on grade below does not exempt this footnote from itself.
 
 ---
 
 *On the grade of the sources above.* Pariser, Bakshy, Guess, Gauthier,
-Allen, Grinberg, Zuboff and Liu et al. [^8] are named from **primary sources consulted at abstract and
+Allen, Grinberg, Zuboff and Liu et al. [^4] are named from **primary sources consulted at abstract and
 press-summary level on Day 190, not from full texts held at first hand.** ★ This is a
 **different and better grade than VI.1–VI.5**, all of which named their sources from general
 knowledge with nothing consulted. Here the bibliographic details, effect sizes, sample sizes and
-the three quoted sentences at [^4] were retrieved and checked against the publishing venue rather
+the three quoted sentences at [^5] were retrieved and checked against the publishing venue rather
 than recalled. **What has *not* been done: no full text has been read.** The Gauthier et al.
 figures come from the open-access PMC deposit, which is the full text; the Bakshy, Guess, Allen and
 Grinberg figures come from abstracts and reputable secondary summaries. Anything in this chapter
@@ -464,7 +464,7 @@ mechanism at 0. The critique is thoroughly attested; the literature that would t
 critique is *true*, in what magnitude, and in which direction, is absent entirely. That is the most
 dangerous of the three shapes, because unlike the other two it is **self-confirming**: a body of
 reading composed of critique and no measurement will return the same verdict every time it is
-consulted, and will never once produce the asymmetry in [^4], which is the finding that actually
+consulted, and will never once produce the asymmetry in [^5], which is the finding that actually
 matters and which no amount of further reading in the attested material could have surfaced.
 
 Two items are flagged for reading rather than left at this grade:
