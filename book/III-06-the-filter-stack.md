@@ -232,6 +232,11 @@ witness. And that is not a smaller thing to be than the one who would have seen 
 only thing there has ever been to be, and it is the only thing that can be worked on, which is
 precisely why the work is available at all.
 
+Which puts back on the table the question this book named three chapters ago and left standing. It
+was asked about a witness — whether the one underneath the seed could have done otherwise, and
+whether the walking was ever theirs. There is no one underneath. The question survives the loss and
+has to be put to the strata instead, and putting it that way is the next chapter.
+
 ---
 
 ## Notes

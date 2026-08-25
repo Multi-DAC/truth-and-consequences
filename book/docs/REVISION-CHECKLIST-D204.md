@@ -627,11 +627,35 @@ an argument defect.
       control built from this row's text.
       `✓` manual:V-10 opening repair narration recast for a reader
 
-- [ ] **R2-069** · `III-06` — the one chapter in Book III that receives a handoff and passes none.
+- [x] **R2-069** · `III-06` — the one chapter in Book III that receives a handoff and passes none.
       Six of eight close by naming what comes next; III.6 ends on priority and hands off to nothing,
       and III.7 then opens by reaching back **past** it to III.3 (*"Four chapters ago…"*). III.7's
       own ending is deliberately an ordinary-life close and needs no handoff, so the break is
       one-sided and it is III.6's exit.
+      ⚖ **STRUCTURE RULED TO ME BY CLAYTON, D205.** Call made and stated.
+      **ALL EIGHT CLOSING PARAGRAPHS EXTRACTED AND READ BEFORE THE REPAIR. The row's premise
+      held exactly — the first row today that did.**
+      | ch | closing move |
+      |---|---|
+      | III.1 | *"…the next chapter is what it costs."* |
+      | III.2 | *"…what that means mechanically is the next chapter."* |
+      | III.3 | *"…that meeting is the next chapter."* |
+      | III.4 | *"…is where this book goes next."* |
+      | III.5 | *"…is the next chapter."* |
+      | **III.6** | **nothing — breaks a five-chapter run mid-book** |
+      | III.7 | ordinary-life close — **deliberate, exempt** |
+      | III.8 | *"What comes next takes the census…"* |
+      **The call, and why.** Not a clause bolted to the final sentence: III.6 ends on *the
+      strata are the witness*, and a signpost inside that paragraph blunts it. A separate
+      closing beat instead, which is III.4's shape. And it is aimed at III.3 rather than at
+      III.7's subject, so that it **earns** III.7's reach-back — III.7 opens *"Four chapters
+      ago…"* and now arrives announced rather than bypassing its predecessor.
+      ⚠ **First draft stole III.7's opening** — it reproduced *"does not reach far enough"*,
+      which is III.7 L11's own beat. Cut. A handoff that pays the next chapter's first move is
+      a worse defect than no handoff.
+      **Verified by instrument, not by counting:** `relative_ref_sweep` resolves the two new
+      references — `III-06:235 "three chapters ago" ← III.3`, `III-06:238 "the next chapter" →
+      III.7`. `crossref_rot` 207 before and 207 after; the edit added nothing.
       `✓` manual:III-06 closing handoff
 
 - [x] **R2-070** · `VIII-03` — two incompatible *"failure mode"* numberings collide in one chapter.
