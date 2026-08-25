@@ -567,7 +567,7 @@ an argument defect.
       80 innocent hits is all noise, and this measurement is the evidence for that.
       `✓` manual:Z-01 closing clause narrowed to the sense-scoped rule
 
-- [ ] **R2-065** · `VIII-07` §IV and §VII — the closing instruction of the book hands the reader the
+- [x] **R2-065** · `VIII-07` §IV and §VII — the closing instruction of the book hands the reader the
       wrong Book VII question and calls it the only one that works. Z.1 separates them cleanly:
       `through`/`over` is *"the cut the whole ethics turns on"*; `radiant`/`contractive` *"forbids
       reading contraction as culpable."* VII.4 rules it twice — *"contraction in itself is
@@ -579,7 +579,7 @@ an argument defect.
       civilian words. **What fails is the superlative**, and it is the last instruction in the book.
       `✓` absent:VIII-07:the only one that works here
 
-- [ ] **R2-066** · `VIII-07` §VI — **the Coherence Principle is restated without the half the book
+- [x] **R2-066** · `VIII-07` §VI — **the Coherence Principle is restated without the half the book
       kept a word for.** VIII.4 deferred the full statement here. Canonical wording: *"coherent
       multi-scale systems holding structural **superposition** until **informed measurement
       collapses** them."* `superposition` is banned in prose, so a restatement was required — and

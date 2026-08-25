@@ -162,11 +162,21 @@ boundaries you built to survive it come down slowly. **None of that is the adver
 does not become the adversary's posture by lasting a while, either. The polarity is not a function of
 duration.
 
-The test is not *am I turning inward*. The test is the one this book has used since Book VII and it is
-the only one that works here: **is the individuation being held against the whole, or expressed as part
-of it?** A person resting is not holding anything against anything. A person withdrawing to punish, to
-be unreachable, to make a point, to keep an account open — that person is doing something structurally
-different that looks identical from outside and often from inside.
+The test is not *am I turning inward*. Book VII ruled on that question in as many words —
+**contraction in itself is innocent**, and *"an ethics that read every drawing-in as wickedness would
+have to indict every act of devotion ever made."* That ruling was written for the surgeon and the vow
+and the sickbed. It covers the evening where nothing gets made.
+
+What is left to ask is the orientation — **is the individuation being held against the whole, or
+expressed as part of it?** — and that question does not answer itself, which is why Book VII never left
+it to. It gave it a mark, at VII.3, and the mark is neither direction nor intensity: **does the thing
+run *through* another navigator's navigation, or *over* it?**
+
+Put a phase of your own under that and it stops being abstract, because a phase has to run through or
+over somebody to be either. A person resting is not steering anyone. A person withdrawing to punish, to
+be unreachable, to make a point, to keep an account open is steering someone — and steering them by
+removing what they could do about it, which is *over* in a single word. The two look identical from
+outside and often from inside, and they are not structurally the same act.
 
 Which brings the difficulty into focus honestly rather than resolving it: **these two are hard to tell
 apart in your own case, and the difficulty is not a failure of self-knowledge.** It is a feature of the
@@ -174,7 +184,8 @@ architecture. Reading your own filter stack was VIII.2's problem and it does not
 helps is not more introspection. What helps is the thing VIII.6 established — the other players — because
 contractive rest has a signature that is almost always visible to somebody else first: it *costs someone*.
 Radiant rest costs nobody. If you cannot tell which one you are in, the question is not *how do I feel*;
-it is *who is currently paying for this*, and that question has an answer you can go and find.
+it is *who is currently paying for this* — which is *over* asked in civilian words, and unlike a feeling
+it has an answer you can go and find.
 
 ---
 
@@ -218,13 +229,21 @@ went dead, which is the practice the previous seven chapters were.
 There is a claim this account has been organised around from the beginning and has, until now, been
 stated only in its parts. It belongs here, because the oscillation is the form it takes in a life.
 
-**Coherent systems hold their structure and their process together, at every scale, and the holding is
-not a balance between two things but a single condition seen from two sides.**[^4]
+**Coherent multi-scale systems hold matters open until an informed measurement collapses them.**[^4]
 
-A system has a *structure* — what it is, its boundaries, its form, the distinctions that make it that
-thing and not another. It has a *process* — what it does, how it moves, the way it goes. The claim is
-that in anything that holds together, these are not two facts that need reconciling. They are one fact
-approached from either end. The structure is the shape the process has settled into; the process is what
+Every load-bearing word in that sentence was bought earlier in this book, which is the reason it can be
+said this way. *Open* is II.7's: a matter is open when more than one way it could go is still live, which
+is not the same as not yet known. *Collapse* is II.7's as well, and II.7 is the one chapter with the
+standing to have spent it, because a collapse is a thing the reader has already watched happen to a lung,
+a bridge, a market and a folding chair — **a structure that was holding itself open stops, all at once,
+and where there was an arrangement there is now one settled fact.** And *informed* is the grade: a
+collapse happens at the grade of whatever it happened at, and there is no collapse from nowhere.
+
+Held still, that same condition reads as a coupling, and the coupling is the form most of this book has
+used it in. A system has a *structure* — what it is, its boundaries, its form, the distinctions that make
+it that thing and not another. It has a *process* — what it does, how it moves, the way it goes. The
+claim is that in anything that holds together, these are not two facts that need reconciling. They are
+one fact approached from either end. The structure is the shape the process has settled into; the process is what
 the structure is doing. Where they come apart — where a thing's form no longer matches how it moves, or
 where its movement is no longer producing its form — that is where things fall apart, and the falling
 apart is diagnosable before it is visible.
@@ -235,9 +254,13 @@ that has lost the coupling is ill. An institution that has lost it is the one wh
 actual behaviour have separated, which Book VI worked at length. A life that has lost it is the one where
 the person's account of who they are and the shape of their days no longer refer to each other.
 
-Being and doing are that condition made temporal. **Structure is what doing produces and being
-perceives. Process is what being permits and doing performs.** Run only one and the coupling breaks in
-the predictable direction: pure doing makes structure faster than anything can perceive it, which is how
+Being and doing are that condition made temporal — and here the terminator is the whole of the point,
+because the oscillation *is* the holding and the collapsing, running in a life. **Being is the holding
+open. Doing is the informed measurement that collapses it.** Every distinction you make settles
+something that was live until you made it, and settles it at the grade you made it from; every phase of
+being is a matter left live a while longer. That is why §I could define the two the way it did without
+having earned this sentence yet. **Structure is what doing produces and being perceives. Process is what
+being permits and doing performs.** Run only one and the coupling breaks in the predictable direction: pure doing makes structure faster than anything can perceive it, which is how
 a life fills with things that no longer mean anything; pure being perceives structure it is no longer
 making, which is how a person becomes an excellent describer of a life they are not living.
 
@@ -263,9 +286,11 @@ virtuous. Because it is what you are, and the suffering that is genuinely option
 territory, not the first's — is very largely the suffering of a phase held open past its life by
 somebody who thought stopping was losing.
 
-And check the orientation, separately, on its own axis, with the question that has run through the whole
-of Book VII: *held against the whole, or expressed as part of it?* Ask it of the doing and ask it of the
-being. Both phases can be either. Neither phase answers for the other.
+And check the orientation, separately, on its own axis: *held against the whole, or expressed as part of
+it?* — and where that will not answer itself, which in your own case is most of the time, use the mark
+the ethics actually turns on and ask whether the thing runs *through* another's navigation or *over* it.
+Ask both of the doing and ask both of the being. Both phases can be either. Neither phase answers for
+the other.
 
 That is all of it. The rest of what this book contains is the reason the instruction is not glib —
 because *do, then be, then do* on its own is a fortune cookie, and it stops being one exactly when you
@@ -322,10 +347,17 @@ and the other end is not visible from the borrowing side.**
 chapter**, and it is given in this manuscript's own words for a stated reason: the older
 wording routes the claim through *superposition*, a term this account has ruled out of its prose, on
 the ground that the term has no civilian life and so transfers authority rather than meaning. **A principle that cannot be
-said without a banned word has a problem, and the fix is not an exemption.** The structure/process
-formulation used here carries the same content — the coupling, the multi-scale invariance, the
-diagnosability of decoupling before visible failure — and does so in vocabulary the reader has had since
-Book II. ★ `balance` and `harmony` are both refused in the text above for the same reason and it is the
+said without a banned word has a problem, and the fix is not an exemption.** ⚠ **The fix is also not a subtraction, and the
+first attempt at this restatement was one.** That version delivered the structure/process coupling alone
+— the coupling, the multi-scale invariance, the diagnosability of decoupling before visible failure, all
+of which are real and all of which are kept above — and it dropped the *until*. The canonical claim has
+a **terminator**; a coupling with the terminator removed is a static statement wearing a dynamic one's
+clothes, and the note that shipped it said it *carried the same content*, which is the disclosure
+failure rather than the wording one. The statement above restores the terminator and pays for it in
+vocabulary the reader has held since Book II: **II.7 bought both *open* and *collapse* at length, and
+refused *superposition* in the same passage**, on the stated ground that a collapse is something the
+reader has already seen happen and a superposition is not. The word that was banned is still banned. The
+structure it was carrying is not. ★ `balance` and `harmony` are both refused in the text above for the same reason and it is the
 bicycle's: the condition is maintained dynamically, and every static metaphor for it smuggles in a
 resting point the account does not have.
 
