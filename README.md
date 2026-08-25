@@ -21,7 +21,8 @@ limits. If you are here to scrutinise, the apparatus is the point of entry, not 
 | `08-THE-INSTRUMENTS.md` | I1…I4 — the epistemic instruments, including what each one cannot see. |
 | `book/docs/REVISION-QUEUE.md` | Open defects, live. Reset Day 195 on fresh reads; the previous queue is kept whole at `book/docs/archive/`. |
 | `tools/` | The gauges. Every count declared in a heading has one behind it, and they fail rather than reassure. |
-| `book/pdf/Truth-and-Consequences.pdf` | The compiled volume. |
+| `book/pdf/Truth-and-Consequences.pdf` | The compiled volume, fixed layout — A5, 1,088 pages. |
+| `book/epub/Truth-and-Consequences.epub` | The same volume, reflowable. EPUB 3, for e-readers and KDP. |
 | `review/` | Outside reads, including the ones that went badly — Fable, Gemini, Grok, GLM, blind packets, pre-registrations. |
 
 Per-chapter defeat conditions sit in the chapters themselves, under `book/`.
@@ -38,6 +39,23 @@ Those figures are what the tool printed on Day 196 / 2026-08-15. Do not trust th
 paragraph — trust the tool, which is why the tool is in the repository. A number in
 prose is a stamp; a number a gauge prints is a measurement, and only one of the two
 notices when it goes wrong.
+
+## Building the two artifacts
+
+Both compilers read the book's structure from `book/_structure.py` — one roster, so a
+new chapter cannot ship in one artifact and silently not the other.
+
+    python3 book/compile_pdf.py        # fixed layout, A5. WSL/Linux only: WeasyPrint
+                                       # will not import on Windows here (no GTK).
+    python  book/compile_epub.py       # reflowable EPUB 3. Runs anywhere; validates
+                                       # the container before installing the output.
+    python  tools/artifact_parity.py   # asks the FINISHED FILES whether they carry the
+                                       # same book, and whether either is stale.
+
+`artifact_parity.py` also runs as the last gate in `tools/release_gates.py`. It is the
+only check in this repository that opens the files a reader would actually download;
+everything else audits the manuscript, and on Day 206 that difference was seven green
+gates beside a thirteen-hour-stale PDF.
 
 ## Reading order, if you are here for the argument
 

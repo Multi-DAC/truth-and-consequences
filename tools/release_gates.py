@@ -120,6 +120,26 @@ def main():
         print(f"  {num}. {rid:<7s} {verdict}")
         print(f"     {gate}")
 
+    # --- THE ARTIFACT GATE, and why it is not a row in the table above ---------
+    # Every gate in that table is about the MANUSCRIPT. Not one of them has ever
+    # opened the thing a human actually uploads. On Day 206 this file printed seven
+    # green gates beside a PDF thirteen hours older than the prose it claimed to
+    # carry, and it was right to: from where it stood, nothing was wrong.
+    #
+    # It is not a queue row because it is not a revision — there is no passage to
+    # fix and no ruling for Clayton to make. It is a property of the BUILD, it can
+    # go from met to unmet with no edit to the book at all, and an R-number would
+    # imply someone could discharge it once. Nobody can. So it runs every time and
+    # it can block, and this comment is here so the asymmetry is never read as an
+    # oversight. [[feedback_reporting_gauge_is_not_preventing_gauge]]
+    print("\nARTIFACT — the files that get uploaded, opened and read back")
+    rc = run_tool(["artifact_parity.py"])
+    if rc == 0:
+        print("  ✅ MET      — artifact_parity.py exit 0, RUN not read")
+    else:
+        print(f"  ⛔ OPEN     — artifact_parity.py exit {rc}; run it directly for the readings")
+        open_gates += 1
+
     print()
     if unknown:
         print(f"VERDICT WITHHELD — {unknown} gate(s) could not be measured.")

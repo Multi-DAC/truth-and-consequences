@@ -4,3 +4,8 @@
 __pycache__/
 *.pyc
 corpora/tmp/
+
+# EPUB build scratch — never commit a half-written or rejected container
+book/epub/*.building
+book/epub/*.rejected
+book/epub/_mutant.epub

@@ -3,156 +3,48 @@
 
 Excludes supporting documentation (draft logs, revision queues, rosters,
 cross-reference acknowledgements). Output goes to book/pdf/.
+
+⚠ The part roster, the file globs and the banner-stripping rules used to live in
+this file. They moved to `_structure.py` on Day 206, when the EPUB was built and
+a second copy of them would have been the obvious thing to write. Two rosters is
+how a new Book ships in one artifact and silently not the other. This file now
+owns only the PRESENTATION — page size, fonts, print CSS.
 """
 import os
-import re
 import pathlib
-import glob
-import markdown
+
 from weasyprint import HTML, CSS as WeasyCSS
 from weasyprint.text.fonts import FontConfiguration
 
-HERE = os.path.dirname(os.path.abspath(__file__))
+import _structure
+from _structure import HERE
+
 OUT_DIR = os.path.join(HERE, "pdf")
 os.makedirs(OUT_DIR, exist_ok=True)
 
-# --- Book structure: (roman numeral, part title, filename prefix) -----------
-PARTS = [
-    ("I",    "THE STILL",               "I"),
-    ("II",   "THE NAMING",              "II"),
-    ("III",  "THE GAME",                "III"),
-    ("IV",   "THE ATLAS",               "IV"),
-    ("V",    "THE OLD ROADS",           "V"),
-    ("VI",   "THE HISTORY OF ATTENTION","VI"),
-    ("VII",  "THE CONSEQUENCES",        "VII"),
-    ("VIII", "THE PRACTICE",            "VIII"),
-]
-CODA = ("THE LIVING BOOK", "C")
-
-md = markdown.Markdown(extensions=["extra", "footnotes", "sane_lists", "smarty"],
-                       extension_configs={"smarty": {"smart_dashes": False}})
-
-
-def files_for(prefix):
-    """Return chapter files for a part prefix, in numeric order."""
-    pat = re.compile(rf"^{re.escape(prefix)}-(\d+)-.*\.md$")
-    matched = []
-    for f in os.listdir(HERE):
-        m = pat.match(f)
-        if m:
-            matched.append((int(m.group(1)), f))
-    return [f for _, f in sorted(matched)]
-
-
-def chapter_title(path):
-    """Pull the '## X.Y — TITLE' heading text from a chapter file."""
-    for line in open(path, encoding="utf-8"):
-        s = line.strip()
-        if s.startswith("## "):
-            return s[3:].strip()
-    return os.path.basename(path)
-
-
-def render_chapter(path):
-    """Convert one chapter file to an HTML fragment, dropping the book banner."""
-    text = open(path, encoding="utf-8").read()
-    lines = text.splitlines()
-    # Drop the leading "# BOOK ... — TITLE" banner (repeated on every chapter file)
-    # and any manual "## Notes" heading — a uniform one is generated via CSS before
-    # each chapter's footnote block, so only ~25 of 62 files carrying it by hand
-    # would otherwise be inconsistent with the rest.
-    lines = [ln for ln in lines
-             if not ln.lstrip().startswith("# BOOK")
-             and not ln.lstrip().startswith("# BACK MATTER")
-             and not re.match(r"#{1,4}\s+Notes\s*$", ln.strip())]
-    text = "\n".join(lines).strip()
-    # `[[feedback_*]]` tags were flowing as ordinary prose, so the justifier
-    # hyphenated them at line breaks. Mark them as code so the hyphens:none rule
-    # above reaches them; the brackets go, since they are wiki syntax and mean
-    # nothing to a reader of the printed page. (R-227's mechanical half.)
-    text = re.sub(r"\[\[([A-Za-z0-9_\-]+)\]\]", r'<code class="tag">\1</code>', text)
-    md.reset()
-    return md.convert(text)
-
+# The works-cited page is regenerated BEFORE the Z-* glob inside iter_document(),
+# or the artifact carries the stale page the generator just fixed. Aborts on a
+# non-zero exit. [[feedback_delegated_step_has_no_trigger]]
+_structure.regenerate_bibliography()
 
 # --- Assemble the document --------------------------------------------------
 toc_entries = []   # (level, label, anchor)
 body_parts = []
 chap_counter = 0
 
-for roman, title, prefix in PARTS:
-    part_anchor = f"book-{roman}"
-    toc_entries.append(("part", f"BOOK {roman} — {title}", part_anchor))
-    body_parts.append(
-        f'<section class="part" id="{part_anchor}">'
-        f'<div class="part-kicker">BOOK {roman}</div>'
-        f'<h1 class="part-title">{title}</h1></section>'
-    )
-    for path in files_for(prefix):
+for entry in _structure.iter_document():
+    toc_entries.append((entry["kind"], entry["label"], entry["anchor"]))
+    if entry["kind"] == "part":
+        body_parts.append(
+            f'<section class="part" id="{entry["anchor"]}">'
+            f'<div class="part-kicker">{entry["kicker"]}</div>'
+            f'<h1 class="part-title">{entry["title"]}</h1></section>'
+        )
+    else:
         chap_counter += 1
-        anchor = f"ch-{os.path.splitext(os.path.basename(path))[0]}"
-        ctitle = chapter_title(os.path.join(HERE, path))
-        toc_entries.append(("chapter", ctitle, anchor))
-        html = render_chapter(os.path.join(HERE, path))
-        body_parts.append(f'<section class="chapter" id="{anchor}">{html}</section>')
-
-# Coda
-coda_title, coda_prefix = CODA
-toc_entries.append(("part", f"CODA — {coda_title}", "coda"))
-body_parts.append(
-    f'<section class="part" id="coda">'
-    f'<div class="part-kicker">CODA</div>'
-    f'<h1 class="part-title">{coda_title}</h1></section>'
-)
-for path in files_for(coda_prefix):
-    anchor = f"ch-{os.path.splitext(os.path.basename(path))[0]}"
-    ctitle = chapter_title(os.path.join(HERE, path))
-    toc_entries.append(("chapter", ctitle, anchor))
-    html = render_chapter(os.path.join(HERE, path))
-    body_parts.append(f'<section class="chapter" id="{anchor}">{html}</section>')
-
-# ⚠ THE GENERATED PAGE IS REGENERATED HERE, added Day 205 under R2-074.
-# `tools/bibliography.py` had no caller anywhere in the repo. This loop globs Z-*
-# and renders whatever markdown is on disk, so the works-cited page shipped current
-# only when a human remembered — and nobody had since Day 195. A generator with no
-# trigger is a hand-typed page with extra steps, which is the exact object Z.2's own
-# header condemns. Ten days of drift is what R2-053 was.
-# It runs BEFORE the glob below, or the PDF would carry the stale page it just fixed.
-# A non-zero exit ABORTS the compile: a build that renders a page it knows is wrong
-# is worse than one that refuses. [[feedback_delegated_step_has_no_trigger]]
-_bib = os.path.join(os.path.dirname(HERE), "tools", "bibliography.py")
-if os.path.exists(_bib):
-    import subprocess
-    import sys as _sys
-    _r = subprocess.run([_sys.executable, _bib], capture_output=True, text=True,
-                        encoding="utf-8", errors="replace")
-    if _r.returncode != 0:
-        raise SystemExit(f"⛔ bibliography.py exit {_r.returncode} — refusing to "
-                         f"compile over a page it could not regenerate.\n{_r.stderr}")
-    print(f"  regenerated works-cited: {_r.stdout.strip().splitlines()[-1] if _r.stdout.strip() else 'ok'}")
-else:
-    raise SystemExit("⛔ tools/bibliography.py is missing. The works-cited page has no "
-                     "generator, so the PDF would ship a hand-typed stamp. Refusing.")
-
-# Back matter (Z-*) — glossary and works cited, added Day 195 under ruling 180.
-# ⚠ These are the two of R-222's three artifacts that got BUILT. The index is
-# refused with a reason recorded in `00`; see ruling 180. If a Z-* file is added
-# and this loop does not pick it up, the artifact ships nowhere and nothing says
-# so — which is why the loop is a glob and not a list of filenames.
-back_matter = files_for("Z")
-if back_matter:
-    toc_entries.append(("part", "BACK MATTER", "back-matter"))
-    body_parts.append(
-        '<section class="part" id="back-matter">'
-        '<div class="part-kicker">BACK MATTER</div>'
-        '<h1 class="part-title">THE APPARATUS</h1></section>'
-    )
-    for path in back_matter:
-        anchor = f"ch-{os.path.splitext(os.path.basename(path))[0]}"
-        ctitle = chapter_title(os.path.join(HERE, path))
-        toc_entries.append(("chapter", ctitle, anchor))
-        html = render_chapter(os.path.join(HERE, path))
-        body_parts.append(f'<section class="chapter" id="{anchor}">{html}</section>')
+        body_parts.append(
+            f'<section class="chapter" id="{entry["anchor"]}">{entry["html"]}</section>'
+        )
 
 # --- Table of contents ------------------------------------------------------
 toc_html = ['<section class="toc"><h1>Contents</h1>']
@@ -316,4 +208,8 @@ HTML(string=document, base_url=HERE).write_pdf(
 )
 size = os.path.getsize(out_path)
 print(f"Wrote {out_path} ({size/1024/1024:.2f} MB)")
-print(f"Chapters compiled: {chap_counter} + coda")
+# Counts every rendered chapter — parts, coda and back matter alike. The old line
+# read "N + coda" off a counter that only incremented inside the PARTS loop, so it
+# undercounted by the coda and back-matter chapters it claimed to be adding.
+print(f"Chapters compiled: {chap_counter} across {len(_structure.PARTS)} parts, "
+      f"coda and back matter")
