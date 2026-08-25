@@ -269,16 +269,13 @@ does the harm in the world says something much smaller and much harder to answer
 
 ### Where the asymmetry actually lives
 
-He does not slip it. The last chapter is where that was shown, at length, and this chapter does not
-argue it again — it names what that argument found.
+He does not slip it. The last chapter closed both his roads; this chapter says where the closure
+actually bites, and that is not where the last chapter left it.
 
-The last chapter's answer was that his road forks and both forks close. He can **exempt himself** —
-bind others to reciprocity while holding himself outside it — but an exemption is a claim to a
-privileged standpoint, a place from which he counts and others do not, and the null-space result is
-exactly the proof that no position holds such a place. Or he can **refuse the exemption** and be
-consistent, willing that overriding is permitted for all, himself included — which is coherent to say
-and purchases nothing he wanted, licensing the world to override him and delivering not mastery but
-the dimensionless point, the loop's corpse reached from the other side.[^7]
+The last chapter's answer was that his road forks and both forks close: exempt himself, and he claims
+the privileged standpoint the null-space result forbids; refuse the exemption and be consistent, and
+he licenses the world to override him in turn, which delivers not mastery but the dimensionless
+point, the loop's corpse reached from the other side.[^7]
 
 That argument was made there to answer a challenge about agency. Here is what it also establishes,
 and this is the thing the asymmetry is actually claiming:
@@ -486,11 +483,15 @@ totality; nothing is not mine* fails identically for the expansive terminal and 
 This chapter treats that result as a constraint on its own claim rather than as support for it, which
 is the correct direction: a result that convicts both ends cannot be what distinguishes them.
 
-[^7]: VII.3, the two forks. The exemption argument is made in full there, in answer to the challenge
-that a being with every capacity of an agent might decline the commitments. It is named here rather
-than repeated, because what this chapter adds is not the argument but its location — that the fork
-which answers the challenge is also the seat of the asymmetry, which is a thing that chapter was not
-holding the claim to say.
+[^7]: VII.3, "The first limit," where the fork is set out in full, in answer to the challenge that a
+being with every capacity of an agent might decline the commitments. It is recapped here rather than
+repeated, because what this chapter adds is not the argument but its seat — that the fork which
+answers the challenge is also where the asymmetry lives, which is a thing that chapter was not
+holding the claim to say. Note also the figure this does *not* reach. VII.3's second limit concedes
+the sophisticated egoist, who claims an index rather than an exemption and grants every other
+aperture the identical claim from its own; he performs no exemption, nothing here convicts him, and
+that concession stands unamended. What the seat convicts is the man who withholds from another the
+standing he takes for himself — a different man, and the one who does the harm.
 
 [^8]: Established here. The claim carries two seats and the second is the operative one: the
 asymmetry lives in the exemption an action performs, not in a doctrine professed. Every earlier

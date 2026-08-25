@@ -282,7 +282,15 @@ notice the overclaim, and would deserve everything it got if it stopped now.
 
 It secures the norm's **validity**. It does not secure its **grip**.
 
-The coercer who follows the fork all the way, sees the incoherence, and shrugs — *yes, I am being
+Press the coercer and his road forks, because there are only two ways to hold what he is holding. He
+can **exempt himself** — bind others to the floor while standing outside it — and an exemption is a
+claim to a privileged standpoint, a place from which he counts and others do not, which is the
+totality claim step five has already closed. Or he can **refuse the exemption** and be consistent,
+willing that overriding is permitted for all, himself included — which is perfectly coherent to say
+and purchases nothing he wanted, since it licenses the world to override him in turn. Both branches
+take from him the thing he was reaching for, which was to be the exception.
+
+The coercer who follows that fork all the way, sees the incoherence, and shrugs — *yes, I am being
 inconsistent, and I still do not care* — is not refuted. Inconsistency is a sanction only for one who
 values coherence, and no argument reaches beneath a will that has declined to.
 
