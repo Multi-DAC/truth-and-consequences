@@ -435,6 +435,13 @@ by argument rather than from the text in hand; primary check owed at the retrofi
 grip, and impartiality as a wagered premise rather than a derived one. Neither limit is loosened
 here. The care-and-capture diagnostic is inherited, stated first
 for teaching and for coercive control; the grade-difference application is this chapter's extension of
-it, and it inherits rather than re-argues the *through*/*over* distinction. Evan Stark on coercive
-control, and the Hassan and Lifton material on group capture, arrive with the diagnostic
-and are used in this manuscript at VII.3 and VII.4; they are not re-sourced here.
+it, and it inherits rather than re-argues the *through*/*over* distinction. Its sources are Evan
+Stark, *Coercive Control: How Men Entrap Women in Personal Life* (Oxford University Press, 2007), for
+whom abuse is a sustained pattern of liberty-denying control rather than a series of assaults; Robert
+Jay Lifton, *Thought Reform and the Psychology of Totalism* (Norton, 1961), whose eight criteria —
+milieu control, the demand for purity, the cult of confession and the dispensing of existence among
+them — describe an environment engineered to hold shut the exit it entered by; and Steven Hassan,
+*Combatting Cult Mind Control* (Park Street Press, 1988), whose BITE inventory sorts that engineering
+into behaviour, information, thought and emotion. What this book takes from the three is one
+structural point rather than their clinical findings: each is a catalogue of ways to make leaving
+unthinkable, which is the *over* of VII.3 executed slowly and with the subject's apparent consent.

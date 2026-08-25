@@ -401,8 +401,8 @@ object; meaning that cannot be mistaken has only a holder. And the reader's own 
 experience of having been mistaken, which is a piece of first-person evidence he already possesses
 and which is not compatible with the account he has been trying to live under.
 
-That is the completion Clayton's amendment asked for. **Make your own meaning** is not refuted. It
-is finished: you author the traversal, and the traversal is over terrain that is not yours and can
+That is the completion **make your own meaning** was owed. The slogan is not refuted. It is
+finished: you author the traversal, and the traversal is over terrain that is not yours and can
 prove you wrong. The authoring is real, and it is authoring *of a path*, not authoring *of the
 country*.
 

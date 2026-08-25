@@ -176,6 +176,25 @@ be mapped, even though they cannot be directly observed.* The restriction has a 
 stable, and a stable shape has consequences that recur. **Recurrence is detectable from inside.** That
 is the opening, and it is the only one.
 
+Four symptoms of null-space influence, then, and they are worth having in front of you because the
+rest of this chapter turns out to be about them:
+
+> **One.** *Persistent patterns without apparent cause.* Something keeps happening that your account
+> of why things happen does not predict, and the account does not improve when you attend to it.
+>
+> **Two.** *Emotional responses disproportionate to visible triggers.* The reaction is real and its
+> stated occasion will not carry it. The disproportion is the whole of the observation.
+>
+> **Three.** *Errors with a direction.* Not that you are sometimes wrong — everyone is sometimes
+> wrong, and that is noise. That your wrongness has a **sign**: you miss the same way, and the miss
+> does not average out over time.
+>
+> **Four.** *Effort that does not move the thing it is aimed at.* You do what your model says should
+> work, competently, more than once, and the situation is where it was.
+
+Every one of them is something that happens to you rather than something you conclude, which is why
+they are called symptoms, and it is also why they are easy to file and hard to use.
+
 ---
 
 ### IV. What you can do instead — and where the standard method breaks
@@ -225,12 +244,16 @@ arithmetic about the visible things keeps coming out wrong, in the same directio
 does not shrink when you check the arithmetic.
 
 And it was already here, filed one section early and under the wrong heading. **The four
-symptoms of null-space influence given above are four residuals**, described as symptoms and therefore as things
-that happen to you rather than as things you compute. *Persistent patterns without apparent cause* is
-a residual — you have a model of why things happen and this keeps happening anyway. *Emotional
-responses disproportionate to visible triggers* is a residual, and the word *disproportionate* is
-doing the subtraction. **The instrument was already here. It sits in the symptoms above, one
-subsection before the methods are counted at three, and it is not among them.**
+symptoms of null-space influence given above are four residuals**, described as symptoms — as things
+that happen to you — rather than as things you compute. *Persistent patterns without apparent cause*
+is a residual: you hold a model of why things happen and this happens anyway. *Emotional responses
+disproportionate to visible triggers* is a residual, and the word *disproportionate* is doing the
+subtraction. *Effort that does not move the thing it is aimed at* is a residual with its prediction
+said out loud. And the third is not merely a residual but the criterion itself — **an error with a
+sign is precisely what a residual looks like when there is something there**, which is why the
+astronomers in Section VI are in this chapter at all. **The instrument was already here. It sits in
+the symptoms above, one subsection before the methods are counted at three, and it is not among
+them.**
 
 ---
 
