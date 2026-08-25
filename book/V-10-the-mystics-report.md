@@ -24,11 +24,13 @@ never read a word of the other three: *Here the spirit dies, and yet is all aliv
 the Godhead … and is lost in the stillness of the glorious dazzling obscurity and of the naked simple
 unity. It is in this modeless* where *that the highest bliss is to be found.*[^4]
 
-**Four passages, and four of the gaps in them were closed on the way here.** They are open again
-now, and the marks are James's, restored. That correction is not decoration: the argument this
-chapter is about to make turns on how much a report loses in transmission, and a chapter that
-smoothed its own four transmissions while counting everyone else's would have been the strongest
-possible evidence for its own thesis and no use at all as an argument for it.
+**Read the breaks in those four passages as part of the text.** Where a line trails off into a mark,
+that is where the man who set these four side by side broke it off; nothing here has been quietly
+closed up to make them read more alike than they do. That matters more than a typographical scruple
+usually would, because the argument this chapter is about to make turns on how much a report loses at
+every hand it passes through — and it is about to count what these four lost. A chapter that had
+smoothed its own transmissions while auditing everyone else's would have been the strongest possible
+evidence for its own thesis and no use at all as an argument for it.
 
 That is a striking page and it is not mine. It is William James's, in the mysticism
 lectures he gave at Edinburgh in 1901 and 1902[^5], and he set those four passages in that order,

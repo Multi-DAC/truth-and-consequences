@@ -598,12 +598,33 @@ an argument defect.
       (`null=0`, partial). Probably deliberate; flagged so it is a decision rather than an omission.
       `✓` ruling:Clayton — deliberate or restore
 
-- [ ] **R2-068** · `V-10` L27–28, p.564 — the chapter narrates its own repair in body prose in its
+- [x] **R2-068** · `V-10` L27–28, p.564 — the chapter narrates its own repair in body prose in its
       fourth paragraph: *"Four passages, and four of the gaps in them were closed on the way here.
       They are open again now, and the marks are James's, restored."* A reader has no idea what was
       closed, by whom, or when. **The sentence is doing real work** — the chapter's argument is
       about what a report loses in transmission and it is right that it must not smooth its own —
       but the work is being done in the maintainer's register.
+      **PREMISE RE-MEASURED BEFORE THE REPAIR, and it survived.** The sentence's count was
+      checked against the commit that made it (`b75bb0f`, Day 195): *"four closed ellipses
+      reopened, one had been replaced by a COMMA."* Four is right, and the five ellipses now
+      standing in the passages are not a contradiction — one was never closed. **No count
+      defect here.** The register was the whole of it.
+      **Recast:** the body now tells the reader the reader's fact — the breaks are the
+      anthologist's and nothing was quietly closed up — without naming James six lines before
+      the chapter reveals him, and the archaeology stays where ruling 177 put it, in `[^1]`–`[^4]`.
+      ⚠ **A GAUGE GAP, MEASURED WHILE CLOSING THIS ROW, AND IT IS THE FINDING.** This row's
+      original defect text was fed through `workshop_sweep` end to end. It scored **0**, on a
+      detector whose positive control catches 17 planted hits in the same run. DRAFTING is
+      keyed to NAMED artefacts — *Filed with R-*, *the revision queue*, *sixty-three drafted
+      chapters* — and cannot see maintenance narration that cites nothing: *"four of the gaps
+      in them were closed on the way here."* So `✅ DRAFTING 0` never meant what it looked like.
+      ⚠ **And the sweep's own caveat was bound to the branch that never needed it** — it
+      printed only when `total == 0`, so it vanished exactly when the tool was reporting
+      trouble. Hoisted to print unconditionally, now citing this measurement by name.
+      ⏳ **DEFERRED, STATED, NOT DONE:** a detector for *unnamed* maintenance narration. Real
+      design work — VIII.3 is a chapter about editing and 328k words legitimately discuss
+      revision, so this is a false-positive problem, not a regex. Morning job, with a positive
+      control built from this row's text.
       `✓` manual:V-10 opening repair narration recast for a reader
 
 - [ ] **R2-069** · `III-06` — the one chapter in Book III that receives a handoff and passes none.

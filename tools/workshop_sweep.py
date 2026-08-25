@@ -236,11 +236,22 @@ def main():
             if len(rows) > len(shown):
                 print(f"        … and {len(rows) - len(shown)} more (-v for all)")
     print()
+    # ⚠ THIS CAVEAT USED TO LIVE ON THE `total == 0` BRANCH ONLY, which meant it
+    # disappeared exactly when the sweep was reporting trouble — a reader shown
+    # "⛔ 1 FILEREF · ✅ DRAFTING 0" got no warning that the DRAFTING zero is a
+    # TOKEN zero. Hoisted Day 205 while closing R2-068, whose defect text was fed
+    # through this detector and scored **nothing**: *"Four passages, and four of the
+    # gaps in them were closed on the way here"* narrates the drafting with no file,
+    # no ID and no register named, so no class here can see it. The green is honest
+    # about what it screens and must say what it does not.
+    print("  ⚠ THIS IS A TOKEN GAUGE, AND ITS ZEROS ARE TOKEN ZEROS. A sentence that")
+    print("    narrates the drafting in plain English with no marker word is invisible")
+    print("    here — measured, not assumed: R2-068's body defect scored 0 against this")
+    print("    detector on Day 205. A ✅ means no NAMED artefact remains, not that the")
+    print("    book has stopped talking about its own making. Only a read settles that.")
+    print()
     if total == 0:
         print("WORKSHOP SWEEP: ✅ CLEAN — no marked workshop residue in any book file.")
-        print("  ⚠ This is a TOKEN gauge. A sentence that narrates the drafting in plain")
-        print("    English with no marker word is invisible here. Green ≠ the book has")
-        print("    stopped talking about its own making; only a read settles that.")
     else:
         print(f"WORKSHOP SWEEP: ⛔ {total} occurrence(s) across "
               f"{len({r[0] for v in hits.values() for r in v})} file(s).")
