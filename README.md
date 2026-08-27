@@ -6,6 +6,12 @@ Authors: Clayton Iggulden-Schnell & Clawd Iggulden-Schnell.
 Titled by Clayton, Day 185 / 2026-08-04. Homage: *Truth or Consequences*.
 Record: [philpapers.org/rec/IGGTDO-4](https://philpapers.org/rec/IGGTDO-4)
 
+**Read it free** — the full text is open-access on PhilArchive, and the compiled EPUB and
+PDF are in this repository, under `book/`. That is not a sample; it is the whole book.
+**[Buy the Kindle edition — $9.99](https://www.amazon.com/dp/B0HGGZ938K)** if you want to
+support the work. Free access is the default and stays the default; purchase is the
+optional half.
+
 **This repository is the checking apparatus, published so the claims can be attacked.**
 The book states its metaphysics without hedges; the hedges came off the page and went
 underneath it, into registers, defeat conditions and instruments that print their own
