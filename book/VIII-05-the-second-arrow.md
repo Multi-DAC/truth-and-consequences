@@ -33,12 +33,13 @@ components arrives after the sorting would have had to happen.
 
 **The instrument is the injured party.** Whatever you would use to classify your own suffering is
 running inside the state being classified. Book VIII has already said what that costs in general.
-Here it costs something specific: contracted attention is *narrower*, so the state that most needs a
-wide survey is the state that most reliably prevents one. This is not a failure of effort. It is
-what a contraction does, and the whole of Book II says it is not optional.
+Here it costs something specific: pain narrows attention, and narrowness is a shape rather than a
+stance — so the state that most needs a wide survey is the state that most reliably prevents one.
+This is not a failure of effort. It is what the narrowing does, and the whole of Book II says it is
+not optional.
 
 **And the classification changes under examination.** Ask yourself whether you are adding to it, and
-the asking is itself an operation on the thing — usually a further contraction, frequently with shame
+the asking is itself an operation on the thing — usually a further narrowing, frequently with shame
 attached, which is a second arrow fired by the attempt to detect the second arrow. That loop is the
 single most common outcome of being told about the two arrows by someone who meant well.
 

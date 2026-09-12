@@ -263,7 +263,7 @@ made in Book I and has never taken back:
 > **On this account the ground does not love. It cannot. Love is not fundamental — it is
 > conditional on limitation, and therefore local, late, and comparatively rare.**
 
-That will read as a demotion and it is the opposite. A love that was the substrate of everything
+That will read as a demotion and it is the opposite. A love that was simply what everything is made of
 would be a love nothing had to do; it would be weather. What the account gives instead is that love
 is an **achievement of finite beings**, available only where there are separate perspectives to
 have it between, which is to say available only after the focusing has done its work. It is one of

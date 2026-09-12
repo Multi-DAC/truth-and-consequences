@@ -48,7 +48,14 @@ definition; Korzybski one link upstream. **Forbids:** that anyone is outside one
 the felt rightness of going the way one goes — **the claim being that these are one thing met from
 its two sides.** **Forbids:** the demoted sense in which *coherent* is a property of accounts. Here
 it is a property of things. ⚠ This is the book's largest unargued claim and its own apparatus says
-so.
+so. ★ **What the two sides are, more exactly, since they are not the same kind of object:** the
+structural side is a quantity — how closely a thing holds to the way it is going, measured along
+whichever of its dimensions you measure it along — and the felt side is not a second measurement of
+that quantity but the identity claim itself, which is why no amount of measuring will settle it.
+⛔ **And a third quantity gets no word in this book at all:** how spread or how concentrated a
+thing's going is, which varies independently of whether its levels agree. It is real and it is
+measurable. **This book does not name it** — said rather than fixed, because the vocabulary is
+closed and a term first admitted in back matter is a term admitted without a chapter.
 
 **the Collapse** — *defined II.7.* The resolution of an open matter into one way it went. **Forbids:**
 that the quantum case is the source. The subatomic instance is an instance; ours is the general case.

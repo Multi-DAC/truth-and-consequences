@@ -239,6 +239,16 @@ a bridge, a market and a folding chair — **a structure that was holding itself
 and where there was an arrangement there is now one settled fact.** And *informed* is the grade: a
 collapse happens at the grade of whatever it happened at, and there is no collapse from nowhere.
 
+And it is a comparison, which is what keeps it from being a mood. **A system that holds its matters
+open until an informed measurement collapses them ends up nearer to where its own motion was tending
+than one that settles early, or never settles at all** — nearer by a measure this book already has:
+II.6's distance between where a thing is and where its own going is taking it, which is called
+*dissonance* when it is read from inside and is the same distance when it is read from outside.
+Settling early makes the measurement at a grade that had not arrived yet; never settling leaves the
+matter live past the point where keeping it live was doing anything, which is §V's dead phase at the
+size of a whole system. **That is the part of the sentence that can be wrong**, and it goes wrong the
+day somebody finds a thing that holds to its own going better by settling sooner.
+
 Held still, that same condition reads as a coupling, and the coupling is the form most of this book has
 used it in. A system has a *structure* — what it is, its boundaries, its form, the distinctions that make
 it that thing and not another. It has a *process* — what it does, how it moves, the way it goes. The
@@ -375,7 +385,19 @@ refused *superposition* in the same passage**, on the stated ground that a colla
 reader has already seen happen and a superposition is not. The word that was banned is still banned. The
 structure it was carrying is not. ★ `balance` and `harmony` are both refused in the text above for the same reason and it is the
 bicycle's: the condition is maintained dynamically, and every static metaphor for it smuggles in a
-resting point the account does not have.
+resting point the account does not have. ⚠ **The comparative clause in the text above is the testable
+half of this, and the apparatus that would test it is not in this book.** It exists: the same claim
+has a formal statement in the foundational volume *The Coherence Principle*, at §9.1, where *nearer*
+is made exact as the divergence between the path a system actually took and the path its own bias
+implies, across a stated interval, for two systems set on one space. **That is the operational and
+test form; the sentence above is the canonical prose one**, and the split between them is the
+ordinary one between a principle and the law by which it is checked. ⛔ **Two things are owed with
+it.** The formal side does not fix a single divergence — which one is right is settled by the shape
+of the space being compared on, and that choice has to be declared for a comparison to mean
+anything. And the volume is unpublished, so this is a pointer **a reader cannot presently go and
+follow** — said plainly, because the book's own gate on self-citation is that an invoked thing must
+be written here in full and carry its weight on the page where it appears. ★ **It is. The sentence
+above is made in the text and does not rest on this note**, which is a locus and not a warrant.
 
 [^6]: **The culmination, the ongoing oscillation — closing sentence taken
 entire.** ⛔⛔ **The severance is deliberate and the surrounding text was read before the image was taken.**
