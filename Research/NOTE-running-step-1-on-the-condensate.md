@@ -34,6 +34,15 @@ written on the wrong side of it.
 the DAG failing to reach the metaphysics, but the physics supplying a criterion the metaphysics is
 missing.
 
+**§7, written an hour later, runs the criterion.** The measurement exists — Zhang, Pokharel,
+Levenson-Falk & Lidar, *Phys. Rev. Applied* **17**, 054018 (2022) — and it says a superconducting
+qubit is **decisively non-Markovian**, which is the opposite of what §5 expects. It does not rescue
+A3.4, because the memory turns out to live in the *neighbours*: the measured degree varies eightfold
+with the state of four spectator qubits and nothing else. So the history-dependence is a fact about
+the environment, which **A3.2's immune-response clause forbids** — and the two-horned dilemma below
+becomes a three-horned one with a number on every horn. Read §4 and §5 as written, then §7 as what
+happened when they were tested.
+
 ---
 
 ## 1. The instrument, read before use
@@ -250,7 +259,8 @@ That is not a refutation of the metaphysics. It is the first **joint**: a metaph
 physical measurement that quantify over the same property of the same object, such that the
 measurement could come out either way and the clause would be settled by it.
 
-**Owed, and explicitly not done here:** the literature on measured non-Markovianity in superconducting
+**Owed, and explicitly not done here — SETTLED WITHIN THE HOUR; see §7, and the answer is not the
+one this section expects.** the literature on measured non-Markovianity in superconducting
 circuits. The arXiv search tool returned empty on every query in this session, and a citation supplied
 from memory is a bare constant wearing a label, so none is given. What is wanted is a measured
 non-Markovianity for a transmon or a Josephson junction — dephasing under 1/f noise is the channel most
@@ -267,6 +277,7 @@ stated, not closed.
 | Can it be exhibited as (σ, ContentOp(σ), γ)? | **σ yes, cleanly. ContentOp yes, at or below the reactive landmark. γ no** — its generator is fixed, which A3.4 forbids. |
 | Is the condensate question therefore closed? | **No — it is undecidable in the volume's current text**, because the component that fails does so against a clause the volume cannot hold together with its own universality clause. |
 | What would decide it? | A3.4 restated as history-dependence, then measured. §5. |
+| And when it *was* measured? | **Non-Markovian, 53σ — but environmentally, via spectator-qubit crosstalk.** So A3.4 is satisfied only by importing what A3.2 forbids. §7. |
 
 And the verdict on the instrument, which is what this run was really for:
 
@@ -284,7 +295,105 @@ evaluate. The transplant discipline's own warning — *"Every strip-test verdict
 own author. That is consistency, not robustness"* — now has two worked instances and a method for
 generating more.
 
-**Owed:** A3.4's restatement as a proposal, not just a diagnosis. The non-Markovianity literature. The
+**Owed:** A3.4's restatement as a proposal, not just a diagnosis. ~~The non-Markovianity literature.~~
+(Found; §7.) The
 same run on a second DAG object that is *not* a condensate, to see whether the γ failure is general to
 physical systems or specific to closed ones — `gw.hulse_taylor_decay`'s binary pulsar is the natural
 second, being dissipative and historied in a way a junction is not.
+
+---
+
+## 7. The owed measurement, found the same hour — and it answers the other way
+
+*Added after §6 was written. §5 declared the non-Markovianity literature owed and unverified because
+the arXiv search tool returned empty on every query. It returned empty because I was asking the wrong
+index: **OpenAlex answers the same query immediately**, and so the "owed" item was a tooling artefact,
+not an absence. That is the *grep before claiming an absence* rule in its third form — a search that failed
+is not a literature that is silent, and I should have tried a second backend before writing the
+sentence.*
+
+**The paper.** Haimeng Zhang, Bibek Pokharel, Eli Levenson-Falk, Daniel A. Lidar, *Predicting
+Non-Markovian Superconducting-Qubit Dynamics from Tomographic Reconstruction*, **Phys. Rev. Applied
+17, 054018 (2022)**, arXiv:2111.07051. PDF on disk at `proofs/papers/2111.07051.pdf`. **Read: the
+abstract, §I, §III.C, Table III and the conclusion. Not the whole paper** — the fitting methodology
+and appendices were not read, and nothing below depends on them.
+
+**The measure is the one the repair needs.** They adopt the Breuer–Laine–Piilo trace-distance
+measure: σ(t, ρ₁, ρ₂) ≡ d/dt D(Φ_t ρ₁(0), Φ_t ρ₂(0)), with
+
+> N(Φ) ≡ max over ρ₁,₂ of ∫_{σ>0} σ dt
+
+Under Markovian dynamics the trace distance is monotonically decreasing; **any revival of
+distinguishability is memory.** That is exactly "the generator is a functional of the trajectory, not
+a function of the instant," made into a number you can integrate. The repair proposed in §5 is not a
+coinage; it is a standing experimental quantity.
+
+**The numbers.** Free evolution of one transmon on an IBM Quantum Experience processor, initial pair
+|+⟩ and |−⟩, tomography over ~90 µs, N tabulated against the state the **four spectator qubits** were
+left in:
+
+| spectator state | N_exp |
+|---|---|
+| \|0⟩^⊗4 | **1.06 ± 0.02** |
+| \|1⟩^⊗4 | 0.18 ± 0.03 |
+| \|+⟩^⊗4 | 0.13 ± 0.02 |
+
+**So the answer is: non-Markovian, decisively — 53σ from zero in the first row.** A superconducting
+qubit is *not* memoryless. My §5 expected the opposite, on the grounds that the DAG parametrizes the
+same hardware by a relaxation *rate*. That expectation was wrong, and the reason it was wrong is
+instructive: T₁ is what the Markovian model *fits*, not what the device *does*. A rate cap is a
+property of the parametrization, and I read it as a property of the object. The DAG's usage is not
+thereby wrong — for bounding an energy-loss channel it is the right and conservative model — but it
+cannot be cited as evidence that the dynamics have no memory. **That inference is retracted.**
+
+### 7a. Except it lands on the horn §4 already named, and this is the real result
+
+Read the table again. **N varies by a factor of eight with nothing changed about the measured qubit** —
+only the state its neighbours were left in. The paper attributes the effect accordingly: the
+non-Markovianity is *"coherent, e.g., due to unintentional crosstalk with neighboring qubits, or
+incoherent, e.g., due to coupling to magnetic impurities"*, and the fitted Hamiltonian carries *"a
+residual longitudinal field due to the crosstalk with the neighboring qubits."*
+
+The memory is **in the environment's configuration.** It is not a property of the stream's own
+internal structure; it is a property of what is nearby, and it can be turned down by an order of
+magnitude by preparing the neighbours differently.
+
+Which is precisely the objection §4 raised against the openness steelman and answered in the
+abstract:
+
+> A real junction is open, so its effective generator is not frozen — but that makes γ a fact about
+> the environment, which **A3.2's immune-response clause forbids** (γ acts only on S's F₂-internal
+> structure, not on X).
+
+**That is no longer a hypothetical.** The measurement exists, it was made on the closest device in
+the DAG to the object under test, and it says the history-dependence is environmental. So the repaired
+A3.4 is decidable, was decided, and **the verdict is: the condensate has memory, and the memory is not
+its own.** Under A3.2 that is not γ_S. Under a reading of A3.4 that permits it, γ_S becomes a fact
+about a stream's surroundings, and the immune-response clause goes instead.
+
+**The dilemma of §4 is therefore not resolved by the measurement — it is sharpened into a three-way
+one, with A3.2 as the third leg**, and every leg now has an experimental number attached rather than a
+thought experiment. That is a better position to be in than the one §5 hoped for, because a framework
+can be told which clause to drop by an instrument, which is the whole point of having a DAG.
+
+### 7b. Referent discipline, since this repository has spent a week on exactly this
+
+The device measured is an **IBM transmon**, not Minotti & Modanese's 143 µA Nb/AlOx junction. The DAG
+already carries a transmon (`em.transmon_t1_jin2015`) and already knows the two devices have different
+ξ, different N, and different physics — *a bound and the value it excludes must be properties of the
+same object.* So: **this result is about transmons.** Whether a bare Nb/AlOx junction with no
+neighbouring qubits shows trace-distance revival is not measured here and is not to be assumed from
+here. If anything the crosstalk attribution suggests it would show *less*, which would put a lone
+junction back on the Markovian side and reopen everything above — which is a prediction, and a
+cheap one for anyone with the apparatus.
+
+**Caveat the paper states itself and I am repeating rather than burying:** N is *not normalized*, so
+absolute magnitudes are hard to interpret. What is robust is (i) non-zero versus zero, which is the
+qualitative verdict, and (ii) the *ordering across spectator states within one device and one
+protocol*, which is a controlled comparison and is what carries the environmental attribution.
+
+**Owed, downgraded from "find the literature" to "write the node":** `em.transmon_non_markovianity`,
+carrying the BLP definition, the three N values with their spectator states, the crosstalk
+attribution, and an edge to `em.transmon_bounds_scalar_channel` recording that a rate parametrization
+is not evidence of memorylessness. That edge is an **answerability** edge, not a support edge — which
+is round 52's open schema problem arriving from a third direction.
