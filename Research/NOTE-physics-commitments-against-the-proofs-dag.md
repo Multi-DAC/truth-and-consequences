@@ -506,3 +506,111 @@ without reading A2.1's own prose, which names a rock and an electron as streams.
 would have caught it is the check §4a and §4b are about — read what the source's own worked examples
 range over. Caught by running §10 Step 1, which §6 had listed as owed. The correction is recorded in
 place, with a warning at §4c so no reader reaches the wrong claim without it.
+
+---
+
+## 8. Addendum — 2026-09-20, Day 232: the owed list re-measured seven days on, and the joint decided
+
+*Sunday drive. §6 left five owed items. An owed list is a claim about the artefact, so each one was
+re-measured against the artefact rather than read back out of this note. The instrument is named
+beside each.*
+
+### 8a. The five, measured
+
+| § | Owed | Status today | Instrument |
+|---|---|---|---|
+| 4f.1 | §10 Step 1 on the condensate, or a recorded refusal | **DISCHARGED**, same day | §7 addendum, `NOTE-running-step-1-on-the-condensate.md` |
+| 6 | The three-referent finding into the corpus docket as F6's first target | **PARTIAL** — the finding is present in three Corpus-Perspectival files; that it is docketed *as F6's target* is not established by this grep | `grep -rl 'C_sep|three different referents'` |
+| 5 | The Fubini–Study joint as a node or a refusal | **DECIDED THIS ROUND — refused.** See 8b | `grep -ci fubini physics/nodes.toml` → 0; `quantum geometric tensor` → 0; `berry|geometric phase` → 3 |
+| 6 | A `decided_by` edge type in the physics DAG (round 52's proposal) | **NOT DONE.** Zero occurrences in `nodes.toml` or `render.py` | `grep -c decided_by` → 0, 0 |
+| 6 | The `superposition` retirement carried corpus-wide | **NOT DONE, and nothing repaired in seven days.** 96 `.md` files across the repositories still carry the retired wording; the most recently modified carrier is *this note*, 2026-09-13 | `grep -rl 'structural superposition' --include='*.md'` |
+
+**One number in that table is NOT a measurement and is marked so.** §6 said eighty-two files; today's
+count is ninety-six. I have not verified that the two counts share a domain — the earlier one may
+have excluded a repository or used a different pattern — so **the delta is not evidence of growth**
+and is not reported as such. What the file dates *do* establish is the part that matters: no carrier
+has been touched since 2026-09-13, so the retirement has not advanced.
+
+**The context these five sat in.** Over the same seven days the physics DAG went from `reach: 19 of
+183 claims` and 22 gates (both first measurable 2026-09-15/16) to **269 nodes, 65 gates, `reach: 70
+of 231`**, through rounds up to 112. The numerator grew faster than the denominator, so the DAG's own
+ratchets are not a treadmill. **The seam between the book and the DAG received none of it.** That is
+the finding of this addendum and it is a fact about allocation, not about quality.
+
+### 8b. The Fubini–Study joint: refused, and the refusal is sharper than the opening was
+
+§5 asked whether D(S) for a quantum stream reduces to a geometric-phase quantity on the object
+`em.aharonov_bohm` quantifies over, under two conditions. Condition two settles it, and settles it
+against the joint.
+
+D(S) integrates a **distance**, the symmetric part g of the quantum geometric tensor. The
+Aharonov–Bohm phase is a **holonomy**, the antisymmetric part F. These are the real and imaginary
+parts of one object, Q = g + iF/2, and Q is positive semidefinite. Taking the two-parameter block and
+requiring its determinant non-negative gives, in two lines,
+
+  |F| <= 2 sqrt(g g) pointwise.
+
+So the two are **not independent, and not identical**: the metric *bounds* the accumulable curvature.
+A reduction of D(S) *to* a geometric phase is false, exactly as §5 suspected. What survives is a
+one-way inequality.
+
+**And the inequality is why the joint is refused rather than pursued.** The pointwise form is
+elementary from positive semidefiniteness and is derived here, not credited. **Its integrated
+consequence is published and standard**, and the attribution was checked this round rather than
+recalled: Peotta & Törmä, *Superfluidity in topologically nontrivial flat bands*, arXiv:1506.02815,
+Nat. Commun. 6:8944 (2015), whose abstract states that the Brillouin-zone integral of the quantum
+metric gives the flat-band superfluid weight **"with the bound D_s >= |C|"** — the metric bounding a
+curvature invariant, which is the integrated form of the inequality above. Peotta, Huhtinen & Törmä,
+arXiv:2308.08248 (2023), review the same result as "a topological bound of flat band
+superconductivity."
+
+*Stated exactly, because the two are not the same statement:* what is derived here is the pointwise
+bound; what is verified in the literature is its BZ-integrated consequence in a specific physical
+setting. I have read the abstracts, not the bodies, so "the pointwise form appears in these papers"
+is **not** claimed.
+
+That settles the refusal rather than softening it. A metaphysics whose metric commitment "predicts"
+a bound published in 2015 and reviewed in 2023 is importing a known result, and a test that cannot
+come out any other way cannot discriminate. That is the ceremony of one, one storey up.
+
+**The condition that would have had content is condition one**, and it is untouched: for the two to
+be the same geometry, sigma-star — the gamma-implied trajectory — would have to be realisable as an
+actual quantum evolution, i.e. the gamma-drift would have to be a Hamiltonian flow. Nothing in the
+volume establishes it and nothing in this round does either.
+
+**Decision: no node, no refusal-node — the firewall forbids both, and correctly.** The joint is closed
+in this note, in the book's working papers, where the metaphysics is allowed to be argued. What
+replaces "OPEN" at §5 is: *not an identity; an inequality that cannot discriminate; and one
+unestablished condition that could, named.*
+
+### 8c. The omission this exposed, which is the reason the addendum was worth writing
+
+At 02:40 on 2026-09-20 Clayton asked for the whole synthesis — explicitly including *where the bridges
+are* between "holonomy and holography and topography and the underlying geometry of reality, and
+metaphysics and philosophy." The answer is `clawd/Research/the-connection-is-the-only-field-2026-09-20.md`,
+312 lines, ten sections, every claim tagged [DAG] / [READ] / [MINE].
+
+**It contains zero occurrences of `fubini`, `quantum geometric`, or `D(S)`.** Its §VII, "the
+metaphysical join", states the join qualitatively — plenum, chart, connection, render, closure
+invariant — and states it well. But the one place the two artefacts could have been made to quantify
+over the *same geometry*, written down seven days earlier in this file with two sharp conditions
+attached, is not in it.
+
+This is not the rediscovery failure; §IV's hypermomentum-and-dislocations bridge is a different and
+better-grounded join, and it is genuinely new work. **It is the omission failure, which is quieter:**
+a synthesis that answers the question well from the material in front of it, while the sharper prior
+statement of one of its own sections sits in a neighbouring repository, uncited. The instrument that
+would have caught it is the one already recorded — *finish the artefact, then search memory* — and it
+was not run against the book's own Research directory, only against my memory store.
+
+**Owed after this addendum:**
+
+- ~~A citation for the QGT positive-semidefiniteness bound~~ — **DISCHARGED in this same addendum**,
+  Peotta & Törmä 2015. The refusal at 8b stands and is stronger for it. What remains open is only
+  whether the *pointwise* form is also in print, which does not affect the decision.
+- `decided_by` in the physics DAG. Round 52 proposed it; eight weeks and sixty rounds later the
+  obstruction relation still has nowhere to live, and this note's §6.2 — *neither artefact can
+  currently constrain the other, and both say so in writing* — remains true for that reason alone.
+- The `superposition` retirement, corpus-wide or abandoned in writing. It is currently neither, and
+  has been neither for seven days.
+- The F6 docketing of the three-referent finding, checked rather than assumed.
